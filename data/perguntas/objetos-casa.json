@@ -1,0 +1,5885 @@
+{
+  "tema": "objetos-casa",
+  "nome": "Casa e Objetos",
+  "perguntas": [
+    {
+      "id": "obj-utensilios-cozinha",
+      "texto": "Cite um utensílio de cozinha",
+      "dificuldade": "facil",
+      "tags": [
+        "cozinha",
+        "utensílios"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Utens%C3%ADlio_de_cozinha",
+      "respostas": [
+        {
+          "id": "panela",
+          "canonica": "Panela",
+          "aceitas": [],
+          "traducoes": {
+            "es": [
+              "Olla"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "frigideira",
+          "canonica": "Frigideira",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Frying pan"
+            ],
+            "es": [
+              "Sartén"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "faca",
+          "canonica": "Faca",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Knife"
+            ],
+            "es": [
+              "Cuchillo"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "garfo",
+          "canonica": "Garfo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Fork"
+            ],
+            "es": [
+              "Tenedor"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "colher",
+          "canonica": "Colher",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Spoon"
+            ],
+            "es": [
+              "Cuchara"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "prato",
+          "canonica": "Prato",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Plate"
+            ],
+            "es": [
+              "Plato"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "copo",
+          "canonica": "Copo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Glass"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "xicara",
+          "canonica": "Xícara",
+          "aceitas": [
+            "Chávena"
+          ],
+          "traducoes": {
+            "en": [
+              "Cup",
+              "Mug"
+            ],
+            "es": [
+              "Taza"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "concha",
+          "canonica": "Concha",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Ladle"
+            ],
+            "es": [
+              "Cucharón"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "escumadeira",
+          "canonica": "Escumadeira",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Skimmer"
+            ],
+            "es": [
+              "Espumadera"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "panela-de-pressao",
+          "canonica": "Panela de pressão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Pressure cooker"
+            ],
+            "es": [
+              "Olla a presión"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "liquidificador",
+          "canonica": "Liquidificador",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Blender"
+            ],
+            "es": [
+              "Licuadora"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "abridor-de-latas",
+          "canonica": "Abridor de latas",
+          "aceitas": [
+            "Abridor"
+          ],
+          "traducoes": {
+            "en": [
+              "Can opener"
+            ],
+            "es": [
+              "Abrelatas"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "saca-rolhas",
+          "canonica": "Saca-rolhas",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Corkscrew"
+            ],
+            "es": [
+              "Sacacorchos"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "ralador",
+          "canonica": "Ralador",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Grater"
+            ],
+            "es": [
+              "Rallador"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "peneira",
+          "canonica": "Peneira",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Sieve"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "escorredor",
+          "canonica": "Escorredor",
+          "aceitas": [
+            "Escorredor de macarrão"
+          ],
+          "traducoes": {
+            "en": [
+              "Colander"
+            ],
+            "es": [
+              "Escurridor"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "tabua-de-corte",
+          "canonica": "Tábua de corte",
+          "aceitas": [
+            "Tábua"
+          ],
+          "traducoes": {
+            "en": [
+              "Cutting board"
+            ],
+            "es": [
+              "Tabla de cortar"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "rolo-de-massa",
+          "canonica": "Rolo de massa",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Rolling pin"
+            ],
+            "es": [
+              "Rodillo"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "espatula",
+          "canonica": "Espátula",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Spatula"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pegador",
+          "canonica": "Pegador",
+          "aceitas": [
+            "Pinça de cozinha"
+          ],
+          "traducoes": {
+            "en": [
+              "Tongs"
+            ],
+            "es": [
+              "Pinzas"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "batedor",
+          "canonica": "Batedor",
+          "aceitas": [
+            "Fouet",
+            "Batedor de ovos"
+          ],
+          "traducoes": {
+            "en": [
+              "Whisk"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "assadeira",
+          "canonica": "Assadeira",
+          "aceitas": [
+            "Forma"
+          ],
+          "traducoes": {
+            "en": [
+              "Baking pan"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cacarola",
+          "canonica": "Caçarola",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Casserole"
+            ],
+            "es": [
+              "Cacerola"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "leiteira",
+          "canonica": "Leiteira",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Milk pan"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "chaleira",
+          "canonica": "Chaleira",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Kettle"
+            ],
+            "es": [
+              "Tetera"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "bule",
+          "canonica": "Bule",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Teapot"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "garrafa-termica",
+          "canonica": "Garrafa térmica",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Thermos"
+            ],
+            "es": [
+              "Termo"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "jarra",
+          "canonica": "Jarra",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Pitcher",
+              "Jug"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "travessa",
+          "canonica": "Travessa",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Serving dish"
+            ],
+            "es": [
+              "Fuente"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tigela",
+          "canonica": "Tigela",
+          "aceitas": [
+            "Bowl",
+            "Cumbuca"
+          ],
+          "traducoes": {
+            "en": [
+              "Bowl"
+            ],
+            "es": [
+              "Tazón"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "pote",
+          "canonica": "Pote",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Container"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "saleiro",
+          "canonica": "Saleiro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Salt shaker"
+            ],
+            "es": [
+              "Salero"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "acucareiro",
+          "canonica": "Açucareiro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Sugar bowl"
+            ],
+            "es": [
+              "Azucarero"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "fruteira",
+          "canonica": "Fruteira",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Fruit bowl"
+            ],
+            "es": [
+              "Frutero"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "paliteiro",
+          "canonica": "Paliteiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "porta-guardanapo",
+          "canonica": "Porta-guardanapo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Napkin holder"
+            ],
+            "es": [
+              "Servilletero"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "guardanapo",
+          "canonica": "Guardanapo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Napkin"
+            ],
+            "es": [
+              "Servilleta"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "toalha-de-mesa",
+          "canonica": "Toalha de mesa",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Tablecloth"
+            ],
+            "es": [
+              "Mantel"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "pano-de-prato",
+          "canonica": "Pano de prato",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Dish towel"
+            ],
+            "es": [
+              "Paño de cocina"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "esponja",
+          "canonica": "Esponja",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Sponge"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "coador-de-cafe",
+          "canonica": "Coador de café",
+          "aceitas": [
+            "Coador"
+          ],
+          "traducoes": {
+            "en": [
+              "Coffee filter"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cafeteira",
+          "canonica": "Cafeteira",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Coffee maker"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "wok",
+          "canonica": "Wok",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "moedor",
+          "canonica": "Moedor",
+          "aceitas": [
+            "Moedor de pimenta"
+          ],
+          "traducoes": {
+            "en": [
+              "Grinder"
+            ],
+            "es": [
+              "Molinillo"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "pilao",
+          "canonica": "Pilão",
+          "aceitas": [
+            "Almofariz"
+          ],
+          "traducoes": {
+            "en": [
+              "Mortar and pestle"
+            ],
+            "es": [
+              "Mortero"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "espremedor",
+          "canonica": "Espremedor",
+          "aceitas": [
+            "Espremedor de alho",
+            "Espremedor de laranja"
+          ],
+          "traducoes": {
+            "en": [
+              "Squeezer",
+              "Press"
+            ],
+            "es": [
+              "Exprimidor"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "descascador",
+          "canonica": "Descascador",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Peeler"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "fatiador",
+          "canonica": "Fatiador",
+          "aceitas": [
+            "Mandolina"
+          ],
+          "traducoes": {
+            "en": [
+              "Slicer"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "funil",
+          "canonica": "Funil",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Funnel"
+            ],
+            "es": [
+              "Embudo"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "medidor",
+          "canonica": "Medidor",
+          "aceitas": [
+            "Copo medidor",
+            "Xícara medidora"
+          ],
+          "traducoes": {
+            "en": [
+              "Measuring cup"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "balanca-de-cozinha",
+          "canonica": "Balança de cozinha",
+          "aceitas": [
+            "Balança"
+          ],
+          "traducoes": {
+            "en": [
+              "Kitchen scale"
+            ],
+            "es": [
+              "Báscula"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "luva-termica",
+          "canonica": "Luva térmica",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Oven mitt"
+            ],
+            "es": [
+              "Manopla"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "descanso-de-panela",
+          "canonica": "Descanso de panela",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Trivet"
+            ],
+            "es": [
+              "Salvamanteles"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "cuscuzeira",
+          "canonica": "Cuscuzeira",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "sanduicheira",
+          "canonica": "Sanduicheira",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Sandwich maker"
+            ],
+            "es": [
+              "Sandwichera"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "forma-de-gelo",
+          "canonica": "Fôrma de gelo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Ice tray"
+            ],
+            "es": [
+              "Cubitera"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "cortador-de-pizza",
+          "canonica": "Cortador de pizza",
+          "aceitas": [
+            "Carretilha"
+          ],
+          "traducoes": {
+            "en": [
+              "Pizza cutter"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "martelo-de-carne",
+          "canonica": "Martelo de carne",
+          "aceitas": [
+            "Batedor de bife"
+          ],
+          "traducoes": {
+            "en": [
+              "Meat tenderizer"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "quebra-nozes",
+          "canonica": "Quebra-nozes",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Nutcracker"
+            ],
+            "es": [
+              "Cascanueces"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "panela-eletrica-de-arroz",
+          "canonica": "Panela elétrica de arroz",
+          "aceitas": [
+            "Panela de arroz"
+          ],
+          "traducoes": {
+            "en": [
+              "Rice cooker"
+            ],
+            "es": [
+              "Arrocera"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "mixer",
+          "canonica": "Mixer",
+          "aceitas": [
+            "Mixer de mão"
+          ],
+          "traducoes": {
+            "en": [
+              "Immersion blender"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "batedeira",
+          "canonica": "Batedeira",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Stand mixer"
+            ],
+            "es": [
+              "Batidora"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "pipoqueira",
+          "canonica": "Pipoqueira",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Popcorn maker"
+            ],
+            "es": [
+              "Palomera"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "garrafa",
+          "canonica": "Garrafa",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Bottle"
+            ],
+            "es": [
+              "Botella"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "bandeja",
+          "canonica": "Bandeja",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Tray"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "talher",
+          "canonica": "Talher",
+          "aceitas": [
+            "Talheres"
+          ],
+          "traducoes": {
+            "en": [
+              "Cutlery"
+            ],
+            "es": [
+              "Cubiertos"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "tampa",
+          "canonica": "Tampa",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Lid"
+            ],
+            "es": [
+              "Tapa"
+            ]
+          },
+          "raridadeInicial": "epico"
+        }
+      ]
+    },
+    {
+      "id": "obj-moveis",
+      "texto": "Cite um móvel",
+      "dificuldade": "facil",
+      "tags": [
+        "casa",
+        "móveis"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Mobili%C3%A1rio",
+      "respostas": [
+        {
+          "id": "cadeira",
+          "canonica": "Cadeira",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Chair"
+            ],
+            "es": [
+              "Silla"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "mesa",
+          "canonica": "Mesa",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Table"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "sofa",
+          "canonica": "Sofá",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Couch"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cama",
+          "canonica": "Cama",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Bed"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "guarda-roupa",
+          "canonica": "Guarda-roupa",
+          "aceitas": [
+            "Armário de roupas"
+          ],
+          "traducoes": {
+            "en": [
+              "Wardrobe"
+            ],
+            "es": [
+              "Ropero"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "armario",
+          "canonica": "Armário",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cupboard",
+              "Cabinet"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "estante",
+          "canonica": "Estante",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Bookcase",
+              "Bookshelf"
+            ],
+            "es": [
+              "Estantería"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "rack",
+          "canonica": "Rack",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "TV stand"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "poltrona",
+          "canonica": "Poltrona",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Armchair"
+            ],
+            "es": [
+              "Sillón"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "banco",
+          "canonica": "Banco",
+          "aceitas": [
+            "Banqueta"
+          ],
+          "traducoes": {
+            "en": [
+              "Bench"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "escrivaninha",
+          "canonica": "Escrivaninha",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Desk"
+            ],
+            "es": [
+              "Escritorio"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "comoda",
+          "canonica": "Cômoda",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Chest of drawers",
+              "Dresser"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "criado-mudo",
+          "canonica": "Criado-mudo",
+          "aceitas": [
+            "Mesa de cabeceira",
+            "Mesinha de cabeceira"
+          ],
+          "traducoes": {
+            "en": [
+              "Nightstand"
+            ],
+            "es": [
+              "Mesita de noche"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "prateleira",
+          "canonica": "Prateleira",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Shelf"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "penteadeira",
+          "canonica": "Penteadeira",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Vanity",
+              "Dressing table"
+            ],
+            "es": [
+              "Tocador"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "sapateira",
+          "canonica": "Sapateira",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Shoe rack"
+            ],
+            "es": [
+              "Zapatero"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "beliche",
+          "canonica": "Beliche",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Bunk bed"
+            ],
+            "es": [
+              "Litera"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "berco",
+          "canonica": "Berço",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Crib"
+            ],
+            "es": [
+              "Cuna"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "bicama",
+          "canonica": "Bicama",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Trundle bed"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "sofa-cama",
+          "canonica": "Sofá-cama",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Sofa bed"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "puff",
+          "canonica": "Puff",
+          "aceitas": [
+            "Pufe"
+          ],
+          "traducoes": {
+            "en": [
+              "Pouf",
+              "Ottoman"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "banquinho",
+          "canonica": "Banquinho",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Stool"
+            ],
+            "es": [
+              "Taburete"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "mesa-de-centro",
+          "canonica": "Mesa de centro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Coffee table"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "aparador",
+          "canonica": "Aparador",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Sideboard"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cristaleira",
+          "canonica": "Cristaleira",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "China cabinet"
+            ],
+            "es": [
+              "Vitrina"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "buffet",
+          "canonica": "Buffet",
+          "aceitas": [
+            "Bufê"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "bau",
+          "canonica": "Baú",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Chest",
+              "Trunk"
+            ],
+            "es": [
+              "Baúl"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cabideiro",
+          "canonica": "Cabideiro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Coat rack"
+            ],
+            "es": [
+              "Perchero"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "gaveteiro",
+          "canonica": "Gaveteiro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Drawer unit"
+            ],
+            "es": [
+              "Cajonera"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "balcao",
+          "canonica": "Balcão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Counter"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "cadeira-de-balanco",
+          "canonica": "Cadeira de balanço",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Rocking chair"
+            ],
+            "es": [
+              "Mecedora"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "espreguicadeira",
+          "canonica": "Espreguiçadeira",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Deck chair",
+              "Lounger"
+            ],
+            "es": [
+              "Tumbona"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "rede",
+          "canonica": "Rede",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Hammock"
+            ],
+            "es": [
+              "Hamaca"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "diva",
+          "canonica": "Divã",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Divan"
+            ],
+            "es": [
+              "Diván"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "chaise-longue",
+          "canonica": "Chaise longue",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "recamier",
+          "canonica": "Recamier",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "namoradeira",
+          "canonica": "Namoradeira",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Loveseat"
+            ],
+            "es": [
+              "Confidente"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "banco-de-jardim",
+          "canonica": "Banco de jardim",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Garden bench"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "cama-box",
+          "canonica": "Cama box",
+          "aceitas": [
+            "Box"
+          ],
+          "traducoes": {
+            "en": [
+              "Box spring"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "colchao",
+          "canonica": "Colchão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Mattress"
+            ],
+            "es": [
+              "Colchón"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cabeceira",
+          "canonica": "Cabeceira",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Headboard"
+            ],
+            "es": [
+              "Cabecero"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "mesa-de-jantar",
+          "canonica": "Mesa de jantar",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Dining table"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cadeira-de-escritorio",
+          "canonica": "Cadeira de escritório",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Office chair"
+            ],
+            "es": [
+              "Silla de oficina"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "arquivo",
+          "canonica": "Arquivo",
+          "aceitas": [
+            "Arquivo de aço"
+          ],
+          "traducoes": {
+            "en": [
+              "Filing cabinet"
+            ],
+            "es": [
+              "Archivador"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "nicho",
+          "canonica": "Nicho",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "biombo",
+          "canonica": "Biombo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Folding screen"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "cristaleira-de-canto",
+          "canonica": "Cristaleira de canto",
+          "aceitas": [
+            "Cantoneira"
+          ],
+          "traducoes": {
+            "en": [
+              "Corner cabinet"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "chapeleira",
+          "canonica": "Chapeleira",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Hat stand"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "carrinho-de-cha",
+          "canonica": "Carrinho de chá",
+          "aceitas": [
+            "Carrinho bar"
+          ],
+          "traducoes": {
+            "en": [
+              "Tea cart"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "bancada",
+          "canonica": "Bancada",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Workbench"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ilha-de-cozinha",
+          "canonica": "Ilha de cozinha",
+          "aceitas": [
+            "Ilha"
+          ],
+          "traducoes": {
+            "en": [
+              "Kitchen island"
+            ],
+            "es": [
+              "Isla"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "armario-de-cozinha",
+          "canonica": "Armário de cozinha",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Kitchen cabinet"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "cama-de-casal",
+          "canonica": "Cama de casal",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Double bed"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "futon",
+          "canonica": "Futon",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        }
+      ]
+    },
+    {
+      "id": "obj-eletrodomesticos",
+      "texto": "Cite um eletrodoméstico ou eletroeletrônico de casa",
+      "dificuldade": "facil",
+      "tags": [
+        "casa",
+        "eletrodomésticos"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Eletrodom%C3%A9stico",
+      "respostas": [
+        {
+          "id": "geladeira",
+          "canonica": "Geladeira",
+          "aceitas": [
+            "Refrigerador"
+          ],
+          "traducoes": {
+            "en": [
+              "Refrigerator",
+              "Fridge"
+            ],
+            "es": [
+              "Refrigerador",
+              "Nevera"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "fogao",
+          "canonica": "Fogão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Stove"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "micro-ondas",
+          "canonica": "Micro-ondas",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Microwave"
+            ],
+            "es": [
+              "Microondas"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "maquina-de-lavar",
+          "canonica": "Máquina de lavar",
+          "aceitas": [
+            "Lavadora",
+            "Máquina de lavar roupa"
+          ],
+          "traducoes": {
+            "en": [
+              "Washing machine"
+            ],
+            "es": [
+              "Lavadora"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "televisao",
+          "canonica": "Televisão",
+          "aceitas": [
+            "TV",
+            "Televisor"
+          ],
+          "traducoes": {
+            "en": [
+              "Television"
+            ],
+            "es": [
+              "Televisor"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "liquidificador",
+          "canonica": "Liquidificador",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Blender"
+            ],
+            "es": [
+              "Licuadora"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "ventilador",
+          "canonica": "Ventilador",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Fan"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "ar-condicionado",
+          "canonica": "Ar-condicionado",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Air conditioner"
+            ],
+            "es": [
+              "Aire acondicionado"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "ferro-de-passar",
+          "canonica": "Ferro de passar",
+          "aceitas": [
+            "Ferro"
+          ],
+          "traducoes": {
+            "en": [
+              "Iron"
+            ],
+            "es": [
+              "Plancha"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "aspirador-de-po",
+          "canonica": "Aspirador de pó",
+          "aceitas": [
+            "Aspirador"
+          ],
+          "traducoes": {
+            "en": [
+              "Vacuum cleaner"
+            ],
+            "es": [
+              "Aspiradora"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "secador-de-cabelo",
+          "canonica": "Secador de cabelo",
+          "aceitas": [
+            "Secador"
+          ],
+          "traducoes": {
+            "en": [
+              "Hair dryer"
+            ],
+            "es": [
+              "Secador de pelo"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "batedeira",
+          "canonica": "Batedeira",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Stand mixer"
+            ],
+            "es": [
+              "Batidora"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cafeteira",
+          "canonica": "Cafeteira",
+          "aceitas": [
+            "Cafeteira elétrica"
+          ],
+          "traducoes": {
+            "en": [
+              "Coffee maker"
+            ],
+            "es": [
+              "Cafetera"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "torradeira",
+          "canonica": "Torradeira",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Toaster"
+            ],
+            "es": [
+              "Tostadora"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "sanduicheira",
+          "canonica": "Sanduicheira",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Sandwich maker"
+            ],
+            "es": [
+              "Sandwichera"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "air-fryer",
+          "canonica": "Air fryer",
+          "aceitas": [
+            "Fritadeira elétrica",
+            "Fritadeira sem óleo"
+          ],
+          "traducoes": {
+            "es": [
+              "Freidora de aire"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "freezer",
+          "canonica": "Freezer",
+          "aceitas": [
+            "Congelador"
+          ],
+          "traducoes": {
+            "es": [
+              "Congelador"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "lava-loucas",
+          "canonica": "Lava-louças",
+          "aceitas": [
+            "Máquina de lavar louça"
+          ],
+          "traducoes": {
+            "en": [
+              "Dishwasher"
+            ],
+            "es": [
+              "Lavavajillas"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "forno-eletrico",
+          "canonica": "Forno elétrico",
+          "aceitas": [
+            "Forno"
+          ],
+          "traducoes": {
+            "en": [
+              "Electric oven"
+            ],
+            "es": [
+              "Horno eléctrico"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "secadora-de-roupas",
+          "canonica": "Secadora de roupas",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Clothes dryer"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "chuveiro-eletrico",
+          "canonica": "Chuveiro elétrico",
+          "aceitas": [
+            "Chuveiro"
+          ],
+          "traducoes": {
+            "en": [
+              "Electric shower"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "purificador-de-agua",
+          "canonica": "Purificador de água",
+          "aceitas": [
+            "Bebedouro",
+            "Filtro de água"
+          ],
+          "traducoes": {
+            "en": [
+              "Water purifier"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "panela-eletrica",
+          "canonica": "Panela elétrica",
+          "aceitas": [
+            "Panela elétrica de arroz"
+          ],
+          "traducoes": {
+            "en": [
+              "Rice cooker"
+            ],
+            "es": [
+              "Arrocera"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "chaleira-eletrica",
+          "canonica": "Chaleira elétrica",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Electric kettle"
+            ],
+            "es": [
+              "Hervidor"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "processador-de-alimentos",
+          "canonica": "Processador de alimentos",
+          "aceitas": [
+            "Processador"
+          ],
+          "traducoes": {
+            "en": [
+              "Food processor"
+            ],
+            "es": [
+              "Procesador de alimentos"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "mixer",
+          "canonica": "Mixer",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Immersion blender"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "espremedor-de-frutas",
+          "canonica": "Espremedor de frutas",
+          "aceitas": [
+            "Espremedor"
+          ],
+          "traducoes": {
+            "en": [
+              "Juicer"
+            ],
+            "es": [
+              "Exprimidor"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "centrifuga",
+          "canonica": "Centrífuga",
+          "aceitas": [
+            "Centrífuga de roupas"
+          ],
+          "traducoes": {
+            "en": [
+              "Spin dryer"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tanquinho",
+          "canonica": "Tanquinho",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "coifa",
+          "canonica": "Coifa",
+          "aceitas": [
+            "Depurador",
+            "Exaustor"
+          ],
+          "traducoes": {
+            "en": [
+              "Range hood"
+            ],
+            "es": [
+              "Campana"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cooktop",
+          "canonica": "Cooktop",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "aquecedor",
+          "canonica": "Aquecedor",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Heater"
+            ],
+            "es": [
+              "Calefactor"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "umidificador",
+          "canonica": "Umidificador",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Humidifier"
+            ],
+            "es": [
+              "Humidificador"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "desumidificador",
+          "canonica": "Desumidificador",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Dehumidifier"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "climatizador",
+          "canonica": "Climatizador",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Evaporative cooler"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "robo-aspirador",
+          "canonica": "Robô aspirador",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Robot vacuum"
+            ],
+            "es": [
+              "Robot aspirador"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ferro-a-vapor",
+          "canonica": "Ferro a vapor",
+          "aceitas": [
+            "Vaporizador de roupas"
+          ],
+          "traducoes": {
+            "en": [
+              "Steamer"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "chapinha",
+          "canonica": "Chapinha",
+          "aceitas": [
+            "Prancha alisadora"
+          ],
+          "traducoes": {
+            "en": [
+              "Hair straightener",
+              "Flat iron"
+            ],
+            "es": [
+              "Plancha de pelo"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "babyliss",
+          "canonica": "Babyliss",
+          "aceitas": [
+            "Modelador de cachos"
+          ],
+          "traducoes": {
+            "en": [
+              "Curling iron"
+            ],
+            "es": [
+              "Rizador"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "barbeador-eletrico",
+          "canonica": "Barbeador elétrico",
+          "aceitas": [
+            "Máquina de barbear"
+          ],
+          "traducoes": {
+            "en": [
+              "Electric shaver"
+            ],
+            "es": [
+              "Afeitadora"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "escova-de-dentes-eletrica",
+          "canonica": "Escova de dentes elétrica",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Electric toothbrush"
+            ],
+            "es": [
+              "Cepillo eléctrico"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "maquina-de-cortar-cabelo",
+          "canonica": "Máquina de cortar cabelo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Hair clipper"
+            ],
+            "es": [
+              "Cortadora de pelo"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "radio",
+          "canonica": "Rádio",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "som",
+          "canonica": "Som",
+          "aceitas": [
+            "Aparelho de som",
+            "Caixa de som"
+          ],
+          "traducoes": {
+            "en": [
+              "Speaker",
+              "Stereo"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "computador",
+          "canonica": "Computador",
+          "aceitas": [
+            "PC"
+          ],
+          "traducoes": {
+            "en": [
+              "Computer"
+            ],
+            "es": [
+              "Computadora",
+              "Ordenador"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "notebook",
+          "canonica": "Notebook",
+          "aceitas": [
+            "Laptop"
+          ],
+          "traducoes": {
+            "en": [
+              "Laptop"
+            ],
+            "es": [
+              "Portátil"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "celular",
+          "canonica": "Celular",
+          "aceitas": [
+            "Smartphone"
+          ],
+          "traducoes": {
+            "en": [
+              "Cell phone"
+            ],
+            "es": [
+              "Móvil"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "videogame",
+          "canonica": "Videogame",
+          "aceitas": [
+            "Console"
+          ],
+          "traducoes": {
+            "en": [
+              "Video game console"
+            ],
+            "es": [
+              "Videoconsola"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "impressora",
+          "canonica": "Impressora",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Printer"
+            ],
+            "es": [
+              "Impresora"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "roteador",
+          "canonica": "Roteador",
+          "aceitas": [
+            "Modem"
+          ],
+          "traducoes": {
+            "en": [
+              "Router"
+            ],
+            "es": [
+              "Enrutador"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "telefone-fixo",
+          "canonica": "Telefone fixo",
+          "aceitas": [
+            "Telefone"
+          ],
+          "traducoes": {
+            "en": [
+              "Landline"
+            ],
+            "es": [
+              "Teléfono fijo"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "dvd",
+          "canonica": "DVD",
+          "aceitas": [
+            "Aparelho de DVD"
+          ],
+          "traducoes": {
+            "en": [
+              "DVD player"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "videocassete",
+          "canonica": "Videocassete",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "VCR"
+            ],
+            "es": [
+              "Videocasetera"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "iogurteira",
+          "canonica": "Iogurteira",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Yogurt maker"
+            ],
+            "es": [
+              "Yogurtera"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "maquina-de-pao",
+          "canonica": "Máquina de pão",
+          "aceitas": [
+            "Panificadora"
+          ],
+          "traducoes": {
+            "en": [
+              "Bread maker"
+            ],
+            "es": [
+              "Panificadora"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "pipoqueira-eletrica",
+          "canonica": "Pipoqueira elétrica",
+          "aceitas": [
+            "Pipoqueira"
+          ],
+          "traducoes": {
+            "en": [
+              "Popcorn maker"
+            ],
+            "es": [
+              "Palomera"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "maquina-de-cafe-expresso",
+          "canonica": "Máquina de café expresso",
+          "aceitas": [
+            "Cafeteira expresso"
+          ],
+          "traducoes": {
+            "en": [
+              "Espresso machine"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "grill",
+          "canonica": "Grill",
+          "aceitas": [
+            "Grill elétrico"
+          ],
+          "traducoes": {
+            "en": [
+              "Electric grill"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "fritadeira-eletrica-com-oleo",
+          "canonica": "Fritadeira elétrica com óleo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Deep fryer"
+            ],
+            "es": [
+              "Freidora"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "adega-climatizada",
+          "canonica": "Adega climatizada",
+          "aceitas": [
+            "Adega"
+          ],
+          "traducoes": {
+            "en": [
+              "Wine cooler"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "frigobar",
+          "canonica": "Frigobar",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Minibar"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "abajur",
+          "canonica": "Abajur",
+          "aceitas": [
+            "Luminária"
+          ],
+          "traducoes": {
+            "en": [
+              "Lamp"
+            ],
+            "es": [
+              "Lámpara"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ventilador-de-teto",
+          "canonica": "Ventilador de teto",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Ceiling fan"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "purificador-de-ar",
+          "canonica": "Purificador de ar",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Air purifier"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "smart-speaker",
+          "canonica": "Smart speaker",
+          "aceitas": [
+            "Alexa"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        }
+      ]
+    },
+    {
+      "id": "obj-ferramentas",
+      "texto": "Cite uma ferramenta",
+      "dificuldade": "media",
+      "tags": [
+        "ferramentas",
+        "oficina"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Ferramenta",
+      "respostas": [
+        {
+          "id": "martelo",
+          "canonica": "Martelo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Hammer"
+            ],
+            "es": [
+              "Martillo"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "chave-de-fenda",
+          "canonica": "Chave de fenda",
+          "aceitas": [
+            "Chave de parafuso"
+          ],
+          "traducoes": {
+            "en": [
+              "Screwdriver"
+            ],
+            "es": [
+              "Destornillador"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "alicate",
+          "canonica": "Alicate",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Pliers"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "serrote",
+          "canonica": "Serrote",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Handsaw"
+            ],
+            "es": [
+              "Serrucho"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "furadeira",
+          "canonica": "Furadeira",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Drill"
+            ],
+            "es": [
+              "Taladro"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "chave-inglesa",
+          "canonica": "Chave inglesa",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Adjustable wrench",
+              "Wrench"
+            ],
+            "es": [
+              "Llave inglesa"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "trena",
+          "canonica": "Trena",
+          "aceitas": [
+            "Fita métrica"
+          ],
+          "traducoes": {
+            "en": [
+              "Tape measure"
+            ],
+            "es": [
+              "Cinta métrica"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "serra",
+          "canonica": "Serra",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Saw"
+            ],
+            "es": [
+              "Sierra"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "chave-de-boca",
+          "canonica": "Chave de boca",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Open-end wrench"
+            ],
+            "es": [
+              "Llave fija"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "chave-phillips",
+          "canonica": "Chave Phillips",
+          "aceitas": [
+            "Chave estrela"
+          ],
+          "traducoes": {
+            "en": [
+              "Phillips screwdriver"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "parafusadeira",
+          "canonica": "Parafusadeira",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cordless screwdriver"
+            ],
+            "es": [
+              "Atornillador"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "lixa",
+          "canonica": "Lixa",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Sandpaper"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "nivel",
+          "canonica": "Nível",
+          "aceitas": [
+            "Nível de bolha"
+          ],
+          "traducoes": {
+            "en": [
+              "Spirit level"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "esquadro",
+          "canonica": "Esquadro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Square"
+            ],
+            "es": [
+              "Escuadra"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pa",
+          "canonica": "Pá",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Shovel"
+            ],
+            "es": [
+              "Pala"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "enxada",
+          "canonica": "Enxada",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Hoe"
+            ],
+            "es": [
+              "Azada"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "picareta",
+          "canonica": "Picareta",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Pickaxe"
+            ],
+            "es": [
+              "Pico"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "machado",
+          "canonica": "Machado",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Axe"
+            ],
+            "es": [
+              "Hacha"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "foice",
+          "canonica": "Foice",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Sickle"
+            ],
+            "es": [
+              "Hoz"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "facao",
+          "canonica": "Facão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Machete"
+            ],
+            "es": [
+              "Machete"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "rastelo",
+          "canonica": "Rastelo",
+          "aceitas": [
+            "Ancinho"
+          ],
+          "traducoes": {
+            "en": [
+              "Rake"
+            ],
+            "es": [
+              "Rastrillo"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "tesoura-de-poda",
+          "canonica": "Tesoura de poda",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Pruning shears"
+            ],
+            "es": [
+              "Tijeras de podar"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "carrinho-de-mao",
+          "canonica": "Carrinho de mão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Wheelbarrow"
+            ],
+            "es": [
+              "Carretilla"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "escada",
+          "canonica": "Escada",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Ladder"
+            ],
+            "es": [
+              "Escalera"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "marreta",
+          "canonica": "Marreta",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Sledgehammer"
+            ],
+            "es": [
+              "Mazo"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "talhadeira",
+          "canonica": "Talhadeira",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cold chisel"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "formao",
+          "canonica": "Formão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Chisel"
+            ],
+            "es": [
+              "Formón"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "plaina",
+          "canonica": "Plaina",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Plane"
+            ],
+            "es": [
+              "Cepillo"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "lima",
+          "canonica": "Lima",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "File"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "grosa",
+          "canonica": "Grosa",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Rasp"
+            ],
+            "es": [
+              "Escofina"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "torno",
+          "canonica": "Torno",
+          "aceitas": [
+            "Torno de bancada"
+          ],
+          "traducoes": {
+            "en": [
+              "Vise",
+              "Vice"
+            ],
+            "es": [
+              "Tornillo de banco"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "grampo",
+          "canonica": "Grampo",
+          "aceitas": [
+            "Sargento"
+          ],
+          "traducoes": {
+            "en": [
+              "Clamp"
+            ],
+            "es": [
+              "Sargento"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "esmerilhadeira",
+          "canonica": "Esmerilhadeira",
+          "aceitas": [
+            "Lixadeira angular",
+            "Esmeril"
+          ],
+          "traducoes": {
+            "en": [
+              "Angle grinder"
+            ],
+            "es": [
+              "Amoladora"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "lixadeira",
+          "canonica": "Lixadeira",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Sander"
+            ],
+            "es": [
+              "Lijadora"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "serra-tico-tico",
+          "canonica": "Serra tico-tico",
+          "aceitas": [
+            "Tico-tico"
+          ],
+          "traducoes": {
+            "en": [
+              "Jigsaw"
+            ],
+            "es": [
+              "Sierra de calar"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "serra-circular",
+          "canonica": "Serra circular",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Circular saw"
+            ],
+            "es": [
+              "Sierra circular"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "motosserra",
+          "canonica": "Motosserra",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Chainsaw"
+            ],
+            "es": [
+              "Motosierra"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ferro-de-solda",
+          "canonica": "Ferro de solda",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Soldering iron"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "maquina-de-solda",
+          "canonica": "Máquina de solda",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Welder"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "pistola-de-cola-quente",
+          "canonica": "Pistola de cola quente",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Hot glue gun"
+            ],
+            "es": [
+              "Pistola de silicona"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "chave-allen",
+          "canonica": "Chave Allen",
+          "aceitas": [
+            "Chave hexagonal"
+          ],
+          "traducoes": {
+            "en": [
+              "Allen key"
+            ],
+            "es": [
+              "Llave Allen"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "chave-de-roda",
+          "canonica": "Chave de roda",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Lug wrench"
+            ],
+            "es": [
+              "Llave de cruz"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "macaco",
+          "canonica": "Macaco",
+          "aceitas": [
+            "Macaco hidráulico"
+          ],
+          "traducoes": {
+            "en": [
+              "Car jack",
+              "Jack"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "torques",
+          "canonica": "Torquês",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Pincers"
+            ],
+            "es": [
+              "Tenaza"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "pe-de-cabra",
+          "canonica": "Pé de cabra",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Crowbar"
+            ],
+            "es": [
+              "Palanca"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "prumo",
+          "canonica": "Prumo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Plumb bob"
+            ],
+            "es": [
+              "Plomada"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "colher-de-pedreiro",
+          "canonica": "Colher de pedreiro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Trowel"
+            ],
+            "es": [
+              "Paleta",
+              "Llana"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "desempenadeira",
+          "canonica": "Desempenadeira",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Float"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "broxa",
+          "canonica": "Broxa",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "pincel",
+          "canonica": "Pincel",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Paintbrush"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "rolo-de-pintura",
+          "canonica": "Rolo de pintura",
+          "aceitas": [
+            "Rolo"
+          ],
+          "traducoes": {
+            "en": [
+              "Paint roller"
+            ],
+            "es": [
+              "Rodillo"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "estilete",
+          "canonica": "Estilete",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Utility knife"
+            ],
+            "es": [
+              "Cúter"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "grampeador",
+          "canonica": "Grampeador",
+          "aceitas": [
+            "Grampeador de parede"
+          ],
+          "traducoes": {
+            "en": [
+              "Staple gun"
+            ],
+            "es": [
+              "Grapadora"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "multimetro",
+          "canonica": "Multímetro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Multimeter"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "paquimetro",
+          "canonica": "Paquímetro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Caliper"
+            ],
+            "es": [
+              "Calibre"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "compressor-de-ar",
+          "canonica": "Compressor de ar",
+          "aceitas": [
+            "Compressor"
+          ],
+          "traducoes": {
+            "en": [
+              "Air compressor"
+            ],
+            "es": [
+              "Compresor"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "lanterna",
+          "canonica": "Lanterna",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Flashlight"
+            ],
+            "es": [
+              "Linterna"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "cavadeira",
+          "canonica": "Cavadeira",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Post hole digger"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "garfo-de-jardim",
+          "canonica": "Garfo de jardim",
+          "aceitas": [
+            "Forcado"
+          ],
+          "traducoes": {
+            "en": [
+              "Pitchfork"
+            ],
+            "es": [
+              "Horca"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "regador",
+          "canonica": "Regador",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Watering can"
+            ],
+            "es": [
+              "Regadera"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "mangueira",
+          "canonica": "Mangueira",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Hose"
+            ],
+            "es": [
+              "Manguera"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "rocadeira",
+          "canonica": "Roçadeira",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Brush cutter"
+            ],
+            "es": [
+              "Desbrozadora"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "cortador-de-grama",
+          "canonica": "Cortador de grama",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Lawn mower"
+            ],
+            "es": [
+              "Cortacésped"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "bigorna",
+          "canonica": "Bigorna",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Anvil"
+            ],
+            "es": [
+              "Yunque"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "tesoura",
+          "canonica": "Tesoura",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Scissors"
+            ],
+            "es": [
+              "Tijeras"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "arco-de-serra",
+          "canonica": "Arco de serra",
+          "aceitas": [
+            "Serra de arco"
+          ],
+          "traducoes": {
+            "en": [
+              "Hacksaw"
+            ],
+            "es": [
+              "Sierra de arco"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "chave-de-grifo",
+          "canonica": "Chave de grifo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Pipe wrench"
+            ],
+            "es": [
+              "Llave Stillson"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "rebitador",
+          "canonica": "Rebitador",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Rivet gun"
+            ],
+            "es": [
+              "Remachadora"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "riscador",
+          "canonica": "Riscador",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Scriber"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "puncao",
+          "canonica": "Punção",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Punch"
+            ],
+            "es": [
+              "Punzón"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "trincha",
+          "canonica": "Trincha",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "espatula-de-pintor",
+          "canonica": "Espátula de pintor",
+          "aceitas": [
+            "Espátula"
+          ],
+          "traducoes": {
+            "en": [
+              "Putty knife"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "ventosa",
+          "canonica": "Ventosa",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Suction cup"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        }
+      ]
+    },
+    {
+      "id": "obj-comodos",
+      "texto": "Cite um cômodo ou espaço de uma casa",
+      "dificuldade": "facil",
+      "tags": [
+        "casa",
+        "cômodos"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/C%C3%B4modo",
+      "respostas": [
+        {
+          "id": "sala",
+          "canonica": "Sala",
+          "aceitas": [
+            "Sala de estar"
+          ],
+          "traducoes": {
+            "en": [
+              "Living room"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cozinha",
+          "canonica": "Cozinha",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Kitchen"
+            ],
+            "es": [
+              "Cocina"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "quarto",
+          "canonica": "Quarto",
+          "aceitas": [
+            "Dormitório"
+          ],
+          "traducoes": {
+            "en": [
+              "Bedroom"
+            ],
+            "es": [
+              "Dormitorio",
+              "Habitación"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "banheiro",
+          "canonica": "Banheiro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Bathroom"
+            ],
+            "es": [
+              "Baño"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "lavanderia",
+          "canonica": "Lavanderia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Laundry room"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "varanda",
+          "canonica": "Varanda",
+          "aceitas": [
+            "Sacada"
+          ],
+          "traducoes": {
+            "en": [
+              "Balcony"
+            ],
+            "es": [
+              "Balcón"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "garagem",
+          "canonica": "Garagem",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Garage"
+            ],
+            "es": [
+              "Garaje"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "quintal",
+          "canonica": "Quintal",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Backyard",
+              "Yard"
+            ],
+            "es": [
+              "Patio trasero"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "corredor",
+          "canonica": "Corredor",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Hallway",
+              "Corridor"
+            ],
+            "es": [
+              "Pasillo"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "area-de-servico",
+          "canonica": "Área de serviço",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Utility room"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "sala-de-jantar",
+          "canonica": "Sala de jantar",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Dining room"
+            ],
+            "es": [
+              "Comedor"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "escritorio",
+          "canonica": "Escritório",
+          "aceitas": [
+            "Home office"
+          ],
+          "traducoes": {
+            "en": [
+              "Office",
+              "Study"
+            ],
+            "es": [
+              "Despacho"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "sotao",
+          "canonica": "Sótão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Attic"
+            ],
+            "es": [
+              "Desván"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "porao",
+          "canonica": "Porão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Basement"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "closet",
+          "canonica": "Closet",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "despensa",
+          "canonica": "Despensa",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Pantry"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "hall-de-entrada",
+          "canonica": "Hall de entrada",
+          "aceitas": [
+            "Hall",
+            "Vestíbulo"
+          ],
+          "traducoes": {
+            "en": [
+              "Entrance hall"
+            ],
+            "es": [
+              "Recibidor"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "jardim",
+          "canonica": "Jardim",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Garden"
+            ],
+            "es": [
+              "Jardín"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "terraco",
+          "canonica": "Terraço",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Terrace"
+            ],
+            "es": [
+              "Terraza"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "lavabo",
+          "canonica": "Lavabo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Powder room"
+            ],
+            "es": [
+              "Aseo"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "suite",
+          "canonica": "Suíte",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "copa",
+          "canonica": "Copa",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "edicula",
+          "canonica": "Edícula",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "adega",
+          "canonica": "Adega",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Wine cellar"
+            ],
+            "es": [
+              "Bodega"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "biblioteca",
+          "canonica": "Biblioteca",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Library"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "home-theater",
+          "canonica": "Home theater",
+          "aceitas": [
+            "Sala de cinema",
+            "Sala de TV"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "academia",
+          "canonica": "Academia",
+          "aceitas": [
+            "Sala de ginástica"
+          ],
+          "traducoes": {
+            "en": [
+              "Home gym"
+            ],
+            "es": [
+              "Gimnasio"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "brinquedoteca",
+          "canonica": "Brinquedoteca",
+          "aceitas": [
+            "Sala de brinquedos"
+          ],
+          "traducoes": {
+            "en": [
+              "Playroom"
+            ],
+            "es": [
+              "Cuarto de juegos"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "churrasqueira",
+          "canonica": "Churrasqueira",
+          "aceitas": [
+            "Área gourmet",
+            "Espaço gourmet"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "piscina",
+          "canonica": "Piscina",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Swimming pool"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "quarto-de-hospedes",
+          "canonica": "Quarto de hóspedes",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Guest room"
+            ],
+            "es": [
+              "Cuarto de invitados"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "quarto-de-empregada",
+          "canonica": "Quarto de empregada",
+          "aceitas": [
+            "Dependência de empregada"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "escada",
+          "canonica": "Escada",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Stairs"
+            ],
+            "es": [
+              "Escalera"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "mezanino",
+          "canonica": "Mezanino",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Mezzanine"
+            ],
+            "es": [
+              "Entresuelo"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "jardim-de-inverno",
+          "canonica": "Jardim de inverno",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Conservatory"
+            ],
+            "es": [
+              "Jardín de invierno"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "atelie",
+          "canonica": "Ateliê",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Atelier"
+            ],
+            "es": [
+              "Taller"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "solario",
+          "canonica": "Solário",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Solarium"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "sauna",
+          "canonica": "Sauna",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "patio",
+          "canonica": "Pátio",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "alpendre",
+          "canonica": "Alpendre",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Porch"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "cobertura",
+          "canonica": "Cobertura",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Penthouse"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "laje",
+          "canonica": "Laje",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "rouparia",
+          "canonica": "Rouparia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Linen closet"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "deposito",
+          "canonica": "Depósito",
+          "aceitas": [
+            "Quartinho de bagunça"
+          ],
+          "traducoes": {
+            "en": [
+              "Storage room"
+            ],
+            "es": [
+              "Trastero"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "canil",
+          "canonica": "Canil",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Kennel"
+            ],
+            "es": [
+              "Perrera"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "horta",
+          "canonica": "Horta",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Vegetable garden"
+            ],
+            "es": [
+              "Huerta"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "estudio-de-musica",
+          "canonica": "Estúdio de música",
+          "aceitas": [
+            "Estúdio"
+          ],
+          "traducoes": {
+            "en": [
+              "Music studio"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        }
+      ]
+    },
+    {
+      "id": "obj-material-escolar",
+      "texto": "Cite um item de material escolar",
+      "dificuldade": "facil",
+      "tags": [
+        "escola",
+        "papelaria"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Material_escolar",
+      "respostas": [
+        {
+          "id": "lapis",
+          "canonica": "Lápis",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Pencil"
+            ],
+            "es": [
+              "Lápiz"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "caneta",
+          "canonica": "Caneta",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Pen"
+            ],
+            "es": [
+              "Bolígrafo"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "borracha",
+          "canonica": "Borracha",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Eraser",
+              "Rubber"
+            ],
+            "es": [
+              "Goma de borrar"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "caderno",
+          "canonica": "Caderno",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Notebook"
+            ],
+            "es": [
+              "Cuaderno"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "mochila",
+          "canonica": "Mochila",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Backpack"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "regua",
+          "canonica": "Régua",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Ruler"
+            ],
+            "es": [
+              "Regla"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "apontador",
+          "canonica": "Apontador",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Pencil sharpener",
+              "Sharpener"
+            ],
+            "es": [
+              "Sacapuntas"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "estojo",
+          "canonica": "Estojo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Pencil case"
+            ],
+            "es": [
+              "Estuche"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "tesoura",
+          "canonica": "Tesoura",
+          "aceitas": [
+            "Tesoura sem ponta"
+          ],
+          "traducoes": {
+            "en": [
+              "Scissors"
+            ],
+            "es": [
+              "Tijeras"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cola",
+          "canonica": "Cola",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Glue"
+            ],
+            "es": [
+              "Pegamento"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "lapis-de-cor",
+          "canonica": "Lápis de cor",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Colored pencil"
+            ],
+            "es": [
+              "Lápiz de color"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "giz-de-cera",
+          "canonica": "Giz de cera",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Crayon"
+            ],
+            "es": [
+              "Crayón"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "livro",
+          "canonica": "Livro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Book"
+            ],
+            "es": [
+              "Libro"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "agenda",
+          "canonica": "Agenda",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Planner"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "compasso",
+          "canonica": "Compasso",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Compass"
+            ],
+            "es": [
+              "Compás"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "transferidor",
+          "canonica": "Transferidor",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Protractor"
+            ],
+            "es": [
+              "Transportador"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "esquadro",
+          "canonica": "Esquadro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Set square"
+            ],
+            "es": [
+              "Escuadra"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "calculadora",
+          "canonica": "Calculadora",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Calculator"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "marca-texto",
+          "canonica": "Marca-texto",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Highlighter"
+            ],
+            "es": [
+              "Resaltador"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "canetinha",
+          "canonica": "Canetinha",
+          "aceitas": [
+            "Hidrocor"
+          ],
+          "traducoes": {
+            "en": [
+              "Felt-tip pen",
+              "Marker"
+            ],
+            "es": [
+              "Rotulador"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "corretivo",
+          "canonica": "Corretivo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Correction fluid",
+              "White-out"
+            ],
+            "es": [
+              "Corrector"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "fichario",
+          "canonica": "Fichário",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Binder"
+            ],
+            "es": [
+              "Carpeta de anillas"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "pasta",
+          "canonica": "Pasta",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Folder"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "lancheira",
+          "canonica": "Lancheira",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Lunch box"
+            ],
+            "es": [
+              "Lonchera"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "dicionario",
+          "canonica": "Dicionário",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Dictionary"
+            ],
+            "es": [
+              "Diccionario"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "grampeador",
+          "canonica": "Grampeador",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Stapler"
+            ],
+            "es": [
+              "Grapadora"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "clipe",
+          "canonica": "Clipe",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Paper clip"
+            ],
+            "es": [
+              "Clip"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "papel-sulfite",
+          "canonica": "Papel sulfite",
+          "aceitas": [
+            "Sulfite",
+            "Folha A4"
+          ],
+          "traducoes": {
+            "en": [
+              "Printer paper"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cartolina",
+          "canonica": "Cartolina",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Poster board"
+            ],
+            "es": [
+              "Cartulina"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "papel-crepom",
+          "canonica": "Papel crepom",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Crepe paper"
+            ],
+            "es": [
+              "Papel crepé"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "papel-cartao",
+          "canonica": "Papel-cartão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cardstock"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "eva",
+          "canonica": "EVA",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Craft foam"
+            ],
+            "es": [
+              "Goma eva"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tinta-guache",
+          "canonica": "Tinta guache",
+          "aceitas": [
+            "Guache"
+          ],
+          "traducoes": {
+            "en": [
+              "Gouache"
+            ],
+            "es": [
+              "Témpera"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "pincel",
+          "canonica": "Pincel",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Paintbrush"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "massinha-de-modelar",
+          "canonica": "Massinha de modelar",
+          "aceitas": [
+            "Massinha",
+            "Massa de modelar"
+          ],
+          "traducoes": {
+            "en": [
+              "Modeling clay",
+              "Play-Doh"
+            ],
+            "es": [
+              "Plastilina"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "lapiseira",
+          "canonica": "Lapiseira",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Mechanical pencil"
+            ],
+            "es": [
+              "Portaminas"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "grafite",
+          "canonica": "Grafite",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Pencil lead"
+            ],
+            "es": [
+              "Mina"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "durex",
+          "canonica": "Durex",
+          "aceitas": [
+            "Fita adesiva"
+          ],
+          "traducoes": {
+            "en": [
+              "Tape",
+              "Scotch tape"
+            ],
+            "es": [
+              "Cinta adhesiva"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "post-it",
+          "canonica": "Post-it",
+          "aceitas": [
+            "Bloco adesivo"
+          ],
+          "traducoes": {
+            "en": [
+              "Sticky note"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "caneta-esferografica",
+          "canonica": "Caneta esferográfica",
+          "aceitas": [
+            "Esferográfica"
+          ],
+          "traducoes": {
+            "en": [
+              "Ballpoint pen"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "bloco-de-notas",
+          "canonica": "Bloco de notas",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Notepad"
+            ],
+            "es": [
+              "Libreta"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "papel-quadriculado",
+          "canonica": "Papel quadriculado",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Graph paper"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "papel-de-seda",
+          "canonica": "Papel de seda",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Tissue paper"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "cola-colorida",
+          "canonica": "Cola colorida",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Glitter glue"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "cola-bastao",
+          "canonica": "Cola bastão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Glue stick"
+            ],
+            "es": [
+              "Barra de pegamento"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "caderno-de-desenho",
+          "canonica": "Caderno de desenho",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Sketchbook"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "pen-drive",
+          "canonica": "Pen drive",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Flash drive",
+              "USB drive"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "uniforme",
+          "canonica": "Uniforme",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Uniform"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "garrafinha",
+          "canonica": "Garrafinha",
+          "aceitas": [
+            "Garrafa de água",
+            "Squeeze"
+          ],
+          "traducoes": {
+            "en": [
+              "Water bottle"
+            ],
+            "es": [
+              "Botella"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "etiqueta",
+          "canonica": "Etiqueta",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Label"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "papel-almaco",
+          "canonica": "Papel almaço",
+          "aceitas": [
+            "Almaço"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "globo-terrestre",
+          "canonica": "Globo terrestre",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Globe"
+            ],
+            "es": [
+              "Globo terráqueo"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "mapa",
+          "canonica": "Mapa",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Map"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "atlas",
+          "canonica": "Atlas",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "lousa",
+          "canonica": "Lousa",
+          "aceitas": [
+            "Quadro-negro"
+          ],
+          "traducoes": {
+            "en": [
+              "Blackboard"
+            ],
+            "es": [
+              "Pizarra"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "giz",
+          "canonica": "Giz",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Chalk"
+            ],
+            "es": [
+              "Tiza"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "pincel-atomico",
+          "canonica": "Pincel atômico",
+          "aceitas": [
+            "Marcador permanente"
+          ],
+          "traducoes": {
+            "en": [
+              "Permanent marker"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "furador",
+          "canonica": "Furador",
+          "aceitas": [
+            "Perfurador"
+          ],
+          "traducoes": {
+            "en": [
+              "Hole punch"
+            ],
+            "es": [
+              "Perforadora"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "prancheta",
+          "canonica": "Prancheta",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Clipboard"
+            ],
+            "es": [
+              "Tabla con clip"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        }
+      ]
+    },
+    {
+      "id": "obj-higiene-banheiro",
+      "texto": "Cite um item de higiene pessoal ou de banheiro",
+      "dificuldade": "facil",
+      "tags": [
+        "banheiro",
+        "higiene"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Higiene_pessoal",
+      "respostas": [
+        {
+          "id": "sabonete",
+          "canonica": "Sabonete",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Soap"
+            ],
+            "es": [
+              "Jabón"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "xampu",
+          "canonica": "Xampu",
+          "aceitas": [
+            "Shampoo"
+          ],
+          "traducoes": {
+            "en": [
+              "Shampoo"
+            ],
+            "es": [
+              "Champú"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "condicionador",
+          "canonica": "Condicionador",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Conditioner"
+            ],
+            "es": [
+              "Acondicionador"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "escova-de-dentes",
+          "canonica": "Escova de dentes",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Toothbrush"
+            ],
+            "es": [
+              "Cepillo de dientes"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pasta-de-dente",
+          "canonica": "Pasta de dente",
+          "aceitas": [
+            "Creme dental"
+          ],
+          "traducoes": {
+            "en": [
+              "Toothpaste"
+            ],
+            "es": [
+              "Pasta de dientes"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "toalha",
+          "canonica": "Toalha",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Towel"
+            ],
+            "es": [
+              "Toalla"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "papel-higienico",
+          "canonica": "Papel higiênico",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Toilet paper"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "desodorante",
+          "canonica": "Desodorante",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Deodorant"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "fio-dental",
+          "canonica": "Fio dental",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Dental floss"
+            ],
+            "es": [
+              "Hilo dental"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pente",
+          "canonica": "Pente",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Comb"
+            ],
+            "es": [
+              "Peine"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "escova-de-cabelo",
+          "canonica": "Escova de cabelo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Hairbrush"
+            ],
+            "es": [
+              "Cepillo de pelo"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "barbeador",
+          "canonica": "Barbeador",
+          "aceitas": [
+            "Aparelho de barbear",
+            "Gilete"
+          ],
+          "traducoes": {
+            "en": [
+              "Razor"
+            ],
+            "es": [
+              "Maquinilla de afeitar"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "espelho",
+          "canonica": "Espelho",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Mirror"
+            ],
+            "es": [
+              "Espejo"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "perfume",
+          "canonica": "Perfume",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cotonete",
+          "canonica": "Cotonete",
+          "aceitas": [
+            "Haste flexível"
+          ],
+          "traducoes": {
+            "en": [
+              "Cotton swab",
+              "Q-tip"
+            ],
+            "es": [
+              "Bastoncillo"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "algodao",
+          "canonica": "Algodão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cotton"
+            ],
+            "es": [
+              "Algodón"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "hidratante",
+          "canonica": "Hidratante",
+          "aceitas": [
+            "Creme hidratante"
+          ],
+          "traducoes": {
+            "en": [
+              "Moisturizer"
+            ],
+            "es": [
+              "Crema hidratante"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "protetor-solar",
+          "canonica": "Protetor solar",
+          "aceitas": [
+            "Filtro solar"
+          ],
+          "traducoes": {
+            "en": [
+              "Sunscreen"
+            ],
+            "es": [
+              "Protector solar"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "enxaguante-bucal",
+          "canonica": "Enxaguante bucal",
+          "aceitas": [
+            "Antisséptico bucal"
+          ],
+          "traducoes": {
+            "en": [
+              "Mouthwash"
+            ],
+            "es": [
+              "Enjuague bucal"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "absorvente",
+          "canonica": "Absorvente",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Sanitary pad"
+            ],
+            "es": [
+              "Toalla higiénica"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cortador-de-unha",
+          "canonica": "Cortador de unha",
+          "aceitas": [
+            "Corta-unha"
+          ],
+          "traducoes": {
+            "en": [
+              "Nail clipper"
+            ],
+            "es": [
+              "Cortaúñas"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "lixa-de-unha",
+          "canonica": "Lixa de unha",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Nail file"
+            ],
+            "es": [
+              "Lima de uñas"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "alicate-de-unha",
+          "canonica": "Alicate de unha",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cuticle nipper"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "pinca",
+          "canonica": "Pinça",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Tweezers"
+            ],
+            "es": [
+              "Pinzas"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "espuma-de-barbear",
+          "canonica": "Espuma de barbear",
+          "aceitas": [
+            "Creme de barbear"
+          ],
+          "traducoes": {
+            "en": [
+              "Shaving cream"
+            ],
+            "es": [
+              "Espuma de afeitar"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "locao-pos-barba",
+          "canonica": "Loção pós-barba",
+          "aceitas": [
+            "Pós-barba"
+          ],
+          "traducoes": {
+            "en": [
+              "Aftershave"
+            ],
+            "es": [
+              "Loción para después del afeitado"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "sabonete-liquido",
+          "canonica": "Sabonete líquido",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Liquid soap",
+              "Body wash"
+            ],
+            "es": [
+              "Jabón líquido"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "bucha",
+          "canonica": "Bucha",
+          "aceitas": [
+            "Bucha vegetal"
+          ],
+          "traducoes": {
+            "en": [
+              "Loofah"
+            ],
+            "es": [
+              "Esponja vegetal"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "touca-de-banho",
+          "canonica": "Touca de banho",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Shower cap"
+            ],
+            "es": [
+              "Gorro de ducha"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "roupao",
+          "canonica": "Roupão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Bathrobe"
+            ],
+            "es": [
+              "Albornoz"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tapete-de-banheiro",
+          "canonica": "Tapete de banheiro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Bath mat"
+            ],
+            "es": [
+              "Alfombra de baño"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cortina-de-box",
+          "canonica": "Cortina de box",
+          "aceitas": [
+            "Cortina de banheiro"
+          ],
+          "traducoes": {
+            "en": [
+              "Shower curtain"
+            ],
+            "es": [
+              "Cortina de ducha"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "lixeira",
+          "canonica": "Lixeira",
+          "aceitas": [
+            "Cesto de lixo"
+          ],
+          "traducoes": {
+            "en": [
+              "Trash can"
+            ],
+            "es": [
+              "Papelera"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "escova-sanitaria",
+          "canonica": "Escova sanitária",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Toilet brush"
+            ],
+            "es": [
+              "Escobilla"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "lenco-umedecido",
+          "canonica": "Lenço umedecido",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Wet wipe"
+            ],
+            "es": [
+              "Toallita húmeda"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "fralda",
+          "canonica": "Fralda",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Diaper"
+            ],
+            "es": [
+              "Pañal"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "talco",
+          "canonica": "Talco",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Talc",
+              "Baby powder"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "secador-de-cabelo",
+          "canonica": "Secador de cabelo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Hair dryer"
+            ],
+            "es": [
+              "Secador"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "chapinha",
+          "canonica": "Chapinha",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Flat iron"
+            ],
+            "es": [
+              "Plancha"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "maquiagem",
+          "canonica": "Maquiagem",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Makeup"
+            ],
+            "es": [
+              "Maquillaje"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "batom",
+          "canonica": "Batom",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Lipstick"
+            ],
+            "es": [
+              "Pintalabios"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "rimel",
+          "canonica": "Rímel",
+          "aceitas": [
+            "Máscara de cílios"
+          ],
+          "traducoes": {
+            "en": [
+              "Mascara"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "base",
+          "canonica": "Base",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Foundation"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "esmalte",
+          "canonica": "Esmalte",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Nail polish"
+            ],
+            "es": [
+              "Esmalte de uñas"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "removedor-de-esmalte",
+          "canonica": "Removedor de esmalte",
+          "aceitas": [
+            "Acetona"
+          ],
+          "traducoes": {
+            "en": [
+              "Nail polish remover"
+            ],
+            "es": [
+              "Quitaesmalte"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "demaquilante",
+          "canonica": "Demaquilante",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Makeup remover"
+            ],
+            "es": [
+              "Desmaquillante"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "sabonete-intimo",
+          "canonica": "Sabonete íntimo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Intimate soap"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "coletor-menstrual",
+          "canonica": "Coletor menstrual",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Menstrual cup"
+            ],
+            "es": [
+              "Copa menstrual"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "tampao",
+          "canonica": "Tampão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Tampon"
+            ],
+            "es": [
+              "Tampón"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "lamina-de-barbear",
+          "canonica": "Lâmina de barbear",
+          "aceitas": [
+            "Lâmina"
+          ],
+          "traducoes": {
+            "en": [
+              "Razor blade"
+            ],
+            "es": [
+              "Cuchilla"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "pedra-pomes",
+          "canonica": "Pedra-pomes",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Pumice stone"
+            ],
+            "es": [
+              "Piedra pómez"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "oleo-corporal",
+          "canonica": "Óleo corporal",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Body oil"
+            ],
+            "es": [
+              "Aceite corporal"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "esfoliante",
+          "canonica": "Esfoliante",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Exfoliant",
+              "Scrub"
+            ],
+            "es": [
+              "Exfoliante"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "gel-de-cabelo",
+          "canonica": "Gel de cabelo",
+          "aceitas": [
+            "Gel"
+          ],
+          "traducoes": {
+            "en": [
+              "Hair gel"
+            ],
+            "es": [
+              "Gomina"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "pomada-modeladora",
+          "canonica": "Pomada modeladora",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Hair pomade"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "creme-de-pentear",
+          "canonica": "Creme de pentear",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Leave-in"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "mascara-capilar",
+          "canonica": "Máscara capilar",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Hair mask"
+            ],
+            "es": [
+              "Mascarilla capilar"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "elastico-de-cabelo",
+          "canonica": "Elástico de cabelo",
+          "aceitas": [
+            "Xuxinha",
+            "Liga"
+          ],
+          "traducoes": {
+            "en": [
+              "Hair tie"
+            ],
+            "es": [
+              "Coletero"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "sabonete-facial",
+          "canonica": "Sabonete facial",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Face wash"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "tonico-facial",
+          "canonica": "Tônico facial",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Toner"
+            ],
+            "es": [
+              "Tónico"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "lenco-de-papel",
+          "canonica": "Lenço de papel",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Tissue"
+            ],
+            "es": [
+              "Pañuelo de papel"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "antitranspirante",
+          "canonica": "Antitranspirante",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Antiperspirant"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "escova-interdental",
+          "canonica": "Escova interdental",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Interdental brush"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "raspador-de-lingua",
+          "canonica": "Raspador de língua",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Tongue scraper"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "saboneteira",
+          "canonica": "Saboneteira",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Soap dish"
+            ],
+            "es": [
+              "Jabonera"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "porta-escova",
+          "canonica": "Porta-escova",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Toothbrush holder"
+            ]
+          },
+          "raridadeInicial": "epico"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="t"><title id="t">Mula sem cabeça</title>
+<circle cx="32" cy="32" r="32" fill="#7a4a8c"/>
+<path d="M18 64V40c0-8 6-14 14-14s14 6 14 14v24z" fill="#8a5a36"/>
+<path d="M40 30c4 2 6 8 6 14l-4-2 1 6-4-3 1 6-5-6z" fill="#3a2414"/>
+<path d="M20 30c4-12 8-20 12-24 1 5 4 6 6 3 1 6 6 10 6 21z" fill="#ff8a1f"/>
+<path d="M25 30c2-8 5-13 7-15 1 4 3 4 5 2 0 5 3 7 3 13z" fill="#ffd23f"/>
+<rect x="22" y="28" width="20" height="5" rx="2.5" fill="#d9a066"/>
+<path d="M24 54a8 8 0 0 1 16 0" fill="none" stroke="#e7e2d6" stroke-width="4" stroke-linecap="round"/>
+<circle cx="26" cy="52" r="1" fill="#7a4a8c"/><circle cx="38" cy="52" r="1" fill="#7a4a8c"/>
+</svg>

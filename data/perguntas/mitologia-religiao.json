@@ -1,0 +1,4642 @@
+{
+  "tema": "mitologia-religiao",
+  "nome": "Mitologia, Folclore e Religião",
+  "perguntas": [
+    {
+      "id": "mit-deuses-gregos",
+      "texto": "Cite um deus, deusa ou titã da mitologia grega",
+      "dificuldade": "media",
+      "tags": [
+        "mitologia",
+        "grécia"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Lista_de_deuses_gregos",
+      "respostas": [
+        {
+          "id": "zeus",
+          "canonica": "Zeus",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "poseidon",
+          "canonica": "Poseidon",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "hades",
+          "canonica": "Hades",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "atena",
+          "canonica": "Atena",
+          "aceitas": [
+            "Palas Atena",
+            "Atenas"
+          ],
+          "traducoes": {
+            "en": [
+              "Athena"
+            ],
+            "es": [
+              "Atenea"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "afrodite",
+          "canonica": "Afrodite",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Aphrodite"
+            ],
+            "es": [
+              "Afrodita"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "apolo",
+          "canonica": "Apolo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Apollo"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "hera",
+          "canonica": "Hera",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "ares",
+          "canonica": "Ares",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "hermes",
+          "canonica": "Hermes",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "artemis",
+          "canonica": "Ártemis",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "hefesto",
+          "canonica": "Hefesto",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Hephaestus"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "demeter",
+          "canonica": "Deméter",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "dionisio",
+          "canonica": "Dionísio",
+          "aceitas": [
+            "Baco"
+          ],
+          "traducoes": {
+            "en": [
+              "Dionysus"
+            ],
+            "es": [
+              "Dioniso"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "persefone",
+          "canonica": "Perséfone",
+          "aceitas": [
+            "Core"
+          ],
+          "traducoes": {
+            "en": [
+              "Persephone"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "eros",
+          "canonica": "Eros",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cronos",
+          "canonica": "Cronos",
+          "aceitas": [
+            "Crono"
+          ],
+          "traducoes": {
+            "en": [
+              "Cronus",
+              "Kronos"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "gaia",
+          "canonica": "Gaia",
+          "aceitas": [
+            "Geia"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "urano",
+          "canonica": "Urano",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Uranus"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "hestia",
+          "canonica": "Héstia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "prometeu",
+          "canonica": "Prometeu",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Prometheus"
+            ],
+            "es": [
+              "Prometeo"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "atlas",
+          "canonica": "Atlas",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "nice",
+          "canonica": "Nice",
+          "aceitas": [
+            "Nike"
+          ],
+          "traducoes": {
+            "en": [
+              "Nike"
+            ],
+            "es": [
+              "Niké"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "helio",
+          "canonica": "Hélio",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Helios"
+            ],
+            "es": [
+              "Helios"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "selene",
+          "canonica": "Selene",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "eos",
+          "canonica": "Eos",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "hecate",
+          "canonica": "Hécate",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "nemesis",
+          "canonica": "Nêmesis",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "iris",
+          "canonica": "Íris",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "hebe",
+          "canonica": "Hebe",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "pa",
+          "canonica": "Pã",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Pan"
+            ],
+            "es": [
+              "Pan"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "morfeu",
+          "canonica": "Morfeu",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Morpheus"
+            ],
+            "es": [
+              "Morfeo"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "hipnos",
+          "canonica": "Hipnos",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Hypnos"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tanatos",
+          "canonica": "Tânatos",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Thanatos"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "eolo",
+          "canonica": "Éolo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Aeolus"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "reia",
+          "canonica": "Reia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Rhea"
+            ],
+            "es": [
+              "Rea"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "oceano",
+          "canonica": "Oceano",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Oceanus"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tetis",
+          "canonica": "Tétis",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Tethys"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "temis",
+          "canonica": "Têmis",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Themis"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "mnemosine",
+          "canonica": "Mnemósine",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Mnemosyne"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "hiperion",
+          "canonica": "Hipérion",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Hyperion"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "epimeteu",
+          "canonica": "Epimeteu",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Epimetheus"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "japeto",
+          "canonica": "Jápeto",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Iapetus"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "febe",
+          "canonica": "Febe",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Phoebe"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ceos",
+          "canonica": "Céos",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Coeus"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "crio",
+          "canonica": "Crio",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Crius"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "leto",
+          "canonica": "Leto",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "asclepio",
+          "canonica": "Asclépio",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Asclepius"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "caos",
+          "canonica": "Caos",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Chaos"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "nix",
+          "canonica": "Nix",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Nyx"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "erebo",
+          "canonica": "Érebo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Erebus"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "tartaro",
+          "canonica": "Tártaro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Tartarus"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "tritao",
+          "canonica": "Tritão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Triton"
+            ],
+            "es": [
+              "Tritón"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "anfitrite",
+          "canonica": "Anfitrite",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Amphitrite"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "nereu",
+          "canonica": "Nereu",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Nereus"
+            ],
+            "es": [
+              "Nereo"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "proteu",
+          "canonica": "Proteu",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Proteus"
+            ],
+            "es": [
+              "Proteo"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "eris",
+          "canonica": "Éris",
+          "aceitas": [
+            "Discórdia"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "fobos",
+          "canonica": "Fobos",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Phobos"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "deimos",
+          "canonica": "Deimos",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "harmonia",
+          "canonica": "Harmonia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "momo",
+          "canonica": "Momo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Momus"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "tique",
+          "canonica": "Tique",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Tyche"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "pluto",
+          "canonica": "Pluto",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Plutus"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        }
+      ]
+    },
+    {
+      "id": "mit-deuses-romanos",
+      "texto": "Cite um deus ou deusa da mitologia romana",
+      "dificuldade": "media",
+      "tags": [
+        "mitologia",
+        "roma"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Mitologia_romana",
+      "respostas": [
+        {
+          "id": "jupiter",
+          "canonica": "Júpiter",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "juno",
+          "canonica": "Juno",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "netuno",
+          "canonica": "Netuno",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Neptune"
+            ],
+            "es": [
+              "Neptuno"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "plutao",
+          "canonica": "Plutão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Pluto"
+            ],
+            "es": [
+              "Plutón"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "minerva",
+          "canonica": "Minerva",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "venus",
+          "canonica": "Vênus",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "marte",
+          "canonica": "Marte",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Mars"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "mercurio",
+          "canonica": "Mercúrio",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Mercury"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "apolo",
+          "canonica": "Apolo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Apollo"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "diana",
+          "canonica": "Diana",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cupido",
+          "canonica": "Cupido",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cupid"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "baco",
+          "canonica": "Baco",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Bacchus"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "vulcano",
+          "canonica": "Vulcano",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Vulcan"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ceres",
+          "canonica": "Ceres",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "saturno",
+          "canonica": "Saturno",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Saturn"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "vesta",
+          "canonica": "Vesta",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "jano",
+          "canonica": "Jano",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Janus"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "proserpina",
+          "canonica": "Prosérpina",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "aurora",
+          "canonica": "Aurora",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "fortuna",
+          "canonica": "Fortuna",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "vitoria",
+          "canonica": "Vitória",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Victoria"
+            ],
+            "es": [
+              "Victoria"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "fauno",
+          "canonica": "Fauno",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Faunus"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "flora",
+          "canonica": "Flora",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "pomona",
+          "canonica": "Pomona",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "luna",
+          "canonica": "Luna",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "sol-invicto",
+          "canonica": "Sol Invicto",
+          "aceitas": [
+            "Sol"
+          ],
+          "traducoes": {
+            "en": [
+              "Sol Invictus"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "tellus",
+          "canonica": "Tellus",
+          "aceitas": [
+            "Terra Mater"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "quirino",
+          "canonica": "Quirino",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Quirinus"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "belona",
+          "canonica": "Belona",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Bellona"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "liber",
+          "canonica": "Líber",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "febo",
+          "canonica": "Febo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Phoebus"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "orco",
+          "canonica": "Orco",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Orcus"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "silvano",
+          "canonica": "Silvano",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Silvanus"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "terminus",
+          "canonica": "Términus",
+          "aceitas": [
+            "Término"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "concordia",
+          "canonica": "Concórdia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "mitra",
+          "canonica": "Mitra",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Mithras"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "lares",
+          "canonica": "Lares",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "penates",
+          "canonica": "Penates",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "vertumno",
+          "canonica": "Vertumno",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Vertumnus"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "somnus",
+          "canonica": "Somnus",
+          "aceitas": [
+            "Sono"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "pax",
+          "canonica": "Pax",
+          "aceitas": [
+            "Paz"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        }
+      ]
+    },
+    {
+      "id": "mit-nordica",
+      "texto": "Cite um deus ou ser da mitologia nórdica",
+      "dificuldade": "media",
+      "tags": [
+        "mitologia",
+        "nórdica",
+        "vikings"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Mitologia_n%C3%B3rdica",
+      "respostas": [
+        {
+          "id": "odin",
+          "canonica": "Odin",
+          "aceitas": [
+            "Odim",
+            "Wotan"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "thor",
+          "canonica": "Thor",
+          "aceitas": [
+            "Tor"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "loki",
+          "canonica": "Loki",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "freya",
+          "canonica": "Freya",
+          "aceitas": [
+            "Freia",
+            "Freyja"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "frigga",
+          "canonica": "Frigga",
+          "aceitas": [
+            "Frigg"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "heimdall",
+          "canonica": "Heimdall",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "balder",
+          "canonica": "Balder",
+          "aceitas": [
+            "Baldur",
+            "Baldr"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "tyr",
+          "canonica": "Tyr",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "hel",
+          "canonica": "Hel",
+          "aceitas": [
+            "Hela"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "fenrir",
+          "canonica": "Fenrir",
+          "aceitas": [
+            "Fenris"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "valquirias",
+          "canonica": "Valquírias",
+          "aceitas": [
+            "Valquíria"
+          ],
+          "traducoes": {
+            "en": [
+              "Valkyries",
+              "Valkyrie"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "sleipnir",
+          "canonica": "Sleipnir",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "jormungandr",
+          "canonica": "Jörmungandr",
+          "aceitas": [
+            "Serpente de Midgard"
+          ],
+          "traducoes": {
+            "en": [
+              "Midgard Serpent"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "ymir",
+          "canonica": "Ymir",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "freyr",
+          "canonica": "Freyr",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "njord",
+          "canonica": "Njord",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "sif",
+          "canonica": "Sif",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "idun",
+          "canonica": "Idun",
+          "aceitas": [
+            "Iduna"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "bragi",
+          "canonica": "Bragi",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "vidar",
+          "canonica": "Vidar",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "vali",
+          "canonica": "Vali",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "hod",
+          "canonica": "Hod",
+          "aceitas": [
+            "Hodur",
+            "Höðr"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "skadi",
+          "canonica": "Skadi",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ull",
+          "canonica": "Ull",
+          "aceitas": [
+            "Ullr"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "forseti",
+          "canonica": "Forseti",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "hermod",
+          "canonica": "Hermod",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "mimir",
+          "canonica": "Mimir",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "aegir",
+          "canonica": "Aegir",
+          "aceitas": [
+            "Ægir"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ran",
+          "canonica": "Ran",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "nanna",
+          "canonica": "Nanna",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "sigyn",
+          "canonica": "Sigyn",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "jord",
+          "canonica": "Jord",
+          "aceitas": [
+            "Jörð"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "kvasir",
+          "canonica": "Kvasir",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "surtr",
+          "canonica": "Surtr",
+          "aceitas": [
+            "Surt"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "huginn",
+          "canonica": "Huginn",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "muninn",
+          "canonica": "Muninn",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ratatoskr",
+          "canonica": "Ratatoskr",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "nidhogg",
+          "canonica": "Nidhogg",
+          "aceitas": [
+            "Níðhöggr"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "hati",
+          "canonica": "Hati",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "skoll",
+          "canonica": "Skoll",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "gerd",
+          "canonica": "Gerd",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "gefjon",
+          "canonica": "Gefjon",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "eir",
+          "canonica": "Eir",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "gigantes-de-gelo",
+          "canonica": "Gigantes de gelo",
+          "aceitas": [
+            "Jotuns",
+            "Jötnar"
+          ],
+          "traducoes": {
+            "en": [
+              "Frost giants",
+              "Jotnar"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "elfos",
+          "canonica": "Elfos",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Elves"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "anoes",
+          "canonica": "Anões",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Dwarves"
+            ],
+            "es": [
+              "Enanos"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "norns",
+          "canonica": "Norns",
+          "aceitas": [
+            "Nornas"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        }
+      ]
+    },
+    {
+      "id": "mit-livros-biblia",
+      "texto": "Cite um livro da Bíblia",
+      "dificuldade": "media",
+      "tags": [
+        "bíblia",
+        "religião"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Livros_da_B%C3%ADblia",
+      "nota": "Vale o cânon católico (73 livros), que inclui os 66 do cânon protestante.",
+      "respostas": [
+        {
+          "id": "genesis",
+          "canonica": "Gênesis",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "exodo",
+          "canonica": "Êxodo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Exodus"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "levitico",
+          "canonica": "Levítico",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Leviticus"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "numeros",
+          "canonica": "Números",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Numbers"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "deuteronomio",
+          "canonica": "Deuteronômio",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Deuteronomy"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "josue",
+          "canonica": "Josué",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Joshua"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "juizes",
+          "canonica": "Juízes",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Judges"
+            ],
+            "es": [
+              "Jueces"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "rute",
+          "canonica": "Rute",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Ruth"
+            ],
+            "es": [
+              "Rut"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "1-samuel",
+          "canonica": "1 Samuel",
+          "aceitas": [
+            "I Samuel",
+            "Primeiro Samuel"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "2-samuel",
+          "canonica": "2 Samuel",
+          "aceitas": [
+            "II Samuel",
+            "Segundo Samuel"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "1-reis",
+          "canonica": "1 Reis",
+          "aceitas": [
+            "I Reis",
+            "Primeiro Reis"
+          ],
+          "traducoes": {
+            "en": [
+              "1 Kings"
+            ],
+            "es": [
+              "1 Reyes"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "2-reis",
+          "canonica": "2 Reis",
+          "aceitas": [
+            "II Reis",
+            "Segundo Reis"
+          ],
+          "traducoes": {
+            "en": [
+              "2 Kings"
+            ],
+            "es": [
+              "2 Reyes"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "1-cronicas",
+          "canonica": "1 Crônicas",
+          "aceitas": [
+            "I Crônicas",
+            "Primeiro Crônicas"
+          ],
+          "traducoes": {
+            "en": [
+              "1 Chronicles"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "2-cronicas",
+          "canonica": "2 Crônicas",
+          "aceitas": [
+            "II Crônicas",
+            "Segundo Crônicas"
+          ],
+          "traducoes": {
+            "en": [
+              "2 Chronicles"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "esdras",
+          "canonica": "Esdras",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Ezra"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "neemias",
+          "canonica": "Neemias",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Nehemiah"
+            ],
+            "es": [
+              "Nehemías"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ester",
+          "canonica": "Ester",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Esther"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "jo",
+          "canonica": "Jó",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Job"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "salmos",
+          "canonica": "Salmos",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Psalms"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "proverbios",
+          "canonica": "Provérbios",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Proverbs"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "eclesiastes",
+          "canonica": "Eclesiastes",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Ecclesiastes"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cantico-dos-canticos",
+          "canonica": "Cântico dos Cânticos",
+          "aceitas": [
+            "Cantares",
+            "Cânticos"
+          ],
+          "traducoes": {
+            "en": [
+              "Song of Songs"
+            ],
+            "es": [
+              "Cantar de los Cantares"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "isaias",
+          "canonica": "Isaías",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Isaiah"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "jeremias",
+          "canonica": "Jeremias",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Jeremiah"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "lamentacoes",
+          "canonica": "Lamentações",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Lamentations"
+            ],
+            "es": [
+              "Lamentaciones"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ezequiel",
+          "canonica": "Ezequiel",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Ezekiel"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "daniel",
+          "canonica": "Daniel",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "oseias",
+          "canonica": "Oseias",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Hosea"
+            ],
+            "es": [
+              "Oseas"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "joel",
+          "canonica": "Joel",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "amos",
+          "canonica": "Amós",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "obadias",
+          "canonica": "Obadias",
+          "aceitas": [
+            "Abdias"
+          ],
+          "traducoes": {
+            "en": [
+              "Obadiah"
+            ],
+            "es": [
+              "Abdías"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "jonas",
+          "canonica": "Jonas",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Jonah"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "miqueias",
+          "canonica": "Miqueias",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Micah"
+            ],
+            "es": [
+              "Miqueas"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "naum",
+          "canonica": "Naum",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Nahum"
+            ],
+            "es": [
+              "Nahúm"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "habacuque",
+          "canonica": "Habacuque",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Habakkuk"
+            ],
+            "es": [
+              "Habacuc"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "sofonias",
+          "canonica": "Sofonias",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Zephaniah"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "ageu",
+          "canonica": "Ageu",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Haggai"
+            ],
+            "es": [
+              "Hageo"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "zacarias",
+          "canonica": "Zacarias",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Zechariah"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "malaquias",
+          "canonica": "Malaquias",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Malachi"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "mateus",
+          "canonica": "Mateus",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Matthew"
+            ],
+            "es": [
+              "Mateo"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "marcos",
+          "canonica": "Marcos",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Mark"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "lucas",
+          "canonica": "Lucas",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Luke"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "joao",
+          "canonica": "João",
+          "aceitas": [
+            "Evangelho de João"
+          ],
+          "traducoes": {
+            "en": [
+              "John"
+            ],
+            "es": [
+              "Juan"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "atos-dos-apostolos",
+          "canonica": "Atos dos Apóstolos",
+          "aceitas": [
+            "Atos"
+          ],
+          "traducoes": {
+            "en": [
+              "Acts"
+            ],
+            "es": [
+              "Hechos"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "romanos",
+          "canonica": "Romanos",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Romans"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "1-corintios",
+          "canonica": "1 Coríntios",
+          "aceitas": [
+            "I Coríntios",
+            "Primeira Coríntios"
+          ],
+          "traducoes": {
+            "en": [
+              "1 Corinthians"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "2-corintios",
+          "canonica": "2 Coríntios",
+          "aceitas": [
+            "II Coríntios",
+            "Segunda Coríntios"
+          ],
+          "traducoes": {
+            "en": [
+              "2 Corinthians"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "galatas",
+          "canonica": "Gálatas",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Galatians"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "efesios",
+          "canonica": "Efésios",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Ephesians"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "filipenses",
+          "canonica": "Filipenses",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Philippians"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "colossenses",
+          "canonica": "Colossenses",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Colossians"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "1-tessalonicenses",
+          "canonica": "1 Tessalonicenses",
+          "aceitas": [
+            "I Tessalonicenses"
+          ],
+          "traducoes": {
+            "en": [
+              "1 Thessalonians"
+            ],
+            "es": [
+              "1 Tesalonicenses"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "2-tessalonicenses",
+          "canonica": "2 Tessalonicenses",
+          "aceitas": [
+            "II Tessalonicenses"
+          ],
+          "traducoes": {
+            "en": [
+              "2 Thessalonians"
+            ],
+            "es": [
+              "2 Tesalonicenses"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "1-timoteo",
+          "canonica": "1 Timóteo",
+          "aceitas": [
+            "I Timóteo"
+          ],
+          "traducoes": {
+            "en": [
+              "1 Timothy"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "2-timoteo",
+          "canonica": "2 Timóteo",
+          "aceitas": [
+            "II Timóteo"
+          ],
+          "traducoes": {
+            "en": [
+              "2 Timothy"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "tito",
+          "canonica": "Tito",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Titus"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "filemom",
+          "canonica": "Filemom",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Philemon"
+            ],
+            "es": [
+              "Filemón"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "hebreus",
+          "canonica": "Hebreus",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Hebrews"
+            ],
+            "es": [
+              "Hebreos"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tiago",
+          "canonica": "Tiago",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "James"
+            ],
+            "es": [
+              "Santiago"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "1-pedro",
+          "canonica": "1 Pedro",
+          "aceitas": [
+            "I Pedro",
+            "Primeira Pedro"
+          ],
+          "traducoes": {
+            "en": [
+              "1 Peter"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "2-pedro",
+          "canonica": "2 Pedro",
+          "aceitas": [
+            "II Pedro",
+            "Segunda Pedro"
+          ],
+          "traducoes": {
+            "en": [
+              "2 Peter"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "1-joao",
+          "canonica": "1 João",
+          "aceitas": [
+            "I João",
+            "Primeira João"
+          ],
+          "traducoes": {
+            "en": [
+              "1 John"
+            ],
+            "es": [
+              "1 Juan"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "2-joao",
+          "canonica": "2 João",
+          "aceitas": [
+            "II João",
+            "Segunda João"
+          ],
+          "traducoes": {
+            "en": [
+              "2 John"
+            ],
+            "es": [
+              "2 Juan"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "3-joao",
+          "canonica": "3 João",
+          "aceitas": [
+            "III João",
+            "Terceira João"
+          ],
+          "traducoes": {
+            "en": [
+              "3 John"
+            ],
+            "es": [
+              "3 Juan"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "judas",
+          "canonica": "Judas",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Jude"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "apocalipse",
+          "canonica": "Apocalipse",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Revelation"
+            ],
+            "es": [
+              "Apocalipsis"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "tobias",
+          "canonica": "Tobias",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Tobit"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "judite",
+          "canonica": "Judite",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Judith"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "1-macabeus",
+          "canonica": "1 Macabeus",
+          "aceitas": [
+            "I Macabeus"
+          ],
+          "traducoes": {
+            "en": [
+              "1 Maccabees"
+            ],
+            "es": [
+              "1 Macabeos"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "2-macabeus",
+          "canonica": "2 Macabeus",
+          "aceitas": [
+            "II Macabeus"
+          ],
+          "traducoes": {
+            "en": [
+              "2 Maccabees"
+            ],
+            "es": [
+              "2 Macabeos"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "sabedoria",
+          "canonica": "Sabedoria",
+          "aceitas": [
+            "Livro da Sabedoria"
+          ],
+          "traducoes": {
+            "en": [
+              "Wisdom"
+            ],
+            "es": [
+              "Sabiduría"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "eclesiastico",
+          "canonica": "Eclesiástico",
+          "aceitas": [
+            "Sirácida"
+          ],
+          "traducoes": {
+            "en": [
+              "Sirach",
+              "Ecclesiasticus"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "baruque",
+          "canonica": "Baruque",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Baruch"
+            ],
+            "es": [
+              "Baruc"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        }
+      ]
+    },
+    {
+      "id": "mit-personagens-biblicos",
+      "texto": "Cite um personagem bíblico",
+      "dificuldade": "facil",
+      "tags": [
+        "bíblia",
+        "religião"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Lista_de_personagens_b%C3%ADblicos",
+      "respostas": [
+        {
+          "id": "jesus",
+          "canonica": "Jesus",
+          "aceitas": [
+            "Jesus Cristo",
+            "Cristo"
+          ],
+          "traducoes": {
+            "en": [
+              "Jesus Christ"
+            ],
+            "es": [
+              "Jesucristo"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "maria",
+          "canonica": "Maria",
+          "aceitas": [
+            "Virgem Maria",
+            "Nossa Senhora"
+          ],
+          "traducoes": {
+            "en": [
+              "Mary"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "adao",
+          "canonica": "Adão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Adam"
+            ],
+            "es": [
+              "Adán"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "eva",
+          "canonica": "Eva",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Eve"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "noe",
+          "canonica": "Noé",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Noah"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "moises",
+          "canonica": "Moisés",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Moses"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "abraao",
+          "canonica": "Abraão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Abraham"
+            ],
+            "es": [
+              "Abraham"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "davi",
+          "canonica": "Davi",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "David"
+            ],
+            "es": [
+              "David"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "golias",
+          "canonica": "Golias",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Goliath"
+            ],
+            "es": [
+              "Goliat"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "caim",
+          "canonica": "Caim",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cain"
+            ],
+            "es": [
+              "Caín"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "abel",
+          "canonica": "Abel",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pedro",
+          "canonica": "Pedro",
+          "aceitas": [
+            "Simão Pedro",
+            "São Pedro"
+          ],
+          "traducoes": {
+            "en": [
+              "Peter"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "judas-iscariotes",
+          "canonica": "Judas Iscariotes",
+          "aceitas": [
+            "Judas"
+          ],
+          "traducoes": {
+            "en": [
+              "Judas Iscariot"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "salomao",
+          "canonica": "Salomão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Solomon"
+            ],
+            "es": [
+              "Salomón"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "sansao",
+          "canonica": "Sansão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Samson"
+            ],
+            "es": [
+              "Sansón"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "jose-de-nazare",
+          "canonica": "José de Nazaré",
+          "aceitas": [
+            "São José"
+          ],
+          "traducoes": {
+            "en": [
+              "Joseph of Nazareth"
+            ],
+            "es": [
+              "José de Nazaret"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "jose-do-egito",
+          "canonica": "José do Egito",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Joseph"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "paulo",
+          "canonica": "Paulo",
+          "aceitas": [
+            "São Paulo",
+            "Paulo de Tarso"
+          ],
+          "traducoes": {
+            "es": [
+              "Pablo"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "joao-batista",
+          "canonica": "João Batista",
+          "aceitas": [
+            "São João Batista"
+          ],
+          "traducoes": {
+            "en": [
+              "John the Baptist"
+            ],
+            "es": [
+              "Juan el Bautista"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "maria-madalena",
+          "canonica": "Maria Madalena",
+          "aceitas": [
+            "Madalena"
+          ],
+          "traducoes": {
+            "en": [
+              "Mary Magdalene"
+            ],
+            "es": [
+              "María Magdalena"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "jonas",
+          "canonica": "Jonas",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Jonah"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "daniel",
+          "canonica": "Daniel",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "isaque",
+          "canonica": "Isaque",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Isaac"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "jaco",
+          "canonica": "Jacó",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Jacob"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "esau",
+          "canonica": "Esaú",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "dalila",
+          "canonica": "Dalila",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Delilah"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "lazaro",
+          "canonica": "Lázaro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Lazarus"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "poncio-pilatos",
+          "canonica": "Pôncio Pilatos",
+          "aceitas": [
+            "Pilatos"
+          ],
+          "traducoes": {
+            "en": [
+              "Pontius Pilate"
+            ],
+            "es": [
+              "Poncio Pilato"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "herodes",
+          "canonica": "Herodes",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Herod"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "elias",
+          "canonica": "Elias",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Elijah"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "jo",
+          "canonica": "Jó",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Job"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ester",
+          "canonica": "Ester",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Esther"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "rute",
+          "canonica": "Rute",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Ruth"
+            ],
+            "es": [
+              "Rut"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "sara",
+          "canonica": "Sara",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Sarah"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "rebeca",
+          "canonica": "Rebeca",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Rebekah"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "raquel",
+          "canonica": "Raquel",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Rachel"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "lia",
+          "canonica": "Lia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Leah"
+            ],
+            "es": [
+              "Lea"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "samuel",
+          "canonica": "Samuel",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "saul",
+          "canonica": "Saul",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "arao",
+          "canonica": "Arão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Aaron"
+            ],
+            "es": [
+              "Aarón"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "josue",
+          "canonica": "Josué",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Joshua"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "joao-evangelista",
+          "canonica": "João Evangelista",
+          "aceitas": [
+            "João apóstolo",
+            "São João"
+          ],
+          "traducoes": {
+            "en": [
+              "John the Apostle"
+            ],
+            "es": [
+              "Juan el Apóstol"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tiago",
+          "canonica": "Tiago",
+          "aceitas": [
+            "São Tiago"
+          ],
+          "traducoes": {
+            "en": [
+              "James"
+            ],
+            "es": [
+              "Santiago"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "andre",
+          "canonica": "André",
+          "aceitas": [
+            "Santo André"
+          ],
+          "traducoes": {
+            "en": [
+              "Andrew"
+            ],
+            "es": [
+              "Andrés"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "mateus",
+          "canonica": "Mateus",
+          "aceitas": [
+            "São Mateus"
+          ],
+          "traducoes": {
+            "en": [
+              "Matthew"
+            ],
+            "es": [
+              "Mateo"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tome",
+          "canonica": "Tomé",
+          "aceitas": [
+            "São Tomé"
+          ],
+          "traducoes": {
+            "en": [
+              "Thomas"
+            ],
+            "es": [
+              "Tomás"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "filipe",
+          "canonica": "Filipe",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Philip"
+            ],
+            "es": [
+              "Felipe"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "bartolomeu",
+          "canonica": "Bartolomeu",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Bartholomew"
+            ],
+            "es": [
+              "Bartolomé"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "marcos",
+          "canonica": "Marcos",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Mark"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "lucas",
+          "canonica": "Lucas",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Luke"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "marta",
+          "canonica": "Marta",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Martha"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "barrabas",
+          "canonica": "Barrabás",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Barabbas"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "nicodemos",
+          "canonica": "Nicodemos",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Nicodemus"
+            ],
+            "es": [
+              "Nicodemo"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "zaqueu",
+          "canonica": "Zaqueu",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Zacchaeus"
+            ],
+            "es": [
+              "Zaqueo"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "timoteo",
+          "canonica": "Timóteo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Timothy"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "estevao",
+          "canonica": "Estêvão",
+          "aceitas": [
+            "Santo Estêvão"
+          ],
+          "traducoes": {
+            "en": [
+              "Stephen"
+            ],
+            "es": [
+              "Esteban"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "matusalem",
+          "canonica": "Matusalém",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Methuselah"
+            ],
+            "es": [
+              "Matusalén"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "set",
+          "canonica": "Set",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Seth"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "enoque",
+          "canonica": "Enoque",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Enoch"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "lo",
+          "canonica": "Ló",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Lot"
+            ],
+            "es": [
+              "Lot"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "gideao",
+          "canonica": "Gideão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Gideon"
+            ],
+            "es": [
+              "Gedeón"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "debora",
+          "canonica": "Débora",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Deborah"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "benjamim",
+          "canonica": "Benjamim",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Benjamin"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ruben",
+          "canonica": "Rúben",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Reuben"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "levi",
+          "canonica": "Levi",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ana",
+          "canonica": "Ana",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Hannah",
+              "Anne"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "isabel",
+          "canonica": "Isabel",
+          "aceitas": [
+            "Elisabete"
+          ],
+          "traducoes": {
+            "en": [
+              "Elizabeth"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "zacarias",
+          "canonica": "Zacarias",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Zechariah"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "jezabel",
+          "canonica": "Jezabel",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Jezebel"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "acabe",
+          "canonica": "Acabe",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Ahab"
+            ],
+            "es": [
+              "Acab"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "nabucodonosor",
+          "canonica": "Nabucodonosor",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Nebuchadnezzar"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "belsazar",
+          "canonica": "Belsazar",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Belshazzar"
+            ],
+            "es": [
+              "Baltasar"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "absalao",
+          "canonica": "Absalão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Absalom"
+            ],
+            "es": [
+              "Absalón"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "betsaba",
+          "canonica": "Betsabá",
+          "aceitas": [
+            "Bate-Seba"
+          ],
+          "traducoes": {
+            "en": [
+              "Bathsheba"
+            ],
+            "es": [
+              "Betsabé"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "urias",
+          "canonica": "Urias",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Uriah"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "nata",
+          "canonica": "Natã",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Nathan"
+            ],
+            "es": [
+              "Natán"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "ezequiel",
+          "canonica": "Ezequiel",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Ezekiel"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "isaias",
+          "canonica": "Isaías",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Isaiah"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "jeremias",
+          "canonica": "Jeremias",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Jeremiah"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "neemias",
+          "canonica": "Neemias",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Nehemiah"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "esdras",
+          "canonica": "Esdras",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Ezra"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "arcanjo-gabriel",
+          "canonica": "Arcanjo Gabriel",
+          "aceitas": [
+            "Gabriel",
+            "Anjo Gabriel"
+          ],
+          "traducoes": {
+            "en": [
+              "Gabriel"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "arcanjo-miguel",
+          "canonica": "Arcanjo Miguel",
+          "aceitas": [
+            "São Miguel",
+            "Miguel"
+          ],
+          "traducoes": {
+            "en": [
+              "Michael"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "lucifer",
+          "canonica": "Lúcifer",
+          "aceitas": [
+            "Satanás",
+            "Diabo"
+          ],
+          "traducoes": {
+            "en": [
+              "Satan"
+            ],
+            "es": [
+              "Satanás"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "melquisedeque",
+          "canonica": "Melquisedeque",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Melchizedek"
+            ],
+            "es": [
+              "Melquisedec"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "boaz",
+          "canonica": "Boaz",
+          "aceitas": [
+            "Booz"
+          ],
+          "traducoes": {
+            "es": [
+              "Booz"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "noemi",
+          "canonica": "Noemi",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Naomi"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "eliseu",
+          "canonica": "Eliseu",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Elisha"
+            ],
+            "es": [
+              "Eliseo"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "caifas",
+          "canonica": "Caifás",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Caiaphas"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "salome",
+          "canonica": "Salomé",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "tres-reis-magos",
+          "canonica": "Três Reis Magos",
+          "aceitas": [
+            "Reis Magos",
+            "Magos"
+          ],
+          "traducoes": {
+            "en": [
+              "Three Wise Men",
+              "Magi"
+            ],
+            "es": [
+              "Reyes Magos"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        }
+      ]
+    },
+    {
+      "id": "mit-criaturas",
+      "texto": "Cite uma criatura mitológica ou lendária",
+      "dificuldade": "facil",
+      "tags": [
+        "mitologia",
+        "criaturas",
+        "fantasia"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Lista_de_criaturas_lend%C3%A1rias",
+      "respostas": [
+        {
+          "id": "dragao",
+          "canonica": "Dragão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Dragon"
+            ],
+            "es": [
+              "Dragón"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "unicornio",
+          "canonica": "Unicórnio",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Unicorn"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "sereia",
+          "canonica": "Sereia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Mermaid",
+              "Siren"
+            ],
+            "es": [
+              "Sirena"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "fenix",
+          "canonica": "Fênix",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Phoenix"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "centauro",
+          "canonica": "Centauro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Centaur"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "minotauro",
+          "canonica": "Minotauro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Minotaur"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pegaso",
+          "canonica": "Pégaso",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Pegasus"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "medusa",
+          "canonica": "Medusa",
+          "aceitas": [
+            "Górgona"
+          ],
+          "traducoes": {
+            "en": [
+              "Gorgon"
+            ],
+            "es": [
+              "Gorgona"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "lobisomem",
+          "canonica": "Lobisomem",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Werewolf"
+            ],
+            "es": [
+              "Hombre lobo"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "vampiro",
+          "canonica": "Vampiro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Vampire"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "ciclope",
+          "canonica": "Ciclope",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cyclops"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "fada",
+          "canonica": "Fada",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Fairy"
+            ],
+            "es": [
+              "Hada"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "duende",
+          "canonica": "Duende",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "hidra",
+          "canonica": "Hidra",
+          "aceitas": [
+            "Hidra de Lerna"
+          ],
+          "traducoes": {
+            "en": [
+              "Hydra"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "quimera",
+          "canonica": "Quimera",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Chimera"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "grifo",
+          "canonica": "Grifo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Griffin",
+              "Gryphon"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "esfinge",
+          "canonica": "Esfinge",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Sphinx"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cerbero",
+          "canonica": "Cérbero",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cerberus"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "harpia",
+          "canonica": "Harpia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Harpy"
+            ],
+            "es": [
+              "Arpía"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "kraken",
+          "canonica": "Kraken",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "satiro",
+          "canonica": "Sátiro",
+          "aceitas": [
+            "Fauno"
+          ],
+          "traducoes": {
+            "en": [
+              "Satyr",
+              "Faun"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ninfa",
+          "canonica": "Ninfa",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Nymph"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "elfo",
+          "canonica": "Elfo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Elf"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "anao",
+          "canonica": "Anão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Dwarf"
+            ],
+            "es": [
+              "Enano"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "gnomo",
+          "canonica": "Gnomo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Gnome"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "troll",
+          "canonica": "Troll",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ogro",
+          "canonica": "Ogro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Ogre"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "gigante",
+          "canonica": "Gigante",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Giant"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "golem",
+          "canonica": "Golem",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "basilisco",
+          "canonica": "Basilisco",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Basilisk"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "banshee",
+          "canonica": "Banshee",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "leviata",
+          "canonica": "Leviatã",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Leviathan"
+            ],
+            "es": [
+              "Leviatán"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "behemoth",
+          "canonica": "Behemoth",
+          "aceitas": [
+            "Beemote"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "manticora",
+          "canonica": "Mantícora",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Manticore"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "hipogrifo",
+          "canonica": "Hipogrifo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Hippogriff"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "yeti",
+          "canonica": "Yeti",
+          "aceitas": [
+            "Abominável Homem das Neves"
+          ],
+          "traducoes": {
+            "en": [
+              "Abominable Snowman"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "pe-grande",
+          "canonica": "Pé-grande",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Bigfoot"
+            ],
+            "es": [
+              "Pie Grande"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "chupa-cabra",
+          "canonica": "Chupa-cabra",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Chupacabra"
+            ],
+            "es": [
+              "Chupacabras"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "valquiria",
+          "canonica": "Valquíria",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Valkyrie"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "genio",
+          "canonica": "Gênio",
+          "aceitas": [
+            "Djinn",
+            "Jinn"
+          ],
+          "traducoes": {
+            "en": [
+              "Genie",
+              "Djinn"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "kitsune",
+          "canonica": "Kitsune",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "tengu",
+          "canonica": "Tengu",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "kappa",
+          "canonica": "Kappa",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "wendigo",
+          "canonica": "Wendigo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "naga",
+          "canonica": "Naga",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "salamandra",
+          "canonica": "Salamandra",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Salamander"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "silfide",
+          "canonica": "Sílfide",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Sylph"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "tritao",
+          "canonica": "Tritão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Triton"
+            ],
+            "es": [
+              "Tritón"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "cila",
+          "canonica": "Cila",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Scylla"
+            ],
+            "es": [
+              "Escila"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "caribdis",
+          "canonica": "Caríbdis",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Charybdis"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "tifao",
+          "canonica": "Tifão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Typhon"
+            ],
+            "es": [
+              "Tifón"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "lamia",
+          "canonica": "Lâmia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "sucubo",
+          "canonica": "Súcubo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Succubus"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "incubo",
+          "canonica": "Íncubo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Incubus"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "mumia",
+          "canonica": "Múmia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Mummy"
+            ],
+            "es": [
+              "Momia"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "zumbi",
+          "canonica": "Zumbi",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Zombie"
+            ],
+            "es": [
+              "Zombi"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "fantasma",
+          "canonica": "Fantasma",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Ghost"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "monstro-do-lago-ness",
+          "canonica": "Monstro do Lago Ness",
+          "aceitas": [
+            "Nessie"
+          ],
+          "traducoes": {
+            "en": [
+              "Loch Ness Monster"
+            ],
+            "es": [
+              "Monstruo del lago Ness"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "bicho-papao",
+          "canonica": "Bicho-papão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Boogeyman"
+            ],
+            "es": [
+              "Coco"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "kelpie",
+          "canonica": "Kelpie",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "wyvern",
+          "canonica": "Wyvern",
+          "aceitas": [
+            "Serpe"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "gargula",
+          "canonica": "Gárgula",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Gargoyle"
+            ],
+            "es": [
+              "Gárgola"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "leprechaun",
+          "canonica": "Leprechaun",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "pixie",
+          "canonica": "Pixie",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "argos",
+          "canonica": "Argos",
+          "aceitas": [
+            "Argos Panoptes"
+          ],
+          "traducoes": {
+            "en": [
+              "Argus"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "equidna",
+          "canonica": "Equidna",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Echidna"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "bunyip",
+          "canonica": "Bunyip",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        }
+      ]
+    },
+    {
+      "id": "mit-folclore-brasileiro",
+      "texto": "Cite um personagem ou lenda do folclore brasileiro",
+      "dificuldade": "facil",
+      "tags": [
+        "folclore",
+        "brasil",
+        "lendas"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Folclore_do_Brasil",
+      "respostas": [
+        {
+          "id": "saci",
+          "canonica": "Saci",
+          "aceitas": [
+            "Saci-Pererê"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "curupira",
+          "canonica": "Curupira",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "iara",
+          "canonica": "Iara",
+          "aceitas": [
+            "Mãe d'Água",
+            "Uiara"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "boitata",
+          "canonica": "Boitatá",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "mula-sem-cabeca",
+          "canonica": "Mula sem cabeça",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "lobisomem",
+          "canonica": "Lobisomem",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "boto-cor-de-rosa",
+          "canonica": "Boto cor-de-rosa",
+          "aceitas": [
+            "Boto"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cuca",
+          "canonica": "Cuca",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "caipora",
+          "canonica": "Caipora",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "mapinguari",
+          "canonica": "Mapinguari",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "negrinho-do-pastoreio",
+          "canonica": "Negrinho do Pastoreio",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "bicho-papao",
+          "canonica": "Bicho-papão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "vitoria-regia",
+          "canonica": "Vitória-régia",
+          "aceitas": [
+            "Lenda da vitória-régia"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "boi-bumba",
+          "canonica": "Boi-bumbá",
+          "aceitas": [
+            "Bumba meu boi"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "corpo-seco",
+          "canonica": "Corpo-seco",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cabeca-de-cuia",
+          "canonica": "Cabeça de Cuia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "matinta-perera",
+          "canonica": "Matinta Perera",
+          "aceitas": [
+            "Matintaperera"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "pisadeira",
+          "canonica": "Pisadeira",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "comadre-fulozinha",
+          "canonica": "Comadre Fulozinha",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "papa-figo",
+          "canonica": "Papa-figo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "mae-do-ouro",
+          "canonica": "Mãe do Ouro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "anhanga",
+          "canonica": "Anhangá",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ipupiara",
+          "canonica": "Ipupiara",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "labatut",
+          "canonica": "Labatut",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "homem-do-saco",
+          "canonica": "Homem do Saco",
+          "aceitas": [
+            "Velho do Saco"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "loira-do-banheiro",
+          "canonica": "Loira do Banheiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cobra-grande",
+          "canonica": "Cobra Grande",
+          "aceitas": [
+            "Boiúna"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "uirapuru",
+          "canonica": "Uirapuru",
+          "aceitas": [
+            "Lenda do uirapuru"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "lenda-do-guarana",
+          "canonica": "Lenda do Guaraná",
+          "aceitas": [
+            "Guaraná"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "lenda-da-mandioca",
+          "canonica": "Lenda da Mandioca",
+          "aceitas": [
+            "Mani"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "pai-do-mato",
+          "canonica": "Pai do Mato",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "romaozinho",
+          "canonica": "Romãozinho",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "alamoa",
+          "canonica": "Alamoa",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "quibungo",
+          "canonica": "Quibungo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "barba-ruiva",
+          "canonica": "Barba Ruiva",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "tutu-maramba",
+          "canonica": "Tutu Marambá",
+          "aceitas": [
+            "Tutu"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "cumacanga",
+          "canonica": "Cumacanga",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "mao-de-cabelo",
+          "canonica": "Mão de Cabelo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "bradador",
+          "canonica": "Bradador",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "porca-dos-sete-leitoes",
+          "canonica": "Porca dos Sete Leitões",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        }
+      ]
+    }
+  ]
+}

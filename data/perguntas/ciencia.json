@@ -1,0 +1,5680 @@
+{
+  "tema": "ciencia",
+  "nome": "Ciência",
+  "perguntas": [
+    {
+      "id": "cie-elementos-quimicos",
+      "texto": "Cite um elemento químico",
+      "dificuldade": "media",
+      "tags": [
+        "química",
+        "tabela periódica"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Lista_de_elementos_qu%C3%ADmicos",
+      "nota": "Vale o nome ou o símbolo (ex.: Fe).",
+      "respostas": [
+        {
+          "id": "oxigenio",
+          "canonica": "Oxigênio",
+          "aceitas": [
+            "O"
+          ],
+          "traducoes": {
+            "en": [
+              "Oxygen"
+            ],
+            "es": [
+              "Oxígeno"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "hidrogenio",
+          "canonica": "Hidrogênio",
+          "aceitas": [
+            "H"
+          ],
+          "traducoes": {
+            "en": [
+              "Hydrogen"
+            ],
+            "es": [
+              "Hidrógeno"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "carbono",
+          "canonica": "Carbono",
+          "aceitas": [
+            "C"
+          ],
+          "traducoes": {
+            "en": [
+              "Carbon"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "ferro",
+          "canonica": "Ferro",
+          "aceitas": [
+            "Fe"
+          ],
+          "traducoes": {
+            "en": [
+              "Iron"
+            ],
+            "es": [
+              "Hierro"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "ouro",
+          "canonica": "Ouro",
+          "aceitas": [
+            "Au"
+          ],
+          "traducoes": {
+            "en": [
+              "Gold"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "prata",
+          "canonica": "Prata",
+          "aceitas": [
+            "Ag"
+          ],
+          "traducoes": {
+            "en": [
+              "Silver"
+            ],
+            "es": [
+              "Plata"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "nitrogenio",
+          "canonica": "Nitrogênio",
+          "aceitas": [
+            "N",
+            "Azoto"
+          ],
+          "traducoes": {
+            "en": [
+              "Nitrogen"
+            ],
+            "es": [
+              "Nitrógeno"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "helio",
+          "canonica": "Hélio",
+          "aceitas": [
+            "He"
+          ],
+          "traducoes": {
+            "en": [
+              "Helium"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "calcio",
+          "canonica": "Cálcio",
+          "aceitas": [
+            "Ca"
+          ],
+          "traducoes": {
+            "en": [
+              "Calcium"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "sodio",
+          "canonica": "Sódio",
+          "aceitas": [
+            "Na"
+          ],
+          "traducoes": {
+            "en": [
+              "Sodium"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cobre",
+          "canonica": "Cobre",
+          "aceitas": [
+            "Cu"
+          ],
+          "traducoes": {
+            "en": [
+              "Copper"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "aluminio",
+          "canonica": "Alumínio",
+          "aceitas": [
+            "Al"
+          ],
+          "traducoes": {
+            "en": [
+              "Aluminium",
+              "Aluminum"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "chumbo",
+          "canonica": "Chumbo",
+          "aceitas": [
+            "Pb"
+          ],
+          "traducoes": {
+            "en": [
+              "Lead"
+            ],
+            "es": [
+              "Plomo"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "mercurio",
+          "canonica": "Mercúrio",
+          "aceitas": [
+            "Hg"
+          ],
+          "traducoes": {
+            "en": [
+              "Mercury"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "uranio",
+          "canonica": "Urânio",
+          "aceitas": [
+            "U"
+          ],
+          "traducoes": {
+            "en": [
+              "Uranium"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "potassio",
+          "canonica": "Potássio",
+          "aceitas": [
+            "K"
+          ],
+          "traducoes": {
+            "en": [
+              "Potassium"
+            ],
+            "es": [
+              "Potasio"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cloro",
+          "canonica": "Cloro",
+          "aceitas": [
+            "Cl"
+          ],
+          "traducoes": {
+            "en": [
+              "Chlorine"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "zinco",
+          "canonica": "Zinco",
+          "aceitas": [
+            "Zn"
+          ],
+          "traducoes": {
+            "en": [
+              "Zinc"
+            ],
+            "es": [
+              "Zinc"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "enxofre",
+          "canonica": "Enxofre",
+          "aceitas": [
+            "S"
+          ],
+          "traducoes": {
+            "en": [
+              "Sulfur",
+              "Sulphur"
+            ],
+            "es": [
+              "Azufre"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "fosforo",
+          "canonica": "Fósforo",
+          "aceitas": [
+            "P"
+          ],
+          "traducoes": {
+            "en": [
+              "Phosphorus"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "magnesio",
+          "canonica": "Magnésio",
+          "aceitas": [
+            "Mg"
+          ],
+          "traducoes": {
+            "en": [
+              "Magnesium"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "fluor",
+          "canonica": "Flúor",
+          "aceitas": [
+            "F"
+          ],
+          "traducoes": {
+            "en": [
+              "Fluorine"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "iodo",
+          "canonica": "Iodo",
+          "aceitas": [
+            "I"
+          ],
+          "traducoes": {
+            "en": [
+              "Iodine"
+            ],
+            "es": [
+              "Yodo"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "platina",
+          "canonica": "Platina",
+          "aceitas": [
+            "Pt"
+          ],
+          "traducoes": {
+            "en": [
+              "Platinum"
+            ],
+            "es": [
+              "Platino"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "neonio",
+          "canonica": "Neônio",
+          "aceitas": [
+            "Ne",
+            "Néon"
+          ],
+          "traducoes": {
+            "en": [
+              "Neon"
+            ],
+            "es": [
+              "Neón"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "silicio",
+          "canonica": "Silício",
+          "aceitas": [
+            "Si"
+          ],
+          "traducoes": {
+            "en": [
+              "Silicon"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "litio",
+          "canonica": "Lítio",
+          "aceitas": [
+            "Li"
+          ],
+          "traducoes": {
+            "en": [
+              "Lithium"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "niquel",
+          "canonica": "Níquel",
+          "aceitas": [
+            "Ni"
+          ],
+          "traducoes": {
+            "en": [
+              "Nickel"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "estanho",
+          "canonica": "Estanho",
+          "aceitas": [
+            "Sn"
+          ],
+          "traducoes": {
+            "es": [
+              "Estaño"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "titanio",
+          "canonica": "Titânio",
+          "aceitas": [
+            "Ti"
+          ],
+          "traducoes": {
+            "en": [
+              "Titanium"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "plutonio",
+          "canonica": "Plutônio",
+          "aceitas": [
+            "Pu"
+          ],
+          "traducoes": {
+            "en": [
+              "Plutonium"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "radio",
+          "canonica": "Rádio",
+          "aceitas": [
+            "Ra"
+          ],
+          "traducoes": {
+            "en": [
+              "Radium"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cromo",
+          "canonica": "Cromo",
+          "aceitas": [
+            "Cr"
+          ],
+          "traducoes": {
+            "en": [
+              "Chromium"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cobalto",
+          "canonica": "Cobalto",
+          "aceitas": [
+            "Co"
+          ],
+          "traducoes": {
+            "en": [
+              "Cobalt"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "manganes",
+          "canonica": "Manganês",
+          "aceitas": [
+            "Mn"
+          ],
+          "traducoes": {
+            "en": [
+              "Manganese"
+            ],
+            "es": [
+              "Manganeso"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "argonio",
+          "canonica": "Argônio",
+          "aceitas": [
+            "Ar",
+            "Árgon"
+          ],
+          "traducoes": {
+            "en": [
+              "Argon"
+            ],
+            "es": [
+              "Argón"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "boro",
+          "canonica": "Boro",
+          "aceitas": [
+            "B"
+          ],
+          "traducoes": {
+            "en": [
+              "Boron"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "berilio",
+          "canonica": "Berílio",
+          "aceitas": [
+            "Be"
+          ],
+          "traducoes": {
+            "en": [
+              "Beryllium"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "bromo",
+          "canonica": "Bromo",
+          "aceitas": [
+            "Br"
+          ],
+          "traducoes": {
+            "en": [
+              "Bromine"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "arsenio",
+          "canonica": "Arsênio",
+          "aceitas": [
+            "As"
+          ],
+          "traducoes": {
+            "en": [
+              "Arsenic"
+            ],
+            "es": [
+              "Arsénico"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tungstenio",
+          "canonica": "Tungstênio",
+          "aceitas": [
+            "W",
+            "Volfrâmio"
+          ],
+          "traducoes": {
+            "en": [
+              "Tungsten"
+            ],
+            "es": [
+              "Wolframio"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "criptonio",
+          "canonica": "Criptônio",
+          "aceitas": [
+            "Kr",
+            "Crípton"
+          ],
+          "traducoes": {
+            "en": [
+              "Krypton"
+            ],
+            "es": [
+              "Kriptón"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "xenonio",
+          "canonica": "Xenônio",
+          "aceitas": [
+            "Xe",
+            "Xénon"
+          ],
+          "traducoes": {
+            "en": [
+              "Xenon"
+            ],
+            "es": [
+              "Xenón"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "radonio",
+          "canonica": "Radônio",
+          "aceitas": [
+            "Rn",
+            "Rádon"
+          ],
+          "traducoes": {
+            "en": [
+              "Radon"
+            ],
+            "es": [
+              "Radón"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "polonio",
+          "canonica": "Polônio",
+          "aceitas": [
+            "Po"
+          ],
+          "traducoes": {
+            "en": [
+              "Polonium"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cesio",
+          "canonica": "Césio",
+          "aceitas": [
+            "Cs"
+          ],
+          "traducoes": {
+            "en": [
+              "Caesium",
+              "Cesium"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "bario",
+          "canonica": "Bário",
+          "aceitas": [
+            "Ba"
+          ],
+          "traducoes": {
+            "en": [
+              "Barium"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "selenio",
+          "canonica": "Selênio",
+          "aceitas": [
+            "Se"
+          ],
+          "traducoes": {
+            "en": [
+              "Selenium"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "germanio",
+          "canonica": "Germânio",
+          "aceitas": [
+            "Ge"
+          ],
+          "traducoes": {
+            "en": [
+              "Germanium"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "galio",
+          "canonica": "Gálio",
+          "aceitas": [
+            "Ga"
+          ],
+          "traducoes": {
+            "en": [
+              "Gallium"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "vanadio",
+          "canonica": "Vanádio",
+          "aceitas": [
+            "V"
+          ],
+          "traducoes": {
+            "en": [
+              "Vanadium"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "escandio",
+          "canonica": "Escândio",
+          "aceitas": [
+            "Sc"
+          ],
+          "traducoes": {
+            "en": [
+              "Scandium"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "rubidio",
+          "canonica": "Rubídio",
+          "aceitas": [
+            "Rb"
+          ],
+          "traducoes": {
+            "en": [
+              "Rubidium"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "estroncio",
+          "canonica": "Estrôncio",
+          "aceitas": [
+            "Sr"
+          ],
+          "traducoes": {
+            "en": [
+              "Strontium"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "itrio",
+          "canonica": "Ítrio",
+          "aceitas": [
+            "Y"
+          ],
+          "traducoes": {
+            "en": [
+              "Yttrium"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "zirconio",
+          "canonica": "Zircônio",
+          "aceitas": [
+            "Zr"
+          ],
+          "traducoes": {
+            "en": [
+              "Zirconium"
+            ],
+            "es": [
+              "Circonio"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "niobio",
+          "canonica": "Nióbio",
+          "aceitas": [
+            "Nb"
+          ],
+          "traducoes": {
+            "en": [
+              "Niobium"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "molibdenio",
+          "canonica": "Molibdênio",
+          "aceitas": [
+            "Mo"
+          ],
+          "traducoes": {
+            "en": [
+              "Molybdenum"
+            ],
+            "es": [
+              "Molibdeno"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tecnecio",
+          "canonica": "Tecnécio",
+          "aceitas": [
+            "Tc"
+          ],
+          "traducoes": {
+            "en": [
+              "Technetium"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "rutenio",
+          "canonica": "Rutênio",
+          "aceitas": [
+            "Ru"
+          ],
+          "traducoes": {
+            "en": [
+              "Ruthenium"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "rodio",
+          "canonica": "Ródio",
+          "aceitas": [
+            "Rh"
+          ],
+          "traducoes": {
+            "en": [
+              "Rhodium"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "paladio",
+          "canonica": "Paládio",
+          "aceitas": [
+            "Pd"
+          ],
+          "traducoes": {
+            "en": [
+              "Palladium"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cadmio",
+          "canonica": "Cádmio",
+          "aceitas": [
+            "Cd"
+          ],
+          "traducoes": {
+            "en": [
+              "Cadmium"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "indio",
+          "canonica": "Índio",
+          "aceitas": [
+            "In"
+          ],
+          "traducoes": {
+            "en": [
+              "Indium"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "antimonio",
+          "canonica": "Antimônio",
+          "aceitas": [
+            "Sb"
+          ],
+          "traducoes": {
+            "en": [
+              "Antimony"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "telurio",
+          "canonica": "Telúrio",
+          "aceitas": [
+            "Te"
+          ],
+          "traducoes": {
+            "en": [
+              "Tellurium"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "lantanio",
+          "canonica": "Lantânio",
+          "aceitas": [
+            "La"
+          ],
+          "traducoes": {
+            "en": [
+              "Lanthanum"
+            ],
+            "es": [
+              "Lantano"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cerio",
+          "canonica": "Cério",
+          "aceitas": [
+            "Ce"
+          ],
+          "traducoes": {
+            "en": [
+              "Cerium"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "praseodimio",
+          "canonica": "Praseodímio",
+          "aceitas": [
+            "Pr"
+          ],
+          "traducoes": {
+            "en": [
+              "Praseodymium"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "neodimio",
+          "canonica": "Neodímio",
+          "aceitas": [
+            "Nd"
+          ],
+          "traducoes": {
+            "en": [
+              "Neodymium"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "promecio",
+          "canonica": "Promécio",
+          "aceitas": [
+            "Pm"
+          ],
+          "traducoes": {
+            "en": [
+              "Promethium"
+            ],
+            "es": [
+              "Prometio"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "samario",
+          "canonica": "Samário",
+          "aceitas": [
+            "Sm"
+          ],
+          "traducoes": {
+            "en": [
+              "Samarium"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "europio",
+          "canonica": "Európio",
+          "aceitas": [
+            "Eu"
+          ],
+          "traducoes": {
+            "en": [
+              "Europium"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "gadolinio",
+          "canonica": "Gadolínio",
+          "aceitas": [
+            "Gd"
+          ],
+          "traducoes": {
+            "en": [
+              "Gadolinium"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "terbio",
+          "canonica": "Térbio",
+          "aceitas": [
+            "Tb"
+          ],
+          "traducoes": {
+            "en": [
+              "Terbium"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "disprosio",
+          "canonica": "Disprósio",
+          "aceitas": [
+            "Dy"
+          ],
+          "traducoes": {
+            "en": [
+              "Dysprosium"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "holmio",
+          "canonica": "Hólmio",
+          "aceitas": [
+            "Ho"
+          ],
+          "traducoes": {
+            "en": [
+              "Holmium"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "erbio",
+          "canonica": "Érbio",
+          "aceitas": [
+            "Er"
+          ],
+          "traducoes": {
+            "en": [
+              "Erbium"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "tulio",
+          "canonica": "Túlio",
+          "aceitas": [
+            "Tm"
+          ],
+          "traducoes": {
+            "en": [
+              "Thulium"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "iterbio",
+          "canonica": "Itérbio",
+          "aceitas": [
+            "Yb"
+          ],
+          "traducoes": {
+            "en": [
+              "Ytterbium"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "lutecio",
+          "canonica": "Lutécio",
+          "aceitas": [
+            "Lu"
+          ],
+          "traducoes": {
+            "en": [
+              "Lutetium"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "hafnio",
+          "canonica": "Háfnio",
+          "aceitas": [
+            "Hf"
+          ],
+          "traducoes": {
+            "en": [
+              "Hafnium"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "tantalo",
+          "canonica": "Tântalo",
+          "aceitas": [
+            "Ta"
+          ],
+          "traducoes": {
+            "en": [
+              "Tantalum"
+            ],
+            "es": [
+              "Tantalio"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "renio",
+          "canonica": "Rênio",
+          "aceitas": [
+            "Re"
+          ],
+          "traducoes": {
+            "en": [
+              "Rhenium"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "osmio",
+          "canonica": "Ósmio",
+          "aceitas": [
+            "Os"
+          ],
+          "traducoes": {
+            "en": [
+              "Osmium"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "iridio",
+          "canonica": "Irídio",
+          "aceitas": [
+            "Ir"
+          ],
+          "traducoes": {
+            "en": [
+              "Iridium"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "talio",
+          "canonica": "Tálio",
+          "aceitas": [
+            "Tl"
+          ],
+          "traducoes": {
+            "en": [
+              "Thallium"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "bismuto",
+          "canonica": "Bismuto",
+          "aceitas": [
+            "Bi"
+          ],
+          "traducoes": {
+            "en": [
+              "Bismuth"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "astato",
+          "canonica": "Astato",
+          "aceitas": [
+            "At"
+          ],
+          "traducoes": {
+            "en": [
+              "Astatine"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "francio",
+          "canonica": "Frâncio",
+          "aceitas": [
+            "Fr"
+          ],
+          "traducoes": {
+            "en": [
+              "Francium"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "actinio",
+          "canonica": "Actínio",
+          "aceitas": [
+            "Ac"
+          ],
+          "traducoes": {
+            "en": [
+              "Actinium"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "torio",
+          "canonica": "Tório",
+          "aceitas": [
+            "Th"
+          ],
+          "traducoes": {
+            "en": [
+              "Thorium"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "protactinio",
+          "canonica": "Protactínio",
+          "aceitas": [
+            "Pa"
+          ],
+          "traducoes": {
+            "en": [
+              "Protactinium"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "netunio",
+          "canonica": "Netúnio",
+          "aceitas": [
+            "Np"
+          ],
+          "traducoes": {
+            "en": [
+              "Neptunium"
+            ],
+            "es": [
+              "Neptunio"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "americio",
+          "canonica": "Amerício",
+          "aceitas": [
+            "Am"
+          ],
+          "traducoes": {
+            "en": [
+              "Americium"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "curio",
+          "canonica": "Cúrio",
+          "aceitas": [
+            "Cm"
+          ],
+          "traducoes": {
+            "en": [
+              "Curium"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "berquelio",
+          "canonica": "Berquélio",
+          "aceitas": [
+            "Bk"
+          ],
+          "traducoes": {
+            "en": [
+              "Berkelium"
+            ],
+            "es": [
+              "Berkelio"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "californio",
+          "canonica": "Califórnio",
+          "aceitas": [
+            "Cf"
+          ],
+          "traducoes": {
+            "en": [
+              "Californium"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "einstenio",
+          "canonica": "Einstênio",
+          "aceitas": [
+            "Es"
+          ],
+          "traducoes": {
+            "en": [
+              "Einsteinium"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "fermio",
+          "canonica": "Férmio",
+          "aceitas": [
+            "Fm"
+          ],
+          "traducoes": {
+            "en": [
+              "Fermium"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "mendelevio",
+          "canonica": "Mendelévio",
+          "aceitas": [
+            "Md"
+          ],
+          "traducoes": {
+            "en": [
+              "Mendelevium"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "nobelio",
+          "canonica": "Nobélio",
+          "aceitas": [
+            "No"
+          ],
+          "traducoes": {
+            "en": [
+              "Nobelium"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "laurencio",
+          "canonica": "Laurêncio",
+          "aceitas": [
+            "Lr"
+          ],
+          "traducoes": {
+            "en": [
+              "Lawrencium"
+            ],
+            "es": [
+              "Lawrencio"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "rutherfordio",
+          "canonica": "Rutherfórdio",
+          "aceitas": [
+            "Rf"
+          ],
+          "traducoes": {
+            "en": [
+              "Rutherfordium"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "dubnio",
+          "canonica": "Dúbnio",
+          "aceitas": [
+            "Db"
+          ],
+          "traducoes": {
+            "en": [
+              "Dubnium"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "seaborgio",
+          "canonica": "Seabórgio",
+          "aceitas": [
+            "Sg"
+          ],
+          "traducoes": {
+            "en": [
+              "Seaborgium"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "bohrio",
+          "canonica": "Bóhrio",
+          "aceitas": [
+            "Bh"
+          ],
+          "traducoes": {
+            "en": [
+              "Bohrium"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "hassio",
+          "canonica": "Hássio",
+          "aceitas": [
+            "Hs"
+          ],
+          "traducoes": {
+            "en": [
+              "Hassium"
+            ],
+            "es": [
+              "Hasio"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "meitnerio",
+          "canonica": "Meitnério",
+          "aceitas": [
+            "Mt"
+          ],
+          "traducoes": {
+            "en": [
+              "Meitnerium"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "darmstadio",
+          "canonica": "Darmstádio",
+          "aceitas": [
+            "Ds"
+          ],
+          "traducoes": {
+            "en": [
+              "Darmstadtium"
+            ],
+            "es": [
+              "Darmstatio"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "roentgenio",
+          "canonica": "Roentgênio",
+          "aceitas": [
+            "Rg"
+          ],
+          "traducoes": {
+            "en": [
+              "Roentgenium"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "copernicio",
+          "canonica": "Copernício",
+          "aceitas": [
+            "Cn"
+          ],
+          "traducoes": {
+            "en": [
+              "Copernicium"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "nihonio",
+          "canonica": "Nihônio",
+          "aceitas": [
+            "Nh"
+          ],
+          "traducoes": {
+            "en": [
+              "Nihonium"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "flerovio",
+          "canonica": "Fleróvio",
+          "aceitas": [
+            "Fl"
+          ],
+          "traducoes": {
+            "en": [
+              "Flerovium"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "moscovio",
+          "canonica": "Moscóvio",
+          "aceitas": [
+            "Mc"
+          ],
+          "traducoes": {
+            "en": [
+              "Moscovium"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "livermorio",
+          "canonica": "Livermório",
+          "aceitas": [
+            "Lv"
+          ],
+          "traducoes": {
+            "en": [
+              "Livermorium"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "tenesso",
+          "canonica": "Tenesso",
+          "aceitas": [
+            "Ts"
+          ],
+          "traducoes": {
+            "en": [
+              "Tennessine"
+            ],
+            "es": [
+              "Teneso"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "oganessonio",
+          "canonica": "Oganessônio",
+          "aceitas": [
+            "Og"
+          ],
+          "traducoes": {
+            "en": [
+              "Oganesson"
+            ],
+            "es": [
+              "Oganesón"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        }
+      ]
+    },
+    {
+      "id": "cie-sistema-solar",
+      "texto": "Cite um corpo celeste do Sistema Solar (planeta, planeta-anão, lua, asteroide ou cometa)",
+      "dificuldade": "media",
+      "tags": [
+        "astronomia",
+        "planetas"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Sistema_Solar",
+      "respostas": [
+        {
+          "id": "sol",
+          "canonica": "Sol",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Sun"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "terra",
+          "canonica": "Terra",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Earth"
+            ],
+            "es": [
+              "Tierra"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "lua",
+          "canonica": "Lua",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Moon"
+            ],
+            "es": [
+              "Luna"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "marte",
+          "canonica": "Marte",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Mars"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "jupiter",
+          "canonica": "Júpiter",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "saturno",
+          "canonica": "Saturno",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Saturn"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "mercurio",
+          "canonica": "Mercúrio",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Mercury"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "venus",
+          "canonica": "Vênus",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "urano",
+          "canonica": "Urano",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Uranus"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "netuno",
+          "canonica": "Netuno",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Neptune"
+            ],
+            "es": [
+              "Neptuno"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "plutao",
+          "canonica": "Plutão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Pluto"
+            ],
+            "es": [
+              "Plutón"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cometa-halley",
+          "canonica": "Cometa Halley",
+          "aceitas": [
+            "Halley"
+          ],
+          "traducoes": {
+            "en": [
+              "Halley's Comet"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "ceres",
+          "canonica": "Ceres",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "europa",
+          "canonica": "Europa",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "tita",
+          "canonica": "Titã",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Titan"
+            ],
+            "es": [
+              "Titán"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "io",
+          "canonica": "Io",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "ganimedes",
+          "canonica": "Ganimedes",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Ganymede"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "fobos",
+          "canonica": "Fobos",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Phobos"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "deimos",
+          "canonica": "Deimos",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "calisto",
+          "canonica": "Calisto",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Callisto"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "caronte",
+          "canonica": "Caronte",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Charon"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "eris",
+          "canonica": "Éris",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "encelado",
+          "canonica": "Encélado",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Enceladus"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tritao",
+          "canonica": "Tritão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Triton"
+            ],
+            "es": [
+              "Tritón"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "haumea",
+          "canonica": "Haumea",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "makemake",
+          "canonica": "Makemake",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "vesta",
+          "canonica": "Vesta",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "miranda",
+          "canonica": "Miranda",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "oberon",
+          "canonica": "Oberon",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "titania",
+          "canonica": "Titânia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ariel",
+          "canonica": "Ariel",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "umbriel",
+          "canonica": "Umbriel",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "mimas",
+          "canonica": "Mimas",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tetis",
+          "canonica": "Tétis",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Tethys"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "dione",
+          "canonica": "Dione",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "reia",
+          "canonica": "Reia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Rhea"
+            ],
+            "es": [
+              "Rea"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "japeto",
+          "canonica": "Jápeto",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Iapetus"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "hiperion",
+          "canonica": "Hipérion",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Hyperion"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "febe",
+          "canonica": "Febe",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Phoebe"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "nereida",
+          "canonica": "Nereida",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Nereid"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "palas",
+          "canonica": "Palas",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Pallas"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "juno",
+          "canonica": "Juno",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "sedna",
+          "canonica": "Sedna",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "quaoar",
+          "canonica": "Quaoar",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "orco",
+          "canonica": "Orco",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Orcus"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "amalteia",
+          "canonica": "Amalteia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Amalthea"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "proteu",
+          "canonica": "Proteu",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Proteus"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "pandora",
+          "canonica": "Pandora",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "prometeu",
+          "canonica": "Prometeu",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Prometheus"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "hidra",
+          "canonica": "Hidra",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Hydra"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "nix",
+          "canonica": "Nix",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "disnomia",
+          "canonica": "Disnomia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Dysnomia"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "arrokoth",
+          "canonica": "Arrokoth",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "bennu",
+          "canonica": "Bennu",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "apofis",
+          "canonica": "Apófis",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Apophis"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "eros",
+          "canonica": "Eros",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "cometa-hale-bopp",
+          "canonica": "Cometa Hale-Bopp",
+          "aceitas": [
+            "Hale-Bopp"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cometa-shoemaker-levy-9",
+          "canonica": "Cometa Shoemaker-Levy 9",
+          "aceitas": [
+            "Shoemaker-Levy"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        }
+      ]
+    },
+    {
+      "id": "cie-constelacoes",
+      "texto": "Cite uma das 88 constelações oficiais",
+      "dificuldade": "dificil",
+      "tags": [
+        "astronomia",
+        "constelações"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Lista_de_constela%C3%A7%C3%B5es",
+      "nota": "Vale o nome em português ou o nome oficial em latim.",
+      "respostas": [
+        {
+          "id": "cruzeiro-do-sul",
+          "canonica": "Cruzeiro do Sul",
+          "aceitas": [
+            "Crux"
+          ],
+          "traducoes": {
+            "en": [
+              "Southern Cross"
+            ],
+            "es": [
+              "Cruz del Sur"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "orion",
+          "canonica": "Órion",
+          "aceitas": [
+            "Três Marias"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "escorpiao",
+          "canonica": "Escorpião",
+          "aceitas": [
+            "Scorpius"
+          ],
+          "traducoes": {
+            "es": [
+              "Escorpio"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "ursa-maior",
+          "canonica": "Ursa Maior",
+          "aceitas": [
+            "Ursa Major"
+          ],
+          "traducoes": {
+            "en": [
+              "Great Bear"
+            ],
+            "es": [
+              "Osa Mayor"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "ursa-menor",
+          "canonica": "Ursa Menor",
+          "aceitas": [
+            "Ursa Minor"
+          ],
+          "traducoes": {
+            "en": [
+              "Little Bear"
+            ],
+            "es": [
+              "Osa Menor"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "aries",
+          "canonica": "Áries",
+          "aceitas": [
+            "Carneiro"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "touro",
+          "canonica": "Touro",
+          "aceitas": [
+            "Taurus"
+          ],
+          "traducoes": {
+            "es": [
+              "Tauro"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "gemeos",
+          "canonica": "Gêmeos",
+          "aceitas": [
+            "Gemini"
+          ],
+          "traducoes": {
+            "es": [
+              "Géminis"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cancer",
+          "canonica": "Câncer",
+          "aceitas": [
+            "Caranguejo"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "leao",
+          "canonica": "Leão",
+          "aceitas": [
+            "Leo"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "virgem",
+          "canonica": "Virgem",
+          "aceitas": [
+            "Virgo"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "libra",
+          "canonica": "Libra",
+          "aceitas": [
+            "Balança"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "sagitario",
+          "canonica": "Sagitário",
+          "aceitas": [
+            "Sagittarius"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "capricornio",
+          "canonica": "Capricórnio",
+          "aceitas": [
+            "Capricornus"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "aquario",
+          "canonica": "Aquário",
+          "aceitas": [
+            "Aquarius"
+          ],
+          "traducoes": {
+            "es": [
+              "Acuario"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "peixes",
+          "canonica": "Peixes",
+          "aceitas": [
+            "Pisces"
+          ],
+          "traducoes": {
+            "es": [
+              "Piscis"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cassiopeia",
+          "canonica": "Cassiopeia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "andromeda",
+          "canonica": "Andrômeda",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pegaso",
+          "canonica": "Pégaso",
+          "aceitas": [
+            "Pegasus"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "centauro",
+          "canonica": "Centauro",
+          "aceitas": [
+            "Centaurus"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "dragao",
+          "canonica": "Dragão",
+          "aceitas": [
+            "Draco"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "hercules",
+          "canonica": "Hércules",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "perseu",
+          "canonica": "Perseu",
+          "aceitas": [
+            "Perseus"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "fenix",
+          "canonica": "Fênix",
+          "aceitas": [
+            "Phoenix"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cao-maior",
+          "canonica": "Cão Maior",
+          "aceitas": [
+            "Canis Major"
+          ],
+          "traducoes": {
+            "es": [
+              "Can Mayor"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cao-menor",
+          "canonica": "Cão Menor",
+          "aceitas": [
+            "Canis Minor"
+          ],
+          "traducoes": {
+            "es": [
+              "Can Menor"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "lira",
+          "canonica": "Lira",
+          "aceitas": [
+            "Lyra"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cisne",
+          "canonica": "Cisne",
+          "aceitas": [
+            "Cygnus"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "aguia",
+          "canonica": "Águia",
+          "aceitas": [
+            "Aquila"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "hidra",
+          "canonica": "Hidra",
+          "aceitas": [
+            "Hydra"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tucano",
+          "canonica": "Tucano",
+          "aceitas": [
+            "Tucana"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "pavao",
+          "canonica": "Pavão",
+          "aceitas": [
+            "Pavo"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "lobo",
+          "canonica": "Lobo",
+          "aceitas": [
+            "Lupus"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "lebre",
+          "canonica": "Lebre",
+          "aceitas": [
+            "Lepus"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "corvo",
+          "canonica": "Corvo",
+          "aceitas": [
+            "Corvus"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "pomba",
+          "canonica": "Pomba",
+          "aceitas": [
+            "Columba"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "baleia",
+          "canonica": "Baleia",
+          "aceitas": [
+            "Cetus"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "golfinho",
+          "canonica": "Golfinho",
+          "aceitas": [
+            "Delphinus"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "coroa-boreal",
+          "canonica": "Coroa Boreal",
+          "aceitas": [
+            "Corona Borealis"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "coroa-austral",
+          "canonica": "Coroa Austral",
+          "aceitas": [
+            "Corona Australis"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "triangulo",
+          "canonica": "Triângulo",
+          "aceitas": [
+            "Triangulum"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "triangulo-austral",
+          "canonica": "Triângulo Austral",
+          "aceitas": [
+            "Triangulum Australe"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "camaleao",
+          "canonica": "Camaleão",
+          "aceitas": [
+            "Chamaeleon"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "lince",
+          "canonica": "Lince",
+          "aceitas": [
+            "Lynx"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "lagarto",
+          "canonica": "Lagarto",
+          "aceitas": [
+            "Lacerta"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "raposa",
+          "canonica": "Raposa",
+          "aceitas": [
+            "Vulpecula"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "unicornio",
+          "canonica": "Unicórnio",
+          "aceitas": [
+            "Monoceros"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "girafa",
+          "canonica": "Girafa",
+          "aceitas": [
+            "Camelopardalis"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cocheiro",
+          "canonica": "Cocheiro",
+          "aceitas": [
+            "Auriga"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "boieiro",
+          "canonica": "Boieiro",
+          "aceitas": [
+            "Boötes"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cefeu",
+          "canonica": "Cefeu",
+          "aceitas": [
+            "Cepheus"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ofiuco",
+          "canonica": "Ofiúco",
+          "aceitas": [
+            "Ophiuchus",
+            "Serpentário"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "serpente",
+          "canonica": "Serpente",
+          "aceitas": [
+            "Serpens"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "eridano",
+          "canonica": "Erídano",
+          "aceitas": [
+            "Eridanus"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "leao-menor",
+          "canonica": "Leão Menor",
+          "aceitas": [
+            "Leo Minor"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "caes-de-caca",
+          "canonica": "Cães de Caça",
+          "aceitas": [
+            "Canes Venatici"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "cabeleira-de-berenice",
+          "canonica": "Cabeleira de Berenice",
+          "aceitas": [
+            "Coma Berenices"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "taca",
+          "canonica": "Taça",
+          "aceitas": [
+            "Crater"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "grou",
+          "canonica": "Grou",
+          "aceitas": [
+            "Grus"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "indio",
+          "canonica": "Índio",
+          "aceitas": [
+            "Indus"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "peixe-austral",
+          "canonica": "Peixe Austral",
+          "aceitas": [
+            "Piscis Austrinus"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "peixe-voador",
+          "canonica": "Peixe Voador",
+          "aceitas": [
+            "Volans"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "dourado",
+          "canonica": "Dourado",
+          "aceitas": [
+            "Dorado"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "mosca",
+          "canonica": "Mosca",
+          "aceitas": [
+            "Musca"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "vela",
+          "canonica": "Vela",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "quilha",
+          "canonica": "Quilha",
+          "aceitas": [
+            "Carina"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "popa",
+          "canonica": "Popa",
+          "aceitas": [
+            "Puppis"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "bussola",
+          "canonica": "Bússola",
+          "aceitas": [
+            "Pyxis"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "altar",
+          "canonica": "Altar",
+          "aceitas": [
+            "Ara"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ave-do-paraiso",
+          "canonica": "Ave do Paraíso",
+          "aceitas": [
+            "Apus"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "compasso",
+          "canonica": "Compasso",
+          "aceitas": [
+            "Circinus"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "escudo",
+          "canonica": "Escudo",
+          "aceitas": [
+            "Scutum"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "sextante",
+          "canonica": "Sextante",
+          "aceitas": [
+            "Sextans"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "telescopio",
+          "canonica": "Telescópio",
+          "aceitas": [
+            "Telescopium"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "microscopio",
+          "canonica": "Microscópio",
+          "aceitas": [
+            "Microscopium"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "relogio",
+          "canonica": "Relógio",
+          "aceitas": [
+            "Horologium"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "reticulo",
+          "canonica": "Retículo",
+          "aceitas": [
+            "Reticulum"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "escultor",
+          "canonica": "Escultor",
+          "aceitas": [
+            "Sculptor"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "fornalha",
+          "canonica": "Fornalha",
+          "aceitas": [
+            "Fornax"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "buril",
+          "canonica": "Buril",
+          "aceitas": [
+            "Caelum"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "pintor",
+          "canonica": "Pintor",
+          "aceitas": [
+            "Pictor"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "regua",
+          "canonica": "Régua",
+          "aceitas": [
+            "Norma",
+            "Esquadro"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "oitante",
+          "canonica": "Oitante",
+          "aceitas": [
+            "Octans"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "mesa",
+          "canonica": "Mesa",
+          "aceitas": [
+            "Mensa"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "maquina-pneumatica",
+          "canonica": "Máquina Pneumática",
+          "aceitas": [
+            "Antlia"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "hidra-macho",
+          "canonica": "Hidra Macho",
+          "aceitas": [
+            "Hydrus",
+            "Hidra Austral"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "cavalo-menor",
+          "canonica": "Cavalo Menor",
+          "aceitas": [
+            "Equuleus"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "flecha",
+          "canonica": "Flecha",
+          "aceitas": [
+            "Sagitta"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        }
+      ]
+    },
+    {
+      "id": "cie-cientistas",
+      "texto": "Cite um(a) cientista famoso(a)",
+      "dificuldade": "facil",
+      "tags": [
+        "cientistas",
+        "história da ciência"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Lista_de_cientistas",
+      "respostas": [
+        {
+          "id": "albert-einstein",
+          "canonica": "Albert Einstein",
+          "aceitas": [
+            "Einstein"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "isaac-newton",
+          "canonica": "Isaac Newton",
+          "aceitas": [
+            "Newton"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "galileu-galilei",
+          "canonica": "Galileu Galilei",
+          "aceitas": [
+            "Galileu",
+            "Galilei"
+          ],
+          "traducoes": {
+            "en": [
+              "Galileo Galilei",
+              "Galileo"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "charles-darwin",
+          "canonica": "Charles Darwin",
+          "aceitas": [
+            "Darwin"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "marie-curie",
+          "canonica": "Marie Curie",
+          "aceitas": [
+            "Madame Curie"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "nikola-tesla",
+          "canonica": "Nikola Tesla",
+          "aceitas": [
+            "Tesla"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "thomas-edison",
+          "canonica": "Thomas Edison",
+          "aceitas": [
+            "Edison"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "stephen-hawking",
+          "canonica": "Stephen Hawking",
+          "aceitas": [
+            "Hawking"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "louis-pasteur",
+          "canonica": "Louis Pasteur",
+          "aceitas": [
+            "Pasteur"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "alexander-fleming",
+          "canonica": "Alexander Fleming",
+          "aceitas": [
+            "Fleming"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "santos-dumont",
+          "canonica": "Santos Dumont",
+          "aceitas": [
+            "Alberto Santos-Dumont"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "oswaldo-cruz",
+          "canonica": "Oswaldo Cruz",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "aristoteles",
+          "canonica": "Aristóteles",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Aristotle"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "sigmund-freud",
+          "canonica": "Sigmund Freud",
+          "aceitas": [
+            "Freud"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "gregor-mendel",
+          "canonica": "Gregor Mendel",
+          "aceitas": [
+            "Mendel"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "nicolau-copernico",
+          "canonica": "Nicolau Copérnico",
+          "aceitas": [
+            "Copérnico"
+          ],
+          "traducoes": {
+            "en": [
+              "Nicolaus Copernicus",
+              "Copernicus"
+            ],
+            "es": [
+              "Nicolás Copérnico"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "johannes-kepler",
+          "canonica": "Johannes Kepler",
+          "aceitas": [
+            "Kepler"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "arquimedes",
+          "canonica": "Arquimedes",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Archimedes"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pitagoras",
+          "canonica": "Pitágoras",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Pythagoras"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "leonardo-da-vinci",
+          "canonica": "Leonardo da Vinci",
+          "aceitas": [
+            "Da Vinci"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "carlos-chagas",
+          "canonica": "Carlos Chagas",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "alexander-graham-bell",
+          "canonica": "Alexander Graham Bell",
+          "aceitas": [
+            "Graham Bell"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "michael-faraday",
+          "canonica": "Michael Faraday",
+          "aceitas": [
+            "Faraday"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "niels-bohr",
+          "canonica": "Niels Bohr",
+          "aceitas": [
+            "Bohr"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "max-planck",
+          "canonica": "Max Planck",
+          "aceitas": [
+            "Planck"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "werner-heisenberg",
+          "canonica": "Werner Heisenberg",
+          "aceitas": [
+            "Heisenberg"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "erwin-schrodinger",
+          "canonica": "Erwin Schrödinger",
+          "aceitas": [
+            "Schrödinger"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "robert-oppenheimer",
+          "canonica": "Robert Oppenheimer",
+          "aceitas": [
+            "Oppenheimer"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "dmitri-mendeleiev",
+          "canonica": "Dmitri Mendeleiev",
+          "aceitas": [
+            "Mendeleiev",
+            "Mendeleev"
+          ],
+          "traducoes": {
+            "en": [
+              "Dmitri Mendeleev"
+            ],
+            "es": [
+              "Dmitri Mendeléyev"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "antoine-lavoisier",
+          "canonica": "Antoine Lavoisier",
+          "aceitas": [
+            "Lavoisier"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "carl-sagan",
+          "canonica": "Carl Sagan",
+          "aceitas": [
+            "Sagan"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "alan-turing",
+          "canonica": "Alan Turing",
+          "aceitas": [
+            "Turing"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "vital-brazil",
+          "canonica": "Vital Brazil",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cesar-lattes",
+          "canonica": "César Lattes",
+          "aceitas": [
+            "Lattes"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "james-clerk-maxwell",
+          "canonica": "James Clerk Maxwell",
+          "aceitas": [
+            "Maxwell"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "richard-feynman",
+          "canonica": "Richard Feynman",
+          "aceitas": [
+            "Feynman"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "enrico-fermi",
+          "canonica": "Enrico Fermi",
+          "aceitas": [
+            "Fermi"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "robert-boyle",
+          "canonica": "Robert Boyle",
+          "aceitas": [
+            "Boyle"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "alessandro-volta",
+          "canonica": "Alessandro Volta",
+          "aceitas": [
+            "Volta"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "andre-marie-ampere",
+          "canonica": "André-Marie Ampère",
+          "aceitas": [
+            "Ampère"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "georg-ohm",
+          "canonica": "Georg Ohm",
+          "aceitas": [
+            "Ohm"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "edwin-hubble",
+          "canonica": "Edwin Hubble",
+          "aceitas": [
+            "Hubble"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ada-lovelace",
+          "canonica": "Ada Lovelace",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "rosalind-franklin",
+          "canonica": "Rosalind Franklin",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "james-watson",
+          "canonica": "James Watson",
+          "aceitas": [
+            "Watson"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "francis-crick",
+          "canonica": "Francis Crick",
+          "aceitas": [
+            "Crick"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "robert-koch",
+          "canonica": "Robert Koch",
+          "aceitas": [
+            "Koch"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "edward-jenner",
+          "canonica": "Edward Jenner",
+          "aceitas": [
+            "Jenner"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "hipocrates",
+          "canonica": "Hipócrates",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Hippocrates"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "blaise-pascal",
+          "canonica": "Blaise Pascal",
+          "aceitas": [
+            "Pascal"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "rene-descartes",
+          "canonica": "René Descartes",
+          "aceitas": [
+            "Descartes"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ernest-rutherford",
+          "canonica": "Ernest Rutherford",
+          "aceitas": [
+            "Rutherford"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "j-j-thomson",
+          "canonica": "J. J. Thomson",
+          "aceitas": [
+            "Thomson"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "john-dalton",
+          "canonica": "John Dalton",
+          "aceitas": [
+            "Dalton"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "amedeo-avogadro",
+          "canonica": "Amedeo Avogadro",
+          "aceitas": [
+            "Avogadro"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "albert-sabin",
+          "canonica": "Albert Sabin",
+          "aceitas": [
+            "Sabin"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "benjamin-franklin",
+          "canonica": "Benjamin Franklin",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "guglielmo-marconi",
+          "canonica": "Guglielmo Marconi",
+          "aceitas": [
+            "Marconi"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "pierre-curie",
+          "canonica": "Pierre Curie",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "euclides",
+          "canonica": "Euclides",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Euclid"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "james-watt",
+          "canonica": "James Watt",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "adolpho-lutz",
+          "canonica": "Adolpho Lutz",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "galeno",
+          "canonica": "Galeno",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Galen"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "gottfried-leibniz",
+          "canonica": "Gottfried Leibniz",
+          "aceitas": [
+            "Leibniz"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "lineu",
+          "canonica": "Lineu",
+          "aceitas": [
+            "Carl Linnaeus",
+            "Carlos Lineu"
+          ],
+          "traducoes": {
+            "en": [
+              "Carl Linnaeus"
+            ],
+            "es": [
+              "Carlos Linneo"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "alfred-wegener",
+          "canonica": "Alfred Wegener",
+          "aceitas": [
+            "Wegener"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "jonas-salk",
+          "canonica": "Jonas Salk",
+          "aceitas": [
+            "Salk"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "linus-pauling",
+          "canonica": "Linus Pauling",
+          "aceitas": [
+            "Pauling"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "heinrich-hertz",
+          "canonica": "Heinrich Hertz",
+          "aceitas": [
+            "Hertz"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "christiaan-huygens",
+          "canonica": "Christiaan Huygens",
+          "aceitas": [
+            "Huygens"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "tycho-brahe",
+          "canonica": "Tycho Brahe",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "hipatia",
+          "canonica": "Hipátia",
+          "aceitas": [
+            "Hipátia de Alexandria"
+          ],
+          "traducoes": {
+            "en": [
+              "Hypatia"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "jane-goodall",
+          "canonica": "Jane Goodall",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "peter-higgs",
+          "canonica": "Peter Higgs",
+          "aceitas": [
+            "Higgs"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "marcelo-gleiser",
+          "canonica": "Marcelo Gleiser",
+          "aceitas": [
+            "Gleiser"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "miguel-nicolelis",
+          "canonica": "Miguel Nicolelis",
+          "aceitas": [
+            "Nicolelis"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "lise-meitner",
+          "canonica": "Lise Meitner",
+          "aceitas": [
+            "Meitner"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "johanna-dobereiner",
+          "canonica": "Johanna Döbereiner",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "mario-schenberg",
+          "canonica": "Mário Schenberg",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "bertha-lutz",
+          "canonica": "Bertha Lutz",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "katalin-kariko",
+          "canonica": "Katalin Karikó",
+          "aceitas": [
+            "Karikó"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        }
+      ]
+    },
+    {
+      "id": "cie-unidades-medida",
+      "texto": "Cite uma unidade de medida",
+      "dificuldade": "media",
+      "tags": [
+        "física",
+        "medidas",
+        "si"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Sistema_Internacional_de_Unidades",
+      "respostas": [
+        {
+          "id": "metro",
+          "canonica": "Metro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Meter",
+              "Metre"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "quilometro",
+          "canonica": "Quilômetro",
+          "aceitas": [
+            "km"
+          ],
+          "traducoes": {
+            "en": [
+              "Kilometer"
+            ],
+            "es": [
+              "Kilómetro"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "centimetro",
+          "canonica": "Centímetro",
+          "aceitas": [
+            "cm"
+          ],
+          "traducoes": {
+            "en": [
+              "Centimeter"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "milimetro",
+          "canonica": "Milímetro",
+          "aceitas": [
+            "mm"
+          ],
+          "traducoes": {
+            "en": [
+              "Millimeter"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "grama",
+          "canonica": "Grama",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Gram"
+            ],
+            "es": [
+              "Gramo"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "quilograma",
+          "canonica": "Quilograma",
+          "aceitas": [
+            "kg",
+            "Quilo"
+          ],
+          "traducoes": {
+            "en": [
+              "Kilogram"
+            ],
+            "es": [
+              "Kilogramo"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "litro",
+          "canonica": "Litro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Liter",
+              "Litre"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "mililitro",
+          "canonica": "Mililitro",
+          "aceitas": [
+            "ml"
+          ],
+          "traducoes": {
+            "en": [
+              "Milliliter"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "segundo",
+          "canonica": "Segundo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Second"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "minuto",
+          "canonica": "Minuto",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Minute"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "hora",
+          "canonica": "Hora",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Hour"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "tonelada",
+          "canonica": "Tonelada",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Ton",
+              "Tonne"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "polegada",
+          "canonica": "Polegada",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Inch"
+            ],
+            "es": [
+              "Pulgada"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "grau-celsius",
+          "canonica": "Grau Celsius",
+          "aceitas": [
+            "Celsius"
+          ],
+          "traducoes": {
+            "en": [
+              "Degree Celsius"
+            ],
+            "es": [
+              "Grado Celsius"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "metro-quadrado",
+          "canonica": "Metro quadrado",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Square meter"
+            ],
+            "es": [
+              "Metro cuadrado"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "metro-cubico",
+          "canonica": "Metro cúbico",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cubic meter"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pe",
+          "canonica": "Pé",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Foot",
+              "Feet"
+            ],
+            "es": [
+              "Pie"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "jarda",
+          "canonica": "Jarda",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Yard"
+            ],
+            "es": [
+              "Yarda"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "milha",
+          "canonica": "Milha",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Mile"
+            ],
+            "es": [
+              "Milla"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "milha-nautica",
+          "canonica": "Milha náutica",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Nautical mile"
+            ],
+            "es": [
+              "Milla náutica"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ano-luz",
+          "canonica": "Ano-luz",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Light-year"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "miligrama",
+          "canonica": "Miligrama",
+          "aceitas": [
+            "mg"
+          ],
+          "traducoes": {
+            "en": [
+              "Milligram"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "libra",
+          "canonica": "Libra",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Pound"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "onca",
+          "canonica": "Onça",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Ounce"
+            ],
+            "es": [
+              "Onza"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "arroba",
+          "canonica": "Arroba",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "quilate",
+          "canonica": "Quilate",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Carat"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "galao",
+          "canonica": "Galão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Gallon"
+            ],
+            "es": [
+              "Galón"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "hectare",
+          "canonica": "Hectare",
+          "aceitas": [],
+          "traducoes": {
+            "es": [
+              "Hectárea"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "alqueire",
+          "canonica": "Alqueire",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "acre",
+          "canonica": "Acre",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "grau-fahrenheit",
+          "canonica": "Grau Fahrenheit",
+          "aceitas": [
+            "Fahrenheit"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "kelvin",
+          "canonica": "Kelvin",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "newton",
+          "canonica": "Newton",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "joule",
+          "canonica": "Joule",
+          "aceitas": [],
+          "traducoes": {
+            "es": [
+              "Julio"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "watt",
+          "canonica": "Watt",
+          "aceitas": [],
+          "traducoes": {
+            "es": [
+              "Vatio"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "volt",
+          "canonica": "Volt",
+          "aceitas": [],
+          "traducoes": {
+            "es": [
+              "Voltio"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ampere",
+          "canonica": "Ampère",
+          "aceitas": [],
+          "traducoes": {
+            "es": [
+              "Amperio"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ohm",
+          "canonica": "Ohm",
+          "aceitas": [],
+          "traducoes": {
+            "es": [
+              "Ohmio"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "caloria",
+          "canonica": "Caloria",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Calorie"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "quilocaloria",
+          "canonica": "Quilocaloria",
+          "aceitas": [
+            "kcal"
+          ],
+          "traducoes": {
+            "en": [
+              "Kilocalorie"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "pascal",
+          "canonica": "Pascal",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "hertz",
+          "canonica": "Hertz",
+          "aceitas": [],
+          "traducoes": {
+            "es": [
+              "Hercio"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "coulomb",
+          "canonica": "Coulomb",
+          "aceitas": [],
+          "traducoes": {
+            "es": [
+              "Culombio"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tesla",
+          "canonica": "Tesla",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "weber",
+          "canonica": "Weber",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "henry",
+          "canonica": "Henry",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "farad",
+          "canonica": "Farad",
+          "aceitas": [],
+          "traducoes": {
+            "es": [
+              "Faradio"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "mol",
+          "canonica": "Mol",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Mole"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "candela",
+          "canonica": "Candela",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "lumen",
+          "canonica": "Lúmen",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "lux",
+          "canonica": "Lux",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "becquerel",
+          "canonica": "Becquerel",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "decibel",
+          "canonica": "Decibel",
+          "aceitas": [
+            "dB"
+          ],
+          "traducoes": {
+            "es": [
+              "Decibelio"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "byte",
+          "canonica": "Byte",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "bit",
+          "canonica": "Bit",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "no",
+          "canonica": "Nó",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Knot"
+            ],
+            "es": [
+              "Nudo"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "cavalo-vapor",
+          "canonica": "Cavalo-vapor",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Horsepower"
+            ],
+            "es": [
+              "Caballo de vapor"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "bar",
+          "canonica": "Bar",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "atmosfera",
+          "canonica": "Atmosfera",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Atmosphere"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "milimetro-de-mercurio",
+          "canonica": "Milímetro de mercúrio",
+          "aceitas": [
+            "mmHg"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "legua",
+          "canonica": "Légua",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "League"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "palmo",
+          "canonica": "Palmo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "braca",
+          "canonica": "Braça",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Fathom"
+            ],
+            "es": [
+              "Braza"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "quilowatt-hora",
+          "canonica": "Quilowatt-hora",
+          "aceitas": [
+            "kWh"
+          ],
+          "traducoes": {
+            "en": [
+              "Kilowatt-hour"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "unidade-astronomica",
+          "canonica": "Unidade astronômica",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Astronomical unit"
+            ],
+            "es": [
+              "Unidad astronómica"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "parsec",
+          "canonica": "Parsec",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "dia",
+          "canonica": "Dia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Day"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "semana",
+          "canonica": "Semana",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Week"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "mes",
+          "canonica": "Mês",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Month"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ano",
+          "canonica": "Ano",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Year"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "decada",
+          "canonica": "Década",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Decade"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "seculo",
+          "canonica": "Século",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Century"
+            ],
+            "es": [
+              "Siglo"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "milenio",
+          "canonica": "Milênio",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Millennium"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "gigabyte",
+          "canonica": "Gigabyte",
+          "aceitas": [
+            "GB"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "megabyte",
+          "canonica": "Megabyte",
+          "aceitas": [
+            "MB"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "quilobyte",
+          "canonica": "Quilobyte",
+          "aceitas": [
+            "Kilobyte"
+          ],
+          "traducoes": {
+            "en": [
+              "Kilobyte"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "terabyte",
+          "canonica": "Terabyte",
+          "aceitas": [
+            "TB"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "nanometro",
+          "canonica": "Nanômetro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Nanometer"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "micrometro",
+          "canonica": "Micrômetro",
+          "aceitas": [
+            "Mícron"
+          ],
+          "traducoes": {
+            "en": [
+              "Micrometer"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "decilitro",
+          "canonica": "Decilitro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Deciliter"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "sievert",
+          "canonica": "Sievert",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "radiano",
+          "canonica": "Radiano",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Radian"
+            ],
+            "es": [
+              "Radián"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        }
+      ]
+    },
+    {
+      "id": "cie-estudos-logia",
+      "texto": "Cite um ramo de estudo cujo nome termina em \"-logia\"",
+      "dificuldade": "media",
+      "tags": [
+        "ciência",
+        "palavras"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/-logia",
+      "nota": "Áreas acadêmicas, científicas ou médicas reconhecidas (pseudociências não valem).",
+      "respostas": [
+        {
+          "id": "biologia",
+          "canonica": "Biologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Biology"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "geologia",
+          "canonica": "Geologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Geology"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "psicologia",
+          "canonica": "Psicologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Psychology"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "sociologia",
+          "canonica": "Sociologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Sociology"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "zoologia",
+          "canonica": "Zoologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Zoology"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "arqueologia",
+          "canonica": "Arqueologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Archaeology"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "ecologia",
+          "canonica": "Ecologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Ecology"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cardiologia",
+          "canonica": "Cardiologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cardiology"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "odontologia",
+          "canonica": "Odontologia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "antropologia",
+          "canonica": "Antropologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Anthropology"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "meteorologia",
+          "canonica": "Meteorologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Meteorology"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "dermatologia",
+          "canonica": "Dermatologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Dermatology"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "neurologia",
+          "canonica": "Neurologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Neurology"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "ginecologia",
+          "canonica": "Ginecologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Gynecology"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "oftalmologia",
+          "canonica": "Oftalmologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Ophthalmology"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "oncologia",
+          "canonica": "Oncologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Oncology"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "urologia",
+          "canonica": "Urologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Urology"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "teologia",
+          "canonica": "Teologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Theology"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "mitologia",
+          "canonica": "Mitologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Mythology"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "paleontologia",
+          "canonica": "Paleontologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Paleontology"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "microbiologia",
+          "canonica": "Microbiologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Microbiology"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "fisiologia",
+          "canonica": "Fisiologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Physiology"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "patologia",
+          "canonica": "Patologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Pathology"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "imunologia",
+          "canonica": "Imunologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Immunology"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "radiologia",
+          "canonica": "Radiologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Radiology"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "endocrinologia",
+          "canonica": "Endocrinologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Endocrinology"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "gastroenterologia",
+          "canonica": "Gastroenterologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Gastroenterology"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "otorrinolaringologia",
+          "canonica": "Otorrinolaringologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Otolaryngology"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "fonoaudiologia",
+          "canonica": "Fonoaudiologia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cosmologia",
+          "canonica": "Cosmologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cosmology"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "climatologia",
+          "canonica": "Climatologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Climatology"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "etimologia",
+          "canonica": "Etimologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Etymology"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "morfologia",
+          "canonica": "Morfologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Morphology"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "fonologia",
+          "canonica": "Fonologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Phonology"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "epidemiologia",
+          "canonica": "Epidemiologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Epidemiology"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "farmacologia",
+          "canonica": "Farmacologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Pharmacology"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "toxicologia",
+          "canonica": "Toxicologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Toxicology"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "virologia",
+          "canonica": "Virologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Virology"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "bacteriologia",
+          "canonica": "Bacteriologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Bacteriology"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "parasitologia",
+          "canonica": "Parasitologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Parasitology"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "hematologia",
+          "canonica": "Hematologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Hematology"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "nefrologia",
+          "canonica": "Nefrologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Nephrology"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "pneumologia",
+          "canonica": "Pneumologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Pulmonology"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "reumatologia",
+          "canonica": "Reumatologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Rheumatology"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "anestesiologia",
+          "canonica": "Anestesiologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Anesthesiology"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "infectologia",
+          "canonica": "Infectologia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "citologia",
+          "canonica": "Citologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cytology"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "histologia",
+          "canonica": "Histologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Histology"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "embriologia",
+          "canonica": "Embriologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Embryology"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "entomologia",
+          "canonica": "Entomologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Entomology"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ornitologia",
+          "canonica": "Ornitologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Ornithology"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "criminologia",
+          "canonica": "Criminologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Criminology"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ictiologia",
+          "canonica": "Ictiologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Ichthyology"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "herpetologia",
+          "canonica": "Herpetologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Herpetology"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "micologia",
+          "canonica": "Micologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Mycology"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "primatologia",
+          "canonica": "Primatologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Primatology"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "mineralogia",
+          "canonica": "Mineralogia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Mineralogy"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "sismologia",
+          "canonica": "Sismologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Seismology"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "vulcanologia",
+          "canonica": "Vulcanologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Volcanology"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "hidrologia",
+          "canonica": "Hidrologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Hydrology"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "oceanologia",
+          "canonica": "Oceanologia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "espeleologia",
+          "canonica": "Espeleologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Speleology"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "glaciologia",
+          "canonica": "Glaciologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Glaciology"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "filologia",
+          "canonica": "Filologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Philology"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "musicologia",
+          "canonica": "Musicologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Musicology"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "egiptologia",
+          "canonica": "Egiptologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Egyptology"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "epistemologia",
+          "canonica": "Epistemologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Epistemology"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ontologia",
+          "canonica": "Ontologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Ontology"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "gerontologia",
+          "canonica": "Gerontologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Gerontology"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "enologia",
+          "canonica": "Enologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Oenology"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "museologia",
+          "canonica": "Museologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Museology"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "proctologia",
+          "canonica": "Proctologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Proctology"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "traumatologia",
+          "canonica": "Traumatologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Traumatology"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "astrobiologia",
+          "canonica": "Astrobiologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Astrobiology"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "axiologia",
+          "canonica": "Axiologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Axiology"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "deontologia",
+          "canonica": "Deontologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Deontology"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "escatologia",
+          "canonica": "Escatologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Eschatology"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "neonatologia",
+          "canonica": "Neonatologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Neonatology"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "lexicologia",
+          "canonica": "Lexicologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Lexicology"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "semiologia",
+          "canonica": "Semiologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Semiology"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "arquivologia",
+          "canonica": "Arquivologia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "mastologia",
+          "canonica": "Mastologia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "angiologia",
+          "canonica": "Angiologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Angiology"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "hepatologia",
+          "canonica": "Hepatologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Hepatology"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "terminologia",
+          "canonica": "Terminologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Terminology"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "cinesiologia",
+          "canonica": "Cinesiologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Kinesiology"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5134 @@
+{
+  "tema": "profissoes",
+  "nome": "Profissões",
+  "perguntas": [
+    {
+      "id": "pro-profissoes",
+      "texto": "Cite uma profissão",
+      "dificuldade": "facil",
+      "tags": [
+        "profissões",
+        "trabalho"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Classifica%C3%A7%C3%A3o_Brasileira_de_Ocupa%C3%A7%C3%B5es",
+      "respostas": [
+        {
+          "id": "medico",
+          "canonica": "Médico",
+          "aceitas": [
+            "Médica"
+          ],
+          "traducoes": {
+            "en": [
+              "Doctor",
+              "Physician"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "professor",
+          "canonica": "Professor",
+          "aceitas": [
+            "Professora"
+          ],
+          "traducoes": {
+            "en": [
+              "Teacher"
+            ],
+            "es": [
+              "Profesor"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "advogado",
+          "canonica": "Advogado",
+          "aceitas": [
+            "Advogada"
+          ],
+          "traducoes": {
+            "en": [
+              "Lawyer"
+            ],
+            "es": [
+              "Abogado"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "engenheiro",
+          "canonica": "Engenheiro",
+          "aceitas": [
+            "Engenheira"
+          ],
+          "traducoes": {
+            "en": [
+              "Engineer"
+            ],
+            "es": [
+              "Ingeniero"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "policial",
+          "canonica": "Policial",
+          "aceitas": [
+            "Polícia"
+          ],
+          "traducoes": {
+            "en": [
+              "Police officer"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "bombeiro",
+          "canonica": "Bombeiro",
+          "aceitas": [
+            "Bombeira"
+          ],
+          "traducoes": {
+            "en": [
+              "Firefighter"
+            ],
+            "es": [
+              "Bombero"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "enfermeiro",
+          "canonica": "Enfermeiro",
+          "aceitas": [
+            "Enfermeira"
+          ],
+          "traducoes": {
+            "en": [
+              "Nurse"
+            ],
+            "es": [
+              "Enfermero"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "dentista",
+          "canonica": "Dentista",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Dentist"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "motorista",
+          "canonica": "Motorista",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Driver"
+            ],
+            "es": [
+              "Conductor"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cozinheiro",
+          "canonica": "Cozinheiro",
+          "aceitas": [
+            "Cozinheira",
+            "Chef",
+            "Chef de cozinha"
+          ],
+          "traducoes": {
+            "en": [
+              "Cook"
+            ],
+            "es": [
+              "Cocinero"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "padeiro",
+          "canonica": "Padeiro",
+          "aceitas": [
+            "Padeira"
+          ],
+          "traducoes": {
+            "en": [
+              "Baker"
+            ],
+            "es": [
+              "Panadero"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pedreiro",
+          "canonica": "Pedreiro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Bricklayer"
+            ],
+            "es": [
+              "Albañil"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "eletricista",
+          "canonica": "Eletricista",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Electrician"
+            ],
+            "es": [
+              "Electricista"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "encanador",
+          "canonica": "Encanador",
+          "aceitas": [
+            "Bombeiro hidráulico"
+          ],
+          "traducoes": {
+            "en": [
+              "Plumber"
+            ],
+            "es": [
+              "Fontanero",
+              "Plomero"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "mecanico",
+          "canonica": "Mecânico",
+          "aceitas": [
+            "Mecânica"
+          ],
+          "traducoes": {
+            "en": [
+              "Mechanic"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "carpinteiro",
+          "canonica": "Carpinteiro",
+          "aceitas": [
+            "Carpinteira"
+          ],
+          "traducoes": {
+            "en": [
+              "Carpenter"
+            ],
+            "es": [
+              "Carpintero"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "garcom",
+          "canonica": "Garçom",
+          "aceitas": [
+            "Garçonete"
+          ],
+          "traducoes": {
+            "en": [
+              "Waiter",
+              "Waitress"
+            ],
+            "es": [
+              "Camarero",
+              "Mesero"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cabeleireiro",
+          "canonica": "Cabeleireiro",
+          "aceitas": [
+            "Cabeleireira"
+          ],
+          "traducoes": {
+            "en": [
+              "Hairdresser"
+            ],
+            "es": [
+              "Peluquero"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "vendedor",
+          "canonica": "Vendedor",
+          "aceitas": [
+            "Vendedora"
+          ],
+          "traducoes": {
+            "en": [
+              "Salesperson"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "jornalista",
+          "canonica": "Jornalista",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Journalist"
+            ],
+            "es": [
+              "Periodista"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "ator",
+          "canonica": "Ator",
+          "aceitas": [
+            "Atriz"
+          ],
+          "traducoes": {
+            "en": [
+              "Actor",
+              "Actress"
+            ],
+            "es": [
+              "Actriz"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cantor",
+          "canonica": "Cantor",
+          "aceitas": [
+            "Cantora"
+          ],
+          "traducoes": {
+            "en": [
+              "Singer"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "piloto",
+          "canonica": "Piloto",
+          "aceitas": [
+            "Piloto de avião"
+          ],
+          "traducoes": {
+            "en": [
+              "Pilot"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "veterinario",
+          "canonica": "Veterinário",
+          "aceitas": [
+            "Veterinária"
+          ],
+          "traducoes": {
+            "en": [
+              "Veterinarian",
+              "Vet"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "arquiteto",
+          "canonica": "Arquiteto",
+          "aceitas": [
+            "Arquiteta"
+          ],
+          "traducoes": {
+            "en": [
+              "Architect"
+            ],
+            "es": [
+              "Arquitecto"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "programador",
+          "canonica": "Programador",
+          "aceitas": [
+            "Programadora",
+            "Desenvolvedor"
+          ],
+          "traducoes": {
+            "en": [
+              "Programmer",
+              "Developer"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "juiz",
+          "canonica": "Juiz",
+          "aceitas": [
+            "Juíza"
+          ],
+          "traducoes": {
+            "en": [
+              "Judge"
+            ],
+            "es": [
+              "Juez"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "carteiro",
+          "canonica": "Carteiro",
+          "aceitas": [
+            "Carteira"
+          ],
+          "traducoes": {
+            "en": [
+              "Mailman",
+              "Postman"
+            ],
+            "es": [
+              "Cartero"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "jardineiro",
+          "canonica": "Jardineiro",
+          "aceitas": [
+            "Jardineira"
+          ],
+          "traducoes": {
+            "en": [
+              "Gardener"
+            ],
+            "es": [
+              "Jardinero"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "manicure",
+          "canonica": "Manicure",
+          "aceitas": [
+            "Manicuro"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "costureira",
+          "canonica": "Costureira",
+          "aceitas": [
+            "Costureiro"
+          ],
+          "traducoes": {
+            "en": [
+              "Seamstress"
+            ],
+            "es": [
+              "Costurera"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "caixa",
+          "canonica": "Caixa",
+          "aceitas": [
+            "Operador de caixa"
+          ],
+          "traducoes": {
+            "en": [
+              "Cashier"
+            ],
+            "es": [
+              "Cajero"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "secretaria",
+          "canonica": "Secretária",
+          "aceitas": [
+            "Secretário"
+          ],
+          "traducoes": {
+            "en": [
+              "Secretary"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "recepcionista",
+          "canonica": "Recepcionista",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Receptionist"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "contador",
+          "canonica": "Contador",
+          "aceitas": [
+            "Contadora"
+          ],
+          "traducoes": {
+            "en": [
+              "Accountant"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "administrador",
+          "canonica": "Administrador",
+          "aceitas": [
+            "Administradora"
+          ],
+          "traducoes": {
+            "en": [
+              "Administrator"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "economista",
+          "canonica": "Economista",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Economist"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "fotografo",
+          "canonica": "Fotógrafo",
+          "aceitas": [
+            "Fotógrafa"
+          ],
+          "traducoes": {
+            "en": [
+              "Photographer"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "musico",
+          "canonica": "Músico",
+          "aceitas": [
+            "Musicista"
+          ],
+          "traducoes": {
+            "en": [
+              "Musician"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pintor",
+          "canonica": "Pintor",
+          "aceitas": [
+            "Pintora"
+          ],
+          "traducoes": {
+            "en": [
+              "Painter"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "escritor",
+          "canonica": "Escritor",
+          "aceitas": [
+            "Escritora"
+          ],
+          "traducoes": {
+            "en": [
+              "Writer"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "comissario-de-bordo",
+          "canonica": "Comissário de bordo",
+          "aceitas": [
+            "Aeromoça",
+            "Comissária de bordo"
+          ],
+          "traducoes": {
+            "en": [
+              "Flight attendant"
+            ],
+            "es": [
+              "Azafata"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "marinheiro",
+          "canonica": "Marinheiro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Sailor"
+            ],
+            "es": [
+              "Marinero"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "soldado",
+          "canonica": "Soldado",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Soldier"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "promotor",
+          "canonica": "Promotor",
+          "aceitas": [
+            "Promotora"
+          ],
+          "traducoes": {
+            "en": [
+              "Prosecutor"
+            ],
+            "es": [
+              "Fiscal"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "delegado",
+          "canonica": "Delegado",
+          "aceitas": [
+            "Delegada"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "taxista",
+          "canonica": "Taxista",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Taxi driver"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "motoboy",
+          "canonica": "Motoboy",
+          "aceitas": [
+            "Motofretista"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "entregador",
+          "canonica": "Entregador",
+          "aceitas": [
+            "Entregadora"
+          ],
+          "traducoes": {
+            "en": [
+              "Delivery person"
+            ],
+            "es": [
+              "Repartidor"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "faxineiro",
+          "canonica": "Faxineiro",
+          "aceitas": [
+            "Faxineira",
+            "Diarista"
+          ],
+          "traducoes": {
+            "en": [
+              "Cleaner"
+            ],
+            "es": [
+              "Limpiador"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "porteiro",
+          "canonica": "Porteiro",
+          "aceitas": [
+            "Porteira"
+          ],
+          "traducoes": {
+            "en": [
+              "Doorman"
+            ],
+            "es": [
+              "Portero"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "seguranca",
+          "canonica": "Segurança",
+          "aceitas": [
+            "Vigilante",
+            "Vigia"
+          ],
+          "traducoes": {
+            "en": [
+              "Security guard"
+            ],
+            "es": [
+              "Guardia de seguridad"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "designer",
+          "canonica": "Designer",
+          "aceitas": [],
+          "traducoes": {
+            "es": [
+              "Diseñador"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cientista",
+          "canonica": "Cientista",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Scientist"
+            ],
+            "es": [
+              "Científico"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "biologo",
+          "canonica": "Biólogo",
+          "aceitas": [
+            "Bióloga"
+          ],
+          "traducoes": {
+            "en": [
+              "Biologist"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "quimico",
+          "canonica": "Químico",
+          "aceitas": [
+            "Química"
+          ],
+          "traducoes": {
+            "en": [
+              "Chemist"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "fisico",
+          "canonica": "Físico",
+          "aceitas": [
+            "Física"
+          ],
+          "traducoes": {
+            "en": [
+              "Physicist"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "matematico",
+          "canonica": "Matemático",
+          "aceitas": [
+            "Matemática"
+          ],
+          "traducoes": {
+            "en": [
+              "Mathematician"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "astronauta",
+          "canonica": "Astronauta",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Astronaut"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "farmaceutico",
+          "canonica": "Farmacêutico",
+          "aceitas": [
+            "Farmacêutica"
+          ],
+          "traducoes": {
+            "en": [
+              "Pharmacist"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "psicologo",
+          "canonica": "Psicólogo",
+          "aceitas": [
+            "Psicóloga"
+          ],
+          "traducoes": {
+            "en": [
+              "Psychologist"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "fisioterapeuta",
+          "canonica": "Fisioterapeuta",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Physiotherapist"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "nutricionista",
+          "canonica": "Nutricionista",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Nutritionist"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "agricultor",
+          "canonica": "Agricultor",
+          "aceitas": [
+            "Lavrador",
+            "Agricultora"
+          ],
+          "traducoes": {
+            "en": [
+              "Farmer"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "pescador",
+          "canonica": "Pescador",
+          "aceitas": [
+            "Pescadora"
+          ],
+          "traducoes": {
+            "en": [
+              "Fisherman"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "acougueiro",
+          "canonica": "Açougueiro",
+          "aceitas": [
+            "Açougueira"
+          ],
+          "traducoes": {
+            "en": [
+              "Butcher"
+            ],
+            "es": [
+              "Carnicero"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "barbeiro",
+          "canonica": "Barbeiro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Barber"
+            ],
+            "es": [
+              "Barbero"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "sapateiro",
+          "canonica": "Sapateiro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Shoemaker",
+              "Cobbler"
+            ],
+            "es": [
+              "Zapatero"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "alfaiate",
+          "canonica": "Alfaiate",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Tailor"
+            ],
+            "es": [
+              "Sastre"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "joalheiro",
+          "canonica": "Joalheiro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Jeweler"
+            ],
+            "es": [
+              "Joyero"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "relojoeiro",
+          "canonica": "Relojoeiro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Watchmaker"
+            ],
+            "es": [
+              "Relojero"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "chaveiro",
+          "canonica": "Chaveiro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Locksmith"
+            ],
+            "es": [
+              "Cerrajero"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "serralheiro",
+          "canonica": "Serralheiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "vidraceiro",
+          "canonica": "Vidraceiro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Glazier"
+            ],
+            "es": [
+              "Vidriero"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "diplomata",
+          "canonica": "Diplomata",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Diplomat"
+            ],
+            "es": [
+              "Diplomático"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "tradutor",
+          "canonica": "Tradutor",
+          "aceitas": [
+            "Tradutora"
+          ],
+          "traducoes": {
+            "en": [
+              "Translator"
+            ],
+            "es": [
+              "Traductor"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "interprete",
+          "canonica": "Intérprete",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Interpreter"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "bibliotecario",
+          "canonica": "Bibliotecário",
+          "aceitas": [
+            "Bibliotecária"
+          ],
+          "traducoes": {
+            "en": [
+              "Librarian"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "guia-turistico",
+          "canonica": "Guia turístico",
+          "aceitas": [
+            "Guia de turismo"
+          ],
+          "traducoes": {
+            "en": [
+              "Tour guide"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "baba",
+          "canonica": "Babá",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Nanny"
+            ],
+            "es": [
+              "Niñera"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cuidador-de-idosos",
+          "canonica": "Cuidador de idosos",
+          "aceitas": [
+            "Cuidador",
+            "Cuidadora"
+          ],
+          "traducoes": {
+            "en": [
+              "Caregiver"
+            ],
+            "es": [
+              "Cuidador"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "maquinista",
+          "canonica": "Maquinista",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Train driver"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "frentista",
+          "canonica": "Frentista",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Gas station attendant"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "bancario",
+          "canonica": "Bancário",
+          "aceitas": [
+            "Bancária"
+          ],
+          "traducoes": {
+            "en": [
+              "Bank clerk"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "corretor-de-imoveis",
+          "canonica": "Corretor de imóveis",
+          "aceitas": [
+            "Corretor"
+          ],
+          "traducoes": {
+            "en": [
+              "Real estate agent"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "publicitario",
+          "canonica": "Publicitário",
+          "aceitas": [
+            "Publicitária"
+          ],
+          "traducoes": {
+            "en": [
+              "Advertiser"
+            ],
+            "es": [
+              "Publicista"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "dublador",
+          "canonica": "Dublador",
+          "aceitas": [
+            "Dubladora"
+          ],
+          "traducoes": {
+            "en": [
+              "Voice actor"
+            ],
+            "es": [
+              "Actor de doblaje"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "apresentador",
+          "canonica": "Apresentador",
+          "aceitas": [
+            "Apresentadora"
+          ],
+          "traducoes": {
+            "en": [
+              "TV host",
+              "Presenter"
+            ],
+            "es": [
+              "Presentador"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "modelo",
+          "canonica": "Modelo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Model"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "dancarino",
+          "canonica": "Dançarino",
+          "aceitas": [
+            "Bailarino",
+            "Dançarina",
+            "Bailarina"
+          ],
+          "traducoes": {
+            "en": [
+              "Dancer"
+            ],
+            "es": [
+              "Bailarín"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "palhaco",
+          "canonica": "Palhaço",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Clown"
+            ],
+            "es": [
+              "Payaso"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "magico",
+          "canonica": "Mágico",
+          "aceitas": [
+            "Ilusionista"
+          ],
+          "traducoes": {
+            "en": [
+              "Magician"
+            ],
+            "es": [
+              "Mago"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "dj",
+          "canonica": "DJ",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "influenciador-digital",
+          "canonica": "Influenciador digital",
+          "aceitas": [
+            "Influencer",
+            "Youtuber"
+          ],
+          "traducoes": {
+            "en": [
+              "Influencer"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "geologo",
+          "canonica": "Geólogo",
+          "aceitas": [
+            "Geóloga"
+          ],
+          "traducoes": {
+            "en": [
+              "Geologist"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "meteorologista",
+          "canonica": "Meteorologista",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Meteorologist"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "arqueologo",
+          "canonica": "Arqueólogo",
+          "aceitas": [
+            "Arqueóloga"
+          ],
+          "traducoes": {
+            "en": [
+              "Archaeologist"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "historiador",
+          "canonica": "Historiador",
+          "aceitas": [
+            "Historiadora"
+          ],
+          "traducoes": {
+            "en": [
+              "Historian"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "sociologo",
+          "canonica": "Sociólogo",
+          "aceitas": [
+            "Socióloga"
+          ],
+          "traducoes": {
+            "en": [
+              "Sociologist"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "filosofo",
+          "canonica": "Filósofo",
+          "aceitas": [
+            "Filósofa"
+          ],
+          "traducoes": {
+            "en": [
+              "Philosopher"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "pedagogo",
+          "canonica": "Pedagogo",
+          "aceitas": [
+            "Pedagoga"
+          ],
+          "traducoes": {
+            "en": [
+              "Pedagogue"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "personal-trainer",
+          "canonica": "Personal trainer",
+          "aceitas": [
+            "Educador físico"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "arbitro",
+          "canonica": "Árbitro",
+          "aceitas": [
+            "Juiz de futebol"
+          ],
+          "traducoes": {
+            "en": [
+              "Referee"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "treinador",
+          "canonica": "Treinador",
+          "aceitas": [
+            "Técnico de futebol"
+          ],
+          "traducoes": {
+            "en": [
+              "Coach"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "jogador-de-futebol",
+          "canonica": "Jogador de futebol",
+          "aceitas": [
+            "Futebolista"
+          ],
+          "traducoes": {
+            "en": [
+              "Soccer player"
+            ],
+            "es": [
+              "Futbolista"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "atleta",
+          "canonica": "Atleta",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Athlete"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "estilista",
+          "canonica": "Estilista",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Fashion designer"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "maquiador",
+          "canonica": "Maquiador",
+          "aceitas": [
+            "Maquiadora"
+          ],
+          "traducoes": {
+            "en": [
+              "Makeup artist"
+            ],
+            "es": [
+              "Maquillador"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "despachante",
+          "canonica": "Despachante",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "leiloeiro",
+          "canonica": "Leiloeiro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Auctioneer"
+            ],
+            "es": [
+              "Subastador"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "tabeliao",
+          "canonica": "Tabelião",
+          "aceitas": [
+            "Notário"
+          ],
+          "traducoes": {
+            "en": [
+              "Notary"
+            ],
+            "es": [
+              "Notario"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "ourives",
+          "canonica": "Ourives",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Goldsmith"
+            ],
+            "es": [
+              "Orfebre"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "agronomo",
+          "canonica": "Agrônomo",
+          "aceitas": [
+            "Agrônoma"
+          ],
+          "traducoes": {
+            "en": [
+              "Agronomist"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "oceanografo",
+          "canonica": "Oceanógrafo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Oceanographer"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "cartografo",
+          "canonica": "Cartógrafo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cartographer"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "topografo",
+          "canonica": "Topógrafo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Surveyor"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "sommelier",
+          "canonica": "Sommelier",
+          "aceitas": [],
+          "traducoes": {
+            "es": [
+              "Sumiller"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "barista",
+          "canonica": "Barista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "coveiro",
+          "canonica": "Coveiro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Gravedigger"
+            ],
+            "es": [
+              "Sepulturero"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "taxidermista",
+          "canonica": "Taxidermista",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Taxidermist"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "atuario",
+          "canonica": "Atuário",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Actuary"
+            ],
+            "es": [
+              "Actuario"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "perito",
+          "canonica": "Perito",
+          "aceitas": [
+            "Perito criminal"
+          ],
+          "traducoes": {
+            "en": [
+              "Forensic expert"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "detetive",
+          "canonica": "Detetive",
+          "aceitas": [
+            "Detetive particular"
+          ],
+          "traducoes": {
+            "en": [
+              "Detective"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "escrivao",
+          "canonica": "Escrivão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "ferreiro",
+          "canonica": "Ferreiro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Blacksmith"
+            ],
+            "es": [
+              "Herrero"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "lenhador",
+          "canonica": "Lenhador",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Lumberjack"
+            ],
+            "es": [
+              "Leñador"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "vaqueiro",
+          "canonica": "Vaqueiro",
+          "aceitas": [
+            "Peão"
+          ],
+          "traducoes": {
+            "en": [
+              "Cowboy"
+            ],
+            "es": [
+              "Vaquero"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "apicultor",
+          "canonica": "Apicultor",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Beekeeper"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "ascensorista",
+          "canonica": "Ascensorista",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Elevator operator"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "faroleiro",
+          "canonica": "Faroleiro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Lighthouse keeper"
+            ],
+            "es": [
+              "Farero"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "seringueiro",
+          "canonica": "Seringueiro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Rubber tapper"
+            ],
+            "es": [
+              "Cauchero"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "garimpeiro",
+          "canonica": "Garimpeiro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Prospector"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        }
+      ]
+    },
+    {
+      "id": "pro-terminadas-ista",
+      "texto": "Cite uma profissão terminada em \"-ista\"",
+      "dificuldade": "media",
+      "tags": [
+        "profissões",
+        "palavras"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/-ista",
+      "respostas": [
+        {
+          "id": "dentista",
+          "canonica": "Dentista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "jornalista",
+          "canonica": "Jornalista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "motorista",
+          "canonica": "Motorista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "eletricista",
+          "canonica": "Eletricista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "taxista",
+          "canonica": "Taxista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "artista",
+          "canonica": "Artista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pianista",
+          "canonica": "Pianista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "nutricionista",
+          "canonica": "Nutricionista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "frentista",
+          "canonica": "Frentista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "recepcionista",
+          "canonica": "Recepcionista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "economista",
+          "canonica": "Economista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "analista",
+          "canonica": "Analista",
+          "aceitas": [
+            "Analista de sistemas"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cientista",
+          "canonica": "Cientista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "maquinista",
+          "canonica": "Maquinista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "guitarrista",
+          "canonica": "Guitarrista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "baterista",
+          "canonica": "Baterista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "violinista",
+          "canonica": "Violinista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "tenista",
+          "canonica": "Tenista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "florista",
+          "canonica": "Florista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "manobrista",
+          "canonica": "Manobrista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "desenhista",
+          "canonica": "Desenhista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "estilista",
+          "canonica": "Estilista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "telefonista",
+          "canonica": "Telefonista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "balconista",
+          "canonica": "Balconista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "massagista",
+          "canonica": "Massagista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "esteticista",
+          "canonica": "Esteticista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "paisagista",
+          "canonica": "Paisagista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "roteirista",
+          "canonica": "Roteirista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cartunista",
+          "canonica": "Cartunista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "colunista",
+          "canonica": "Colunista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cardiologista",
+          "canonica": "Cardiologista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "dermatologista",
+          "canonica": "Dermatologista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "ginecologista",
+          "canonica": "Ginecologista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "oftalmologista",
+          "canonica": "Oftalmologista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ortodontista",
+          "canonica": "Ortodontista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "anestesista",
+          "canonica": "Anestesista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "urologista",
+          "canonica": "Urologista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "neurologista",
+          "canonica": "Neurologista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "oncologista",
+          "canonica": "Oncologista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "pneumologista",
+          "canonica": "Pneumologista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "endocrinologista",
+          "canonica": "Endocrinologista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "psicanalista",
+          "canonica": "Psicanalista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ciclista",
+          "canonica": "Ciclista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "golfista",
+          "canonica": "Golfista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "futebolista",
+          "canonica": "Futebolista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "skatista",
+          "canonica": "Skatista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "surfista",
+          "canonica": "Surfista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "humorista",
+          "canonica": "Humorista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "malabarista",
+          "canonica": "Malabarista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "equilibrista",
+          "canonica": "Equilibrista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "trapezista",
+          "canonica": "Trapezista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ilusionista",
+          "canonica": "Ilusionista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "contorcionista",
+          "canonica": "Contorcionista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "vocalista",
+          "canonica": "Vocalista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "baixista",
+          "canonica": "Baixista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tecladista",
+          "canonica": "Tecladista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "saxofonista",
+          "canonica": "Saxofonista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "flautista",
+          "canonica": "Flautista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "violonista",
+          "canonica": "Violonista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "instrumentista",
+          "canonica": "Instrumentista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "romancista",
+          "canonica": "Romancista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cronista",
+          "canonica": "Cronista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "contista",
+          "canonica": "Contista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ensaista",
+          "canonica": "Ensaísta",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "novelista",
+          "canonica": "Novelista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "projetista",
+          "canonica": "Projetista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "modelista",
+          "canonica": "Modelista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "vitrinista",
+          "canonica": "Vitrinista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "arquivista",
+          "canonica": "Arquivista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ascensorista",
+          "canonica": "Ascensorista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "lojista",
+          "canonica": "Lojista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "atacadista",
+          "canonica": "Atacadista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "varejista",
+          "canonica": "Varejista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "lobista",
+          "canonica": "Lobista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "copista",
+          "canonica": "Copista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "ceramista",
+          "canonica": "Ceramista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "retratista",
+          "canonica": "Retratista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "zootecnista",
+          "canonica": "Zootecnista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "acupunturista",
+          "canonica": "Acupunturista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ortoptista",
+          "canonica": "Ortoptista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "socorrista",
+          "canonica": "Socorrista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "paraquedista",
+          "canonica": "Paraquedista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "prensista",
+          "canonica": "Prensista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "contabilista",
+          "canonica": "Contabilista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "periodontista",
+          "canonica": "Periodontista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "endodontista",
+          "canonica": "Endodontista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "reumatologista",
+          "canonica": "Reumatologista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "nefrologista",
+          "canonica": "Nefrologista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "gastroenterologista",
+          "canonica": "Gastroenterologista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "hematologista",
+          "canonica": "Hematologista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "infectologista",
+          "canonica": "Infectologista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "radiologista",
+          "canonica": "Radiologista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "otorrinolaringologista",
+          "canonica": "Otorrinolaringologista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "proctologista",
+          "canonica": "Proctologista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "patologista",
+          "canonica": "Patologista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "taxidermista",
+          "canonica": "Taxidermista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "maquetista",
+          "canonica": "Maquetista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "fisiculturista",
+          "canonica": "Fisiculturista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "motofretista",
+          "canonica": "Motofretista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "diarista",
+          "canonica": "Diarista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "plantonista",
+          "canonica": "Plantonista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "clarinetista",
+          "canonica": "Clarinetista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "trompetista",
+          "canonica": "Trompetista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "percussionista",
+          "canonica": "Percussionista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "harpista",
+          "canonica": "Harpista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "violoncelista",
+          "canonica": "Violoncelista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "organista",
+          "canonica": "Organista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "acordeonista",
+          "canonica": "Acordeonista",
+          "aceitas": [
+            "Sanfoneiro"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        }
+      ]
+    },
+    {
+      "id": "pro-terminadas-eiro",
+      "texto": "Cite uma profissão terminada em \"-eiro\" ou \"-eira\"",
+      "dificuldade": "media",
+      "tags": [
+        "profissões",
+        "palavras"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Classifica%C3%A7%C3%A3o_Brasileira_de_Ocupa%C3%A7%C3%B5es",
+      "respostas": [
+        {
+          "id": "bombeiro",
+          "canonica": "Bombeiro",
+          "aceitas": [
+            "Bombeira"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "padeiro",
+          "canonica": "Padeiro",
+          "aceitas": [
+            "Padeira"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pedreiro",
+          "canonica": "Pedreiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "engenheiro",
+          "canonica": "Engenheiro",
+          "aceitas": [
+            "Engenheira"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "enfermeiro",
+          "canonica": "Enfermeiro",
+          "aceitas": [
+            "Enfermeira"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cozinheiro",
+          "canonica": "Cozinheiro",
+          "aceitas": [
+            "Cozinheira"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cabeleireiro",
+          "canonica": "Cabeleireiro",
+          "aceitas": [
+            "Cabeleireira"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "carpinteiro",
+          "canonica": "Carpinteiro",
+          "aceitas": [
+            "Carpinteira"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "marceneiro",
+          "canonica": "Marceneiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "acougueiro",
+          "canonica": "Açougueiro",
+          "aceitas": [
+            "Açougueira"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "jardineiro",
+          "canonica": "Jardineiro",
+          "aceitas": [
+            "Jardineira"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "carteiro",
+          "canonica": "Carteiro",
+          "aceitas": [
+            "Carteira"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "costureira",
+          "canonica": "Costureira",
+          "aceitas": [
+            "Costureiro"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "faxineira",
+          "canonica": "Faxineira",
+          "aceitas": [
+            "Faxineiro"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "barbeiro",
+          "canonica": "Barbeiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "banqueiro",
+          "canonica": "Banqueiro",
+          "aceitas": [
+            "Banqueira"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "sapateiro",
+          "canonica": "Sapateiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "ferreiro",
+          "canonica": "Ferreiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "joalheiro",
+          "canonica": "Joalheiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "relojoeiro",
+          "canonica": "Relojoeiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "chaveiro",
+          "canonica": "Chaveiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "vidraceiro",
+          "canonica": "Vidraceiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "serralheiro",
+          "canonica": "Serralheiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "caminhoneiro",
+          "canonica": "Caminhoneiro",
+          "aceitas": [
+            "Caminhoneira"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "porteiro",
+          "canonica": "Porteiro",
+          "aceitas": [
+            "Porteira"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pipoqueiro",
+          "canonica": "Pipoqueiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "sorveteiro",
+          "canonica": "Sorveteiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "verdureiro",
+          "canonica": "Verdureiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "peixeiro",
+          "canonica": "Peixeiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "leiteiro",
+          "canonica": "Leiteiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "confeiteiro",
+          "canonica": "Confeiteiro",
+          "aceitas": [
+            "Confeiteira"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "doceira",
+          "canonica": "Doceira",
+          "aceitas": [
+            "Doceiro"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "churrasqueiro",
+          "canonica": "Churrasqueiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cervejeiro",
+          "canonica": "Cervejeiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "fazendeiro",
+          "canonica": "Fazendeiro",
+          "aceitas": [
+            "Fazendeira"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "vaqueiro",
+          "canonica": "Vaqueiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "boiadeiro",
+          "canonica": "Boiadeiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "seringueiro",
+          "canonica": "Seringueiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "garimpeiro",
+          "canonica": "Garimpeiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "jangadeiro",
+          "canonica": "Jangadeiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "marinheiro",
+          "canonica": "Marinheiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "barqueiro",
+          "canonica": "Barqueiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ferramenteiro",
+          "canonica": "Ferramenteiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "torneiro-mecanico",
+          "canonica": "Torneiro mecânico",
+          "aceitas": [
+            "Torneiro"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "funileiro",
+          "canonica": "Funileiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "borracheiro",
+          "canonica": "Borracheiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "lanterneiro",
+          "canonica": "Lanterneiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "gesseiro",
+          "canonica": "Gesseiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ladrilheiro",
+          "canonica": "Ladrilheiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "lavadeira",
+          "canonica": "Lavadeira",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "passadeira",
+          "canonica": "Passadeira",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "arrumadeira",
+          "canonica": "Arrumadeira",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "parteira",
+          "canonica": "Parteira",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tesoureiro",
+          "canonica": "Tesoureiro",
+          "aceitas": [
+            "Tesoureira"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "livreiro",
+          "canonica": "Livreiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "tintureiro",
+          "canonica": "Tintureiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "chapeleiro",
+          "canonica": "Chapeleiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "seleiro",
+          "canonica": "Seleiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "tapeceiro",
+          "canonica": "Tapeceiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "colchoeiro",
+          "canonica": "Colchoeiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "carvoeiro",
+          "canonica": "Carvoeiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "madeireiro",
+          "canonica": "Madeireiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "merendeira",
+          "canonica": "Merendeira",
+          "aceitas": [
+            "Merendeiro"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "quituteira",
+          "canonica": "Quituteira",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "bilheteiro",
+          "canonica": "Bilheteiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "carcereiro",
+          "canonica": "Carcereiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "mensageiro",
+          "canonica": "Mensageiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "hoteleiro",
+          "canonica": "Hoteleiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "bordadeira",
+          "canonica": "Bordadeira",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "rendeira",
+          "canonica": "Rendeira",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "oleiro",
+          "canonica": "Oleiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "cuteleiro",
+          "canonica": "Cuteleiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "armeiro",
+          "canonica": "Armeiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "coveiro",
+          "canonica": "Coveiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "copeiro",
+          "canonica": "Copeiro",
+          "aceitas": [
+            "Copeira"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "jornaleiro",
+          "canonica": "Jornaleiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "quitandeiro",
+          "canonica": "Quitandeiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "salgadeira",
+          "canonica": "Salgadeira",
+          "aceitas": [
+            "Salgadeiro"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "faroleiro",
+          "canonica": "Faroleiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "sanfoneiro",
+          "canonica": "Sanfoneiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "violeiro",
+          "canonica": "Violeiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "fuzileiro",
+          "canonica": "Fuzileiro",
+          "aceitas": [
+            "Fuzileiro naval"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "artilheiro",
+          "canonica": "Artilheiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "picolezeiro",
+          "canonica": "Picolezeiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "pasteleiro",
+          "canonica": "Pasteleiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "granjeiro",
+          "canonica": "Granjeiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "mineiro",
+          "canonica": "Mineiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "tropeiro",
+          "canonica": "Tropeiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        }
+      ]
+    },
+    {
+      "id": "pro-patentes-militares",
+      "texto": "Cite um posto ou graduação militar das Forças Armadas brasileiras",
+      "dificuldade": "media",
+      "tags": [
+        "militares",
+        "hierarquia"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Hierarquia_militar_no_Brasil",
+      "respostas": [
+        {
+          "id": "soldado",
+          "canonica": "Soldado",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Private",
+              "Soldier"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cabo",
+          "canonica": "Cabo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Corporal"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "sargento",
+          "canonica": "Sargento",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Sergeant"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "tenente",
+          "canonica": "Tenente",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Lieutenant"
+            ],
+            "es": [
+              "Teniente"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "capitao",
+          "canonica": "Capitão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Captain"
+            ],
+            "es": [
+              "Capitán"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "major",
+          "canonica": "Major",
+          "aceitas": [],
+          "traducoes": {
+            "es": [
+              "Mayor"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "coronel",
+          "canonica": "Coronel",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Colonel"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "general",
+          "canonica": "General",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "marechal",
+          "canonica": "Marechal",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Marshal"
+            ],
+            "es": [
+              "Mariscal"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "almirante",
+          "canonica": "Almirante",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Admiral"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "brigadeiro",
+          "canonica": "Brigadeiro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Brigadier"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "tenente-coronel",
+          "canonica": "Tenente-Coronel",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Lieutenant colonel"
+            ],
+            "es": [
+              "Teniente coronel"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "subtenente",
+          "canonica": "Subtenente",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "marinheiro",
+          "canonica": "Marinheiro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Seaman"
+            ],
+            "es": [
+              "Marinero"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "primeiro-sargento",
+          "canonica": "Primeiro-Sargento",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "First sergeant"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "segundo-sargento",
+          "canonica": "Segundo-Sargento",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "terceiro-sargento",
+          "canonica": "Terceiro-Sargento",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "primeiro-tenente",
+          "canonica": "Primeiro-Tenente",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "First lieutenant"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "segundo-tenente",
+          "canonica": "Segundo-Tenente",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Second lieutenant"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "aspirante-a-oficial",
+          "canonica": "Aspirante a oficial",
+          "aceitas": [
+            "Aspirante"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "suboficial",
+          "canonica": "Suboficial",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "guarda-marinha",
+          "canonica": "Guarda-Marinha",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Midshipman"
+            ],
+            "es": [
+              "Guardiamarina"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "capitao-tenente",
+          "canonica": "Capitão-Tenente",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "capitao-de-corveta",
+          "canonica": "Capitão de Corveta",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "capitao-de-fragata",
+          "canonica": "Capitão de Fragata",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "capitao-de-mar-e-guerra",
+          "canonica": "Capitão de Mar e Guerra",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "contra-almirante",
+          "canonica": "Contra-Almirante",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Rear admiral"
+            ],
+            "es": [
+              "Contraalmirante"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "vice-almirante",
+          "canonica": "Vice-Almirante",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Vice admiral"
+            ],
+            "es": [
+              "Vicealmirante"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "almirante-de-esquadra",
+          "canonica": "Almirante de Esquadra",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "general-de-brigada",
+          "canonica": "General de Brigada",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Brigadier general"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "general-de-divisao",
+          "canonica": "General de Divisão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Major general"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "general-de-exercito",
+          "canonica": "General de Exército",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "major-brigadeiro",
+          "canonica": "Major-Brigadeiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "tenente-brigadeiro",
+          "canonica": "Tenente-Brigadeiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "marechal-do-ar",
+          "canonica": "Marechal do Ar",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "taifeiro",
+          "canonica": "Taifeiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "taifeiro-mor",
+          "canonica": "Taifeiro-Mor",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "fuzileiro-naval",
+          "canonica": "Fuzileiro naval",
+          "aceitas": [
+            "Fuzileiro"
+          ],
+          "traducoes": {
+            "en": [
+              "Marine"
+            ],
+            "es": [
+              "Infante de marina"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "recruta",
+          "canonica": "Recruta",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Recruit"
+            ],
+            "es": [
+              "Recluta"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cadete",
+          "canonica": "Cadete",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cadet"
+            ]
+          },
+          "raridadeInicial": "raro"
+        }
+      ]
+    },
+    {
+      "id": "pro-cursos-graduacao",
+      "texto": "Cite um curso de graduação (faculdade)",
+      "dificuldade": "facil",
+      "tags": [
+        "faculdade",
+        "educação"
+      ],
+      "fonte": "https://emec.mec.gov.br/",
+      "respostas": [
+        {
+          "id": "medicina",
+          "canonica": "Medicina",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Medicine"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "direito",
+          "canonica": "Direito",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Law"
+            ],
+            "es": [
+              "Derecho"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "engenharia-civil",
+          "canonica": "Engenharia Civil",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Civil engineering"
+            ],
+            "es": [
+              "Ingeniería civil"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "administracao",
+          "canonica": "Administração",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Business administration"
+            ],
+            "es": [
+              "Administración"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "psicologia",
+          "canonica": "Psicologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Psychology"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "enfermagem",
+          "canonica": "Enfermagem",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Nursing"
+            ],
+            "es": [
+              "Enfermería"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "odontologia",
+          "canonica": "Odontologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Dentistry"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "arquitetura-e-urbanismo",
+          "canonica": "Arquitetura e Urbanismo",
+          "aceitas": [
+            "Arquitetura"
+          ],
+          "traducoes": {
+            "en": [
+              "Architecture"
+            ],
+            "es": [
+              "Arquitectura"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "ciencia-da-computacao",
+          "canonica": "Ciência da Computação",
+          "aceitas": [
+            "Computação"
+          ],
+          "traducoes": {
+            "en": [
+              "Computer science"
+            ],
+            "es": [
+              "Ciencias de la computación"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pedagogia",
+          "canonica": "Pedagogia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Pedagogy"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "ciencias-contabeis",
+          "canonica": "Ciências Contábeis",
+          "aceitas": [
+            "Contabilidade"
+          ],
+          "traducoes": {
+            "en": [
+              "Accounting"
+            ],
+            "es": [
+              "Contabilidad"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "economia",
+          "canonica": "Economia",
+          "aceitas": [
+            "Ciências Econômicas"
+          ],
+          "traducoes": {
+            "en": [
+              "Economics"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "jornalismo",
+          "canonica": "Jornalismo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Journalism"
+            ],
+            "es": [
+              "Periodismo"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "publicidade-e-propaganda",
+          "canonica": "Publicidade e Propaganda",
+          "aceitas": [
+            "Publicidade"
+          ],
+          "traducoes": {
+            "en": [
+              "Advertising"
+            ],
+            "es": [
+              "Publicidad"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "educacao-fisica",
+          "canonica": "Educação Física",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Physical education"
+            ],
+            "es": [
+              "Educación física"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "fisioterapia",
+          "canonica": "Fisioterapia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Physiotherapy"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "nutricao",
+          "canonica": "Nutrição",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Nutrition"
+            ],
+            "es": [
+              "Nutrición"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "farmacia",
+          "canonica": "Farmácia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Pharmacy"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "medicina-veterinaria",
+          "canonica": "Medicina Veterinária",
+          "aceitas": [
+            "Veterinária"
+          ],
+          "traducoes": {
+            "en": [
+              "Veterinary medicine"
+            ],
+            "es": [
+              "Veterinaria"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "biomedicina",
+          "canonica": "Biomedicina",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Biomedicine"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "engenharia-mecanica",
+          "canonica": "Engenharia Mecânica",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Mechanical engineering"
+            ],
+            "es": [
+              "Ingeniería mecánica"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "engenharia-eletrica",
+          "canonica": "Engenharia Elétrica",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Electrical engineering"
+            ],
+            "es": [
+              "Ingeniería eléctrica"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "engenharia-de-producao",
+          "canonica": "Engenharia de Produção",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Production engineering"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "engenharia-quimica",
+          "canonica": "Engenharia Química",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Chemical engineering"
+            ],
+            "es": [
+              "Ingeniería química"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "engenharia-de-computacao",
+          "canonica": "Engenharia de Computação",
+          "aceitas": [
+            "Engenharia da Computação"
+          ],
+          "traducoes": {
+            "en": [
+              "Computer engineering"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "engenharia-ambiental",
+          "canonica": "Engenharia Ambiental",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Environmental engineering"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "engenharia-aeronautica",
+          "canonica": "Engenharia Aeronáutica",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Aeronautical engineering"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "agronomia",
+          "canonica": "Agronomia",
+          "aceitas": [
+            "Engenharia Agronômica"
+          ],
+          "traducoes": {
+            "en": [
+              "Agronomy"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "zootecnia",
+          "canonica": "Zootecnia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Animal science"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ciencias-biologicas",
+          "canonica": "Ciências Biológicas",
+          "aceitas": [
+            "Biologia"
+          ],
+          "traducoes": {
+            "en": [
+              "Biology"
+            ],
+            "es": [
+              "Biología"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "quimica",
+          "canonica": "Química",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Chemistry"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "fisica",
+          "canonica": "Física",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Physics"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "matematica",
+          "canonica": "Matemática",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Mathematics"
+            ],
+            "es": [
+              "Matemáticas"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "historia",
+          "canonica": "História",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "History"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "geografia",
+          "canonica": "Geografia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Geography"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "letras",
+          "canonica": "Letras",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Languages and literature"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "filosofia",
+          "canonica": "Filosofia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Philosophy"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ciencias-sociais",
+          "canonica": "Ciências Sociais",
+          "aceitas": [
+            "Sociologia"
+          ],
+          "traducoes": {
+            "en": [
+              "Social sciences"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "relacoes-internacionais",
+          "canonica": "Relações Internacionais",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "International relations"
+            ],
+            "es": [
+              "Relaciones internacionales"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "design",
+          "canonica": "Design",
+          "aceitas": [
+            "Desenho Industrial"
+          ],
+          "traducoes": {
+            "es": [
+              "Diseño"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "moda",
+          "canonica": "Moda",
+          "aceitas": [
+            "Design de Moda"
+          ],
+          "traducoes": {
+            "en": [
+              "Fashion design"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cinema",
+          "canonica": "Cinema",
+          "aceitas": [
+            "Cinema e Audiovisual",
+            "Audiovisual"
+          ],
+          "traducoes": {
+            "en": [
+              "Film studies"
+            ],
+            "es": [
+              "Cine"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "musica",
+          "canonica": "Música",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Music"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "artes-visuais",
+          "canonica": "Artes Visuais",
+          "aceitas": [
+            "Artes Plásticas"
+          ],
+          "traducoes": {
+            "en": [
+              "Visual arts"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "artes-cenicas",
+          "canonica": "Artes Cênicas",
+          "aceitas": [
+            "Teatro"
+          ],
+          "traducoes": {
+            "en": [
+              "Performing arts"
+            ],
+            "es": [
+              "Artes escénicas"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "danca",
+          "canonica": "Dança",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Dance"
+            ],
+            "es": [
+              "Danza"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "gastronomia",
+          "canonica": "Gastronomia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Gastronomy"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "turismo",
+          "canonica": "Turismo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Tourism"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "hotelaria",
+          "canonica": "Hotelaria",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Hospitality"
+            ],
+            "es": [
+              "Hotelería"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "fonoaudiologia",
+          "canonica": "Fonoaudiologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Speech therapy"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "terapia-ocupacional",
+          "canonica": "Terapia Ocupacional",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Occupational therapy"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "sistemas-de-informacao",
+          "canonica": "Sistemas de Informação",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Information systems"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "analise-e-desenvolvimento-de-sistemas",
+          "canonica": "Análise e Desenvolvimento de Sistemas",
+          "aceitas": [
+            "ADS"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "estatistica",
+          "canonica": "Estatística",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Statistics"
+            ],
+            "es": [
+              "Estadística"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "biblioteconomia",
+          "canonica": "Biblioteconomia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Library science"
+            ],
+            "es": [
+              "Bibliotecología"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "arquivologia",
+          "canonica": "Arquivologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Archival science"
+            ],
+            "es": [
+              "Archivología"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "museologia",
+          "canonica": "Museologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Museology"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "geologia",
+          "canonica": "Geologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Geology"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "oceanografia",
+          "canonica": "Oceanografia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Oceanography"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "meteorologia",
+          "canonica": "Meteorologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Meteorology"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "astronomia",
+          "canonica": "Astronomia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Astronomy"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "engenharia-florestal",
+          "canonica": "Engenharia Florestal",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Forestry engineering"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "engenharia-de-alimentos",
+          "canonica": "Engenharia de Alimentos",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Food engineering"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "engenharia-de-petroleo",
+          "canonica": "Engenharia de Petróleo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Petroleum engineering"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "engenharia-naval",
+          "canonica": "Engenharia Naval",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Naval engineering"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "engenharia-de-software",
+          "canonica": "Engenharia de Software",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Software engineering"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "servico-social",
+          "canonica": "Serviço Social",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Social work"
+            ],
+            "es": [
+              "Trabajo social"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "secretariado-executivo",
+          "canonica": "Secretariado Executivo",
+          "aceitas": [
+            "Secretariado"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "comercio-exterior",
+          "canonica": "Comércio Exterior",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "International trade"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "marketing",
+          "canonica": "Marketing",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "gestao-de-recursos-humanos",
+          "canonica": "Gestão de Recursos Humanos",
+          "aceitas": [
+            "Recursos Humanos",
+            "RH"
+          ],
+          "traducoes": {
+            "en": [
+              "Human resources"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "logistica",
+          "canonica": "Logística",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Logistics"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "radiologia",
+          "canonica": "Radiologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Radiology"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "estetica-e-cosmetica",
+          "canonica": "Estética e Cosmética",
+          "aceitas": [
+            "Estética"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "teologia",
+          "canonica": "Teologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Theology"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "antropologia",
+          "canonica": "Antropologia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Anthropology"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "engenharia-mecatronica",
+          "canonica": "Engenharia Mecatrônica",
+          "aceitas": [
+            "Mecatrônica"
+          ],
+          "traducoes": {
+            "en": [
+              "Mechatronics engineering"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "engenharia-biomedica",
+          "canonica": "Engenharia Biomédica",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Biomedical engineering"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "ciencias-atuariais",
+          "canonica": "Ciências Atuariais",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Actuarial science"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "engenharia-de-minas",
+          "canonica": "Engenharia de Minas",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Mining engineering"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "fotografia",
+          "canonica": "Fotografia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Photography"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "jogos-digitais",
+          "canonica": "Jogos Digitais",
+          "aceitas": [
+            "Games"
+          ],
+          "traducoes": {
+            "en": [
+              "Game design"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "quimica-industrial",
+          "canonica": "Química Industrial",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "ciencia-de-dados",
+          "canonica": "Ciência de Dados",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Data science"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "educacao-do-campo",
+          "canonica": "Educação do Campo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        }
+      ]
+    },
+    {
+      "id": "pro-cargos-publicos",
+      "texto": "Cite um cargo político ou público do Brasil",
+      "dificuldade": "media",
+      "tags": [
+        "política",
+        "cargos",
+        "brasil"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Pol%C3%ADtica_do_Brasil",
+      "respostas": [
+        {
+          "id": "presidente-da-republica",
+          "canonica": "Presidente da República",
+          "aceitas": [
+            "Presidente"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "vice-presidente",
+          "canonica": "Vice-presidente",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "governador",
+          "canonica": "Governador",
+          "aceitas": [
+            "Governadora"
+          ],
+          "traducoes": {
+            "en": [
+              "Governor"
+            ],
+            "es": [
+              "Gobernador"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "prefeito",
+          "canonica": "Prefeito",
+          "aceitas": [
+            "Prefeita"
+          ],
+          "traducoes": {
+            "en": [
+              "Mayor"
+            ],
+            "es": [
+              "Alcalde"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "vereador",
+          "canonica": "Vereador",
+          "aceitas": [
+            "Vereadora"
+          ],
+          "traducoes": {
+            "en": [
+              "City councilor"
+            ],
+            "es": [
+              "Concejal"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "senador",
+          "canonica": "Senador",
+          "aceitas": [
+            "Senadora"
+          ],
+          "traducoes": {
+            "en": [
+              "Senator"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "deputado-federal",
+          "canonica": "Deputado federal",
+          "aceitas": [
+            "Deputada federal"
+          ],
+          "traducoes": {
+            "es": [
+              "Diputado federal"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "deputado-estadual",
+          "canonica": "Deputado estadual",
+          "aceitas": [
+            "Deputada estadual"
+          ],
+          "traducoes": {
+            "es": [
+              "Diputado estatal"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "ministro",
+          "canonica": "Ministro",
+          "aceitas": [
+            "Ministra",
+            "Ministro de Estado"
+          ],
+          "traducoes": {
+            "en": [
+              "Minister"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "vice-governador",
+          "canonica": "Vice-governador",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "vice-prefeito",
+          "canonica": "Vice-prefeito",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "secretario-municipal",
+          "canonica": "Secretário municipal",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "secretario-estadual",
+          "canonica": "Secretário estadual",
+          "aceitas": [
+            "Secretário de Estado"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "juiz",
+          "canonica": "Juiz",
+          "aceitas": [
+            "Juíza"
+          ],
+          "traducoes": {
+            "en": [
+              "Judge"
+            ],
+            "es": [
+              "Juez"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "desembargador",
+          "canonica": "Desembargador",
+          "aceitas": [
+            "Desembargadora"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "ministro-do-stf",
+          "canonica": "Ministro do STF",
+          "aceitas": [
+            "Ministro do Supremo"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "promotor-de-justica",
+          "canonica": "Promotor de Justiça",
+          "aceitas": [
+            "Promotor"
+          ],
+          "traducoes": {
+            "en": [
+              "Prosecutor"
+            ],
+            "es": [
+              "Fiscal"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "procurador",
+          "canonica": "Procurador",
+          "aceitas": [
+            "Procurador da República"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "procurador-geral-da-republica",
+          "canonica": "Procurador-Geral da República",
+          "aceitas": [
+            "PGR"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "defensor-publico",
+          "canonica": "Defensor público",
+          "aceitas": [
+            "Defensora pública"
+          ],
+          "traducoes": {
+            "en": [
+              "Public defender"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "delegado-de-policia",
+          "canonica": "Delegado de polícia",
+          "aceitas": [
+            "Delegado"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "embaixador",
+          "canonica": "Embaixador",
+          "aceitas": [
+            "Embaixadora"
+          ],
+          "traducoes": {
+            "en": [
+              "Ambassador"
+            ],
+            "es": [
+              "Embajador"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "consul",
+          "canonica": "Cônsul",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "diplomata",
+          "canonica": "Diplomata",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Diplomat"
+            ],
+            "es": [
+              "Diplomático"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "presidente-do-senado",
+          "canonica": "Presidente do Senado",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "presidente-da-camara",
+          "canonica": "Presidente da Câmara",
+          "aceitas": [
+            "Presidente da Câmara dos Deputados"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ministro-do-stj",
+          "canonica": "Ministro do STJ",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ministro-do-tcu",
+          "canonica": "Ministro do TCU",
+          "aceitas": [
+            "Conselheiro do TCU"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "advogado-geral-da-uniao",
+          "canonica": "Advogado-Geral da União",
+          "aceitas": [
+            "AGU"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "defensor-publico-geral",
+          "canonica": "Defensor Público-Geral",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "controlador-geral-da-uniao",
+          "canonica": "Controlador-Geral da União",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "subprefeito",
+          "canonica": "Subprefeito",
+          "aceitas": [
+            "Administrador regional"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "escrivao-de-policia",
+          "canonica": "Escrivão de polícia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "policial-federal",
+          "canonica": "Policial federal",
+          "aceitas": [
+            "Agente da PF"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "auditor-fiscal",
+          "canonica": "Auditor fiscal",
+          "aceitas": [
+            "Auditor da Receita"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "oficial-de-justica",
+          "canonica": "Oficial de justiça",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "tabeliao",
+          "canonica": "Tabelião",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "conselheiro-tutelar",
+          "canonica": "Conselheiro tutelar",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "juiz-de-paz",
+          "canonica": "Juiz de paz",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "chefe-da-casa-civil",
+          "canonica": "Chefe da Casa Civil",
+          "aceitas": [
+            "Ministro da Casa Civil"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "lider-do-governo",
+          "canonica": "Líder do governo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "senador-suplente",
+          "canonica": "Senador suplente",
+          "aceitas": [
+            "Suplente"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="t"><title id="t">Mapinguari</title>
+<circle cx="32" cy="32" r="32" fill="#5e7d2e"/>
+<path d="M10 64c-2-16 2-28 6-34-2-4 0-8 4-10 2-6 8-9 12-9s10 3 12 9c4 2 6 6 4 10 4 6 8 18 6 34z" fill="#8b4a2b"/>
+<path d="M16 30l-4-2 5-1M48 30l4-2-5-1M24 12l-2-4 4 2M40 12l2-4-4 2" fill="none" stroke="#8b4a2b" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="32" cy="26" rx="9" ry="8" fill="#fff6dd"/>
+<circle cx="32" cy="26.5" r="4.6" fill="#2a8f57"/><circle cx="32" cy="26.5" r="2.2" fill="#14110c"/><circle cx="33.4" cy="25" r="1" fill="#fff"/>
+<path d="M22 46q10 10 20 0q-10 4-20 0z" fill="#3a1a0e"/>
+<path d="M25 47l2 3 2-2.5 3 3 3-3 2 2.5 2-3z" fill="#fff6dd"/>
+</svg>

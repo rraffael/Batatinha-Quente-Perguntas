@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="t"><title id="t">Boitatá</title>
+<circle cx="32" cy="32" r="32" fill="#1f2a44"/>
+<circle cx="14" cy="14" r="1.2" fill="#fff"/><circle cx="22" cy="8" r="1" fill="#fff"/><circle cx="12" cy="30" r="1" fill="#fff"/>
+<path d="M8 50c4-10 18-10 22-2s16 8 20-4" fill="none" stroke="#ff8a1f" stroke-width="10" stroke-linecap="round"/>
+<path d="M8 50c4-10 18-10 22-2s16 8 20-4" fill="none" stroke="#ffd23f" stroke-width="4" stroke-linecap="round"/>
+<path d="M34 36c-4-8 0-18 12-18s14 10 10 18c-2 4-20 4-22 0z" fill="#e2401c"/>
+<path d="M37 21c-2-6 2-9 4-11 0 4 2 6 4 8M48 19c0-5 4-8 6-9-1 4 0 7-1 11" fill="#ff8a1f"/>
+<circle cx="41" cy="28" r="4.5" fill="#fff6c8"/><circle cx="51" cy="28" r="4.5" fill="#fff6c8"/>
+<circle cx="41.5" cy="28.5" r="2.2" fill="#1f2a44"/><circle cx="51.5" cy="28.5" r="2.2" fill="#1f2a44"/>
+<path d="M42 35q4 2.5 8 0" fill="none" stroke="#5a1408" stroke-width="2" stroke-linecap="round"/>
+</svg>

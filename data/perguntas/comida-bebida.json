@@ -1,0 +1,4462 @@
+{
+  "tema": "comida-bebida",
+  "nome": "Comidas e Bebidas",
+  "perguntas": [
+    {
+      "id": "com-frutas",
+      "texto": "Cite uma fruta",
+      "dificuldade": "facil",
+      "tags": [
+        "frutas",
+        "alimentos"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Lista_de_frutas",
+      "respostas": [
+        {
+          "id": "maca",
+          "canonica": "Maçã",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Apple"
+            ],
+            "es": [
+              "Manzana"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "banana",
+          "canonica": "Banana",
+          "aceitas": [],
+          "traducoes": {
+            "es": [
+              "Plátano"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "laranja",
+          "canonica": "Laranja",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Orange"
+            ],
+            "es": [
+              "Naranja"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "uva",
+          "canonica": "Uva",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Grape"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "morango",
+          "canonica": "Morango",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Strawberry"
+            ],
+            "es": [
+              "Fresa",
+              "Frutilla"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "abacaxi",
+          "canonica": "Abacaxi",
+          "aceitas": [
+            "Ananás"
+          ],
+          "traducoes": {
+            "en": [
+              "Pineapple"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "manga",
+          "canonica": "Manga",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Mango"
+            ],
+            "es": [
+              "Mango"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "melancia",
+          "canonica": "Melancia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Watermelon"
+            ],
+            "es": [
+              "Sandía"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "melao",
+          "canonica": "Melão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Melon"
+            ],
+            "es": [
+              "Melón"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "mamao",
+          "canonica": "Mamão",
+          "aceitas": [
+            "Papaia"
+          ],
+          "traducoes": {
+            "en": [
+              "Papaya"
+            ],
+            "es": [
+              "Papaya"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pera",
+          "canonica": "Pera",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Pear"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "limao",
+          "canonica": "Limão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Lemon",
+              "Lime"
+            ],
+            "es": [
+              "Limón"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "abacate",
+          "canonica": "Abacate",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Avocado"
+            ],
+            "es": [
+              "Aguacate"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pessego",
+          "canonica": "Pêssego",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Peach"
+            ],
+            "es": [
+              "Durazno",
+              "Melocotón"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "kiwi",
+          "canonica": "Kiwi",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "goiaba",
+          "canonica": "Goiaba",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Guava"
+            ],
+            "es": [
+              "Guayaba"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "maracuja",
+          "canonica": "Maracujá",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Passion fruit"
+            ],
+            "es": [
+              "Maracuyá"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "caju",
+          "canonica": "Caju",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cashew apple"
+            ],
+            "es": [
+              "Marañón"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "coco",
+          "canonica": "Coco",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Coconut"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "acerola",
+          "canonica": "Acerola",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "jabuticaba",
+          "canonica": "Jabuticaba",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "acai",
+          "canonica": "Açaí",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cupuacu",
+          "canonica": "Cupuaçu",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "graviola",
+          "canonica": "Graviola",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Soursop"
+            ],
+            "es": [
+              "Guanábana"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "pitanga",
+          "canonica": "Pitanga",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Surinam cherry"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "pitaya",
+          "canonica": "Pitaya",
+          "aceitas": [
+            "Fruta-do-dragão"
+          ],
+          "traducoes": {
+            "en": [
+              "Dragon fruit"
+            ],
+            "es": [
+              "Pitahaya"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "lichia",
+          "canonica": "Lichia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Lychee"
+            ],
+            "es": [
+              "Lichi"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ameixa",
+          "canonica": "Ameixa",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Plum"
+            ],
+            "es": [
+              "Ciruela"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cereja",
+          "canonica": "Cereja",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cherry"
+            ],
+            "es": [
+              "Cereza"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "figo",
+          "canonica": "Figo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Fig"
+            ],
+            "es": [
+              "Higo"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "framboesa",
+          "canonica": "Framboesa",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Raspberry"
+            ],
+            "es": [
+              "Frambuesa"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "amora",
+          "canonica": "Amora",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Blackberry"
+            ],
+            "es": [
+              "Mora"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "mirtilo",
+          "canonica": "Mirtilo",
+          "aceitas": [
+            "Blueberry"
+          ],
+          "traducoes": {
+            "en": [
+              "Blueberry"
+            ],
+            "es": [
+              "Arándano"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tangerina",
+          "canonica": "Tangerina",
+          "aceitas": [
+            "Mexerica",
+            "Bergamota",
+            "Ponkan",
+            "Mimosa"
+          ],
+          "traducoes": {
+            "en": [
+              "Tangerine",
+              "Mandarin"
+            ],
+            "es": [
+              "Mandarina"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "carambola",
+          "canonica": "Carambola",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Starfruit"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "jaca",
+          "canonica": "Jaca",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Jackfruit"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "caqui",
+          "canonica": "Caqui",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Persimmon"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "roma",
+          "canonica": "Romã",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Pomegranate"
+            ],
+            "es": [
+              "Granada"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "damasco",
+          "canonica": "Damasco",
+          "aceitas": [
+            "Abricó"
+          ],
+          "traducoes": {
+            "en": [
+              "Apricot"
+            ],
+            "es": [
+              "Albaricoque"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "nectarina",
+          "canonica": "Nectarina",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Nectarine"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "caja",
+          "canonica": "Cajá",
+          "aceitas": [
+            "Taperebá"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "umbu",
+          "canonica": "Umbu",
+          "aceitas": [
+            "Imbu"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "seriguela",
+          "canonica": "Seriguela",
+          "aceitas": [
+            "Siriguela",
+            "Ciriguela"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "buriti",
+          "canonica": "Buriti",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "bacuri",
+          "canonica": "Bacuri",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "mangaba",
+          "canonica": "Mangaba",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "cambuci",
+          "canonica": "Cambuci",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "jenipapo",
+          "canonica": "Jenipapo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "pequi",
+          "canonica": "Pequi",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "tamarindo",
+          "canonica": "Tamarindo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Tamarind"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "fruta-do-conde",
+          "canonica": "Fruta-do-conde",
+          "aceitas": [
+            "Pinha",
+            "Ata"
+          ],
+          "traducoes": {
+            "en": [
+              "Sugar apple"
+            ],
+            "es": [
+              "Anón"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "atemoia",
+          "canonica": "Atemoia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Atemoya"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "nespera",
+          "canonica": "Nêspera",
+          "aceitas": [
+            "Ameixa-amarela"
+          ],
+          "traducoes": {
+            "en": [
+              "Loquat"
+            ],
+            "es": [
+              "Níspero"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "lima-da-persia",
+          "canonica": "Lima-da-pérsia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Sweet lime"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "groselha",
+          "canonica": "Groselha",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Currant"
+            ],
+            "es": [
+              "Grosella"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "kinkan",
+          "canonica": "Kinkan",
+          "aceitas": [
+            "Kumquat"
+          ],
+          "traducoes": {
+            "en": [
+              "Kumquat"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "mangostao",
+          "canonica": "Mangostão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Mangosteen"
+            ],
+            "es": [
+              "Mangostán"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "rambuta",
+          "canonica": "Rambutã",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Rambutan"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "physalis",
+          "canonica": "Physalis",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Goldenberry"
+            ],
+            "es": [
+              "Uchuva"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "jambo",
+          "canonica": "Jambo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Malay apple"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "sapoti",
+          "canonica": "Sapoti",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Sapodilla"
+            ],
+            "es": [
+              "Zapote"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "cacau",
+          "canonica": "Cacau",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cacao"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "guarana",
+          "canonica": "Guaraná",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "murici",
+          "canonica": "Murici",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "araca",
+          "canonica": "Araçá",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "uvaia",
+          "canonica": "Uvaia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "grumixama",
+          "canonica": "Grumixama",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "cranberry",
+          "canonica": "Cranberry",
+          "aceitas": [
+            "Oxicoco"
+          ],
+          "traducoes": {
+            "es": [
+              "Arándano rojo"
+            ]
+          },
+          "raridadeInicial": "epico"
+        }
+      ]
+    },
+    {
+      "id": "com-hortalicas",
+      "texto": "Cite uma hortaliça (legume, verdura, raiz ou tubérculo)",
+      "dificuldade": "facil",
+      "tags": [
+        "hortaliças",
+        "legumes",
+        "verduras"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Hortali%C3%A7a",
+      "nota": "Inclui legumes, verduras, raízes, tubérculos e ervas de horta.",
+      "respostas": [
+        {
+          "id": "alface",
+          "canonica": "Alface",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Lettuce"
+            ],
+            "es": [
+              "Lechuga"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "tomate",
+          "canonica": "Tomate",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Tomato"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cenoura",
+          "canonica": "Cenoura",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Carrot"
+            ],
+            "es": [
+              "Zanahoria"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "batata",
+          "canonica": "Batata",
+          "aceitas": [
+            "Batata-inglesa"
+          ],
+          "traducoes": {
+            "en": [
+              "Potato"
+            ],
+            "es": [
+              "Papa",
+              "Patata"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cebola",
+          "canonica": "Cebola",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Onion"
+            ],
+            "es": [
+              "Cebolla"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "alho",
+          "canonica": "Alho",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Garlic"
+            ],
+            "es": [
+              "Ajo"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "beterraba",
+          "canonica": "Beterraba",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Beet",
+              "Beetroot"
+            ],
+            "es": [
+              "Remolacha"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "brocolis",
+          "canonica": "Brócolis",
+          "aceitas": [
+            "Brócolos"
+          ],
+          "traducoes": {
+            "en": [
+              "Broccoli"
+            ],
+            "es": [
+              "Brócoli"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "couve-flor",
+          "canonica": "Couve-flor",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cauliflower"
+            ],
+            "es": [
+              "Coliflor"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "couve",
+          "canonica": "Couve",
+          "aceitas": [
+            "Couve-manteiga"
+          ],
+          "traducoes": {
+            "en": [
+              "Kale",
+              "Collard greens"
+            ],
+            "es": [
+              "Col rizada"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "repolho",
+          "canonica": "Repolho",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cabbage"
+            ],
+            "es": [
+              "Repollo"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pepino",
+          "canonica": "Pepino",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cucumber"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "abobrinha",
+          "canonica": "Abobrinha",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Zucchini"
+            ],
+            "es": [
+              "Calabacín"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "abobora",
+          "canonica": "Abóbora",
+          "aceitas": [
+            "Jerimum"
+          ],
+          "traducoes": {
+            "en": [
+              "Pumpkin",
+              "Squash"
+            ],
+            "es": [
+              "Calabaza"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "berinjela",
+          "canonica": "Berinjela",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Eggplant",
+              "Aubergine"
+            ],
+            "es": [
+              "Berenjena"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pimentao",
+          "canonica": "Pimentão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Bell pepper"
+            ],
+            "es": [
+              "Pimiento"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "chuchu",
+          "canonica": "Chuchu",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Chayote"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "quiabo",
+          "canonica": "Quiabo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Okra"
+            ],
+            "es": [
+              "Quimbombó"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "jilo",
+          "canonica": "Jiló",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "mandioca",
+          "canonica": "Mandioca",
+          "aceitas": [
+            "Aipim",
+            "Macaxeira"
+          ],
+          "traducoes": {
+            "en": [
+              "Cassava"
+            ],
+            "es": [
+              "Yuca"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "batata-doce",
+          "canonica": "Batata-doce",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Sweet potato"
+            ],
+            "es": [
+              "Camote",
+              "Boniato"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "inhame",
+          "canonica": "Inhame",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Yam"
+            ],
+            "es": [
+              "Ñame"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cara",
+          "canonica": "Cará",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "mandioquinha",
+          "canonica": "Mandioquinha",
+          "aceitas": [
+            "Batata-baroa",
+            "Batata-salsa"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "espinafre",
+          "canonica": "Espinafre",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Spinach"
+            ],
+            "es": [
+              "Espinaca"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "rucula",
+          "canonica": "Rúcula",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Arugula",
+              "Rocket"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "agriao",
+          "canonica": "Agrião",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Watercress"
+            ],
+            "es": [
+              "Berro"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "nabo",
+          "canonica": "Nabo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Turnip"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "rabanete",
+          "canonica": "Rabanete",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Radish"
+            ],
+            "es": [
+              "Rábano"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "vagem",
+          "canonica": "Vagem",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Green bean"
+            ],
+            "es": [
+              "Judía verde",
+              "Ejote"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ervilha",
+          "canonica": "Ervilha",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Pea"
+            ],
+            "es": [
+              "Guisante",
+              "Arveja"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "aspargo",
+          "canonica": "Aspargo",
+          "aceitas": [
+            "Espargo"
+          ],
+          "traducoes": {
+            "en": [
+              "Asparagus"
+            ],
+            "es": [
+              "Espárrago"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "alcachofra",
+          "canonica": "Alcachofra",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Artichoke"
+            ],
+            "es": [
+              "Alcachofa"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "alho-poro",
+          "canonica": "Alho-poró",
+          "aceitas": [
+            "Alho-francês"
+          ],
+          "traducoes": {
+            "en": [
+              "Leek"
+            ],
+            "es": [
+              "Puerro"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "salsao",
+          "canonica": "Salsão",
+          "aceitas": [
+            "Aipo"
+          ],
+          "traducoes": {
+            "en": [
+              "Celery"
+            ],
+            "es": [
+              "Apio"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "acelga",
+          "canonica": "Acelga",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Chard"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "escarola",
+          "canonica": "Escarola",
+          "aceitas": [
+            "Chicória"
+          ],
+          "traducoes": {
+            "en": [
+              "Endive",
+              "Escarole"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "almeirao",
+          "canonica": "Almeirão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Chicory"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "maxixe",
+          "canonica": "Maxixe",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "palmito",
+          "canonica": "Palmito",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Heart of palm"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "taioba",
+          "canonica": "Taioba",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "ora-pro-nobis",
+          "canonica": "Ora-pro-nóbis",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "couve-de-bruxelas",
+          "canonica": "Couve-de-bruxelas",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Brussels sprouts"
+            ],
+            "es": [
+              "Col de Bruselas"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "erva-doce",
+          "canonica": "Erva-doce",
+          "aceitas": [
+            "Funcho"
+          ],
+          "traducoes": {
+            "en": [
+              "Fennel"
+            ],
+            "es": [
+              "Hinojo"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "gengibre",
+          "canonica": "Gengibre",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Ginger"
+            ],
+            "es": [
+              "Jengibre"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "milho-verde",
+          "canonica": "Milho-verde",
+          "aceitas": [
+            "Milho"
+          ],
+          "traducoes": {
+            "en": [
+              "Corn",
+              "Maize"
+            ],
+            "es": [
+              "Maíz",
+              "Choclo"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "rabanete-japones",
+          "canonica": "Rabanete-japonês",
+          "aceitas": [
+            "Nabo-japonês",
+            "Daikon"
+          ],
+          "traducoes": {
+            "en": [
+              "Daikon"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "mostarda",
+          "canonica": "Mostarda",
+          "aceitas": [
+            "Folha de mostarda"
+          ],
+          "traducoes": {
+            "en": [
+              "Mustard greens"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "bertalha",
+          "canonica": "Bertalha",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "cebolinha",
+          "canonica": "Cebolinha",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Chives"
+            ],
+            "es": [
+              "Cebollino"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "salsinha",
+          "canonica": "Salsinha",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Parsley"
+            ],
+            "es": [
+              "Perejil"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "coentro",
+          "canonica": "Coentro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Coriander",
+              "Cilantro"
+            ],
+            "es": [
+              "Cilantro"
+            ]
+          },
+          "raridadeInicial": "epico"
+        }
+      ]
+    },
+    {
+      "id": "com-pratos-brasileiros",
+      "texto": "Cite um prato típico da culinária brasileira",
+      "dificuldade": "facil",
+      "tags": [
+        "culinária",
+        "brasil"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Culin%C3%A1ria_do_Brasil",
+      "respostas": [
+        {
+          "id": "feijoada",
+          "canonica": "Feijoada",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "moqueca",
+          "canonica": "Moqueca",
+          "aceitas": [
+            "Moqueca capixaba",
+            "Moqueca baiana"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "acaraje",
+          "canonica": "Acarajé",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pao-de-queijo",
+          "canonica": "Pão de queijo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cheese bread"
+            ],
+            "es": [
+              "Pan de queso"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "coxinha",
+          "canonica": "Coxinha",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pastel",
+          "canonica": "Pastel",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "churrasco",
+          "canonica": "Churrasco",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Barbecue"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "farofa",
+          "canonica": "Farofa",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "tapioca",
+          "canonica": "Tapioca",
+          "aceitas": [
+            "Beiju"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "baiao-de-dois",
+          "canonica": "Baião de dois",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "feijao-tropeiro",
+          "canonica": "Feijão tropeiro",
+          "aceitas": [
+            "Tropeiro"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "vatapa",
+          "canonica": "Vatapá",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "caruru",
+          "canonica": "Caruru",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "bobo-de-camarao",
+          "canonica": "Bobó de camarão",
+          "aceitas": [
+            "Bobó"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "tacaca",
+          "canonica": "Tacacá",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pato-no-tucupi",
+          "canonica": "Pato no tucupi",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "manicoba",
+          "canonica": "Maniçoba",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "carne-de-sol",
+          "canonica": "Carne de sol",
+          "aceitas": [
+            "Carne seca",
+            "Charque"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "buchada-de-bode",
+          "canonica": "Buchada de bode",
+          "aceitas": [
+            "Buchada"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "sarapatel",
+          "canonica": "Sarapatel",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "galinhada",
+          "canonica": "Galinhada",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "arroz-com-pequi",
+          "canonica": "Arroz com pequi",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "pamonha",
+          "canonica": "Pamonha",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tutu-de-feijao",
+          "canonica": "Tutu de feijão",
+          "aceitas": [
+            "Tutu"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "frango-com-quiabo",
+          "canonica": "Frango com quiabo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "arroz-carreteiro",
+          "canonica": "Arroz carreteiro",
+          "aceitas": [
+            "Carreteiro"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "barreado",
+          "canonica": "Barreado",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "virado-a-paulista",
+          "canonica": "Virado à paulista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "cuscuz",
+          "canonica": "Cuscuz",
+          "aceitas": [
+            "Cuscuz paulista",
+            "Cuscuz nordestino"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "escondidinho",
+          "canonica": "Escondidinho",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "vaca-atolada",
+          "canonica": "Vaca atolada",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "quibebe",
+          "canonica": "Quibebe",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "dobradinha",
+          "canonica": "Dobradinha",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "caldo-de-mocoto",
+          "canonica": "Caldo de mocotó",
+          "aceitas": [
+            "Mocotó"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "arroz-de-cuxa",
+          "canonica": "Arroz de cuxá",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "camarao-na-moranga",
+          "canonica": "Camarão na moranga",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "picadinho",
+          "canonica": "Picadinho",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "bauru",
+          "canonica": "Bauru",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "pirao",
+          "canonica": "Pirão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "empadao-goiano",
+          "canonica": "Empadão goiano",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "abara",
+          "canonica": "Abará",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "xinxim-de-galinha",
+          "canonica": "Xinxim de galinha",
+          "aceitas": [
+            "Xinxim"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "rubacao",
+          "canonica": "Rubacão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "caldeirada",
+          "canonica": "Caldeirada",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "costela-fogo-de-chao",
+          "canonica": "Costela fogo de chão",
+          "aceitas": [
+            "Costela no fogo de chão"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "pacoca-de-carne-seca",
+          "canonica": "Paçoca de carne seca",
+          "aceitas": [
+            "Paçoca de pilão"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "mexido",
+          "canonica": "Mexido",
+          "aceitas": [
+            "Mexidão"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "bolinho-de-chuva",
+          "canonica": "Bolinho de chuva",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "empada",
+          "canonica": "Empada",
+          "aceitas": [
+            "Empadinha"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "arroz-e-feijao",
+          "canonica": "Arroz e feijão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "torresmo",
+          "canonica": "Torresmo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "sururu",
+          "canonica": "Sururu",
+          "aceitas": [
+            "Caldo de sururu"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "galinha-a-cabidela",
+          "canonica": "Galinha à cabidela",
+          "aceitas": [
+            "Cabidela",
+            "Galinha ao molho pardo"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "frango-a-passarinho",
+          "canonica": "Frango à passarinho",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "caldo-de-piranha",
+          "canonica": "Caldo de piranha",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        }
+      ]
+    },
+    {
+      "id": "com-doces-brasileiros",
+      "texto": "Cite um doce ou sobremesa típico do Brasil",
+      "dificuldade": "facil",
+      "tags": [
+        "doces",
+        "sobremesas",
+        "brasil"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Lista_de_doces_brasileiros",
+      "respostas": [
+        {
+          "id": "brigadeiro",
+          "canonica": "Brigadeiro",
+          "aceitas": [
+            "Negrinho"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "beijinho",
+          "canonica": "Beijinho",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pudim",
+          "canonica": "Pudim",
+          "aceitas": [
+            "Pudim de leite"
+          ],
+          "traducoes": {
+            "es": [
+              "Flan"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pacoca",
+          "canonica": "Paçoca",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pe-de-moleque",
+          "canonica": "Pé de moleque",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cocada",
+          "canonica": "Cocada",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "quindim",
+          "canonica": "Quindim",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "goiabada",
+          "canonica": "Goiabada",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "romeu-e-julieta",
+          "canonica": "Romeu e Julieta",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "doce-de-leite",
+          "canonica": "Doce de leite",
+          "aceitas": [],
+          "traducoes": {
+            "es": [
+              "Dulce de leche"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "arroz-doce",
+          "canonica": "Arroz-doce",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Rice pudding"
+            ],
+            "es": [
+              "Arroz con leche"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "canjica",
+          "canonica": "Canjica",
+          "aceitas": [
+            "Mungunzá"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "curau",
+          "canonica": "Curau",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pave",
+          "canonica": "Pavê",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "bolo-de-cenoura",
+          "canonica": "Bolo de cenoura",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "bolo-de-fuba",
+          "canonica": "Bolo de fubá",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "bolo-de-rolo",
+          "canonica": "Bolo de rolo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cajuzinho",
+          "canonica": "Cajuzinho",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "bem-casado",
+          "canonica": "Bem-casado",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "olho-de-sogra",
+          "canonica": "Olho de sogra",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "manjar",
+          "canonica": "Manjar",
+          "aceitas": [
+            "Manjar branco"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "mousse-de-maracuja",
+          "canonica": "Mousse de maracujá",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "rapadura",
+          "canonica": "Rapadura",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "maria-mole",
+          "canonica": "Maria-mole",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "suspiro",
+          "canonica": "Suspiro",
+          "aceitas": [
+            "Merengue"
+          ],
+          "traducoes": {
+            "en": [
+              "Meringue"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "quebra-queixo",
+          "canonica": "Quebra-queixo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "doce-de-abobora",
+          "canonica": "Doce de abóbora",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ambrosia",
+          "canonica": "Ambrosia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "sagu",
+          "canonica": "Sagu",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "cartola",
+          "canonica": "Cartola",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "bolo-souza-leao",
+          "canonica": "Bolo Souza Leão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "camafeu",
+          "canonica": "Camafeu",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "bala-de-coco",
+          "canonica": "Bala de coco",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "torta-holandesa",
+          "canonica": "Torta holandesa",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "acai-na-tigela",
+          "canonica": "Açaí na tigela",
+          "aceitas": [
+            "Açaí"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cuscuz-doce",
+          "canonica": "Cuscuz doce",
+          "aceitas": [
+            "Cuscuz de tapioca"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "pamonha-doce",
+          "canonica": "Pamonha doce",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "bolo-de-milho",
+          "canonica": "Bolo de milho",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "brigadeirao",
+          "canonica": "Brigadeirão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "doce-de-banana",
+          "canonica": "Doce de banana",
+          "aceitas": [
+            "Bananada"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "bolo-de-aipim",
+          "canonica": "Bolo de aipim",
+          "aceitas": [
+            "Bolo de mandioca",
+            "Bolo de macaxeira"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "queijadinha",
+          "canonica": "Queijadinha",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "fios-de-ovos",
+          "canonica": "Fios de ovos",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "baba-de-moca",
+          "canonica": "Baba de moça",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "bombocado",
+          "canonica": "Bombocado",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "nega-maluca",
+          "canonica": "Nega maluca",
+          "aceitas": [
+            "Bolo nega maluca"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        }
+      ]
+    },
+    {
+      "id": "com-temperos",
+      "texto": "Cite um tempero, erva aromática ou especiaria",
+      "dificuldade": "media",
+      "tags": [
+        "temperos",
+        "especiarias",
+        "ervas"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Especiaria",
+      "respostas": [
+        {
+          "id": "sal",
+          "canonica": "Sal",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Salt"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pimenta-do-reino",
+          "canonica": "Pimenta-do-reino",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Black pepper"
+            ],
+            "es": [
+              "Pimienta negra"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "alho",
+          "canonica": "Alho",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Garlic"
+            ],
+            "es": [
+              "Ajo"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "oregano",
+          "canonica": "Orégano",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "manjericao",
+          "canonica": "Manjericão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Basil"
+            ],
+            "es": [
+              "Albahaca"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "salsinha",
+          "canonica": "Salsinha",
+          "aceitas": [
+            "Salsa"
+          ],
+          "traducoes": {
+            "en": [
+              "Parsley"
+            ],
+            "es": [
+              "Perejil"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cebolinha",
+          "canonica": "Cebolinha",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Chives"
+            ],
+            "es": [
+              "Cebollino"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cheiro-verde",
+          "canonica": "Cheiro-verde",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "coentro",
+          "canonica": "Coentro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Coriander",
+              "Cilantro"
+            ],
+            "es": [
+              "Cilantro"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "louro",
+          "canonica": "Louro",
+          "aceitas": [
+            "Folha de louro"
+          ],
+          "traducoes": {
+            "en": [
+              "Bay leaf"
+            ],
+            "es": [
+              "Laurel"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "alecrim",
+          "canonica": "Alecrim",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Rosemary"
+            ],
+            "es": [
+              "Romero"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "tomilho",
+          "canonica": "Tomilho",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Thyme"
+            ],
+            "es": [
+              "Tomillo"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "hortela",
+          "canonica": "Hortelã",
+          "aceitas": [
+            "Menta"
+          ],
+          "traducoes": {
+            "en": [
+              "Mint"
+            ],
+            "es": [
+              "Hierbabuena"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "salvia",
+          "canonica": "Sálvia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Sage"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "canela",
+          "canonica": "Canela",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cinnamon"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cravo",
+          "canonica": "Cravo",
+          "aceitas": [
+            "Cravo-da-índia"
+          ],
+          "traducoes": {
+            "en": [
+              "Clove"
+            ],
+            "es": [
+              "Clavo"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "noz-moscada",
+          "canonica": "Noz-moscada",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Nutmeg"
+            ],
+            "es": [
+              "Nuez moscada"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cominho",
+          "canonica": "Cominho",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cumin"
+            ],
+            "es": [
+              "Comino"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "curcuma",
+          "canonica": "Cúrcuma",
+          "aceitas": [
+            "Açafrão-da-terra"
+          ],
+          "traducoes": {
+            "en": [
+              "Turmeric"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "acafrao",
+          "canonica": "Açafrão",
+          "aceitas": [
+            "Açafrão-verdadeiro"
+          ],
+          "traducoes": {
+            "en": [
+              "Saffron"
+            ],
+            "es": [
+              "Azafrán"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "paprica",
+          "canonica": "Páprica",
+          "aceitas": [
+            "Pimentão-doce"
+          ],
+          "traducoes": {
+            "en": [
+              "Paprika"
+            ],
+            "es": [
+              "Pimentón"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "colorau",
+          "canonica": "Colorau",
+          "aceitas": [
+            "Colorífico",
+            "Urucum"
+          ],
+          "traducoes": {
+            "en": [
+              "Annatto"
+            ],
+            "es": [
+              "Achiote"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "gengibre",
+          "canonica": "Gengibre",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Ginger"
+            ],
+            "es": [
+              "Jengibre"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "curry",
+          "canonica": "Curry",
+          "aceitas": [
+            "Caril"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "pimenta-calabresa",
+          "canonica": "Pimenta calabresa",
+          "aceitas": [
+            "Calabresa"
+          ],
+          "traducoes": {
+            "en": [
+              "Red pepper flakes"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "pimenta-malagueta",
+          "canonica": "Pimenta-malagueta",
+          "aceitas": [
+            "Malagueta"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "pimenta-dedo-de-moca",
+          "canonica": "Pimenta dedo-de-moça",
+          "aceitas": [
+            "Dedo-de-moça"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "pimenta-de-cheiro",
+          "canonica": "Pimenta-de-cheiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "erva-doce",
+          "canonica": "Erva-doce",
+          "aceitas": [
+            "Anis"
+          ],
+          "traducoes": {
+            "en": [
+              "Anise"
+            ],
+            "es": [
+              "Anís"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "anis-estrelado",
+          "canonica": "Anis-estrelado",
+          "aceitas": [
+            "Badiana"
+          ],
+          "traducoes": {
+            "en": [
+              "Star anise"
+            ],
+            "es": [
+              "Anís estrellado"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "endro",
+          "canonica": "Endro",
+          "aceitas": [
+            "Dill"
+          ],
+          "traducoes": {
+            "en": [
+              "Dill"
+            ],
+            "es": [
+              "Eneldo"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "estragao",
+          "canonica": "Estragão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Tarragon"
+            ],
+            "es": [
+              "Estragón"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "cardamomo",
+          "canonica": "Cardamomo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cardamom"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "mostarda",
+          "canonica": "Mostarda",
+          "aceitas": [
+            "Mostarda em grão"
+          ],
+          "traducoes": {
+            "en": [
+              "Mustard"
+            ],
+            "es": [
+              "Mostaza"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "gergelim",
+          "canonica": "Gergelim",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Sesame"
+            ],
+            "es": [
+              "Sésamo",
+              "Ajonjolí"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "manjerona",
+          "canonica": "Manjerona",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Marjoram"
+            ],
+            "es": [
+              "Mejorana"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "zimbro",
+          "canonica": "Zimbro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Juniper"
+            ],
+            "es": [
+              "Enebro"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "sumagre",
+          "canonica": "Sumagre",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Sumac"
+            ],
+            "es": [
+              "Zumaque"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "wasabi",
+          "canonica": "Wasabi",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "raiz-forte",
+          "canonica": "Raiz-forte",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Horseradish"
+            ],
+            "es": [
+              "Rábano picante"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "baunilha",
+          "canonica": "Baunilha",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Vanilla"
+            ],
+            "es": [
+              "Vainilla"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "chimichurri",
+          "canonica": "Chimichurri",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "alcaparra",
+          "canonica": "Alcaparra",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Caper"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "pimenta-da-jamaica",
+          "canonica": "Pimenta-da-jamaica",
+          "aceitas": [
+            "Pimenta síria"
+          ],
+          "traducoes": {
+            "en": [
+              "Allspice"
+            ],
+            "es": [
+              "Pimienta de Jamaica"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "feno-grego",
+          "canonica": "Feno-grego",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Fenugreek"
+            ],
+            "es": [
+              "Fenogreco"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "pimenta-rosa",
+          "canonica": "Pimenta-rosa",
+          "aceitas": [
+            "Aroeira"
+          ],
+          "traducoes": {
+            "en": [
+              "Pink peppercorn"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "pimenta-caiena",
+          "canonica": "Pimenta caiena",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cayenne pepper"
+            ],
+            "es": [
+              "Pimienta de cayena"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ervas-finas",
+          "canonica": "Ervas finas",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Fines herbes"
+            ],
+            "es": [
+              "Finas hierbas"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "lemongrass",
+          "canonica": "Lemongrass",
+          "aceitas": [
+            "Capim-santo",
+            "Capim-limão",
+            "Capim-cidrão"
+          ],
+          "traducoes": {
+            "es": [
+              "Hierba limón"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "garam-masala",
+          "canonica": "Garam masala",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "pimenta-de-macaco",
+          "canonica": "Pimenta-de-macaco",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "pimenta-biquinho",
+          "canonica": "Pimenta-biquinho",
+          "aceitas": [
+            "Biquinho"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "cebola-em-po",
+          "canonica": "Cebola em pó",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Onion powder"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "lemon-pepper",
+          "canonica": "Lemon pepper",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        }
+      ]
+    },
+    {
+      "id": "com-bebidas-alcoolicas",
+      "texto": "Cite uma bebida alcoólica (tipo ou drinque)",
+      "dificuldade": "facil",
+      "tags": [
+        "bebidas",
+        "drinques"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Bebida_alco%C3%B3lica",
+      "respostas": [
+        {
+          "id": "cerveja",
+          "canonica": "Cerveja",
+          "aceitas": [
+            "Chope",
+            "Chopp",
+            "Breja"
+          ],
+          "traducoes": {
+            "en": [
+              "Beer"
+            ],
+            "es": [
+              "Cerveza"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "vinho",
+          "canonica": "Vinho",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Wine"
+            ],
+            "es": [
+              "Vino"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cachaca",
+          "canonica": "Cachaça",
+          "aceitas": [
+            "Pinga",
+            "Aguardente",
+            "Caninha"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "caipirinha",
+          "canonica": "Caipirinha",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "vodca",
+          "canonica": "Vodca",
+          "aceitas": [
+            "Vodka"
+          ],
+          "traducoes": {
+            "en": [
+              "Vodka"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "uisque",
+          "canonica": "Uísque",
+          "aceitas": [
+            "Whisky",
+            "Whiskey"
+          ],
+          "traducoes": {
+            "en": [
+              "Whisky",
+              "Whiskey"
+            ],
+            "es": [
+              "Güisqui"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "rum",
+          "canonica": "Rum",
+          "aceitas": [
+            "Rhum"
+          ],
+          "traducoes": {
+            "es": [
+              "Ron"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "tequila",
+          "canonica": "Tequila",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "gim",
+          "canonica": "Gim",
+          "aceitas": [
+            "Gin"
+          ],
+          "traducoes": {
+            "en": [
+              "Gin"
+            ],
+            "es": [
+              "Ginebra"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "saque",
+          "canonica": "Saquê",
+          "aceitas": [
+            "Sake"
+          ],
+          "traducoes": {
+            "en": [
+              "Sake"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "conhaque",
+          "canonica": "Conhaque",
+          "aceitas": [
+            "Cognac",
+            "Brandy"
+          ],
+          "traducoes": {
+            "en": [
+              "Cognac",
+              "Brandy"
+            ],
+            "es": [
+              "Coñac"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "licor",
+          "canonica": "Licor",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Liqueur"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "champanhe",
+          "canonica": "Champanhe",
+          "aceitas": [
+            "Champagne",
+            "Champanha"
+          ],
+          "traducoes": {
+            "en": [
+              "Champagne"
+            ],
+            "es": [
+              "Champán"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "espumante",
+          "canonica": "Espumante",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Sparkling wine"
+            ],
+            "es": [
+              "Espumoso"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "sidra",
+          "canonica": "Sidra",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cider"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "absinto",
+          "canonica": "Absinto",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Absinthe"
+            ],
+            "es": [
+              "Absenta"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "martini",
+          "canonica": "Martini",
+          "aceitas": [
+            "Dry martini"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "mojito",
+          "canonica": "Mojito",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pina-colada",
+          "canonica": "Piña colada",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "quentao",
+          "canonica": "Quentão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "vinho-quente",
+          "canonica": "Vinho quente",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Mulled wine"
+            ],
+            "es": [
+              "Vino caliente"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "catuaba",
+          "canonica": "Catuaba",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "vermute",
+          "canonica": "Vermute",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Vermouth"
+            ],
+            "es": [
+              "Vermut"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "vinho-do-porto",
+          "canonica": "Vinho do Porto",
+          "aceitas": [
+            "Porto"
+          ],
+          "traducoes": {
+            "en": [
+              "Port wine"
+            ],
+            "es": [
+              "Vino de Oporto"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "xerez",
+          "canonica": "Xerez",
+          "aceitas": [
+            "Jerez"
+          ],
+          "traducoes": {
+            "en": [
+              "Sherry"
+            ],
+            "es": [
+              "Jerez"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "hidromel",
+          "canonica": "Hidromel",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Mead"
+            ],
+            "es": [
+              "Hidromiel"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "batida",
+          "canonica": "Batida",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "caipiroska",
+          "canonica": "Caipiroska",
+          "aceitas": [
+            "Caipivodca"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cuba-libre",
+          "canonica": "Cuba libre",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "margarita",
+          "canonica": "Margarita",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "sangria",
+          "canonica": "Sangria",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "negroni",
+          "canonica": "Negroni",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cosmopolitan",
+          "canonica": "Cosmopolitan",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "bloody-mary",
+          "canonica": "Bloody Mary",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "aperol-spritz",
+          "canonica": "Aperol spritz",
+          "aceitas": [
+            "Spritz"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "pisco",
+          "canonica": "Pisco",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "mezcal",
+          "canonica": "Mezcal",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "soju",
+          "canonica": "Soju",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "grappa",
+          "canonica": "Grappa",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "rabo-de-galo",
+          "canonica": "Rabo de galo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "sex-on-the-beach",
+          "canonica": "Sex on the beach",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "gin-tonica",
+          "canonica": "Gin tônica",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Gin and tonic"
+            ],
+            "es": [
+              "Gin tonic"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "saquerinha",
+          "canonica": "Saquerinha",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "steinhager",
+          "canonica": "Steinhäger",
+          "aceitas": [
+            "Steinhaeger"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "ouzo",
+          "canonica": "Ouzo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "tiquira",
+          "canonica": "Tiquira",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "daiquiri",
+          "canonica": "Daiquiri",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "moscow-mule",
+          "canonica": "Moscow Mule",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "fernet",
+          "canonica": "Fernet",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "arak",
+          "canonica": "Arak",
+          "aceitas": [
+            "Araque"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "kir-royal",
+          "canonica": "Kir royal",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "calvados",
+          "canonica": "Calvados",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "rakia",
+          "canonica": "Rakia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "hi-fi",
+          "canonica": "Hi-fi",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "jurubeba",
+          "canonica": "Jurubeba",
+          "aceitas": [
+            "Vinho de jurubeba"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        }
+      ]
+    },
+    {
+      "id": "com-massas",
+      "texto": "Cite um tipo de massa (macarrão)",
+      "dificuldade": "media",
+      "tags": [
+        "massas",
+        "macarrão",
+        "itália"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Lista_de_massas",
+      "respostas": [
+        {
+          "id": "espaguete",
+          "canonica": "Espaguete",
+          "aceitas": [
+            "Spaghetti"
+          ],
+          "traducoes": {
+            "en": [
+              "Spaghetti"
+            ],
+            "es": [
+              "Espagueti"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "lasanha",
+          "canonica": "Lasanha",
+          "aceitas": [
+            "Lasagna"
+          ],
+          "traducoes": {
+            "en": [
+              "Lasagna"
+            ],
+            "es": [
+              "Lasaña"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "talharim",
+          "canonica": "Talharim",
+          "aceitas": [
+            "Tagliatelle",
+            "Tagliarini"
+          ],
+          "traducoes": {
+            "es": [
+              "Tallarín"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "nhoque",
+          "canonica": "Nhoque",
+          "aceitas": [
+            "Gnocchi"
+          ],
+          "traducoes": {
+            "en": [
+              "Gnocchi"
+            ],
+            "es": [
+              "Ñoquis"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "ravioli",
+          "canonica": "Ravióli",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "penne",
+          "canonica": "Penne",
+          "aceitas": [
+            "Pena"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "parafuso",
+          "canonica": "Parafuso",
+          "aceitas": [
+            "Fusilli"
+          ],
+          "traducoes": {
+            "en": [
+              "Fusilli"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "gravatinha",
+          "canonica": "Gravatinha",
+          "aceitas": [
+            "Farfalle"
+          ],
+          "traducoes": {
+            "en": [
+              "Farfalle",
+              "Bow tie"
+            ],
+            "es": [
+              "Moñitos"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "capeletti",
+          "canonica": "Capeletti",
+          "aceitas": [
+            "Cappelletti"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "canelone",
+          "canonica": "Canelone",
+          "aceitas": [
+            "Cannelloni"
+          ],
+          "traducoes": {
+            "en": [
+              "Cannelloni"
+            ],
+            "es": [
+              "Canelones"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "fettuccine",
+          "canonica": "Fettuccine",
+          "aceitas": [
+            "Fetuccine"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "rigatoni",
+          "canonica": "Rigatoni",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "linguine",
+          "canonica": "Linguine",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "conchiglione",
+          "canonica": "Conchiglione",
+          "aceitas": [
+            "Concha",
+            "Conchinha",
+            "Conchiglie"
+          ],
+          "traducoes": {
+            "en": [
+              "Shells"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tortellini",
+          "canonica": "Tortellini",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "pappardelle",
+          "canonica": "Pappardelle",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "bucatini",
+          "canonica": "Bucatini",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "cavatappi",
+          "canonica": "Cavatappi",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "orecchiette",
+          "canonica": "Orecchiette",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ave-maria",
+          "canonica": "Ave-maria",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "padre-nosso",
+          "canonica": "Padre-nosso",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "letrinha",
+          "canonica": "Letrinha",
+          "aceitas": [
+            "Sopa de letrinhas"
+          ],
+          "traducoes": {
+            "en": [
+              "Alphabet pasta"
+            ],
+            "es": [
+              "Letras"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cabelo-de-anjo",
+          "canonica": "Cabelo de anjo",
+          "aceitas": [
+            "Capellini",
+            "Capelini"
+          ],
+          "traducoes": {
+            "en": [
+              "Angel hair"
+            ],
+            "es": [
+              "Cabello de ángel"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "aletria",
+          "canonica": "Aletria",
+          "aceitas": [
+            "Vermicelli",
+            "Cabelinho"
+          ],
+          "traducoes": {
+            "en": [
+              "Vermicelli"
+            ],
+            "es": [
+              "Fideos"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ditalini",
+          "canonica": "Ditalini",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "rondelli",
+          "canonica": "Rondelli",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "sorrentino",
+          "canonica": "Sorrentino",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "agnolotti",
+          "canonica": "Agnolotti",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "lamen",
+          "canonica": "Lámen",
+          "aceitas": [
+            "Ramen"
+          ],
+          "traducoes": {
+            "en": [
+              "Ramen"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "macarrao-instantaneo",
+          "canonica": "Macarrão instantâneo",
+          "aceitas": [
+            "Miojo"
+          ],
+          "traducoes": {
+            "en": [
+              "Instant noodles"
+            ],
+            "es": [
+              "Fideos instantáneos"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "udon",
+          "canonica": "Udon",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "soba",
+          "canonica": "Soba",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "bifum",
+          "canonica": "Bifum",
+          "aceitas": [
+            "Bifun"
+          ],
+          "traducoes": {
+            "en": [
+              "Rice noodles"
+            ],
+            "es": [
+              "Fideos de arroz"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "tortiglioni",
+          "canonica": "Tortiglioni",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "paccheri",
+          "canonica": "Paccheri",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "ziti",
+          "canonica": "Ziti",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "fregola",
+          "canonica": "Fregola",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "orzo",
+          "canonica": "Orzo",
+          "aceitas": [
+            "Risoni",
+            "Macarrão-arroz"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "pipe-rigate",
+          "canonica": "Pipe rigate",
+          "aceitas": [
+            "Pipe"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "gemelli",
+          "canonica": "Gemelli",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "trofie",
+          "canonica": "Trofie",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "radiatori",
+          "canonica": "Radiatori",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "caracolino",
+          "canonica": "Caracolino",
+          "aceitas": [
+            "Caracol",
+            "Caracolinho"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "estrelinha",
+          "canonica": "Estrelinha",
+          "aceitas": [
+            "Estrelinhas"
+          ],
+          "traducoes": {
+            "en": [
+              "Stelline"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cotovelo",
+          "canonica": "Cotovelo",
+          "aceitas": [
+            "Chifrinho",
+            "Macarrão cotovelo"
+          ],
+          "traducoes": {
+            "en": [
+              "Elbow macaroni"
+            ],
+            "es": [
+              "Coditos"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        }
+      ]
+    },
+    {
+      "id": "com-queijos",
+      "texto": "Cite um tipo de queijo",
+      "dificuldade": "media",
+      "tags": [
+        "queijos",
+        "laticínios"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Lista_de_queijos",
+      "respostas": [
+        {
+          "id": "mucarela",
+          "canonica": "Muçarela",
+          "aceitas": [
+            "Mussarela",
+            "Mozzarella"
+          ],
+          "traducoes": {
+            "en": [
+              "Mozzarella"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "parmesao",
+          "canonica": "Parmesão",
+          "aceitas": [
+            "Parmigiano",
+            "Parmigiano Reggiano"
+          ],
+          "traducoes": {
+            "en": [
+              "Parmesan"
+            ],
+            "es": [
+              "Parmesano"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "prato",
+          "canonica": "Prato",
+          "aceitas": [
+            "Queijo prato"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "minas-frescal",
+          "canonica": "Minas frescal",
+          "aceitas": [
+            "Frescal"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "coalho",
+          "canonica": "Coalho",
+          "aceitas": [
+            "Queijo coalho"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "requeijao",
+          "canonica": "Requeijão",
+          "aceitas": [
+            "Catupiry"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "ricota",
+          "canonica": "Ricota",
+          "aceitas": [
+            "Ricotta"
+          ],
+          "traducoes": {
+            "en": [
+              "Ricotta"
+            ],
+            "es": [
+              "Requesón"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "provolone",
+          "canonica": "Provolone",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "gorgonzola",
+          "canonica": "Gorgonzola",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "brie",
+          "canonica": "Brie",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "camembert",
+          "canonica": "Camembert",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cheddar",
+          "canonica": "Cheddar",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "gouda",
+          "canonica": "Gouda",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "emmental",
+          "canonica": "Emmental",
+          "aceitas": [
+            "Emental"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "gruyere",
+          "canonica": "Gruyère",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "roquefort",
+          "canonica": "Roquefort",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cottage",
+          "canonica": "Cottage",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cream-cheese",
+          "canonica": "Cream cheese",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "burrata",
+          "canonica": "Burrata",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "mascarpone",
+          "canonica": "Mascarpone",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "pecorino",
+          "canonica": "Pecorino",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "grana-padano",
+          "canonica": "Grana Padano",
+          "aceitas": [
+            "Grana"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "feta",
+          "canonica": "Feta",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "queijo-do-reino",
+          "canonica": "Queijo do reino",
+          "aceitas": [
+            "Reino"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "edam",
+          "canonica": "Edam",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "minas-padrao",
+          "canonica": "Minas padrão",
+          "aceitas": [
+            "Meia-cura"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "canastra",
+          "canonica": "Canastra",
+          "aceitas": [
+            "Queijo canastra"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "queijo-serro",
+          "canonica": "Queijo serro",
+          "aceitas": [
+            "Serro"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "queijo-de-manteiga",
+          "canonica": "Queijo de manteiga",
+          "aceitas": [
+            "Manteiga"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "mucarela-de-bufala",
+          "canonica": "Muçarela de búfala",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Buffalo mozzarella"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "estepe",
+          "canonica": "Estepe",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "colonial",
+          "canonica": "Colonial",
+          "aceitas": [
+            "Queijo colonial"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "tilsit",
+          "canonica": "Tilsit",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "raclette",
+          "canonica": "Raclette",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "manchego",
+          "canonica": "Manchego",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "halloumi",
+          "canonica": "Halloumi",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "pepper-jack",
+          "canonica": "Pepper jack",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "port-salut",
+          "canonica": "Port Salut",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "cabacinha",
+          "canonica": "Cabacinha",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "maasdam",
+          "canonica": "Maasdam",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "petit-suisse",
+          "canonica": "Petit suisse",
+          "aceitas": [
+            "Danoninho"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "stilton",
+          "canonica": "Stilton",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "asiago",
+          "canonica": "Asiago",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "taleggio",
+          "canonica": "Taleggio",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "quark",
+          "canonica": "Quark",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        }
+      ]
+    }
+  ]
+}

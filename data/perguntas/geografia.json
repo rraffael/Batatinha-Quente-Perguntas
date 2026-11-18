@@ -1,0 +1,3843 @@
+{
+  "tema": "geografia",
+  "nome": "Geografia",
+  "perguntas": [
+    {
+      "id": "geo-paises-europa",
+      "texto": "Cite um país da Europa",
+      "dificuldade": "facil",
+      "tags": [
+        "países",
+        "europa"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Lista_de_pa%C3%ADses_da_Europa",
+      "nota": "Valem países transcontinentais (Rússia, Turquia, Cazaquistão, Cáucaso), Chipre, Kosovo e as nações do Reino Unido.",
+      "respostas": [
+        {
+          "id": "franca",
+          "canonica": "França",
+          "aceitas": [
+            "República Francesa"
+          ],
+          "traducoes": {
+            "en": [
+              "France"
+            ],
+            "es": [
+              "Francia"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "alemanha",
+          "canonica": "Alemanha",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Germany"
+            ],
+            "es": [
+              "Alemania"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "italia",
+          "canonica": "Itália",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Italy"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "espanha",
+          "canonica": "Espanha",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Spain"
+            ],
+            "es": [
+              "España"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "portugal",
+          "canonica": "Portugal",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "reino-unido",
+          "canonica": "Reino Unido",
+          "aceitas": [
+            "Grã-Bretanha"
+          ],
+          "traducoes": {
+            "en": [
+              "United Kingdom",
+              "UK",
+              "Great Britain"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "inglaterra",
+          "canonica": "Inglaterra",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "England"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "escocia",
+          "canonica": "Escócia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Scotland"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pais-de-gales",
+          "canonica": "País de Gales",
+          "aceitas": [
+            "Gales"
+          ],
+          "traducoes": {
+            "en": [
+              "Wales"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "irlanda-do-norte",
+          "canonica": "Irlanda do Norte",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Northern Ireland"
+            ],
+            "es": [
+              "Irlanda del Norte"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "irlanda",
+          "canonica": "Irlanda",
+          "aceitas": [
+            "Eire"
+          ],
+          "traducoes": {
+            "en": [
+              "Ireland"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "paises-baixos",
+          "canonica": "Países Baixos",
+          "aceitas": [
+            "Holanda"
+          ],
+          "traducoes": {
+            "en": [
+              "Netherlands",
+              "Holland"
+            ],
+            "es": [
+              "Países Bajos"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "belgica",
+          "canonica": "Bélgica",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Belgium"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "suica",
+          "canonica": "Suíça",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Switzerland"
+            ],
+            "es": [
+              "Suiza"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "austria",
+          "canonica": "Áustria",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "grecia",
+          "canonica": "Grécia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Greece"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "russia",
+          "canonica": "Rússia",
+          "aceitas": [],
+          "traducoes": {
+            "es": [
+              "Rusia"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "suecia",
+          "canonica": "Suécia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Sweden"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "noruega",
+          "canonica": "Noruega",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Norway"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "dinamarca",
+          "canonica": "Dinamarca",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Denmark"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "finlandia",
+          "canonica": "Finlândia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Finland"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "islandia",
+          "canonica": "Islândia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Iceland"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "polonia",
+          "canonica": "Polônia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Poland"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ucrania",
+          "canonica": "Ucrânia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Ukraine"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "croacia",
+          "canonica": "Croácia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Croatia"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "servia",
+          "canonica": "Sérvia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Serbia"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "hungria",
+          "canonica": "Hungria",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Hungary"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "republica-tcheca",
+          "canonica": "República Tcheca",
+          "aceitas": [
+            "Tchéquia",
+            "Chéquia",
+            "República Checa"
+          ],
+          "traducoes": {
+            "en": [
+              "Czech Republic",
+              "Czechia"
+            ],
+            "es": [
+              "República Checa"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "eslovaquia",
+          "canonica": "Eslováquia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Slovakia"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "eslovenia",
+          "canonica": "Eslovênia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Slovenia"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "romenia",
+          "canonica": "Romênia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Romania"
+            ],
+            "es": [
+              "Rumania"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "bulgaria",
+          "canonica": "Bulgária",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "turquia",
+          "canonica": "Turquia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Turkey",
+              "Türkiye"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "luxemburgo",
+          "canonica": "Luxemburgo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Luxembourg"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "monaco",
+          "canonica": "Mônaco",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "vaticano",
+          "canonica": "Vaticano",
+          "aceitas": [
+            "Cidade do Vaticano",
+            "Santa Sé"
+          ],
+          "traducoes": {
+            "en": [
+              "Vatican City",
+              "Holy See"
+            ],
+            "es": [
+              "Ciudad del Vaticano"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "san-marino",
+          "canonica": "San Marino",
+          "aceitas": [
+            "São Marinho"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "andorra",
+          "canonica": "Andorra",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "liechtenstein",
+          "canonica": "Liechtenstein",
+          "aceitas": [
+            "Listenstaine"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "malta",
+          "canonica": "Malta",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "chipre",
+          "canonica": "Chipre",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cyprus"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "albania",
+          "canonica": "Albânia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "bosnia-e-herzegovina",
+          "canonica": "Bósnia e Herzegovina",
+          "aceitas": [
+            "Bósnia",
+            "Bósnia-Herzegovina"
+          ],
+          "traducoes": {
+            "en": [
+              "Bosnia and Herzegovina",
+              "Bosnia"
+            ],
+            "es": [
+              "Bosnia y Herzegovina"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "montenegro",
+          "canonica": "Montenegro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "macedonia-do-norte",
+          "canonica": "Macedônia do Norte",
+          "aceitas": [
+            "Macedônia"
+          ],
+          "traducoes": {
+            "en": [
+              "North Macedonia",
+              "Macedonia"
+            ],
+            "es": [
+              "Macedonia del Norte"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "kosovo",
+          "canonica": "Kosovo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "moldavia",
+          "canonica": "Moldávia",
+          "aceitas": [
+            "Moldova"
+          ],
+          "traducoes": {
+            "en": [
+              "Moldova"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "bielorrussia",
+          "canonica": "Bielorrússia",
+          "aceitas": [
+            "Belarus",
+            "Bielo-Rússia"
+          ],
+          "traducoes": {
+            "en": [
+              "Belarus"
+            ],
+            "es": [
+              "Bielorrusia"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "lituania",
+          "canonica": "Lituânia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Lithuania"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "letonia",
+          "canonica": "Letônia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Latvia"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "estonia",
+          "canonica": "Estônia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "georgia",
+          "canonica": "Geórgia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "armenia",
+          "canonica": "Armênia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "azerbaijao",
+          "canonica": "Azerbaijão",
+          "aceitas": [
+            "Azerbeijão"
+          ],
+          "traducoes": {
+            "en": [
+              "Azerbaijan"
+            ],
+            "es": [
+              "Azerbaiyán"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "cazaquistao",
+          "canonica": "Cazaquistão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Kazakhstan"
+            ],
+            "es": [
+              "Kazajistán"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        }
+      ]
+    },
+    {
+      "id": "geo-paises-africa",
+      "texto": "Cite um país da África",
+      "dificuldade": "media",
+      "tags": [
+        "países",
+        "áfrica"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Lista_de_pa%C3%ADses_da_%C3%81frica",
+      "nota": "Os 54 países africanos membros da ONU.",
+      "respostas": [
+        {
+          "id": "africa-do-sul",
+          "canonica": "África do Sul",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "South Africa"
+            ],
+            "es": [
+              "Sudáfrica"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "angola",
+          "canonica": "Angola",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "egito",
+          "canonica": "Egito",
+          "aceitas": [
+            "Egipto"
+          ],
+          "traducoes": {
+            "en": [
+              "Egypt"
+            ],
+            "es": [
+              "Egipto"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "nigeria",
+          "canonica": "Nigéria",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "mocambique",
+          "canonica": "Moçambique",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Mozambique"
+            ],
+            "es": [
+              "Mozambique"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "marrocos",
+          "canonica": "Marrocos",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Morocco"
+            ],
+            "es": [
+              "Marruecos"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cabo-verde",
+          "canonica": "Cabo Verde",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cape Verde"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "guine-bissau",
+          "canonica": "Guiné-Bissau",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Guinea-Bissau"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "sao-tome-e-principe",
+          "canonica": "São Tomé e Príncipe",
+          "aceitas": [
+            "São Tomé"
+          ],
+          "traducoes": {
+            "en": [
+              "Sao Tome and Principe"
+            ],
+            "es": [
+              "Santo Tomé y Príncipe"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "quenia",
+          "canonica": "Quênia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Kenya"
+            ],
+            "es": [
+              "Kenia"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "camaroes",
+          "canonica": "Camarões",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cameroon"
+            ],
+            "es": [
+              "Camerún"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "senegal",
+          "canonica": "Senegal",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "gana",
+          "canonica": "Gana",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Ghana"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "etiopia",
+          "canonica": "Etiópia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Ethiopia"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "argelia",
+          "canonica": "Argélia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Algeria"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "tunisia",
+          "canonica": "Tunísia",
+          "aceitas": [],
+          "traducoes": {
+            "es": [
+              "Túnez"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "libia",
+          "canonica": "Líbia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Libya"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "sudao",
+          "canonica": "Sudão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Sudan"
+            ],
+            "es": [
+              "Sudán"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "sudao-do-sul",
+          "canonica": "Sudão do Sul",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "South Sudan"
+            ],
+            "es": [
+              "Sudán del Sur"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "somalia",
+          "canonica": "Somália",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "costa-do-marfim",
+          "canonica": "Costa do Marfim",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Ivory Coast",
+              "Côte d'Ivoire"
+            ],
+            "es": [
+              "Costa de Marfil"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "madagascar",
+          "canonica": "Madagascar",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tanzania",
+          "canonica": "Tanzânia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "uganda",
+          "canonica": "Uganda",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ruanda",
+          "canonica": "Ruanda",
+          "aceitas": [
+            "Rwanda"
+          ],
+          "traducoes": {
+            "en": [
+              "Rwanda"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "burundi",
+          "canonica": "Burundi",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "zimbabue",
+          "canonica": "Zimbábue",
+          "aceitas": [
+            "Zimbabwe"
+          ],
+          "traducoes": {
+            "en": [
+              "Zimbabwe"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "zambia",
+          "canonica": "Zâmbia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "namibia",
+          "canonica": "Namíbia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "botsuana",
+          "canonica": "Botsuana",
+          "aceitas": [
+            "Botswana"
+          ],
+          "traducoes": {
+            "en": [
+              "Botswana"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "mali",
+          "canonica": "Mali",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "niger",
+          "canonica": "Níger",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "chade",
+          "canonica": "Chade",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Chad"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "mauritania",
+          "canonica": "Mauritânia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "malawi",
+          "canonica": "Malawi",
+          "aceitas": [
+            "Malaui",
+            "Malávi"
+          ],
+          "traducoes": {
+            "es": [
+              "Malaui"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "republica-do-congo",
+          "canonica": "República do Congo",
+          "aceitas": [
+            "Congo",
+            "Congo-Brazzaville"
+          ],
+          "traducoes": {
+            "en": [
+              "Republic of the Congo",
+              "Congo-Brazzaville"
+            ],
+            "es": [
+              "República del Congo"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "republica-democratica-do-congo",
+          "canonica": "República Democrática do Congo",
+          "aceitas": [
+            "RDC",
+            "RD Congo",
+            "Congo-Kinshasa",
+            "Congo Democrático"
+          ],
+          "traducoes": {
+            "en": [
+              "Democratic Republic of the Congo",
+              "DRC",
+              "DR Congo"
+            ],
+            "es": [
+              "República Democrática del Congo"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "gabao",
+          "canonica": "Gabão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Gabon"
+            ],
+            "es": [
+              "Gabón"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "guine",
+          "canonica": "Guiné",
+          "aceitas": [
+            "Guiné-Conacri"
+          ],
+          "traducoes": {
+            "en": [
+              "Guinea"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "guine-equatorial",
+          "canonica": "Guiné Equatorial",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Equatorial Guinea"
+            ],
+            "es": [
+              "Guinea Ecuatorial"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "benin",
+          "canonica": "Benin",
+          "aceitas": [
+            "Benim"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "togo",
+          "canonica": "Togo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "burkina-faso",
+          "canonica": "Burkina Faso",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "serra-leoa",
+          "canonica": "Serra Leoa",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Sierra Leone"
+            ],
+            "es": [
+              "Sierra Leona"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "liberia",
+          "canonica": "Libéria",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "gambia",
+          "canonica": "Gâmbia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "The Gambia"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "eritreia",
+          "canonica": "Eritreia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Eritrea"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "djibuti",
+          "canonica": "Djibuti",
+          "aceitas": [
+            "Djibouti",
+            "Jibuti"
+          ],
+          "traducoes": {
+            "en": [
+              "Djibouti"
+            ],
+            "es": [
+              "Yibuti"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "republica-centro-africana",
+          "canonica": "República Centro-Africana",
+          "aceitas": [
+            "Centro-Africana"
+          ],
+          "traducoes": {
+            "en": [
+              "Central African Republic"
+            ],
+            "es": [
+              "República Centroafricana"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "lesoto",
+          "canonica": "Lesoto",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Lesotho"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "essuatini",
+          "canonica": "Essuatíni",
+          "aceitas": [
+            "Suazilândia",
+            "Eswatini"
+          ],
+          "traducoes": {
+            "en": [
+              "Eswatini",
+              "Swaziland"
+            ],
+            "es": [
+              "Esuatini",
+              "Suazilandia"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "comores",
+          "canonica": "Comores",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Comoros"
+            ],
+            "es": [
+              "Comoras"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "seicheles",
+          "canonica": "Seicheles",
+          "aceitas": [
+            "Seychelles"
+          ],
+          "traducoes": {
+            "en": [
+              "Seychelles"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "mauricio",
+          "canonica": "Maurício",
+          "aceitas": [
+            "Maurícia",
+            "Ilhas Maurício"
+          ],
+          "traducoes": {
+            "en": [
+              "Mauritius"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        }
+      ]
+    },
+    {
+      "id": "geo-paises-asia",
+      "texto": "Cite um país da Ásia",
+      "dificuldade": "media",
+      "tags": [
+        "países",
+        "ásia"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Lista_de_pa%C3%ADses_da_%C3%81sia",
+      "nota": "Valem transcontinentais (Rússia, Turquia, Cazaquistão, Cáucaso), Palestina e Taiwan.",
+      "respostas": [
+        {
+          "id": "china",
+          "canonica": "China",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "japao",
+          "canonica": "Japão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Japan"
+            ],
+            "es": [
+              "Japón"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "india",
+          "canonica": "Índia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "coreia-do-sul",
+          "canonica": "Coreia do Sul",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "South Korea"
+            ],
+            "es": [
+              "Corea del Sur"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "coreia-do-norte",
+          "canonica": "Coreia do Norte",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "North Korea"
+            ],
+            "es": [
+              "Corea del Norte"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "russia",
+          "canonica": "Rússia",
+          "aceitas": [],
+          "traducoes": {
+            "es": [
+              "Rusia"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "tailandia",
+          "canonica": "Tailândia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Thailand"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "vietna",
+          "canonica": "Vietnã",
+          "aceitas": [
+            "Vietname"
+          ],
+          "traducoes": {
+            "en": [
+              "Vietnam"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "israel",
+          "canonica": "Israel",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "arabia-saudita",
+          "canonica": "Arábia Saudita",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Saudi Arabia"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "ira",
+          "canonica": "Irã",
+          "aceitas": [
+            "Irão",
+            "Pérsia"
+          ],
+          "traducoes": {
+            "en": [
+              "Iran"
+            ],
+            "es": [
+              "Irán"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "iraque",
+          "canonica": "Iraque",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "afeganistao",
+          "canonica": "Afeganistão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Afghanistan"
+            ],
+            "es": [
+              "Afganistán"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "paquistao",
+          "canonica": "Paquistão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Pakistan"
+            ],
+            "es": [
+              "Pakistán"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "indonesia",
+          "canonica": "Indonésia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "filipinas",
+          "canonica": "Filipinas",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Philippines"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "turquia",
+          "canonica": "Turquia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Turkey",
+              "Türkiye"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "catar",
+          "canonica": "Catar",
+          "aceitas": [
+            "Qatar"
+          ],
+          "traducoes": {
+            "en": [
+              "Qatar"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "emirados-arabes-unidos",
+          "canonica": "Emirados Árabes Unidos",
+          "aceitas": [
+            "Emirados Árabes",
+            "EAU"
+          ],
+          "traducoes": {
+            "en": [
+              "United Arab Emirates",
+              "UAE"
+            ],
+            "es": [
+              "Emiratos Árabes Unidos"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "siria",
+          "canonica": "Síria",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Syria"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "libano",
+          "canonica": "Líbano",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Lebanon"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "jordania",
+          "canonica": "Jordânia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Jordan"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "malasia",
+          "canonica": "Malásia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Malaysia"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cingapura",
+          "canonica": "Cingapura",
+          "aceitas": [
+            "Singapura"
+          ],
+          "traducoes": {
+            "en": [
+              "Singapore"
+            ],
+            "es": [
+              "Singapur"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "mongolia",
+          "canonica": "Mongólia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "nepal",
+          "canonica": "Nepal",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "bangladesh",
+          "canonica": "Bangladesh",
+          "aceitas": [
+            "Bangladexe"
+          ],
+          "traducoes": {
+            "es": [
+              "Bangladés"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "sri-lanka",
+          "canonica": "Sri Lanka",
+          "aceitas": [
+            "Ceilão"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "camboja",
+          "canonica": "Camboja",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cambodia"
+            ],
+            "es": [
+              "Camboya"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "laos",
+          "canonica": "Laos",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "mianmar",
+          "canonica": "Mianmar",
+          "aceitas": [
+            "Birmânia",
+            "Myanmar"
+          ],
+          "traducoes": {
+            "en": [
+              "Myanmar",
+              "Burma"
+            ],
+            "es": [
+              "Birmania"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "palestina",
+          "canonica": "Palestina",
+          "aceitas": [
+            "Estado da Palestina"
+          ],
+          "traducoes": {
+            "en": [
+              "Palestine"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "kuwait",
+          "canonica": "Kuwait",
+          "aceitas": [
+            "Kuwaite",
+            "Coveite"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "oma",
+          "canonica": "Omã",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Oman"
+            ],
+            "es": [
+              "Omán"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "iemen",
+          "canonica": "Iêmen",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Yemen"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "bahrein",
+          "canonica": "Bahrein",
+          "aceitas": [
+            "Barém",
+            "Bahrain"
+          ],
+          "traducoes": {
+            "en": [
+              "Bahrain"
+            ],
+            "es": [
+              "Baréin"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "maldivas",
+          "canonica": "Maldivas",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Maldives"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "butao",
+          "canonica": "Butão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Bhutan"
+            ],
+            "es": [
+              "Bután"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "brunei",
+          "canonica": "Brunei",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "timor-leste",
+          "canonica": "Timor-Leste",
+          "aceitas": [
+            "Timor"
+          ],
+          "traducoes": {
+            "en": [
+              "East Timor"
+            ],
+            "es": [
+              "Timor Oriental"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "taiwan",
+          "canonica": "Taiwan",
+          "aceitas": [
+            "Formosa"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "cazaquistao",
+          "canonica": "Cazaquistão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Kazakhstan"
+            ],
+            "es": [
+              "Kazajistán"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "uzbequistao",
+          "canonica": "Uzbequistão",
+          "aceitas": [
+            "Usbequistão"
+          ],
+          "traducoes": {
+            "en": [
+              "Uzbekistan"
+            ],
+            "es": [
+              "Uzbekistán"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "turcomenistao",
+          "canonica": "Turcomenistão",
+          "aceitas": [
+            "Turquemenistão"
+          ],
+          "traducoes": {
+            "en": [
+              "Turkmenistan"
+            ],
+            "es": [
+              "Turkmenistán"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "quirguistao",
+          "canonica": "Quirguistão",
+          "aceitas": [
+            "Quirguízia"
+          ],
+          "traducoes": {
+            "en": [
+              "Kyrgyzstan"
+            ],
+            "es": [
+              "Kirguistán"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "tadjiquistao",
+          "canonica": "Tadjiquistão",
+          "aceitas": [
+            "Tajiquistão"
+          ],
+          "traducoes": {
+            "en": [
+              "Tajikistan"
+            ],
+            "es": [
+              "Tayikistán"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "georgia",
+          "canonica": "Geórgia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "armenia",
+          "canonica": "Armênia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "azerbaijao",
+          "canonica": "Azerbaijão",
+          "aceitas": [
+            "Azerbeijão"
+          ],
+          "traducoes": {
+            "en": [
+              "Azerbaijan"
+            ],
+            "es": [
+              "Azerbaiyán"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        }
+      ]
+    },
+    {
+      "id": "geo-paises-americas",
+      "texto": "Cite um país das Américas",
+      "dificuldade": "facil",
+      "tags": [
+        "países",
+        "américas"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Am%C3%A9rica",
+      "nota": "Só países independentes (35). Territórios como Porto Rico e Guiana Francesa não valem.",
+      "respostas": [
+        {
+          "id": "brasil",
+          "canonica": "Brasil",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Brazil"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "argentina",
+          "canonica": "Argentina",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "estados-unidos",
+          "canonica": "Estados Unidos",
+          "aceitas": [
+            "EUA",
+            "Estados Unidos da América"
+          ],
+          "traducoes": {
+            "en": [
+              "United States",
+              "USA",
+              "US"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "canada",
+          "canonica": "Canadá",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "mexico",
+          "canonica": "México",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "chile",
+          "canonica": "Chile",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "uruguai",
+          "canonica": "Uruguai",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Uruguay"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "paraguai",
+          "canonica": "Paraguai",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Paraguay"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "colombia",
+          "canonica": "Colômbia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "peru",
+          "canonica": "Peru",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "bolivia",
+          "canonica": "Bolívia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "venezuela",
+          "canonica": "Venezuela",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "equador",
+          "canonica": "Equador",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Ecuador"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cuba",
+          "canonica": "Cuba",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "jamaica",
+          "canonica": "Jamaica",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "haiti",
+          "canonica": "Haiti",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "panama",
+          "canonica": "Panamá",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "costa-rica",
+          "canonica": "Costa Rica",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "guatemala",
+          "canonica": "Guatemala",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "honduras",
+          "canonica": "Honduras",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "el-salvador",
+          "canonica": "El Salvador",
+          "aceitas": [
+            "Salvador"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "nicaragua",
+          "canonica": "Nicarágua",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "republica-dominicana",
+          "canonica": "República Dominicana",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Dominican Republic"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "guiana",
+          "canonica": "Guiana",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Guyana"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "suriname",
+          "canonica": "Suriname",
+          "aceitas": [],
+          "traducoes": {
+            "es": [
+              "Surinam"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "bahamas",
+          "canonica": "Bahamas",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "barbados",
+          "canonica": "Barbados",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "trinidad-e-tobago",
+          "canonica": "Trinidad e Tobago",
+          "aceitas": [
+            "Trinidad"
+          ],
+          "traducoes": {
+            "en": [
+              "Trinidad and Tobago"
+            ],
+            "es": [
+              "Trinidad y Tobago"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "belize",
+          "canonica": "Belize",
+          "aceitas": [],
+          "traducoes": {
+            "es": [
+              "Belice"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "dominica",
+          "canonica": "Dominica",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "granada",
+          "canonica": "Granada",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Grenada"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "santa-lucia",
+          "canonica": "Santa Lúcia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Saint Lucia"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "antigua-e-barbuda",
+          "canonica": "Antígua e Barbuda",
+          "aceitas": [
+            "Antígua"
+          ],
+          "traducoes": {
+            "en": [
+              "Antigua and Barbuda"
+            ],
+            "es": [
+              "Antigua y Barbuda"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "sao-vicente-e-granadinas",
+          "canonica": "São Vicente e Granadinas",
+          "aceitas": [
+            "São Vicente"
+          ],
+          "traducoes": {
+            "en": [
+              "Saint Vincent and the Grenadines"
+            ],
+            "es": [
+              "San Vicente y las Granadinas"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "sao-cristovao-e-nevis",
+          "canonica": "São Cristóvão e Névis",
+          "aceitas": [
+            "São Cristóvão e Neves",
+            "São Cristóvão"
+          ],
+          "traducoes": {
+            "en": [
+              "Saint Kitts and Nevis"
+            ],
+            "es": [
+              "San Cristóbal y Nieves"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        }
+      ]
+    },
+    {
+      "id": "geo-uf-brasil",
+      "texto": "Cite um estado brasileiro (ou o Distrito Federal)",
+      "dificuldade": "facil",
+      "tags": [
+        "brasil",
+        "estados"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Unidades_federativas_do_Brasil",
+      "nota": "26 estados + Distrito Federal.",
+      "respostas": [
+        {
+          "id": "sao-paulo",
+          "canonica": "São Paulo",
+          "aceitas": [
+            "SP"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "rio-de-janeiro",
+          "canonica": "Rio de Janeiro",
+          "aceitas": [
+            "RJ"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "minas-gerais",
+          "canonica": "Minas Gerais",
+          "aceitas": [
+            "MG"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "bahia",
+          "canonica": "Bahia",
+          "aceitas": [
+            "BA"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "rio-grande-do-sul",
+          "canonica": "Rio Grande do Sul",
+          "aceitas": [
+            "RS"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "parana",
+          "canonica": "Paraná",
+          "aceitas": [
+            "PR"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "santa-catarina",
+          "canonica": "Santa Catarina",
+          "aceitas": [
+            "SC"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pernambuco",
+          "canonica": "Pernambuco",
+          "aceitas": [
+            "PE"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "ceara",
+          "canonica": "Ceará",
+          "aceitas": [
+            "CE"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "amazonas",
+          "canonica": "Amazonas",
+          "aceitas": [
+            "AM"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "para",
+          "canonica": "Pará",
+          "aceitas": [
+            "PA"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "goias",
+          "canonica": "Goiás",
+          "aceitas": [
+            "GO"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "espirito-santo",
+          "canonica": "Espírito Santo",
+          "aceitas": [
+            "ES"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "maranhao",
+          "canonica": "Maranhão",
+          "aceitas": [
+            "MA"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "paraiba",
+          "canonica": "Paraíba",
+          "aceitas": [
+            "PB"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "rio-grande-do-norte",
+          "canonica": "Rio Grande do Norte",
+          "aceitas": [
+            "RN"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "alagoas",
+          "canonica": "Alagoas",
+          "aceitas": [
+            "AL"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "sergipe",
+          "canonica": "Sergipe",
+          "aceitas": [
+            "SE"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "piaui",
+          "canonica": "Piauí",
+          "aceitas": [
+            "PI"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "mato-grosso",
+          "canonica": "Mato Grosso",
+          "aceitas": [
+            "MT"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "mato-grosso-do-sul",
+          "canonica": "Mato Grosso do Sul",
+          "aceitas": [
+            "MS"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "distrito-federal",
+          "canonica": "Distrito Federal",
+          "aceitas": [
+            "DF"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "tocantins",
+          "canonica": "Tocantins",
+          "aceitas": [
+            "TO"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "acre",
+          "canonica": "Acre",
+          "aceitas": [
+            "AC"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "rondonia",
+          "canonica": "Rondônia",
+          "aceitas": [
+            "RO"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "roraima",
+          "canonica": "Roraima",
+          "aceitas": [
+            "RR"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "amapa",
+          "canonica": "Amapá",
+          "aceitas": [
+            "AP"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        }
+      ]
+    },
+    {
+      "id": "geo-capitais-brasil",
+      "texto": "Cite uma capital de estado brasileiro (ou a capital federal)",
+      "dificuldade": "facil",
+      "tags": [
+        "brasil",
+        "capitais"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Lista_de_capitais_do_Brasil",
+      "respostas": [
+        {
+          "id": "sao-paulo",
+          "canonica": "São Paulo",
+          "aceitas": [
+            "Sampa"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "rio-de-janeiro",
+          "canonica": "Rio de Janeiro",
+          "aceitas": [
+            "Rio"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "belo-horizonte",
+          "canonica": "Belo Horizonte",
+          "aceitas": [
+            "BH"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "salvador",
+          "canonica": "Salvador",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "brasilia",
+          "canonica": "Brasília",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "porto-alegre",
+          "canonica": "Porto Alegre",
+          "aceitas": [
+            "POA"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "curitiba",
+          "canonica": "Curitiba",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "recife",
+          "canonica": "Recife",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "fortaleza",
+          "canonica": "Fortaleza",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "manaus",
+          "canonica": "Manaus",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "florianopolis",
+          "canonica": "Florianópolis",
+          "aceitas": [
+            "Floripa"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "belem",
+          "canonica": "Belém",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "goiania",
+          "canonica": "Goiânia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "natal",
+          "canonica": "Natal",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "joao-pessoa",
+          "canonica": "João Pessoa",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "maceio",
+          "canonica": "Maceió",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "vitoria",
+          "canonica": "Vitória",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "sao-luis",
+          "canonica": "São Luís",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "aracaju",
+          "canonica": "Aracaju",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "teresina",
+          "canonica": "Teresina",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "cuiaba",
+          "canonica": "Cuiabá",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "campo-grande",
+          "canonica": "Campo Grande",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "porto-velho",
+          "canonica": "Porto Velho",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "rio-branco",
+          "canonica": "Rio Branco",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "boa-vista",
+          "canonica": "Boa Vista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "macapa",
+          "canonica": "Macapá",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "palmas",
+          "canonica": "Palmas",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        }
+      ]
+    },
+    {
+      "id": "geo-capitais-europa",
+      "texto": "Cite a capital de um país europeu",
+      "dificuldade": "media",
+      "tags": [
+        "capitais",
+        "europa"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Lista_de_capitais_nacionais",
+      "nota": "Capitais dos países da pergunta \"país da Europa\", incluindo Edimburgo, Cardiff e Belfast.",
+      "respostas": [
+        {
+          "id": "paris",
+          "canonica": "Paris",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "londres",
+          "canonica": "Londres",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "London"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "roma",
+          "canonica": "Roma",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Rome"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "madri",
+          "canonica": "Madri",
+          "aceitas": [
+            "Madrid"
+          ],
+          "traducoes": {
+            "en": [
+              "Madrid"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "lisboa",
+          "canonica": "Lisboa",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Lisbon"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "berlim",
+          "canonica": "Berlim",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Berlin"
+            ],
+            "es": [
+              "Berlín"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "moscou",
+          "canonica": "Moscou",
+          "aceitas": [
+            "Moscovo"
+          ],
+          "traducoes": {
+            "en": [
+              "Moscow"
+            ],
+            "es": [
+              "Moscú"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "atenas",
+          "canonica": "Atenas",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Athens"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "amsterda",
+          "canonica": "Amsterdã",
+          "aceitas": [
+            "Amesterdão",
+            "Amsterdam"
+          ],
+          "traducoes": {
+            "en": [
+              "Amsterdam"
+            ],
+            "es": [
+              "Ámsterdam"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "bruxelas",
+          "canonica": "Bruxelas",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Brussels"
+            ],
+            "es": [
+              "Bruselas"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "viena",
+          "canonica": "Viena",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Vienna"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "berna",
+          "canonica": "Berna",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Bern"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "dublin",
+          "canonica": "Dublin",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "edimburgo",
+          "canonica": "Edimburgo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Edinburgh"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cardiff",
+          "canonica": "Cardiff",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "belfast",
+          "canonica": "Belfast",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "estocolmo",
+          "canonica": "Estocolmo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Stockholm"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "oslo",
+          "canonica": "Oslo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "copenhague",
+          "canonica": "Copenhague",
+          "aceitas": [
+            "Copenhaga"
+          ],
+          "traducoes": {
+            "en": [
+              "Copenhagen"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "helsinque",
+          "canonica": "Helsinque",
+          "aceitas": [
+            "Helsínquia"
+          ],
+          "traducoes": {
+            "en": [
+              "Helsinki"
+            ],
+            "es": [
+              "Helsinki"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "reykjavik",
+          "canonica": "Reykjavík",
+          "aceitas": [
+            "Reiquiavique"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "varsovia",
+          "canonica": "Varsóvia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Warsaw"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "praga",
+          "canonica": "Praga",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Prague"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "budapeste",
+          "canonica": "Budapeste",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Budapest"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "bratislava",
+          "canonica": "Bratislava",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "liubliana",
+          "canonica": "Liubliana",
+          "aceitas": [
+            "Ljubljana"
+          ],
+          "traducoes": {
+            "en": [
+              "Ljubljana"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "zagreb",
+          "canonica": "Zagreb",
+          "aceitas": [
+            "Zagrebe"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "belgrado",
+          "canonica": "Belgrado",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Belgrade"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "sarajevo",
+          "canonica": "Sarajevo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "podgorica",
+          "canonica": "Podgorica",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "tirana",
+          "canonica": "Tirana",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "escopia",
+          "canonica": "Escópia",
+          "aceitas": [
+            "Skopje"
+          ],
+          "traducoes": {
+            "en": [
+              "Skopje"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "pristina",
+          "canonica": "Pristina",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "sofia",
+          "canonica": "Sófia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "bucareste",
+          "canonica": "Bucareste",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Bucharest"
+            ],
+            "es": [
+              "Bucarest"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "chisinau",
+          "canonica": "Chisinau",
+          "aceitas": [
+            "Quixinau"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "kiev",
+          "canonica": "Kiev",
+          "aceitas": [
+            "Kyiv",
+            "Quieve"
+          ],
+          "traducoes": {
+            "en": [
+              "Kyiv"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "minsk",
+          "canonica": "Minsk",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "vilnius",
+          "canonica": "Vilnius",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "riga",
+          "canonica": "Riga",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "tallinn",
+          "canonica": "Tallinn",
+          "aceitas": [
+            "Talim"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "luxemburgo",
+          "canonica": "Luxemburgo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Luxembourg"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "monaco",
+          "canonica": "Mônaco",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cidade-do-vaticano",
+          "canonica": "Cidade do Vaticano",
+          "aceitas": [
+            "Vaticano"
+          ],
+          "traducoes": {
+            "en": [
+              "Vatican City"
+            ],
+            "es": [
+              "Ciudad del Vaticano"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "san-marino",
+          "canonica": "San Marino",
+          "aceitas": [
+            "São Marinho"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "andorra-a-velha",
+          "canonica": "Andorra-a-Velha",
+          "aceitas": [
+            "Andorra la Vella"
+          ],
+          "traducoes": {
+            "en": [
+              "Andorra la Vella"
+            ],
+            "es": [
+              "Andorra la Vieja"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "vaduz",
+          "canonica": "Vaduz",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "valletta",
+          "canonica": "Valletta",
+          "aceitas": [
+            "Valeta"
+          ],
+          "traducoes": {
+            "es": [
+              "La Valeta"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "nicosia",
+          "canonica": "Nicósia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "ancara",
+          "canonica": "Ancara",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Ankara"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "tbilisi",
+          "canonica": "Tbilisi",
+          "aceitas": [
+            "Tbilissi"
+          ],
+          "traducoes": {
+            "es": [
+              "Tiflis"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "erevan",
+          "canonica": "Erevan",
+          "aceitas": [
+            "Ierevan",
+            "Yerevan"
+          ],
+          "traducoes": {
+            "en": [
+              "Yerevan"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "baku",
+          "canonica": "Baku",
+          "aceitas": [
+            "Bacu"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "astana",
+          "canonica": "Astana",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        }
+      ]
+    },
+    {
+      "id": "geo-rios-brasil",
+      "texto": "Cite um rio brasileiro",
+      "dificuldade": "dificil",
+      "tags": [
+        "brasil",
+        "rios",
+        "hidrografia"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Lista_de_rios_do_Brasil",
+      "nota": "Rios que correm em território brasileiro (inteira ou parcialmente).",
+      "respostas": [
+        {
+          "id": "amazonas",
+          "canonica": "Amazonas",
+          "aceitas": [
+            "Rio Amazonas"
+          ],
+          "traducoes": {
+            "en": [
+              "Amazon"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "sao-francisco",
+          "canonica": "São Francisco",
+          "aceitas": [
+            "Rio São Francisco",
+            "Velho Chico"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "tiete",
+          "canonica": "Tietê",
+          "aceitas": [
+            "Rio Tietê"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "parana",
+          "canonica": "Paraná",
+          "aceitas": [
+            "Rio Paraná"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "negro",
+          "canonica": "Negro",
+          "aceitas": [
+            "Rio Negro"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "solimoes",
+          "canonica": "Solimões",
+          "aceitas": [
+            "Rio Solimões"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "xingu",
+          "canonica": "Xingu",
+          "aceitas": [
+            "Rio Xingu"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "tocantins",
+          "canonica": "Tocantins",
+          "aceitas": [
+            "Rio Tocantins"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "araguaia",
+          "canonica": "Araguaia",
+          "aceitas": [
+            "Rio Araguaia"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "madeira",
+          "canonica": "Madeira",
+          "aceitas": [
+            "Rio Madeira"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "tapajos",
+          "canonica": "Tapajós",
+          "aceitas": [
+            "Rio Tapajós"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pinheiros",
+          "canonica": "Pinheiros",
+          "aceitas": [
+            "Rio Pinheiros"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "paraiba-do-sul",
+          "canonica": "Paraíba do Sul",
+          "aceitas": [
+            "Rio Paraíba do Sul"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "doce",
+          "canonica": "Doce",
+          "aceitas": [
+            "Rio Doce"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "iguacu",
+          "canonica": "Iguaçu",
+          "aceitas": [
+            "Rio Iguaçu"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "paraguai",
+          "canonica": "Paraguai",
+          "aceitas": [
+            "Rio Paraguai"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "uruguai",
+          "canonica": "Uruguai",
+          "aceitas": [
+            "Rio Uruguai"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "capibaribe",
+          "canonica": "Capibaribe",
+          "aceitas": [
+            "Rio Capibaribe"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "parnaiba",
+          "canonica": "Parnaíba",
+          "aceitas": [
+            "Rio Parnaíba"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "jequitinhonha",
+          "canonica": "Jequitinhonha",
+          "aceitas": [
+            "Rio Jequitinhonha"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "grande",
+          "canonica": "Grande",
+          "aceitas": [
+            "Rio Grande"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "paranapanema",
+          "canonica": "Paranapanema",
+          "aceitas": [
+            "Rio Paranapanema"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "purus",
+          "canonica": "Purus",
+          "aceitas": [
+            "Rio Purus"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "jurua",
+          "canonica": "Juruá",
+          "aceitas": [
+            "Rio Juruá"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "trombetas",
+          "canonica": "Trombetas",
+          "aceitas": [
+            "Rio Trombetas"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "jari",
+          "canonica": "Jari",
+          "aceitas": [
+            "Rio Jari"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "branco",
+          "canonica": "Branco",
+          "aceitas": [
+            "Rio Branco"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "japura",
+          "canonica": "Japurá",
+          "aceitas": [
+            "Rio Japurá"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "javari",
+          "canonica": "Javari",
+          "aceitas": [
+            "Rio Javari"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "guapore",
+          "canonica": "Guaporé",
+          "aceitas": [
+            "Rio Guaporé"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "mamore",
+          "canonica": "Mamoré",
+          "aceitas": [
+            "Rio Mamoré"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "teles-pires",
+          "canonica": "Teles Pires",
+          "aceitas": [
+            "Rio Teles Pires"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "juruena",
+          "canonica": "Juruena",
+          "aceitas": [
+            "Rio Juruena"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "jaguaribe",
+          "canonica": "Jaguaribe",
+          "aceitas": [
+            "Rio Jaguaribe"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "piracicaba",
+          "canonica": "Piracicaba",
+          "aceitas": [
+            "Rio Piracicaba"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "mogi-guacu",
+          "canonica": "Mogi Guaçu",
+          "aceitas": [
+            "Rio Mogi Guaçu",
+            "Moji-Guaçu"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ribeira-de-iguape",
+          "canonica": "Ribeira de Iguape",
+          "aceitas": [
+            "Rio Ribeira de Iguape",
+            "Ribeira"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "itajai-acu",
+          "canonica": "Itajaí-Açu",
+          "aceitas": [
+            "Rio Itajaí-Açu",
+            "Itajaí"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "jacui",
+          "canonica": "Jacuí",
+          "aceitas": [
+            "Rio Jacuí"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "taquari",
+          "canonica": "Taquari",
+          "aceitas": [
+            "Rio Taquari"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "cuiaba",
+          "canonica": "Cuiabá",
+          "aceitas": [
+            "Rio Cuiabá"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "poti",
+          "canonica": "Poti",
+          "aceitas": [
+            "Rio Poti"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "beberibe",
+          "canonica": "Beberibe",
+          "aceitas": [
+            "Rio Beberibe"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "paraguacu",
+          "canonica": "Paraguaçu",
+          "aceitas": [
+            "Rio Paraguaçu"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "rio-de-contas",
+          "canonica": "Rio de Contas",
+          "aceitas": [
+            "Contas"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "vaza-barris",
+          "canonica": "Vaza-Barris",
+          "aceitas": [
+            "Rio Vaza-Barris"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "mucuri",
+          "canonica": "Mucuri",
+          "aceitas": [
+            "Rio Mucuri"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "rio-das-velhas",
+          "canonica": "Rio das Velhas",
+          "aceitas": [
+            "Velhas"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "paraopeba",
+          "canonica": "Paraopeba",
+          "aceitas": [
+            "Rio Paraopeba"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "sapucai",
+          "canonica": "Sapucaí",
+          "aceitas": [
+            "Rio Sapucaí"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "pardo",
+          "canonica": "Pardo",
+          "aceitas": [
+            "Rio Pardo"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "oiapoque",
+          "canonica": "Oiapoque",
+          "aceitas": [
+            "Rio Oiapoque"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "iriri",
+          "canonica": "Iriri",
+          "aceitas": [
+            "Rio Iriri"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "mearim",
+          "canonica": "Mearim",
+          "aceitas": [
+            "Rio Mearim"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "itapecuru",
+          "canonica": "Itapecuru",
+          "aceitas": [
+            "Rio Itapecuru"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "gurupi",
+          "canonica": "Gurupi",
+          "aceitas": [
+            "Rio Gurupi"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "aripuana",
+          "canonica": "Aripuanã",
+          "aceitas": [
+            "Rio Aripuanã"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "uatuma",
+          "canonica": "Uatumã",
+          "aceitas": [
+            "Rio Uatumã"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "ica",
+          "canonica": "Içá",
+          "aceitas": [
+            "Rio Içá",
+            "Putumayo"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "javaes",
+          "canonica": "Javaés",
+          "aceitas": [
+            "Rio Javaés"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        }
+      ]
+    }
+  ]
+}

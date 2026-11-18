@@ -1,0 +1,282 @@
+tema: esportes
+nome: Esportes
+
+== esp-modalidades-paris-2024 | Cite um esporte (ou modalidade) disputado nos Jogos Olímpicos de Paris 2024 | facil | olimpíadas;modalidades | https://pt.wikipedia.org/wiki/Jogos_Ol%C3%ADmpicos_de_Ver%C3%A3o_de_2024
+@nota Vale o esporte ou uma disciplina/prova do programa olímpico de Paris 2024.
+Futebol | | Football;Soccer | Fútbol | c
+Vôlei | Voleibol | Volleyball | Voleibol | c
+Vôlei de praia | | Beach volleyball | Vóley playa | c
+Basquete | Basquetebol | Basketball | Baloncesto;Básquetbol | c
+Basquete 3x3 | 3x3 | 3x3 basketball | Baloncesto 3x3 | r
+Natação | | Swimming | Natación | c
+Atletismo | | Athletics;Track and field | | c
+Ginástica artística | | Artistic gymnastics | Gimnasia artística | c
+Ginástica rítmica | | Rhythmic gymnastics | Gimnasia rítmica | i
+Ginástica de trampolim | Trampolim acrobático | Trampoline | Gimnasia en trampolín | e
+Judô | Judo | Judo | Judo | c
+Boxe | Boxe olímpico | Boxing | Boxeo | c
+Handebol | Andebol | Handball | Balonmano | c
+Tênis | | Tennis | Tenis | c
+Tênis de mesa | Pingue-pongue;Ping-pong | Table tennis | Tenis de mesa | i
+Surfe | Surf | Surfing | Surf | c
+Skate | Skateboard | Skateboarding | Skateboarding | c
+Canoagem | Canoagem velocidade;Canoagem slalom | Canoeing | Piragüismo | i
+Remo | | Rowing | | i
+Vela | Iatismo | Sailing | | i
+Ciclismo | Ciclismo de estrada;Ciclismo de pista | Cycling | | i
+BMX | | | | r
+Mountain bike | MTB | | | r
+Esgrima | | Fencing | | i
+Hipismo | Equitação;Adestramento | Equestrian | Hípica | i
+Taekwondo | Tae kwon do | | | i
+Levantamento de peso | Halterofilismo | Weightlifting | Halterofilia | i
+Luta livre | Luta olímpica | Freestyle wrestling;Wrestling | Lucha libre | r
+Luta greco-romana | | Greco-Roman wrestling | Lucha grecorromana | r
+Tiro esportivo | | Shooting | Tiro deportivo | r
+Tiro com arco | Arco e flecha | Archery | Tiro con arco | i
+Triatlo | Triathlon | Triathlon | Triatlón | i
+Pentatlo moderno | Pentatlo | Modern pentathlon | Pentatlón moderno | e
+Golfe | | Golf | | i
+Rugby | Rugby sevens;Rúgbi | Rugby | | i
+Hóquei sobre grama | Hóquei | Field hockey | Hockey sobre césped | r
+Badminton | | | Bádminton | i
+Polo aquático | | Water polo | Waterpolo | r
+Saltos ornamentais | | Diving | Saltos | r
+Nado artístico | Nado sincronizado | Artistic swimming | Natación artística | r
+Maratona aquática | | Marathon swimming;Open water swimming | Aguas abiertas | e
+Breaking | Breakdance | | | r
+Escalada esportiva | Escalada | Sport climbing | Escalada deportiva | r
+Maratona | | Marathon | Maratón | i
+Marcha atlética | | Race walking | Marcha atlética | e
+Decatlo | | Decathlon | Decatlón | e
+Heptatlo | | Heptathlon | Heptatlón | e
+Salto com vara | | Pole vault | Salto con pértiga | r
+Salto em distância | | Long jump | Salto de longitud | r
+Salto triplo | | Triple jump | Triple salto | r
+
+== esp-com-bola | Cite um esporte jogado com bola | facil | bola;esportes coletivos | https://pt.wikipedia.org/wiki/Lista_de_desportos
+Futebol | | Football;Soccer | Fútbol | c
+Vôlei | Voleibol | Volleyball | Voleibol | c
+Basquete | Basquetebol | Basketball | Baloncesto | c
+Handebol | Andebol | Handball | Balonmano | c
+Tênis | | Tennis | Tenis | c
+Futsal | Futebol de salão | | Fútbol sala | c
+Futebol americano | | American football | Fútbol americano | c
+Vôlei de praia | | Beach volleyball | Vóley playa | c
+Tênis de mesa | Pingue-pongue;Ping-pong | Table tennis | | c
+Golfe | | Golf | | c
+Beisebol | Baseball | Baseball | Béisbol | c
+Rugby | Rúgbi | | | i
+Futevôlei | | Footvolley | Futvóley | i
+Beach tennis | Tênis de praia | | | i
+Boliche | | Bowling | Bolos | i
+Sinuca | Snooker | Snooker | | i
+Bilhar | | Billiards;Pool | Billar | i
+Polo aquático | | Water polo | Waterpolo | i
+Futebol de areia | Beach soccer | Beach soccer | Fútbol playa | i
+Queimada | Queimado;Caçador | Dodgeball | Quemados | i
+Críquete | | Cricket | Críquet | r
+Hóquei sobre grama | | Field hockey | | r
+Squash | | | | r
+Padel | Padel tênis | | Pádel | i
+Softbol | | Softball | Sóftbol | r
+Pelota basca | | Basque pelota | Pelota vasca | e
+Polo | Polo equestre | | | r
+Frescobol | | | | i
+Bocha | Bocce | Bocce;Boccia | Bochas | r
+Goalball | | | | e
+Lacrosse | | | | e
+Sepak takraw | | | | l
+Korfball | | | | l
+Punhobol | | Fistball | | l
+Netball | | | | l
+Showbol | | | | e
+Futebol society | Society;Futebol sete | | | i
+Futebol gaélico | | Gaelic football | Fútbol gaélico | l
+Hurling | | | | l
+Tchoukball | | | | l
+Rugby league | | | | l
+
+== esp-campeoes-f1 | Cite um piloto campeão mundial de Fórmula 1 | dificil | fórmula 1;automobilismo | https://pt.wikipedia.org/wiki/Lista_de_campe%C3%B5es_mundiais_de_pilotos_de_F%C3%B3rmula_1
+@atualizadoEm 2026-11
+@nota Campeões mundiais de pilotos até a temporada 2025.
+Ayrton Senna | Senna;Ayrton | | | c
+Nelson Piquet | Piquet | | | c
+Emerson Fittipaldi | Fittipaldi;Emerson | | | c
+Michael Schumacher | Schumacher;Schumi | | | c
+Lewis Hamilton | Hamilton | | | c
+Max Verstappen | Verstappen | | | c
+Alain Prost | Prost | | | i
+Niki Lauda | Lauda | | | i
+Fernando Alonso | Alonso | | | i
+Sebastian Vettel | Vettel | | | i
+Kimi Räikkönen | Räikkönen;Raikkonen;Kimi | | | i
+Nigel Mansell | Mansell | | | i
+Lando Norris | Norris | | | i
+Mika Häkkinen | Häkkinen;Hakkinen | | | r
+Nico Rosberg | | | | r
+Jenson Button | Button | | | r
+Juan Manuel Fangio | Fangio | | | r
+Jackie Stewart | Stewart | | | r
+James Hunt | Hunt | | | r
+Damon Hill | | | | r
+Jacques Villeneuve | Villeneuve | | | r
+Jim Clark | Clark | | | e
+Alberto Ascari | Ascari | | | e
+Jack Brabham | Brabham | | | e
+Graham Hill | | | | e
+Mario Andretti | Andretti | | | e
+Keke Rosberg | | | | e
+Alan Jones | Jones | | | e
+Jody Scheckter | Scheckter | | | e
+Jochen Rindt | Rindt | | | l
+John Surtees | Surtees | | | l
+Denny Hulme | Hulme | | | l
+Phil Hill | | | | l
+Mike Hawthorn | Hawthorn | | | l
+Giuseppe Farina | Nino Farina;Farina | | | l
+
+== esp-times-nba | Cite um time da NBA | media | basquete;nba;eua | https://pt.wikipedia.org/wiki/National_Basketball_Association
+@atualizadoEm 2026-11
+Los Angeles Lakers | Lakers | | | c
+Chicago Bulls | Bulls | | | c
+Boston Celtics | Celtics | | | c
+Golden State Warriors | Warriors | | | c
+Miami Heat | Heat | | | c
+New York Knicks | Knicks | | | i
+San Antonio Spurs | Spurs | | | i
+Cleveland Cavaliers | Cavaliers;Cavs | | | i
+Brooklyn Nets | Nets | | | i
+Houston Rockets | Rockets | | | i
+Dallas Mavericks | Mavericks;Mavs | | | i
+Philadelphia 76ers | 76ers;Sixers | | | i
+Orlando Magic | Magic | | | i
+Phoenix Suns | Suns | | | i
+Milwaukee Bucks | Bucks | | | i
+Denver Nuggets | Nuggets | | | i
+Toronto Raptors | Raptors | | | r
+Los Angeles Clippers | LA Clippers;Clippers | | | r
+Oklahoma City Thunder | Thunder;OKC | | | r
+Detroit Pistons | Pistons | | | r
+Utah Jazz | Jazz | | | r
+Atlanta Hawks | Hawks | | | r
+Indiana Pacers | Pacers | | | r
+Charlotte Hornets | Hornets | | | r
+Portland Trail Blazers | Trail Blazers;Blazers | | | r
+Sacramento Kings | Kings | | | r
+Memphis Grizzlies | Grizzlies | | | e
+Minnesota Timberwolves | Timberwolves;Wolves | | | e
+New Orleans Pelicans | Pelicans | | | e
+Washington Wizards | Wizards | | | e
+
+== esp-times-nfl | Cite um time da NFL | dificil | futebol americano;nfl;eua | https://pt.wikipedia.org/wiki/National_Football_League
+@atualizadoEm 2026-11
+New England Patriots | Patriots;Pats | | | c
+Dallas Cowboys | Cowboys | | | c
+Kansas City Chiefs | Chiefs | | | c
+Green Bay Packers | Packers | | | i
+Pittsburgh Steelers | Steelers | | | i
+San Francisco 49ers | 49ers;Niners | | | i
+Philadelphia Eagles | Eagles | | | i
+Tampa Bay Buccaneers | Buccaneers;Bucs | | | i
+Miami Dolphins | Dolphins | | | i
+New York Giants | Giants | | | i
+Seattle Seahawks | Seahawks | | | i
+Las Vegas Raiders | Raiders;Oakland Raiders | | | i
+Denver Broncos | Broncos | | | r
+Baltimore Ravens | Ravens | | | r
+Buffalo Bills | Bills | | | r
+Chicago Bears | Bears | | | r
+New York Jets | Jets | | | r
+Minnesota Vikings | Vikings | | | r
+New Orleans Saints | Saints | | | r
+Los Angeles Rams | Rams | | | r
+Indianapolis Colts | Colts | | | r
+Detroit Lions | Lions | | | r
+Atlanta Falcons | Falcons | | | r
+Cincinnati Bengals | Bengals | | | r
+Los Angeles Chargers | Chargers | | | e
+Houston Texans | Texans | | | e
+Arizona Cardinals | Cardinals | | | e
+Carolina Panthers | Panthers | | | e
+Cleveland Browns | Browns | | | e
+Jacksonville Jaguars | Jaguars | | | e
+Tennessee Titans | Titans | | | e
+Washington Commanders | Commanders | | | e
+
+== esp-ouro-olimpico-brasil | Cite um atleta brasileiro campeão olímpico (medalha de ouro) | dificil | olimpíadas;brasil;atletas | https://pt.wikipedia.org/wiki/Lista_de_medalhistas_ol%C3%ADmpicos_do_Brasil
+@atualizadoEm 2026-11
+@nota Inclui integrantes de equipes campeãs (vôlei, futebol, vela, vôlei de praia) até Paris 2024.
+Rebeca Andrade | Rebeca | | | c
+Neymar | Neymar Jr | | | c
+César Cielo | Cielo | | | c
+Rafaela Silva | | | | c
+Ítalo Ferreira | | | | c
+Isaquias Queiroz | Isaquias | | | i
+Arthur Zanetti | Zanetti | | | i
+Thiago Braz | | | | i
+Maurren Maggi | Maurren | | | i
+Robert Scheidt | Scheidt | | | i
+Torben Grael | Torben | | | i
+Sarah Menezes | | | | i
+Martine Grael | Martine | | | i
+Kahena Kunze | Kahena | | | r
+Robson Conceição | | | | r
+Hebert Conceição | | | | r
+Ana Marcela Cunha | Ana Marcela | | | i
+Beatriz Souza | Bia Souza | | | r
+Ana Patrícia | | | | r
+Duda Lisboa | Duda | | | r
+Giba | Gilberto Godoy Filho | | | i
+Serginho | Escadinha | | | r
+Sheilla | Sheilla Castro | | | i
+Fabiana | Fabiana Claudino | | | r
+Jaqueline Carvalho | Jaqueline;Jaque | | | r
+Fofão | | | | r
+Thaisa | | | | r
+Paula Pequeno | | | | r
+Fabi | | | | e
+Mari | Marianne Steinbrecher | | | e
+Dani Lins | | | | e
+Fernanda Garay | | | | e
+Natália Pereira | | | | e
+Tandara | | | | e
+Bruninho | Bruno Rezende | | | r
+Lucão | | | | e
+Wallace | Wallace de Souza | | | e
+Lucarelli | Ricardo Lucarelli | | | e
+Tande | | | | r
+Giovane Gávio | Giovane | | | r
+Marcelo Negrão | | | | e
+Maurício Lima | | | | l
+Carlão | | | | l
+Nalbert | | | | e
+Ricardinho | | | | e
+Dante | Dante Amaral | | | e
+Gustavo Endres | | | | l
+Ricardo Santos | | | | r
+Emanuel Rego | Emanuel | | | r
+Alison Cerutti | Alison;Mamute | | | r
+Bruno Schmidt | | | | e
+Jacqueline Silva | | | | e
+Sandra Pires | | | | e
+Rodrigo Pessoa | | | | r
+Marcelo Ferreira | | | | e
+Adhemar Ferreira da Silva | Adhemar | | | e
+Joaquim Cruz | | | | r
+Aurélio Miguel | | | | r
+Rogério Sampaio | | | | e
+Guilherme Paraense | | | | l
+Gabriel Jesus | | | | i
+Gabigol | Gabriel Barbosa | | | i
+Marquinhos | | | | r
+Weverton | | | | r
+Renato Augusto | | | | e
+Daniel Alves | Dani Alves | | | i
+Richarlison | | | | i
+Bruno Guimarães | | | | r
+Matheus Cunha | | | | r
+Malcom | | | | e
+Antony | | | | r
+Douglas Luiz | | | | e
+Claudinho | | | | e

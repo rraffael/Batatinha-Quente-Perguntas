@@ -1,0 +1,24 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  // Precisa ser igual ao nome do Worker criado no painel da Cloudflare.
+  "name": "batatinha-quente-perguntas",
+  "main": "src/server/index.ts",
+  "compatibility_date": "2025-09-01",
+  "observability": { "enabled": true },
+  "durable_objects": {
+    "bindings": [{ "name": "SALAS", "class_name": "Sala" }]
+  },
+  "migrations": [{ "tag": "v1", "new_sqlite_classes": ["Sala"] }]
+
+  // Estatísticas de uso das respostas (raridade dinâmica). Opcional: o jogo funciona sem.
+  // Para ativar: `npx wrangler d1 create batatinha-stats`, cole o database_id abaixo,
+  // descomente o bloco e rode `npx wrangler d1 migrations apply batatinha-stats --remote`.
+  // ,"d1_databases": [
+  //   {
+  //     "binding": "DB",
+  //     "database_name": "batatinha-stats",
+  //     "database_id": "COLE-AQUI-O-ID",
+  //     "migrations_dir": "migrations"
+  //   }
+  // ]
+}

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="t"><title id="t">Batata</title>
+<path d="M14 36c-3-12 6-24 20-24 12 0 20 8 18 20-1 10-10 20-22 20-8 0-14-6-16-16z" fill="#c98a4b"/>
+<path d="M18 38c2 8 7 12 12 12 9 0 16-7 18-14-4 6-10 10-16 10-6 0-11-3-14-8z" fill="#a86c34"/>
+<ellipse cx="28" cy="22" rx="6" ry="3" fill="#e2b07a" transform="rotate(-20 28 22)"/>
+<circle cx="22" cy="30" r="1.4" fill="#8a5428"/><circle cx="43" cy="25" r="1.4" fill="#8a5428"/><circle cx="40" cy="43" r="1.4" fill="#8a5428"/>
+<circle cx="28" cy="34" r="2" fill="#2a1d14"/><circle cx="38" cy="33" r="2" fill="#2a1d14"/>
+<path d="M30 39q3 2.5 6 0" fill="none" stroke="#2a1d14" stroke-width="1.8" stroke-linecap="round"/>
+</svg>

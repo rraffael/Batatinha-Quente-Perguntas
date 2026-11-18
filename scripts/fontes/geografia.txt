@@ -1,0 +1,386 @@
+tema: geografia
+nome: Geografia
+
+== geo-paises-europa | Cite um país da Europa | facil | países;europa | https://pt.wikipedia.org/wiki/Lista_de_pa%C3%ADses_da_Europa
+@nota Valem países transcontinentais (Rússia, Turquia, Cazaquistão, Cáucaso), Chipre, Kosovo e as nações do Reino Unido.
+França | República Francesa | France | Francia | c
+Alemanha | | Germany | Alemania | c
+Itália | | Italy | Italia | c
+Espanha | | Spain | España | c
+Portugal | | | | c
+Reino Unido | Grã-Bretanha | United Kingdom;UK;Great Britain | | c
+Inglaterra | | England | | c
+Escócia | | Scotland | Escocia | i
+País de Gales | Gales | Wales | | r
+Irlanda do Norte | | Northern Ireland | Irlanda del Norte | r
+Irlanda | Eire | Ireland | | i
+Países Baixos | Holanda | Netherlands;Holland | Países Bajos | c
+Bélgica | | Belgium | | i
+Suíça | | Switzerland | Suiza | c
+Áustria | | Austria | | i
+Grécia | | Greece | Grecia | c
+Rússia | | Russia | Rusia | c
+Suécia | | Sweden | Suecia | i
+Noruega | | Norway | | i
+Dinamarca | | Denmark | | i
+Finlândia | | Finland | Finlandia | i
+Islândia | | Iceland | Islandia | i
+Polônia | Polónia | Poland | Polonia | i
+Ucrânia | | Ukraine | Ucrania | i
+Croácia | | Croatia | Croacia | i
+Sérvia | | Serbia | | r
+Hungria | | Hungary | Hungría | i
+República Tcheca | Tchéquia;Chéquia;República Checa | Czech Republic;Czechia | República Checa | r
+Eslováquia | | Slovakia | Eslovaquia | r
+Eslovênia | Eslovénia | Slovenia | Eslovenia | r
+Romênia | Roménia | Romania | Rumania;Rumanía | r
+Bulgária | | Bulgaria | | r
+Turquia | | Turkey;Türkiye | Turquía | i
+Luxemburgo | | Luxembourg | | r
+Mônaco | Mónaco | Monaco | | r
+Vaticano | Cidade do Vaticano;Santa Sé | Vatican City;Holy See | Ciudad del Vaticano | i
+San Marino | São Marinho | | | r
+Andorra | | | | r
+Liechtenstein | Listenstaine | | | e
+Malta | | | | r
+Chipre | | Cyprus | | r
+Albânia | | Albania | | r
+Bósnia e Herzegovina | Bósnia;Bósnia-Herzegovina | Bosnia and Herzegovina;Bosnia | Bosnia y Herzegovina | r
+Montenegro | | | | r
+Macedônia do Norte | Macedónia do Norte;Macedônia;Macedónia | North Macedonia;Macedonia | Macedonia del Norte | e
+Kosovo | Kosovo | | | e
+Moldávia | Moldova | Moldova | Moldavia | e
+Bielorrússia | Belarus;Bielo-Rússia | Belarus | Bielorrusia | r
+Lituânia | | Lithuania | Lituania | r
+Letônia | Letónia | Latvia | Letonia | r
+Estônia | Estónia | Estonia | | r
+Geórgia | | Georgia | | e
+Armênia | Arménia | Armenia | | e
+Azerbaijão | Azerbeijão | Azerbaijan | Azerbaiyán | e
+Cazaquistão | | Kazakhstan | Kazajistán | l
+
+== geo-paises-africa | Cite um país da África | media | países;áfrica | https://pt.wikipedia.org/wiki/Lista_de_pa%C3%ADses_da_%C3%81frica
+@nota Os 54 países africanos membros da ONU.
+África do Sul | | South Africa | Sudáfrica | c
+Angola | | | | c
+Egito | Egipto | Egypt | Egipto | c
+Nigéria | | Nigeria | | c
+Moçambique | | Mozambique | Mozambique | c
+Marrocos | | Morocco | Marruecos | c
+Cabo Verde | | Cape Verde;Cabo Verde | | i
+Guiné-Bissau | Guiné Bissau | Guinea-Bissau | | i
+São Tomé e Príncipe | São Tomé | Sao Tome and Principe | Santo Tomé y Príncipe | r
+Quênia | Quénia | Kenya | Kenia | i
+Camarões | | Cameroon | Camerún | i
+Senegal | | | | i
+Gana | | Ghana | | i
+Etiópia | | Ethiopia | Etiopía | i
+Argélia | | Algeria | Argelia | i
+Tunísia | | Tunisia | Túnez | i
+Líbia | | Libya | Libia | i
+Sudão | | Sudan | Sudán | i
+Sudão do Sul | | South Sudan | Sudán del Sur | r
+Somália | | Somalia | | i
+Costa do Marfim | | Ivory Coast;Côte d'Ivoire | Costa de Marfil | i
+Madagascar | Madagáscar | | | i
+Tanzânia | | Tanzania | | r
+Uganda | | | | r
+Ruanda | Rwanda | Rwanda | | r
+Burundi | | | | e
+Zimbábue | Zimbabwe | Zimbabwe | Zimbabue | r
+Zâmbia | | Zambia | | r
+Namíbia | | Namibia | | r
+Botsuana | Botswana | Botswana | Botsuana | r
+Mali | | | Malí | r
+Níger | | Niger | | r
+Chade | | Chad | | r
+Mauritânia | | Mauritania | | e
+Malawi | Malaui;Malávi | | Malaui | e
+República do Congo | Congo;Congo-Brazzaville | Republic of the Congo;Congo-Brazzaville | República del Congo | r
+República Democrática do Congo | RDC;RD Congo;Congo-Kinshasa;Congo Democrático | Democratic Republic of the Congo;DRC;DR Congo | República Democrática del Congo | r
+Gabão | | Gabon | Gabón | e
+Guiné | Guiné-Conacri | Guinea | | e
+Guiné Equatorial | | Equatorial Guinea | Guinea Ecuatorial | e
+Benin | Benim | | Benín | e
+Togo | | | | e
+Burkina Faso | | | | e
+Serra Leoa | | Sierra Leone | Sierra Leona | e
+Libéria | | Liberia | | e
+Gâmbia | | Gambia;The Gambia | | e
+Eritreia | | Eritrea | | e
+Djibuti | Djibouti;Jibuti | Djibouti | Yibuti | e
+República Centro-Africana | Centro-Africana | Central African Republic | República Centroafricana | e
+Lesoto | | Lesotho | | l
+Essuatíni | Suazilândia;Eswatini | Eswatini;Swaziland | Esuatini;Suazilandia | l
+Comores | | Comoros | Comoras | l
+Seicheles | Seychelles | Seychelles | | l
+Maurício | Maurícia;Ilhas Maurício | Mauritius | Mauricio | l
+
+== geo-paises-asia | Cite um país da Ásia | media | países;ásia | https://pt.wikipedia.org/wiki/Lista_de_pa%C3%ADses_da_%C3%81sia
+@nota Valem transcontinentais (Rússia, Turquia, Cazaquistão, Cáucaso), Palestina e Taiwan.
+China | | | | c
+Japão | | Japan | Japón | c
+Índia | | India | | c
+Coreia do Sul | | South Korea | Corea del Sur | c
+Coreia do Norte | | North Korea | Corea del Norte | c
+Rússia | | Russia | Rusia | i
+Tailândia | | Thailand | Tailandia | c
+Vietnã | Vietname | Vietnam | | c
+Israel | | | | c
+Arábia Saudita | | Saudi Arabia | Arabia Saudita | c
+Irã | Irão;Pérsia | Iran | Irán | i
+Iraque | i
+Afeganistão | | Afghanistan | Afganistán | i
+Paquistão | | Pakistan | Pakistán | i
+Indonésia | | Indonesia | | i
+Filipinas | | Philippines | | i
+Turquia | | Turkey;Türkiye | Turquía | i
+Catar | Qatar | Qatar | | i
+Emirados Árabes Unidos | Emirados Árabes;EAU | United Arab Emirates;UAE | Emiratos Árabes Unidos | i
+Síria | | Syria | Siria | i
+Líbano | | Lebanon | Líbano | i
+Jordânia | | Jordan | Jordania | r
+Malásia | | Malaysia | Malasia | i
+Cingapura | Singapura | Singapore | Singapur | i
+Mongólia | | Mongolia | | i
+Nepal | | | | r
+Bangladesh | Bangladexe | | Bangladés | r
+Sri Lanka | Ceilão | | | r
+Camboja | | Cambodia | Camboya | r
+Laos | | | | r
+Mianmar | Birmânia;Myanmar | Myanmar;Burma | Birmania | r
+Palestina | Estado da Palestina | Palestine | | r
+Kuwait | Kuwaite;Coveite | | | r
+Omã | | Oman | Omán | r
+Iêmen | Iémen | Yemen | | r
+Bahrein | Barém;Bahrain | Bahrain | Baréin | e
+Maldivas | | Maldives | | r
+Butão | | Bhutan | Bután | e
+Brunei | | | | e
+Timor-Leste | Timor Leste;Timor | East Timor;Timor-Leste | Timor Oriental | r
+Taiwan | Formosa | | Taiwán | r
+Cazaquistão | | Kazakhstan | Kazajistán | r
+Uzbequistão | Usbequistão | Uzbekistan | Uzbekistán | e
+Turcomenistão | Turquemenistão | Turkmenistan | Turkmenistán | e
+Quirguistão | Quirguízia | Kyrgyzstan | Kirguistán | l
+Tadjiquistão | Tajiquistão | Tajikistan | Tayikistán | l
+Geórgia | | Georgia | | e
+Armênia | Arménia | Armenia | | e
+Azerbaijão | Azerbeijão | Azerbaijan | Azerbaiyán | e
+
+== geo-paises-americas | Cite um país das Américas | facil | países;américas | https://pt.wikipedia.org/wiki/Am%C3%A9rica
+@nota Só países independentes (35). Territórios como Porto Rico e Guiana Francesa não valem.
+Brasil | | Brazil | | c
+Argentina | | | | c
+Estados Unidos | EUA;Estados Unidos da América | United States;USA;US | Estados Unidos | c
+Canadá | | Canada | | c
+México | | Mexico | | c
+Chile | | | | c
+Uruguai | | Uruguay | | c
+Paraguai | | Paraguay | | c
+Colômbia | | Colombia | | c
+Peru | | | Perú | c
+Bolívia | | Bolivia | | c
+Venezuela | | | | c
+Equador | | Ecuador | | i
+Cuba | | | | c
+Jamaica | | | | i
+Haiti | | | Haití | i
+Panamá | | Panama | | i
+Costa Rica | | | | i
+Guatemala | | | | i
+Honduras | | | | i
+El Salvador | Salvador | | | i
+Nicarágua | | Nicaragua | | i
+República Dominicana | | Dominican Republic | | r
+Guiana | | Guyana | | r
+Suriname | | | Surinam | r
+Bahamas | | | | r
+Barbados | | | | r
+Trinidad e Tobago | Trinidad | Trinidad and Tobago | Trinidad y Tobago | r
+Belize | | | Belice | r
+Dominica | | | | e
+Granada | | Grenada | | e
+Santa Lúcia | | Saint Lucia | Santa Lucía | e
+Antígua e Barbuda | Antígua | Antigua and Barbuda | Antigua y Barbuda | e
+São Vicente e Granadinas | São Vicente | Saint Vincent and the Grenadines | San Vicente y las Granadinas | l
+São Cristóvão e Névis | São Cristóvão e Neves;São Cristóvão | Saint Kitts and Nevis | San Cristóbal y Nieves | l
+
+== geo-uf-brasil | Cite um estado brasileiro (ou o Distrito Federal) | facil | brasil;estados | https://pt.wikipedia.org/wiki/Unidades_federativas_do_Brasil
+@nota 26 estados + Distrito Federal.
+São Paulo | SP | | | c
+Rio de Janeiro | RJ | | | c
+Minas Gerais | MG | | | c
+Bahia | BA | | | c
+Rio Grande do Sul | RS | | | c
+Paraná | PR | | | c
+Santa Catarina | SC | | | c
+Pernambuco | PE | | | c
+Ceará | CE | | | c
+Amazonas | AM | | | c
+Pará | PA | | | i
+Goiás | GO | | | i
+Espírito Santo | ES | | | i
+Maranhão | MA | | | i
+Paraíba | PB | | | i
+Rio Grande do Norte | RN | | | i
+Alagoas | AL | | | i
+Sergipe | SE | | | i
+Piauí | PI | | | i
+Mato Grosso | MT | | | i
+Mato Grosso do Sul | MS | | | i
+Distrito Federal | DF | | | i
+Tocantins | TO | | | r
+Acre | AC | | | r
+Rondônia | RO | | | r
+Roraima | RR | | | r
+Amapá | AP | | | r
+
+== geo-capitais-brasil | Cite uma capital de estado brasileiro (ou a capital federal) | facil | brasil;capitais | https://pt.wikipedia.org/wiki/Lista_de_capitais_do_Brasil
+São Paulo | Sampa | | | c
+Rio de Janeiro | Rio | | | c
+Belo Horizonte | BH | | | c
+Salvador | | | | c
+Brasília | | | | c
+Porto Alegre | POA | | | c
+Curitiba | | | | c
+Recife | | | | c
+Fortaleza | | | | c
+Manaus | | | | c
+Florianópolis | Floripa | | | i
+Belém | | | | i
+Goiânia | | | | i
+Natal | | | | i
+João Pessoa | | | | i
+Maceió | | | | i
+Vitória | | | | i
+São Luís | | | | i
+Aracaju | | | | i
+Teresina | | | | i
+Cuiabá | | | | i
+Campo Grande | | | | i
+Porto Velho | | | | r
+Rio Branco | | | | r
+Boa Vista | | | | r
+Macapá | | | | r
+Palmas | | | | r
+
+== geo-capitais-europa | Cite a capital de um país europeu | media | capitais;europa | https://pt.wikipedia.org/wiki/Lista_de_capitais_nacionais
+@nota Capitais dos países da pergunta "país da Europa", incluindo Edimburgo, Cardiff e Belfast.
+Paris | | | París | c
+Londres | | London | | c
+Roma | | Rome | | c
+Madri | Madrid | Madrid | | c
+Lisboa | | Lisbon | | c
+Berlim | | Berlin | Berlín | c
+Moscou | Moscovo | Moscow | Moscú | i
+Atenas | | Athens | | i
+Amsterdã | Amesterdão;Amsterdam | Amsterdam | Ámsterdam | i
+Bruxelas | | Brussels | Bruselas | i
+Viena | | Vienna | | i
+Berna | | Bern | | r
+Dublin | | | Dublín | i
+Edimburgo | | Edinburgh | | r
+Cardiff | | | | e
+Belfast | | | | e
+Estocolmo | | Stockholm | | i
+Oslo | | | | i
+Copenhague | Copenhaga | Copenhagen | Copenhague | i
+Helsinque | Helsínquia | Helsinki | Helsinki | r
+Reykjavík | Reiquiavique | | | e
+Varsóvia | | Warsaw | Varsovia | i
+Praga | | Prague | | i
+Budapeste | | Budapest | | i
+Bratislava | | | | r
+Liubliana | Ljubljana | Ljubljana | | e
+Zagreb | Zagrebe | | | r
+Belgrado | | Belgrade | | r
+Sarajevo | | | | r
+Podgorica | | | | e
+Tirana | | | | e
+Escópia | Skopje | Skopje | | l
+Pristina | | | Pristina | l
+Sófia | | Sofia | | r
+Bucareste | | Bucharest | Bucarest | r
+Chisinau | Quixinau | | | l
+Kiev | Kyiv;Quieve | Kyiv | | i
+Minsk | | | | r
+Vilnius | | | | e
+Riga | | | | e
+Tallinn | Talim | | | e
+Luxemburgo | | Luxembourg | | r
+Mônaco | Mónaco | Monaco | | r
+Cidade do Vaticano | Vaticano | Vatican City | Ciudad del Vaticano | i
+San Marino | São Marinho | | | r
+Andorra-a-Velha | Andorra la Vella | Andorra la Vella | Andorra la Vieja | e
+Vaduz | | | | l
+Valletta | Valeta | | La Valeta | e
+Nicósia | | Nicosia | | e
+Ancara | | Ankara | | r
+Tbilisi | Tbilissi | | Tiflis | l
+Erevan | Ierevan;Yerevan | Yerevan | Ereván | l
+Baku | Bacu | | Bakú | l
+Astana | | | | l
+
+== geo-rios-brasil | Cite um rio brasileiro | dificil | brasil;rios;hidrografia | https://pt.wikipedia.org/wiki/Lista_de_rios_do_Brasil
+@nota Rios que correm em território brasileiro (inteira ou parcialmente).
+Amazonas | Rio Amazonas | Amazon | | c
+São Francisco | Rio São Francisco;Velho Chico | | | c
+Tietê | Rio Tietê | | | c
+Paraná | Rio Paraná | | | c
+Negro | Rio Negro | | | c
+Solimões | Rio Solimões | | | i
+Xingu | Rio Xingu | | | i
+Tocantins | Rio Tocantins | | | i
+Araguaia | Rio Araguaia | | | i
+Madeira | Rio Madeira | | | i
+Tapajós | Rio Tapajós | | | i
+Pinheiros | Rio Pinheiros | | | i
+Paraíba do Sul | Rio Paraíba do Sul | | | i
+Doce | Rio Doce | | | i
+Iguaçu | Rio Iguaçu | | | i
+Paraguai | Rio Paraguai | | | i
+Uruguai | Rio Uruguai | | | i
+Capibaribe | Rio Capibaribe | | | r
+Parnaíba | Rio Parnaíba | | | r
+Jequitinhonha | Rio Jequitinhonha | | | r
+Grande | Rio Grande | | | r
+Paranapanema | Rio Paranapanema | | | r
+Purus | Rio Purus | | | r
+Juruá | Rio Juruá | | | r
+Trombetas | Rio Trombetas | | | e
+Jari | Rio Jari | | | e
+Branco | Rio Branco | | | r
+Japurá | Rio Japurá | | | e
+Javari | Rio Javari | | | e
+Guaporé | Rio Guaporé | | | e
+Mamoré | Rio Mamoré | | | e
+Teles Pires | Rio Teles Pires | | | e
+Juruena | Rio Juruena | | | e
+Jaguaribe | Rio Jaguaribe | | | r
+Piracicaba | Rio Piracicaba | | | r
+Mogi Guaçu | Rio Mogi Guaçu;Moji-Guaçu | | | e
+Ribeira de Iguape | Rio Ribeira de Iguape;Ribeira | | | e
+Itajaí-Açu | Rio Itajaí-Açu;Itajaí | | | e
+Jacuí | Rio Jacuí | | | e
+Taquari | Rio Taquari | | | e
+Cuiabá | Rio Cuiabá | | | r
+Poti | Rio Poti | | | e
+Beberibe | Rio Beberibe | | | e
+Paraguaçu | Rio Paraguaçu | | | e
+Rio de Contas | Contas | | | e
+Vaza-Barris | Rio Vaza-Barris | | | l
+Mucuri | Rio Mucuri | | | l
+Rio das Velhas | Velhas | | | e
+Paraopeba | Rio Paraopeba | | | e
+Sapucaí | Rio Sapucaí | | | l
+Pardo | Rio Pardo | | | e
+Oiapoque | Rio Oiapoque | | | r
+Iriri | Rio Iriri | | | l
+Mearim | Rio Mearim | | | l
+Itapecuru | Rio Itapecuru | | | l
+Gurupi | Rio Gurupi | | | l
+Aripuanã | Rio Aripuanã | | | l
+Uatumã | Rio Uatumã | | | l
+Içá | Rio Içá;Putumayo | | | l
+Javaés | Rio Javaés | | | l

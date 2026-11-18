@@ -1,0 +1,415 @@
+tema: lingua-portuguesa
+nome: Língua Portuguesa e Literatura
+
+== lpt-figuras-linguagem | Cite uma figura de linguagem | media | gramática;estilística | https://pt.wikipedia.org/wiki/Figura_de_linguagem
+Metáfora | | Metaphor | | c
+Comparação | Símile | Simile | Símil | c
+Hipérbole | | Hyperbole | | c
+Ironia | | Irony | Ironía | c
+Eufemismo | | Euphemism | | c
+Onomatopeia | | Onomatopoeia | Onomatopeya | c
+Personificação | Prosopopeia | Personification | Personificación | c
+Antítese | | Antithesis | Antítesis | c
+Metonímia | | Metonymy | Metonimia | c
+Pleonasmo | | Pleonasm | | c
+Paradoxo | Oxímoro | Paradox;Oxymoron | Paradoja | i
+Aliteração | | Alliteration | Aliteración | i
+Assonância | | Assonance | Asonancia | i
+Catacrese | | Catachresis | Catacresis | i
+Sinestesia | | Synesthesia | | i
+Gradação | Clímax | Climax | Gradación | i
+Elipse | | Ellipsis | | i
+Zeugma | | | | i
+Anáfora | | Anaphora | | i
+Polissíndeto | | Polysyndeton | Polisíndeton | i
+Assíndeto | | Asyndeton | Asíndeton | r
+Apóstrofe | | Apostrophe | | r
+Perífrase | | Periphrasis | Perífrasis | r
+Antonomásia | | Antonomasia | | r
+Hipérbato | Inversão | Hyperbaton | | r
+Anacoluto | | Anacoluthon | | r
+Silepse | | Syllepsis | Silepsis | r
+Paronomásia | Trocadilho | Paronomasia | | r
+Sinédoque | | Synecdoche | Sinécdoque | r
+Alegoria | | Allegory | Alegoría | r
+Litote | | Litotes | Lítote | e
+Anástrofe | | Anastrophe | | e
+Quiasmo | | Chiasmus | Quiasmo | e
+Epístrofe | | Epistrophe | Epífora | e
+Sínquise | | Synchysis | | l
+Disfemismo | | Dysphemism | | e
+Epizeuxe | | Epizeuxis | Epanadiplosis | l
+Hipálage | | Hypallage | | l
+Diácope | | Diacope | | l
+Paralelismo | | Parallelism | | e
+Interrogação retórica | Pergunta retórica | Rhetorical question | Pregunta retórica | e
+Anadiplose | | Anadiplosis | | l
+Reticência | | Aposiopesis | | l
+
+== lpt-escritores-brasileiros | Cite um(a) escritor(a) brasileiro(a) | facil | literatura;escritores;brasil | https://pt.wikipedia.org/wiki/Literatura_do_Brasil
+Machado de Assis | Machado | | | c
+Clarice Lispector | Clarice;Lispector | | | c
+Jorge Amado | | | | c
+Carlos Drummond de Andrade | Drummond | | | c
+Monteiro Lobato | Lobato | | | c
+Graciliano Ramos | Graciliano | | | c
+Guimarães Rosa | João Guimarães Rosa | | | c
+José de Alencar | Alencar | | | c
+Cecília Meireles | | | | c
+Vinicius de Moraes | | | | c
+Manuel Bandeira | | | | c
+Paulo Coelho | | | | c
+Mário de Andrade | | | | c
+Ariano Suassuna | Suassuna | | | c
+Castro Alves | | | | c
+Oswald de Andrade | | | | i
+Rachel de Queiroz | | | | i
+Érico Veríssimo | | | | i
+Luis Fernando Veríssimo | | | | i
+Lima Barreto | | | | i
+Euclides da Cunha | | | | i
+Gonçalves Dias | | | | i
+Álvares de Azevedo | | | | i
+Olavo Bilac | Bilac | | | i
+Aluísio Azevedo | | | | i
+Ziraldo | | | | i
+Ruth Rocha | | | | i
+Pedro Bandeira | | | | i
+Mário Quintana | Quintana | | | i
+Cora Coralina | | | | i
+Nelson Rodrigues | | | | i
+Carolina Maria de Jesus | | | | i
+Conceição Evaristo | | | | i
+João Cabral de Melo Neto | João Cabral | | | i
+Ana Maria Machado | | | | r
+Raul Pompeia | | | | r
+Gregório de Matos | | | | r
+Tomás Antônio Gonzaga | | | | r
+Cruz e Sousa | | | | r
+Augusto dos Anjos | | | | r
+Rubem Braga | | | | r
+Fernando Sabino | | | | r
+Ferreira Gullar | | | | r
+Lygia Fagundes Telles | | | | r
+Paulo Leminski | Leminski | | | r
+Hilda Hilst | | | | r
+Adélia Prado | | | | r
+Manoel de Barros | | | | r
+Rubem Fonseca | | | | r
+Dalton Trevisan | | | | e
+Raduan Nassar | | | | e
+Itamar Vieira Junior | | | | r
+Milton Hatoum | | | | e
+Moacyr Scliar | | | | e
+João Ubaldo Ribeiro | | | | e
+Bernardo Guimarães | | | | e
+Joaquim Manuel de Macedo | | | | e
+Manuel Antônio de Almeida | | | | e
+Visconde de Taunay | | | | l
+Casimiro de Abreu | | | | e
+Fagundes Varela | | | | l
+Basílio da Gama | | | | l
+Santa Rita Durão | | | | l
+Cláudio Manuel da Costa | | | | l
+Raimundo Correia | | | | l
+Murilo Mendes | | | | e
+Jorge de Lima | | | | l
+Thalita Rebouças | | | | r
+Raphael Montes | | | | e
+Eduardo Spohr | | | | e
+Carla Madeira | | | | e
+Zuenir Ventura | | | | l
+Autran Dourado | | | | l
+Josué Montello | | | | l
+José Lins do Rego | | | | e
+Chico Buarque | | | | r
+Ignácio de Loyola Brandão | | | | l
+Marina Colasanti | | | | e
+Ailton Krenak | | | | e
+Djamila Ribeiro | | | | e
+
+== lpt-obras-brasileiras | Cite uma obra da literatura brasileira | media | literatura;livros;brasil | https://pt.wikipedia.org/wiki/Literatura_do_Brasil
+Dom Casmurro | | | | c
+Memórias Póstumas de Brás Cubas | Brás Cubas | The Posthumous Memoirs of Brás Cubas | | c
+O Cortiço | | | | c
+Vidas Secas | | | | c
+Grande Sertão: Veredas | Grande Sertão | | | c
+Iracema | | | | c
+O Guarani | | | | c
+Capitães da Areia | | | | c
+O Auto da Compadecida | Auto da Compadecida | | | c
+Macunaíma | | | | c
+A Hora da Estrela | | | | c
+Os Sertões | | | | c
+O Alquimista | | The Alchemist | El alquimista | c
+Quincas Borba | | | | i
+O Alienista | | | | i
+Senhora | | | | i
+Lucíola | | | | i
+O Ateneu | | | | i
+São Bernardo | | | | i
+Sagarana | | | | i
+A Paixão Segundo G.H. | A Paixão Segundo GH | | | i
+Gabriela, Cravo e Canela | Gabriela | | | i
+Dona Flor e Seus Dois Maridos | Dona Flor | | | i
+Tieta do Agreste | | | | r
+O Quinze | | | | i
+O Tempo e o Vento | | | | i
+Incidente em Antares | | | | r
+Morte e Vida Severina | | | | i
+Triste Fim de Policarpo Quaresma | Policarpo Quaresma | | | i
+Memórias de um Sargento de Milícias | | | | i
+A Moreninha | | | | i
+Inocência | | | | r
+O Seminarista | | | | e
+A Escrava Isaura | Escrava Isaura | | | i
+O Navio Negreiro | Navio Negreiro | | | i
+Marília de Dirceu | | | | r
+Quarto de Despejo | | | | i
+Reinações de Narizinho | | | | r
+O Menino Maluquinho | Menino Maluquinho | | | i
+Meu Pé de Laranja Lima | | | | i
+Torto Arado | | | | i
+Lavoura Arcaica | | | | e
+Menino de Engenho | | | | r
+Fogo Morto | | | | e
+A Bagaceira | | | | e
+Laços de Família | | | | r
+Felicidade Clandestina | | | | r
+A Rosa do Povo | | | | r
+Sentimento do Mundo | | | | e
+Libertinagem | | | | e
+Canção do Exílio | | | | i
+I-Juca Pirama | | | | r
+Noite na Taverna | | | | r
+Lira dos Vinte Anos | | | | r
+Mar Morto | | | | e
+Jubiabá | | | | e
+Terras do Sem-Fim | | | | e
+O Encontro Marcado | | | | e
+O Pagador de Promessas | | | | r
+Vestido de Noiva | | | | r
+A Bolsa Amarela | | | | r
+Marcelo, Marmelo, Martelo | | | | r
+A Droga da Obediência | | | | r
+Olhai os Lírios do Campo | | | | e
+Clara dos Anjos | | | | e
+O Uraguai | | | | l
+Caramuru | | | | l
+Memorial de Aires | | | | e
+Helena | | | | e
+Esaú e Jacó | | | | e
+A Mão e a Luva | | | | l
+O Mulato | | | | e
+Broquéis | | | | l
+O Bem-Amado | | | | e
+Cidade de Deus | | | | r
+Budapeste | | | | e
+Estorvo | | | | l
+Os Ratos | | | | l
+Água Viva | | | | e
+Urupês | | | | e
+Feliz Ano Velho | | | | e
+O Analista de Bagé | | | | e
+Comédias da Vida Privada | | | | e
+
+== lpt-coletivos | Cite um substantivo coletivo | media | gramática;substantivos | https://pt.wikipedia.org/wiki/Substantivo_coletivo
+Cardume | | | | c
+Enxame | | | | c
+Rebanho | | | | c
+Manada | | | | c
+Matilha | | | | c
+Alcateia | | | | c
+Bando | | | | c
+Constelação | | | | c
+Arquipélago | | | | c
+Cordilheira | | | | c
+Frota | | | | c
+Biblioteca | | | | c
+Multidão | | | | c
+Orquestra | | | | c
+Elenco | | | | c
+Plateia | | | | c
+Tripulação | | | | c
+Exército | | | | c
+Cacho | | | | c
+Boiada | | | | c
+Revoada | | | | i
+Vara | | | | i
+Nuvem | | | | i
+Esquadra | | | | i
+Flotilha | | | | r
+Acervo | | | | i
+Discoteca | | | | r
+Pinacoteca | | | | r
+Hemeroteca | | | | e
+Filmoteca | Cinemateca | | | e
+Molho | | | | i
+Penca | | | | i
+Ramalhete | | | | i
+Buquê | | | | i
+Banda | | | | i
+Coro | Coral | | | i
+Batalhão | | | | i
+Pelotão | | | | i
+Cáfila | | | | e
+Récua | | | | e
+Tropa | | | | i
+Colmeia | | | | i
+Ninhada | | | | i
+Quadrilha | | | | i
+Corja | | | | r
+Súcia | | | | e
+Caterva | | | | e
+Malta | | | | e
+Antologia | Coletânea | | | r
+Florilégio | | | | l
+Dicionário | Vocabulário | | | r
+Atlas | | | | r
+Álbum | | | | r
+Baixela | | | | e
+Prole | | | | r
+Clero | | | | r
+Congresso | | | | r
+Assembleia | | | | r
+Júri | | | | r
+Fauna | | | | r
+Flora | | | | r
+Pomar | | | | r
+Arvoredo | | | | r
+Bosque | | | | r
+Floresta | | | | i
+Vinhedo | | | | r
+Cafezal | | | | r
+Canavial | | | | r
+Laranjal | | | | e
+Girândola | | | | l
+Réstia | | | | e
+Feixe | | | | r
+Resma | | | | e
+Pilha | | | | r
+Enxoval | | | | r
+Armento | | | | l
+Atilho | | | | l
+Cambada | | | | e
+Gentalha | | | | e
+Ralé | | | | e
+Hinário | | | | e
+Cancioneiro | | | | e
+Junta | | | | e
+Colégio | Colégio eleitoral | | | l
+Esquadrilha | | | | r
+Comboio | | | | r
+Caravana | | | | r
+Plêiade | | | | l
+Conselho | | | | r
+Galeria | | | | e
+Cordame | | | | l
+Fato | | | | l
+Arsenal | | | | e
+Romanceiro | | | | l
+Turma | | | | i
+Time | Equipe | | | i
+Família | | | | i
+
+== lpt-gentilicos-estados | Cite o gentílico de um estado brasileiro (ou do Distrito Federal) | media | gentílicos;estados | https://pt.wikipedia.org/wiki/Lista_de_gent%C3%ADlicos_do_Brasil
+Paulista | | | | c
+Fluminense | | | | c
+Mineiro | | | | c
+Baiano | | | | c
+Gaúcho | Sul-rio-grandense;Rio-grandense-do-sul | | | c
+Paranaense | | | | c
+Catarinense | Barriga-verde | | | c
+Pernambucano | | | | c
+Cearense | | | | c
+Amazonense | | | | c
+Paraense | | | | c
+Goiano | | | | c
+Capixaba | Espírito-santense | | | c
+Maranhense | | | | i
+Paraibano | | | | i
+Potiguar | Norte-rio-grandense | | | i
+Alagoano | | | | i
+Sergipano | | | | i
+Piauiense | | | | i
+Mato-grossense | | | | i
+Sul-mato-grossense | | | | i
+Brasiliense | Candango | | | i
+Tocantinense | | | | r
+Acriano | Acreano | | | r
+Rondoniense | Rondoniano | | | r
+Roraimense | | | | r
+Amapaense | | | | r
+
+== lpt-gentilicos-capitais | Cite o gentílico de uma capital brasileira | dificil | gentílicos;capitais | https://pt.wikipedia.org/wiki/Lista_de_gent%C3%ADlicos_do_Brasil
+Carioca | | | | c
+Paulistano | | | | c
+Soteropolitano | | | | c
+Belo-horizontino | | | | c
+Recifense | | | | c
+Fortalezense | | | | c
+Curitibano | | | | c
+Porto-alegrense | | | | c
+Manauara | Manauense | | | c
+Florianopolitano | Manezinho | | | i
+Brasiliense | Candango | | | c
+Goianiense | | | | i
+Natalense | Papa-jerimum | | | i
+Pessoense | | | | i
+Maceioense | | | | i
+Belenense | | | | i
+Vitoriense | | | | r
+Ludovicense | São-luisense | | | r
+Teresinense | | | | r
+Cuiabano | | | | i
+Campo-grandense | | | | r
+Aracajuano | Aracajuense | | | r
+Porto-velhense | | | | e
+Rio-branquense | | | | e
+Boa-vistense | | | | e
+Macapaense | | | | e
+Palmense | | | | e
+
+== lpt-escritores-lusofonos | Cite um(a) escritor(a) de língua portuguesa nascido(a) fora do Brasil | dificil | literatura;portugal;áfrica | https://pt.wikipedia.org/wiki/Literatura_portuguesa
+Luís de Camões | Camões | | | c
+Fernando Pessoa | Pessoa | | | c
+José Saramago | Saramago | | | c
+Eça de Queirós | Eça de Queiroz;Eça | | | c
+Florbela Espanca | | | | i
+Gil Vicente | | | | i
+Mia Couto | | | | i
+Padre Antônio Vieira | Antônio Vieira;Padre Vieira | | | i
+Camilo Castelo Branco | | | | i
+Almeida Garrett | Garrett | | | i
+Alexandre Herculano | Herculano | | | r
+Bocage | Manuel Maria Barbosa du Bocage | | | i
+Antero de Quental | | | | r
+Sophia de Mello Breyner Andresen | Sophia de Mello Breyner | | | r
+Miguel Torga | | | | r
+António Lobo Antunes | Lobo Antunes | | | r
+Valter Hugo Mãe | | | | r
+Gonçalo M. Tavares | Gonçalo Tavares | | | e
+José Luís Peixoto | | | | e
+Pepetela | | | | r
+José Eduardo Agualusa | Agualusa | | | r
+Paulina Chiziane | | | | e
+Ondjaki | | | | e
+Luandino Vieira | José Luandino Vieira | | | l
+Agostinho Neto | | | | e
+Cesário Verde | | | | r
+Mário de Sá-Carneiro | Sá-Carneiro | | | r
+Júlio Dinis | | | | e
+Ferreira de Castro | | | | l
+Vergílio Ferreira | | | | e
+Agustina Bessa-Luís | | | | e
+Lídia Jorge | | | | l
+José Régio | | | | e
+Teixeira de Pascoaes | | | | l
+Eugénio de Andrade | | | | e
+Manuel Alegre | | | | l
+Herberto Helder | | | | l
+Fernão Lopes | | | | l
+Fernão Mendes Pinto | | | | l
+Germano Almeida | | | | l
+Baltasar Lopes | | | | l
+Afonso Cruz | | | | l

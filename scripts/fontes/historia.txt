@@ -1,0 +1,294 @@
+tema: historia
+nome: História
+
+== his-presidentes-brasil | Cite um presidente do Brasil | media | brasil;política;presidentes | https://pt.wikipedia.org/wiki/Lista_de_presidentes_do_Brasil
+@atualizadoEm 2026-11
+@nota Inclui interinos que assumiram o cargo e Tancredo Neves (reconhecido por lei). Não vale Júlio Prestes, eleito mas não empossado.
+Lula | Luiz Inácio Lula da Silva | | | c
+Jair Bolsonaro | Bolsonaro | | | c
+Dilma Rousseff | Dilma | | | c
+Michel Temer | Temer | | | c
+Fernando Henrique Cardoso | FHC | | | c
+Fernando Collor | Collor;Fernando Collor de Mello | | | c
+Getúlio Vargas | Getúlio;Vargas | | | c
+Juscelino Kubitschek | JK;Juscelino | | | c
+José Sarney | Sarney | | | c
+Itamar Franco | Itamar | | | c
+Deodoro da Fonseca | Marechal Deodoro;Deodoro | | | c
+João Goulart | Jango | | | i
+Jânio Quadros | Jânio | | | i
+Tancredo Neves | Tancredo | | | i
+Floriano Peixoto | Floriano | | | i
+Eurico Gaspar Dutra | Dutra | | | i
+Castelo Branco | Humberto de Alencar Castelo Branco | | | i
+Costa e Silva | Artur da Costa e Silva | | | i
+Emílio Médici | Médici;Emílio Garrastazu Médici | | | i
+Ernesto Geisel | Geisel | | | i
+João Figueiredo | Figueiredo | | | i
+Prudente de Morais | | | | r
+Campos Sales | | | | r
+Rodrigues Alves | | | | r
+Washington Luís | | | | r
+Café Filho | | | | r
+Afonso Pena | | | | r
+Hermes da Fonseca | | | | r
+Nilo Peçanha | | | | e
+Venceslau Brás | Wenceslau Braz | | | e
+Epitácio Pessoa | | | | e
+Artur Bernardes | | | | e
+Delfim Moreira | | | | l
+José Linhares | | | | l
+Carlos Luz | | | | l
+Nereu Ramos | | | | l
+Ranieri Mazzilli | | | | l
+
+== his-presidentes-eua | Cite um presidente dos Estados Unidos | media | eua;política;presidentes | https://pt.wikipedia.org/wiki/Lista_de_presidentes_dos_Estados_Unidos
+@atualizadoEm 2026-11
+Abraham Lincoln | Lincoln;Abe Lincoln | | | c
+George Washington | Washington | | | c
+Donald Trump | Trump | | | c
+Barack Obama | Obama | | | c
+Joe Biden | Biden | | | c
+John F. Kennedy | Kennedy;JFK | | | c
+Bill Clinton | Clinton | | | c
+George W. Bush | Bush filho | | | c
+George H. W. Bush | Bush pai | | | i
+Ronald Reagan | Reagan | | | c
+Richard Nixon | Nixon | | | c
+Franklin D. Roosevelt | FDR;Franklin Roosevelt | | | i
+Theodore Roosevelt | Teddy Roosevelt | | | i
+Thomas Jefferson | Jefferson | | | i
+Jimmy Carter | Carter | | | i
+Harry Truman | Truman | | | i
+Dwight Eisenhower | Eisenhower;Ike | | | i
+Gerald Ford | | | | i
+Lyndon B. Johnson | LBJ;Lyndon Johnson | | | r
+John Adams | | | | r
+James Madison | Madison | | | r
+James Monroe | Monroe | | | r
+Andrew Jackson | Jackson | | | r
+Ulysses S. Grant | Ulysses Grant | | | r
+Woodrow Wilson | Wilson | | | r
+Herbert Hoover | Hoover | | | r
+John Quincy Adams | | | | e
+Andrew Johnson | | | | e
+William McKinley | McKinley | | | e
+William Howard Taft | Taft | | | e
+Calvin Coolidge | Coolidge | | | e
+Warren Harding | Harding | | | e
+Grover Cleveland | Cleveland | | | e
+James Polk | Polk | | | e
+Martin Van Buren | Van Buren | | | e
+William Henry Harrison | | | | l
+Benjamin Harrison | | | | l
+John Tyler | Tyler | | | l
+Zachary Taylor | Taylor | | | l
+Millard Fillmore | Fillmore | | | l
+Franklin Pierce | Pierce | | | l
+James Buchanan | Buchanan | | | l
+Rutherford Hayes | Hayes | | | l
+James Garfield | Garfield | | | l
+Chester Arthur | | | | l
+
+== his-imperadores-romanos | Cite um imperador romano | dificil | roma;antiguidade | https://pt.wikipedia.org/wiki/Lista_de_imperadores_romanos
+Nero | | | Nerón | c
+Calígula | | Caligula | | c
+Augusto | Otaviano;César Augusto;Otávio | Augustus | | c
+Constantino | Constantino, o Grande;Constantino I | Constantine | | c
+Marco Aurélio | | Marcus Aurelius | | c
+Tibério | | Tiberius | Tiberio | i
+Cláudio | | Claudius | Claudio | i
+Trajano | | Trajan | | i
+Adriano | | Hadrian | | i
+Cômodo | | Commodus | Cómodo | i
+Diocleciano | | Diocletian | | i
+Vespasiano | | Vespasian | | i
+Tito | | Titus | | i
+Domiciano | | Domitian | | r
+Galba | | | | r
+Otão | | Otho | Otón | e
+Vitélio | | Vitellius | Vitelio | e
+Nerva | | | | r
+Antonino Pio | | Antoninus Pius | | r
+Lúcio Vero | | Lucius Verus | Lucio Vero | e
+Pertinax | | | | e
+Dídio Juliano | | Didius Julianus | | l
+Septímio Severo | | Septimius Severus | Septimio Severo | r
+Caracala | | Caracalla | | r
+Geta | | | | e
+Macrino | | Macrinus | | l
+Heliogábalo | Elagábalo | Elagabalus | | e
+Alexandre Severo | | Severus Alexander | | e
+Maximino Trácio | | Maximinus Thrax | | l
+Gordiano III | | Gordian III | | l
+Filipe, o Árabe | | Philip the Arab | Filipo el Árabe | l
+Décio | | Decius | Decio | l
+Valeriano | | Valerian | | e
+Galiano | | Gallienus | | l
+Cláudio Gótico | Cláudio II | Claudius Gothicus | | l
+Aureliano | | Aurelian | | e
+Probo | | Probus | | l
+Maximiano | | Maximian | | l
+Galério | | Galerius | | l
+Constâncio Cloro | | Constantius Chlorus | | l
+Constâncio II | | Constantius II | | l
+Juliano, o Apóstata | Juliano | Julian the Apostate | Juliano el Apóstata | e
+Joviano | | Jovian | | l
+Valentiniano I | | Valentinian I | | l
+Valente | | Valens | | l
+Graciano | | Gratian | | l
+Teodósio I | Teodósio;Teodósio, o Grande | Theodosius I | Teodosio I | r
+Honório | | Honorius | Honorio | l
+Arcádio | | Arcadius | | l
+Rômulo Augusto | Rômulo Augústulo | Romulus Augustulus | Rómulo Augústulo | e
+
+== his-guerras | Cite uma guerra, revolta ou conflito armado da história | media | guerras;conflitos | https://pt.wikipedia.org/wiki/Lista_de_guerras
+Segunda Guerra Mundial | 2ª Guerra Mundial;II Guerra Mundial | World War II;WWII;Second World War | Segunda Guerra Mundial | c
+Primeira Guerra Mundial | 1ª Guerra Mundial;I Guerra Mundial;Grande Guerra | WWI;First World War | Primera Guerra Mundial | c
+Guerra Fria | | Cold War | Guerra Fría | c
+Guerra do Vietnã | Guerra do Vietname | Vietnam War | Guerra de Vietnam | c
+Guerra do Paraguai | Guerra da Tríplice Aliança | Paraguayan War | Guerra del Paraguay | c
+Guerra de Canudos | Canudos | | | c
+Guerra dos Farrapos | Revolução Farroupilha | | | c
+Guerra da Coreia | | Korean War | Guerra de Corea | i
+Guerra do Golfo | | Gulf War | | i
+Guerra do Iraque | | Iraq War | | i
+Guerra do Afeganistão | | War in Afghanistan | | i
+Guerra Civil Americana | Guerra de Secessão | American Civil War | Guerra de Secesión | i
+Guerra das Malvinas | | Falklands War | | i
+Guerra Civil Espanhola | | Spanish Civil War | Guerra civil española | i
+Guerra Rússia-Ucrânia | Guerra da Ucrânia;Invasão da Ucrânia | Russo-Ukrainian War | | i
+Cruzadas | | Crusades | | i
+Guerras Napoleônicas | | Napoleonic Wars | Guerras napoleónicas | i
+Guerra dos Cem Anos | | Hundred Years' War | | i
+Guerras Púnicas | | Punic Wars | | r
+Revolução Constitucionalista de 1932 | Revolução de 32;Revolução Constitucionalista | | | i
+Guerra do Contestado | Contestado | | | r
+Guerra dos Seis Dias | | Six-Day War | | r
+Guerra do Yom Kippur | | Yom Kippur War | | r
+Guerra dos Trinta Anos | | Thirty Years' War | | r
+Guerra dos Sete Anos | | Seven Years' War | | e
+Guerra da Independência dos Estados Unidos | Revolução Americana | American Revolutionary War | | r
+Guerra Irã-Iraque | | Iran-Iraq War | | r
+Guerra da Bósnia | | Bosnian War | | r
+Guerra do Kosovo | | Kosovo War | | e
+Guerra da Crimeia | | Crimean War | | r
+Guerra Russo-Japonesa | | Russo-Japanese War | | e
+Guerra do Ópio | Guerras do Ópio | Opium Wars | | r
+Guerras Médicas | Guerras Greco-Persas | Greco-Persian Wars | | e
+Guerra do Peloponeso | | Peloponnesian War | | e
+Guerra das Rosas | Guerra das Duas Rosas | Wars of the Roses | | r
+Guerra da Cisplatina | | Cisplatine War | | e
+Guerra dos Emboabas | | | | e
+Guerra dos Mascates | | | | e
+Balaiada | | | | r
+Cabanagem | | | | r
+Sabinada | | | | r
+Revolta da Armada | | | | e
+Revolta da Chibata | | | | r
+Revolta da Vacina | | | | r
+Revolução Pernambucana | | | | e
+Confederação do Equador | | | | e
+Guerra do Pacífico | | War of the Pacific | Guerra del Pacífico | e
+Guerra do Chaco | | Chaco War | Guerra del Chaco | e
+Guerra Civil Russa | | Russian Civil War | | e
+Guerra Sino-Japonesa | | Sino-Japanese War | | l
+Guerra de Independência de Angola | | | | l
+Guerra Colonial Portuguesa | Guerra do Ultramar | | | l
+Guerra da Argélia | | Algerian War | | e
+Guerra do Líbano | | Lebanon War | | l
+Guerra Civil Síria | Guerra da Síria | Syrian Civil War | | r
+Guerra Hispano-Americana | | Spanish-American War | | l
+Guerra dos Bôeres | | Boer War | | l
+Guerra Anglo-Zanzibari | | Anglo-Zanzibar War | | l
+Revolução Russa | | Russian Revolution | | i
+Revolução Mexicana | | Mexican Revolution | | l
+Guerra de Independência do Brasil | Independência da Bahia | | | e
+
+== his-civilizacoes-antigas | Cite uma civilização ou povo da Antiguidade (ou das Américas pré-colombianas) | media | antiguidade;civilizações | https://pt.wikipedia.org/wiki/Civiliza%C3%A7%C3%A3o
+Egípcios | Egito Antigo;Antigo Egito | Ancient Egyptians | Egipcios | c
+Romanos | Roma Antiga;Império Romano | Romans | | c
+Gregos | Grécia Antiga | Greeks | Griegos | c
+Maias | Maia | Maya;Mayans | Mayas | c
+Astecas | Asteca;Mexicas | Aztecs | Aztecas | c
+Incas | Inca | | | c
+Persas | Império Persa | Persians | | i
+Fenícios | | Phoenicians | Fenicios | i
+Mesopotâmicos | Mesopotâmia | Mesopotamians | | i
+Sumérios | | Sumerians | Sumerios | i
+Babilônios | Babilônia | Babylonians | Babilonios | i
+Hebreus | Israelitas | Hebrews | Hebreos | i
+Chineses antigos | China Antiga | Ancient Chinese | | i
+Celtas | | Celts | | i
+Assírios | | Assyrians | Asirios | r
+Cartagineses | Cartago | Carthaginians | | r
+Etruscos | | Etruscans | | r
+Hititas | | Hittites | | r
+Olmecas | | Olmecs | | r
+Espartanos | Esparta | Spartans | | i
+Macedônios | Macedônia Antiga | Macedonians | | r
+Acádios | Império Acádio | Akkadians | | e
+Civilização do Vale do Indo | Harappa;Harappianos | Indus Valley Civilization | | e
+Minoicos | Civilização minoica | Minoans | Minoicos | e
+Micênicos | | Mycenaeans | Micénicos | e
+Nabateus | | Nabataeans | | l
+Núbios | Cuxitas;Reino de Cuxe | Nubians;Kushites | | e
+Axumitas | Reino de Axum | Aksumites | | l
+Partos | | Parthians | | l
+Citas | | Scythians | Escitas | l
+Hunos | | Huns | | r
+Godos | Visigodos;Ostrogodos | Goths | | r
+Hicsos | | Hyksos | | l
+Amoritas | | Amorites | | l
+Elamitas | | Elamites | | l
+Lídios | | Lydians | | l
+Medos | | Medes | | l
+Zapotecas | | Zapotecs | | e
+Toltecas | | Toltecs | | e
+Teotihuacanos | Teotihuacan | | | e
+Moches | Mochicas | | | l
+Nazcas | Nazca | | | e
+Chavín | | | | l
+Tiwanaku | Tiahuanaco | | | l
+Marajoaras | Cultura Marajoara | | | e
+Sambaquieiros | | | | l
+Filisteus | | Philistines | Filisteos | r
+Troianos | Troia | Trojans | Troyanos | r
+Gauleses | | Gauls | Galos | r
+Bretões | | Britons | | e
+Germânicos | Povos germânicos | Germanic peoples | | r
+Iberos | | Iberians | | e
+Lusitanos | | Lusitanians | | e
+
+== his-faraos | Cite um faraó do Egito Antigo | dificil | egito;antiguidade | https://pt.wikipedia.org/wiki/Lista_de_fara%C3%B3s
+@nota Números importam: Ramsés II e Tutmés III são as formas aceitas para as linhagens mais famosas.
+Tutancâmon | Tutankhamon;Tutancamon;Rei Tut | Tutankhamun | Tutankamón | c
+Ramsés II | Ramsés;Ramsés, o Grande | Ramesses II;Ramses II | Ramsés II | c
+Cleópatra VII | Cleópatra | Cleopatra | Cleopatra | c
+Quéops | Khufu | Khufu;Cheops | Keops | c
+Quéfren | Khafre | Khafre;Chephren | Kefrén | i
+Miquerinos | Menkaure | Menkaure;Mycerinus | Micerino | r
+Akhenaton | Amenófis IV;Aquenáton | Akhenaten | Akenatón | i
+Hatshepsut | | | | i
+Djoser | Zoser | | | r
+Tutmés III | Tutmósis III | Thutmose III | Tutmosis III | r
+Amenófis III | Amenhotep III | Amenhotep III | Amenofis III | e
+Seti I | Seti | | | r
+Narmer | | | | r
+Snefru | Seneferu | Sneferu | | e
+Pepi II | | | | l
+Mentuhotep II | | | | l
+Amenemés I | Amenemhat I | Amenemhat I | | l
+Sesóstris III | Senusret III | Senusret III | | l
+Amósis I | Ahmose I | Ahmose I | | e
+Ay | | | | l
+Horemheb | | | | e
+Merneptá | Merneptah | Merneptah | | e
+Psamético I | | Psamtik I | | l
+Necao II | | Necho II | | l
+Taharqa | | | | l
+Ptolomeu I Sóter | Ptolomeu I | Ptolemy I Soter | Ptolomeo I | e
+Smenkhkare | | | | l
+Sobekneferu | | | | l
+Hor-Aha | | | | l
+Khasekhemui | | | | l

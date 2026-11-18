@@ -1,0 +1,438 @@
+tema: animais
+nome: Animais
+
+== ani-mamiferos | Cite um mamífero | facil | animais;mamíferos | https://pt.wikipedia.org/wiki/Mam%C3%ADferos
+Cachorro | Cão;Cadela;Cachorra | Dog | Perro | c
+Gato | Gata | Cat | | c
+Cavalo | Égua;Potro | Horse | Caballo | c
+Vaca | Boi;Touro;Bezerro | Cow | | c
+Porco | Porca;Leitão | Pig | | c
+Leão | Leoa | Lion | León | c
+Tigre | | Tiger | | c
+Elefante | | Elephant | | c
+Girafa | | Giraffe | Jirafa | c
+Macaco | Macaca | Monkey | Mono | c
+Ovelha | Carneiro;Cordeiro | Sheep | Oveja | c
+Coelho | Coelha | Rabbit | Conejo | c
+Rato | Ratazana | Rat | | c
+Baleia | | Whale | Ballena | c
+Golfinho | | Dolphin | Delfín | c
+Urso | Ursa | Bear | Oso | c
+Zebra | c
+Cabra | Bode | Goat | | c
+Onça-pintada | Onça;Jaguar | Jaguar | Jaguar | c
+Morcego | | Bat | Murciélago | i
+Hipopótamo | | Hippopotamus;Hippo | | i
+Rinoceronte | | Rhinoceros;Rhino | | i
+Camelo | | Camel | Camello | i
+Dromedário | | Dromedary | | r
+Lobo | Loba | Wolf | | i
+Raposa | | Fox | Zorro | i
+Canguru | | Kangaroo | Canguro | i
+Coala | | Koala | | i
+Panda | Panda-gigante | | Oso panda | i
+Urso-polar | | Polar bear | Oso polar | i
+Gorila | | Gorilla | | i
+Chimpanzé | | Chimpanzee | Chimpancé | i
+Orangotango | | Orangutan | Orangután | r
+Capivara | | Capybara | Carpincho | i
+Tamanduá | Tamanduá-bandeira | Anteater | Oso hormiguero | i
+Preguiça | Bicho-preguiça | Sloth | Perezoso | i
+Tatu | | Armadillo | | i
+Hamster | | | Hámster | i
+Porquinho-da-índia | Cobaia;Preá | Guinea pig | Cobayo;Cuy | r
+Camundongo | | Mouse | | r
+Burro | Jumento;Jegue;Asno | Donkey | | i
+Mula | | Mule | | r
+Esquilo | | Squirrel | Ardilla | i
+Foca | | Seal | | i
+Leão-marinho | | Sea lion | León marino | r
+Morsa | | Walrus | | r
+Orca | | Orca;Killer whale | | i
+Peixe-boi | | Manatee | Manatí | r
+Boto | Boto-cor-de-rosa | Amazon river dolphin | Delfín rosado | r
+Leopardo | | | | r
+Guepardo | Chita | Cheetah | | r
+Puma | Onça-parda;Suçuarana | Cougar;Mountain lion | | r
+Hiena | | Hyena | | r
+Lhama | | Llama | | r
+Alpaca | | | | r
+Anta | | Tapir | | r
+Veado | Cervo;Corça | Deer | Ciervo | i
+Alce | | Moose;Elk | | r
+Rena | | Reindeer | Reno | r
+Búfalo | | Buffalo | | r
+Bisão | | Bison | Bisonte | e
+Javali | | Wild boar | Jabalí | r
+Mico-leão-dourado | | Golden lion tamarin | Tití león dorado | r
+Sagui | Mico | Marmoset | Tití | r
+Bugio | Guariba | Howler monkey | Mono aullador | e
+Lobo-guará | | Maned wolf | Aguará guazú | r
+Ornitorrinco | | Platypus | | r
+Equidna | | Echidna | | e
+Gambá | Saruê;Timbu | Opossum | Zarigüeya | r
+Lontra | | Otter | Nutria | r
+Ariranha | | Giant otter | Nutria gigante | e
+Castor | | Beaver | | r
+Porco-espinho | Ouriço-cacheiro;Coendu | Porcupine | Puercoespín | r
+Ouriço | Ouriço-terrestre;Ouriço-europeu | Hedgehog | Erizo | e
+Quati | | Coati | Coatí | r
+Guaxinim | | Raccoon | Mapache | r
+Paca | | | | e
+Cutia | | Agouti | Agutí | e
+Texugo | | Badger | Tejón | e
+Furão | | Ferret | Hurón | e
+Doninha | | Weasel | Comadreja | e
+Suricato | | Meerkat | Suricata | e
+Toupeira | | Mole | Topo | e
+Lêmure | | Lemur | Lémur | e
+Chinchila | | Chinchilla | | e
+Gnu | | Wildebeest | Ñu | e
+Gazela | | Gazelle | Gacela | r
+Antílope | | Antelope | | r
+Impala | | | | l
+Ocapi | | Okapi | | l
+Iaque | | Yak | Yak | l
+Lince | | Lynx | | e
+Jaguatirica | | Ocelot | Ocelote | e
+Coiote | | Coyote | | e
+Chacal | | Jackal | | e
+Lebre | | Hare | Liebre | e
+Mangusto | | Mongoose | Mangosta | l
+Musaranho | | Shrew | Musaraña | l
+Marmota | | Marmot | | l
+Dugongo | | Dugong | | l
+
+== ani-aves | Cite uma ave | facil | animais;aves | https://pt.wikipedia.org/wiki/Aves
+Galinha | Galo;Frango;Pintinho | Chicken;Hen;Rooster | Gallina;Gallo | c
+Pato | | Duck | | c
+Pombo | Pomba | Pigeon;Dove | Paloma | c
+Papagaio | | Parrot | Loro | c
+Arara | | Macaw | Guacamayo | c
+Tucano | | Toucan | Tucán | c
+Coruja | | Owl | Búho;Lechuza | c
+Águia | | Eagle | Águila | c
+Pinguim | | Penguin | Pingüino | c
+Beija-flor | Colibri | Hummingbird | Colibrí | c
+Avestruz | | Ostrich | | c
+Pardal | | Sparrow | Gorrión | c
+Periquito | | Parakeet;Budgie | | c
+Urubu | | Black vulture | Zopilote | i
+Gavião | | Hawk | Gavilán | i
+Falcão | | Falcon | Halcón | i
+Ganso | | Goose | | i
+Peru | | Turkey | | i
+Pavão | | Peacock | Pavo real | i
+Flamingo | | | Flamenco | i
+Cisne | | Swan | | i
+Gaivota | | Seagull | | i
+Bem-te-vi | | Great kiskadee | | i
+Sabiá | | Thrush | Zorzal | i
+Canário | | Canary | Canario | i
+Calopsita | | Cockatiel | Cacatúa ninfa | i
+Pica-pau | | Woodpecker | Pájaro carpintero | i
+João-de-barro | | Rufous hornero | Hornero | i
+Ema | | Rhea | Ñandú | i
+Andorinha | | Swallow | Golondrina | i
+Corvo | | Raven;Crow | Cuervo | i
+Pelicano | | Pelican | Pelícano | r
+Garça | | Heron;Egret | Garza | r
+Cegonha | | Stork | Cigüeña | r
+Tuiuiú | Jaburu | Jabiru | | r
+Quero-quero | | Southern lapwing | Tero | r
+Maritaca | Maitaca | | | r
+Codorna | | Quail | Codorniz | r
+Faisão | | Pheasant | Faisán | r
+Condor | | | Cóndor | r
+Albatroz | | Albatross | Albatros | r
+Kiwi | | | | r
+Emu | Emu | | Emú | e
+Seriema | Siriema | Red-legged seriema | Chuña | e
+Carcará | Caracará | r
+Harpia | Gavião-real | Harpy eagle | Águila harpía | e
+Curió | | | | r
+Trinca-ferro | | | | e
+Pintassilgo | | Goldfinch | Jilguero | e
+Tico-tico | | Rufous-collared sparrow | Chingolo | e
+Rolinha | Rola | | | r
+Juriti | | | | e
+Martim-pescador | | Kingfisher | Martín pescador | e
+Uirapuru | | | | e
+Araponga | | Bellbird | | e
+Guará | | Scarlet ibis | Corocoro | e
+Saracura | | | | e
+Biguá | | Cormorant | Cormorán | l
+Cacatua | | Cockatoo | Cacatúa | r
+Marreco | Marreca | Teal | | e
+Abutre | | Vulture | Buitre | r
+Rouxinol | | Nightingale | Ruiseñor | e
+Melro | | Blackbird | Mirlo | e
+Cotovia | | Lark | Alondra | e
+Mutum | | Curassow | | l
+Jacu | | Guan | | l
+Azulão | | | | l
+Garça-branca | | Great egret | Garza blanca | l
+
+== ani-peixes | Cite um peixe | media | animais;peixes | https://pt.wikipedia.org/wiki/Peixe
+Tubarão | | Shark | Tiburón | c
+Sardinha | | Sardine | Sardina | c
+Atum | | Tuna | Atún | c
+Salmão | | Salmon | Salmón | c
+Bacalhau | | Cod | Bacalao | c
+Tilápia | | Tilapia | | c
+Piranha | | | Piraña | c
+Peixe-palhaço | | Clownfish | Pez payaso | c
+Pirarucu | | Arapaima | Paiche | i
+Tambaqui | | | | i
+Tucunaré | | Peacock bass | | i
+Dourado | | Dorado | | i
+Pintado | Surubim | | Surubí | i
+Lambari | | | | i
+Traíra | | | | i
+Bagre | | Catfish | | i
+Carpa | | Carp | | i
+Truta | | Trout | Trucha | i
+Robalo | | Snook | | i
+Pescada | Pescadinha | Weakfish | | i
+Merluza | | Hake | | r
+Linguado | | Flounder;Sole | Lenguado | i
+Garoupa | | Grouper | | r
+Arraia | Raia | Stingray;Ray | Raya | i
+Moreia | | Moray | Morena | r
+Enguia | | Eel | Anguila | r
+Cavalo-marinho | | Seahorse | Caballito de mar | i
+Baiacu | | Pufferfish | Pez globo | i
+Peixe-dourado | Kinguio;Peixinho-dourado | Goldfish | Pez dorado | r
+Betta | Peixe-de-briga;Beta | Betta;Siamese fighting fish | Pez luchador | r
+Guppy | Lebiste;Barrigudinho | | | r
+Acará | Acará-disco;Acará-bandeira;Disco | | | r
+Pacu | | | | r
+Corvina | | | | r
+Tainha | | Mullet | Lisa | r
+Anchova | Enchova | Anchovy | Anchoa | r
+Cavala | | Mackerel | Caballa | e
+Pargo | | Snapper | | e
+Namorado | | | | e
+Xaréu | | Jack | | e
+Badejo | | | | e
+Cherne | | | | e
+Arenque | | Herring | Arenque | e
+Peixe-espada | | Swordfish | Pez espada | r
+Peixe-leão | | Lionfish | Pez león | e
+Barracuda | | | | e
+Marlim | Agulhão | Marlin | | e
+Peixe-lua | | Sunfish | Pez luna | l
+Piau | Piava | | | e
+Matrinxã | | | | l
+Jaraqui | | | | l
+Pirapitinga | | | | l
+Peixe-voador | | Flying fish | Pez volador | e
+Peixe-bola | | | | l
+
+== ani-insetos | Cite um inseto | media | animais;insetos | https://pt.wikipedia.org/wiki/Insetos
+@nota Só insetos (6 patas). Aranha, escorpião, carrapato e centopeia não valem.
+Formiga | Saúva;Tanajura | Ant | Hormiga | c
+Abelha | | Bee | Abeja | c
+Mosca | | Fly | | c
+Mosquito | Pernilongo | Mosquito | | c
+Barata | | Cockroach | Cucaracha | c
+Borboleta | | Butterfly | | c
+Joaninha | | Ladybug | Mariquita | c
+Gafanhoto | | Grasshopper | Saltamontes | c
+Grilo | | Cricket | Grillo | i
+Cigarra | | Cicada | Chicharra | i
+Besouro | | Beetle | Escarabajo | i
+Libélula | | Dragonfly | | i
+Cupim | Térmita | Termite | Termita | i
+Vespa | Marimbondo | Wasp;Hornet | Avispa | i
+Pulga | | Flea | | i
+Piolho | | Louse;Lice | Piojo | i
+Mariposa | | Moth | Polilla | i
+Louva-a-deus | | Praying mantis;Mantis | Mantis | i
+Vaga-lume | Pirilampo | Firefly | Luciérnaga | i
+Bicho-pau | | Stick insect | Insecto palo | r
+Percevejo | | Stink bug;Bedbug | Chinche | r
+Barbeiro | | Kissing bug | Vinchuca | r
+Aedes aegypti | Mosquito-da-dengue;Aedes | | | i
+Traça | | Silverfish | Lepisma | r
+Bicho-da-seda | | Silkworm | Gusano de seda | r
+Lagarta | | Caterpillar | Oruga | r
+Mamangava | Mamangaba | Bumblebee | Abejorro | e
+Borrachudo | | Black fly | | e
+Bicho-de-pé | | Chigoe flea | Nigua | e
+Esperança | | Katydid | | e
+Lacerdinha | Tripes | Thrips | Trips | l
+Tesourinha | Lacraia-de-jardim | Earwig | Tijereta | e
+Cochonilha | | Scale insect | Cochinilla | l
+Mosca-das-frutas | Drosófila | Fruit fly | Mosca de la fruta | r
+Caruncho | Gorgulho | Weevil | Gorgojo | e
+Escaravelho | | Scarab | | e
+Mosca-branca | | Whitefly | Mosca blanca | l
+Varejeira | Mosca-varejeira | Blowfly | | e
+Mutuca | | Horsefly | Tábano | e
+
+== ani-repteis | Cite um réptil | media | animais;répteis | https://pt.wikipedia.org/wiki/R%C3%A9pteis
+Cobra | Serpente | Snake | Serpiente;Culebra | c
+Jacaré | | Caiman | Caimán;Yacaré | c
+Crocodilo | | Crocodile | Cocodrilo | c
+Tartaruga | | Turtle | Tortuga | c
+Lagarto | | Lizard | | c
+Lagartixa | | Gecko | Lagartija | c
+Jabuti | | Tortoise | | i
+Camaleão | | Chameleon | Camaleón | i
+Iguana | | | | i
+Sucuri | Anaconda | Anaconda | | i
+Jiboia | | Boa | Boa | i
+Cascavel | | Rattlesnake | Serpiente de cascabel | i
+Jararaca | | | | i
+Cobra-coral | Coral | Coral snake | Serpiente de coral | i
+Naja | | | | i
+Píton | Pitão | Python | Pitón | r
+Cágado | | | | r
+Dragão-de-komodo | Komodo | Komodo dragon | Dragón de Komodo | i
+Teiú | | Tegu | | r
+Calango | | | | r
+Tartaruga-marinha | | Sea turtle | Tortuga marina | r
+Surucucu | | Bushmaster | | e
+Víbora | | Viper | Víbora | r
+Mamba | Mamba-negra | | | e
+Aligátor | Aligator | Alligator | Aligátor | r
+Gavial | | Gharial | | l
+Monstro-de-gila | | Gila monster | Monstruo de Gila | l
+Tuatara | | | | l
+Cobra-cega | Anfisbena;Cobra-de-duas-cabeças | Worm lizard | Culebrilla ciega | e
+Basilisco | | Basilisk | | l
+Dragão-barbudo | Pogona | Bearded dragon | Dragón barbudo | e
+Tracajá | | | | e
+Cobra-d'água | | Water snake | Culebra de agua | e
+Caninana | | | | l
+Cobra-real | Cobra-rei;Naja-real | King cobra | Cobra real | e
+
+== ani-fauna-brasileira | Cite um animal nativo da fauna brasileira | media | animais;brasil;fauna | https://pt.wikipedia.org/wiki/Fauna_do_Brasil
+@nota Animais nativos que ocorrem naturalmente no Brasil.
+Onça-pintada | Onça | Jaguar | | c
+Mico-leão-dourado | | Golden lion tamarin | | c
+Capivara | | Capybara | Carpincho | c
+Tucano | | Toucan | Tucán | c
+Arara-azul | | Hyacinth macaw | | c
+Arara-vermelha | | Red-and-green macaw;Scarlet macaw | | i
+Tamanduá-bandeira | Tamanduá | Giant anteater | Oso hormiguero | c
+Lobo-guará | | Maned wolf | Aguará guazú | c
+Bicho-preguiça | Preguiça | Sloth | Perezoso | c
+Tatu | | Armadillo | | c
+Jacaré | Jacaré-do-papo-amarelo | Caiman | Yacaré | c
+Sucuri | Anaconda | Anaconda | | i
+Boto-cor-de-rosa | Boto | Amazon river dolphin | Delfín rosado | i
+Peixe-boi | | Manatee | Manatí | i
+Anta | | Tapir | | i
+Quati | | Coati | Coatí | i
+Ariranha | | Giant otter | | r
+Bugio | Guariba | Howler monkey | | r
+Sagui | Mico | Marmoset | | i
+Jaguatirica | | Ocelot | Ocelote | r
+Cachorro-do-mato | | Crab-eating fox | Zorro de monte | r
+Tatu-bola | | Three-banded armadillo | | i
+Ema | | Rhea | Ñandú | i
+Seriema | Siriema | | | r
+Tuiuiú | Jaburu | Jabiru | | r
+Papagaio | Papagaio-verdadeiro | Parrot | Loro | i
+Sabiá | Sabiá-laranjeira | | | i
+Bem-te-vi | | Great kiskadee | | i
+João-de-barro | | Rufous hornero | Hornero | i
+Pirarucu | | Arapaima | Paiche | i
+Piranha | | | Piraña | i
+Tambaqui | | | | r
+Jabuti | | | | r
+Tartaruga-da-amazônia | | Giant South American turtle | | e
+Cutia | | Agouti | Agutí | r
+Paca | | | | r
+Queixada | | White-lipped peccary | Pecarí labiado | e
+Cateto | Caititu | Collared peccary | Pecarí de collar | e
+Cervo-do-pantanal | | Marsh deer | Ciervo de los pantanos | e
+Veado-campeiro | | Pampas deer | Venado de las pampas | e
+Gambá | Saruê;Timbu | Opossum | Zarigüeya | r
+Muriqui | Mono-carvoeiro | Woolly spider monkey | | e
+Uacari | | Uakari | | l
+Harpia | Gavião-real | Harpy eagle | Águila harpía | r
+Ararinha-azul | | Spix's macaw | Guacamayo de Spix | r
+Onça-parda | Suçuarana;Puma | Cougar;Puma | | r
+Gato-maracajá | Maracajá | Margay | Margay | e
+Irara | | Tayra | | l
+Mão-pelada | | Crab-eating raccoon | Mapache cangrejero | l
+Tatu-canastra | | Giant armadillo | | e
+Baleia-jubarte | Jubarte | Humpback whale | Ballena jorobada | r
+Quero-quero | | Southern lapwing | Tero | r
+Jararaca | | | | r
+Jiboia | | Boa | | r
+Tico-tico | | | | e
+Uirapuru | | | | e
+Mutum | | Curassow | | l
+Sapo-cururu | Cururu | Cane toad | Sapo de caña | r
+Lontra | Lontra-neotropical | Neotropical otter | | e
+Ouriço-cacheiro | Porco-espinho | Porcupine | Coendú | e
+
+== ani-racas-cachorro | Cite uma raça de cachorro | media | animais;cachorros;raças | https://pt.wikipedia.org/wiki/Lista_de_ra%C3%A7as_de_c%C3%A3es
+Labrador | Labrador retriever | | | c
+Golden Retriever | Golden | | | c
+Poodle | Caniche | | Caniche | c
+Pastor-alemão | | German Shepherd | Pastor alemán | c
+Pinscher | | | | c
+Shih-tzu | | | | c
+Pit bull | Pitbull | American Pit Bull Terrier | | c
+Rottweiler | | | | c
+Chihuahua | | | | c
+Yorkshire | Yorkshire terrier | | | c
+Dachshund | Salsicha;Teckel | | Perro salchicha | c
+Bulldog inglês | Bulldog;Buldogue;Buldogue inglês | English Bulldog | Bulldog inglés | c
+Buldogue francês | Bulldog francês;Frenchie | French Bulldog | Bulldog francés | i
+Pug | | | | c
+Husky siberiano | Husky | Siberian Husky | Husky siberiano | c
+Dálmata | | Dalmatian | | c
+Beagle | | | | i
+Boxer | | | | i
+Dobermann | Doberman | | | i
+Border collie | | | | i
+Lhasa apso | Lhasa | | | i
+Maltês | Bichon maltês | Maltese | Maltés | i
+Spitz alemão | Lulu da Pomerânia;Spitz | German Spitz;Pomeranian | Pomerania | i
+Chow chow | | | | i
+Shar-pei | | | | i
+Akita | | | | i
+Shiba inu | Shiba | | | r
+São-bernardo | | Saint Bernard | San Bernardo | i
+Schnauzer | | | | i
+Cocker spaniel | Cocker | | | i
+Basset hound | Basset | | | r
+Bull terrier | | | | r
+Fila brasileiro | Fila | Brazilian Mastiff | | r
+Dogue alemão | Dogue;Dinamarquês | Great Dane | Gran danés | r
+Mastiff | Mastim inglês | | | r
+Galgo | Galgo inglês | Greyhound | | r
+Whippet | | | | e
+Weimaraner | | | | e
+Pointer | | | | e
+Setter irlandês | Setter | Irish Setter | Setter irlandés | e
+Collie | Rough collie | | | r
+Pastor belga | Malinois | Belgian Shepherd | Pastor belga | r
+Pastor australiano | Australian Shepherd | Australian Shepherd | | r
+Boiadeiro bernês | Bernese | Bernese Mountain Dog | Boyero de Berna | e
+Terra-nova | | Newfoundland | Terranova | e
+Samoieda | Samoyeda | Samoyed | Samoyedo | e
+Malamute do Alasca | Malamute | Alaskan Malamute | | e
+Cane corso | | | | r
+Jack Russell terrier | Jack Russell | | | r
+West Highland White Terrier | Westie | | | e
+Bichon frisé | | | | e
+Cavalier King Charles Spaniel | Cavalier | | | e
+Corgi | Welsh corgi | | | r
+Basenji | | | | l
+Galgo afegão | Afghan hound | Afghan Hound | Galgo afgano | e
+Bloodhound | Cão de Santo Humberto | | Sabueso de San Huberto | l
+Staffordshire bull terrier | Staffordshire | | | e
+Terrier brasileiro | Fox paulistinha | Brazilian Terrier | | e
+Pequinês | | Pekingese | Pequinés | r
+Papillon | | | | l
+Rhodesian ridgeback | | | | l
+Pastor-de-shetland | Sheltie | Shetland Sheepdog | | e
+American bully | Bully | | | r
+Buldogue campeiro | | | | l

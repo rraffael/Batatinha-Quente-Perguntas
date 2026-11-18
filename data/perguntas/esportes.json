@@ -1,0 +1,2696 @@
+{
+  "tema": "esportes",
+  "nome": "Esportes",
+  "perguntas": [
+    {
+      "id": "esp-modalidades-paris-2024",
+      "texto": "Cite um esporte (ou modalidade) disputado nos Jogos Olímpicos de Paris 2024",
+      "dificuldade": "facil",
+      "tags": [
+        "olimpíadas",
+        "modalidades"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Jogos_Ol%C3%ADmpicos_de_Ver%C3%A3o_de_2024",
+      "nota": "Vale o esporte ou uma disciplina/prova do programa olímpico de Paris 2024.",
+      "respostas": [
+        {
+          "id": "futebol",
+          "canonica": "Futebol",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Football",
+              "Soccer"
+            ],
+            "es": [
+              "Fútbol"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "volei",
+          "canonica": "Vôlei",
+          "aceitas": [
+            "Voleibol"
+          ],
+          "traducoes": {
+            "en": [
+              "Volleyball"
+            ],
+            "es": [
+              "Voleibol"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "volei-de-praia",
+          "canonica": "Vôlei de praia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Beach volleyball"
+            ],
+            "es": [
+              "Vóley playa"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "basquete",
+          "canonica": "Basquete",
+          "aceitas": [
+            "Basquetebol"
+          ],
+          "traducoes": {
+            "en": [
+              "Basketball"
+            ],
+            "es": [
+              "Baloncesto",
+              "Básquetbol"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "basquete-3x3",
+          "canonica": "Basquete 3x3",
+          "aceitas": [
+            "3x3"
+          ],
+          "traducoes": {
+            "en": [
+              "3x3 basketball"
+            ],
+            "es": [
+              "Baloncesto 3x3"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "natacao",
+          "canonica": "Natação",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Swimming"
+            ],
+            "es": [
+              "Natación"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "atletismo",
+          "canonica": "Atletismo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Athletics",
+              "Track and field"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "ginastica-artistica",
+          "canonica": "Ginástica artística",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Artistic gymnastics"
+            ],
+            "es": [
+              "Gimnasia artística"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "ginastica-ritmica",
+          "canonica": "Ginástica rítmica",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Rhythmic gymnastics"
+            ],
+            "es": [
+              "Gimnasia rítmica"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "ginastica-de-trampolim",
+          "canonica": "Ginástica de trampolim",
+          "aceitas": [
+            "Trampolim acrobático"
+          ],
+          "traducoes": {
+            "en": [
+              "Trampoline"
+            ],
+            "es": [
+              "Gimnasia en trampolín"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "judo",
+          "canonica": "Judô",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "boxe",
+          "canonica": "Boxe",
+          "aceitas": [
+            "Boxe olímpico"
+          ],
+          "traducoes": {
+            "en": [
+              "Boxing"
+            ],
+            "es": [
+              "Boxeo"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "handebol",
+          "canonica": "Handebol",
+          "aceitas": [
+            "Andebol"
+          ],
+          "traducoes": {
+            "en": [
+              "Handball"
+            ],
+            "es": [
+              "Balonmano"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "tenis",
+          "canonica": "Tênis",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Tennis"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "tenis-de-mesa",
+          "canonica": "Tênis de mesa",
+          "aceitas": [
+            "Pingue-pongue",
+            "Ping-pong"
+          ],
+          "traducoes": {
+            "en": [
+              "Table tennis"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "surfe",
+          "canonica": "Surfe",
+          "aceitas": [
+            "Surf"
+          ],
+          "traducoes": {
+            "en": [
+              "Surfing"
+            ],
+            "es": [
+              "Surf"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "skate",
+          "canonica": "Skate",
+          "aceitas": [
+            "Skateboard"
+          ],
+          "traducoes": {
+            "en": [
+              "Skateboarding"
+            ],
+            "es": [
+              "Skateboarding"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "canoagem",
+          "canonica": "Canoagem",
+          "aceitas": [
+            "Canoagem velocidade",
+            "Canoagem slalom"
+          ],
+          "traducoes": {
+            "en": [
+              "Canoeing"
+            ],
+            "es": [
+              "Piragüismo"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "remo",
+          "canonica": "Remo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Rowing"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "vela",
+          "canonica": "Vela",
+          "aceitas": [
+            "Iatismo"
+          ],
+          "traducoes": {
+            "en": [
+              "Sailing"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ciclismo",
+          "canonica": "Ciclismo",
+          "aceitas": [
+            "Ciclismo de estrada",
+            "Ciclismo de pista"
+          ],
+          "traducoes": {
+            "en": [
+              "Cycling"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "bmx",
+          "canonica": "BMX",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "mountain-bike",
+          "canonica": "Mountain bike",
+          "aceitas": [
+            "MTB"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "esgrima",
+          "canonica": "Esgrima",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Fencing"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "hipismo",
+          "canonica": "Hipismo",
+          "aceitas": [
+            "Equitação",
+            "Adestramento"
+          ],
+          "traducoes": {
+            "en": [
+              "Equestrian"
+            ],
+            "es": [
+              "Hípica"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "taekwondo",
+          "canonica": "Taekwondo",
+          "aceitas": [
+            "Tae kwon do"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "levantamento-de-peso",
+          "canonica": "Levantamento de peso",
+          "aceitas": [
+            "Halterofilismo"
+          ],
+          "traducoes": {
+            "en": [
+              "Weightlifting"
+            ],
+            "es": [
+              "Halterofilia"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "luta-livre",
+          "canonica": "Luta livre",
+          "aceitas": [
+            "Luta olímpica"
+          ],
+          "traducoes": {
+            "en": [
+              "Freestyle wrestling",
+              "Wrestling"
+            ],
+            "es": [
+              "Lucha libre"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "luta-greco-romana",
+          "canonica": "Luta greco-romana",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Greco-Roman wrestling"
+            ],
+            "es": [
+              "Lucha grecorromana"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "tiro-esportivo",
+          "canonica": "Tiro esportivo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Shooting"
+            ],
+            "es": [
+              "Tiro deportivo"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "tiro-com-arco",
+          "canonica": "Tiro com arco",
+          "aceitas": [
+            "Arco e flecha"
+          ],
+          "traducoes": {
+            "en": [
+              "Archery"
+            ],
+            "es": [
+              "Tiro con arco"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "triatlo",
+          "canonica": "Triatlo",
+          "aceitas": [
+            "Triathlon"
+          ],
+          "traducoes": {
+            "en": [
+              "Triathlon"
+            ],
+            "es": [
+              "Triatlón"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "pentatlo-moderno",
+          "canonica": "Pentatlo moderno",
+          "aceitas": [
+            "Pentatlo"
+          ],
+          "traducoes": {
+            "en": [
+              "Modern pentathlon"
+            ],
+            "es": [
+              "Pentatlón moderno"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "golfe",
+          "canonica": "Golfe",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Golf"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "rugby",
+          "canonica": "Rugby",
+          "aceitas": [
+            "Rugby sevens",
+            "Rúgbi"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "hoquei-sobre-grama",
+          "canonica": "Hóquei sobre grama",
+          "aceitas": [
+            "Hóquei"
+          ],
+          "traducoes": {
+            "en": [
+              "Field hockey"
+            ],
+            "es": [
+              "Hockey sobre césped"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "badminton",
+          "canonica": "Badminton",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "polo-aquatico",
+          "canonica": "Polo aquático",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Water polo"
+            ],
+            "es": [
+              "Waterpolo"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "saltos-ornamentais",
+          "canonica": "Saltos ornamentais",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Diving"
+            ],
+            "es": [
+              "Saltos"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "nado-artistico",
+          "canonica": "Nado artístico",
+          "aceitas": [
+            "Nado sincronizado"
+          ],
+          "traducoes": {
+            "en": [
+              "Artistic swimming"
+            ],
+            "es": [
+              "Natación artística"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "maratona-aquatica",
+          "canonica": "Maratona aquática",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Marathon swimming",
+              "Open water swimming"
+            ],
+            "es": [
+              "Aguas abiertas"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "breaking",
+          "canonica": "Breaking",
+          "aceitas": [
+            "Breakdance"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "escalada-esportiva",
+          "canonica": "Escalada esportiva",
+          "aceitas": [
+            "Escalada"
+          ],
+          "traducoes": {
+            "en": [
+              "Sport climbing"
+            ],
+            "es": [
+              "Escalada deportiva"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "maratona",
+          "canonica": "Maratona",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Marathon"
+            ],
+            "es": [
+              "Maratón"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "marcha-atletica",
+          "canonica": "Marcha atlética",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Race walking"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "decatlo",
+          "canonica": "Decatlo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Decathlon"
+            ],
+            "es": [
+              "Decatlón"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "heptatlo",
+          "canonica": "Heptatlo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Heptathlon"
+            ],
+            "es": [
+              "Heptatlón"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "salto-com-vara",
+          "canonica": "Salto com vara",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Pole vault"
+            ],
+            "es": [
+              "Salto con pértiga"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "salto-em-distancia",
+          "canonica": "Salto em distância",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Long jump"
+            ],
+            "es": [
+              "Salto de longitud"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "salto-triplo",
+          "canonica": "Salto triplo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Triple jump"
+            ],
+            "es": [
+              "Triple salto"
+            ]
+          },
+          "raridadeInicial": "epico"
+        }
+      ]
+    },
+    {
+      "id": "esp-com-bola",
+      "texto": "Cite um esporte jogado com bola",
+      "dificuldade": "facil",
+      "tags": [
+        "bola",
+        "esportes coletivos"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Lista_de_desportos",
+      "respostas": [
+        {
+          "id": "futebol",
+          "canonica": "Futebol",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Football",
+              "Soccer"
+            ],
+            "es": [
+              "Fútbol"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "volei",
+          "canonica": "Vôlei",
+          "aceitas": [
+            "Voleibol"
+          ],
+          "traducoes": {
+            "en": [
+              "Volleyball"
+            ],
+            "es": [
+              "Voleibol"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "basquete",
+          "canonica": "Basquete",
+          "aceitas": [
+            "Basquetebol"
+          ],
+          "traducoes": {
+            "en": [
+              "Basketball"
+            ],
+            "es": [
+              "Baloncesto"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "handebol",
+          "canonica": "Handebol",
+          "aceitas": [
+            "Andebol"
+          ],
+          "traducoes": {
+            "en": [
+              "Handball"
+            ],
+            "es": [
+              "Balonmano"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "tenis",
+          "canonica": "Tênis",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Tennis"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "futsal",
+          "canonica": "Futsal",
+          "aceitas": [
+            "Futebol de salão"
+          ],
+          "traducoes": {
+            "es": [
+              "Fútbol sala"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "futebol-americano",
+          "canonica": "Futebol americano",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "American football"
+            ],
+            "es": [
+              "Fútbol americano"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "volei-de-praia",
+          "canonica": "Vôlei de praia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Beach volleyball"
+            ],
+            "es": [
+              "Vóley playa"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "tenis-de-mesa",
+          "canonica": "Tênis de mesa",
+          "aceitas": [
+            "Pingue-pongue",
+            "Ping-pong"
+          ],
+          "traducoes": {
+            "en": [
+              "Table tennis"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "golfe",
+          "canonica": "Golfe",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Golf"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "beisebol",
+          "canonica": "Beisebol",
+          "aceitas": [
+            "Baseball"
+          ],
+          "traducoes": {
+            "en": [
+              "Baseball"
+            ],
+            "es": [
+              "Béisbol"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "rugby",
+          "canonica": "Rugby",
+          "aceitas": [
+            "Rúgbi"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "futevolei",
+          "canonica": "Futevôlei",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Footvolley"
+            ],
+            "es": [
+              "Futvóley"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "beach-tennis",
+          "canonica": "Beach tennis",
+          "aceitas": [
+            "Tênis de praia"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "boliche",
+          "canonica": "Boliche",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Bowling"
+            ],
+            "es": [
+              "Bolos"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "sinuca",
+          "canonica": "Sinuca",
+          "aceitas": [
+            "Snooker"
+          ],
+          "traducoes": {
+            "en": [
+              "Snooker"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "bilhar",
+          "canonica": "Bilhar",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Billiards",
+              "Pool"
+            ],
+            "es": [
+              "Billar"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "polo-aquatico",
+          "canonica": "Polo aquático",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Water polo"
+            ],
+            "es": [
+              "Waterpolo"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "futebol-de-areia",
+          "canonica": "Futebol de areia",
+          "aceitas": [
+            "Beach soccer"
+          ],
+          "traducoes": {
+            "en": [
+              "Beach soccer"
+            ],
+            "es": [
+              "Fútbol playa"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "queimada",
+          "canonica": "Queimada",
+          "aceitas": [
+            "Queimado",
+            "Caçador"
+          ],
+          "traducoes": {
+            "en": [
+              "Dodgeball"
+            ],
+            "es": [
+              "Quemados"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "criquete",
+          "canonica": "Críquete",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cricket"
+            ],
+            "es": [
+              "Críquet"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "hoquei-sobre-grama",
+          "canonica": "Hóquei sobre grama",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Field hockey"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "squash",
+          "canonica": "Squash",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "padel",
+          "canonica": "Padel",
+          "aceitas": [
+            "Padel tênis"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "softbol",
+          "canonica": "Softbol",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Softball"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "pelota-basca",
+          "canonica": "Pelota basca",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Basque pelota"
+            ],
+            "es": [
+              "Pelota vasca"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "polo",
+          "canonica": "Polo",
+          "aceitas": [
+            "Polo equestre"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "frescobol",
+          "canonica": "Frescobol",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "bocha",
+          "canonica": "Bocha",
+          "aceitas": [
+            "Bocce"
+          ],
+          "traducoes": {
+            "en": [
+              "Bocce",
+              "Boccia"
+            ],
+            "es": [
+              "Bochas"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "goalball",
+          "canonica": "Goalball",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "lacrosse",
+          "canonica": "Lacrosse",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "sepak-takraw",
+          "canonica": "Sepak takraw",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "korfball",
+          "canonica": "Korfball",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "punhobol",
+          "canonica": "Punhobol",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Fistball"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "netball",
+          "canonica": "Netball",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "showbol",
+          "canonica": "Showbol",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "futebol-society",
+          "canonica": "Futebol society",
+          "aceitas": [
+            "Society",
+            "Futebol sete"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "futebol-gaelico",
+          "canonica": "Futebol gaélico",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Gaelic football"
+            ],
+            "es": [
+              "Fútbol gaélico"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "hurling",
+          "canonica": "Hurling",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "tchoukball",
+          "canonica": "Tchoukball",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "rugby-league",
+          "canonica": "Rugby league",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        }
+      ]
+    },
+    {
+      "id": "esp-campeoes-f1",
+      "texto": "Cite um piloto campeão mundial de Fórmula 1",
+      "dificuldade": "dificil",
+      "tags": [
+        "fórmula 1",
+        "automobilismo"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Lista_de_campe%C3%B5es_mundiais_de_pilotos_de_F%C3%B3rmula_1",
+      "nota": "Campeões mundiais de pilotos até a temporada 2025.",
+      "atualizadoEm": "2026-11",
+      "respostas": [
+        {
+          "id": "ayrton-senna",
+          "canonica": "Ayrton Senna",
+          "aceitas": [
+            "Senna",
+            "Ayrton"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "nelson-piquet",
+          "canonica": "Nelson Piquet",
+          "aceitas": [
+            "Piquet"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "emerson-fittipaldi",
+          "canonica": "Emerson Fittipaldi",
+          "aceitas": [
+            "Fittipaldi",
+            "Emerson"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "michael-schumacher",
+          "canonica": "Michael Schumacher",
+          "aceitas": [
+            "Schumacher",
+            "Schumi"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "lewis-hamilton",
+          "canonica": "Lewis Hamilton",
+          "aceitas": [
+            "Hamilton"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "max-verstappen",
+          "canonica": "Max Verstappen",
+          "aceitas": [
+            "Verstappen"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "alain-prost",
+          "canonica": "Alain Prost",
+          "aceitas": [
+            "Prost"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "niki-lauda",
+          "canonica": "Niki Lauda",
+          "aceitas": [
+            "Lauda"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "fernando-alonso",
+          "canonica": "Fernando Alonso",
+          "aceitas": [
+            "Alonso"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "sebastian-vettel",
+          "canonica": "Sebastian Vettel",
+          "aceitas": [
+            "Vettel"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "kimi-raikkonen",
+          "canonica": "Kimi Räikkönen",
+          "aceitas": [
+            "Räikkönen",
+            "Kimi"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "nigel-mansell",
+          "canonica": "Nigel Mansell",
+          "aceitas": [
+            "Mansell"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "lando-norris",
+          "canonica": "Lando Norris",
+          "aceitas": [
+            "Norris"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "mika-hakkinen",
+          "canonica": "Mika Häkkinen",
+          "aceitas": [
+            "Häkkinen"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "nico-rosberg",
+          "canonica": "Nico Rosberg",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "jenson-button",
+          "canonica": "Jenson Button",
+          "aceitas": [
+            "Button"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "juan-manuel-fangio",
+          "canonica": "Juan Manuel Fangio",
+          "aceitas": [
+            "Fangio"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "jackie-stewart",
+          "canonica": "Jackie Stewart",
+          "aceitas": [
+            "Stewart"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "james-hunt",
+          "canonica": "James Hunt",
+          "aceitas": [
+            "Hunt"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "damon-hill",
+          "canonica": "Damon Hill",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "jacques-villeneuve",
+          "canonica": "Jacques Villeneuve",
+          "aceitas": [
+            "Villeneuve"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "jim-clark",
+          "canonica": "Jim Clark",
+          "aceitas": [
+            "Clark"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "alberto-ascari",
+          "canonica": "Alberto Ascari",
+          "aceitas": [
+            "Ascari"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "jack-brabham",
+          "canonica": "Jack Brabham",
+          "aceitas": [
+            "Brabham"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "graham-hill",
+          "canonica": "Graham Hill",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "mario-andretti",
+          "canonica": "Mario Andretti",
+          "aceitas": [
+            "Andretti"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "keke-rosberg",
+          "canonica": "Keke Rosberg",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "alan-jones",
+          "canonica": "Alan Jones",
+          "aceitas": [
+            "Jones"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "jody-scheckter",
+          "canonica": "Jody Scheckter",
+          "aceitas": [
+            "Scheckter"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "jochen-rindt",
+          "canonica": "Jochen Rindt",
+          "aceitas": [
+            "Rindt"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "john-surtees",
+          "canonica": "John Surtees",
+          "aceitas": [
+            "Surtees"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "denny-hulme",
+          "canonica": "Denny Hulme",
+          "aceitas": [
+            "Hulme"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "phil-hill",
+          "canonica": "Phil Hill",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "mike-hawthorn",
+          "canonica": "Mike Hawthorn",
+          "aceitas": [
+            "Hawthorn"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "giuseppe-farina",
+          "canonica": "Giuseppe Farina",
+          "aceitas": [
+            "Nino Farina",
+            "Farina"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        }
+      ]
+    },
+    {
+      "id": "esp-times-nba",
+      "texto": "Cite um time da NBA",
+      "dificuldade": "media",
+      "tags": [
+        "basquete",
+        "nba",
+        "eua"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/National_Basketball_Association",
+      "atualizadoEm": "2026-11",
+      "respostas": [
+        {
+          "id": "los-angeles-lakers",
+          "canonica": "Los Angeles Lakers",
+          "aceitas": [
+            "Lakers"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "chicago-bulls",
+          "canonica": "Chicago Bulls",
+          "aceitas": [
+            "Bulls"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "boston-celtics",
+          "canonica": "Boston Celtics",
+          "aceitas": [
+            "Celtics"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "golden-state-warriors",
+          "canonica": "Golden State Warriors",
+          "aceitas": [
+            "Warriors"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "miami-heat",
+          "canonica": "Miami Heat",
+          "aceitas": [
+            "Heat"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "new-york-knicks",
+          "canonica": "New York Knicks",
+          "aceitas": [
+            "Knicks"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "san-antonio-spurs",
+          "canonica": "San Antonio Spurs",
+          "aceitas": [
+            "Spurs"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cleveland-cavaliers",
+          "canonica": "Cleveland Cavaliers",
+          "aceitas": [
+            "Cavaliers",
+            "Cavs"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "brooklyn-nets",
+          "canonica": "Brooklyn Nets",
+          "aceitas": [
+            "Nets"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "houston-rockets",
+          "canonica": "Houston Rockets",
+          "aceitas": [
+            "Rockets"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "dallas-mavericks",
+          "canonica": "Dallas Mavericks",
+          "aceitas": [
+            "Mavericks",
+            "Mavs"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "philadelphia-76ers",
+          "canonica": "Philadelphia 76ers",
+          "aceitas": [
+            "76ers",
+            "Sixers"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "orlando-magic",
+          "canonica": "Orlando Magic",
+          "aceitas": [
+            "Magic"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "phoenix-suns",
+          "canonica": "Phoenix Suns",
+          "aceitas": [
+            "Suns"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "milwaukee-bucks",
+          "canonica": "Milwaukee Bucks",
+          "aceitas": [
+            "Bucks"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "denver-nuggets",
+          "canonica": "Denver Nuggets",
+          "aceitas": [
+            "Nuggets"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "toronto-raptors",
+          "canonica": "Toronto Raptors",
+          "aceitas": [
+            "Raptors"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "los-angeles-clippers",
+          "canonica": "Los Angeles Clippers",
+          "aceitas": [
+            "LA Clippers",
+            "Clippers"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "oklahoma-city-thunder",
+          "canonica": "Oklahoma City Thunder",
+          "aceitas": [
+            "Thunder",
+            "OKC"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "detroit-pistons",
+          "canonica": "Detroit Pistons",
+          "aceitas": [
+            "Pistons"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "utah-jazz",
+          "canonica": "Utah Jazz",
+          "aceitas": [
+            "Jazz"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "atlanta-hawks",
+          "canonica": "Atlanta Hawks",
+          "aceitas": [
+            "Hawks"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "indiana-pacers",
+          "canonica": "Indiana Pacers",
+          "aceitas": [
+            "Pacers"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "charlotte-hornets",
+          "canonica": "Charlotte Hornets",
+          "aceitas": [
+            "Hornets"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "portland-trail-blazers",
+          "canonica": "Portland Trail Blazers",
+          "aceitas": [
+            "Trail Blazers",
+            "Blazers"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "sacramento-kings",
+          "canonica": "Sacramento Kings",
+          "aceitas": [
+            "Kings"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "memphis-grizzlies",
+          "canonica": "Memphis Grizzlies",
+          "aceitas": [
+            "Grizzlies"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "minnesota-timberwolves",
+          "canonica": "Minnesota Timberwolves",
+          "aceitas": [
+            "Timberwolves",
+            "Wolves"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "new-orleans-pelicans",
+          "canonica": "New Orleans Pelicans",
+          "aceitas": [
+            "Pelicans"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "washington-wizards",
+          "canonica": "Washington Wizards",
+          "aceitas": [
+            "Wizards"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        }
+      ]
+    },
+    {
+      "id": "esp-times-nfl",
+      "texto": "Cite um time da NFL",
+      "dificuldade": "dificil",
+      "tags": [
+        "futebol americano",
+        "nfl",
+        "eua"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/National_Football_League",
+      "atualizadoEm": "2026-11",
+      "respostas": [
+        {
+          "id": "new-england-patriots",
+          "canonica": "New England Patriots",
+          "aceitas": [
+            "Patriots",
+            "Pats"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "dallas-cowboys",
+          "canonica": "Dallas Cowboys",
+          "aceitas": [
+            "Cowboys"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "kansas-city-chiefs",
+          "canonica": "Kansas City Chiefs",
+          "aceitas": [
+            "Chiefs"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "green-bay-packers",
+          "canonica": "Green Bay Packers",
+          "aceitas": [
+            "Packers"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pittsburgh-steelers",
+          "canonica": "Pittsburgh Steelers",
+          "aceitas": [
+            "Steelers"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "san-francisco-49ers",
+          "canonica": "San Francisco 49ers",
+          "aceitas": [
+            "49ers",
+            "Niners"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "philadelphia-eagles",
+          "canonica": "Philadelphia Eagles",
+          "aceitas": [
+            "Eagles"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "tampa-bay-buccaneers",
+          "canonica": "Tampa Bay Buccaneers",
+          "aceitas": [
+            "Buccaneers",
+            "Bucs"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "miami-dolphins",
+          "canonica": "Miami Dolphins",
+          "aceitas": [
+            "Dolphins"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "new-york-giants",
+          "canonica": "New York Giants",
+          "aceitas": [
+            "Giants"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "seattle-seahawks",
+          "canonica": "Seattle Seahawks",
+          "aceitas": [
+            "Seahawks"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "las-vegas-raiders",
+          "canonica": "Las Vegas Raiders",
+          "aceitas": [
+            "Raiders",
+            "Oakland Raiders"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "denver-broncos",
+          "canonica": "Denver Broncos",
+          "aceitas": [
+            "Broncos"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "baltimore-ravens",
+          "canonica": "Baltimore Ravens",
+          "aceitas": [
+            "Ravens"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "buffalo-bills",
+          "canonica": "Buffalo Bills",
+          "aceitas": [
+            "Bills"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "chicago-bears",
+          "canonica": "Chicago Bears",
+          "aceitas": [
+            "Bears"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "new-york-jets",
+          "canonica": "New York Jets",
+          "aceitas": [
+            "Jets"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "minnesota-vikings",
+          "canonica": "Minnesota Vikings",
+          "aceitas": [
+            "Vikings"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "new-orleans-saints",
+          "canonica": "New Orleans Saints",
+          "aceitas": [
+            "Saints"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "los-angeles-rams",
+          "canonica": "Los Angeles Rams",
+          "aceitas": [
+            "Rams"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "indianapolis-colts",
+          "canonica": "Indianapolis Colts",
+          "aceitas": [
+            "Colts"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "detroit-lions",
+          "canonica": "Detroit Lions",
+          "aceitas": [
+            "Lions"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "atlanta-falcons",
+          "canonica": "Atlanta Falcons",
+          "aceitas": [
+            "Falcons"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "cincinnati-bengals",
+          "canonica": "Cincinnati Bengals",
+          "aceitas": [
+            "Bengals"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "los-angeles-chargers",
+          "canonica": "Los Angeles Chargers",
+          "aceitas": [
+            "Chargers"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "houston-texans",
+          "canonica": "Houston Texans",
+          "aceitas": [
+            "Texans"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "arizona-cardinals",
+          "canonica": "Arizona Cardinals",
+          "aceitas": [
+            "Cardinals"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "carolina-panthers",
+          "canonica": "Carolina Panthers",
+          "aceitas": [
+            "Panthers"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "cleveland-browns",
+          "canonica": "Cleveland Browns",
+          "aceitas": [
+            "Browns"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "jacksonville-jaguars",
+          "canonica": "Jacksonville Jaguars",
+          "aceitas": [
+            "Jaguars"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "tennessee-titans",
+          "canonica": "Tennessee Titans",
+          "aceitas": [
+            "Titans"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "washington-commanders",
+          "canonica": "Washington Commanders",
+          "aceitas": [
+            "Commanders"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        }
+      ]
+    },
+    {
+      "id": "esp-ouro-olimpico-brasil",
+      "texto": "Cite um atleta brasileiro campeão olímpico (medalha de ouro)",
+      "dificuldade": "dificil",
+      "tags": [
+        "olimpíadas",
+        "brasil",
+        "atletas"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Lista_de_medalhistas_ol%C3%ADmpicos_do_Brasil",
+      "nota": "Inclui integrantes de equipes campeãs (vôlei, futebol, vela, vôlei de praia) até Paris 2024.",
+      "atualizadoEm": "2026-11",
+      "respostas": [
+        {
+          "id": "rebeca-andrade",
+          "canonica": "Rebeca Andrade",
+          "aceitas": [
+            "Rebeca"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "neymar",
+          "canonica": "Neymar",
+          "aceitas": [
+            "Neymar Jr"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cesar-cielo",
+          "canonica": "César Cielo",
+          "aceitas": [
+            "Cielo"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "rafaela-silva",
+          "canonica": "Rafaela Silva",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "italo-ferreira",
+          "canonica": "Ítalo Ferreira",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "isaquias-queiroz",
+          "canonica": "Isaquias Queiroz",
+          "aceitas": [
+            "Isaquias"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "arthur-zanetti",
+          "canonica": "Arthur Zanetti",
+          "aceitas": [
+            "Zanetti"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "thiago-braz",
+          "canonica": "Thiago Braz",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "maurren-maggi",
+          "canonica": "Maurren Maggi",
+          "aceitas": [
+            "Maurren"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "robert-scheidt",
+          "canonica": "Robert Scheidt",
+          "aceitas": [
+            "Scheidt"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "torben-grael",
+          "canonica": "Torben Grael",
+          "aceitas": [
+            "Torben"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "sarah-menezes",
+          "canonica": "Sarah Menezes",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "martine-grael",
+          "canonica": "Martine Grael",
+          "aceitas": [
+            "Martine"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "kahena-kunze",
+          "canonica": "Kahena Kunze",
+          "aceitas": [
+            "Kahena"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "robson-conceicao",
+          "canonica": "Robson Conceição",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "hebert-conceicao",
+          "canonica": "Hebert Conceição",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ana-marcela-cunha",
+          "canonica": "Ana Marcela Cunha",
+          "aceitas": [
+            "Ana Marcela"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "beatriz-souza",
+          "canonica": "Beatriz Souza",
+          "aceitas": [
+            "Bia Souza"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ana-patricia",
+          "canonica": "Ana Patrícia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "duda-lisboa",
+          "canonica": "Duda Lisboa",
+          "aceitas": [
+            "Duda"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "giba",
+          "canonica": "Giba",
+          "aceitas": [
+            "Gilberto Godoy Filho"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "serginho",
+          "canonica": "Serginho",
+          "aceitas": [
+            "Escadinha"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "sheilla",
+          "canonica": "Sheilla",
+          "aceitas": [
+            "Sheilla Castro"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "fabiana",
+          "canonica": "Fabiana",
+          "aceitas": [
+            "Fabiana Claudino"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "jaqueline-carvalho",
+          "canonica": "Jaqueline Carvalho",
+          "aceitas": [
+            "Jaqueline",
+            "Jaque"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "fofao",
+          "canonica": "Fofão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "thaisa",
+          "canonica": "Thaisa",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "paula-pequeno",
+          "canonica": "Paula Pequeno",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "fabi",
+          "canonica": "Fabi",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "mari",
+          "canonica": "Mari",
+          "aceitas": [
+            "Marianne Steinbrecher"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "dani-lins",
+          "canonica": "Dani Lins",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "fernanda-garay",
+          "canonica": "Fernanda Garay",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "natalia-pereira",
+          "canonica": "Natália Pereira",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "tandara",
+          "canonica": "Tandara",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "bruninho",
+          "canonica": "Bruninho",
+          "aceitas": [
+            "Bruno Rezende"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "lucao",
+          "canonica": "Lucão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "wallace",
+          "canonica": "Wallace",
+          "aceitas": [
+            "Wallace de Souza"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "lucarelli",
+          "canonica": "Lucarelli",
+          "aceitas": [
+            "Ricardo Lucarelli"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "tande",
+          "canonica": "Tande",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "giovane-gavio",
+          "canonica": "Giovane Gávio",
+          "aceitas": [
+            "Giovane"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "marcelo-negrao",
+          "canonica": "Marcelo Negrão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "mauricio-lima",
+          "canonica": "Maurício Lima",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "carlao",
+          "canonica": "Carlão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "nalbert",
+          "canonica": "Nalbert",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ricardinho",
+          "canonica": "Ricardinho",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "dante",
+          "canonica": "Dante",
+          "aceitas": [
+            "Dante Amaral"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "gustavo-endres",
+          "canonica": "Gustavo Endres",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "ricardo-santos",
+          "canonica": "Ricardo Santos",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "emanuel-rego",
+          "canonica": "Emanuel Rego",
+          "aceitas": [
+            "Emanuel"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "alison-cerutti",
+          "canonica": "Alison Cerutti",
+          "aceitas": [
+            "Alison",
+            "Mamute"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "bruno-schmidt",
+          "canonica": "Bruno Schmidt",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "jacqueline-silva",
+          "canonica": "Jacqueline Silva",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "sandra-pires",
+          "canonica": "Sandra Pires",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "rodrigo-pessoa",
+          "canonica": "Rodrigo Pessoa",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "marcelo-ferreira",
+          "canonica": "Marcelo Ferreira",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "adhemar-ferreira-da-silva",
+          "canonica": "Adhemar Ferreira da Silva",
+          "aceitas": [
+            "Adhemar"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "joaquim-cruz",
+          "canonica": "Joaquim Cruz",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "aurelio-miguel",
+          "canonica": "Aurélio Miguel",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "rogerio-sampaio",
+          "canonica": "Rogério Sampaio",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "guilherme-paraense",
+          "canonica": "Guilherme Paraense",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "gabriel-jesus",
+          "canonica": "Gabriel Jesus",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "gabigol",
+          "canonica": "Gabigol",
+          "aceitas": [
+            "Gabriel Barbosa"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "marquinhos",
+          "canonica": "Marquinhos",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "weverton",
+          "canonica": "Weverton",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "renato-augusto",
+          "canonica": "Renato Augusto",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "daniel-alves",
+          "canonica": "Daniel Alves",
+          "aceitas": [
+            "Dani Alves"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "richarlison",
+          "canonica": "Richarlison",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "bruno-guimaraes",
+          "canonica": "Bruno Guimarães",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "matheus-cunha",
+          "canonica": "Matheus Cunha",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "malcom",
+          "canonica": "Malcom",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "antony",
+          "canonica": "Antony",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "douglas-luiz",
+          "canonica": "Douglas Luiz",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "claudinho",
+          "canonica": "Claudinho",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "batata-quenta",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "banco": "node scripts/gerar-banco.mjs",
+    "dev": "npm run banco && vite dev",
+    "build": "npm run banco && vite build",
+    "preview": "npm run build && vite preview",
+    "deploy": "npm run build && wrangler deploy",
+    "check": "npm run banco && tsc -p src/client && tsc -p src/server && tsc -p test",
+    "test": "npm run banco && vitest run",
+    "perguntas:gerar": "node scripts/gerar-perguntas.mjs",
+    "perguntas:validar": "node scripts/validar-perguntas.mjs"
+  },
+  "dependencies": {
+    "preact": "^10.26.9"
+  },
+  "devDependencies": {
+    "@cloudflare/vite-plugin": "^1.70.0",
+    "@cloudflare/workers-types": "^5.20261118.1",
+    "@preact/preset-vite": "^2.10.6",
+    "typescript": "^5.9.2",
+    "vite": "^8.3.8",
+    "vitest": "^5.1.1",
+    "wrangler": "^4.164.0"
+  },
+  "engines": {
+    "node": ">=22.12"
+  }
+}

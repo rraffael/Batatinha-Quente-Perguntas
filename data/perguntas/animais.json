@@ -1,0 +1,5258 @@
+{
+  "tema": "animais",
+  "nome": "Animais",
+  "perguntas": [
+    {
+      "id": "ani-mamiferos",
+      "texto": "Cite um mamífero",
+      "dificuldade": "facil",
+      "tags": [
+        "animais",
+        "mamíferos"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Mam%C3%ADferos",
+      "respostas": [
+        {
+          "id": "cachorro",
+          "canonica": "Cachorro",
+          "aceitas": [
+            "Cão",
+            "Cadela",
+            "Cachorra"
+          ],
+          "traducoes": {
+            "en": [
+              "Dog"
+            ],
+            "es": [
+              "Perro"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "gato",
+          "canonica": "Gato",
+          "aceitas": [
+            "Gata"
+          ],
+          "traducoes": {
+            "en": [
+              "Cat"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cavalo",
+          "canonica": "Cavalo",
+          "aceitas": [
+            "Égua",
+            "Potro"
+          ],
+          "traducoes": {
+            "en": [
+              "Horse"
+            ],
+            "es": [
+              "Caballo"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "vaca",
+          "canonica": "Vaca",
+          "aceitas": [
+            "Boi",
+            "Touro",
+            "Bezerro"
+          ],
+          "traducoes": {
+            "en": [
+              "Cow"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "porco",
+          "canonica": "Porco",
+          "aceitas": [
+            "Porca",
+            "Leitão"
+          ],
+          "traducoes": {
+            "en": [
+              "Pig"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "leao",
+          "canonica": "Leão",
+          "aceitas": [
+            "Leoa"
+          ],
+          "traducoes": {
+            "en": [
+              "Lion"
+            ],
+            "es": [
+              "León"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "tigre",
+          "canonica": "Tigre",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Tiger"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "elefante",
+          "canonica": "Elefante",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Elephant"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "girafa",
+          "canonica": "Girafa",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Giraffe"
+            ],
+            "es": [
+              "Jirafa"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "macaco",
+          "canonica": "Macaco",
+          "aceitas": [
+            "Macaca"
+          ],
+          "traducoes": {
+            "en": [
+              "Monkey"
+            ],
+            "es": [
+              "Mono"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "ovelha",
+          "canonica": "Ovelha",
+          "aceitas": [
+            "Carneiro",
+            "Cordeiro"
+          ],
+          "traducoes": {
+            "en": [
+              "Sheep"
+            ],
+            "es": [
+              "Oveja"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "coelho",
+          "canonica": "Coelho",
+          "aceitas": [
+            "Coelha"
+          ],
+          "traducoes": {
+            "en": [
+              "Rabbit"
+            ],
+            "es": [
+              "Conejo"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "rato",
+          "canonica": "Rato",
+          "aceitas": [
+            "Ratazana"
+          ],
+          "traducoes": {
+            "en": [
+              "Rat"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "baleia",
+          "canonica": "Baleia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Whale"
+            ],
+            "es": [
+              "Ballena"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "golfinho",
+          "canonica": "Golfinho",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Dolphin"
+            ],
+            "es": [
+              "Delfín"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "urso",
+          "canonica": "Urso",
+          "aceitas": [
+            "Ursa"
+          ],
+          "traducoes": {
+            "en": [
+              "Bear"
+            ],
+            "es": [
+              "Oso"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "zebra",
+          "canonica": "Zebra",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cabra",
+          "canonica": "Cabra",
+          "aceitas": [
+            "Bode"
+          ],
+          "traducoes": {
+            "en": [
+              "Goat"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "onca-pintada",
+          "canonica": "Onça-pintada",
+          "aceitas": [
+            "Onça",
+            "Jaguar"
+          ],
+          "traducoes": {
+            "en": [
+              "Jaguar"
+            ],
+            "es": [
+              "Jaguar"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "morcego",
+          "canonica": "Morcego",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Bat"
+            ],
+            "es": [
+              "Murciélago"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "hipopotamo",
+          "canonica": "Hipopótamo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Hippopotamus",
+              "Hippo"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "rinoceronte",
+          "canonica": "Rinoceronte",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Rhinoceros",
+              "Rhino"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "camelo",
+          "canonica": "Camelo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Camel"
+            ],
+            "es": [
+              "Camello"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "dromedario",
+          "canonica": "Dromedário",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Dromedary"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "lobo",
+          "canonica": "Lobo",
+          "aceitas": [
+            "Loba"
+          ],
+          "traducoes": {
+            "en": [
+              "Wolf"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "raposa",
+          "canonica": "Raposa",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Fox"
+            ],
+            "es": [
+              "Zorro"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "canguru",
+          "canonica": "Canguru",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Kangaroo"
+            ],
+            "es": [
+              "Canguro"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "coala",
+          "canonica": "Coala",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Koala"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "panda",
+          "canonica": "Panda",
+          "aceitas": [
+            "Panda-gigante"
+          ],
+          "traducoes": {
+            "es": [
+              "Oso panda"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "urso-polar",
+          "canonica": "Urso-polar",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Polar bear"
+            ],
+            "es": [
+              "Oso polar"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "gorila",
+          "canonica": "Gorila",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Gorilla"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "chimpanze",
+          "canonica": "Chimpanzé",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Chimpanzee"
+            ],
+            "es": [
+              "Chimpancé"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "orangotango",
+          "canonica": "Orangotango",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Orangutan"
+            ],
+            "es": [
+              "Orangután"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "capivara",
+          "canonica": "Capivara",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Capybara"
+            ],
+            "es": [
+              "Carpincho"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tamandua",
+          "canonica": "Tamanduá",
+          "aceitas": [
+            "Tamanduá-bandeira"
+          ],
+          "traducoes": {
+            "en": [
+              "Anteater"
+            ],
+            "es": [
+              "Oso hormiguero"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "preguica",
+          "canonica": "Preguiça",
+          "aceitas": [
+            "Bicho-preguiça"
+          ],
+          "traducoes": {
+            "en": [
+              "Sloth"
+            ],
+            "es": [
+              "Perezoso"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tatu",
+          "canonica": "Tatu",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Armadillo"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "hamster",
+          "canonica": "Hamster",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "porquinho-da-india",
+          "canonica": "Porquinho-da-índia",
+          "aceitas": [
+            "Cobaia",
+            "Preá"
+          ],
+          "traducoes": {
+            "en": [
+              "Guinea pig"
+            ],
+            "es": [
+              "Cobayo",
+              "Cuy"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "camundongo",
+          "canonica": "Camundongo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Mouse"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "burro",
+          "canonica": "Burro",
+          "aceitas": [
+            "Jumento",
+            "Jegue",
+            "Asno"
+          ],
+          "traducoes": {
+            "en": [
+              "Donkey"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "mula",
+          "canonica": "Mula",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Mule"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "esquilo",
+          "canonica": "Esquilo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Squirrel"
+            ],
+            "es": [
+              "Ardilla"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "foca",
+          "canonica": "Foca",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Seal"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "leao-marinho",
+          "canonica": "Leão-marinho",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Sea lion"
+            ],
+            "es": [
+              "León marino"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "morsa",
+          "canonica": "Morsa",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Walrus"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "orca",
+          "canonica": "Orca",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Killer whale"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "peixe-boi",
+          "canonica": "Peixe-boi",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Manatee"
+            ],
+            "es": [
+              "Manatí"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "boto",
+          "canonica": "Boto",
+          "aceitas": [
+            "Boto-cor-de-rosa"
+          ],
+          "traducoes": {
+            "en": [
+              "Amazon river dolphin"
+            ],
+            "es": [
+              "Delfín rosado"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "leopardo",
+          "canonica": "Leopardo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "guepardo",
+          "canonica": "Guepardo",
+          "aceitas": [
+            "Chita"
+          ],
+          "traducoes": {
+            "en": [
+              "Cheetah"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "puma",
+          "canonica": "Puma",
+          "aceitas": [
+            "Onça-parda",
+            "Suçuarana"
+          ],
+          "traducoes": {
+            "en": [
+              "Cougar",
+              "Mountain lion"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "hiena",
+          "canonica": "Hiena",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Hyena"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "lhama",
+          "canonica": "Lhama",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Llama"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "alpaca",
+          "canonica": "Alpaca",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "anta",
+          "canonica": "Anta",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Tapir"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "veado",
+          "canonica": "Veado",
+          "aceitas": [
+            "Cervo",
+            "Corça"
+          ],
+          "traducoes": {
+            "en": [
+              "Deer"
+            ],
+            "es": [
+              "Ciervo"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "alce",
+          "canonica": "Alce",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Moose",
+              "Elk"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "rena",
+          "canonica": "Rena",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Reindeer"
+            ],
+            "es": [
+              "Reno"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "bufalo",
+          "canonica": "Búfalo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Buffalo"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "bisao",
+          "canonica": "Bisão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Bison"
+            ],
+            "es": [
+              "Bisonte"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "javali",
+          "canonica": "Javali",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Wild boar"
+            ],
+            "es": [
+              "Jabalí"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "mico-leao-dourado",
+          "canonica": "Mico-leão-dourado",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Golden lion tamarin"
+            ],
+            "es": [
+              "Tití león dorado"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "sagui",
+          "canonica": "Sagui",
+          "aceitas": [
+            "Mico"
+          ],
+          "traducoes": {
+            "en": [
+              "Marmoset"
+            ],
+            "es": [
+              "Tití"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "bugio",
+          "canonica": "Bugio",
+          "aceitas": [
+            "Guariba"
+          ],
+          "traducoes": {
+            "en": [
+              "Howler monkey"
+            ],
+            "es": [
+              "Mono aullador"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "lobo-guara",
+          "canonica": "Lobo-guará",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Maned wolf"
+            ],
+            "es": [
+              "Aguará guazú"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ornitorrinco",
+          "canonica": "Ornitorrinco",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Platypus"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "equidna",
+          "canonica": "Equidna",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Echidna"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "gamba",
+          "canonica": "Gambá",
+          "aceitas": [
+            "Saruê",
+            "Timbu"
+          ],
+          "traducoes": {
+            "en": [
+              "Opossum"
+            ],
+            "es": [
+              "Zarigüeya"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "lontra",
+          "canonica": "Lontra",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Otter"
+            ],
+            "es": [
+              "Nutria"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ariranha",
+          "canonica": "Ariranha",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Giant otter"
+            ],
+            "es": [
+              "Nutria gigante"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "castor",
+          "canonica": "Castor",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Beaver"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "porco-espinho",
+          "canonica": "Porco-espinho",
+          "aceitas": [
+            "Ouriço-cacheiro",
+            "Coendu"
+          ],
+          "traducoes": {
+            "en": [
+              "Porcupine"
+            ],
+            "es": [
+              "Puercoespín"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ourico",
+          "canonica": "Ouriço",
+          "aceitas": [
+            "Ouriço-terrestre",
+            "Ouriço-europeu"
+          ],
+          "traducoes": {
+            "en": [
+              "Hedgehog"
+            ],
+            "es": [
+              "Erizo"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "quati",
+          "canonica": "Quati",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Coati"
+            ],
+            "es": [
+              "Coatí"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "guaxinim",
+          "canonica": "Guaxinim",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Raccoon"
+            ],
+            "es": [
+              "Mapache"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "paca",
+          "canonica": "Paca",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "cutia",
+          "canonica": "Cutia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Agouti"
+            ],
+            "es": [
+              "Agutí"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "texugo",
+          "canonica": "Texugo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Badger"
+            ],
+            "es": [
+              "Tejón"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "furao",
+          "canonica": "Furão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Ferret"
+            ],
+            "es": [
+              "Hurón"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "doninha",
+          "canonica": "Doninha",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Weasel"
+            ],
+            "es": [
+              "Comadreja"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "suricato",
+          "canonica": "Suricato",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Meerkat"
+            ],
+            "es": [
+              "Suricata"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "toupeira",
+          "canonica": "Toupeira",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Mole"
+            ],
+            "es": [
+              "Topo"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "lemure",
+          "canonica": "Lêmure",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Lemur"
+            ],
+            "es": [
+              "Lémur"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "chinchila",
+          "canonica": "Chinchila",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Chinchilla"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "gnu",
+          "canonica": "Gnu",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Wildebeest"
+            ],
+            "es": [
+              "Ñu"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "gazela",
+          "canonica": "Gazela",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Gazelle"
+            ],
+            "es": [
+              "Gacela"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "antilope",
+          "canonica": "Antílope",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Antelope"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "impala",
+          "canonica": "Impala",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "ocapi",
+          "canonica": "Ocapi",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Okapi"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "iaque",
+          "canonica": "Iaque",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Yak"
+            ],
+            "es": [
+              "Yak"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "lince",
+          "canonica": "Lince",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Lynx"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "jaguatirica",
+          "canonica": "Jaguatirica",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Ocelot"
+            ],
+            "es": [
+              "Ocelote"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "coiote",
+          "canonica": "Coiote",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Coyote"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "chacal",
+          "canonica": "Chacal",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Jackal"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "lebre",
+          "canonica": "Lebre",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Hare"
+            ],
+            "es": [
+              "Liebre"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "mangusto",
+          "canonica": "Mangusto",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Mongoose"
+            ],
+            "es": [
+              "Mangosta"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "musaranho",
+          "canonica": "Musaranho",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Shrew"
+            ],
+            "es": [
+              "Musaraña"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "marmota",
+          "canonica": "Marmota",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Marmot"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "dugongo",
+          "canonica": "Dugongo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Dugong"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        }
+      ]
+    },
+    {
+      "id": "ani-aves",
+      "texto": "Cite uma ave",
+      "dificuldade": "facil",
+      "tags": [
+        "animais",
+        "aves"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Aves",
+      "respostas": [
+        {
+          "id": "galinha",
+          "canonica": "Galinha",
+          "aceitas": [
+            "Galo",
+            "Frango",
+            "Pintinho"
+          ],
+          "traducoes": {
+            "en": [
+              "Chicken",
+              "Hen",
+              "Rooster"
+            ],
+            "es": [
+              "Gallina",
+              "Gallo"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pato",
+          "canonica": "Pato",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Duck"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pombo",
+          "canonica": "Pombo",
+          "aceitas": [
+            "Pomba"
+          ],
+          "traducoes": {
+            "en": [
+              "Pigeon",
+              "Dove"
+            ],
+            "es": [
+              "Paloma"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "papagaio",
+          "canonica": "Papagaio",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Parrot"
+            ],
+            "es": [
+              "Loro"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "arara",
+          "canonica": "Arara",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Macaw"
+            ],
+            "es": [
+              "Guacamayo"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "tucano",
+          "canonica": "Tucano",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Toucan"
+            ],
+            "es": [
+              "Tucán"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "coruja",
+          "canonica": "Coruja",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Owl"
+            ],
+            "es": [
+              "Búho",
+              "Lechuza"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "aguia",
+          "canonica": "Águia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Eagle"
+            ],
+            "es": [
+              "Águila"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pinguim",
+          "canonica": "Pinguim",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Penguin"
+            ],
+            "es": [
+              "Pingüino"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "beija-flor",
+          "canonica": "Beija-flor",
+          "aceitas": [
+            "Colibri"
+          ],
+          "traducoes": {
+            "en": [
+              "Hummingbird"
+            ],
+            "es": [
+              "Colibrí"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "avestruz",
+          "canonica": "Avestruz",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Ostrich"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pardal",
+          "canonica": "Pardal",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Sparrow"
+            ],
+            "es": [
+              "Gorrión"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "periquito",
+          "canonica": "Periquito",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Parakeet",
+              "Budgie"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "urubu",
+          "canonica": "Urubu",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Black vulture"
+            ],
+            "es": [
+              "Zopilote"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "gaviao",
+          "canonica": "Gavião",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Hawk"
+            ],
+            "es": [
+              "Gavilán"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "falcao",
+          "canonica": "Falcão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Falcon"
+            ],
+            "es": [
+              "Halcón"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "ganso",
+          "canonica": "Ganso",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Goose"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "peru",
+          "canonica": "Peru",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Turkey"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pavao",
+          "canonica": "Pavão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Peacock"
+            ],
+            "es": [
+              "Pavo real"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "flamingo",
+          "canonica": "Flamingo",
+          "aceitas": [],
+          "traducoes": {
+            "es": [
+              "Flamenco"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cisne",
+          "canonica": "Cisne",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Swan"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "gaivota",
+          "canonica": "Gaivota",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Seagull"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "bem-te-vi",
+          "canonica": "Bem-te-vi",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Great kiskadee"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "sabia",
+          "canonica": "Sabiá",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Thrush"
+            ],
+            "es": [
+              "Zorzal"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "canario",
+          "canonica": "Canário",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Canary"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "calopsita",
+          "canonica": "Calopsita",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cockatiel"
+            ],
+            "es": [
+              "Cacatúa ninfa"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "pica-pau",
+          "canonica": "Pica-pau",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Woodpecker"
+            ],
+            "es": [
+              "Pájaro carpintero"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "joao-de-barro",
+          "canonica": "João-de-barro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Rufous hornero"
+            ],
+            "es": [
+              "Hornero"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ema",
+          "canonica": "Ema",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Rhea"
+            ],
+            "es": [
+              "Ñandú"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "andorinha",
+          "canonica": "Andorinha",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Swallow"
+            ],
+            "es": [
+              "Golondrina"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "corvo",
+          "canonica": "Corvo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Raven",
+              "Crow"
+            ],
+            "es": [
+              "Cuervo"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "pelicano",
+          "canonica": "Pelicano",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Pelican"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "garca",
+          "canonica": "Garça",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Heron",
+              "Egret"
+            ],
+            "es": [
+              "Garza"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cegonha",
+          "canonica": "Cegonha",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Stork"
+            ],
+            "es": [
+              "Cigüeña"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tuiuiu",
+          "canonica": "Tuiuiú",
+          "aceitas": [
+            "Jaburu"
+          ],
+          "traducoes": {
+            "en": [
+              "Jabiru"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "quero-quero",
+          "canonica": "Quero-quero",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Southern lapwing"
+            ],
+            "es": [
+              "Tero"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "maritaca",
+          "canonica": "Maritaca",
+          "aceitas": [
+            "Maitaca"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "codorna",
+          "canonica": "Codorna",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Quail"
+            ],
+            "es": [
+              "Codorniz"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "faisao",
+          "canonica": "Faisão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Pheasant"
+            ],
+            "es": [
+              "Faisán"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "condor",
+          "canonica": "Condor",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "albatroz",
+          "canonica": "Albatroz",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Albatross"
+            ],
+            "es": [
+              "Albatros"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "kiwi",
+          "canonica": "Kiwi",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "emu",
+          "canonica": "Emu",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "seriema",
+          "canonica": "Seriema",
+          "aceitas": [
+            "Siriema"
+          ],
+          "traducoes": {
+            "en": [
+              "Red-legged seriema"
+            ],
+            "es": [
+              "Chuña"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "carcara",
+          "canonica": "Carcará",
+          "aceitas": [
+            "Caracará"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "harpia",
+          "canonica": "Harpia",
+          "aceitas": [
+            "Gavião-real"
+          ],
+          "traducoes": {
+            "en": [
+              "Harpy eagle"
+            ],
+            "es": [
+              "Águila harpía"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "curio",
+          "canonica": "Curió",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "trinca-ferro",
+          "canonica": "Trinca-ferro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "pintassilgo",
+          "canonica": "Pintassilgo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Goldfinch"
+            ],
+            "es": [
+              "Jilguero"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "tico-tico",
+          "canonica": "Tico-tico",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Rufous-collared sparrow"
+            ],
+            "es": [
+              "Chingolo"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "rolinha",
+          "canonica": "Rolinha",
+          "aceitas": [
+            "Rola"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "juriti",
+          "canonica": "Juriti",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "martim-pescador",
+          "canonica": "Martim-pescador",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Kingfisher"
+            ],
+            "es": [
+              "Martín pescador"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "uirapuru",
+          "canonica": "Uirapuru",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "araponga",
+          "canonica": "Araponga",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Bellbird"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "guara",
+          "canonica": "Guará",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Scarlet ibis"
+            ],
+            "es": [
+              "Corocoro"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "saracura",
+          "canonica": "Saracura",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "bigua",
+          "canonica": "Biguá",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cormorant"
+            ],
+            "es": [
+              "Cormorán"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "cacatua",
+          "canonica": "Cacatua",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cockatoo"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "marreco",
+          "canonica": "Marreco",
+          "aceitas": [
+            "Marreca"
+          ],
+          "traducoes": {
+            "en": [
+              "Teal"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "abutre",
+          "canonica": "Abutre",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Vulture"
+            ],
+            "es": [
+              "Buitre"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "rouxinol",
+          "canonica": "Rouxinol",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Nightingale"
+            ],
+            "es": [
+              "Ruiseñor"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "melro",
+          "canonica": "Melro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Blackbird"
+            ],
+            "es": [
+              "Mirlo"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "cotovia",
+          "canonica": "Cotovia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Lark"
+            ],
+            "es": [
+              "Alondra"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "mutum",
+          "canonica": "Mutum",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Curassow"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "jacu",
+          "canonica": "Jacu",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Guan"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "azulao",
+          "canonica": "Azulão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "garca-branca",
+          "canonica": "Garça-branca",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Great egret"
+            ],
+            "es": [
+              "Garza blanca"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        }
+      ]
+    },
+    {
+      "id": "ani-peixes",
+      "texto": "Cite um peixe",
+      "dificuldade": "media",
+      "tags": [
+        "animais",
+        "peixes"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Peixe",
+      "respostas": [
+        {
+          "id": "tubarao",
+          "canonica": "Tubarão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Shark"
+            ],
+            "es": [
+              "Tiburón"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "sardinha",
+          "canonica": "Sardinha",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Sardine"
+            ],
+            "es": [
+              "Sardina"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "atum",
+          "canonica": "Atum",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Tuna"
+            ],
+            "es": [
+              "Atún"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "salmao",
+          "canonica": "Salmão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Salmon"
+            ],
+            "es": [
+              "Salmón"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "bacalhau",
+          "canonica": "Bacalhau",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cod"
+            ],
+            "es": [
+              "Bacalao"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "tilapia",
+          "canonica": "Tilápia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "piranha",
+          "canonica": "Piranha",
+          "aceitas": [],
+          "traducoes": {
+            "es": [
+              "Piraña"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "peixe-palhaco",
+          "canonica": "Peixe-palhaço",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Clownfish"
+            ],
+            "es": [
+              "Pez payaso"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pirarucu",
+          "canonica": "Pirarucu",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Arapaima"
+            ],
+            "es": [
+              "Paiche"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "tambaqui",
+          "canonica": "Tambaqui",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "tucunare",
+          "canonica": "Tucunaré",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Peacock bass"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "dourado",
+          "canonica": "Dourado",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Dorado"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pintado",
+          "canonica": "Pintado",
+          "aceitas": [
+            "Surubim"
+          ],
+          "traducoes": {
+            "es": [
+              "Surubí"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "lambari",
+          "canonica": "Lambari",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "traira",
+          "canonica": "Traíra",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "bagre",
+          "canonica": "Bagre",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Catfish"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "carpa",
+          "canonica": "Carpa",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Carp"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "truta",
+          "canonica": "Truta",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Trout"
+            ],
+            "es": [
+              "Trucha"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "robalo",
+          "canonica": "Robalo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Snook"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "pescada",
+          "canonica": "Pescada",
+          "aceitas": [
+            "Pescadinha"
+          ],
+          "traducoes": {
+            "en": [
+              "Weakfish"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "merluza",
+          "canonica": "Merluza",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Hake"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "linguado",
+          "canonica": "Linguado",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Flounder",
+              "Sole"
+            ],
+            "es": [
+              "Lenguado"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "garoupa",
+          "canonica": "Garoupa",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Grouper"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "arraia",
+          "canonica": "Arraia",
+          "aceitas": [
+            "Raia"
+          ],
+          "traducoes": {
+            "en": [
+              "Stingray",
+              "Ray"
+            ],
+            "es": [
+              "Raya"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "moreia",
+          "canonica": "Moreia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Moray"
+            ],
+            "es": [
+              "Morena"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "enguia",
+          "canonica": "Enguia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Eel"
+            ],
+            "es": [
+              "Anguila"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cavalo-marinho",
+          "canonica": "Cavalo-marinho",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Seahorse"
+            ],
+            "es": [
+              "Caballito de mar"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "baiacu",
+          "canonica": "Baiacu",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Pufferfish"
+            ],
+            "es": [
+              "Pez globo"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "peixe-dourado",
+          "canonica": "Peixe-dourado",
+          "aceitas": [
+            "Kinguio",
+            "Peixinho-dourado"
+          ],
+          "traducoes": {
+            "en": [
+              "Goldfish"
+            ],
+            "es": [
+              "Pez dorado"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "betta",
+          "canonica": "Betta",
+          "aceitas": [
+            "Peixe-de-briga",
+            "Beta"
+          ],
+          "traducoes": {
+            "en": [
+              "Siamese fighting fish"
+            ],
+            "es": [
+              "Pez luchador"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "guppy",
+          "canonica": "Guppy",
+          "aceitas": [
+            "Lebiste",
+            "Barrigudinho"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "acara",
+          "canonica": "Acará",
+          "aceitas": [
+            "Acará-disco",
+            "Acará-bandeira",
+            "Disco"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "pacu",
+          "canonica": "Pacu",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "corvina",
+          "canonica": "Corvina",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "tainha",
+          "canonica": "Tainha",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Mullet"
+            ],
+            "es": [
+              "Lisa"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "anchova",
+          "canonica": "Anchova",
+          "aceitas": [
+            "Enchova"
+          ],
+          "traducoes": {
+            "en": [
+              "Anchovy"
+            ],
+            "es": [
+              "Anchoa"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "cavala",
+          "canonica": "Cavala",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Mackerel"
+            ],
+            "es": [
+              "Caballa"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "pargo",
+          "canonica": "Pargo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Snapper"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "namorado",
+          "canonica": "Namorado",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "xareu",
+          "canonica": "Xaréu",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Jack"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "badejo",
+          "canonica": "Badejo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "cherne",
+          "canonica": "Cherne",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "arenque",
+          "canonica": "Arenque",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Herring"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "peixe-espada",
+          "canonica": "Peixe-espada",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Swordfish"
+            ],
+            "es": [
+              "Pez espada"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "peixe-leao",
+          "canonica": "Peixe-leão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Lionfish"
+            ],
+            "es": [
+              "Pez león"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "barracuda",
+          "canonica": "Barracuda",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "marlim",
+          "canonica": "Marlim",
+          "aceitas": [
+            "Agulhão"
+          ],
+          "traducoes": {
+            "en": [
+              "Marlin"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "peixe-lua",
+          "canonica": "Peixe-lua",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Sunfish"
+            ],
+            "es": [
+              "Pez luna"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "piau",
+          "canonica": "Piau",
+          "aceitas": [
+            "Piava"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "matrinxa",
+          "canonica": "Matrinxã",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "jaraqui",
+          "canonica": "Jaraqui",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "pirapitinga",
+          "canonica": "Pirapitinga",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "peixe-voador",
+          "canonica": "Peixe-voador",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Flying fish"
+            ],
+            "es": [
+              "Pez volador"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "peixe-bola",
+          "canonica": "Peixe-bola",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        }
+      ]
+    },
+    {
+      "id": "ani-insetos",
+      "texto": "Cite um inseto",
+      "dificuldade": "media",
+      "tags": [
+        "animais",
+        "insetos"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Insetos",
+      "nota": "Só insetos (6 patas). Aranha, escorpião, carrapato e centopeia não valem.",
+      "respostas": [
+        {
+          "id": "formiga",
+          "canonica": "Formiga",
+          "aceitas": [
+            "Saúva",
+            "Tanajura"
+          ],
+          "traducoes": {
+            "en": [
+              "Ant"
+            ],
+            "es": [
+              "Hormiga"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "abelha",
+          "canonica": "Abelha",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Bee"
+            ],
+            "es": [
+              "Abeja"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "mosca",
+          "canonica": "Mosca",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Fly"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "mosquito",
+          "canonica": "Mosquito",
+          "aceitas": [
+            "Pernilongo"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "barata",
+          "canonica": "Barata",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cockroach"
+            ],
+            "es": [
+              "Cucaracha"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "borboleta",
+          "canonica": "Borboleta",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Butterfly"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "joaninha",
+          "canonica": "Joaninha",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Ladybug"
+            ],
+            "es": [
+              "Mariquita"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "gafanhoto",
+          "canonica": "Gafanhoto",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Grasshopper"
+            ],
+            "es": [
+              "Saltamontes"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "grilo",
+          "canonica": "Grilo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cricket"
+            ],
+            "es": [
+              "Grillo"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cigarra",
+          "canonica": "Cigarra",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cicada"
+            ],
+            "es": [
+              "Chicharra"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "besouro",
+          "canonica": "Besouro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Beetle"
+            ],
+            "es": [
+              "Escarabajo"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "libelula",
+          "canonica": "Libélula",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Dragonfly"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cupim",
+          "canonica": "Cupim",
+          "aceitas": [
+            "Térmita"
+          ],
+          "traducoes": {
+            "en": [
+              "Termite"
+            ],
+            "es": [
+              "Termita"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "vespa",
+          "canonica": "Vespa",
+          "aceitas": [
+            "Marimbondo"
+          ],
+          "traducoes": {
+            "en": [
+              "Wasp",
+              "Hornet"
+            ],
+            "es": [
+              "Avispa"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "pulga",
+          "canonica": "Pulga",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Flea"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "piolho",
+          "canonica": "Piolho",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Louse",
+              "Lice"
+            ],
+            "es": [
+              "Piojo"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "mariposa",
+          "canonica": "Mariposa",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Moth"
+            ],
+            "es": [
+              "Polilla"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "louva-a-deus",
+          "canonica": "Louva-a-deus",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Praying mantis",
+              "Mantis"
+            ],
+            "es": [
+              "Mantis"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "vaga-lume",
+          "canonica": "Vaga-lume",
+          "aceitas": [
+            "Pirilampo"
+          ],
+          "traducoes": {
+            "en": [
+              "Firefly"
+            ],
+            "es": [
+              "Luciérnaga"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "bicho-pau",
+          "canonica": "Bicho-pau",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Stick insect"
+            ],
+            "es": [
+              "Insecto palo"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "percevejo",
+          "canonica": "Percevejo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Stink bug",
+              "Bedbug"
+            ],
+            "es": [
+              "Chinche"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "barbeiro",
+          "canonica": "Barbeiro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Kissing bug"
+            ],
+            "es": [
+              "Vinchuca"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "aedes-aegypti",
+          "canonica": "Aedes aegypti",
+          "aceitas": [
+            "Mosquito-da-dengue",
+            "Aedes"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "traca",
+          "canonica": "Traça",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Silverfish"
+            ],
+            "es": [
+              "Lepisma"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "bicho-da-seda",
+          "canonica": "Bicho-da-seda",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Silkworm"
+            ],
+            "es": [
+              "Gusano de seda"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "lagarta",
+          "canonica": "Lagarta",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Caterpillar"
+            ],
+            "es": [
+              "Oruga"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "mamangava",
+          "canonica": "Mamangava",
+          "aceitas": [
+            "Mamangaba"
+          ],
+          "traducoes": {
+            "en": [
+              "Bumblebee"
+            ],
+            "es": [
+              "Abejorro"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "borrachudo",
+          "canonica": "Borrachudo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Black fly"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "bicho-de-pe",
+          "canonica": "Bicho-de-pé",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Chigoe flea"
+            ],
+            "es": [
+              "Nigua"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "esperanca",
+          "canonica": "Esperança",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Katydid"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "lacerdinha",
+          "canonica": "Lacerdinha",
+          "aceitas": [
+            "Tripes"
+          ],
+          "traducoes": {
+            "en": [
+              "Thrips"
+            ],
+            "es": [
+              "Trips"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "tesourinha",
+          "canonica": "Tesourinha",
+          "aceitas": [
+            "Lacraia-de-jardim"
+          ],
+          "traducoes": {
+            "en": [
+              "Earwig"
+            ],
+            "es": [
+              "Tijereta"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "cochonilha",
+          "canonica": "Cochonilha",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Scale insect"
+            ],
+            "es": [
+              "Cochinilla"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "mosca-das-frutas",
+          "canonica": "Mosca-das-frutas",
+          "aceitas": [
+            "Drosófila"
+          ],
+          "traducoes": {
+            "en": [
+              "Fruit fly"
+            ],
+            "es": [
+              "Mosca de la fruta"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "caruncho",
+          "canonica": "Caruncho",
+          "aceitas": [
+            "Gorgulho"
+          ],
+          "traducoes": {
+            "en": [
+              "Weevil"
+            ],
+            "es": [
+              "Gorgojo"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "escaravelho",
+          "canonica": "Escaravelho",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Scarab"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "mosca-branca",
+          "canonica": "Mosca-branca",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Whitefly"
+            ],
+            "es": [
+              "Mosca blanca"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "varejeira",
+          "canonica": "Varejeira",
+          "aceitas": [
+            "Mosca-varejeira"
+          ],
+          "traducoes": {
+            "en": [
+              "Blowfly"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "mutuca",
+          "canonica": "Mutuca",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Horsefly"
+            ],
+            "es": [
+              "Tábano"
+            ]
+          },
+          "raridadeInicial": "epico"
+        }
+      ]
+    },
+    {
+      "id": "ani-repteis",
+      "texto": "Cite um réptil",
+      "dificuldade": "media",
+      "tags": [
+        "animais",
+        "répteis"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/R%C3%A9pteis",
+      "respostas": [
+        {
+          "id": "cobra",
+          "canonica": "Cobra",
+          "aceitas": [
+            "Serpente"
+          ],
+          "traducoes": {
+            "en": [
+              "Snake"
+            ],
+            "es": [
+              "Serpiente",
+              "Culebra"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "jacare",
+          "canonica": "Jacaré",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Caiman"
+            ],
+            "es": [
+              "Caimán",
+              "Yacaré"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "crocodilo",
+          "canonica": "Crocodilo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Crocodile"
+            ],
+            "es": [
+              "Cocodrilo"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "tartaruga",
+          "canonica": "Tartaruga",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Turtle"
+            ],
+            "es": [
+              "Tortuga"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "lagarto",
+          "canonica": "Lagarto",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Lizard"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "lagartixa",
+          "canonica": "Lagartixa",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Gecko"
+            ],
+            "es": [
+              "Lagartija"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "jabuti",
+          "canonica": "Jabuti",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Tortoise"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "camaleao",
+          "canonica": "Camaleão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Chameleon"
+            ],
+            "es": [
+              "Camaleón"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "iguana",
+          "canonica": "Iguana",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "sucuri",
+          "canonica": "Sucuri",
+          "aceitas": [
+            "Anaconda"
+          ],
+          "traducoes": {
+            "en": [
+              "Anaconda"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "jiboia",
+          "canonica": "Jiboia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Boa"
+            ],
+            "es": [
+              "Boa"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cascavel",
+          "canonica": "Cascavel",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Rattlesnake"
+            ],
+            "es": [
+              "Serpiente de cascabel"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "jararaca",
+          "canonica": "Jararaca",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cobra-coral",
+          "canonica": "Cobra-coral",
+          "aceitas": [
+            "Coral"
+          ],
+          "traducoes": {
+            "en": [
+              "Coral snake"
+            ],
+            "es": [
+              "Serpiente de coral"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "naja",
+          "canonica": "Naja",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "piton",
+          "canonica": "Píton",
+          "aceitas": [
+            "Pitão"
+          ],
+          "traducoes": {
+            "en": [
+              "Python"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cagado",
+          "canonica": "Cágado",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "dragao-de-komodo",
+          "canonica": "Dragão-de-komodo",
+          "aceitas": [
+            "Komodo"
+          ],
+          "traducoes": {
+            "en": [
+              "Komodo dragon"
+            ],
+            "es": [
+              "Dragón de Komodo"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "teiu",
+          "canonica": "Teiú",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Tegu"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "calango",
+          "canonica": "Calango",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tartaruga-marinha",
+          "canonica": "Tartaruga-marinha",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Sea turtle"
+            ],
+            "es": [
+              "Tortuga marina"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "surucucu",
+          "canonica": "Surucucu",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Bushmaster"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "vibora",
+          "canonica": "Víbora",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Viper"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "mamba",
+          "canonica": "Mamba",
+          "aceitas": [
+            "Mamba-negra"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "aligator",
+          "canonica": "Aligátor",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Alligator"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "gavial",
+          "canonica": "Gavial",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Gharial"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "monstro-de-gila",
+          "canonica": "Monstro-de-gila",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Gila monster"
+            ],
+            "es": [
+              "Monstruo de Gila"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "tuatara",
+          "canonica": "Tuatara",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "cobra-cega",
+          "canonica": "Cobra-cega",
+          "aceitas": [
+            "Anfisbena",
+            "Cobra-de-duas-cabeças"
+          ],
+          "traducoes": {
+            "en": [
+              "Worm lizard"
+            ],
+            "es": [
+              "Culebrilla ciega"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "basilisco",
+          "canonica": "Basilisco",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Basilisk"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "dragao-barbudo",
+          "canonica": "Dragão-barbudo",
+          "aceitas": [
+            "Pogona"
+          ],
+          "traducoes": {
+            "en": [
+              "Bearded dragon"
+            ],
+            "es": [
+              "Dragón barbudo"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "tracaja",
+          "canonica": "Tracajá",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "cobra-d-agua",
+          "canonica": "Cobra-d'água",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Water snake"
+            ],
+            "es": [
+              "Culebra de agua"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "caninana",
+          "canonica": "Caninana",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "cobra-real",
+          "canonica": "Cobra-real",
+          "aceitas": [
+            "Cobra-rei",
+            "Naja-real"
+          ],
+          "traducoes": {
+            "en": [
+              "King cobra"
+            ]
+          },
+          "raridadeInicial": "epico"
+        }
+      ]
+    },
+    {
+      "id": "ani-fauna-brasileira",
+      "texto": "Cite um animal nativo da fauna brasileira",
+      "dificuldade": "media",
+      "tags": [
+        "animais",
+        "brasil",
+        "fauna"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Fauna_do_Brasil",
+      "nota": "Animais nativos que ocorrem naturalmente no Brasil.",
+      "respostas": [
+        {
+          "id": "onca-pintada",
+          "canonica": "Onça-pintada",
+          "aceitas": [
+            "Onça"
+          ],
+          "traducoes": {
+            "en": [
+              "Jaguar"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "mico-leao-dourado",
+          "canonica": "Mico-leão-dourado",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Golden lion tamarin"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "capivara",
+          "canonica": "Capivara",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Capybara"
+            ],
+            "es": [
+              "Carpincho"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "tucano",
+          "canonica": "Tucano",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Toucan"
+            ],
+            "es": [
+              "Tucán"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "arara-azul",
+          "canonica": "Arara-azul",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Hyacinth macaw"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "arara-vermelha",
+          "canonica": "Arara-vermelha",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Red-and-green macaw",
+              "Scarlet macaw"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "tamandua-bandeira",
+          "canonica": "Tamanduá-bandeira",
+          "aceitas": [
+            "Tamanduá"
+          ],
+          "traducoes": {
+            "en": [
+              "Giant anteater"
+            ],
+            "es": [
+              "Oso hormiguero"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "lobo-guara",
+          "canonica": "Lobo-guará",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Maned wolf"
+            ],
+            "es": [
+              "Aguará guazú"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "bicho-preguica",
+          "canonica": "Bicho-preguiça",
+          "aceitas": [
+            "Preguiça"
+          ],
+          "traducoes": {
+            "en": [
+              "Sloth"
+            ],
+            "es": [
+              "Perezoso"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "tatu",
+          "canonica": "Tatu",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Armadillo"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "jacare",
+          "canonica": "Jacaré",
+          "aceitas": [
+            "Jacaré-do-papo-amarelo"
+          ],
+          "traducoes": {
+            "en": [
+              "Caiman"
+            ],
+            "es": [
+              "Yacaré"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "sucuri",
+          "canonica": "Sucuri",
+          "aceitas": [
+            "Anaconda"
+          ],
+          "traducoes": {
+            "en": [
+              "Anaconda"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "boto-cor-de-rosa",
+          "canonica": "Boto-cor-de-rosa",
+          "aceitas": [
+            "Boto"
+          ],
+          "traducoes": {
+            "en": [
+              "Amazon river dolphin"
+            ],
+            "es": [
+              "Delfín rosado"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "peixe-boi",
+          "canonica": "Peixe-boi",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Manatee"
+            ],
+            "es": [
+              "Manatí"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "anta",
+          "canonica": "Anta",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Tapir"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "quati",
+          "canonica": "Quati",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Coati"
+            ],
+            "es": [
+              "Coatí"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "ariranha",
+          "canonica": "Ariranha",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Giant otter"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "bugio",
+          "canonica": "Bugio",
+          "aceitas": [
+            "Guariba"
+          ],
+          "traducoes": {
+            "en": [
+              "Howler monkey"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "sagui",
+          "canonica": "Sagui",
+          "aceitas": [
+            "Mico"
+          ],
+          "traducoes": {
+            "en": [
+              "Marmoset"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "jaguatirica",
+          "canonica": "Jaguatirica",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Ocelot"
+            ],
+            "es": [
+              "Ocelote"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cachorro-do-mato",
+          "canonica": "Cachorro-do-mato",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Crab-eating fox"
+            ],
+            "es": [
+              "Zorro de monte"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tatu-bola",
+          "canonica": "Tatu-bola",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Three-banded armadillo"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "ema",
+          "canonica": "Ema",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Rhea"
+            ],
+            "es": [
+              "Ñandú"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "seriema",
+          "canonica": "Seriema",
+          "aceitas": [
+            "Siriema"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tuiuiu",
+          "canonica": "Tuiuiú",
+          "aceitas": [
+            "Jaburu"
+          ],
+          "traducoes": {
+            "en": [
+              "Jabiru"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "papagaio",
+          "canonica": "Papagaio",
+          "aceitas": [
+            "Papagaio-verdadeiro"
+          ],
+          "traducoes": {
+            "en": [
+              "Parrot"
+            ],
+            "es": [
+              "Loro"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "sabia",
+          "canonica": "Sabiá",
+          "aceitas": [
+            "Sabiá-laranjeira"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "bem-te-vi",
+          "canonica": "Bem-te-vi",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Great kiskadee"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "joao-de-barro",
+          "canonica": "João-de-barro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Rufous hornero"
+            ],
+            "es": [
+              "Hornero"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "pirarucu",
+          "canonica": "Pirarucu",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Arapaima"
+            ],
+            "es": [
+              "Paiche"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "piranha",
+          "canonica": "Piranha",
+          "aceitas": [],
+          "traducoes": {
+            "es": [
+              "Piraña"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tambaqui",
+          "canonica": "Tambaqui",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "jabuti",
+          "canonica": "Jabuti",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tartaruga-da-amazonia",
+          "canonica": "Tartaruga-da-amazônia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Giant South American turtle"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "cutia",
+          "canonica": "Cutia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Agouti"
+            ],
+            "es": [
+              "Agutí"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "paca",
+          "canonica": "Paca",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "queixada",
+          "canonica": "Queixada",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "White-lipped peccary"
+            ],
+            "es": [
+              "Pecarí labiado"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "cateto",
+          "canonica": "Cateto",
+          "aceitas": [
+            "Caititu"
+          ],
+          "traducoes": {
+            "en": [
+              "Collared peccary"
+            ],
+            "es": [
+              "Pecarí de collar"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "cervo-do-pantanal",
+          "canonica": "Cervo-do-pantanal",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Marsh deer"
+            ],
+            "es": [
+              "Ciervo de los pantanos"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "veado-campeiro",
+          "canonica": "Veado-campeiro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Pampas deer"
+            ],
+            "es": [
+              "Venado de las pampas"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "gamba",
+          "canonica": "Gambá",
+          "aceitas": [
+            "Saruê",
+            "Timbu"
+          ],
+          "traducoes": {
+            "en": [
+              "Opossum"
+            ],
+            "es": [
+              "Zarigüeya"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "muriqui",
+          "canonica": "Muriqui",
+          "aceitas": [
+            "Mono-carvoeiro"
+          ],
+          "traducoes": {
+            "en": [
+              "Woolly spider monkey"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "uacari",
+          "canonica": "Uacari",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Uakari"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "harpia",
+          "canonica": "Harpia",
+          "aceitas": [
+            "Gavião-real"
+          ],
+          "traducoes": {
+            "en": [
+              "Harpy eagle"
+            ],
+            "es": [
+              "Águila harpía"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ararinha-azul",
+          "canonica": "Ararinha-azul",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Spix's macaw"
+            ],
+            "es": [
+              "Guacamayo de Spix"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "onca-parda",
+          "canonica": "Onça-parda",
+          "aceitas": [
+            "Suçuarana",
+            "Puma"
+          ],
+          "traducoes": {
+            "en": [
+              "Cougar",
+              "Puma"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "gato-maracaja",
+          "canonica": "Gato-maracajá",
+          "aceitas": [
+            "Maracajá"
+          ],
+          "traducoes": {
+            "en": [
+              "Margay"
+            ],
+            "es": [
+              "Margay"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "irara",
+          "canonica": "Irara",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Tayra"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "mao-pelada",
+          "canonica": "Mão-pelada",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Crab-eating raccoon"
+            ],
+            "es": [
+              "Mapache cangrejero"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "tatu-canastra",
+          "canonica": "Tatu-canastra",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Giant armadillo"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "baleia-jubarte",
+          "canonica": "Baleia-jubarte",
+          "aceitas": [
+            "Jubarte"
+          ],
+          "traducoes": {
+            "en": [
+              "Humpback whale"
+            ],
+            "es": [
+              "Ballena jorobada"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "quero-quero",
+          "canonica": "Quero-quero",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Southern lapwing"
+            ],
+            "es": [
+              "Tero"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "jararaca",
+          "canonica": "Jararaca",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "jiboia",
+          "canonica": "Jiboia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Boa"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "tico-tico",
+          "canonica": "Tico-tico",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "uirapuru",
+          "canonica": "Uirapuru",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "mutum",
+          "canonica": "Mutum",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Curassow"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "sapo-cururu",
+          "canonica": "Sapo-cururu",
+          "aceitas": [
+            "Cururu"
+          ],
+          "traducoes": {
+            "en": [
+              "Cane toad"
+            ],
+            "es": [
+              "Sapo de caña"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "lontra",
+          "canonica": "Lontra",
+          "aceitas": [
+            "Lontra-neotropical"
+          ],
+          "traducoes": {
+            "en": [
+              "Neotropical otter"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "ourico-cacheiro",
+          "canonica": "Ouriço-cacheiro",
+          "aceitas": [
+            "Porco-espinho"
+          ],
+          "traducoes": {
+            "en": [
+              "Porcupine"
+            ],
+            "es": [
+              "Coendú"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        }
+      ]
+    },
+    {
+      "id": "ani-racas-cachorro",
+      "texto": "Cite uma raça de cachorro",
+      "dificuldade": "media",
+      "tags": [
+        "animais",
+        "cachorros",
+        "raças"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Lista_de_ra%C3%A7as_de_c%C3%A3es",
+      "respostas": [
+        {
+          "id": "labrador",
+          "canonica": "Labrador",
+          "aceitas": [
+            "Labrador retriever"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "golden-retriever",
+          "canonica": "Golden Retriever",
+          "aceitas": [
+            "Golden"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "poodle",
+          "canonica": "Poodle",
+          "aceitas": [
+            "Caniche"
+          ],
+          "traducoes": {
+            "es": [
+              "Caniche"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pastor-alemao",
+          "canonica": "Pastor-alemão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "German Shepherd"
+            ],
+            "es": [
+              "Pastor alemán"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pinscher",
+          "canonica": "Pinscher",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "shih-tzu",
+          "canonica": "Shih-tzu",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pit-bull",
+          "canonica": "Pit bull",
+          "aceitas": [
+            "Pitbull"
+          ],
+          "traducoes": {
+            "en": [
+              "American Pit Bull Terrier"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "rottweiler",
+          "canonica": "Rottweiler",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "chihuahua",
+          "canonica": "Chihuahua",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "yorkshire",
+          "canonica": "Yorkshire",
+          "aceitas": [
+            "Yorkshire terrier"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "dachshund",
+          "canonica": "Dachshund",
+          "aceitas": [
+            "Salsicha",
+            "Teckel"
+          ],
+          "traducoes": {
+            "es": [
+              "Perro salchicha"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "bulldog-ingles",
+          "canonica": "Bulldog inglês",
+          "aceitas": [
+            "Bulldog",
+            "Buldogue",
+            "Buldogue inglês"
+          ],
+          "traducoes": {
+            "en": [
+              "English Bulldog"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "buldogue-frances",
+          "canonica": "Buldogue francês",
+          "aceitas": [
+            "Bulldog francês",
+            "Frenchie"
+          ],
+          "traducoes": {
+            "en": [
+              "French Bulldog"
+            ],
+            "es": [
+              "Bulldog francés"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pug",
+          "canonica": "Pug",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "husky-siberiano",
+          "canonica": "Husky siberiano",
+          "aceitas": [
+            "Husky"
+          ],
+          "traducoes": {
+            "en": [
+              "Siberian Husky"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "dalmata",
+          "canonica": "Dálmata",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Dalmatian"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "beagle",
+          "canonica": "Beagle",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "boxer",
+          "canonica": "Boxer",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "dobermann",
+          "canonica": "Dobermann",
+          "aceitas": [
+            "Doberman"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "border-collie",
+          "canonica": "Border collie",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "lhasa-apso",
+          "canonica": "Lhasa apso",
+          "aceitas": [
+            "Lhasa"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "maltes",
+          "canonica": "Maltês",
+          "aceitas": [
+            "Bichon maltês"
+          ],
+          "traducoes": {
+            "en": [
+              "Maltese"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "spitz-alemao",
+          "canonica": "Spitz alemão",
+          "aceitas": [
+            "Lulu da Pomerânia",
+            "Spitz"
+          ],
+          "traducoes": {
+            "en": [
+              "German Spitz",
+              "Pomeranian"
+            ],
+            "es": [
+              "Pomerania"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "chow-chow",
+          "canonica": "Chow chow",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "shar-pei",
+          "canonica": "Shar-pei",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "akita",
+          "canonica": "Akita",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "shiba-inu",
+          "canonica": "Shiba inu",
+          "aceitas": [
+            "Shiba"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "sao-bernardo",
+          "canonica": "São-bernardo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Saint Bernard"
+            ],
+            "es": [
+              "San Bernardo"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "schnauzer",
+          "canonica": "Schnauzer",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cocker-spaniel",
+          "canonica": "Cocker spaniel",
+          "aceitas": [
+            "Cocker"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "basset-hound",
+          "canonica": "Basset hound",
+          "aceitas": [
+            "Basset"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "bull-terrier",
+          "canonica": "Bull terrier",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "fila-brasileiro",
+          "canonica": "Fila brasileiro",
+          "aceitas": [
+            "Fila"
+          ],
+          "traducoes": {
+            "en": [
+              "Brazilian Mastiff"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "dogue-alemao",
+          "canonica": "Dogue alemão",
+          "aceitas": [
+            "Dogue",
+            "Dinamarquês"
+          ],
+          "traducoes": {
+            "en": [
+              "Great Dane"
+            ],
+            "es": [
+              "Gran danés"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "mastiff",
+          "canonica": "Mastiff",
+          "aceitas": [
+            "Mastim inglês"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "galgo",
+          "canonica": "Galgo",
+          "aceitas": [
+            "Galgo inglês"
+          ],
+          "traducoes": {
+            "en": [
+              "Greyhound"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "whippet",
+          "canonica": "Whippet",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "weimaraner",
+          "canonica": "Weimaraner",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "pointer",
+          "canonica": "Pointer",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "setter-irlandes",
+          "canonica": "Setter irlandês",
+          "aceitas": [
+            "Setter"
+          ],
+          "traducoes": {
+            "en": [
+              "Irish Setter"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "collie",
+          "canonica": "Collie",
+          "aceitas": [
+            "Rough collie"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "pastor-belga",
+          "canonica": "Pastor belga",
+          "aceitas": [
+            "Malinois"
+          ],
+          "traducoes": {
+            "en": [
+              "Belgian Shepherd"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "pastor-australiano",
+          "canonica": "Pastor australiano",
+          "aceitas": [
+            "Australian Shepherd"
+          ],
+          "traducoes": {
+            "en": [
+              "Australian Shepherd"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "boiadeiro-bernes",
+          "canonica": "Boiadeiro bernês",
+          "aceitas": [
+            "Bernese"
+          ],
+          "traducoes": {
+            "en": [
+              "Bernese Mountain Dog"
+            ],
+            "es": [
+              "Boyero de Berna"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "terra-nova",
+          "canonica": "Terra-nova",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Newfoundland"
+            ],
+            "es": [
+              "Terranova"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "samoieda",
+          "canonica": "Samoieda",
+          "aceitas": [
+            "Samoyeda"
+          ],
+          "traducoes": {
+            "en": [
+              "Samoyed"
+            ],
+            "es": [
+              "Samoyedo"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "malamute-do-alasca",
+          "canonica": "Malamute do Alasca",
+          "aceitas": [
+            "Malamute"
+          ],
+          "traducoes": {
+            "en": [
+              "Alaskan Malamute"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "cane-corso",
+          "canonica": "Cane corso",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "jack-russell-terrier",
+          "canonica": "Jack Russell terrier",
+          "aceitas": [
+            "Jack Russell"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "west-highland-white-terrier",
+          "canonica": "West Highland White Terrier",
+          "aceitas": [
+            "Westie"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "bichon-frise",
+          "canonica": "Bichon frisé",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "cavalier-king-charles-spaniel",
+          "canonica": "Cavalier King Charles Spaniel",
+          "aceitas": [
+            "Cavalier"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "corgi",
+          "canonica": "Corgi",
+          "aceitas": [
+            "Welsh corgi"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "basenji",
+          "canonica": "Basenji",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "galgo-afegao",
+          "canonica": "Galgo afegão",
+          "aceitas": [
+            "Afghan hound"
+          ],
+          "traducoes": {
+            "en": [
+              "Afghan Hound"
+            ],
+            "es": [
+              "Galgo afgano"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "bloodhound",
+          "canonica": "Bloodhound",
+          "aceitas": [
+            "Cão de Santo Humberto"
+          ],
+          "traducoes": {
+            "es": [
+              "Sabueso de San Huberto"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "staffordshire-bull-terrier",
+          "canonica": "Staffordshire bull terrier",
+          "aceitas": [
+            "Staffordshire"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "terrier-brasileiro",
+          "canonica": "Terrier brasileiro",
+          "aceitas": [
+            "Fox paulistinha"
+          ],
+          "traducoes": {
+            "en": [
+              "Brazilian Terrier"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "pequines",
+          "canonica": "Pequinês",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Pekingese"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "papillon",
+          "canonica": "Papillon",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "rhodesian-ridgeback",
+          "canonica": "Rhodesian ridgeback",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "pastor-de-shetland",
+          "canonica": "Pastor-de-shetland",
+          "aceitas": [
+            "Sheltie"
+          ],
+          "traducoes": {
+            "en": [
+              "Shetland Sheepdog"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "american-bully",
+          "canonica": "American bully",
+          "aceitas": [
+            "Bully"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "buldogue-campeiro",
+          "canonica": "Buldogue campeiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        }
+      ]
+    }
+  ]
+}

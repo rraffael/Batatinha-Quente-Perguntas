@@ -1,0 +1,3415 @@
+{
+  "tema": "marcas-empresas",
+  "nome": "Marcas e Empresas",
+  "perguntas": [
+    {
+      "id": "mar-montadoras",
+      "texto": "Cite uma marca (montadora) de carro",
+      "dificuldade": "facil",
+      "tags": [
+        "carros",
+        "montadoras"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Lista_de_fabricantes_de_autom%C3%B3veis",
+      "respostas": [
+        {
+          "id": "volkswagen",
+          "canonica": "Volkswagen",
+          "aceitas": [
+            "VW"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "fiat",
+          "canonica": "Fiat",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "chevrolet",
+          "canonica": "Chevrolet",
+          "aceitas": [
+            "GM",
+            "Chevy"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "ford",
+          "canonica": "Ford",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "toyota",
+          "canonica": "Toyota",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "honda",
+          "canonica": "Honda",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "hyundai",
+          "canonica": "Hyundai",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "renault",
+          "canonica": "Renault",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "ferrari",
+          "canonica": "Ferrari",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "peugeot",
+          "canonica": "Peugeot",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "bmw",
+          "canonica": "BMW",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "mercedes-benz",
+          "canonica": "Mercedes-Benz",
+          "aceitas": [
+            "Mercedes"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "nissan",
+          "canonica": "Nissan",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "jeep",
+          "canonica": "Jeep",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "audi",
+          "canonica": "Audi",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "citroen",
+          "canonica": "Citroën",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "mitsubishi",
+          "canonica": "Mitsubishi",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "kia",
+          "canonica": "Kia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "volvo",
+          "canonica": "Volvo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "lamborghini",
+          "canonica": "Lamborghini",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "porsche",
+          "canonica": "Porsche",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tesla",
+          "canonica": "Tesla",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "byd",
+          "canonica": "BYD",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "caoa-chery",
+          "canonica": "Caoa Chery",
+          "aceitas": [
+            "Chery"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "suzuki",
+          "canonica": "Suzuki",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "land-rover",
+          "canonica": "Land Rover",
+          "aceitas": [
+            "Range Rover"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "jaguar",
+          "canonica": "Jaguar",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "mini",
+          "canonica": "Mini",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "dodge",
+          "canonica": "Dodge",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ram",
+          "canonica": "RAM",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "chrysler",
+          "canonica": "Chrysler",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "subaru",
+          "canonica": "Subaru",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "mazda",
+          "canonica": "Mazda",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "lexus",
+          "canonica": "Lexus",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "maserati",
+          "canonica": "Maserati",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "alfa-romeo",
+          "canonica": "Alfa Romeo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "bugatti",
+          "canonica": "Bugatti",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "mclaren",
+          "canonica": "McLaren",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "aston-martin",
+          "canonica": "Aston Martin",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "bentley",
+          "canonica": "Bentley",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "rolls-royce",
+          "canonica": "Rolls-Royce",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "cadillac",
+          "canonica": "Cadillac",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "gurgel",
+          "canonica": "Gurgel",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "troller",
+          "canonica": "Troller",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "jac",
+          "canonica": "JAC",
+          "aceitas": [
+            "JAC Motors"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "gwm",
+          "canonica": "GWM",
+          "aceitas": [
+            "Great Wall",
+            "Haval"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "lotus",
+          "canonica": "Lotus",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "lada",
+          "canonica": "Lada",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "seat",
+          "canonica": "Seat",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "skoda",
+          "canonica": "Skoda",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "opel",
+          "canonica": "Opel",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "smart",
+          "canonica": "Smart",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "lancia",
+          "canonica": "Lancia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "dacia",
+          "canonica": "Dacia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "lincoln",
+          "canonica": "Lincoln",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "buick",
+          "canonica": "Buick",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "gmc",
+          "canonica": "GMC",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "pagani",
+          "canonica": "Pagani",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "koenigsegg",
+          "canonica": "Koenigsegg",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "puma",
+          "canonica": "Puma",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "scania",
+          "canonica": "Scania",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "iveco",
+          "canonica": "Iveco",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "willys",
+          "canonica": "Willys",
+          "aceitas": [
+            "Willys-Overland"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "simca",
+          "canonica": "Simca",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "dkw",
+          "canonica": "DKW",
+          "aceitas": [
+            "DKW-Vemag",
+            "Vemag"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        }
+      ]
+    },
+    {
+      "id": "mar-modelos-carro-brasil",
+      "texto": "Cite um modelo de carro vendido no Brasil",
+      "dificuldade": "media",
+      "tags": [
+        "carros",
+        "brasil"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Ind%C3%BAstria_automobil%C3%ADstica_no_Brasil",
+      "respostas": [
+        {
+          "id": "gol",
+          "canonica": "Gol",
+          "aceitas": [
+            "VW Gol"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "fusca",
+          "canonica": "Fusca",
+          "aceitas": [
+            "Fusquinha"
+          ],
+          "traducoes": {
+            "en": [
+              "Beetle"
+            ],
+            "es": [
+              "Escarabajo"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "uno",
+          "canonica": "Uno",
+          "aceitas": [
+            "Fiat Uno"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "palio",
+          "canonica": "Palio",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "celta",
+          "canonica": "Celta",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "corsa",
+          "canonica": "Corsa",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "onix",
+          "canonica": "Onix",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "hb20",
+          "canonica": "HB20",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "kombi",
+          "canonica": "Kombi",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "brasilia",
+          "canonica": "Brasília",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "chevette",
+          "canonica": "Chevette",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "opala",
+          "canonica": "Opala",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "civic",
+          "canonica": "Civic",
+          "aceitas": [
+            "Honda Civic"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "corolla",
+          "canonica": "Corolla",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "hilux",
+          "canonica": "Hilux",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "strada",
+          "canonica": "Strada",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "saveiro",
+          "canonica": "Saveiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "fiesta",
+          "canonica": "Fiesta",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "ka",
+          "canonica": "Ka",
+          "aceitas": [
+            "Ford Ka"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "ecosport",
+          "canonica": "EcoSport",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "fox",
+          "canonica": "Fox",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "polo",
+          "canonica": "Polo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "voyage",
+          "canonica": "Voyage",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "golf",
+          "canonica": "Golf",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "jetta",
+          "canonica": "Jetta",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "passat",
+          "canonica": "Passat",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "santana",
+          "canonica": "Santana",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "parati",
+          "canonica": "Parati",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "up",
+          "canonica": "Up!",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "t-cross",
+          "canonica": "T-Cross",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "nivus",
+          "canonica": "Nivus",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "virtus",
+          "canonica": "Virtus",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "toro",
+          "canonica": "Toro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "mobi",
+          "canonica": "Mobi",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "argo",
+          "canonica": "Argo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cronos",
+          "canonica": "Cronos",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "siena",
+          "canonica": "Siena",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "punto",
+          "canonica": "Punto",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "tempra",
+          "canonica": "Tempra",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "elba",
+          "canonica": "Elba",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "premio",
+          "canonica": "Prêmio",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "fiat-147",
+          "canonica": "Fiat 147",
+          "aceitas": [
+            "147"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "marea",
+          "canonica": "Marea",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "doblo",
+          "canonica": "Doblò",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "city",
+          "canonica": "City",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "fit",
+          "canonica": "Fit",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "hr-v",
+          "canonica": "HR-V",
+          "aceitas": [
+            "HRV"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "etios",
+          "canonica": "Etios",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "yaris",
+          "canonica": "Yaris",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "sw4",
+          "canonica": "SW4",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "sandero",
+          "canonica": "Sandero",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "logan",
+          "canonica": "Logan",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "clio",
+          "canonica": "Clio",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "duster",
+          "canonica": "Duster",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "kwid",
+          "canonica": "Kwid",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "captur",
+          "canonica": "Captur",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "peugeot-206",
+          "canonica": "Peugeot 206",
+          "aceitas": [
+            "206"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "peugeot-207",
+          "canonica": "Peugeot 207",
+          "aceitas": [
+            "207"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "peugeot-208",
+          "canonica": "Peugeot 208",
+          "aceitas": [
+            "208"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "peugeot-2008",
+          "canonica": "Peugeot 2008",
+          "aceitas": [
+            "2008"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "c3",
+          "canonica": "C3",
+          "aceitas": [
+            "Citroën C3"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "creta",
+          "canonica": "Creta",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tucson",
+          "canonica": "Tucson",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "compass",
+          "canonica": "Compass",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "renegade",
+          "canonica": "Renegade",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "commander",
+          "canonica": "Commander",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "s10",
+          "canonica": "S10",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "prisma",
+          "canonica": "Prisma",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "astra",
+          "canonica": "Astra",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "vectra",
+          "canonica": "Vectra",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "omega",
+          "canonica": "Omega",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "meriva",
+          "canonica": "Meriva",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "zafira",
+          "canonica": "Zafira",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "spin",
+          "canonica": "Spin",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tracker",
+          "canonica": "Tracker",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cruze",
+          "canonica": "Cruze",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cobalt",
+          "canonica": "Cobalt",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "montana",
+          "canonica": "Montana",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "d20",
+          "canonica": "D20",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "caravan",
+          "canonica": "Caravan",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "veraneio",
+          "canonica": "Veraneio",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "corcel",
+          "canonica": "Corcel",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "del-rey",
+          "canonica": "Del Rey",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "belina",
+          "canonica": "Belina",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "maverick",
+          "canonica": "Maverick",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ranger",
+          "canonica": "Ranger",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "pampa",
+          "canonica": "Pampa",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "galaxie",
+          "canonica": "Galaxie",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "landau",
+          "canonica": "Landau",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "focus",
+          "canonica": "Focus",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "sentra",
+          "canonica": "Sentra",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "march",
+          "canonica": "March",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "versa",
+          "canonica": "Versa",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "kicks",
+          "canonica": "Kicks",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "frontier",
+          "canonica": "Frontier",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "l200",
+          "canonica": "L200",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "pajero",
+          "canonica": "Pajero",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "lancer",
+          "canonica": "Lancer",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "dodge-dart",
+          "canonica": "Dodge Dart",
+          "aceitas": [
+            "Dart"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "charger",
+          "canonica": "Charger",
+          "aceitas": [
+            "Dodge Charger"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "aero-willys",
+          "canonica": "Aero Willys",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "rural",
+          "canonica": "Rural",
+          "aceitas": [
+            "Rural Willys"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "jeep-willys",
+          "canonica": "Jeep Willys",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "puma-gt",
+          "canonica": "Puma GT",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "br-800",
+          "canonica": "BR-800",
+          "aceitas": [
+            "Gurgel BR-800"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "quantum",
+          "canonica": "Quantum",
+          "aceitas": [
+            "Santana Quantum"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "logus",
+          "canonica": "Logus",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "pointer",
+          "canonica": "Pointer",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "apollo",
+          "canonica": "Apollo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "verona",
+          "canonica": "Verona",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "versailles",
+          "canonica": "Versailles",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "royale",
+          "canonica": "Royale",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "kadett",
+          "canonica": "Kadett",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "monza",
+          "canonica": "Monza",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "escort",
+          "canonica": "Escort",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "tipo",
+          "canonica": "Tipo",
+          "aceitas": [
+            "Fiat Tipo"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "fiorino",
+          "canonica": "Fiorino",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "variant",
+          "canonica": "Variant",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "tl",
+          "canonica": "TL",
+          "aceitas": [
+            "VW TL"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "sp2",
+          "canonica": "SP2",
+          "aceitas": [
+            "VW SP2"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "karmann-ghia",
+          "canonica": "Karmann-Ghia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "dolphin",
+          "canonica": "Dolphin",
+          "aceitas": [
+            "BYD Dolphin"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "pulse",
+          "canonica": "Pulse",
+          "aceitas": [
+            "Fiat Pulse"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "fastback",
+          "canonica": "Fastback",
+          "aceitas": [
+            "Fiat Fastback"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "tiggo",
+          "canonica": "Tiggo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "kardian",
+          "canonica": "Kardian",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        }
+      ]
+    },
+    {
+      "id": "mar-fast-food",
+      "texto": "Cite uma rede de fast food ou de restaurantes",
+      "dificuldade": "facil",
+      "tags": [
+        "restaurantes",
+        "fast food"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Fast_food",
+      "respostas": [
+        {
+          "id": "mcdonald-s",
+          "canonica": "McDonald's",
+          "aceitas": [
+            "McDonalds",
+            "Mc",
+            "Méqui"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "burger-king",
+          "canonica": "Burger King",
+          "aceitas": [
+            "BK"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "subway",
+          "canonica": "Subway",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "kfc",
+          "canonica": "KFC",
+          "aceitas": [
+            "Kentucky Fried Chicken"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "bob-s",
+          "canonica": "Bob's",
+          "aceitas": [
+            "Bobs"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "habib-s",
+          "canonica": "Habib's",
+          "aceitas": [
+            "Habibs"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "giraffas",
+          "canonica": "Giraffas",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "spoleto",
+          "canonica": "Spoleto",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "china-in-box",
+          "canonica": "China in Box",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pizza-hut",
+          "canonica": "Pizza Hut",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "domino-s",
+          "canonica": "Domino's",
+          "aceitas": [
+            "Dominos",
+            "Domino's Pizza"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "outback",
+          "canonica": "Outback",
+          "aceitas": [
+            "Outback Steakhouse"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "madero",
+          "canonica": "Madero",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "starbucks",
+          "canonica": "Starbucks",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "taco-bell",
+          "canonica": "Taco Bell",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "wendy-s",
+          "canonica": "Wendy's",
+          "aceitas": [
+            "Wendys"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "popeyes",
+          "canonica": "Popeyes",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "jeronimo",
+          "canonica": "Jeronimo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ragazzo",
+          "canonica": "Ragazzo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "viena",
+          "canonica": "Viena",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "coco-bambu",
+          "canonica": "Coco Bambu",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "applebee-s",
+          "canonica": "Applebee's",
+          "aceitas": [
+            "Applebees"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "chili-s",
+          "canonica": "Chili's",
+          "aceitas": [
+            "Chilis"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "five-guys",
+          "canonica": "Five Guys",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "shake-shack",
+          "canonica": "Shake Shack",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "dunkin",
+          "canonica": "Dunkin'",
+          "aceitas": [
+            "Dunkin Donuts"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "casa-do-pao-de-queijo",
+          "canonica": "Casa do Pão de Queijo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "rei-do-mate",
+          "canonica": "Rei do Mate",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "johnny-rockets",
+          "canonica": "Johnny Rockets",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "hooters",
+          "canonica": "Hooters",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "gendai",
+          "canonica": "Gendai",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "divino-fogao",
+          "canonica": "Divino Fogão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "montana-grill",
+          "canonica": "Montana Grill",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "vivenda-do-camarao",
+          "canonica": "Vivenda do Camarão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "griletto",
+          "canonica": "Griletto",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "fogo-de-chao",
+          "canonica": "Fogo de Chão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "dairy-queen",
+          "canonica": "Dairy Queen",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "chipotle",
+          "canonica": "Chipotle",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "little-caesars",
+          "canonica": "Little Caesars",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "papa-john-s",
+          "canonica": "Papa John's",
+          "aceitas": [
+            "Papa Johns"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "arby-s",
+          "canonica": "Arby's",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "carl-s-jr",
+          "canonica": "Carl's Jr.",
+          "aceitas": [
+            "Carls Jr"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "jack-in-the-box",
+          "canonica": "Jack in the Box",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "in-n-out",
+          "canonica": "In-N-Out",
+          "aceitas": [
+            "In-N-Out Burger"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "tim-hortons",
+          "canonica": "Tim Hortons",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "panda-express",
+          "canonica": "Panda Express",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "chiquinho-sorvetes",
+          "canonica": "Chiquinho Sorvetes",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "bacio-di-latte",
+          "canonica": "Bacio di Latte",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "mr-cheney",
+          "canonica": "Mr. Cheney",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "jin-jin",
+          "canonica": "Jin Jin",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "patroni",
+          "canonica": "Patroni",
+          "aceitas": [
+            "Patroni Pizza"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "frango-assado",
+          "canonica": "Frango Assado",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "parme",
+          "canonica": "Parmê",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "cacau-show",
+          "canonica": "Cacau Show",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "kopenhagen",
+          "canonica": "Kopenhagen",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "rascal",
+          "canonica": "Ráscal",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        }
+      ]
+    },
+    {
+      "id": "mar-tecnologia",
+      "texto": "Cite uma marca de tecnologia ou eletrônicos",
+      "dificuldade": "facil",
+      "tags": [
+        "tecnologia",
+        "eletrônicos"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Empresa_de_tecnologia",
+      "respostas": [
+        {
+          "id": "apple",
+          "canonica": "Apple",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "samsung",
+          "canonica": "Samsung",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "motorola",
+          "canonica": "Motorola",
+          "aceitas": [
+            "Moto"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "lg",
+          "canonica": "LG",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "sony",
+          "canonica": "Sony",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "xiaomi",
+          "canonica": "Xiaomi",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "microsoft",
+          "canonica": "Microsoft",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "google",
+          "canonica": "Google",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "dell",
+          "canonica": "Dell",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "hp",
+          "canonica": "HP",
+          "aceitas": [
+            "Hewlett-Packard"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "lenovo",
+          "canonica": "Lenovo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "positivo",
+          "canonica": "Positivo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "philips",
+          "canonica": "Philips",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "brastemp",
+          "canonica": "Brastemp",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "electrolux",
+          "canonica": "Electrolux",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "intel",
+          "canonica": "Intel",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "amd",
+          "canonica": "AMD",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "nvidia",
+          "canonica": "Nvidia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "asus",
+          "canonica": "Asus",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "acer",
+          "canonica": "Acer",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "multilaser",
+          "canonica": "Multilaser",
+          "aceitas": [
+            "Multi"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "panasonic",
+          "canonica": "Panasonic",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "huawei",
+          "canonica": "Huawei",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "nokia",
+          "canonica": "Nokia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "philco",
+          "canonica": "Philco",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tcl",
+          "canonica": "TCL",
+          "aceitas": [
+            "Semp TCL",
+            "Semp"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "toshiba",
+          "canonica": "Toshiba",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "jbl",
+          "canonica": "JBL",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "logitech",
+          "canonica": "Logitech",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "canon",
+          "canonica": "Canon",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "nikon",
+          "canonica": "Nikon",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "gopro",
+          "canonica": "GoPro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "realme",
+          "canonica": "Realme",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "oppo",
+          "canonica": "Oppo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "consul",
+          "canonica": "Consul",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "mondial",
+          "canonica": "Mondial",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "arno",
+          "canonica": "Arno",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "britania",
+          "canonica": "Britânia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "walita",
+          "canonica": "Walita",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "intelbras",
+          "canonica": "Intelbras",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "epson",
+          "canonica": "Epson",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "xerox",
+          "canonica": "Xerox",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "sharp",
+          "canonica": "Sharp",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "hitachi",
+          "canonica": "Hitachi",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "gradiente",
+          "canonica": "Gradiente",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "cce",
+          "canonica": "CCE",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "nintendo",
+          "canonica": "Nintendo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "kodak",
+          "canonica": "Kodak",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "polaroid",
+          "canonica": "Polaroid",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "garmin",
+          "canonica": "Garmin",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "beats",
+          "canonica": "Beats",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "bose",
+          "canonica": "Bose",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "razer",
+          "canonica": "Razer",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ibm",
+          "canonica": "IBM",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "cisco",
+          "canonica": "Cisco",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "siemens",
+          "canonica": "Siemens",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "qualcomm",
+          "canonica": "Qualcomm",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "amazon",
+          "canonica": "Amazon",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "meta",
+          "canonica": "Meta",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "oneplus",
+          "canonica": "OnePlus",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "alcatel",
+          "canonica": "Alcatel",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "blackberry",
+          "canonica": "BlackBerry",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "pioneer",
+          "canonica": "Pioneer",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "aiwa",
+          "canonica": "Aiwa",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "mabe",
+          "canonica": "Mabe",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "fujifilm",
+          "canonica": "Fujifilm",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "wacom",
+          "canonica": "Wacom",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "corsair",
+          "canonica": "Corsair",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "hyperx",
+          "canonica": "HyperX",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "kingston",
+          "canonica": "Kingston",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "sandisk",
+          "canonica": "SanDisk",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "seagate",
+          "canonica": "Seagate",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        }
+      ]
+    },
+    {
+      "id": "mar-bancos",
+      "texto": "Cite um banco que opera ou já operou no Brasil",
+      "dificuldade": "media",
+      "tags": [
+        "bancos",
+        "finanças"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil",
+      "respostas": [
+        {
+          "id": "banco-do-brasil",
+          "canonica": "Banco do Brasil",
+          "aceitas": [
+            "BB"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "caixa-economica-federal",
+          "canonica": "Caixa Econômica Federal",
+          "aceitas": [
+            "Caixa",
+            "CEF"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "itau",
+          "canonica": "Itaú",
+          "aceitas": [
+            "Itaú Unibanco"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "bradesco",
+          "canonica": "Bradesco",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "santander",
+          "canonica": "Santander",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "nubank",
+          "canonica": "Nubank",
+          "aceitas": [
+            "Nu"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "inter",
+          "canonica": "Inter",
+          "aceitas": [
+            "Banco Inter"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "c6-bank",
+          "canonica": "C6 Bank",
+          "aceitas": [
+            "C6"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "btg-pactual",
+          "canonica": "BTG Pactual",
+          "aceitas": [
+            "BTG"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "safra",
+          "canonica": "Safra",
+          "aceitas": [
+            "Banco Safra"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "banrisul",
+          "canonica": "Banrisul",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pagbank",
+          "canonica": "PagBank",
+          "aceitas": [
+            "PagSeguro"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "mercado-pago",
+          "canonica": "Mercado Pago",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "picpay",
+          "canonica": "PicPay",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "banco-pan",
+          "canonica": "Banco Pan",
+          "aceitas": [
+            "Pan"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "neon",
+          "canonica": "Neon",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "original",
+          "canonica": "Original",
+          "aceitas": [
+            "Banco Original"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "next",
+          "canonica": "Next",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "sicredi",
+          "canonica": "Sicredi",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "sicoob",
+          "canonica": "Sicoob",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "hsbc",
+          "canonica": "HSBC",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "citibank",
+          "canonica": "Citibank",
+          "aceitas": [
+            "Citi"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "unibanco",
+          "canonica": "Unibanco",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "banco-real",
+          "canonica": "Banco Real",
+          "aceitas": [
+            "Real"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "bamerindus",
+          "canonica": "Bamerindus",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "banespa",
+          "canonica": "Banespa",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "banco-do-nordeste",
+          "canonica": "Banco do Nordeste",
+          "aceitas": [
+            "BNB"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "banco-da-amazonia",
+          "canonica": "Banco da Amazônia",
+          "aceitas": [
+            "Basa"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "brb",
+          "canonica": "BRB",
+          "aceitas": [
+            "Banco de Brasília"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "bndes",
+          "canonica": "BNDES",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "xp",
+          "canonica": "XP",
+          "aceitas": [
+            "XP Investimentos"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "agibank",
+          "canonica": "Agibank",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "bmg",
+          "canonica": "BMG",
+          "aceitas": [
+            "Banco BMG"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "daycoval",
+          "canonica": "Daycoval",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "mercantil",
+          "canonica": "Mercantil",
+          "aceitas": [
+            "Banco Mercantil"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "banco-votorantim",
+          "canonica": "Banco Votorantim",
+          "aceitas": [
+            "BV"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "banestes",
+          "canonica": "Banestes",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "banpara",
+          "canonica": "Banpará",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "banerj",
+          "canonica": "Banerj",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "banco-nacional",
+          "canonica": "Banco Nacional",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "banco-economico",
+          "canonica": "Banco Econômico",
+          "aceitas": [
+            "Econômico"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "sofisa",
+          "canonica": "Sofisa",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "abc-brasil",
+          "canonica": "ABC Brasil",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "will-bank",
+          "canonica": "Will Bank",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "banco-modal",
+          "canonica": "Banco Modal",
+          "aceitas": [
+            "Modal"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "banco-bari",
+          "canonica": "Banco Bari",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "banco-rendimento",
+          "canonica": "Banco Rendimento",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "banco-fibra",
+          "canonica": "Banco Fibra",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "banco-pine",
+          "canonica": "Banco Pine",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        }
+      ]
+    },
+    {
+      "id": "mar-moda",
+      "texto": "Cite uma marca de roupa, calçado ou acessório",
+      "dificuldade": "facil",
+      "tags": [
+        "moda",
+        "roupas"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Moda",
+      "respostas": [
+        {
+          "id": "nike",
+          "canonica": "Nike",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "adidas",
+          "canonica": "Adidas",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "puma",
+          "canonica": "Puma",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "havaianas",
+          "canonica": "Havaianas",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "reebok",
+          "canonica": "Reebok",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "mizuno",
+          "canonica": "Mizuno",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "olympikus",
+          "canonica": "Olympikus",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "lacoste",
+          "canonica": "Lacoste",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "zara",
+          "canonica": "Zara",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "renner",
+          "canonica": "Renner",
+          "aceitas": [
+            "Lojas Renner"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "c-a",
+          "canonica": "C&A",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "riachuelo",
+          "canonica": "Riachuelo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "hering",
+          "canonica": "Hering",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "gucci",
+          "canonica": "Gucci",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "louis-vuitton",
+          "canonica": "Louis Vuitton",
+          "aceitas": [
+            "LV"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "chanel",
+          "canonica": "Chanel",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "shein",
+          "canonica": "Shein",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "asics",
+          "canonica": "Asics",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "fila",
+          "canonica": "Fila",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "umbro",
+          "canonica": "Umbro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "under-armour",
+          "canonica": "Under Armour",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "new-balance",
+          "canonica": "New Balance",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "converse",
+          "canonica": "Converse",
+          "aceitas": [
+            "All Star"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "vans",
+          "canonica": "Vans",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "tommy-hilfiger",
+          "canonica": "Tommy Hilfiger",
+          "aceitas": [
+            "Tommy"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "calvin-klein",
+          "canonica": "Calvin Klein",
+          "aceitas": [
+            "CK"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ralph-lauren",
+          "canonica": "Ralph Lauren",
+          "aceitas": [
+            "Polo Ralph Lauren"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "levi-s",
+          "canonica": "Levi's",
+          "aceitas": [
+            "Levis"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "h-m",
+          "canonica": "H&M",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "marisa",
+          "canonica": "Marisa",
+          "aceitas": [
+            "Lojas Marisa"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "prada",
+          "canonica": "Prada",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "dior",
+          "canonica": "Dior",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "versace",
+          "canonica": "Versace",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "armani",
+          "canonica": "Armani",
+          "aceitas": [
+            "Giorgio Armani"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "dolce-gabbana",
+          "canonica": "Dolce & Gabbana",
+          "aceitas": [
+            "Dolce e Gabbana",
+            "D&G"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "hermes",
+          "canonica": "Hermès",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "burberry",
+          "canonica": "Burberry",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "balenciaga",
+          "canonica": "Balenciaga",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "fendi",
+          "canonica": "Fendi",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "givenchy",
+          "canonica": "Givenchy",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "valentino",
+          "canonica": "Valentino",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "supreme",
+          "canonica": "Supreme",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "diesel",
+          "canonica": "Diesel",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "guess",
+          "canonica": "Guess",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "oakley",
+          "canonica": "Oakley",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ray-ban",
+          "canonica": "Ray-Ban",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "osklen",
+          "canonica": "Osklen",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "reserva",
+          "canonica": "Reserva",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "farm",
+          "canonica": "Farm",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "colcci",
+          "canonica": "Colcci",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ellus",
+          "canonica": "Ellus",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "forum",
+          "canonica": "Forum",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "animale",
+          "canonica": "Animale",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "quiksilver",
+          "canonica": "Quiksilver",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "billabong",
+          "canonica": "Billabong",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "rip-curl",
+          "canonica": "Rip Curl",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "hurley",
+          "canonica": "Hurley",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "cyclone",
+          "canonica": "Cyclone",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "mormaii",
+          "canonica": "Mormaii",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "melissa",
+          "canonica": "Melissa",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "arezzo",
+          "canonica": "Arezzo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "schutz",
+          "canonica": "Schutz",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "grendene",
+          "canonica": "Grendene",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "ipanema",
+          "canonica": "Ipanema",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "rider",
+          "canonica": "Rider",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "kappa",
+          "canonica": "Kappa",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "penalty",
+          "canonica": "Penalty",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "topper",
+          "canonica": "Topper",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "lupo",
+          "canonica": "Lupo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "track-field",
+          "canonica": "Track & Field",
+          "aceitas": [
+            "Track e Field"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "crocs",
+          "canonica": "Crocs",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "timberland",
+          "canonica": "Timberland",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "dr-martens",
+          "canonica": "Dr. Martens",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "skechers",
+          "canonica": "Skechers",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "pandora",
+          "canonica": "Pandora",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "vivara",
+          "canonica": "Vivara",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "swarovski",
+          "canonica": "Swarovski",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "tiffany-co",
+          "canonica": "Tiffany & Co.",
+          "aceitas": [
+            "Tiffany e Co.",
+            "Tiffany"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "rolex",
+          "canonica": "Rolex",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "victoria-s-secret",
+          "canonica": "Victoria's Secret",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "hope",
+          "canonica": "Hope",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "insider",
+          "canonica": "Insider",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        }
+      ]
+    }
+  ]
+}

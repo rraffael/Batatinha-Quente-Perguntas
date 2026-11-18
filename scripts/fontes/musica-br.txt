@@ -1,0 +1,445 @@
+tema: musica-br
+nome: Música Brasileira
+
+== mbr-artistas-mpb | Cite um(a) cantor(a) ou compositor(a) da MPB | media | mpb;cantores | https://pt.wikipedia.org/wiki/M%C3%BAsica_popular_brasileira
+Caetano Veloso | Caetano | | | c
+Gilberto Gil | Gil | | | c
+Chico Buarque | Chico | | | c
+Milton Nascimento | Milton;Bituca | | | c
+Elis Regina | Elis | | | c
+Gal Costa | Gal | | | c
+Maria Bethânia | Bethânia | | | c
+Djavan | | | | c
+Marisa Monte | | | | c
+Tom Jobim | Antônio Carlos Jobim;Jobim | | | c
+Vinicius de Moraes | Vinicius | | | c
+João Gilberto | | | | i
+Jorge Ben Jor | Jorge Ben;Ben Jor | | | c
+Tim Maia | | | | c
+Ney Matogrosso | Ney | | | c
+Ivan Lins | | | | i
+Zé Ramalho | | | | c
+Alceu Valença | Alceu | | | i
+Fagner | Raimundo Fagner | | | i
+Belchior | | | | i
+Geraldo Azevedo | | | | r
+Elba Ramalho | | | | i
+Lenine | | | | i
+Adriana Calcanhotto | Calcanhotto | | | i
+Zélia Duncan | | | | r
+Ana Carolina | | | | i
+Seu Jorge | | | | i
+Maria Gadú | Gadú | | | r
+Vanessa da Mata | | | | i
+Maria Rita | | | | i
+Simone | | | | i
+Fafá de Belém | | | | r
+Nana Caymmi | | | | r
+Dorival Caymmi | Caymmi | | | r
+João Bosco | | | | r
+Edu Lobo | | | | r
+Toquinho | | | | i
+Nara Leão | | | | r
+Beto Guedes | | | | r
+Lô Borges | | | | r
+Flávio Venturini | | | | e
+Oswaldo Montenegro | | | | r
+Guilherme Arantes | | | | r
+Moraes Moreira | | | | r
+Tom Zé | | | | r
+Jards Macalé | | | | e
+Luiz Melodia | | | | e
+Arnaldo Antunes | | | | r
+Tiago Iorc | | | | r
+Chico César | | | | r
+Céu | | | | e
+Liniker | | | | r
+Silva | | | | e
+Rubel | | | | e
+Johnny Hooker | | | | e
+Baby do Brasil | Baby Consuelo | | | e
+Pepeu Gomes | | | | e
+Sá & Guarabyra | | | | l
+Sérgio Ricardo | | | | l
+Taiguara | | | | l
+Joyce Moreno | Joyce | | | l
+Leila Pinheiro | | | | l
+Danilo Caymmi | | | | l
+Ednardo | | | | l
+Fernanda Takai | | | | e
+Mart'nália | | | | e
+Roberta Sá | | | | e
+Mônica Salmaso | | | | l
+Luiz Gonzaga | Gonzagão;Rei do Baião | | | i
+Gonzaguinha | | | | i
+Raul Seixas | Raulzito | | | i
+
+== mbr-bandas-rock | Cite uma banda de rock brasileira | facil | rock;bandas | https://pt.wikipedia.org/wiki/Rock_brasileiro
+Legião Urbana | | | | c
+Titãs | | | | c
+Os Paralamas do Sucesso | Paralamas;Paralamas do Sucesso | | | c
+Barão Vermelho | | | | c
+Capital Inicial | | | | c
+Engenheiros do Hawaii | Engenheiros | | | c
+Charlie Brown Jr. | Charlie Brown Júnior;CBJR | | | c
+Mamonas Assassinas | Mamonas | | | c
+Skank | | | | c
+Jota Quest | | | | c
+Raimundos | | | | c
+O Rappa | Rappa | | | c
+Ultraje a Rigor | Ultraje | | | i
+Kid Abelha | | | | i
+Os Mutantes | Mutantes | | | i
+Ira! | Ira | | | i
+RPM | | | | i
+Los Hermanos | | | | i
+Pato Fu | | | | i
+Biquini Cavadão | Biquini | | | i
+Blitz | | | | i
+CPM 22 | CPM | | | i
+NX Zero | | | | i
+Detonautas | Detonautas Roque Clube | | | i
+Fresno | | | | i
+Sepultura | | | | i
+Angra | | | | r
+Nação Zumbi | Chico Science & Nação Zumbi | | | r
+Planet Hemp | | | | i
+Camisa de Vênus | | | | r
+Plebe Rude | | | | r
+Restart | | | | i
+Pitty | | | | i
+Tihuana | | | | r
+Hanói-Hanói | | | | e
+Ratos de Porão | | | | e
+Inocentes | | | | e
+Velhas Virgens | | | | e
+Dead Fish | | | | e
+Matanza | | | | e
+Vanguart | | | | e
+Scalene | | | | e
+Supercombo | | | | e
+Forfun | | | | r
+Hateen | | | | l
+Garotos Podres | | | | l
+Cólera | | | | l
+Viper | | | | l
+Korzus | | | | l
+Krisiun | | | | l
+Shaman | | | | l
+Oficina G3 | | | | e
+Rosa de Saron | | | | e
+Novos Baianos | | | | r
+Secos & Molhados | | | | r
+Cachorro Grande | | | | e
+Bidê ou Balde | | | | l
+Nenhum de Nós | | | | r
+Golpe de Estado | | | | l
+Uns e Outros | | | | l
+Strike | | | | e
+Gloria | | | | e
+Malta | | | | r
+Dr. Sin | | | | l
+Tianastácia | | | | e
+
+== mbr-duplas-sertanejas | Cite uma dupla sertaneja | facil | sertanejo;duplas | https://pt.wikipedia.org/wiki/M%C3%BAsica_sertaneja
+Chitãozinho & Xororó | | | | c
+Zezé Di Camargo & Luciano | Zezé e Luciano | | | c
+Leandro & Leonardo | | | | c
+Jorge & Mateus | | | | c
+Henrique & Juliano | | | | c
+Bruno & Marrone | | | | c
+Victor & Leo | Vitor e Leo | | | c
+João Paulo & Daniel | | | | c
+Zé Neto & Cristiano | | | | c
+Maiara & Maraisa | | | | c
+Simone & Simaria | | | | c
+Matheus & Kauan | | | | c
+Milionário & José Rico | | | | i
+Tonico & Tinoco | | | | i
+Tião Carreiro & Pardinho | | | | r
+Fernando & Sorocaba | | | | i
+César Menotti & Fabiano | | | | i
+João Bosco & Vinícius | | | | i
+Israel & Rodolffo | | | | i
+Gian & Giovani | | | | i
+Rionegro & Solimões | | | | i
+Edson & Hudson | | | | i
+Chrystian & Ralf | | | | r
+Diego & Victor Hugo | | | | r
+Guilherme & Benuto | | | | r
+Hugo & Guilherme | | | | r
+João Neto & Frederico | | | | r
+Marcos & Belutti | | | | r
+Munhoz & Mariano | | | | r
+Thaeme & Thiago | | | | r
+Bruno & Barretto | | | | r
+Jads & Jadson | | | | r
+Rick & Renner | | | | r
+Teodoro & Sampaio | | | | r
+Matogrosso & Mathias | | | | r
+Gino & Geno | | | | e
+Pena Branca & Xavantinho | | | | e
+Cascatinha & Inhana | | | | e
+Felipe & Falcão | | | | e
+Zé Henrique & Gabriel | | | | e
+George Henrique & Rodrigo | | | | e
+Henrique & Diego | | | | e
+Guilherme & Santiago | | | | e
+Humberto & Ronaldo | | | | e
+Hugo Pena & Gabriel | | | | e
+Clayton & Romário | | | | e
+Alan & Aladim | | | | l
+Liu & Léu | | | | l
+Pedro Bento & Zé da Estrada | | | | l
+Zico & Zeca | | | | l
+Irmãs Galvão | As Galvão | | | l
+Maria Cecília & Rodolfo | | | | e
+
+== mbr-samba-pagode | Cite um artista ou grupo de samba ou pagode | facil | samba;pagode | https://pt.wikipedia.org/wiki/Samba
+Zeca Pagodinho | Zeca | | | c
+Martinho da Vila | | | | c
+Beth Carvalho | | | | c
+Alcione | Marrom | | | c
+Paulinho da Viola | | | | i
+Cartola | | | | i
+Noel Rosa | | | | i
+Adoniran Barbosa | Adoniran | | | i
+Clara Nunes | | | | i
+Elza Soares | | | | i
+Jorge Aragão | | | | i
+Arlindo Cruz | | | | i
+Diogo Nogueira | | | | i
+João Nogueira | | | | r
+Fundo de Quintal | | | | i
+Exaltasamba | | | | c
+Raça Negra | | | | c
+Só Pra Contrariar | SPC | | | c
+Revelação | Grupo Revelação | | | c
+Thiaguinho | | | | c
+Péricles | | | | c
+Belo | | | | c
+Soweto | | | | r
+Molejo | | | | c
+Art Popular | | | | i
+Katinguelê | | | | r
+Sorriso Maroto | | | | c
+Turma do Pagode | | | | i
+Ferrugem | | | | i
+Dilsinho | | | | i
+Mumuzinho | | | | i
+Pixote | | | | r
+Menos é Mais | Grupo Menos é Mais | | | i
+Pique Novo | | | | r
+Negritude Júnior | | | | r
+Os Originais do Samba | Originais do Samba | | | r
+Demônios da Garoa | | | | r
+Bezerra da Silva | | | | i
+Dudu Nobre | | | | r
+Leci Brandão | | | | r
+Dona Ivone Lara | | | | r
+Jovelina Pérola Negra | | | | e
+Almir Guineto | | | | e
+Ataulfo Alves | | | | e
+Nelson Cavaquinho | | | | e
+Candeia | | | | e
+Monarco | | | | l
+Xande de Pilares | | | | i
+Harmonia do Samba | | | | r
+Grupo Clareou | Clareou | | | e
+Roberta Sá | | | | e
+Teresa Cristina | | | | e
+Wilson Moreira | | | | l
+Nei Lopes | | | | l
+Délcio Carvalho | | | | l
+Reinaldo | O Príncipe do Pagode | | | l
+Sombrinha | | | | e
+Grupo Bom Gosto | Bom Gosto | | | e
+Os Travessos | Travessos | | | r
+Inimigos da HP | | | | e
+Swing & Simpatia | | | | e
+Kiloucura | | | | e
+
+== mbr-funk | Cite um artista de funk brasileiro | media | funk;mc | https://pt.wikipedia.org/wiki/Funk_carioca
+Anitta | | | | c
+Ludmilla | MC Beyoncé | | | c
+MC Kevinho | Kevinho | | | c
+MC Livinho | Livinho | | | c
+MC Guimê | Guimê | | | c
+MC Don Juan | Don Juan | | | i
+MC Kekel | Kekel | | | i
+MC Hariel | Hariel | | | i
+MC Ryan SP | Ryan SP | | | i
+MC Cabelinho | Cabelinho | | | i
+MC Daleste | Daleste | | | r
+MC Marcinho | Marcinho | | | i
+Claudinho & Buchecha | Buchecha;Claudinho | | | c
+Bonde do Tigrão | | | | i
+Tati Quebra Barraco | | | | i
+Valesca Popozuda | Valesca | | | i
+MC Carol | | | | r
+Deize Tigrona | | | | e
+MC Créu | | | | r
+DJ Marlboro | Marlboro | | | r
+MC Leozinho | Leozinho | | | r
+Naldo Benny | Naldo | | | r
+Mr. Catra | Catra | | | i
+MC Sapão | Sapão | | | e
+Cidinho & Doca | | | | r
+MC Poze do Rodo | Poze;Poze do Rodo | | | i
+MC Daniel | | | | i
+MC Pedrinho | Pedrinho | | | r
+MC Loma | Loma;MC Loma e as Gêmeas Lacração | | | r
+Pocah | MC Pocahontas | | | i
+Lexa | | | | i
+MC Mirella | Mirella | | | i
+Kevin o Chris | | | | i
+MC WM | | | | e
+MC Zaac | Zaac | | | r
+Dennis DJ | Dennis | | | i
+MC Fioti | Fioti | | | r
+MC Lan | | | | e
+MC Bin Laden | Bin Laden | | | e
+Jerry Smith | | | | e
+Gaiola das Popozudas | | | | e
+MC Rodolfinho | Rodolfinho | | | e
+MC Pipokinha | Pipokinha | | | r
+MC IG | | | | e
+MC Paiva | | | | e
+MC Davi | | | | e
+MC Brinquedo | | | | e
+MC Gui | | | | e
+MC Nandinho & Nego Bam | | | | l
+Furacão 2000 | | | | r
+MC Marcelly | | | | e
+Os Hawaianos | | | | l
+MC Dricka | | | | l
+MC Menor da VG | | | | l
+MC TH | | | | l
+MC Kapela | Kapela | | | l
+
+== mbr-generos-brasileiros | Cite um gênero ou ritmo musical brasileiro | media | gêneros;ritmos | https://pt.wikipedia.org/wiki/M%C3%BAsica_do_Brasil
+Samba | | | | c
+Bossa nova | | | | c
+MPB | Música popular brasileira | | | c
+Forró | | | | c
+Sertanejo | Música sertaneja | | | c
+Funk carioca | Funk;Funk brasileiro;Baile funk | | | c
+Pagode | | | | c
+Axé | Axé music | | | c
+Frevo | | | | c
+Baião | | | | i
+Xote | Xótis | | | i
+Xaxado | | | | i
+Choro | Chorinho | | | i
+Maracatu | | | | i
+Tropicália | Tropicalismo | | | i
+Lambada | | | | i
+Brega | | | | i
+Tecnobrega | | | | r
+Arrocha | | | | i
+Piseiro | Pisadinha | | | i
+Sertanejo universitário | | | | i
+Música caipira | Moda de viola;Sertanejo raiz | | | i
+Samba-enredo | | | | i
+Samba-rock | | | | r
+Samba de roda | | | | r
+Samba-reggae | | | | r
+Pagodão | Pagode baiano | | | r
+Partido-alto | | | | r
+Samba de breque | | | | e
+Coco | Coco de roda | | | r
+Carimbó | | | | r
+Toada | Boi-bumbá | | | r
+Manguebeat | Mangue beat | | | r
+Jovem Guarda | Iê-iê-iê | | | r
+Lundu | | | | e
+Modinha | | | | e
+Maxixe | | | | e
+Embolada | | | | e
+Repente | Cantoria | | | r
+Ciranda | | | | r
+Afoxé | | | | e
+Ijexá | | | | e
+Brega funk | | | | r
+Funk ostentação | | | | e
+Marchinha | Marchinha de carnaval | | | r
+Vanerão | Vanera;Vaneira | | | e
+Calypso | | | | e
+Guitarrada | | | | l
+Chula | | | | l
+Xamego | | | | l
+Rasqueado | | | | l
+Catira | Cateretê | | | e
+Siriá | | | | l
+Fandango caiçara | | | | l
+Bumba meu boi | | | | e
+Forró universitário | | | | e
+
+== mbr-instrumentos | Cite um instrumento musical | facil | instrumentos | https://pt.wikipedia.org/wiki/Lista_de_instrumentos_musicais
+Violão | | Acoustic guitar | Guitarra acústica | c
+Guitarra | Guitarra elétrica | Electric guitar | Guitarra eléctrica | c
+Piano | | | | c
+Bateria | | Drums;Drum kit | Batería | c
+Contrabaixo | Baixo;Baixo elétrico | Bass;Double bass | Contrabajo | c
+Violino | | Violin | Violín | c
+Flauta | Flauta transversal | Flute | | c
+Saxofone | Sax | Saxophone | Saxofón | c
+Trompete | | Trumpet | Trompeta | c
+Teclado | | Keyboard | | c
+Cavaquinho | Cavaco | | | c
+Pandeiro | | Tambourine | Pandero | c
+Sanfona | Acordeão;Acordeom;Gaita-ponto | Accordion | Acordeón | c
+Viola caipira | Viola de dez cordas | | | i
+Violoncelo | Cello | Cello | Violonchelo | i
+Harpa | | Harp | Arpa | i
+Clarinete | Clarineta | Clarinet | | i
+Trombone | | | Trombón | i
+Tuba | | | | i
+Oboé | | Oboe | | r
+Fagote | | Bassoon | Fagot | r
+Gaita | Harmônica | Harmonica | Armónica | i
+Berimbau | | | | i
+Atabaque | | | | i
+Surdo | | | | i
+Tamborim | | | | i
+Cuíca | | | | i
+Agogô | | | | r
+Triângulo | | Triangle | Triángulo | i
+Zabumba | | | | i
+Reco-reco | | | | r
+Ganzá | Chocalho | Shaker | | r
+Xilofone | | Xylophone | Xilófono | i
+Marimba | | | | r
+Órgão | | Organ | Órgano | i
+Ukulele | | | | i
+Bandolim | | Mandolin | Mandolina | r
+Banjo | | | | r
+Viola de arco | Viola clássica | | | e
+Trompa | | French horn;Horn | | e
+Flautim | Piccolo | Piccolo | | e
+Flauta doce | | Recorder | Flauta dulce | r
+Gaita de foles | | Bagpipes | Gaita gallega | r
+Sitar | Cítara | | | e
+Tímpano | | Timpani | Timbal | e
+Castanholas | | Castanets | Castañuelas | r
+Maracas | Maracá | | | r
+Bongô | | Bongo | Bongó | r
+Conga | Tumbadora | | | e
+Cajón | | | | r
+Didgeridoo | | | | l
+Teremim | Theremin | Theremin | | l
+Sintetizador | | Synthesizer | | r
+Prato | Pratos | Cymbal | Platillo | r
+Caixa | Caixa clara | Snare drum | Caja | r
+Rabeca | | | | e
+Alfaia | | | | l
+Bumbo | Bombo | Bass drum | Bombo | r
+Corneta | | Cornet | | r
+Kalimba | | | | e
+Escaleta | | Melodica | | e
+Gongo | Gongue | Gong | | e
+Lira | | Lyre | | e
+Alaúde | | Lute | Laúd | e
+Balalaica | | Balalaika | | l
+Cravo | | Harpsichord | Clavecín | e
+Shamisen | | | | l

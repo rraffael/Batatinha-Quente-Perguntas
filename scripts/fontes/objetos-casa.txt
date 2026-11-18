@@ -1,0 +1,448 @@
+tema: objetos-casa
+nome: Casa e Objetos
+
+== obj-utensilios-cozinha | Cite um utensílio de cozinha | facil | cozinha;utensílios | https://pt.wikipedia.org/wiki/Utens%C3%ADlio_de_cozinha
+Panela | | | Olla | c
+Frigideira | | Frying pan | Sartén | c
+Faca | | Knife | Cuchillo | c
+Garfo | | Fork | Tenedor | c
+Colher | | Spoon | Cuchara | c
+Prato | | Plate | Plato | c
+Copo | | Glass | | c
+Xícara | Chávena | Cup;Mug | Taza | c
+Concha | | Ladle | Cucharón | c
+Escumadeira | | Skimmer | Espumadera | c
+Panela de pressão | | Pressure cooker | Olla a presión | c
+Liquidificador | | Blender | Licuadora | c
+Abridor de latas | Abridor | Can opener | Abrelatas | c
+Saca-rolhas | | Corkscrew | Sacacorchos | i
+Ralador | | Grater | Rallador | c
+Peneira | | Sieve | | c
+Escorredor | Escorredor de macarrão | Colander | Escurridor | c
+Tábua de corte | Tábua | Cutting board | Tabla de cortar | c
+Rolo de massa | | Rolling pin | Rodillo | i
+Espátula | | Spatula | | c
+Pegador | Pinça de cozinha | Tongs | Pinzas | i
+Batedor | Fouet;Batedor de ovos | Whisk | | i
+Assadeira | Forma;Fôrma | Baking pan | | c
+Caçarola | | Casserole | Cacerola | r
+Leiteira | | Milk pan | | i
+Chaleira | | Kettle | Tetera | i
+Bule | | Teapot | | i
+Garrafa térmica | | Thermos | Termo | i
+Jarra | | Pitcher;Jug | | i
+Travessa | | Serving dish | Fuente | i
+Tigela | Bowl;Cumbuca | Bowl | Tazón | i
+Pote | | Container | | i
+Saleiro | | Salt shaker | Salero | i
+Açucareiro | | Sugar bowl | Azucarero | r
+Fruteira | | Fruit bowl | Frutero | r
+Paliteiro | | | | r
+Porta-guardanapo | | Napkin holder | Servilletero | r
+Guardanapo | | Napkin | Servilleta | i
+Toalha de mesa | | Tablecloth | Mantel | r
+Pano de prato | | Dish towel | Paño de cocina | i
+Esponja | | Sponge | | i
+Coador de café | Coador | Coffee filter | | i
+Cafeteira | | Coffee maker | | i
+Wok | | | | r
+Moedor | Moedor de pimenta | Grinder | Molinillo | r
+Pilão | Almofariz | Mortar and pestle | Mortero | r
+Espremedor | Espremedor de alho;Espremedor de laranja | Squeezer;Press | Exprimidor | r
+Descascador | | Peeler | | r
+Fatiador | Mandolina | Slicer | | e
+Funil | | Funnel | Embudo | r
+Medidor | Copo medidor;Xícara medidora | Measuring cup | | e
+Balança de cozinha | Balança | Kitchen scale | Báscula | r
+Luva térmica | | Oven mitt | Manopla | r
+Descanso de panela | | Trivet | Salvamanteles | e
+Cuscuzeira | | | | e
+Sanduicheira | | Sandwich maker | Sandwichera | i
+Fôrma de gelo | | Ice tray | Cubitera | r
+Cortador de pizza | Carretilha | Pizza cutter | | e
+Martelo de carne | Batedor de bife | Meat tenderizer | | e
+Quebra-nozes | | Nutcracker | Cascanueces | e
+Panela elétrica de arroz | Panela de arroz | Rice cooker | Arrocera | r
+Mixer | Mixer de mão | Immersion blender | | r
+Batedeira | | Stand mixer | Batidora | i
+Pipoqueira | | Popcorn maker | Palomera | r
+Garrafa | | Bottle | Botella | r
+Bandeja | | Tray | | r
+Talher | Talheres | Cutlery | Cubiertos | r
+Tampa | | Lid | Tapa | r
+
+== obj-moveis | Cite um móvel | facil | casa;móveis | https://pt.wikipedia.org/wiki/Mobili%C3%A1rio
+Cadeira | | Chair | Silla | c
+Mesa | | Table | | c
+Sofá | | Sofa;Couch | | c
+Cama | | Bed | | c
+Guarda-roupa | Armário de roupas | Wardrobe | Ropero | c
+Armário | | Cupboard;Cabinet | Armario | c
+Estante | | Bookcase;Bookshelf | Estantería | c
+Rack | | TV stand | | c
+Poltrona | | Armchair | Sillón | c
+Banco | Banqueta | Bench | | c
+Escrivaninha | | Desk | Escritorio | c
+Cômoda | | Chest of drawers;Dresser | Cómoda | c
+Criado-mudo | Mesa de cabeceira;Mesinha de cabeceira | Nightstand | Mesita de noche | c
+Prateleira | | Shelf | | i
+Penteadeira | | Vanity;Dressing table | Tocador | i
+Sapateira | | Shoe rack | Zapatero | i
+Beliche | | Bunk bed | Litera | i
+Berço | | Crib | Cuna | i
+Bicama | | Trundle bed | | r
+Sofá-cama | | Sofa bed | Sofá cama | i
+Puff | Pufe | Pouf;Ottoman | | i
+Banquinho | | Stool | Taburete | r
+Mesa de centro | | Coffee table | Mesa de centro | i
+Aparador | | Sideboard | | r
+Cristaleira | | China cabinet | Vitrina | r
+Buffet | Bufê | Buffet | | r
+Baú | | Chest;Trunk | Baúl | r
+Cabideiro | | Coat rack | Perchero | r
+Gaveteiro | | Drawer unit | Cajonera | r
+Balcão | | Counter | | r
+Cadeira de balanço | | Rocking chair | Mecedora | r
+Espreguiçadeira | | Deck chair;Lounger | Tumbona | r
+Rede | | Hammock | Hamaca | i
+Divã | | Divan | Diván | e
+Chaise longue | | | | e
+Recamier | | | | l
+Namoradeira | | Loveseat | Confidente | e
+Banco de jardim | | Garden bench | | e
+Cama box | Box | Box spring | | i
+Colchão | | Mattress | Colchón | i
+Cabeceira | | Headboard | Cabecero | r
+Mesa de jantar | | Dining table | | i
+Cadeira de escritório | | Office chair | Silla de oficina | r
+Arquivo | Arquivo de aço | Filing cabinet | Archivador | e
+Nicho | | | | e
+Biombo | | Folding screen | Biombo | e
+Cristaleira de canto | Cantoneira | Corner cabinet | | l
+Chapeleira | | Hat stand | | l
+Carrinho de chá | Carrinho bar | Tea cart | | l
+Bancada | | Workbench | | r
+Ilha de cozinha | Ilha | Kitchen island | Isla | r
+Armário de cozinha | | Kitchen cabinet | | r
+Cama de casal | | Double bed | | r
+Futon | Futon | | | e
+
+== obj-eletrodomesticos | Cite um eletrodoméstico ou eletroeletrônico de casa | facil | casa;eletrodomésticos | https://pt.wikipedia.org/wiki/Eletrodom%C3%A9stico
+Geladeira | Refrigerador | Refrigerator;Fridge | Refrigerador;Nevera | c
+Fogão | | Stove | | c
+Micro-ondas | | Microwave | Microondas | c
+Máquina de lavar | Lavadora;Máquina de lavar roupa | Washing machine | Lavadora | c
+Televisão | TV;Televisor | Television | Televisor | c
+Liquidificador | | Blender | Licuadora | c
+Ventilador | | Fan | | c
+Ar-condicionado | Ar condicionado | Air conditioner | Aire acondicionado | c
+Ferro de passar | Ferro | Iron | Plancha | c
+Aspirador de pó | Aspirador | Vacuum cleaner | Aspiradora | c
+Secador de cabelo | Secador | Hair dryer | Secador de pelo | c
+Batedeira | | Stand mixer | Batidora | c
+Cafeteira | Cafeteira elétrica | Coffee maker | Cafetera | c
+Torradeira | | Toaster | Tostadora | i
+Sanduicheira | | Sandwich maker | Sandwichera | i
+Air fryer | Fritadeira elétrica;Fritadeira sem óleo | | Freidora de aire | c
+Freezer | Congelador | | Congelador | i
+Lava-louças | Máquina de lavar louça | Dishwasher | Lavavajillas | i
+Forno elétrico | Forno | Electric oven | Horno eléctrico | i
+Secadora de roupas | | Clothes dryer | | i
+Chuveiro elétrico | Chuveiro | Electric shower | | i
+Purificador de água | Bebedouro;Filtro de água | Water purifier | Purificador de agua | i
+Panela elétrica | Panela elétrica de arroz | Rice cooker | Arrocera | r
+Chaleira elétrica | | Electric kettle | Hervidor | r
+Processador de alimentos | Processador | Food processor | Procesador de alimentos | r
+Mixer | | Immersion blender | | r
+Espremedor de frutas | Espremedor | Juicer | Exprimidor | r
+Centrífuga | Centrífuga de roupas | Spin dryer | | r
+Tanquinho | | | | r
+Coifa | Depurador;Exaustor | Range hood | Campana | r
+Cooktop | | | | r
+Aquecedor | | Heater | Calefactor | r
+Umidificador | | Humidifier | Humidificador | r
+Desumidificador | | Dehumidifier | | e
+Climatizador | | Evaporative cooler | | e
+Robô aspirador | | Robot vacuum | Robot aspirador | r
+Ferro a vapor | Vaporizador de roupas | Steamer | | e
+Chapinha | Prancha alisadora | Hair straightener;Flat iron | Plancha de pelo | i
+Babyliss | Modelador de cachos | Curling iron | Rizador | r
+Barbeador elétrico | Máquina de barbear | Electric shaver | Afeitadora | r
+Escova de dentes elétrica | | Electric toothbrush | Cepillo eléctrico | e
+Máquina de cortar cabelo | | Hair clipper | Cortadora de pelo | r
+Rádio | | Radio | Radio | r
+Som | Aparelho de som;Caixa de som | Speaker;Stereo | | i
+Computador | PC | Computer | Computadora;Ordenador | i
+Notebook | Laptop | Laptop | Portátil | i
+Celular | Smartphone | Cell phone | Celular;Móvil | i
+Videogame | Console | Video game console | Videoconsola | r
+Impressora | | Printer | Impresora | r
+Roteador | Modem | Router | Enrutador | r
+Telefone fixo | Telefone | Landline | Teléfono fijo | r
+DVD | Aparelho de DVD | DVD player | | r
+Videocassete | | VCR | Videocasetera | e
+Iogurteira | | Yogurt maker | Yogurtera | l
+Máquina de pão | Panificadora | Bread maker | Panificadora | e
+Pipoqueira elétrica | Pipoqueira | Popcorn maker | Palomera | e
+Máquina de café expresso | Cafeteira expresso | Espresso machine | | e
+Grill | Grill elétrico | Electric grill | | e
+Fritadeira elétrica com óleo | | Deep fryer | Freidora | l
+Adega climatizada | Adega | Wine cooler | | l
+Frigobar | | Minibar | | r
+Abajur | Luminária | Lamp | Lámpara | r
+Ventilador de teto | | Ceiling fan | | e
+Purificador de ar | | Air purifier | | e
+Smart speaker | Alexa | | | e
+
+== obj-ferramentas | Cite uma ferramenta | media | ferramentas;oficina | https://pt.wikipedia.org/wiki/Ferramenta
+Martelo | | Hammer | Martillo | c
+Chave de fenda | Chave de parafuso | Screwdriver | Destornillador | c
+Alicate | | Pliers | Alicate | c
+Serrote | | Handsaw | Serrucho | c
+Furadeira | | Drill | Taladro | c
+Chave inglesa | | Adjustable wrench;Wrench | Llave inglesa | c
+Trena | Fita métrica | Tape measure | Cinta métrica | c
+Serra | | Saw | Sierra | c
+Chave de boca | | Open-end wrench | Llave fija | i
+Chave Phillips | Chave estrela | Phillips screwdriver | | i
+Parafusadeira | | Cordless screwdriver | Atornillador | i
+Lixa | | Sandpaper | | i
+Nível | Nível de bolha | Spirit level | Nivel | i
+Esquadro | | Square | Escuadra | i
+Pá | | Shovel | Pala | c
+Enxada | | Hoe | Azada | c
+Picareta | | Pickaxe | Pico | i
+Machado | | Axe | Hacha | c
+Foice | | Sickle | Hoz | i
+Facão | | Machete | Machete | i
+Rastelo | Ancinho | Rake | Rastrillo | i
+Tesoura de poda | | Pruning shears | Tijeras de podar | r
+Carrinho de mão | | Wheelbarrow | Carretilla | i
+Escada | | Ladder | Escalera | i
+Marreta | | Sledgehammer | Mazo | i
+Talhadeira | | Cold chisel | | r
+Formão | | Chisel | Formón | r
+Plaina | | Plane | Cepillo | r
+Lima | | File | Lima | r
+Grosa | | Rasp | Escofina | e
+Torno | Torno de bancada | Vise;Vice | Tornillo de banco | r
+Grampo | Sargento | Clamp | Sargento | r
+Esmerilhadeira | Lixadeira angular;Esmeril | Angle grinder | Amoladora | r
+Lixadeira | | Sander | Lijadora | r
+Serra tico-tico | Tico-tico | Jigsaw | Sierra de calar | r
+Serra circular | | Circular saw | Sierra circular | r
+Motosserra | | Chainsaw | Motosierra | i
+Ferro de solda | | Soldering iron | | r
+Máquina de solda | | Welder | | e
+Pistola de cola quente | | Hot glue gun | Pistola de silicona | r
+Chave Allen | Chave hexagonal | Allen key | Llave Allen | r
+Chave de roda | | Lug wrench | Llave de cruz | r
+Macaco | Macaco hidráulico | Car jack;Jack | | i
+Torquês | | Pincers | Tenaza | e
+Pé de cabra | | Crowbar | Palanca | r
+Prumo | | Plumb bob | Plomada | e
+Colher de pedreiro | | Trowel | Paleta;Llana | r
+Desempenadeira | | Float | | e
+Broxa | | | | e
+Pincel | | Paintbrush | Pincel | r
+Rolo de pintura | Rolo | Paint roller | Rodillo | r
+Estilete | | Utility knife | Cúter | i
+Grampeador | Grampeador de parede | Staple gun | Grapadora | e
+Multímetro | | Multimeter | Multímetro | e
+Paquímetro | | Caliper | Calibre | e
+Compressor de ar | Compressor | Air compressor | Compresor | e
+Lanterna | | Flashlight | Linterna | r
+Cavadeira | | Post hole digger | | e
+Garfo de jardim | Forcado | Pitchfork | Horca | e
+Regador | | Watering can | Regadera | r
+Mangueira | | Hose | Manguera | r
+Roçadeira | | Brush cutter | Desbrozadora | r
+Cortador de grama | | Lawn mower | Cortacésped | r
+Bigorna | | Anvil | Yunque | e
+Tesoura | | Scissors | Tijeras | i
+Arco de serra | Serra de arco | Hacksaw | Sierra de arco | e
+Chave de grifo | | Pipe wrench | Llave Stillson | e
+Rebitador | | Rivet gun | Remachadora | l
+Riscador | | Scriber | | l
+Punção | | Punch | Punzón | l
+Trincha | | | | e
+Espátula de pintor | Espátula | Putty knife | | e
+Ventosa | | Suction cup | Ventosa | l
+
+== obj-comodos | Cite um cômodo ou espaço de uma casa | facil | casa;cômodos | https://pt.wikipedia.org/wiki/C%C3%B4modo
+Sala | Sala de estar | Living room | Sala | c
+Cozinha | | Kitchen | Cocina | c
+Quarto | Dormitório | Bedroom | Dormitorio;Habitación | c
+Banheiro | | Bathroom | Baño | c
+Lavanderia | | Laundry room | Lavandería | c
+Varanda | Sacada | Balcony | Balcón | c
+Garagem | | Garage | Garaje | c
+Quintal | | Backyard;Yard | Patio trasero | c
+Corredor | | Hallway;Corridor | Pasillo | c
+Área de serviço | | Utility room | | c
+Sala de jantar | | Dining room | Comedor | c
+Escritório | Home office | Office;Study | Despacho | c
+Sótão | | Attic | Desván | i
+Porão | | Basement | | i
+Closet | | | | i
+Despensa | | Pantry | Despensa | i
+Hall de entrada | Hall;Vestíbulo | Entrance hall | Recibidor | i
+Jardim | | Garden | Jardín | i
+Terraço | | Terrace | Terraza | i
+Lavabo | | Powder room | Aseo | i
+Suíte | | Suite | Suite | i
+Copa | | | | r
+Edícula | | | | r
+Adega | | Wine cellar | Bodega | r
+Biblioteca | | Library | | r
+Home theater | Sala de cinema;Sala de TV | Home theater | | r
+Academia | Sala de ginástica | Home gym | Gimnasio | r
+Brinquedoteca | Sala de brinquedos | Playroom | Cuarto de juegos | r
+Churrasqueira | Área gourmet;Espaço gourmet | | | i
+Piscina | | Swimming pool | Piscina | i
+Quarto de hóspedes | | Guest room | Cuarto de invitados | r
+Quarto de empregada | Dependência de empregada | | | r
+Escada | | Stairs | Escalera | i
+Mezanino | | Mezzanine | Entresuelo | e
+Jardim de inverno | | Conservatory | Jardín de invierno | e
+Ateliê | | Atelier | Taller | e
+Solário | | Solarium | | e
+Sauna | | | | e
+Pátio | | Patio | | r
+Alpendre | | Porch | | r
+Cobertura | | Penthouse | | e
+Laje | | | | r
+Rouparia | | Linen closet | | l
+Depósito | Quartinho de bagunça | Storage room | Trastero | r
+Canil | | Kennel | Perrera | e
+Horta | | Vegetable garden | Huerta | e
+Estúdio de música | Estúdio | Music studio | | e
+
+== obj-material-escolar | Cite um item de material escolar | facil | escola;papelaria | https://pt.wikipedia.org/wiki/Material_escolar
+Lápis | | Pencil | Lápiz | c
+Caneta | | Pen | Bolígrafo | c
+Borracha | | Eraser;Rubber | Goma de borrar | c
+Caderno | | Notebook | Cuaderno | c
+Mochila | | Backpack | | c
+Régua | | Ruler | Regla | c
+Apontador | | Pencil sharpener;Sharpener | Sacapuntas | c
+Estojo | | Pencil case | Estuche | c
+Tesoura | Tesoura sem ponta | Scissors | Tijeras | c
+Cola | | Glue | Pegamento | c
+Lápis de cor | | Colored pencil | Lápiz de color | c
+Giz de cera | | Crayon | Crayón | c
+Livro | | Book | Libro | c
+Agenda | | Planner | | i
+Compasso | | Compass | Compás | i
+Transferidor | | Protractor | Transportador | i
+Esquadro | | Set square | Escuadra | i
+Calculadora | | Calculator | | i
+Marca-texto | | Highlighter | Resaltador | i
+Canetinha | Hidrocor | Felt-tip pen;Marker | Rotulador | i
+Corretivo | | Correction fluid;White-out | Corrector | i
+Fichário | | Binder | Carpeta de anillas | i
+Pasta | | Folder | | i
+Lancheira | | Lunch box | Lonchera | i
+Dicionário | | Dictionary | Diccionario | i
+Grampeador | | Stapler | Grapadora | r
+Clipe | | Paper clip | Clip | r
+Papel sulfite | Sulfite;Folha A4 | Printer paper | | r
+Cartolina | | Poster board | Cartulina | r
+Papel crepom | | Crepe paper | Papel crepé | r
+Papel-cartão | | Cardstock | | e
+EVA | | Craft foam | Goma eva | r
+Tinta guache | Guache | Gouache | Témpera | r
+Pincel | | Paintbrush | | r
+Massinha de modelar | Massinha;Massa de modelar | Modeling clay;Play-Doh | Plastilina | r
+Lapiseira | | Mechanical pencil | Portaminas | i
+Grafite | | Pencil lead | Mina | r
+Durex | Fita adesiva | Tape;Scotch tape | Cinta adhesiva | r
+Post-it | Bloco adesivo | Sticky note | | r
+Caneta esferográfica | Esferográfica | Ballpoint pen | | e
+Bloco de notas | | Notepad | Libreta | e
+Papel quadriculado | | Graph paper | | e
+Papel de seda | | Tissue paper | Papel de seda | e
+Cola colorida | | Glitter glue | | e
+Cola bastão | | Glue stick | Barra de pegamento | r
+Caderno de desenho | | Sketchbook | | r
+Pen drive | | Flash drive;USB drive | | e
+Uniforme | | Uniform | Uniforme | e
+Garrafinha | Garrafa de água;Squeeze | Water bottle | Botella | e
+Etiqueta | | Label | | e
+Papel almaço | Almaço | | | e
+Globo terrestre | | Globe | Globo terráqueo | l
+Mapa | | Map | | l
+Atlas | | | | e
+Lousa | Quadro-negro | Blackboard | Pizarra | l
+Giz | | Chalk | Tiza | l
+Pincel atômico | Marcador permanente | Permanent marker | | e
+Furador | Perfurador | Hole punch | Perforadora | e
+Prancheta | | Clipboard | Tabla con clip | e
+
+== obj-higiene-banheiro | Cite um item de higiene pessoal ou de banheiro | facil | banheiro;higiene | https://pt.wikipedia.org/wiki/Higiene_pessoal
+Sabonete | | Soap | Jabón | c
+Xampu | Shampoo | Shampoo | Champú | c
+Condicionador | | Conditioner | Acondicionador | c
+Escova de dentes | | Toothbrush | Cepillo de dientes | c
+Pasta de dente | Creme dental | Toothpaste | Pasta de dientes | c
+Toalha | | Towel | Toalla | c
+Papel higiênico | | Toilet paper | Papel higiénico | c
+Desodorante | | Deodorant | Desodorante | c
+Fio dental | | Dental floss | Hilo dental | c
+Pente | | Comb | Peine | c
+Escova de cabelo | | Hairbrush | Cepillo de pelo | c
+Barbeador | Aparelho de barbear;Gilete | Razor | Maquinilla de afeitar | c
+Espelho | | Mirror | Espejo | c
+Perfume | | | | c
+Cotonete | Haste flexível | Cotton swab;Q-tip | Bastoncillo | i
+Algodão | | Cotton | Algodón | i
+Hidratante | Creme hidratante | Moisturizer | Crema hidratante | i
+Protetor solar | Filtro solar | Sunscreen | Protector solar | i
+Enxaguante bucal | Antisséptico bucal | Mouthwash | Enjuague bucal | i
+Absorvente | | Sanitary pad | Toalla higiénica | i
+Cortador de unha | Corta-unha | Nail clipper | Cortaúñas | i
+Lixa de unha | | Nail file | Lima de uñas | i
+Alicate de unha | | Cuticle nipper | | r
+Pinça | | Tweezers | Pinzas | i
+Espuma de barbear | Creme de barbear | Shaving cream | Espuma de afeitar | i
+Loção pós-barba | Pós-barba | Aftershave | Loción para después del afeitado | r
+Sabonete líquido | | Liquid soap;Body wash | Jabón líquido | i
+Bucha | Bucha vegetal | Loofah | Esponja vegetal | i
+Touca de banho | | Shower cap | Gorro de ducha | r
+Roupão | | Bathrobe | Albornoz | r
+Tapete de banheiro | | Bath mat | Alfombra de baño | r
+Cortina de box | Cortina de banheiro | Shower curtain | Cortina de ducha | r
+Lixeira | Cesto de lixo | Trash can | Papelera | r
+Escova sanitária | | Toilet brush | Escobilla | r
+Lenço umedecido | | Wet wipe | Toallita húmeda | r
+Fralda | | Diaper | Pañal | r
+Talco | | Talc;Baby powder | Talco | r
+Secador de cabelo | | Hair dryer | Secador | r
+Chapinha | | Flat iron | Plancha | r
+Maquiagem | | Makeup | Maquillaje | r
+Batom | | Lipstick | Pintalabios | r
+Rímel | Máscara de cílios | Mascara | Rímel | r
+Base | | Foundation | | e
+Esmalte | | Nail polish | Esmalte de uñas | r
+Removedor de esmalte | Acetona | Nail polish remover | Quitaesmalte | r
+Demaquilante | | Makeup remover | Desmaquillante | e
+Sabonete íntimo | | Intimate soap | | e
+Coletor menstrual | | Menstrual cup | Copa menstrual | e
+Tampão | | Tampon | Tampón | e
+Lâmina de barbear | Lâmina | Razor blade | Cuchilla | e
+Pedra-pomes | | Pumice stone | Piedra pómez | e
+Óleo corporal | | Body oil | Aceite corporal | e
+Esfoliante | | Exfoliant;Scrub | Exfoliante | e
+Gel de cabelo | Gel | Hair gel | Gomina | r
+Pomada modeladora | | Hair pomade | | e
+Creme de pentear | | Leave-in | | e
+Máscara capilar | | Hair mask | Mascarilla capilar | e
+Elástico de cabelo | Xuxinha;Liga | Hair tie | Coletero | e
+Sabonete facial | | Face wash | | l
+Tônico facial | | Toner | Tónico | l
+Lenço de papel | | Tissue | Pañuelo de papel | r
+Antitranspirante | | Antiperspirant | | l
+Escova interdental | | Interdental brush | | l
+Raspador de língua | | Tongue scraper | | l
+Saboneteira | | Soap dish | Jabonera | r
+Porta-escova | | Toothbrush holder | | e

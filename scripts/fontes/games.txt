@@ -1,0 +1,479 @@
+tema: games
+nome: Games e Jogos
+
+== gam-pokemon-gen1 | Cite um Pokémon da 1ª geração (Kanto, nº 1 a 151) | media | pokémon;nintendo | https://pt.wikipedia.org/wiki/Lista_de_Pok%C3%A9mon
+Pikachu | c
+Bulbasaur | c
+Charmander | c
+Squirtle | c
+Charizard | c
+Mewtwo | c
+Mew | c
+Jigglypuff | c
+Meowth | c
+Psyduck | c
+Snorlax | c
+Eevee | c
+Gengar | c
+Magikarp | c
+Gyarados | c
+Onix | c
+Raichu | c
+Blastoise | c
+Venusaur | c
+Butterfree | c
+Ditto | c
+Dragonite | c
+Lapras | c
+Vulpix | c
+Pidgey | c
+Rattata | c
+Caterpie | c
+Geodude | c
+Abra | i
+Slowpoke | i
+Cubone | i
+Machamp | i
+Arcanine | i
+Growlithe | i
+Charmeleon | i
+Ivysaur | i
+Wartortle | i
+Metapod | i
+Weedle | i
+Pidgeotto | i
+Pidgeot | i
+Ekans | i
+Arbok | i
+Zubat | i
+Golbat | i
+Oddish | i
+Diglett | i
+Poliwag | i
+Kadabra | i
+Alakazam | i
+Machop | i
+Golem | i
+Ponyta | i
+Magnemite | i
+Gastly | i
+Haunter | i
+Voltorb | i
+Koffing | i
+Weezing | i
+Horsea | i
+Staryu | i
+Starmie | i
+Mr. Mime | Mr Mime | i
+Scyther | i
+Jynx | i
+Electabuzz | i
+Magmar | i
+Vaporeon | i
+Jolteon | i
+Flareon | i
+Porygon | i
+Aerodactyl | i
+Articuno | i
+Zapdos | i
+Moltres | i
+Dratini | i
+Dragonair | i
+Clefairy | i
+Wigglytuff | i
+Ninetales | i
+Kakuna | r
+Beedrill | r
+Raticate | r
+Spearow | r
+Fearow | r
+Sandshrew | r
+Sandslash | r
+Nidoran fêmea | Nidoran F | r
+Nidorina | r
+Nidoqueen | r
+Nidoran macho | Nidoran M | r
+Nidorino | r
+Nidoking | r
+Clefable | r
+Gloom | r
+Vileplume | r
+Paras | r
+Parasect | r
+Venonat | r
+Venomoth | r
+Dugtrio | r
+Persian | r
+Golduck | r
+Mankey | r
+Primeape | r
+Poliwhirl | r
+Poliwrath | r
+Machoke | r
+Bellsprout | r
+Weepinbell | r
+Victreebel | r
+Tentacool | r
+Tentacruel | r
+Graveler | r
+Rapidash | r
+Slowbro | r
+Magneton | r
+Farfetch'd | Farfetchd | r
+Doduo | r
+Dodrio | r
+Seel | r
+Dewgong | r
+Grimer | r
+Muk | r
+Shellder | r
+Cloyster | r
+Drowzee | r
+Hypno | r
+Krabby | r
+Kingler | r
+Electrode | r
+Exeggcute | e
+Exeggutor | r
+Marowak | r
+Hitmonlee | r
+Hitmonchan | r
+Lickitung | r
+Rhyhorn | r
+Rhydon | r
+Chansey | r
+Tangela | e
+Kangaskhan | r
+Seadra | e
+Goldeen | r
+Seaking | e
+Pinsir | e
+Tauros | e
+Omanyte | r
+Omastar | e
+Kabuto | r
+Kabutops | e
+
+== gam-consoles | Cite um console de videogame | media | videogame;consoles | https://pt.wikipedia.org/wiki/Lista_de_consoles_de_videogame
+@nota Diga o modelo/geração (ex.: PlayStation 2). "PlayStation" sozinho é ambíguo.
+PS1 | PlayStation 1;PSOne;PSX;PlayStation One | | | c
+PlayStation 2 | PS2 | | | c
+PlayStation 3 | PS3 | | | c
+PlayStation 4 | PS4 | | | c
+PlayStation 5 | PS5 | | | c
+Xbox | Xbox clássico | | | c
+Xbox 360 | | | | c
+Xbox One | | | | i
+Xbox Series X | Xbox Series S;Xbox Series | | | i
+Nintendo Switch | Switch | | | c
+Switch 2 | | | | i
+Super Nintendo | SNES;Super NES | | | c
+NES | Nintendinho;Nintendo Entertainment System;Famicom | | | c
+Nintendo 64 | N64 | | | c
+Mega Drive | Sega Genesis | Sega Genesis | | c
+Atari 2600 | Atari | | | c
+Wii | Nintendo Wii | | | c
+Game Boy | | | | c
+PSP | PlayStation Portable | | | i
+GameCube | Nintendo GameCube | | | i
+Wii U | | | | i
+Game Boy Color | GBC | | | i
+Game Boy Advance | GBA | | | i
+Nintendo DS | DS;Nintendo DSi;DS Lite | | | i
+Nintendo 3DS | 3DS | | | i
+Master System | Sega Master System | | | i
+Dreamcast | Sega Dreamcast | | | i
+Sega Saturn | Saturn | | | r
+PS Vita | PlayStation Vita;Vita | | | r
+Game Gear | Sega Game Gear | | | r
+Steam Deck | | | | r
+Neo Geo | | | | r
+Virtual Boy | | | | e
+Odyssey | Magnavox Odyssey;Odyssey² | | | e
+Atari 7800 | | | | e
+Atari Jaguar | Jaguar | | | e
+Atari Lynx | Lynx | | | e
+TurboGrafx-16 | PC Engine | | | e
+3DO | | | | e
+ColecoVision | | | | l
+Intellivision | | | | l
+Phantom System | | | | l
+Ouya | | | | l
+N-Gage | | | | l
+WonderSwan | | | | l
+Philips CD-i | CD-i | | | l
+Sega CD | Mega-CD | | | l
+New Nintendo 3DS | | | | l
+Switch Lite | Nintendo Switch Lite | | | r
+
+== gam-personagens-mario | Cite um personagem do universo Super Mario | facil | nintendo;mario | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Mario
+Mario | Super Mario | | | c
+Luigi | | | | c
+Princesa Peach | Peach | Princess Peach | Princesa Peach | c
+Bowser | | | | c
+Yoshi | | | | c
+Toad | | | | c
+Donkey Kong | DK | | | c
+Wario | | | | c
+Waluigi | | | | c
+Princesa Daisy | Daisy | Princess Daisy | | i
+Rosalina | | | Estela | i
+Diddy Kong | Diddy | | | i
+Bowser Jr. | Bowser Junior | | | i
+Koopa Troopa | Koopa | | | i
+Goomba | | | | c
+Boo | | | | i
+King Boo | Rei Boo | | | r
+Shy Guy | | | | r
+Lakitu | | | | r
+Kamek | Magikoopa | | | r
+Birdo | | | | r
+Toadette | | | | r
+Toadsworth | | | | e
+Pauline | | | | r
+Professor E. Gadd | E. Gadd | | | e
+Planta Piranha | Piranha Plant | Piranha Plant | | i
+Petey Piranha | | | | e
+Bob-omb | | | | r
+Bullet Bill | Bill Bala | | | r
+Chain Chomp | | | | r
+Blooper | | | | e
+Hammer Bro | Irmão Martelo | | | e
+Dry Bones | | | | e
+Thwomp | | | | r
+Wiggler | | | | e
+Cappy | | | | r
+Larry Koopa | | | | l
+Morton Koopa Jr. | Morton | | | l
+Wendy O. Koopa | Wendy | | | l
+Iggy Koopa | Iggy | | | l
+Roy Koopa | | | | l
+Lemmy Koopa | Lemmy | | | l
+Ludwig von Koopa | Ludwig | | | l
+Funky Kong | | | | e
+Cranky Kong | | | | e
+Dixie Kong | | | | e
+Nabbit | | | | l
+Pom Pom | | | | l
+Boom Boom | | | | e
+Cheep Cheep | | | | e
+Monty Mole | | | | e
+Captain Toad | Capitão Toad | | | r
+Baby Mario | Bebê Mario | | | r
+Baby Luigi | Bebê Luigi | | | e
+Lubba | | | | l
+Spike | | | | l
+Pianta | | | | e
+
+== gam-street-fighter | Cite um personagem de Street Fighter | dificil | luta;capcom | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Street_Fighter
+Ryu | c
+Ken | Ken Masters | | | c
+Chun-Li | Chun Li | | | c
+Guile | | | | c
+Blanka | | | | c
+Zangief | | | | c
+Dhalsim | | | | c
+E. Honda | Honda;Edmond Honda | | | c
+M. Bison | Bison;Dictator | | | c
+Balrog | Boxer | | | i
+Vega | Claw | | | i
+Sagat | | | | i
+Cammy | | | | i
+Akuma | Gouki | | | i
+Fei Long | | | | i
+Dee Jay | | | | r
+T. Hawk | Thunder Hawk | | | r
+Sakura | | | | i
+Dan | Dan Hibiki | | | r
+Rose | | | | r
+Guy | | | | r
+Cody | | | | r
+Juri | | | | r
+Laura | Laura Matsuda | | | r
+Sean | Sean Matsuda | | | e
+Gen | | | | e
+Charlie Nash | Nash;Charlie | | | r
+Rainbow Mika | R. Mika | | | e
+Karin | | | | e
+Ibuki | | | | e
+Makoto | | | | e
+Dudley | | | | e
+Alex | | | | e
+Elena | | | | e
+Yun | | | | e
+Yang | | | | e
+Oro | | | | l
+Necro | | | | l
+Urien | | | | l
+Gill | | | | e
+Hugo | | | | l
+Abel | | | | e
+C. Viper | Crimson Viper | | | e
+Rufus | | | | e
+El Fuerte | | | | e
+Seth | | | | e
+Hakan | | | | l
+Rashid | | | | e
+Luke | | | | e
+Jamie | | | | l
+Kimberly | | | | l
+Lily | | | | l
+Manon | | | | l
+Marisa | | | | l
+JP | | | | l
+Rolento | | | | l
+Sodom | | | | l
+Birdie | | | | l
+Adon | | | | l
+Ed | | | | l
+Menat | | | | l
+Kolin | | | | l
+Necalli | | | | l
+Zeku | | | | l
+
+== gam-tabuleiro-cartas | Cite um jogo de tabuleiro ou de cartas | facil | tabuleiro;cartas;jogos | https://pt.wikipedia.org/wiki/Jogo_de_tabuleiro
+Banco Imobiliário | Monopoly | Monopoly | Monopoly | c
+Xadrez | | Chess | Ajedrez | c
+Damas | Jogo de damas | Checkers;Draughts | | c
+War | Risk | Risk | | c
+Detetive | Clue;Cluedo | Clue;Cluedo | | c
+Jogo da Vida | | The Game of Life | | c
+Ludo | | | Parchís | c
+Dominó | | Dominoes | | c
+Uno | | | | c
+Truco | | | | c
+Pôquer | Poker | Poker | Póquer | c
+Batalha Naval | | Battleship | Batalla naval | c
+Jogo da Velha | | Tic-tac-toe | Tres en raya | c
+Imagem & Ação | | Pictionary | | i
+Perfil | | | | i
+Buraco | | | | i
+Canastra | | Canasta | Canasta | i
+Gamão | | Backgammon | Backgammon | i
+Scrabble | Palavras Cruzadas | | | i
+Cara a Cara | | Guess Who? | Adivina quién | i
+Twister | | | | i
+Jenga | | | | i
+Pula Pirata | | Pop-up Pirate | | i
+Lig 4 | | Connect Four | Conecta 4 | i
+Resta Um | | Peg solitaire | | r
+Paciência | | Solitaire | Solitario | i
+Tranca | | | | r
+Sueca | | | | r
+Super Trunfo | | Top Trumps | | i
+Mico | | Old Maid | | r
+Bingo | | | | i
+Pega-varetas | | Mikado;Pick-up sticks | | r
+Cai Não Cai | | Kerplunk | | r
+Combate | Stratego | Stratego | | r
+Senha | Mastermind | Mastermind | | r
+Go | | | | r
+Mahjong | | | | r
+Trilha | Moinho | Nine men's morris | | r
+Damas chinesas | | Chinese checkers | Damas chinas | r
+Catan | Colonizadores de Catan | | | r
+Ticket to Ride | | | | e
+Carcassonne | | | | e
+Dixit | | | | e
+Pandemic | | | | e
+Rummikub | | | | r
+Codenames | | | | e
+Azul | | | | e
+Splendor | | | | e
+7 Wonders | | | | e
+Dungeons & Dragons | D&D | | | r
+Magic: The Gathering | Magic | | | r
+Yu-Gi-Oh! | Yu-Gi-Oh | | | r
+Pokémon Estampas Ilustradas | Pokémon TCG | Pokémon Trading Card Game | | e
+Blackjack | Vinte e um;21 | | | r
+Pife | Pif-paf | | | r
+Burro | | | | e
+Copas | | Hearts | Corazones | e
+Bridge | | | | e
+Cacheta | | | | e
+Rouba-monte | | | | e
+Escopa | | | | e
+Sobe e Desce | Escadas e Serpentes | Snakes and Ladders | Serpientes y escaleras | e
+Scotland Yard | | | | e
+Exploding Kittens | | | | l
+Coup | | | | l
+Sushi Go | | | | l
+Terra Mystica | | | | l
+
+== gam-minecraft-mobs | Cite um mob (criatura) do Minecraft | media | minecraft;mojang | https://pt.wikipedia.org/wiki/Minecraft
+Creeper | | | | c
+Zumbi | | Zombie | Zombi | c
+Esqueleto | | Skeleton | | c
+Aranha | | Spider | | c
+Enderman | | | | c
+Dragão do Ender | Ender Dragon | Ender Dragon | | c
+Wither | | | | c
+Aldeão | | Villager | Aldeano | c
+Porco | | Pig | | c
+Vaca | | Cow | | c
+Ovelha | | Sheep | | c
+Galinha | | Chicken | | c
+Slime | | | | c
+Ghast | | | | i
+Blaze | | | | i
+Bruxa | | Witch | Bruja | i
+Golem de Ferro | | Iron Golem | Gólem de hierro | i
+Golem de Neve | | Snow Golem | Gólem de nieve | r
+Lobo | | Wolf | | i
+Gato | | Cat | | i
+Cavalo | | Horse | | i
+Warden | | | | i
+Cubo de Magma | | Magma Cube | | i
+Afogado | | Drowned | Ahogado | i
+Piglin | | | | i
+Phantom | | | | i
+Abelha | | Bee | | i
+Axolote | | Axolotl | Ajolote | i
+Coelho | | Rabbit | | r
+Burro | | Donkey | | r
+Mula | | Mule | | r
+Lhama | | Llama | | r
+Panda | | | | r
+Raposa | | Fox | Zorro | r
+Urso-polar | | Polar Bear | Oso polar | r
+Tartaruga | | Turtle | Tortuga | r
+Golfinho | | Dolphin | Delfín | r
+Lula | | Squid | Calamar | r
+Lula brilhante | | Glow Squid | | e
+Bacalhau | | Cod | | e
+Salmão | | Salmon | | e
+Peixe tropical | | Tropical Fish | | e
+Baiacu | | Pufferfish | | e
+Cabra | | Goat | | r
+Sapo | | Frog | Rana | r
+Girino | | Tadpole | Renacuajo | e
+Allay | | | | r
+Guardião | | Guardian | Guardián | r
+Guardião Ancião | | Elder Guardian | | e
+Shulker | | | | r
+Endermite | | | | e
+Traça | | Silverfish | Lepisma | e
+Vex | | | | e
+Evocador | | Evoker | | e
+Vingador | | Vindicator | | e
+Saqueador | | Pillager | Saqueador | r
+Devastador | | Ravager | | e
+Piglin bruto | | Piglin Brute | | e
+Hoglin | | | | r
+Zoglin | | | | e
+Strider | | | | e
+Piglin zumbificado | Zombie Pigman;Homem-porco zumbi | Zombified Piglin | | r
+Esqueleto Wither | | Wither Skeleton | | r
+Morcego | | Bat | Murciélago | r
+Papagaio | | Parrot | | r
+Jaguatirica | | Ocelot | Ocelote | e
+Camelo | | Camel | | e
+Farejador | | Sniffer | | e
+Tatu | | Armadillo | | e
+Breeze | | | | e
+Creaking | | | | l
+Husk | Zumbi do deserto | | | e
+Stray | | | | e
+Zumbi aldeão | | Zombie Villager | | e
+Mooshroom | Vaca-cogumelo | | | e
+Mercador ambulante | Comerciante ambulante | Wandering Trader | | r

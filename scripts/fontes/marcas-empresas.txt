@@ -1,0 +1,464 @@
+tema: marcas-empresas
+nome: Marcas e Empresas
+
+== mar-montadoras | Cite uma marca (montadora) de carro | facil | carros;montadoras | https://pt.wikipedia.org/wiki/Lista_de_fabricantes_de_autom%C3%B3veis
+Volkswagen | VW | | | c
+Fiat | | | | c
+Chevrolet | GM;Chevy | | | c
+Ford | | | | c
+Toyota | | | | c
+Honda | | | | c
+Hyundai | | | | c
+Renault | | | | c
+Ferrari | | | | c
+Peugeot | | | | c
+BMW | | | | c
+Mercedes-Benz | Mercedes | | | c
+Nissan | | | | c
+Jeep | | | | c
+Audi | | | | c
+Citroën | Citroen | | | i
+Mitsubishi | | | | i
+Kia | | | | i
+Volvo | | | | i
+Lamborghini | | | | i
+Porsche | | | | i
+Tesla | | | | i
+BYD | | | | i
+Caoa Chery | Chery | | | i
+Suzuki | | | | i
+Land Rover | Range Rover | | | i
+Jaguar | | | | r
+Mini | | | | r
+Dodge | | | | r
+RAM | | | | r
+Chrysler | | | | r
+Subaru | | | | r
+Mazda | | | | r
+Lexus | | | | r
+Maserati | | | | r
+Alfa Romeo | | | | r
+Bugatti | | | | r
+McLaren | | | | r
+Aston Martin | | | | r
+Bentley | | | | r
+Rolls-Royce | | | | r
+Cadillac | | | | r
+Gurgel | | | | e
+Troller | | | | e
+JAC | JAC Motors | | | e
+GWM | Great Wall;Haval | | | e
+Lotus | | | | e
+Lada | | | | e
+Seat | | | | e
+Skoda | Škoda | | | e
+Opel | | | | e
+Smart | | | | e
+Lancia | | | | l
+Dacia | | | | l
+Lincoln | | | | l
+Buick | | | | l
+GMC | | | | l
+Pagani | | | | l
+Koenigsegg | | | | l
+Puma | | | | l
+Scania | | | | e
+Iveco | | | | l
+Willys | Willys-Overland | | | e
+Simca | | | | l
+DKW | DKW-Vemag;Vemag | | | l
+
+== mar-modelos-carro-brasil | Cite um modelo de carro vendido no Brasil | media | carros;brasil | https://pt.wikipedia.org/wiki/Ind%C3%BAstria_automobil%C3%ADstica_no_Brasil
+Gol | VW Gol | | | c
+Fusca | Fusquinha | Beetle | Escarabajo | c
+Uno | Fiat Uno | | | c
+Palio | | | | c
+Celta | | | | c
+Corsa | | | | c
+Onix | | | | c
+HB20 | | | | c
+Kombi | | | | c
+Brasília | | | | c
+Chevette | | | | c
+Opala | | | | c
+Civic | Honda Civic | | | c
+Corolla | | | | c
+Hilux | | | | c
+Strada | | | | c
+Saveiro | | | | c
+Fiesta | | | | c
+Ka | Ford Ka | | | c
+EcoSport | | | | i
+Fox | | | | i
+Polo | | | | i
+Voyage | | | | i
+Golf | | | | i
+Jetta | | | | i
+Passat | | | | i
+Santana | | | | i
+Parati | | | | i
+Up! | Up | | | i
+T-Cross | | | | i
+Nivus | | | | i
+Virtus | | | | i
+Toro | | | | i
+Mobi | | | | i
+Argo | | | | i
+Cronos | | | | r
+Siena | | | | i
+Punto | | | | i
+Tempra | | | | r
+Elba | | | | r
+Prêmio | | | | r
+Fiat 147 | 147 | | | i
+Marea | | | | r
+Doblò | Doblo | | | r
+City | | | | i
+Fit | | | | i
+HR-V | HRV | | | i
+Etios | | | | i
+Yaris | | | | r
+SW4 | | | | r
+Sandero | | | | i
+Logan | | | | i
+Clio | | | | i
+Duster | | | | i
+Kwid | | | | i
+Captur | | | | r
+Peugeot 206 | 206 | | | i
+Peugeot 207 | 207 | | | r
+Peugeot 208 | 208 | | | i
+Peugeot 2008 | 2008 | | | r
+C3 | Citroën C3 | | | r
+Creta | | | | i
+Tucson | | | | r
+Compass | | | | i
+Renegade | | | | i
+Commander | | | | r
+S10 | | | | i
+Prisma | | | | i
+Astra | | | | i
+Vectra | | | | i
+Omega | | | | r
+Meriva | | | | r
+Zafira | | | | r
+Spin | | | | i
+Tracker | | | | i
+Cruze | | | | i
+Cobalt | | | | r
+Montana | | | | r
+D20 | | | | r
+Caravan | | | | r
+Veraneio | | | | e
+Corcel | | | | i
+Del Rey | | | | r
+Belina | | | | r
+Maverick | | | | r
+Ranger | | | | r
+Pampa | | | | r
+Galaxie | | | | e
+Landau | | | | e
+Focus | | | | r
+Sentra | | | | r
+March | | | | r
+Versa | | | | r
+Kicks | | | | i
+Frontier | | | | r
+L200 | | | | r
+Pajero | | | | r
+Lancer | | | | r
+Dodge Dart | Dart | | | e
+Charger | Dodge Charger | | | e
+Aero Willys | | | | l
+Rural | Rural Willys | | | e
+Jeep Willys | | | | e
+Puma GT | | | | l
+BR-800 | Gurgel BR-800 | | | l
+Quantum | Santana Quantum | | | e
+Logus | | | | e
+Pointer | | | | l
+Apollo | | | | l
+Verona | | | | l
+Versailles | | | | l
+Royale | | | | l
+Kadett | | | | r
+Monza | | | | r
+Escort | | | | r
+Tipo | Fiat Tipo | | | r
+Fiorino | | | | r
+Variant | | | | e
+TL | VW TL | | | l
+SP2 | VW SP2 | | | l
+Karmann-Ghia | Karmann Ghia | | | e
+Dolphin | BYD Dolphin | | | r
+Pulse | Fiat Pulse | | | r
+Fastback | Fiat Fastback | | | r
+Tiggo | | | | e
+Kardian | | | | e
+
+== mar-fast-food | Cite uma rede de fast food ou de restaurantes | facil | restaurantes;fast food | https://pt.wikipedia.org/wiki/Fast_food
+McDonald's | McDonalds;Mc;Méqui | | | c
+Burger King | BK | | | c
+Subway | | | | c
+KFC | Kentucky Fried Chicken | | | c
+Bob's | Bobs | | | c
+Habib's | Habibs | | | c
+Giraffas | | | | c
+Spoleto | | | | c
+China in Box | | | | i
+Pizza Hut | | | | c
+Domino's | Dominos;Domino's Pizza | | | i
+Outback | Outback Steakhouse | | | c
+Madero | | | | i
+Starbucks | | | | i
+Taco Bell | | | | r
+Wendy's | Wendys | | | r
+Popeyes | | | | r
+Jeronimo | | | | r
+Ragazzo | | | | i
+Viena | | | | r
+Coco Bambu | | | | i
+Applebee's | Applebees | | | r
+Chili's | Chilis | | | e
+Five Guys | | | | r
+Shake Shack | | | | e
+Dunkin' | Dunkin Donuts;Dunkin | | | r
+Casa do Pão de Queijo | | | | i
+Rei do Mate | | | | r
+Johnny Rockets | | | | e
+Hooters | | | | e
+Gendai | | | | e
+Divino Fogão | | | | e
+Montana Grill | | | | e
+Vivenda do Camarão | | | | e
+Griletto | | | | e
+Fogo de Chão | | | | r
+Dairy Queen | | | | e
+Chipotle | | | | e
+Little Caesars | | | | e
+Papa John's | Papa Johns | | | e
+Arby's | | | | l
+Carl's Jr. | Carls Jr | | | l
+Jack in the Box | | | | l
+In-N-Out | In-N-Out Burger | | | e
+Tim Hortons | | | | l
+Panda Express | | | | l
+Chiquinho Sorvetes | | | | r
+Bacio di Latte | | | | e
+Mr. Cheney | | | | e
+Jin Jin | | | | l
+Patroni | Patroni Pizza | | | l
+Frango Assado | | | | l
+Parmê | | | | e
+Cacau Show | | | | r
+Kopenhagen | | | | e
+Ráscal | | | | l
+
+== mar-tecnologia | Cite uma marca de tecnologia ou eletrônicos | facil | tecnologia;eletrônicos | https://pt.wikipedia.org/wiki/Empresa_de_tecnologia
+Apple | | | | c
+Samsung | | | | c
+Motorola | Moto | | | c
+LG | | | | c
+Sony | | | | c
+Xiaomi | | | | c
+Microsoft | | | | c
+Google | | | | c
+Dell | | | | c
+HP | Hewlett-Packard | | | c
+Lenovo | | | | c
+Positivo | | | | c
+Philips | | | | c
+Brastemp | | | | c
+Electrolux | | | | c
+Intel | | | | i
+AMD | | | | i
+Nvidia | | | | i
+Asus | | | | i
+Acer | | | | i
+Multilaser | Multi | | | i
+Panasonic | | | | i
+Huawei | | | | i
+Nokia | | | | i
+Philco | | | | i
+TCL | Semp TCL;Semp | | | i
+Toshiba | | | | i
+JBL | | | | i
+Logitech | | | | i
+Canon | | | | i
+Nikon | | | | r
+GoPro | | | | r
+Realme | | | | r
+Oppo | | | | r
+Consul | | | | i
+Mondial | | | | i
+Arno | | | | i
+Britânia | | | | i
+Walita | | | | r
+Intelbras | | | | r
+Epson | | | | r
+Xerox | | | | r
+Sharp | | | | r
+Hitachi | | | | r
+Gradiente | | | | r
+CCE | | | | r
+Nintendo | | | | i
+Kodak | | | | r
+Polaroid | | | | e
+Garmin | | | | e
+Beats | | | | e
+Bose | | | | e
+Razer | | | | e
+IBM | | | | r
+Cisco | | | | e
+Siemens | | | | r
+Qualcomm | | | | e
+Amazon | | | | i
+Meta | | | | i
+OnePlus | | | | e
+Alcatel | | | | e
+BlackBerry | | | | r
+Pioneer | | | | e
+Aiwa | | | | e
+Mabe | | | | e
+Fujifilm | | | | e
+Wacom | | | | l
+Corsair | | | | l
+HyperX | | | | l
+Kingston | | | | e
+SanDisk | | | | e
+Seagate | | | | l
+
+== mar-bancos | Cite um banco que opera ou já operou no Brasil | media | bancos;finanças | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
+Banco do Brasil | BB | | | c
+Caixa Econômica Federal | Caixa;CEF | | | c
+Itaú | Itaú Unibanco | | | c
+Bradesco | | | | c
+Santander | | | | c
+Nubank | Nu | | | c
+Inter | Banco Inter | | | c
+C6 Bank | C6 | | | i
+BTG Pactual | BTG | | | i
+Safra | Banco Safra | | | i
+Banrisul | | | | i
+PagBank | PagSeguro | | | i
+Mercado Pago | | | | i
+PicPay | | | | i
+Banco Pan | Pan | | | i
+Neon | | | | i
+Original | Banco Original | | | r
+Next | | | | r
+Sicredi | | | | i
+Sicoob | | | | i
+HSBC | | | | i
+Citibank | Citi | | | r
+Unibanco | | | | i
+Banco Real | Real | | | r
+Bamerindus | | | | r
+Banespa | | | | r
+Banco do Nordeste | BNB | | | r
+Banco da Amazônia | Basa | | | e
+BRB | Banco de Brasília | | | r
+BNDES | | | | r
+XP | XP Investimentos | | | i
+Agibank | | | | r
+BMG | Banco BMG | | | r
+Daycoval | | | | e
+Mercantil | Banco Mercantil | | | e
+Banco Votorantim | BV | | | r
+Banestes | | | | e
+Banpará | | | | e
+Banerj | | | | e
+Banco Nacional | | | | e
+Banco Econômico | Econômico | | | l
+Sofisa | | | | l
+ABC Brasil | | | | l
+Will Bank | | | | e
+Banco Modal | Modal | | | l
+Banco Bari | | | | l
+Banco Rendimento | | | | l
+Banco Fibra | | | | l
+Banco Pine | | | | l
+
+== mar-moda | Cite uma marca de roupa, calçado ou acessório | facil | moda;roupas | https://pt.wikipedia.org/wiki/Moda
+Nike | | | | c
+Adidas | | | | c
+Puma | | | | c
+Havaianas | | | | c
+Reebok | | | | c
+Mizuno | | | | c
+Olympikus | | | | c
+Lacoste | | | | c
+Zara | | | | c
+Renner | Lojas Renner | | | c
+C&A | | | | c
+Riachuelo | | | | c
+Hering | | | | c
+Gucci | | | | c
+Louis Vuitton | LV | | | c
+Chanel | | | | c
+Shein | | | | c
+Asics | | | | i
+Fila | | | | i
+Umbro | | | | i
+Under Armour | | | | i
+New Balance | | | | i
+Converse | All Star | | | i
+Vans | | | | i
+Tommy Hilfiger | Tommy | | | i
+Calvin Klein | CK | | | i
+Ralph Lauren | Polo Ralph Lauren | | | i
+Levi's | Levis | | | i
+H&M | | | | i
+Marisa | Lojas Marisa | | | i
+Prada | | | | i
+Dior | | | | i
+Versace | | | | i
+Armani | Giorgio Armani | | | i
+Dolce & Gabbana | D&G | | | r
+Hermès | Hermes | | | r
+Burberry | | | | r
+Balenciaga | | | | r
+Fendi | | | | r
+Givenchy | | | | e
+Valentino | | | | e
+Supreme | | | | r
+Diesel | | | | r
+Guess | | | | r
+Oakley | | | | r
+Ray-Ban | | | | i
+Osklen | | | | r
+Reserva | | | | r
+Farm | | | | r
+Colcci | | | | r
+Ellus | | | | e
+Forum | | | | e
+Animale | | | | e
+Quiksilver | | | | r
+Billabong | | | | r
+Rip Curl | | | | r
+Hurley | | | | e
+Cyclone | | | | r
+Mormaii | | | | r
+Melissa | | | | i
+Arezzo | | | | r
+Schutz | | | | e
+Grendene | | | | e
+Ipanema | | | | r
+Rider | | | | r
+Kappa | | | | e
+Penalty | | | | r
+Topper | | | | r
+Lupo | | | | r
+Track & Field | | | | e
+Crocs | | | | i
+Timberland | | | | e
+Dr. Martens | | | | e
+Skechers | | | | r
+Pandora | | | | r
+Vivara | | | | r
+Swarovski | | | | e
+Tiffany & Co. | Tiffany | | | e
+Rolex | | | | i
+Victoria's Secret | | | | r
+Hope | | | | e
+Insider | | | | l

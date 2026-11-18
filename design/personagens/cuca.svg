@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="t"><title id="t">Cuca</title>
+<circle cx="32" cy="32" r="32" fill="#2c3157"/>
+<path d="M48 8a9 9 0 1 0 8 12 7 7 0 1 1-8-12z" fill="#ffe9a8"/>
+<path d="M10 64c0-14 8-22 22-22s22 8 22 22z" fill="#7b3fb0"/>
+<path d="M18 56l6-4 4 6 4-6 4 6 4-6 6 4" fill="none" stroke="#c9a2e8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="32" cy="13" r="6" fill="#d8d4cc"/>
+<circle cx="32" cy="32" r="13" fill="#d9a37a"/>
+<path d="M19 30c0-9 6-14 13-14s13 5 13 14c-3-4-6-6-13-6s-10 2-13 6z" fill="#d8d4cc"/>
+<circle cx="27" cy="33" r="4" fill="none" stroke="#3a2a1a" stroke-width="1.6"/><circle cx="37" cy="33" r="4" fill="none" stroke="#3a2a1a" stroke-width="1.6"/>
+<path d="M31 33h2" stroke="#3a2a1a" stroke-width="1.6"/>
+<circle cx="27" cy="33.4" r="1.4" fill="#1d120b"/><circle cx="37" cy="33.4" r="1.4" fill="#1d120b"/>
+<path d="M27 40q5 3.5 10 0" fill="none" stroke="#1d120b" stroke-width="2" stroke-linecap="round"/>
+</svg>

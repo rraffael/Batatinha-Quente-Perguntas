@@ -1,0 +1,185 @@
+/* Batatinha Quente — design tokens
+   Tema: "Roda na Mata" — fogueira à noite, folclore brasileiro.
+   Contrastes AA verificados para os pares texto/fundo indicados nos comentários.
+   Fontes: Baloo 2 (títulos) e Nunito (texto), ambas SIL OFL — empacotar localmente em /fonts. */
+
+@font-face {
+  font-family: "Baloo 2";
+  src: url("../fonts/Baloo2-Variable.woff2") format("woff2");
+  font-weight: 400 800;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Nunito";
+  src: url("../fonts/Nunito-Variable.woff2") format("woff2");
+  font-weight: 400 900;
+  font-display: swap;
+}
+
+:root {
+  color-scheme: light;
+
+  /* ---------- Tipografia ---------- */
+  --font-display: "Baloo 2", "Trebuchet MS", system-ui, sans-serif;
+  --font-body: "Nunito", "Segoe UI", system-ui, -apple-system, sans-serif;
+  --fs-xs: 0.75rem;
+  --fs-sm: 0.875rem;
+  --fs-md: 1rem;
+  --fs-lg: 1.25rem;
+  --fs-xl: 1.625rem;
+  --fs-2xl: 2.25rem;
+  --fs-3xl: clamp(2.25rem, 6vw, 3.5rem);
+  --fs-input: 1.375rem; /* >=16px evita zoom automático no iOS */
+
+  /* ---------- Paleta base (claro) ---------- */
+  --c-bg: #fbf3e4;          /* papel de mandioca */
+  --c-bg-deep: #f3e3c6;
+  --c-surface: #ffffff;
+  --c-surface-2: #fdf8ef;
+  --c-border: #e2cfae;
+  --c-text: #2a1d14;        /* sobre --c-bg: 14.6:1 */
+  --c-text-muted: #6b5443;  /* sobre --c-bg: 6.6:1 */
+
+  --c-primary: #b8431a;     /* urucum/terracota — texto branco 5.4:1 */
+  --c-primary-hover: #9a3612;
+  --c-on-primary: #ffffff;
+  --c-secondary: #2f6b3a;   /* mata — texto branco 6.4:1 */
+  --c-secondary-hover: #255630;
+  --c-on-secondary: #ffffff;
+  --c-accent: #f2b705;      /* chama/ouro — usar com texto escuro (9:1) */
+  --c-on-accent: #2a1d14;
+
+  --c-danger: #b3261e;      /* texto branco 6.1:1 */
+  --c-success: #2e7d32;
+  --c-warning-bg: #fff1c7;  /* "já usada" — texto --c-text */
+  --c-error-bg: #fde3df;    /* "não reconhecida" — texto --c-danger 5.2:1 */
+
+  --c-heart: #d63a2f;
+  --c-heart-empty: #d9c7ad;
+
+  /* Centro da roda (clareira) */
+  --c-clearing: #e9d6ae;
+  --c-clearing-ring: #c9a96e;
+
+  /* ---------- Raridades (fundo do selo / texto do selo) ---------- */
+  --r-comum: #6b6b6b;      --r-comum-on: #ffffff;    /* 5.3:1 */
+  --r-incomum: #2e7d32;    --r-incomum-on: #ffffff;  /* 5.1:1 */
+  --r-raro: #1e5fb4;       --r-raro-on: #ffffff;     /* 6.3:1 */
+  --r-epico: #7b3fb0;      --r-epico-on: #ffffff;    /* 6.6:1 */
+  --r-lendario: #f2b705;   --r-lendario-on: #2a1d14; /* 9.0:1 */
+  --r-lendario-glow: 0 0 0 2px #fff3c4, 0 0 14px 2px rgba(242, 183, 5, 0.65);
+
+  /* ---------- Batata / fogo ---------- */
+  --c-potato: #c98a4b;
+  --c-potato-hot: #e2622a;
+  --c-fire-1: #ffd23f;
+  --c-fire-2: #ff8a1f;
+  --c-fire-3: #e2401c;
+
+  /* ---------- Espaçamento (escala 4px) ---------- */
+  --sp-1: 4px;
+  --sp-2: 8px;
+  --sp-3: 12px;
+  --sp-4: 16px;
+  --sp-5: 24px;
+  --sp-6: 32px;
+  --sp-7: 48px;
+  --sp-8: 64px;
+
+  /* ---------- Raios ---------- */
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 22px;
+  --radius-pill: 999px;
+
+  /* ---------- Sombras (quentes, nunca cinza puro) ---------- */
+  --shadow-sm: 0 1px 2px rgba(74, 42, 16, 0.12);
+  --shadow-md: 0 4px 12px rgba(74, 42, 16, 0.14);
+  --shadow-lg: 0 10px 30px rgba(74, 42, 16, 0.2);
+  --shadow-press: 0 3px 0 rgba(74, 42, 16, 0.35); /* botões "de madeira" */
+  --focus-ring: 0 0 0 3px #ffffff, 0 0 0 6px #b8431a;
+
+  /* ---------- Movimento ---------- */
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-bounce: cubic-bezier(0.34, 1.56, 0.64, 1);
+  --dur-fast: 120ms;
+  --dur-md: 240ms;
+  --dur-pass: 380ms;   /* batata voando entre jogadores */
+  --dur-boom: 700ms;   /* estouro */
+
+  /* ---------- Layout ---------- */
+  --content-max: 1080px;
+  --ad-width: 300px;   /* slot lateral (desktop) */
+  --ad-height-mobile: 60px;
+  --avatar-sm: 40px;
+  --avatar-md: 56px;
+  --avatar-lg: 88px;
+}
+
+/* ---------- Tema escuro: noite na mata ---------- */
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --c-bg: #15130f;
+  --c-bg-deep: #0e0c09;
+  --c-surface: #231e18;
+  --c-surface-2: #2c261e;
+  --c-border: #4a3f31;
+  --c-text: #f6ebdd;        /* sobre --c-bg: 16:1 */
+  --c-text-muted: #c4b19a;  /* sobre --c-bg: 9:1 */
+
+  --c-primary: #c9501f;     /* texto branco 4.6:1 */
+  --c-primary-hover: #db6230;
+  --c-secondary: #3c8049;   /* texto branco 4.8:1 */
+  --c-secondary-hover: #4a9258;
+
+  --c-warning-bg: #4a3a10;  /* texto --c-text 10:1 */
+  --c-error-bg: #4a1d19;
+  --c-danger: #ff8a7f;      /* sobre --c-error-bg 6.3:1 */
+  --c-heart-empty: #4a3f31;
+
+  --c-clearing: #2d2418;
+  --c-clearing-ring: #5a4528;
+
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.4);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.45);
+  --shadow-lg: 0 10px 30px rgba(0, 0, 0, 0.55);
+  --shadow-press: 0 3px 0 rgba(0, 0, 0, 0.6);
+  --focus-ring: 0 0 0 3px #15130f, 0 0 0 6px #f2b705;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --c-bg: #15130f;
+    --c-bg-deep: #0e0c09;
+    --c-surface: #231e18;
+    --c-surface-2: #2c261e;
+    --c-border: #4a3f31;
+    --c-text: #f6ebdd;
+    --c-text-muted: #c4b19a;
+    --c-primary: #c9501f;
+    --c-primary-hover: #db6230;
+    --c-secondary: #3c8049;
+    --c-secondary-hover: #4a9258;
+    --c-warning-bg: #4a3a10;
+    --c-error-bg: #4a1d19;
+    --c-danger: #ff8a7f;
+    --c-heart-empty: #4a3f31;
+    --c-clearing: #2d2418;
+    --c-clearing-ring: #5a4528;
+    --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.4);
+    --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.45);
+    --shadow-lg: 0 10px 30px rgba(0, 0, 0, 0.55);
+    --shadow-press: 0 3px 0 rgba(0, 0, 0, 0.6);
+    --focus-ring: 0 0 0 3px #15130f, 0 0 0 6px #f2b705;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --dur-fast: 0ms;
+    --dur-md: 0ms;
+    --dur-pass: 0ms;
+    --dur-boom: 0ms;
+  }
+}

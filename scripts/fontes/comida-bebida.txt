@@ -1,0 +1,439 @@
+tema: comida-bebida
+nome: Comidas e Bebidas
+
+== com-frutas | Cite uma fruta | facil | frutas;alimentos | https://pt.wikipedia.org/wiki/Lista_de_frutas
+Maçã | | Apple | Manzana | c
+Banana | | | Plátano | c
+Laranja | | Orange | Naranja | c
+Uva | | Grape | | c
+Morango | | Strawberry | Fresa;Frutilla | c
+Abacaxi | Ananás | Pineapple | | c
+Manga | | Mango | Mango | c
+Melancia | | Watermelon | Sandía | c
+Melão | | Melon | Melón | c
+Mamão | Papaia | Papaya | Papaya | c
+Pera | Pêra | Pear | | c
+Limão | | Lemon;Lime | Limón | c
+Abacate | | Avocado | Aguacate | c
+Pêssego | | Peach | Durazno;Melocotón | c
+Kiwi | | | | i
+Goiaba | | Guava | Guayaba | i
+Maracujá | | Passion fruit | Maracuyá | i
+Caju | | Cashew apple | Marañón | i
+Coco | | Coconut | | i
+Acerola | | | | i
+Jabuticaba | | | | i
+Açaí | | | | i
+Cupuaçu | | | | r
+Graviola | | Soursop | Guanábana | r
+Pitanga | | Surinam cherry | | r
+Pitaya | Fruta-do-dragão | Dragon fruit | Pitahaya | r
+Lichia | | Lychee | Lichi | r
+Ameixa | | Plum | Ciruela | i
+Cereja | | Cherry | Cereza | i
+Figo | | Fig | Higo | r
+Framboesa | | Raspberry | Frambuesa | r
+Amora | | Blackberry | Mora | r
+Mirtilo | Blueberry | Blueberry | Arándano | r
+Tangerina | Mexerica;Bergamota;Ponkan;Mimosa | Tangerine;Mandarin | Mandarina | i
+Carambola | | Starfruit | | r
+Jaca | | Jackfruit | | r
+Caqui | | Persimmon | Caqui | r
+Romã | | Pomegranate | Granada | r
+Damasco | Abricó | Apricot | Albaricoque | r
+Nectarina | | Nectarine | | e
+Cajá | Taperebá | | | e
+Umbu | Imbu | | | e
+Seriguela | Siriguela;Ciriguela | | | e
+Buriti | | | | e
+Bacuri | | | | l
+Mangaba | | | | l
+Cambuci | | | | l
+Jenipapo | | | | e
+Pequi | | | | e
+Tamarindo | | Tamarind | | e
+Fruta-do-conde | Pinha;Ata | Sugar apple | Anón | r
+Atemoia | | Atemoya | | e
+Nêspera | Ameixa-amarela | Loquat | Níspero | e
+Lima-da-pérsia | | Sweet lime | | e
+Groselha | | Currant | Grosella | e
+Kinkan | Kumquat | Kumquat | | l
+Mangostão | | Mangosteen | Mangostán | l
+Rambutã | | Rambutan | | l
+Physalis | | Goldenberry | Uchuva | e
+Jambo | | Malay apple | | e
+Sapoti | | Sapodilla | Zapote | l
+Cacau | | Cacao | | e
+Guaraná | | | | e
+Murici | | | | l
+Araçá | | | | l
+Uvaia | | | | l
+Grumixama | | | | l
+Cranberry | Oxicoco | | Arándano rojo | e
+
+== com-hortalicas | Cite uma hortaliça (legume, verdura, raiz ou tubérculo) | facil | hortaliças;legumes;verduras | https://pt.wikipedia.org/wiki/Hortali%C3%A7a
+@nota Inclui legumes, verduras, raízes, tubérculos e ervas de horta.
+Alface | | Lettuce | Lechuga | c
+Tomate | | Tomato | | c
+Cenoura | | Carrot | Zanahoria | c
+Batata | Batata-inglesa | Potato | Papa;Patata | c
+Cebola | | Onion | Cebolla | c
+Alho | | Garlic | Ajo | c
+Beterraba | | Beet;Beetroot | Remolacha | c
+Brócolis | Brócolos | Broccoli | Brócoli | c
+Couve-flor | | Cauliflower | Coliflor | c
+Couve | Couve-manteiga | Kale;Collard greens | Col rizada | c
+Repolho | | Cabbage | Repollo | c
+Pepino | | Cucumber | | c
+Abobrinha | | Zucchini | Calabacín | c
+Abóbora | Jerimum | Pumpkin;Squash | Calabaza | c
+Berinjela | | Eggplant;Aubergine | Berenjena | i
+Pimentão | | Bell pepper | Pimiento | i
+Chuchu | | Chayote | | i
+Quiabo | | Okra | Quimbombó | i
+Jiló | | | | i
+Mandioca | Aipim;Macaxeira | Cassava | Yuca | c
+Batata-doce | | Sweet potato | Camote;Boniato | i
+Inhame | | Yam | Ñame | i
+Cará | | | | r
+Mandioquinha | Batata-baroa;Batata-salsa | | | r
+Espinafre | | Spinach | Espinaca | i
+Rúcula | | Arugula;Rocket | Rúcula | i
+Agrião | | Watercress | Berro | i
+Nabo | | Turnip | | r
+Rabanete | | Radish | Rábano | r
+Vagem | | Green bean | Judía verde;Ejote | i
+Ervilha | | Pea | Guisante;Arveja | i
+Aspargo | Espargo | Asparagus | Espárrago | r
+Alcachofra | | Artichoke | Alcachofa | r
+Alho-poró | Alho-francês | Leek | Puerro | r
+Salsão | Aipo | Celery | Apio | r
+Acelga | | Chard | | r
+Escarola | Chicória | Endive;Escarole | Escarola | r
+Almeirão | | Chicory | | e
+Maxixe | | | | e
+Palmito | | Heart of palm | | r
+Taioba | | | | l
+Ora-pro-nóbis | | | | l
+Couve-de-bruxelas | | Brussels sprouts | Col de Bruselas | r
+Erva-doce | Funcho | Fennel | Hinojo | e
+Gengibre | | Ginger | Jengibre | r
+Milho-verde | Milho | Corn;Maize | Maíz;Choclo | i
+Rabanete-japonês | Nabo-japonês;Daikon | Daikon | | l
+Mostarda | Folha de mostarda | Mustard greens | | l
+Bertalha | | | | l
+Cebolinha | | Chives | Cebollino | r
+Salsinha | | Parsley | Perejil | r
+Coentro | | Coriander;Cilantro | Cilantro | r
+
+== com-pratos-brasileiros | Cite um prato típico da culinária brasileira | facil | culinária;brasil | https://pt.wikipedia.org/wiki/Culin%C3%A1ria_do_Brasil
+Feijoada | | | | c
+Moqueca | Moqueca capixaba;Moqueca baiana | | | c
+Acarajé | | | | c
+Pão de queijo | | Cheese bread | Pan de queso | c
+Coxinha | | | | c
+Pastel | | | | c
+Churrasco | | Barbecue | | c
+Farofa | | | | c
+Tapioca | Beiju | | | c
+Baião de dois | | | | c
+Feijão tropeiro | Tropeiro | | | c
+Vatapá | | | | i
+Caruru | | | | i
+Bobó de camarão | Bobó | | | i
+Tacacá | | | | i
+Pato no tucupi | | | | i
+Maniçoba | | | | r
+Carne de sol | Carne seca;Charque | | | i
+Buchada de bode | Buchada | | | r
+Sarapatel | | | | r
+Galinhada | | | | i
+Arroz com pequi | | | | r
+Pamonha | | | | i
+Tutu de feijão | Tutu | | | i
+Frango com quiabo | | | | i
+Arroz carreteiro | Carreteiro | | | i
+Barreado | | | | r
+Virado à paulista | | | | r
+Cuscuz | Cuscuz paulista;Cuscuz nordestino | | | i
+Escondidinho | | | | i
+Vaca atolada | | | | r
+Quibebe | | | | e
+Dobradinha | | | | r
+Caldo de mocotó | Mocotó | | | r
+Arroz de cuxá | | | | e
+Camarão na moranga | | | | r
+Picadinho | | | | r
+Bauru | | | | r
+Pirão | | | | r
+Empadão goiano | | | | e
+Abará | | | | e
+Xinxim de galinha | Xinxim | | | e
+Rubacão | Rubação | | | l
+Caldeirada | | | | e
+Costela fogo de chão | Costela no fogo de chão | | | r
+Paçoca de carne seca | Paçoca de pilão | | | e
+Mexido | Mexidão | | | e
+Bolinho de chuva | | | | i
+Empada | Empadinha | | | i
+Arroz e feijão | | | | c
+Torresmo | | | | i
+Sururu | Caldo de sururu | | | l
+Galinha à cabidela | Cabidela;Galinha ao molho pardo | | | e
+Frango à passarinho | | | | r
+Caldo de piranha | | | | l
+
+== com-doces-brasileiros | Cite um doce ou sobremesa típico do Brasil | facil | doces;sobremesas;brasil | https://pt.wikipedia.org/wiki/Lista_de_doces_brasileiros
+Brigadeiro | Negrinho | | | c
+Beijinho | | | | c
+Pudim | Pudim de leite | | Flan | c
+Paçoca | | | | c
+Pé de moleque | | | | c
+Cocada | | | | c
+Quindim | | | | c
+Goiabada | | | | c
+Romeu e Julieta | | | | i
+Doce de leite | | | Dulce de leche | c
+Arroz-doce | | Rice pudding | Arroz con leche | c
+Canjica | Mungunzá | | | i
+Curau | | | | i
+Pavê | | | | i
+Bolo de cenoura | | | | i
+Bolo de fubá | | | | i
+Bolo de rolo | | | | i
+Cajuzinho | | | | i
+Bem-casado | | | | i
+Olho de sogra | | | | r
+Manjar | Manjar branco | | | i
+Mousse de maracujá | | | | i
+Rapadura | | | | i
+Maria-mole | | | | r
+Suspiro | Merengue | Meringue | | i
+Quebra-queixo | | | | r
+Doce de abóbora | | | | r
+Ambrosia | | | | r
+Sagu | | | | r
+Cartola | | | | r
+Bolo Souza Leão | | | | e
+Camafeu | | | | e
+Bala de coco | | | | r
+Torta holandesa | | | | r
+Açaí na tigela | Açaí | | | i
+Cuscuz doce | Cuscuz de tapioca | | | e
+Pamonha doce | | | | r
+Bolo de milho | | | | i
+Brigadeirão | | | | r
+Doce de banana | Bananada | | | r
+Bolo de aipim | Bolo de mandioca;Bolo de macaxeira | | | r
+Queijadinha | | | | r
+Fios de ovos | | | | e
+Baba de moça | | | | e
+Bombocado | | | | e
+Nega maluca | Bolo nega maluca | | | e
+
+== com-temperos | Cite um tempero, erva aromática ou especiaria | media | temperos;especiarias;ervas | https://pt.wikipedia.org/wiki/Especiaria
+Sal | | Salt | | c
+Pimenta-do-reino | | Black pepper | Pimienta negra | c
+Alho | | Garlic | Ajo | c
+Orégano | | Oregano | | c
+Manjericão | | Basil | Albahaca | c
+Salsinha | Salsa | Parsley | Perejil | c
+Cebolinha | | Chives | Cebollino | c
+Cheiro-verde | | | | c
+Coentro | | Coriander;Cilantro | Cilantro | c
+Louro | Folha de louro | Bay leaf | Laurel | i
+Alecrim | | Rosemary | Romero | i
+Tomilho | | Thyme | Tomillo | r
+Hortelã | Menta | Mint | Hierbabuena | i
+Sálvia | | Sage | Salvia | r
+Canela | | Cinnamon | | c
+Cravo | Cravo-da-índia | Clove | Clavo | i
+Noz-moscada | | Nutmeg | Nuez moscada | i
+Cominho | | Cumin | Comino | i
+Cúrcuma | Açafrão-da-terra | Turmeric | | i
+Açafrão | Açafrão-verdadeiro | Saffron | Azafrán | r
+Páprica | Pimentão-doce | Paprika | Pimentón | i
+Colorau | Colorífico;Urucum | Annatto | Achiote | i
+Gengibre | | Ginger | Jengibre | i
+Curry | Caril | | | i
+Pimenta calabresa | Calabresa | Red pepper flakes | | i
+Pimenta-malagueta | Malagueta | | | i
+Pimenta dedo-de-moça | Dedo-de-moça | | | r
+Pimenta-de-cheiro | | | | r
+Erva-doce | Anis | Anise | Anís | r
+Anis-estrelado | Badiana | Star anise | Anís estrellado | e
+Endro | Dill | Dill | Eneldo | e
+Estragão | | Tarragon | Estragón | e
+Cardamomo | | Cardamom | | e
+Mostarda | Mostarda em grão | Mustard | Mostaza | r
+Gergelim | | Sesame | Sésamo;Ajonjolí | r
+Manjerona | | Marjoram | Mejorana | e
+Zimbro | | Juniper | Enebro | l
+Sumagre | | Sumac | Zumaque | l
+Wasabi | | | | r
+Raiz-forte | | Horseradish | Rábano picante | e
+Baunilha | | Vanilla | Vainilla | r
+Chimichurri | | | | r
+Alcaparra | | Caper | Alcaparra | e
+Pimenta-da-jamaica | Pimenta síria | Allspice | Pimienta de Jamaica | l
+Feno-grego | | Fenugreek | Fenogreco | l
+Pimenta-rosa | Aroeira | Pink peppercorn | | e
+Pimenta caiena | | Cayenne pepper | Pimienta de cayena | e
+Ervas finas | | Fines herbes | Finas hierbas | e
+Lemongrass | Capim-santo;Capim-limão;Capim-cidrão | Lemongrass | Hierba limón | l
+Garam masala | | | | l
+Pimenta-de-macaco | | | | l
+Pimenta-biquinho | Biquinho | | | e
+Cebola em pó | | Onion powder | | e
+Lemon pepper | | | | e
+
+== com-bebidas-alcoolicas | Cite uma bebida alcoólica (tipo ou drinque) | facil | bebidas;drinques | https://pt.wikipedia.org/wiki/Bebida_alco%C3%B3lica
+Cerveja | Chope;Chopp;Breja | Beer | Cerveza | c
+Vinho | | Wine | Vino | c
+Cachaça | Pinga;Aguardente;Caninha | | | c
+Caipirinha | | | | c
+Vodca | Vodka | Vodka | | c
+Uísque | Whisky;Whiskey | Whisky;Whiskey | Güisqui | c
+Rum | Rhum | | Ron | c
+Tequila | | | | c
+Gim | Gin | Gin | Ginebra | c
+Saquê | Sake | Sake | | i
+Conhaque | Cognac;Brandy | Cognac;Brandy | Coñac | i
+Licor | | Liqueur | | i
+Champanhe | Champagne;Champanha | Champagne | Champán | i
+Espumante | | Sparkling wine | Espumoso | i
+Sidra | | Cider | | i
+Absinto | | Absinthe | Absenta | r
+Martini | Dry martini | | | i
+Mojito | | | | i
+Piña colada | | | | r
+Quentão | | | | i
+Vinho quente | | Mulled wine | Vino caliente | i
+Catuaba | | | | r
+Vermute | | Vermouth | Vermut | r
+Vinho do Porto | Porto | Port wine | Vino de Oporto | r
+Xerez | Jerez | Sherry | Jerez | e
+Hidromel | | Mead | Hidromiel | e
+Batida | | | | i
+Caipiroska | Caipivodca | | | i
+Cuba libre | Cuba-libre | | | r
+Margarita | | | | r
+Sangria | | | Sangría | r
+Negroni | | | | r
+Cosmopolitan | | | | e
+Bloody Mary | | | | e
+Aperol spritz | Spritz | | | r
+Pisco | | | | e
+Mezcal | | | | e
+Soju | | | | e
+Grappa | | | | e
+Rabo de galo | | | | r
+Sex on the beach | | | | e
+Gin tônica | Gin tônica | Gin and tonic | Gin tonic | i
+Saquerinha | | | | r
+Steinhäger | Steinhaeger | | | e
+Ouzo | | | | l
+Tiquira | | | | l
+Daiquiri | | | | e
+Moscow Mule | | | | r
+Fernet | | | | e
+Arak | Araque | | | l
+Kir royal | | | | l
+Calvados | | | | l
+Rakia | | | | l
+Hi-fi | | | | l
+Jurubeba | Vinho de jurubeba | | | e
+
+== com-massas | Cite um tipo de massa (macarrão) | media | massas;macarrão;itália | https://pt.wikipedia.org/wiki/Lista_de_massas
+Espaguete | Spaghetti | Spaghetti | Espagueti | c
+Lasanha | Lasagna | Lasagna | Lasaña | c
+Talharim | Tagliatelle;Tagliarini | | Tallarín | c
+Nhoque | Gnocchi | Gnocchi | Ñoquis | c
+Ravióli | Ravioli | | | c
+Penne | Pena | | | c
+Parafuso | Fusilli | Fusilli | | c
+Gravatinha | Farfalle | Farfalle;Bow tie | Moñitos | i
+Capeletti | Cappelletti | | | c
+Canelone | Cannelloni | Cannelloni | Canelones | i
+Fettuccine | Fetuccine | | | i
+Rigatoni | | | | i
+Linguine | | | | r
+Conchiglione | Concha;Conchinha;Conchiglie | Shells | | r
+Tortellini | | | | r
+Pappardelle | | | | e
+Bucatini | | | | e
+Cavatappi | | | | e
+Orecchiette | | | | e
+Ave-maria | | | | r
+Padre-nosso | | | | e
+Letrinha | Sopa de letrinhas | Alphabet pasta | Letras | i
+Cabelo de anjo | Capellini;Capelini | Angel hair | Cabello de ángel | r
+Aletria | Vermicelli;Cabelinho | Vermicelli | Fideos | r
+Ditalini | | | | l
+Rondelli | | | | r
+Sorrentino | | | | e
+Agnolotti | | | | l
+Lámen | Ramen;Lamen | Ramen | | i
+Macarrão instantâneo | Miojo | Instant noodles | Fideos instantáneos | c
+Udon | | | | r
+Soba | | | | e
+Bifum | Bifun | Rice noodles | Fideos de arroz | e
+Tortiglioni | | | | l
+Paccheri | | | | l
+Ziti | | | | l
+Fregola | | | | l
+Orzo | Risoni;Macarrão-arroz | | | e
+Pipe rigate | Pipe | | | l
+Gemelli | | | | l
+Trofie | | | | l
+Radiatori | | | | l
+Caracolino | Caracol;Caracolinho | | | r
+Estrelinha | Estrelinhas | Stelline | | r
+Cotovelo | Chifrinho;Macarrão cotovelo | Elbow macaroni | Coditos | r
+
+== com-queijos | Cite um tipo de queijo | media | queijos;laticínios | https://pt.wikipedia.org/wiki/Lista_de_queijos
+Muçarela | Mussarela;Mozzarella;Muçarela | Mozzarella | | c
+Parmesão | Parmigiano;Parmigiano Reggiano | Parmesan | Parmesano | c
+Prato | Queijo prato | | | c
+Minas frescal | Frescal | | | c
+Coalho | Queijo coalho | | | c
+Requeijão | Catupiry | | | c
+Ricota | Ricotta | Ricotta | Requesón | i
+Provolone | | | | i
+Gorgonzola | | | | i
+Brie | | | | i
+Camembert | | | | r
+Cheddar | | | | i
+Gouda | | | | r
+Emmental | Emental | | | r
+Gruyère | | | | r
+Roquefort | | | | r
+Cottage | | | | i
+Cream cheese | Cream-cheese | | | i
+Burrata | | | | r
+Mascarpone | | | | r
+Pecorino | | | | e
+Grana Padano | Grana | | | e
+Feta | | | | r
+Queijo do reino | Reino | | | i
+Edam | | | | e
+Minas padrão | Meia-cura | | | r
+Canastra | Queijo canastra | | | r
+Queijo serro | Serro | | | e
+Queijo de manteiga | Manteiga | | | e
+Muçarela de búfala | | Buffalo mozzarella | | r
+Estepe | | | | e
+Colonial | Queijo colonial | | | e
+Tilsit | | | | l
+Raclette | | | | l
+Manchego | | | | e
+Halloumi | | | | l
+Pepper jack | | | | l
+Port Salut | | | | l
+Cabacinha | | | | l
+Maasdam | | | | l
+Petit suisse | Danoninho | | | r
+Stilton | | | | l
+Asiago | | | | l
+Taleggio | | | | l
+Quark | | | | l

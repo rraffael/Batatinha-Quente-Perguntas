@@ -1,0 +1,452 @@
+tema: anime-desenho
+nome: Animes, Desenhos e Quadrinhos
+
+== anm-turma-da-monica | Cite um personagem da Turma da Mônica (Mauricio de Sousa) | facil | turma da mônica;quadrinhos;brasil | https://pt.wikipedia.org/wiki/Lista_de_personagens_da_Turma_da_M%C3%B4nica
+Mônica | | | | c
+Cebolinha | | | | c
+Cascão | | | | c
+Magali | | | | c
+Chico Bento | | | | c
+Bidu | | | | c
+Franjinha | | | | c
+Anjinho | | | | c
+Sansão | | | | c
+Mingau | | | | i
+Floquinho | | | | i
+Chovinista | | | | r
+Xaveco | | | | i
+Jeremias | | | | i
+Titi | | | | i
+Aninha | | | | r
+Marina | | | | i
+Do Contra | | | | r
+Humberto | | | | r
+Dudu | | | | i
+Nimbus | | | | r
+Denise | | | | i
+Carminha Frufru | | | | r
+Cascuda | | | | r
+Quinzinho | | | | r
+Penadinho | | | | i
+Horácio | | | | i
+Astronauta | | | | i
+Piteco | | | | i
+Tina | | | | i
+Rolo | | | | r
+Pipa | | | | r
+Zecão | | | | e
+Papa-Capim | | | | r
+Rosinha | | | | r
+Zé Lelé | | | | r
+Hiro | | | | e
+Capitão Feio | | | | r
+Louco | Sr. Louco | | | r
+Dona Luísa | Mãe da Mônica | | | e
+Seu Sousa | Pai da Mônica | | | e
+Ronaldinho Gaúcho | | | | e
+Pelezinho | | | | r
+Neymar Jr. | | | | e
+Tikara | | | | e
+Milena | | | | r
+Dorinha | | | | r
+Luca | | | | e
+Jotalhão | | | | r
+Raposão | | | | e
+Dona Morte | | | | r
+Zé Vampir | | | | e
+Cranícola | | | | l
+Frank | | | | l
+Lobi | | | | l
+Muminho | | | | l
+Bugu | | | | l
+Manfredo | | | | l
+Mônica Jovem | | | | e
+Nhô Lau | | | | l
+
+== anm-dragon-ball | Cite um personagem de Dragon Ball | media | anime;dragon ball | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Dragon_Ball
+Goku | Son Goku;Kakaroto | | | c
+Vegeta | | | | c
+Gohan | Son Gohan | | | c
+Piccolo | Picolo | | | c
+Kuririn | Krillin | Krillin | Krilin | c
+Bulma | | | | c
+Freeza | Freezer;Frieza | Frieza | Freezer | c
+Cell | | | | c
+Majin Boo | Boo;Buu;Majin Buu | Majin Buu | | c
+Trunks | | | | c
+Goten | Son Goten | | | c
+Mestre Kame | Kame;Mestre Roshi;Kame-Sennin | Master Roshi | Maestro Roshi | c
+Chi-Chi | | | | i
+Shenlong | Shenron | Shenron | | i
+Yamcha | | | | i
+Tenshinhan | Tien | Tien | Ten Shin Han | i
+Chaos | Chiaotzu | Chiaotzu | | r
+Mr. Satan | Hercule | Hercule | | i
+Videl | | | | i
+Raditz | | | | i
+Nappa | | | | i
+Bardock | | | | i
+Broly | | | | i
+Bills | Beerus | Beerus | | i
+Whis | | | | i
+Androide 17 | Número 17 | Android 17 | Androide número 17 | r
+Androide 18 | Número 18 | Android 18 | Androide número 18 | i
+Androide 16 | Número 16 | Android 16 | | r
+Dr. Gero | Doutor Gero;Androide 20 | | | r
+Gotenks | | | | i
+Vegetto | Vegito | | | r
+Gogeta | | | | r
+Kami-Sama | Kami | | | r
+Mr. Popo | | | | r
+Pilaf | Imperador Pilaf | | | r
+Oolong | | | | r
+Puar | | | | r
+Lunch | Launch | | | e
+Yajirobe | | | | e
+Mestre Karin | Karin | | | e
+Senhor Kaioh | Kaioh;Kaiohshin | King Kai | | r
+Dende | | | | r
+Pan | | | | r
+Zamasu | | | | e
+Goku Black | | | | r
+Jiren | | | | r
+Hit | | | | e
+Cooler | | | | e
+Rei Cold | | King Cold | | e
+Capitão Ginyu | Ginyu | Captain Ginyu | | r
+Zarbon | | | | e
+Dodoria | | | | e
+Babidi | | | | e
+Dabura | | | | e
+Marron | | | | l
+Bra | Bulla | | | e
+Uub | Oob | | | e
+Tao Pai Pai | | | | e
+Baby | | | | e
+Omega Shenron | | | | l
+Turles | | | | l
+Janemba | | | | l
+Zeno | Zen-Oh | | | e
+Kefla | | | | l
+Caulifla | | | | l
+Cabba | | | | l
+Toppo | | | | l
+Granolah | | | | l
+Gamma 1 | | | | l
+
+== anm-naruto | Cite um personagem de Naruto | media | anime;naruto | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto
+Naruto Uzumaki | Naruto | | | c
+Sasuke Uchiha | Sasuke | | | c
+Sakura Haruno | Sakura | | | c
+Kakashi Hatake | Kakashi | | | c
+Itachi Uchiha | Itachi | | | c
+Hinata Hyuga | Hinata | | | c
+Gaara | | | | c
+Rock Lee | Lee | | | c
+Jiraiya | Ero-Sennin | | | c
+Orochimaru | | | | c
+Tsunade | | | | i
+Neji Hyuga | Neji | | | i
+Shikamaru Nara | Shikamaru | | | i
+Choji Akimichi | Choji | | | i
+Ino Yamanaka | Ino | | | i
+Kiba Inuzuka | Kiba | | | i
+Shino Aburame | Shino | | | r
+Tenten | | | | r
+Iruka Umino | Iruka | | | i
+Minato Namikaze | Minato | | | i
+Kushina Uzumaki | Kushina | | | r
+Madara Uchiha | Madara | | | i
+Obito Uchiha | Obito;Tobi | | | i
+Pain | Nagato | | | i
+Konan | | | | r
+Kisame Hoshigaki | Kisame | | | r
+Deidara | | | | i
+Sasori | | | | r
+Hidan | | | | r
+Kakuzu | | | | e
+Zetsu | | | | e
+Kabuto Yakushi | Kabuto | | | r
+Kurama | Kyuubi;Raposa de Nove Caudas | Nine-Tails | | i
+Killer Bee | | | | r
+Might Guy | Gai;Maito Gai | | | r
+Asuma Sarutobi | Asuma | | | r
+Kurenai Yuhi | Kurenai | | | e
+Hashirama Senju | Hashirama | | | r
+Tobirama Senju | Tobirama | | | e
+Hiruzen Sarutobi | Terceiro Hokage;Hiruzen | | | r
+Danzo Shimura | Danzo | | | e
+Sai | | | | r
+Yamato | | | | e
+Temari | | | | r
+Kankuro | | | | e
+Zabuza Momochi | Zabuza | | | r
+Haku | | | | r
+Boruto Uzumaki | Boruto | | | i
+Himawari Uzumaki | Himawari | | | e
+Sarada Uchiha | Sarada | | | r
+Mitsuki | | | | e
+Kaguya Otsutsuki | Kaguya | | | e
+Shisui Uchiha | Shisui | | | e
+Rin Nohara | Rin | | | e
+Konohamaru Sarutobi | Konohamaru | | | r
+Kawaki | | | | e
+Karin Uzumaki | Karin | | | e
+Suigetsu Hozuki | Suigetsu | | | e
+Jugo | | | | l
+Anko Mitarashi | Anko | | | l
+Teuchi | | | | l
+Gamabunta | | | | e
+Mei Terumi | | | | l
+
+== anm-cavaleiros-zodiaco | Cite um personagem de Os Cavaleiros do Zodíaco | media | anime;saint seiya;cavaleiros | https://pt.wikipedia.org/wiki/Os_Cavaleiros_do_Zod%C3%ADaco
+Seiya | Seiya de Pégaso | | | c
+Shiryu | Shiryu de Dragão | | | c
+Hyoga | Hyoga de Cisne | | | c
+Shun | Shun de Andrômeda | | | c
+Ikki | Ikki de Fênix | | | c
+Saori Kido | Saori;Atena | | | c
+Mu | Mu de Áries | | | i
+Aldebaran | Aldebaran de Touro | | | i
+Saga | Saga de Gêmeos | | | i
+Máscara da Morte | Máscara da Morte de Câncer | Deathmask | | i
+Aiolia | Aiolia de Leão | | | i
+Shaka | Shaka de Virgem | | | i
+Dohko | Mestre Ancião;Dohko de Libra | | | i
+Milo | Milo de Escorpião | | | i
+Aiolos | Aiolos de Sagitário | | | r
+Shura | Shura de Capricórnio | | | r
+Camus | Camus de Aquário | | | i
+Afrodite | Afrodite de Peixes | | | i
+Kanon | | | | r
+Marin | Marin de Águia | | | r
+Shina | Shina de Cobra | | | r
+Jabu | Jabu de Unicórnio | | | r
+Nachi | Nachi de Lobo | | | e
+Ichi | Ichi de Hidra | | | e
+Ban | Ban de Leão Menor | | | e
+Geki | Geki de Urso | | | e
+Kiki | | | | r
+Tatsumi | | | | r
+Mitsumasa Kido | | | | e
+Hades | | | | i
+Poseidon | Julian Solo | | | i
+Pandora | | | | r
+Radamanthys | | | | r
+Aiacos | | | | e
+Minos | | | | e
+Hilda | Hilda de Polaris | | | r
+Siegfried | | | | e
+Sorento | | | | e
+Shion | Mestre Shion | | | r
+Hypnos | | | | e
+Thanatos | | | | e
+Cristal | Cavaleiro de Cristal | | | e
+Misty | Misty de Lagarto | | | e
+Dócrates | | | | l
+Albiore | | | | l
+Ártemis | | | | l
+Eris | | | | l
+Alberich | | | | l
+Hagen | | | | l
+Fenrir | | | | l
+Kasa | | | | l
+Isaak | | | | l
+Krishna | | | | l
+Io | | | | l
+Baian | | | | l
+
+== anm-one-piece | Cite um personagem de One Piece | media | anime;one piece | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_One_Piece
+Monkey D. Luffy | Luffy | | | c
+Roronoa Zoro | Zoro | | | c
+Nami | | | | c
+Usopp | | | | c
+Sanji | | | | c
+Tony Tony Chopper | Chopper | | | c
+Nico Robin | Robin | | | c
+Franky | | | | i
+Brook | | | | i
+Jinbe | Jimbei | | | i
+Shanks | Shanks o Ruivo | | | c
+Barba Branca | Edward Newgate;Whitebeard | Whitebeard | | i
+Barba Negra | Marshall D. Teach;Blackbeard | Blackbeard | | i
+Portgas D. Ace | Ace | | | c
+Sabo | | | | i
+Monkey D. Garp | Garp | | | i
+Monkey D. Dragon | Dragon | | | r
+Boa Hancock | Hancock | | | i
+Dracule Mihawk | Mihawk | | | i
+Crocodile | | | | i
+Donquixote Doflamingo | Doflamingo | | | i
+Kaido | | | | i
+Big Mom | Charlotte Linlin | | | i
+Trafalgar Law | Law | | | i
+Eustass Kid | Kid | | | r
+Buggy | Buggy o Palhaço | | | i
+Arlong | | | | r
+Enel | Eneru | | | r
+Rob Lucci | Lucci | | | r
+Akainu | Sakazuki | | | r
+Aokiji | Kuzan | | | r
+Kizaru | Borsalino | | | r
+Smoker | | | | r
+Koby | Coby | | | r
+Nefertari Vivi | Vivi | | | r
+Bartholomew Kuma | Kuma | | | e
+Gol D. Roger | Roger;Gold Roger | | | i
+Silvers Rayleigh | Rayleigh | | | r
+Yamato | | | | r
+Carrot | | | | e
+Marco | Marco, a Fênix | | | r
+Bartolomeo | | | | e
+Perona | | | | e
+Kuro | Capitão Kuro | | | e
+Don Krieg | Krieg | | | e
+Wapol | | | | l
+Gecko Moria | Moria | | | e
+Magellan | | | | e
+Emporio Ivankov | Ivankov | | | e
+Charlotte Katakuri | Katakuri | | | r
+Sengoku | | | | e
+Fujitora | Issho | | | e
+Kozuki Momonosuke | Momonosuke | | | e
+Kin'emon | Kinemon | | | l
+Kozuki Oden | Oden | | | e
+Imu | | | | e
+Vegapunk | Dr. Vegapunk | | | e
+Shirahoshi | | | | l
+Rebecca | | | | l
+Caesar Clown | | | | l
+Hody Jones | | | | l
+Pell | | | | l
+Bon Clay | Mr. 2 | | | e
+Kaya | | | | l
+
+== anm-disney-quadrinhos | Cite um personagem clássico do universo Disney (Mickey, Pato Donald e turma) | facil | disney;quadrinhos | https://pt.wikipedia.org/wiki/Lista_de_personagens_Disney
+Mickey Mouse | Mickey;Mickey Mouse | | | c
+Minnie Mouse | Minnie | | | c
+Pato Donald | Donald | Donald Duck | Pato Donald | c
+Pateta | | Goofy | Tribilín;Goofy | c
+Pluto | | | | c
+Margarida | | Daisy Duck | Daisy | c
+Tio Patinhas | Patinhas | Scrooge McDuck | Tío Rico | c
+Huguinho | | Huey | Hugo | c
+Zezinho | | Dewey | Paco | c
+Luisinho | | Louie | Luis | c
+Zé Carioca | | José Carioca | | c
+Gastão | | Gladstone Gander | Narciso Bello | i
+Mancha Negra | | Phantom Blot | Mancha Negra | i
+João Bafo de Onça | Bafo de Onça;Bafo | Pete | Pete | i
+Professor Pardal | Pardal | Gyro Gearloose | Ungenio Tarconi | i
+Lampadinha | | Little Helper | | r
+Maga Patalójika | | Magica De Spell | Mágica De Hechizo | i
+Irmãos Metralha | Metralha | Beagle Boys | Chicos Malos | i
+Peninha | | Fethry Duck | | i
+Vovó Donalda | | Grandma Duck | Abuela Pato | i
+Clarabela | | Clarabelle Cow | Clarabella | r
+Horácio | | Horace Horsecollar | | r
+Gansolino | | Gus Goose | | e
+Tico e Teco | Tico;Teco | Chip 'n' Dale | Chip y Dale | i
+Superpato | | Paperinik;Duck Avenger | | r
+Morcego Vermelho | | Red Bat | | e
+Rosinha | | | | e
+Nestor | | | | e
+Panchito | Panchito Pistoles | | | r
+Ludovico Von Pato | Professor Ludovico | Ludwig Von Drake | | r
+Gilberto | | | | l
+Fifi | | | | l
+Chefe O'Hara | Chefe O'Hara | Chief O'Hara | | e
+Flintheart Glomgold | Pão-Duro Mac Mônei | Flintheart Glomgold | | e
+Patacôncio | | John D. Rockerduck | | e
+Urtigão | | Hard Haid Moe | | e
+
+== anm-desenhos-animados | Cite um desenho animado (série de TV) | facil | desenhos;tv;infantil | https://pt.wikipedia.org/wiki/S%C3%A9rie_animada
+Pica-Pau | | Woody Woodpecker | El Pájaro Loco | c
+Tom e Jerry | Tom & Jerry | Tom and Jerry | Tom y Jerry | c
+Os Simpsons | Simpsons | The Simpsons | Los Simpson | c
+Bob Esponja | Bob Esponja Calça Quadrada | SpongeBob SquarePants;SpongeBob | Bob Esponja | c
+Scooby-Doo | Scooby | | | c
+Os Flintstones | Flintstones | The Flintstones | Los Picapiedra | c
+Os Jetsons | Jetsons | The Jetsons | Los Supersónicos | i
+Looney Tunes | Pernalonga | | | c
+Pokémon | | | | c
+Dragon Ball Z | Dragon Ball;DBZ | | | c
+Os Cavaleiros do Zodíaco | Cavaleiros do Zodíaco | Saint Seiya | Los Caballeros del Zodiaco | c
+Caverna do Dragão | | Dungeons & Dragons | Calabozos y Dragones | c
+He-Man | He-Man e os Mestres do Universo | | | i
+She-Ra | | | | i
+ThunderCats | | | | i
+As Meninas Superpoderosas | Meninas Superpoderosas | The Powerpuff Girls | Las Chicas Superpoderosas | c
+O Laboratório de Dexter | Dexter | Dexter's Laboratory | El laboratorio de Dexter | i
+Coragem, o Cão Covarde | Coragem | Courage the Cowardly Dog | Coraje, el perro cobarde | i
+Johnny Bravo | | | | i
+A Vaca e o Frango | | Cow and Chicken | Vaca y Pollito | r
+Du, Dudu e Edu | | Ed, Edd n Eddy | Ed, Edd y Eddy | r
+Ben 10 | | | | c
+Hora de Aventura | | Adventure Time | | i
+Apenas um Show | | Regular Show | Un show más | r
+O Incrível Mundo de Gumball | Gumball | The Amazing World of Gumball | El increíble mundo de Gumball | r
+Phineas e Ferb | | Phineas and Ferb | Phineas y Ferb | i
+Os Padrinhos Mágicos | Padrinhos Mágicos | The Fairly OddParents | Los padrinos mágicos | i
+Jimmy Neutron | | | | r
+Rugrats | Os Anjinhos | | | r
+Hey Arnold! | Hey Arnold | | ¡Oye, Arnold! | r
+Doug | | | | r
+Peppa Pig | | | | c
+Galinha Pintadinha | | | | c
+Turma da Mônica | | | | c
+O Show da Luna | Show da Luna | | | i
+Irmão do Jorel | | | | i
+Peixonauta | | | | r
+Patrulha Canina | | PAW Patrol | Paw Patrol | c
+Bluey | | | | i
+Miraculous: As Aventuras de Ladybug | Miraculous;Ladybug | | | i
+Os Smurfs | Smurfs | The Smurfs | Los Pitufos | i
+Popeye | | | | i
+A Pantera Cor-de-Rosa | Pantera Cor-de-Rosa | The Pink Panther | La Pantera Rosa | i
+Digimon | | | | i
+Yu-Gi-Oh! | Yu-Gi-Oh | | | r
+Sailor Moon | | | | i
+Naruto | | | | c
+One Piece | | | | i
+Tartarugas Ninja | As Tartarugas Ninja | Teenage Mutant Ninja Turtles | Las Tortugas Ninja | c
+X-Men: A Série Animada | X-Men | | | r
+Batman: A Série Animada | Batman | Batman: The Animated Series | | r
+Liga da Justiça | | Justice League | La Liga de la Justicia | r
+Tiny Toons | | | | r
+Animaniacs | | | | r
+Pinky e o Cérebro | | Pinky and the Brain | Pinky y Cerebro | r
+Rocko | A Vida Moderna de Rocko | Rocko's Modern Life | | e
+CatDog | | | | e
+Ursinhos Carinhosos | | Care Bears | Ositos Cariñositos | r
+Moranguinho | | Strawberry Shortcake | Frutillita | r
+Ursinhos Gummi | Os Ursinhos Gummi | Gummi Bears | Los osos Gummi | e
+DuckTales | DuckTales: Os Caçadores de Aventuras | | Patoaventuras | r
+A Turma do Pateta | | Goof Troop | La tropa Goofy | e
+Timão e Pumba | | Timon & Pumbaa | | r
+Gargoyles | | | | e
+Recreio | | Recess | La Escuelita | e
+Kim Possible | | | | r
+Avatar: A Lenda de Aang | Avatar | Avatar: The Last Airbender | | r
+Steven Universo | | Steven Universe | Steven Universe | r
+Rick and Morty | Rick e Morty | | | i
+Uma Família da Pesada | Family Guy | Family Guy | Padre de familia | r
+South Park | | | | r
+Futurama | | | | r
+Clarêncio, o Otimista | Clarêncio | Clarence | | e
+Ursos sem Curso | | We Bare Bears | Escandalosos | e
+Mônica Toy | | | | r
+Pinguins de Madagascar | Os Pinguins de Madagascar | The Penguins of Madagascar | Los pingüinos de Madagascar | r
+Os Thornberrys | | The Wild Thornberrys | Los Thornberrys | l
+Castores Pirados | | The Angry Beavers | | l
+Snoopy | Peanuts;Minduim | | | i
+Garfield | Garfield e Seus Amigos | | | i
+Zé Colmeia | | Yogi Bear | El oso Yogui | r
+Corrida Maluca | | Wacky Races | Los autos locos | r
+Manda-Chuva | | Top Cat | Don Gato | r
+Os Herculoides | | | | l
+Speed Racer | | | | r
+Dora, a Aventureira | Dora | Dora the Explorer | Dora, la exploradora | i
+Bob, o Construtor | | Bob the Builder | Bob el constructor | e
+Backyardigans | Os Backyardigans | | | r
+Cocoricó | | | | i

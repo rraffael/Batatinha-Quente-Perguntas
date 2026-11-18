@@ -1,0 +1,399 @@
+tema: novelas-tv-br
+nome: TV Brasileira
+
+== tvbr-novelas-globo | Cite uma novela da TV Globo | facil | novelas;globo | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo
+@nota Inclui remakes exibidos pela Globo (ex.: Pantanal 2022).
+Avenida Brasil | | | | c
+O Clone | Clone | | | c
+Senhora do Destino | | | | c
+Mulheres de Areia | | | | c
+Laços de Família | | | | c
+Terra Nostra | | | | c
+O Rei do Gado | Rei do Gado | | | c
+Tieta | | | | c
+Roque Santeiro | | | | c
+Vale Tudo | | | | c
+Pantanal | | | | c
+A Força do Querer | | | | c
+Caminho das Índias | | | | c
+Fina Estampa | | | | c
+Império | | | | c
+Amor à Vida | | | | c
+Renascer | | | | c
+Chocolate com Pimenta | | | | c
+O Cravo e a Rosa | | | | c
+Alma Gêmea | | | | c
+A Favorita | Favorita | | | c
+Por Amor | | | | i
+Explode Coração | | | | i
+O Outro Lado do Paraíso | | | | i
+Segundo Sol | | | | i
+A Dona do Pedaço | | | | i
+Amor de Mãe | | | | i
+Terra e Paixão | | | | i
+Mania de Você | | | | i
+Vai na Fé | | | | i
+Travessia | | | | i
+Cheias de Charme | | | | i
+Belíssima | | | | i
+Paraíso Tropical | | | | i
+Duas Caras | | | | i
+Passione | | | | i
+Insensato Coração | | | | i
+Salve Jorge | | | | i
+Babilônia | | | | i
+A Regra do Jogo | | | | r
+Velho Chico | | | | i
+Totalmente Demais | | | | i
+Verdades Secretas | | | | i
+Da Cor do Pecado | | | | i
+Celebridade | | | | i
+Mulheres Apaixonadas | | | | i
+Kubanacan | | | | r
+Pai Herói | | | | e
+Dancin' Days | | | | r
+Selva de Pedra | | | | r
+Irmãos Coragem | | | | r
+Gabriela | | | | r
+Escrava Isaura | A Escrava Isaura | | | i
+O Bem-Amado | | | | r
+Rainha da Sucata | | | | r
+Que Rei Sou Eu? | | | | e
+Top Model | | | | e
+Barriga de Aluguel | | | | r
+A Próxima Vítima | | | | r
+História de Amor | | | | e
+Quatro por Quatro | | | | r
+A Indomada | | | | r
+Torre de Babel | | | | r
+Suave Veneno | | | | e
+Uga Uga | | | | r
+Porto dos Milagres | | | | r
+Esperança | | | | e
+América | | | | r
+Cobras & Lagartos | | | | r
+Páginas da Vida | | | | r
+Sete Pecados | | | | r
+Beleza Pura | | | | e
+Viver a Vida | | | | r
+Ti Ti Ti | | | | r
+Cordel Encantado | | | | r
+Lado a Lado | | | | e
+Joia Rara | | | | e
+Êta Mundo Bom! | Êta Mundo Bom | | | r
+Novo Mundo | | | | r
+Deus Salve o Rei | | | | r
+O Sétimo Guardião | | | | r
+Bom Sucesso | | | | r
+Éramos Seis | | | | r
+Um Lugar ao Sol | | | | r
+Mar do Sertão | | | | r
+Elas por Elas | | | | e
+Volta por Cima | | | | e
+Garota do Momento | | | | r
+Dona de Mim | | | | r
+Haja Coração | | | | r
+Sinhá Moça | | | | r
+Guerra dos Sexos | | | | e
+Roda de Fogo | | | | e
+Tropicaliente | | | | e
+Cabocla | | | | r
+Alto Astral | | | | e
+Rock Story | | | | e
+Pega Pega | | | | e
+Verão 90 | | | | e
+Cama de Gato | | | | e
+Malhação | | | | i
+
+== tvbr-apresentadores | Cite um(a) apresentador(a) de TV brasileiro(a) | facil | tv;apresentadores | https://pt.wikipedia.org/wiki/Televis%C3%A3o_no_Brasil
+Faustão | Fausto Silva | | | c
+Silvio Santos | Sílvio Santos | | | c
+Xuxa | Xuxa Meneghel | | | c
+Gugu Liberato | Gugu | | | c
+Luciano Huck | Huck | | | c
+Ana Maria Braga | | | | c
+Fátima Bernardes | | | | c
+Hebe Camargo | Hebe | | | c
+Chacrinha | Abelardo Barbosa | | | c
+Angélica | | | | c
+Eliana | | | | c
+Serginho Groisman | | | | c
+Jô Soares | | | | c
+William Bonner | Bonner | | | c
+Ratinho | Carlos Massa | | | c
+José Luiz Datena | Datena | | | c
+Rodrigo Faro | | | | i
+Marcos Mion | Mion | | | i
+Celso Portiolli | Portiolli | | | i
+Raul Gil | | | | i
+Pedro Bial | Bial | | | i
+Tadeu Schmidt | | | | i
+Marília Gabriela | | | | r
+Luciana Gimenez | | | | i
+Sônia Abrão | | | | i
+Ana Hickmann | | | | i
+Patrícia Abravanel | | | | i
+Tiago Leifert | | | | i
+Márcio Garcia | | | | r
+Marcelo Tas | | | | r
+Danilo Gentili | | | | i
+Fábio Porchat | | | | i
+Mara Maravilha | | | | r
+Adriane Galisteu | Galisteu | | | r
+Glória Maria | | | | i
+Maju Coutinho | | | | i
+Sandra Annenberg | | | | r
+Cid Moreira | | | | i
+Sérgio Chapelin | | | | r
+Boris Casoy | | | | r
+Patrícia Poeta | | | | i
+Ana Furtado | | | | r
+Otaviano Costa | | | | r
+Fernanda Lima | | | | r
+Sabrina Sato | | | | i
+Regina Casé | | | | i
+Carlos Alberto de Nóbrega | | | | i
+Tatá Werneck | | | | i
+Astrid Fontenelle | | | | r
+Amaury Jr. | Amaury Júnior | | | r
+Clodovil Hernandes | Clodovil | | | e
+Wagner Montes | | | | e
+Mônica Iozzi | | | | e
+Sérgio Mallandro | Mallandro | | | r
+Galvão Bueno | | | | i
+Rodrigo Hilbert | | | | e
+Leda Nagle | | | | e
+Netinho de Paula | | | | e
+Monique Evans | | | | l
+Celso Russomanno | | | | e
+Marcelo Rezende | | | | e
+Ana Clara Lima | | | | e
+Paulo Henrique Amorim | | | | l
+Ronnie Von | | | | e
+Flávio Cavalcanti | | | | l
+J. Silvestre | | | | l
+Fernanda Gentil | | | | r
+Poliana Abritta | | | | e
+César Tralli | | | | r
+Renata Vasconcellos | | | | r
+
+== tvbr-programas | Cite um programa da TV brasileira | facil | tv;programas | https://pt.wikipedia.org/wiki/Televis%C3%A3o_no_Brasil
+Fantástico | | | | c
+Jornal Nacional | JN | | | c
+Domingão do Faustão | Domingão;Domingão com Huck | | | c
+Caldeirão do Huck | Caldeirão | | | c
+Big Brother Brasil | BBB | | | c
+A Fazenda | | | | c
+Programa Silvio Santos | | | | c
+Domingo Legal | | | | c
+Xou da Xuxa | | | | c
+Mais Você | | | | c
+Encontro | Encontro com Fátima Bernardes | | | i
+Altas Horas | | | | c
+Programa do Jô | | | | i
+Zorra Total | Zorra | | | c
+A Praça é Nossa | | | | c
+Casseta & Planeta | Casseta & Planeta Urgente! | | | c
+Os Trapalhões | | | | c
+Castelo Rá-Tim-Bum | | | | c
+TV Colosso | | | | i
+Sai de Baixo | | | | i
+Vídeo Show | | | | i
+Globo Repórter | | | | i
+Profissão Repórter | | | | r
+Esporte Espetacular | | | | i
+Globo Esporte | | | | i
+Programa do Ratinho | | | | i
+Pânico na TV | Pânico | | | i
+CQC | Custe o Que Custar | | | i
+The Voice Brasil | The Voice | | | i
+MasterChef Brasil | MasterChef | | | i
+Show do Milhão | | | | c
+Topa ou Não Topa | | | | r
+Roda a Roda | | | | r
+Passa ou Repassa | | | | r
+Casa dos Artistas | | | | r
+Ídolos | | | | r
+Hoje em Dia | | | | r
+Brasil Urgente | | | | i
+Cidade Alerta | | | | i
+Linha Direta | | | | r
+Você Decide | | | | r
+Balanço Geral | | | | i
+Sítio do Picapau Amarelo | Sítio | | | i
+A Grande Família | | | | c
+Os Normais | | | | r
+Tapas & Beijos | | | | r
+Escolinha do Professor Raimundo | Escolinha | | | i
+Turma do Didi | | | | r
+Fama | | | | e
+No Limite | | | | r
+Dança dos Famosos | | | | i
+Criança Esperança | | | | r
+Teleton | | | | r
+Bom Dia Brasil | | | | i
+Jornal Hoje | | | | r
+SBT Brasil | | | | r
+Jornal da Record | | | | e
+Roda Viva | | | | e
+Vai que Cola | | | | r
+Porta dos Fundos | | | | r
+Rá-Tim-Bum | | | | e
+Bambalalão | | | | l
+Balão Mágico | | | | e
+Mundo da Lua | | | | e
+Chiquititas | | | | i
+Cúmplices de um Resgate | | | | r
+Carrossel | | | | i
+Lady Night | | | | e
+Conversa com Bial | | | | e
+Tá no Ar | Tá no Ar: a TV na TV | | | e
+Hermes & Renato | | | | e
+Cilada | | | | e
+Shark Tank Brasil | | | | e
+Ilha Record | | | | e
+Power Couple Brasil | Power Couple | | | e
+De Frente com Gabi | | | | l
+Programa Raul Gil | | | | r
+Qual É a Música? | Qual é a Música | | | e
+Porta da Esperança | | | | l
+Globo de Ouro | | | | l
+Viva a Noite | | | | l
+Cassino do Chacrinha | Discoteca do Chacrinha | | | e
+Tela Quente | | | | i
+Sessão da Tarde | | | | c
+Supercine | | | | r
+Corujão | | | | e
+
+== tvbr-humoristas | Cite um(a) humorista brasileiro(a) | media | humor;comédia | https://pt.wikipedia.org/wiki/Humor_no_Brasil
+Chico Anysio | | | | c
+Jô Soares | | | | c
+Renato Aragão | Didi | | | c
+Dedé Santana | Dedé | | | i
+Mussum | | | | c
+Zacarias | | | | i
+Paulo Gustavo | | | | c
+Tatá Werneck | | | | c
+Fábio Porchat | Porchat | | | c
+Marcelo Adnet | Adnet | | | i
+Danilo Gentili | Gentili | | | i
+Rafinha Bastos | | | | i
+Whindersson Nunes | Whindersson | | | c
+Tom Cavalcante | | | | i
+Ronald Golias | Golias | | | r
+Costinha | | | | r
+Agildo Ribeiro | | | | e
+Paulo Silvino | | | | e
+Grande Otelo | | | | r
+Oscarito | | | | e
+Mazzaropi | Amácio Mazzaropi | | | r
+Dercy Gonçalves | Dercy | | | r
+Bussunda | | | | i
+Hélio de la Peña | | | | r
+Marcelo Madureira | | | | e
+Cláudio Manoel | | | | e
+Beto Silva | | | | e
+Hubert | | | | e
+Leandro Hassum | Hassum | | | i
+Marcius Melhem | | | | r
+Paulo Vieira | | | | i
+Thiago Ventura | | | | r
+Afonso Padilha | | | | r
+Rodrigo Sant'Anna | | | | r
+Ingrid Guimarães | | | | i
+Heloísa Périssé | | | | r
+Maria Clara Gueiros | | | | e
+Katiuscia Canoro | | | | e
+Marcos Veras | | | | r
+Gregório Duvivier | Duvivier | | | r
+Nany People | | | | r
+Ary Toledo | | | | r
+Carlos Alberto de Nóbrega | | | | r
+Tiririca | | | | i
+Shaolin | | | | r
+Sérgio Mallandro | Mallandro | | | i
+Fausto Fanti | | | | e
+Marco Luque | | | | r
+Dani Calabresa | | | | r
+Mônica Martelli | | | | e
+Ceará | Wellington Muniz | | | r
+Fábio Rabin | | | | e
+Nilton Pinto | | | | e
+Pedro Cardoso | | | | e
+Luis Fernando Guimarães | | | | e
+Miguel Falabella | | | | r
+Claudia Rodrigues | | | | e
+Marisa Orth | | | | e
+Diogo Defante | | | | e
+Rafael Portugal | | | | r
+Victor Sarro | | | | e
+Murilo Couto | | | | e
+Bruna Louise | | | | e
+Gil Brother | | | | l
+
+== tvbr-sitio-picapau | Cite um personagem do Sítio do Picapau Amarelo (livros ou TV) | media | monteiro lobato;sítio;infantil | https://pt.wikipedia.org/wiki/S%C3%ADtio_do_Picapau_Amarelo
+Emília | | | | c
+Narizinho | Lúcia | | | c
+Pedrinho | | | | c
+Dona Benta | | | | c
+Tia Nastácia | | | | c
+Visconde de Sabugosa | Visconde | | | c
+Cuca | | | | c
+Saci | Saci-Pererê | | | c
+Marquês de Rabicó | Rabicó | | | i
+Quindim | | | | i
+Conselheiro | Burro Falante | | | r
+Tio Barnabé | Barnabé | | | i
+Iara | Mãe d'Água | | | r
+Mula sem cabeça | | | | r
+Boitatá | | | | r
+Curupira | | | | r
+Coronel Teodorico | | | | e
+Elias Turco | | | | e
+Príncipe Escamado | | | | e
+Dona Carochinha | | | | e
+Peter Pan | | | | e
+Pinóquio | | | | e
+Doutor Caramujo | | | | l
+Minotauro | | | | e
+Hércules | | | | e
+Dom Quixote | | | | l
+Sancho Pança | | | | l
+Capitão Gancho | | | | l
+Pena de Papagaio | | | | l
+Lobisomem | | | | e
+Major Agarra-e-Não-Larga-Mais | | | | l
+Rainha Mabe | | | | l
+Cinderela | | | | l
+Branca de Neve | | | | l
+Polegarzinho | Pequeno Polegar | | | l
+
+== tvbr-campeoes-bbb | Cite um(a) campeão(ã) do Big Brother Brasil | dificil | bbb;reality show | https://pt.wikipedia.org/wiki/Big_Brother_Brasil
+@atualizadoEm 2026-11
+@nota Vencedores do BBB1 ao BBB26.
+Kleber Bambam | Bambam | | | c
+Rodrigo Cowboy | Rodrigo Leonel | | | r
+Dhomini | Dhomini Ferreira | | | i
+Cida | Cida Santos | | | r
+Jean Wyllys | | | | i
+Mara Viana | | | | r
+Diego Alemão | Alemão | | | i
+Rafinha | Rafael Ribeiro | | | r
+Max Porto | | | | r
+Marcelo Dourado | Dourado | | | i
+Maria Melilo | | | | r
+Fael | Fael Cordeiro | | | r
+Fernanda Keulla | | | | e
+Vanessa Mesquita | | | | e
+Cézar Lima | | | | e
+Munik Nunes | Munik | | | r
+Emilly Araújo | Emilly | | | r
+Gleici Damasceno | Gleici | | | r
+Paula von Sperling | | | | e
+Thelma Assis | Thelma | | | i
+Juliette | Juliette Freire | | | c
+Arthur Aguiar | | | | i
+Amanda Meirelles | | | | i
+Davi Brito | Davi | | | c
+Renata Saldanha | | | | i
+Ana Paula Renault | | | | i
