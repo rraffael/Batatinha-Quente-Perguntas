@@ -37,10 +37,17 @@ export type Ritmo = 'calmo' | 'normal' | 'ligeiro';
 
 /** Pavio oculto: sorteado entre min e max; ao passar com menos que `minimo`, volta para `minimo`. */
 export const RITMOS: Record<Ritmo, { min: number; max: number; minimo: number; rotulo: string }> = {
-  calmo: { min: 15_000, max: 35_000, minimo: 10_000, rotulo: 'Calmo' },
-  normal: { min: 10_000, max: 30_000, minimo: 8_000, rotulo: 'Normal' },
-  ligeiro: { min: 7_000, max: 20_000, minimo: 6_000, rotulo: 'Ligeiro' },
+  calmo: { min: 19_000, max: 44_000, minimo: 12_500, rotulo: 'Calmo' },
+  normal: { min: 12_500, max: 37_500, minimo: 10_000, rotulo: 'Normal' },
+  ligeiro: { min: 9_000, max: 25_000, minimo: 7_500, rotulo: 'Ligeiro' },
 };
+
+/**
+ * Aviso de que o pavio está acabando: a batata esquenta (nível 1) e depois fica em brasa (nível 2).
+ * Só esses dois momentos são revelados; o tempo exato continua secreto.
+ */
+export const CALOR_MS = [3_000, 1_500] as const;
+export type Calor = 0 | 1 | 2;
 
 export const MIN_JOGADORES = 2;
 export const MAX_JOGADORES = 10;

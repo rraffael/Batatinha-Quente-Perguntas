@@ -166,7 +166,7 @@ describe('turnos e pavio', () => {
   it('pavio acabando sozinho estoura, e quem estourou começa a próxima', () => {
     comecar('ana', 'bia');
     const vitima = daVez();
-    agora = proximoAlarme(s)!;
+    agora = s.prazo!;
     avancarTempo(s, ctx());
     expect(s.fase).toBe('intervalo');
     expect(s.proximoIniciante).toBe(vitima);
@@ -206,7 +206,7 @@ describe('turnos e pavio', () => {
     comecar('ana', 'bia');
     for (const j of s.jogadores) j.vidas = 1;
     const vitima = daVez();
-    agora = proximoAlarme(s)!;
+    agora = s.prazo!;
     avancarTempo(s, ctx());
     expect(s.fase).toBe('fim');
     expect(s.vencedorId).toBe(s.ordem.find((id) => id !== vitima));
@@ -220,6 +220,82 @@ describe('turnos e pavio', () => {
     sair(s, ctx(), vitima);
     expect(s.fase).toBe('jogando');
     expect(daVez()).not.toBe(vitima);
+  });
+});
+
+describe('aquecimento, tentativas e sessão', () => {
+  it('a batata esquenta nos últimos 3s, fica em brasa no último 1,5s e só então estoura', () => {
+    comecar('ana', 'bia');
+    const prazo = s.prazo!;
+    expect(s.calor).toBe(0);
+    expect(proximoAlarme(s)).toBe(prazo - 3_000);
+    agora = prazo - 3_000;
+    avancarTempo(s, ctx());
+    expect(s.calor).toBe(1);
+    expect(s.fase).toBe('jogando');
+    expect(proximoAlarme(s)).toBe(prazo - 1_500);
+    agora = prazo - 1_500;
+    avancarTempo(s, ctx());
+    expect(s.calor).toBe(2);
+    expect(proximoAlarme(s)).toBe(prazo);
+    agora = prazo;
+    avancarTempo(s, ctx());
+    expect(s.fase).toBe('intervalo');
+    expect(s.calor).toBe(0);
+  });
+
+  it('passar a batata esfria de novo (pavio volta para o mínimo)', () => {
+    comecar('ana', 'bia');
+    agora = s.prazo! - 1_000;
+    avancarTempo(s, ctx());
+    expect(s.calor).toBe(2);
+    responder(s, ctx(), daVez(), respostaLivre());
+    expect(s.calor).toBe(0);
+  });
+
+  it('toda tentativa (certa ou errada) gera balão para todos', () => {
+    comecar('ana', 'bia');
+    const c = ctx();
+    const quem = daVez();
+    responder(s, c, quem, 'xyzxyz');
+    responder(s, c, quem, respostaLivre());
+    expect(c.efeitos.tentativas).toEqual([
+      { jogadorId: quem, texto: 'xyzxyz', aceita: false },
+      expect.objectContaining({ jogadorId: quem, aceita: true }),
+    ]);
+  });
+
+  it('o estouro não revela respostas possíveis', () => {
+    comecar('ana', 'bia');
+    agora = s.prazo!;
+    avancarTempo(s, ctx());
+    expect(s.evento).not.toHaveProperty('naoDitas');
+  });
+
+  it('perguntas não se repetem entre partidas da mesma sala', () => {
+    comecar('ana', 'bia');
+    const primeira = s.rodada!.perguntaId;
+    for (const j of s.jogadores) j.vidas = 1;
+    agora = s.prazo!;
+    avancarTempo(s, ctx());
+    expect(s.fase).toBe('fim');
+    novaPartida(s, ctx(), s.hostId!);
+    expect(iniciar(s, ctx(), s.hostId!).ok).toBe(true);
+    agora = s.proximaEm!;
+    avancarTempo(s, ctx());
+    expect(s.rodada!.perguntaId).not.toBe(primeira);
+  });
+
+  it('pontos para vida extra continuam acumulando entre perguntas', () => {
+    comecar('ana', 'bia');
+    const j = s.jogadores.find((x) => x.id === daVez())!;
+    s.rodada!.perguntaId = 'frutas';
+    responder(s, ctx(), j.id, 'uva'); // +150
+    agora = s.prazo!;
+    avancarTempo(s, ctx()); // estoura em alguém, nova pergunta depois
+    agora = s.proximaEm!;
+    avancarTempo(s, ctx());
+    expect(j.bonus).toBe(150);
   });
 });
 

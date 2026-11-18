@@ -1,4 +1,4 @@
-import type { Raridade, Ritmo } from './regras';
+import type { Calor, Raridade, Ritmo } from './regras';
 
 export type Fase = 'lobby' | 'contagem' | 'jogando' | 'intervalo' | 'fim';
 
@@ -49,11 +49,6 @@ export interface RodadaPublica {
   total: number;
 }
 
-export interface NaoDita {
-  canonica: string;
-  raridade: Raridade;
-}
-
 export type Evento =
   | { seq: number; tipo: 'inicio' }
   | {
@@ -72,7 +67,6 @@ export type Evento =
       jogadorId: string;
       eliminado: boolean;
       fimDeJogo: boolean;
-      naoDitas: NaoDita[];
     };
 
 export interface SalaPublica {
@@ -86,6 +80,8 @@ export interface SalaPublica {
   evento: Evento | null;
   /** Milissegundos até a contagem/intervalo terminar (nunca o pavio, que é oculto). */
   proximaEmMs: number | null;
+  /** 0 = normal, 1 = esquentando, 2 = em brasa (prestes a estourar). */
+  calor: Calor;
   vencedorId: string | null;
 }
 
@@ -110,6 +106,8 @@ export type MsgCliente =
 export type MsgServidor =
   | { t: 'sala'; sala: SalaPublica }
   | { t: 'recusada'; texto: string; motivo: MotivoRecusa; canonica?: string }
+  /** Toda tentativa enviada, para o balãozinho que todos veem. */
+  | { t: 'tentativa'; jogadorId: string; texto: string; aceita: boolean }
   | { t: 'digitando'; jogadorId: string; texto: string }
   | { t: 'erro'; codigo: string; mensagem: string };
 

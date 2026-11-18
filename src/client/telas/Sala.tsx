@@ -19,6 +19,13 @@ export interface Digitando {
   texto: string;
 }
 
+export interface Tentativa {
+  id: number;
+  jogadorId: string;
+  texto: string;
+  aceita: boolean;
+}
+
 export function TelaSala({ codigo }: { codigo: string }) {
   const [pronto, setPronto] = useState(!!preferencias.apelido());
   if (!pronto) return <PerfilAntesDeEntrar codigo={codigo} aoConcluir={() => setPronto(true)} />;
@@ -68,6 +75,7 @@ function SalaConectada({ codigo }: { codigo: string }) {
   const [erro, setErro] = useState('');
   const [recusa, setRecusa] = useState<Recusa | null>(null);
   const [digitando, setDigitando] = useState<Digitando | null>(null);
+  const [tentativa, setTentativa] = useState<Tentativa | null>(null);
   const conexao = useRef<Conexao | null>(null);
 
   useEffect(() => {
@@ -92,6 +100,10 @@ function SalaConectada({ codigo }: { codigo: string }) {
             break;
           case 'digitando':
             setDigitando({ jogadorId: msg.jogadorId, texto: msg.texto });
+            break;
+          case 'tentativa':
+            setTentativa({ id: ++contador, jogadorId: msg.jogadorId, texto: msg.texto, aceita: msg.aceita });
+            setDigitando(null);
             break;
           case 'erro':
             setErro(msg.mensagem);
@@ -164,7 +176,7 @@ function SalaConectada({ codigo }: { codigo: string }) {
       <main>
         {sala.fase === 'lobby' && <Lobby {...props} />}
         {(sala.fase === 'contagem' || sala.fase === 'jogando' || sala.fase === 'intervalo') && (
-          <Partida {...props} recusa={recusa} digitando={digitando} />
+          <Partida {...props} recusa={recusa} digitando={digitando} tentativa={tentativa} />
         )}
         {sala.fase === 'fim' && <Fim {...props} />}
       </main>

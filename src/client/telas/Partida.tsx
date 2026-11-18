@@ -1,9 +1,9 @@
 import { useEffect, useRef, useState } from 'preact/hooks';
 import type { JogadorPublico } from '../../shared/protocolo';
-import { PONTOS_POR_VIDA, ROTULO_RARIDADE, type Raridade } from '../../shared/regras';
+import { MAX_RESPOSTA, PONTOS_POR_VIDA, type Raridade } from '../../shared/regras';
 import { Avatar, Coracoes, Selo } from '../componentes';
 import type { PropsTela } from './Lobby';
-import type { Digitando, Recusa } from './Sala';
+import type { Digitando, Recusa, Tentativa } from './Sala';
 
 interface Aviso {
   id: number;
@@ -12,6 +12,14 @@ interface Aviso {
   raridade?: Raridade;
   pontos?: number;
 }
+
+interface Balao {
+  id: number;
+  texto: string;
+  aceita: boolean;
+}
+
+const DURACAO_BALAO_MS = 2_600;
 
 /** Contagem regressiva local a partir dos ms informados pelo servidor. */
 function useSegundosRestantes(ms: number | null, chave: unknown): number | null {
@@ -26,22 +34,6 @@ function useSegundosRestantes(ms: number | null, chave: unknown): number | null 
   return fim === null ? null : Math.max(0, Math.ceil((fim - Date.now()) / 1000));
 }
 
-/** A batata "esquenta" em momentos aleatórios: nunca revela o tempo real do pavio. */
-function useBatataAleatoria(ativa: boolean): boolean {
-  const [quente, setQuente] = useState(false);
-  useEffect(() => {
-    if (!ativa) return setQuente(false);
-    let t: ReturnType<typeof setTimeout>;
-    const trocar = () => {
-      setQuente((q) => !q);
-      t = setTimeout(trocar, 900 + Math.random() * 3200);
-    };
-    t = setTimeout(trocar, 900 + Math.random() * 3200);
-    return () => clearTimeout(t);
-  }, [ativa]);
-  return quente;
-}
-
 export function Partida({
   sala,
   eu,
@@ -49,27 +41,29 @@ export function Partida({
   sair,
   recusa,
   digitando,
-}: PropsTela & { recusa: Recusa | null; digitando: Digitando | null }) {
+  tentativa,
+}: PropsTela & { recusa: Recusa | null; digitando: Digitando | null; tentativa: Tentativa | null }) {
   const rodada = sala.rodada;
   const porId = new Map(sala.jogadores.map((j) => [j.id, j]));
   const me = porId.get(eu);
+  const jogando = !!me && me.vivo && !me.espectador;
   const minhaVez = sala.fase === 'jogando' && rodada?.vezDe === eu;
   const evento = sala.evento;
   const estouro = sala.fase === 'intervalo' && evento?.tipo === 'estouro' ? evento : null;
 
   const [texto, setTexto] = useState('');
   const [aviso, setAviso] = useState<Aviso | null>(null);
+  const [baloes, setBaloes] = useState<Record<string, Balao>>({});
   const entrada = useRef<HTMLInputElement>(null);
   const ultimoDigitando = useRef(0);
   const segundos = useSegundosRestantes(sala.proximaEmMs, evento?.seq ?? sala.fase);
-  const batataQuente = useBatataAleatoria(sala.fase === 'jogando');
 
   // Eventos do servidor viram avisos curtos.
   useEffect(() => {
     if (!evento) return;
     const nome = ('jogadorId' in evento ? porId.get(evento.jogadorId)?.apelido : undefined) ?? 'Alguém';
     if (evento.tipo === 'aceita') {
-      if (evento.jogadorId === eu) setTexto('');
+      if (evento.jogadorId === eu || evento.trocouPergunta) setTexto('');
       const extra = evento.ganhouVida ? ' · +1 vida!' : evento.trocouPergunta ? ' · acabaram as respostas, pergunta nova!' : '';
       setAviso({
         id: evento.seq,
@@ -91,15 +85,32 @@ export function Partida({
   // Recusas são privadas: só quem digitou vê o motivo.
   useEffect(() => {
     if (!recusa) return;
-    const texto =
+    const msg =
       recusa.motivo === 'usada'
-        ? `"${recusa.canonica ?? recusa.texto}" já foi dita!`
+        ? `"${recusa.canonica ?? recusa.texto}" já foi dita! (−1s)`
         : recusa.motivo === 'ambigua'
           ? `"${recusa.texto}" pode ser mais de uma coisa. Seja mais específico!`
           : `Hmm, "${recusa.texto}" não vale (−1s)`;
-    setAviso({ id: -recusa.id, tipo: recusa.motivo === 'usada' ? 'used' : 'unknown', texto });
+    setAviso({ id: -recusa.id, tipo: recusa.motivo === 'usada' ? 'used' : 'unknown', texto: msg });
     entrada.current?.select();
   }, [recusa?.id]);
+
+  // Balãozinho com toda tentativa enviada (certa ou errada), visível para todos.
+  useEffect(() => {
+    if (!tentativa) return;
+    const { id, jogadorId, texto: t, aceita } = tentativa;
+    setBaloes((b) => ({ ...b, [jogadorId]: { id, texto: t, aceita } }));
+    const timer = setTimeout(
+      () =>
+        setBaloes((b) => {
+          if (b[jogadorId]?.id !== id) return b;
+          const { [jogadorId]: _, ...resto } = b;
+          return resto;
+        }),
+      DURACAO_BALAO_MS,
+    );
+    return () => clearTimeout(timer);
+  }, [tentativa?.id]);
 
   useEffect(() => {
     if (!aviso) return;
@@ -123,9 +134,13 @@ export function Partida({
 
   function aoEnviar(e: Event) {
     e.preventDefault();
-    if (!minhaVez || !texto.trim()) return;
-    enviar({ t: 'responder', texto });
     entrada.current?.focus();
+    if (!texto.trim()) return;
+    if (!minhaVez) {
+      setAviso({ id: Date.now(), tipo: 'used', texto: 'Calma! Espere a batata chegar em você.' });
+      return;
+    }
+    enviar({ t: 'responder', texto });
   }
 
   // Assentos em roda, na ordem do jogo.
@@ -143,12 +158,13 @@ export function Partida({
           return { x: p.x + (50 - p.x) * 0.32, y: p.y + (50 - p.y) * 0.32 };
         })()
       : { x: 50, y: 50 };
-  const imagemBatata = estouro ? 'batata-estourando' : batataQuente ? 'batata-esquentando' : 'batata';
+  const calor = sala.fase === 'jogando' ? sala.calor : 0;
+  const imagemBatata = estouro ? 'batata-estourando' : calor > 0 ? 'batata-esquentando' : 'batata';
   const daVez = rodada ? porId.get(rodada.vezDe) : undefined;
   const previa = digitando && digitando.jogadorId === rodada?.vezDe && digitando.jogadorId !== eu ? digitando.texto : '';
 
   return (
-    <section class="match" aria-label="Partida">
+    <section class={`match calor-geral-${calor}`} aria-label="Partida">
       <div>
         <div class="hud">
           <span class="badge r-comum grande">Rodada {rodada?.numero ?? 1}</span>
@@ -192,21 +208,16 @@ export function Partida({
               </div>
             )}
             {estouro && (
-              <div class="pergunta pequena">
-                <small>Ninguém disse…</small>
-                <div class="nao-ditas">
-                  {estouro.naoDitas.map((n) => (
-                    <span key={n.canonica} class={`badge r-${n.raridade}`} title={ROTULO_RARIDADE[n.raridade]}>
-                      {n.canonica}
-                    </span>
-                  ))}
-                </div>
+              <div class="pergunta">
+                <span class="pof">POF!</span>
+                <small>{porId.get(estouro.jogadorId)?.apelido ?? 'Alguém'} se queimou</small>
                 {!estouro.fimDeJogo && segundos !== null && <small>Próxima pergunta em {segundos}…</small>}
               </div>
             )}
           </div>
           {assentos.map((j, i) => {
             const p = posicao(i);
+            const balao = baloes[j.id];
             const classes = [
               'seat',
               j.id === eu ? 'is-me' : '',
@@ -217,6 +228,11 @@ export function Partida({
             ].join(' ');
             return (
               <div key={j.id} class={classes} style={{ left: `${p.x}%`, top: `${p.y}%` }}>
+                {balao && (
+                  <span key={balao.id} class={`balao ${balao.aceita ? 'certo' : 'errado'}`}>
+                    {balao.texto}
+                  </span>
+                )}
                 <Avatar personagem={j.personagem} />
                 <span class="name">{j.apelido}</span>
                 <Coracoes vidas={j.vidas} />
@@ -224,7 +240,10 @@ export function Partida({
             );
           })}
           {sala.fase !== 'contagem' && (
-            <div class={`potato ${estouro ? 'boom' : ''}`} style={{ left: `${pBatata.x}%`, top: `${pBatata.y}%` }}>
+            <div
+              class={`potato calor-${calor} ${estouro ? 'boom' : ''}`}
+              style={{ left: `${pBatata.x}%`, top: `${pBatata.y}%` }}
+            >
               <img src={`/personagens/${imagemBatata}.svg`} alt="Batata quente" width={52} height={52} />
             </div>
           )}
@@ -257,17 +276,17 @@ export function Partida({
             </label>
             <input
               ref={entrada}
-              class="input answer-input"
+              class={`input answer-input ${minhaVez ? 'sua-vez' : ''}`}
               id="resposta"
               value={texto}
               onInput={(e) => aoDigitar(e.currentTarget.value)}
-              disabled={!minhaVez}
-              placeholder={minhaVez ? 'Sua vez! Digite e aperte Enter' : 'Espere a batata chegar…'}
+              disabled={!jogando}
+              placeholder={minhaVez ? 'Sua vez! Digite e aperte Enter' : 'Vá pensando… a batata já vem!'}
               enterKeyHint="send"
               autoCapitalize="off"
               autoCorrect="off"
               spellcheck={false}
-              maxLength={60}
+              maxLength={MAX_RESPOSTA}
             />
             <button class="btn btn-primary" disabled={!minhaVez}>
               Passar!
@@ -290,11 +309,6 @@ export function Partida({
           </ol>
         ) : (
           <p class="muted">Nenhuma resposta ainda.</p>
-        )}
-        {rodada && (
-          <p class="muted pequeno">
-            {rodada.usadas.length} de {rodada.total} respostas ditas
-          </p>
         )}
         <button class="btn btn-ghost pequeno" onClick={sair}>
           Sair da partida

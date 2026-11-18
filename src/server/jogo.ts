@@ -7,10 +7,10 @@ import type {
   JogadorPublico,
   MotivoRecusa,
   MsgServidor,
-  NaoDita,
   SalaPublica,
 } from '../shared/protocolo';
 import {
+  CALOR_MS,
   CONTAGEM_MS,
   INTERVALO_MS,
   MAX_APELIDO,
@@ -22,10 +22,10 @@ import {
   PERSONAGENS,
   PONTOS_MULTI,
   PONTOS_POR_VIDA,
-  RARIDADES,
   RITMOS,
   VIDAS_MAX,
   VIDAS_PADRAO,
+  type Calor,
   type Raridade,
   type Ritmo,
 } from '../shared/regras';
@@ -70,7 +70,10 @@ export interface EstadoSala {
   proximaEm: number | null;
   proximoIniciante: string | null;
   numeroRodada: number;
-  saco: string[];
+  /** Perguntas já feitas nesta sala (não repetem nem entre partidas, até acabar o banco). */
+  jaFeitas: string[];
+  /** Aviso visual de pavio acabando (só os dois últimos momentos são revelados). */
+  calor: Calor;
   evento: Evento | null;
   seq: number;
   vencedorId: string | null;
@@ -87,6 +90,8 @@ export interface Efeitos {
   privadas: { jogadorId: string; msg: MsgServidor }[];
   estatisticas: Estatistica[];
   expulsos: string[];
+  /** Tentativas enviadas (certas ou erradas), para o balãozinho de todos. */
+  tentativas: { jogadorId: string; texto: string; aceita: boolean }[];
   /** Pergunta nova cujas raridades podem ser buscadas nas estatísticas. */
   carregarRaridade: string | null;
 }
@@ -105,7 +110,7 @@ const OK: Resultado = { ok: true };
 const falha = (codigo: string, mensagem: string): Falha => ({ ok: false, codigo, mensagem });
 
 export function novosEfeitos(): Efeitos {
-  return { privadas: [], estatisticas: [], expulsos: [], carregarRaridade: null };
+  return { privadas: [], estatisticas: [], expulsos: [], tentativas: [], carregarRaridade: null };
 }
 
 export function configPadrao(): Config {
@@ -126,7 +131,8 @@ export function criarSala(codigo: string, agora: number): EstadoSala {
     proximaEm: null,
     proximoIniciante: null,
     numeroRodada: 0,
-    saco: [],
+    jaFeitas: [],
+    calor: 0,
     evento: null,
     seq: 0,
     vencedorId: null,
@@ -200,13 +206,27 @@ function raridadeDe(s: EstadoSala, ctx: Ctx, perguntaId: string, respostaId: str
 }
 
 function tirarPergunta(s: EstadoSala, ctx: Ctx): string {
-  if (s.saco.length === 0) {
+  s.jaFeitas ??= [];
+  const elegiveis = ctx.banco.elegiveis(s.config);
+  let candidatas = elegiveis.filter((id) => !s.jaFeitas.includes(id));
+  if (candidatas.length === 0) {
+    // Acabaram as perguntas desses temas: recomeça o ciclo (sem repetir a atual).
     const atual = s.rodada?.perguntaId;
-    const elegiveis = ctx.banco.elegiveis(s.config);
-    const semAtual = elegiveis.filter((id) => id !== atual);
-    s.saco = embaralhar(semAtual.length > 0 ? semAtual : elegiveis, ctx.rng);
+    s.jaFeitas = s.jaFeitas.filter((id) => !elegiveis.includes(id));
+    candidatas = elegiveis.filter((id) => id !== atual);
+    if (candidatas.length === 0) candidatas = elegiveis;
   }
-  return s.saco.pop()!;
+  const escolhida = candidatas[Math.floor(ctx.rng() * candidatas.length)];
+  s.jaFeitas.push(escolhida);
+  return escolhida;
+}
+
+function calorAtual(s: EstadoSala, agora: number): Calor {
+  if (s.fase !== 'jogando' || s.prazo === null) return 0;
+  const resta = s.prazo - agora;
+  if (resta <= CALOR_MS[1]) return 2;
+  if (resta <= CALOR_MS[0]) return 1;
+  return 0;
 }
 
 function registrarEstatistica(s: EstadoSala, ctx: Ctx): void {
@@ -223,6 +243,7 @@ function novaPergunta(s: EstadoSala, ctx: Ctx, vezDe: string): void {
   const perguntaId = tirarPergunta(s, ctx);
   s.rodada = { numero: s.numeroRodada, perguntaId, vezDe, usadas: [], raridades: null, recusadas: [] };
   s.prazo = sortearPavio(s, ctx);
+  s.calor = 0;
   ctx.efeitos.carregarRaridade = perguntaId;
 }
 
@@ -251,22 +272,6 @@ function verificarFim(s: EstadoSala): boolean {
   return true;
 }
 
-function sortearNaoDitas(s: EstadoSala, ctx: Ctx): NaoDita[] {
-  const r = s.rodada;
-  if (!r) return [];
-  const pergunta = ctx.banco.pergunta(r.perguntaId);
-  if (!pergunta) return [];
-  const usadas = new Set(r.usadas.map((u) => u.id));
-  const nivel = (x: Raridade) => RARIDADES.indexOf(x);
-  return embaralhar(
-    pergunta.respostas.filter((x) => !usadas.has(x.id)),
-    ctx.rng,
-  )
-    .map((x) => ({ canonica: x.canonica, raridade: raridadeDe(s, ctx, r.perguntaId, x.id) }))
-    .sort((a, b) => nivel(b.raridade) - nivel(a.raridade))
-    .slice(0, 6);
-}
-
 function estourar(s: EstadoSala, ctx: Ctx): void {
   const r = s.rodada;
   const vitima = jogador(s, r?.vezDe);
@@ -281,8 +286,8 @@ function estourar(s: EstadoSala, ctx: Ctx): void {
     vitima.eliminadoNaRodada = s.numeroRodada;
   }
   registrarEstatistica(s, ctx);
-  const naoDitas = sortearNaoDitas(s, ctx);
   s.prazo = null;
+  s.calor = 0;
 
   const fimDeJogo = verificarFim(s);
   if (!fimDeJogo) {
@@ -290,7 +295,7 @@ function estourar(s: EstadoSala, ctx: Ctx): void {
     s.proximaEm = ctx.agora + INTERVALO_MS;
     s.proximoIniciante = vitima.vivo ? vitima.id : proximoVivo(s, vitima.id);
   }
-  emitir(s, { tipo: 'estouro', jogadorId: vitima.id, eliminado, fimDeJogo, naoDitas });
+  emitir(s, { tipo: 'estouro', jogadorId: vitima.id, eliminado, fimDeJogo });
 }
 
 // ---------------------------------------------------------------- ações
@@ -391,7 +396,6 @@ export function configurar(s: EstadoSala, ctx: Ctx, jogadorId: string, cfg: Part
     c.maxJogadores = Math.min(MAX_JOGADORES, Math.max(MIN_JOGADORES, Math.round(cfg.maxJogadores)));
   }
   for (const j of s.jogadores) j.vidas = c.vidas;
-  s.saco = [];
   s.atualizadaEm = ctx.agora;
   return OK;
 }
@@ -420,9 +424,9 @@ export function iniciar(s: EstadoSala, ctx: Ctx, jogadorId: string): Resultado {
     naRoda.map((j) => j.id),
     ctx.rng,
   );
-  s.saco = [];
   s.rodada = null;
   s.numeroRodada = 0;
+  s.calor = 0;
   s.vencedorId = null;
   s.fase = 'contagem';
   s.proximaEm = ctx.agora + CONTAGEM_MS;
@@ -447,6 +451,7 @@ export function responder(s: EstadoSala, ctx: Ctx, jogadorId: string, texto: str
 
   if (!resultado.ok) {
     if (resultado.motivo === 'vazia') return;
+    ctx.efeitos.tentativas.push({ jogadorId, texto: digitado, aceita: false });
     const motivo: MotivoRecusa = resultado.motivo;
     const canonica =
       resultado.motivo === 'usada' ? r.usadas.find((u) => u.id === resultado.id)?.canonica : undefined;
@@ -459,9 +464,12 @@ export function responder(s: EstadoSala, ctx: Ctx, jogadorId: string, texto: str
     if (motivo !== 'ambigua') {
       s.prazo -= PENALIDADE_ERRO_MS;
       if (s.prazo <= ctx.agora) estourar(s, ctx);
+      else s.calor = calorAtual(s, ctx.agora);
     }
     return;
   }
+
+  ctx.efeitos.tentativas.push({ jogadorId, texto: digitado, aceita: true });
 
   const pergunta = ctx.banco.pergunta(r.perguntaId)!;
   const resposta = pergunta.respostas.find((x) => x.id === resultado.id)!;
@@ -491,6 +499,7 @@ export function responder(s: EstadoSala, ctx: Ctx, jogadorId: string, texto: str
     r.vezDe = seguinte;
     const minimo = RITMOS[s.config.ritmo].minimo;
     if (s.prazo - ctx.agora < minimo) s.prazo = ctx.agora + minimo;
+    s.calor = calorAtual(s, ctx.agora);
   }
   emitir(s, {
     tipo: 'aceita',
@@ -508,8 +517,9 @@ export function avancarTempo(s: EstadoSala, ctx: Ctx): void {
   const folga = 25;
   if ((s.fase === 'contagem' || s.fase === 'intervalo') && s.proximaEm !== null && ctx.agora + folga >= s.proximaEm) {
     comecarRodada(s, ctx);
-  } else if (s.fase === 'jogando' && s.prazo !== null && ctx.agora + folga >= s.prazo) {
-    estourar(s, ctx);
+  } else if (s.fase === 'jogando' && s.prazo !== null) {
+    if (ctx.agora + folga >= s.prazo) estourar(s, ctx);
+    else s.calor = calorAtual(s, ctx.agora + folga);
   }
 }
 
@@ -531,7 +541,14 @@ export function novaPartida(s: EstadoSala, ctx: Ctx, jogadorId: string): Resulta
 }
 
 export function proximoAlarme(s: EstadoSala): number | null {
-  if (s.fase === 'jogando') return s.prazo;
+  if (s.fase === 'jogando') {
+    if (s.prazo === null) return null;
+    // Acorda também nos momentos de aquecimento ainda não anunciados.
+    const calor = s.calor ?? 0;
+    if (calor < 1) return s.prazo - CALOR_MS[0];
+    if (calor < 2) return s.prazo - CALOR_MS[1];
+    return s.prazo;
+  }
   if (s.fase === 'contagem' || s.fase === 'intervalo') return s.proximaEm;
   return null;
 }
@@ -567,6 +584,7 @@ export function publico(s: EstadoSala, ctx: Pick<Ctx, 'agora' | 'banco'>): SalaP
         : null,
     evento: s.evento,
     proximaEmMs: s.proximaEm !== null ? Math.max(0, s.proximaEm - ctx.agora) : null,
+    calor: s.calor ?? 0,
     vencedorId: s.vencedorId,
   };
 }

@@ -223,6 +223,10 @@ export class Sala extends DurableObject<Env> {
         } catch {}
       }
     }
+    for (const t of ctx.efeitos.tentativas) {
+      const texto = temPalavrao(t.texto) ? '***' : t.texto;
+      this.transmitir({ t: 'tentativa', jogadorId: t.jogadorId, texto, aceita: t.aceita });
+    }
     this.transmitir({ t: 'sala', sala: publico(s, ctx) });
     for (const { jogadorId, msg } of ctx.efeitos.privadas) {
       for (const ws of this.socketsDe(jogadorId)) this.enviar(ws, msg);
