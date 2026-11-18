@@ -191,14 +191,20 @@ describe('turnos e pavio', () => {
     expect(s.evento).toMatchObject({ tipo: 'aceita', trocouPergunta: true });
   });
 
-  it('500 pontos dão uma vida extra, até o teto de 5', () => {
+  it('250 pontos dão uma vida extra, até o teto de 5', () => {
     comecar('ana', 'bia');
     const j = s.jogadores.find((x) => x.id === daVez())!;
-    j.bonus = 450;
+    j.bonus = 200;
     s.rodada!.perguntaId = 'frutas';
-    responder(s, ctx(), j.id, 'uva'); // lendário = 150
+    responder(s, ctx(), j.id, 'uva'); // lendário = 150 → 350
     expect(j.vidas).toBe(4);
     expect(j.bonus).toBe(100);
+
+    j.vidas = 5;
+    j.bonus = 200;
+    s.rodada!.vezDe = j.id;
+    responder(s, ctx(), j.id, 'kiwi'); // no teto: não passa de 5
+    expect(j.vidas).toBe(5);
   });
 
   it('último vivo vence', () => {

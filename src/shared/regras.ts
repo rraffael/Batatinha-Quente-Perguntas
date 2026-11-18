@@ -28,7 +28,7 @@ export const PONTOS_SOLO: Record<Raridade, number> = {
   lendario: 100,
 };
 
-export const PONTOS_POR_VIDA = 500;
+export const PONTOS_POR_VIDA = 250;
 export const VIDAS_MAX = 5;
 export const VIDAS_PADRAO = 3;
 export const PENALIDADE_ERRO_MS = 1000;

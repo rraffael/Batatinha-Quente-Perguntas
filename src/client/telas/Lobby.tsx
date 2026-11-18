@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'preact/hooks';
 import type { Config, MsgCliente, SalaPublica, TemaInfo } from '../../shared/protocolo';
-import { MIN_JOGADORES, RITMOS, VIDAS_MAX, type Ritmo } from '../../shared/regras';
+import { MIN_JOGADORES, PONTOS_POR_VIDA, RITMOS, VIDAS_MAX, type Ritmo } from '../../shared/regras';
 import { Avatar, EspacoAnuncio } from '../componentes';
 
 export interface PropsTela {
@@ -160,7 +160,7 @@ export function Lobby({ sala, eu, enviar, sair }: PropsTela) {
           <li>Na sua vez, digite uma resposta para a pergunta e aperte Enter. Acertou, a batata passa.</li>
           <li>O pavio é secreto: ninguém sabe quando a batata vai estourar. Errar custa 1 segundo.</li>
           <li>Estourou na sua mão? Perde uma vida. Quem ficar por último vence.</li>
-          <li>Respostas raras dão pontos. A cada 500 pontos você ganha uma vida extra.</li>
+          <li>Respostas raras dão pontos. A cada {PONTOS_POR_VIDA} pontos você ganha uma vida extra.</li>
         </ol>
       </div>
       <EspacoAnuncio />

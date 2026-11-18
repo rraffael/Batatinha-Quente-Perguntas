@@ -114,7 +114,7 @@ Legenda: ✅ feito · ⬜ pendente.
 ## Decisões já tomadas
 
 - Nome: **Batatá Quentá** · Endereço: **batata.tiffion.com** · busca INPI/EUIPO sem conflito.
-- 500 pontos = +1 vida (máx. 5). Errar tira 1 s do pavio; pavio em zero = estouro = perde vida.
+- 250 pontos = +1 vida (máx. 5), acumulando entre perguntas. Errar tira 1 s do pavio; pavio em zero = estouro = perde vida.
 - Respostas esgotadas: pergunta troca e o pavio reinicia, sem perder vida.
 
 ## Decisões pendentes suas
