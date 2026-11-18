@@ -193,6 +193,9 @@ export function PaginaCreditos() {
           Brasileiro</em>.
         </li>
         <li>
+          <strong>Fontes:</strong> Baloo 2 (Ek Type) e Nunito (Vernon Adams), sob a SIL Open Font License 1.1.
+        </li>
+        <li>
           <strong>Tecnologia:</strong> Preact, Vite e Cloudflare Workers.
         </li>
       </ul>

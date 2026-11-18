@@ -225,12 +225,14 @@ describe('turnos e pavio', () => {
 
 describe('raridade por uso', () => {
   it('só recalcula com dados suficientes e segue a distribuição', () => {
-    const ids = Array.from({ length: 10 }, (_, i) => `r${i}`);
+    const ids = Array.from({ length: 50 }, (_, i) => `r${i}`);
     expect(raridadesPorUso(ids, new Map([['r0', 10]]))).toBeNull();
-    const usos = new Map(ids.map((id, i) => [id, 100 - i * 10]));
+    const usos = new Map(ids.map((id, i) => [id, 100 - i * 2]));
     const r = raridadesPorUso(ids, usos)!;
     expect(r.r0).toBe('comum');
-    expect(r.r3).toBe('incomum');
-    expect(r.r9).toBe('lendario');
+    expect(r.r20).toBe('incomum');
+    expect(r.r35).toBe('raro');
+    expect(r.r42).toBe('epico');
+    expect(r.r49).toBe('lendario');
   });
 });

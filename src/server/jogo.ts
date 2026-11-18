@@ -166,7 +166,9 @@ function proximoVivo(s: EstadoSala, id: string): string | null {
   return null;
 }
 
-function emitir(s: EstadoSala, evento: Omit<Evento, 'seq'>): void {
+type SemSeq<T> = T extends unknown ? Omit<T, 'seq'> : never;
+
+function emitir(s: EstadoSala, evento: SemSeq<Evento>): void {
   s.seq += 1;
   s.evento = { ...evento, seq: s.seq } as Evento;
 }
