@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useRef, useState } from 'preact/hooks';
-import type { MotivoRecusa, MsgCliente, SalaPublica } from '../../shared/protocolo';
+import type { MensagemChat, MotivoRecusa, MsgCliente, SalaPublica } from '../../shared/protocolo';
+import { HISTORICO_CHAT, MAX_SENHA } from '../../shared/regras';
 import { Conexao, type StatusConexao } from '../conexao';
 import { identidade, preferencias } from '../identidade';
 import { alternarMudo, estaMudo, sons } from '../sons';
@@ -30,7 +31,7 @@ export interface Tentativa {
 export function TelaSala({ codigo }: { codigo: string }) {
   const [pronto, setPronto] = useState(!!preferencias.apelido());
   if (!pronto) return <PerfilAntesDeEntrar codigo={codigo} aoConcluir={() => setPronto(true)} />;
-  return <SalaConectada codigo={codigo} />;
+  return <SalaComSenha codigo={codigo} />;
 }
 
 function PerfilAntesDeEntrar({ codigo, aoConcluir }: { codigo: string; aoConcluir: () => void }) {
@@ -114,11 +115,79 @@ function useSons(sala: SalaPublica | null, tentativa: Tentativa | null, eu: stri
   }, [calor]);
 }
 
-function SalaConectada({ codigo }: { codigo: string }) {
+const chaveSenha = (codigo: string) => `senha-sala-${codigo}`;
+
+function lerSenha(codigo: string): string {
+  try {
+    return sessionStorage.getItem(chaveSenha(codigo)) ?? '';
+  } catch {
+    return '';
+  }
+}
+
+function SalaComSenha({ codigo }: { codigo: string }) {
+  // Trocar a chave remonta a conexão com a senha nova.
+  const [tentativa, setTentativa] = useState(0);
+  return (
+    <SalaConectada
+      key={tentativa}
+      codigo={codigo}
+      aoInformarSenha={(senha) => {
+        try {
+          sessionStorage.setItem(chaveSenha(codigo), senha);
+        } catch {}
+        setTentativa((n) => n + 1);
+      }}
+    />
+  );
+}
+
+function PedirSenha({ codigo, erro, aoEnviar }: { codigo: string; erro: string; aoEnviar: (senha: string) => void }) {
+  const [senha, setSenha] = useState('');
+  return (
+    <div class="shell">
+      <main class="card centro">
+        <h1>Sala {codigo} tem senha</h1>
+        <form
+          class="join"
+          onSubmit={(e) => {
+            e.preventDefault();
+            if (senha.trim()) aoEnviar(senha.trim());
+          }}
+        >
+          <label class="sr" for="senha-sala">
+            Senha da sala
+          </label>
+          <input
+            id="senha-sala"
+            class="input"
+            type="password"
+            maxLength={MAX_SENHA}
+            autoFocus
+            placeholder="Senha"
+            value={senha}
+            onInput={(e) => setSenha(e.currentTarget.value)}
+          />
+          <button class="btn btn-primary" disabled={!senha.trim()}>
+            Entrar
+          </button>
+        </form>
+        {erro && <p class="muted">{erro}</p>}
+        <a class="btn btn-ghost" href="#/">
+          Voltar ao início
+        </a>
+      </main>
+    </div>
+  );
+}
+
+function SalaConectada({ codigo, aoInformarSenha }: { codigo: string; aoInformarSenha: (senha: string) => void }) {
   const eu = useMemo(() => identidade(), []);
   const [sala, setSala] = useState<SalaPublica | null>(null);
   const [status, setStatus] = useState<StatusConexao>('conectando');
   const [erro, setErro] = useState('');
+  const [erroCodigo, setErroCodigo] = useState('');
+  const [chat, setChat] = useState<MensagemChat[]>([]);
   const [recusa, setRecusa] = useState<Recusa | null>(null);
   const [digitando, setDigitando] = useState<Digitando | null>(null);
   const [tentativa, setTentativa] = useState<Tentativa | null>(null);
@@ -136,6 +205,7 @@ function SalaConectada({ codigo }: { codigo: string }) {
         segredo: eu.segredo,
         apelido: preferencias.apelido(),
         personagem: preferencias.personagem(),
+        senha: lerSenha(codigo) || undefined,
       }),
       aoMensagem: (msg) => {
         switch (msg.t) {
@@ -153,8 +223,16 @@ function SalaConectada({ codigo }: { codigo: string }) {
             setTentativa({ id: ++contador, jogadorId: msg.jogadorId, texto: msg.texto, aceita: msg.aceita });
             setDigitando(null);
             break;
+          case 'chat':
+            // O histórico chega de novo a cada reconexão: junta sem duplicar.
+            setChat((atual) => {
+              const ids = new Set(atual.map((m) => m.id));
+              return [...atual, ...msg.mensagens.filter((m) => !ids.has(m.id))].slice(-HISTORICO_CHAT);
+            });
+            break;
           case 'erro':
             setErro(msg.mensagem);
+            setErroCodigo(msg.codigo);
             break;
         }
       },
@@ -177,6 +255,10 @@ function SalaConectada({ codigo }: { codigo: string }) {
     const t = setTimeout(() => setErro(''), 3500);
     return () => clearTimeout(t);
   }, [erro, status]);
+
+  if (status === 'encerrado' && erroCodigo === 'senha') {
+    return <PedirSenha codigo={codigo} erro={lerSenha(codigo) ? erro : ''} aoEnviar={aoInformarSenha} />;
+  }
 
   if (status === 'encerrado' && !sala?.jogadores.some((j) => j.id === eu.jogadorId && j.conectado)) {
     return (
@@ -208,7 +290,7 @@ function SalaConectada({ codigo }: { codigo: string }) {
     );
   }
 
-  const props = { sala, eu: eu.jogadorId, enviar, sair: sairDaSala };
+  const props = { sala, eu: eu.jogadorId, enviar, sair: sairDaSala, chat };
   return (
     <div class={`shell fase-${sala.fase}`}>
       <button

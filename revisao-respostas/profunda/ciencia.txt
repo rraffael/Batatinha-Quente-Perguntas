@@ -1,0 +1,221 @@
+== cie-sistema-solar
++ Higia | 10 Hygiea | Hygiea | Higia | l | https://pt.wikipedia.org/wiki/10_Hygiea
++ Psiquê | 16 Psyche;Psyche | Psyche | Psique | e | https://pt.wikipedia.org/wiki/16_Psyche
++ Ida | 243 Ida | Ida | Ida | l | https://pt.wikipedia.org/wiki/243_Ida
++ Gaspra | 951 Gaspra | Gaspra | Gaspra | l | https://pt.wikipedia.org/wiki/951_Gaspra
++ Itokawa | 25143 Itokawa | Itokawa | Itokawa | l | https://pt.wikipedia.org/wiki/25143_Itokawa
++ Ryugu | 162173 Ryugu | Ryugu | Ryugu | l | https://pt.wikipedia.org/wiki/162173_Ryugu
++ Lutécia | 21 Lutetia | Lutetia | Lutecia | l | https://pt.wikipedia.org/wiki/21_Lutetia
++ Dimorphos | Dimorfo | Dimorphos | Dimorfo | e | https://pt.wikipedia.org/wiki/Dimorphos
++ Didymos | 65803 Didymos | Didymos | Dídimo | l | https://pt.wikipedia.org/wiki/65803_Didymos
++ Cometa Encke | Encke | Encke | Cometa Encke | l | https://pt.wikipedia.org/wiki/2P/Encke
++ Cometa Tempel 1 | Tempel 1 | Tempel 1 | Cometa Tempel 1 | l | https://pt.wikipedia.org/wiki/9P/Tempel
++ Cometa Churyumov-Gerasimenko | Churyumov-Gerasimenko;67P | Churyumov–Gerasimenko | | e | https://pt.wikipedia.org/wiki/67P/Churyumov-Gerasimenko
++ Cometa Hyakutake | Hyakutake | Hyakutake | Cometa Hyakutake | e | https://en.wikipedia.org/wiki/Comet_Hyakutake
++ Cometa Swift-Tuttle | Swift-Tuttle | Swift–Tuttle | Cometa Swift-Tuttle | e | https://pt.wikipedia.org/wiki/109P/Swift-Tuttle
++ Cometa NEOWISE | NEOWISE | NEOWISE | Cometa NEOWISE | e | https://pt.wikipedia.org/wiki/C/2020_F3_(NEOWISE)
++ Puck | | Puck | Puck | l | https://en.wikipedia.org/wiki/Puck_(moon)
++ Jano | | Janus | Jano | e | https://pt.wikipedia.org/wiki/Jano_(sat%C3%A9lite)
++ Epimeteu | | Epimetheus | Epimeteo | e | https://pt.wikipedia.org/wiki/Epimeteu_(sat%C3%A9lite)
++ Pã | | Pan | Pan | l | https://pt.wikipedia.org/wiki/P%C3%A3_(sat%C3%A9lite)
++ Dafne | | Daphnis | Dafnis | l | https://pt.wikipedia.org/wiki/Dafne_(sat%C3%A9lite)
++ Telesto | | Telesto | Telesto | l | https://pt.wikipedia.org/wiki/Telesto_(sat%C3%A9lite)
++ Calipso | | Calypso | Calipso | l | https://pt.wikipedia.org/wiki/Calipso_(sat%C3%A9lite)
++ Helena | | Helene | Helena | l | https://en.wikipedia.org/wiki/Helene_(moon)
++ Atlas | | Atlas | Atlas | l | https://pt.wikipedia.org/wiki/Atlas_(sat%C3%A9lite)
++ Metis | | Metis | Metis | l | https://pt.wikipedia.org/wiki/M%C3%A9tis_(sat%C3%A9lite)
++ Adrasteia | | Adrastea | Adrastea | l | https://en.wikipedia.org/wiki/Adrastea_(moon)
++ Tebe | | Thebe | Tebe | l | https://pt.wikipedia.org/wiki/Tebe_(sat%C3%A9lite)
++ Himalia | | Himalia | Himalia | l | https://pt.wikipedia.org/wiki/Himalia_(sat%C3%A9lite)
++ Elara | | Elara | Elara | l | https://pt.wikipedia.org/wiki/Elara_(sat%C3%A9lite)
++ Larissa | | Larissa | Larisa | l | https://pt.wikipedia.org/wiki/Larissa_(sat%C3%A9lite)
++ Galateia | | Galatea | Galatea | l | https://pt.wikipedia.org/wiki/Galateia_(sat%C3%A9lite)
++ Despina | | Despina | Despina | l | https://pt.wikipedia.org/wiki/Despina_(sat%C3%A9lite)
++ Náiade | | Naiad | Náyade | l | https://pt.wikipedia.org/wiki/N%C3%A1iade_(sat%C3%A9lite)
++ Talassa | | Thalassa | Talasa | l | https://pt.wikipedia.org/wiki/Talassa_(sat%C3%A9lite)
++ Cordélia | | Cordelia | Cordelia | l | https://en.wikipedia.org/wiki/Cordelia_(moon)
++ Ofélia | | Ophelia | Ofelia | l | https://pt.wikipedia.org/wiki/Of%C3%A9lia_(sat%C3%A9lite)
++ Julieta | | Juliet | Julieta | l | https://pt.wikipedia.org/wiki/Julieta_(sat%C3%A9lite)
++ Pórcia | | Portia | Porcia | l | https://pt.wikipedia.org/wiki/P%C3%B3rcia_(sat%C3%A9lite)
++ Desdêmona | | Desdemona | Desdémona | l | https://en.wikipedia.org/wiki/Desdemona_(moon)
++ Calibã | | Caliban | Calibán | l | https://pt.wikipedia.org/wiki/Calib%C3%A3_(sat%C3%A9lite)
++ Sicorax | | Sycorax | Sycorax | l | https://pt.wikipedia.org/wiki/Sicorax_(sat%C3%A9lite)
++ Estige | | Styx | Estigia | l | https://pt.wikipedia.org/wiki/Estige_(sat%C3%A9lite)
++ Cérbero | | Kerberos | Cerbero | l | https://pt.wikipedia.org/wiki/C%C3%A9rbero_(sat%C3%A9lite)
++ Gonggong | | Gonggong | Gonggong | e | https://pt.wikipedia.org/wiki/225088_Gonggong
++ Varuna | | Varuna | Varuna | l | https://pt.wikipedia.org/wiki/20000_Varuna
++ Íxion | | Ixion | Ixión | l | https://pt.wikipedia.org/wiki/28978_Ixion
+
+== cie-constelacoes
+~ Cruzeiro do Sul | Cruz do Sul;Cruzeiro | https://pt.wikipedia.org/wiki/Cruzeiro_do_Sul
+~ Buril | Cinzel | https://pt.wikipedia.org/wiki/Caelum
+~ Pintor | Cavalete do Pintor | https://pt.wikipedia.org/wiki/Pictor
+~ Escudo | Escudo de Sobieski | https://pt.wikipedia.org/wiki/Scutum
+~ Cabeleira de Berenice | Cabelo de Berenice | https://pt.wikipedia.org/wiki/Coma_Berenices
+~ Oitante | Octante | https://pt.wikipedia.org/wiki/Octans
+~ Pomba | Pomba de Noé | https://pt.wikipedia.org/wiki/Columba
+~ Raposa | Raposinha | https://pt.wikipedia.org/wiki/Vulpecula
+
+== cie-cientistas
++ Ptolomeu | Cláudio Ptolomeu | | | r | https://pt.wikipedia.org/wiki/Cl%C3%A1udio_Ptolemeu
++ Tales de Mileto | Tales | | | r | https://pt.wikipedia.org/wiki/Tales_de_Mileto
++ Eratóstenes | | | | e | https://pt.wikipedia.org/wiki/Erat%C3%B3stenes
++ Demócrito | | | | e | https://pt.wikipedia.org/wiki/Dem%C3%B3crito
++ Avicena | | | | e | https://pt.wikipedia.org/wiki/Avicena
++ Al-Khwarizmi | | | | e | https://pt.wikipedia.org/wiki/Al-Khwarizmi
++ Francis Bacon | | | | r | https://pt.wikipedia.org/wiki/Francis_Bacon
++ Robert Hooke | Hooke | | | e | https://pt.wikipedia.org/wiki/Robert_Hooke
++ Antonie van Leeuwenhoek | Leeuwenhoek | | | e | https://pt.wikipedia.org/wiki/Antonie_van_Leeuwenhoek
++ Edmond Halley | Halley | | | e | https://pt.wikipedia.org/wiki/Edmond_Halley
++ Carl Friedrich Gauss | Gauss | | | e | https://pt.wikipedia.org/wiki/Carl_Friedrich_Gauss
++ Leonhard Euler | Euler | | | e | https://pt.wikipedia.org/wiki/Leonhard_Euler
++ Jean-Baptiste de Lamarck | Lamarck | | | e | https://pt.wikipedia.org/wiki/Jean-Baptiste_de_Lamarck
++ Alexander von Humboldt | Humboldt | | | e | https://pt.wikipedia.org/wiki/Alexander_von_Humboldt
++ Alfred Russel Wallace | Wallace | | | e | https://pt.wikipedia.org/wiki/Alfred_Russel_Wallace
++ Joseph Lister | Lister | | | e | https://pt.wikipedia.org/wiki/Joseph_Lister
++ Ignaz Semmelweis | Semmelweis | | | e | https://pt.wikipedia.org/wiki/Ignaz_Semmelweis
++ Santiago Ramón y Cajal | Ramón y Cajal | | | e | https://pt.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal
++ Ivan Pavlov | Pavlov | | | r | https://pt.wikipedia.org/wiki/Ivan_Pavlov
++ Wilhelm Röntgen | Röntgen | | | e | https://pt.wikipedia.org/wiki/Wilhelm_Conrad_R%C3%B6ntgen
++ Henri Becquerel | Becquerel | | | e | https://pt.wikipedia.org/wiki/Henri_Becquerel
++ Paul Dirac | Dirac | | | e | https://pt.wikipedia.org/wiki/Paul_Dirac
++ Wolfgang Pauli | Pauli | | | e | https://pt.wikipedia.org/wiki/Wolfgang_Pauli
++ Louis de Broglie | De Broglie | | | e | https://pt.wikipedia.org/wiki/Louis_de_Broglie
++ Lord Kelvin | Kelvin;William Thomson | | | e | https://pt.wikipedia.org/wiki/William_Thomson
++ James Prescott Joule | Joule | | | e | https://pt.wikipedia.org/wiki/James_Prescott_Joule
++ Henry Cavendish | Cavendish | | | e | https://pt.wikipedia.org/wiki/Henry_Cavendish
++ Emmy Noether | Noether | | | e | https://pt.wikipedia.org/wiki/Emmy_Noether
++ Srinivasa Ramanujan | Ramanujan | | | e | https://pt.wikipedia.org/wiki/Srinivasa_Ramanujan
++ Kurt Gödel | Gödel | | | e | https://pt.wikipedia.org/wiki/Kurt_G%C3%B6del
++ John von Neumann | Von Neumann | | | e | https://pt.wikipedia.org/wiki/John_von_Neumann
++ Claude Shannon | Shannon | | | e | https://pt.wikipedia.org/wiki/Claude_Shannon
++ Tim Berners-Lee | Berners-Lee | | | e | https://pt.wikipedia.org/wiki/Tim_Berners-Lee
++ Grace Hopper | | | | e | https://pt.wikipedia.org/wiki/Grace_Hopper
++ Katherine Johnson | | | | e | https://pt.wikipedia.org/wiki/Katherine_Johnson
++ Neil deGrasse Tyson | | | | r | https://pt.wikipedia.org/wiki/Neil_deGrasse_Tyson
++ Richard Dawkins | Dawkins | | | r | https://pt.wikipedia.org/wiki/Richard_Dawkins
++ Jean Piaget | Piaget | | | e | https://pt.wikipedia.org/wiki/Jean_Piaget
++ Carl Jung | Jung | | | e | https://pt.wikipedia.org/wiki/Carl_Gustav_Jung
++ Jacques Cousteau | Cousteau | | | r | https://pt.wikipedia.org/wiki/Jacques-Yves_Cousteau
++ Jennifer Doudna | Doudna | | | e | https://pt.wikipedia.org/wiki/Jennifer_Doudna
++ Wernher von Braun | Von Braun | | | e | https://pt.wikipedia.org/wiki/Wernher_von_Braun
++ Konrad Lorenz | | | | l | https://pt.wikipedia.org/wiki/Konrad_Lorenz
++ Rachel Carson | | | | l | https://pt.wikipedia.org/wiki/Rachel_Carson
++ Vera Rubin | | | | l | https://pt.wikipedia.org/wiki/Vera_Rubin
++ Barbara McClintock | | | | l | https://pt.wikipedia.org/wiki/Barbara_McClintock
++ Dorothy Hodgkin | | | | l | https://pt.wikipedia.org/wiki/Dorothy_Hodgkin
++ Fritz Haber | | | | l | https://pt.wikipedia.org/wiki/Fritz_Haber
++ Joseph Priestley | | | | l | https://pt.wikipedia.org/wiki/Joseph_Priestley
++ Humphry Davy | | | | l | https://pt.wikipedia.org/wiki/Humphry_Davy
++ Emílio Ribas | | | | e | https://pt.wikipedia.org/wiki/Em%C3%ADlio_Ribas
++ Landell de Moura | Padre Landell | | | e | https://pt.wikipedia.org/wiki/Roberto_Landell_de_Moura
++ Nise da Silveira | | | | e | https://pt.wikipedia.org/wiki/Nise_da_Silveira
++ Jaqueline Goes de Jesus | | | | e | https://pt.wikipedia.org/wiki/Jaqueline_Goes_de_Jesus
++ Mayana Zatz | | | | l | https://pt.wikipedia.org/wiki/Mayana_Zatz
++ Artur Avila | | | | e | https://pt.wikipedia.org/wiki/Artur_Avila
++ Bartolomeu de Gusmão | Padre voador | | | l | https://pt.wikipedia.org/wiki/Bartolomeu_de_Gusm%C3%A3o
++ Aziz Ab'Sáber | | | | l | https://pt.wikipedia.org/wiki/Aziz_Ab'S%C3%A1ber
++ Carlos Nobre | | | | l | https://pt.wikipedia.org/wiki/Carlos_Nobre_(cientista)
++ Duília de Mello | | | | l | https://pt.wikipedia.org/wiki/Du%C3%ADlia_de_Mello
++ Manoel de Abreu | | | | l | https://pt.wikipedia.org/wiki/Manoel_de_Abreu
++ Euryclides de Jesus Zerbini | Zerbini | | | l | https://pt.wikipedia.org/wiki/Euryclides_de_Jesus_Zerbini
+
+== cie-unidades-medida
++ Decímetro | dm | Decimetre | Decímetro | e | https://pt.wikipedia.org/wiki/Dec%C3%ADmetro
++ Decâmetro | dam | Decametre | Decámetro | l | https://pt.wikipedia.org/wiki/Dec%C3%A2metro
++ Hectômetro | hm | Hectometre | Hectómetro | l | https://pt.wikipedia.org/wiki/Hect%C3%B4metro
++ Centilitro | cl | Centilitre | Centilitro | e | https://pt.wikipedia.org/wiki/Centilitro
++ Hectolitro | hl | Hectolitre | Hectolitro | l | https://pt.wikipedia.org/wiki/Hectolitro
++ Picômetro | pm | Picometre | Picómetro | l | https://pt.wikipedia.org/wiki/Pic%C3%B4metro
++ Angstrom | | Ångström | Angstrom | e | https://pt.wikipedia.org/wiki/%C3%85ngstr%C3%B6m
++ Micrograma | | Microgram | Microgramo | e | https://pt.wikipedia.org/wiki/Micrograma
++ Barril | | Barrel | Barril | r | https://pt.wikipedia.org/wiki/Barril_(unidade)
++ Grau | Grau de arco | Degree | Grado | r | https://pt.wikipedia.org/wiki/Grau_(geometria)
++ Grau Rankine | Rankine | Rankine | Rankine | l | https://en.wikipedia.org/wiki/Rankine_scale
++ Grau Réaumur | Réaumur | Réaumur | Réaumur | l | https://en.wikipedia.org/wiki/Réaumur_scale
++ BTU | Unidade térmica britânica | British thermal unit | BTU | e | https://pt.wikipedia.org/wiki/British_thermal_unit
++ Quilowatt | kW | Kilowatt | Kilovatio | r | https://pt.wikipedia.org/wiki/Watt
++ Megawatt | MW | Megawatt | Megavatio | e | https://pt.wikipedia.org/wiki/Watt
++ Siemens | | Siemens | Siemens | e | https://pt.wikipedia.org/wiki/Siemens_(unidade)
++ Gray | | Gray | Gray | e | https://pt.wikipedia.org/wiki/Gray_(unidade)
++ Elétron-volt | eV;Electronvolt | Electronvolt | Electronvoltio | e | https://pt.wikipedia.org/wiki/El%C3%A9tron-volt
++ Gauss | | Gauss | Gauss | e | https://pt.wikipedia.org/wiki/Gauss_(unidade)
++ PSI | Libra por polegada quadrada | Pound per square inch | PSI | e | https://pt.wikipedia.org/wiki/Libra-for%C3%A7a_por_polegada_quadrada
++ Quilograma-força | kgf | Kilogram-force | Kilogramo-fuerza | e | https://pt.wikipedia.org/wiki/Quilograma-for%C3%A7a
++ Rotação por minuto | RPM | Revolutions per minute | Revoluciones por minuto | e | https://pt.wikipedia.org/wiki/Rota%C3%A7%C3%B5es_por_minuto
++ Quilômetro por hora | km/h | Kilometres per hour | Kilómetro por hora | r | https://pt.wikipedia.org/wiki/Quil%C3%B4metro_por_hora
++ Metro por segundo | m/s | Metre per second | Metro por segundo | e | https://pt.wikipedia.org/wiki/Metro_por_segundo
++ Número de Mach | Mach | Mach number | Número Mach | e | https://pt.wikipedia.org/wiki/N%C3%BAmero_de_Mach
++ Dioptria | | Dioptre | Dioptría | e | https://pt.wikipedia.org/wiki/Dioptria
++ Esterradiano | | Steradian | Estereorradián | l | https://pt.wikipedia.org/wiki/Esterradiano
++ Dina | | Dyne | Dina | l | https://en.wikipedia.org/wiki/Dyne
++ Erg | | Erg | Ergio | l | https://pt.wikipedia.org/wiki/Erg
++ Curie | | Curie | Curio | l | https://en.wikipedia.org/wiki/Curie_(unit)
++ Röntgen | Roentgen | Roentgen | Roentgen | l | https://en.wikipedia.org/wiki/Roentgen_(unit)
++ Milissegundo | ms | Millisecond | Milisegundo | e | https://pt.wikipedia.org/wiki/Milissegundo
++ Nanossegundo | ns | Nanosecond | Nanosegundo | l | https://pt.wikipedia.org/wiki/Nanossegundo
++ Petabyte | PB | Petabyte | Petabyte | e | https://pt.wikipedia.org/wiki/Petabyte
++ Bimestre | | | | e | https://pt.wiktionary.org/wiki/bimestre
++ Trimestre | | Quarter | Trimestre | e | https://pt.wiktionary.org/wiki/trimestre
++ Semestre | | Semester | Semestre | e | https://pt.wiktionary.org/wiki/semestre
++ Quinzena | | Fortnight | Quincena | e | https://pt.wiktionary.org/wiki/quinzena
++ Lustro | | Lustrum | Lustro | l | https://pt.wiktionary.org/wiki/lustro
++ Are | | Are | Área | l | https://en.wikipedia.org/wiki/Hectare
++ Côvado | | Cubit | Codo | l | https://pt.wikipedia.org/wiki/C%C3%B4vado
++ Quintal | | Quintal | Quintal | l | https://en.wikipedia.org/wiki/Quintal
++ Grão | | Grain | Grano | l | https://en.wikipedia.org/wiki/Grain_(unit)
++ Quartilho | Pinta | Pint | Pinta | l | https://pt.wikipedia.org/wiki/Quartilho
++ Saca | | Sack | Saco | l | https://pt.wiktionary.org/wiki/saca
+~ Milímetro de mercúrio | Torr | https://pt.wikipedia.org/wiki/Mil%C3%ADmetro_de_merc%C3%BArio
+
+== cie-estudos-logia
++ Etologia | | Ethology | Etología | e | https://pt.wikipedia.org/wiki/Etologia
++ Etnologia | | Ethnology | Etnología | e | https://pt.wikipedia.org/wiki/Etnologia
++ Petrologia | | Petrology | Petrología | e | https://pt.wikipedia.org/wiki/Petrologia
++ Pedologia | | Pedology | Edafología | e | https://pt.wikipedia.org/wiki/Pedologia
++ Edafologia | | Edaphology | Edafología | l | https://pt.wikipedia.org/wiki/Edafologia
++ Geomorfologia | | Geomorphology | Geomorfología | e | https://pt.wikipedia.org/wiki/Geomorfologia
++ Hidrogeologia | | Hydrogeology | Hidrogeología | l | https://pt.wikipedia.org/wiki/Hidrogeologia
++ Limnologia | | Limnology | Limnología | l | https://pt.wikipedia.org/wiki/Limnologia
++ Metrologia | | Metrology | Metrología | e | https://pt.wikipedia.org/wiki/Metrologia
++ Cronologia | | Chronology | Cronología | e | https://pt.wikipedia.org/wiki/Cronologia
++ Genealogia | | Genealogy | Genealogía | e | https://pt.wikipedia.org/wiki/Genealogia
++ Gemologia | | Gemology | Gemología | e | https://pt.wikipedia.org/wiki/Gemologia
++ Metodologia | | Methodology | Metodología | e | https://pt.wikipedia.org/wiki/Metodologia
++ Psicopatologia | | Psychopathology | Psicopatología | e | https://pt.wikipedia.org/wiki/Psicopatologia
++ Fenomenologia | | Phenomenology | Fenomenología | e | https://pt.wikipedia.org/wiki/Fenomenologia
++ Teleologia | | Teleology | Teleología | l | https://pt.wikipedia.org/wiki/Teleologia
++ Gnosiologia | | Gnoseology | Gnoseología | l | https://pt.wikipedia.org/wiki/Gnosiologia
++ Sexologia | | Sexology | Sexología | e | https://pt.wikipedia.org/wiki/Sexologia
++ Andrologia | | Andrology | Andrología | e | https://pt.wikipedia.org/wiki/Andrologia
++ Alergologia | | Allergology | Alergología | e | https://pt.wikipedia.org/wiki/Alergologia
++ Nutrologia | | Nutrology | Nutrología | e | https://pt.wikipedia.org/wiki/Nutrologia
++ Coloproctologia | | Coloproctology | Coloproctología | e | https://pt.wikipedia.org/wiki/Coloproctologia
++ Cancerologia | | Cancerology | Cancerología | e | https://pt.wikipedia.org/wiki/Cancerologia
++ Flebologia | | Phlebology | Flebología | l | https://en.wikipedia.org/wiki/Phlebology
++ Estomatologia | | Stomatology | Estomatología | l | https://pt.wikipedia.org/wiki/Estomatologia
++ Tisiologia | | Phthisiology | Tisiología | l | https://pt.wikipedia.org/wiki/Tisiologia
++ Dialetologia | | Dialectology | Dialectología | l | https://pt.wikipedia.org/wiki/Dialetologia
++ Fraseologia | | Phraseology | Fraseología | l | https://pt.wikipedia.org/wiki/Fraseologia
++ Iconologia | | Iconology | Iconología | l | https://pt.wikipedia.org/wiki/Iconologia
++ Assiriologia | | Assyriology | Asiriología | l | https://pt.wikipedia.org/wiki/Assiriologia
++ Sinologia | | Sinology | Sinología | l | https://pt.wikipedia.org/wiki/Sinologia
++ Papirologia | | Papyrology | Papirología | l | https://pt.wikipedia.org/wiki/Papirologia
++ Politologia | | Political science | Politología | l | https://pt.wikipedia.org/wiki/Ci%C3%AAncia_pol%C3%ADtica
++ Vitimologia | | Victimology | Victimología | l | https://pt.wikipedia.org/wiki/Vitimologia
++ Protozoologia | | Protozoology | Protozoología | l | https://pt.wikipedia.org/wiki/Protozoologia
++ Helmintologia | | Helminthology | Helmintología | l | https://pt.wikipedia.org/wiki/Helmintologia
++ Malacologia | | Malacology | Malacología | l | https://pt.wikipedia.org/wiki/Malacologia
++ Mastozoologia | | Mammalogy | Mastozoología | l | https://pt.wikipedia.org/wiki/Mastozoologia
++ Aracnologia | | Arachnology | Aracnología | l | https://pt.wikipedia.org/wiki/Aracnologia
++ Cetologia | | Cetology | Cetología | l | https://pt.wikipedia.org/wiki/Cetologia
++ Oologia | | Oology | Oología | l | https://pt.wikipedia.org/wiki/Oologia
++ Carcinologia | | Carcinology | Carcinología | l | https://pt.wikipedia.org/wiki/Carcinologia
++ Briologia | | Bryology | Briología | l | https://pt.wikipedia.org/wiki/Briologia
++ Ficologia | | Phycology | Ficología | l | https://pt.wikipedia.org/wiki/Ficologia
++ Dendrologia | | Dendrology | Dendrología | l | https://pt.wikipedia.org/wiki/Dendrologia
++ Palinologia | | Palynology | Palinología | l | https://pt.wikipedia.org/wiki/Palinologia
++ Fitopatologia | | Plant pathology | Fitopatología | l | https://pt.wikipedia.org/wiki/Fitopatologia
++ Bromatologia | | Food science | Bromatología | l | https://pt.wikipedia.org/wiki/Bromatologia
++ Pomologia | | Pomology | Pomología | l | https://pt.wikipedia.org/wiki/Pomologia
++ Biotecnologia | | Biotechnology | Biotecnología | e | https://pt.wikipedia.org/wiki/Biotecnologia

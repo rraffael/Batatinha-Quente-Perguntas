@@ -3,15 +3,18 @@ import { criarBanco, type DadosBanco } from '../src/server/banco';
 import {
   avancarTempo,
   configurar,
+  conversar,
   criarSala,
+  definirSenha,
   entrar,
   iniciar,
-  jogarDeNovo,
+  marcarPronto,
   novaPartida,
   novosEfeitos,
   proximoAlarme,
   publico,
   responder,
+  resumoPublico,
   sair,
   type Ctx,
   type EstadoSala,
@@ -61,8 +64,13 @@ function entrarComo(id: string) {
   return entrar(s, ctx(), { jogadorId: id, segredoHash: `h-${id}`, apelido: id, personagem: 'saci' });
 }
 
+function todosProntos() {
+  for (const j of s.jogadores) marcarPronto(s, ctx(), j.id, true);
+}
+
 function comecar(...ids: string[]) {
   ids.forEach(entrarComo);
+  todosProntos();
   expect(iniciar(s, ctx(), ids[0])).toEqual({ ok: true });
   agora = s.proximaEm!;
   avancarTempo(s, ctx());
@@ -90,8 +98,55 @@ describe('sala e lobby', () => {
     expect(iniciar(s, ctx(), 'ana').ok).toBe(false);
     entrarComo('bia');
     expect(iniciar(s, ctx(), 'bia').ok).toBe(false); // não é host
+    expect(iniciar(s, ctx(), 'ana')).toMatchObject({ ok: false, codigo: 'nao_prontos' });
+    marcarPronto(s, ctx(), 'bia', true);
     expect(iniciar(s, ctx(), 'ana').ok).toBe(true);
     expect(s.fase).toBe('contagem');
+  });
+
+  it('a roda segue a ordem do lobby e quem começa é sorteado', () => {
+    ['ana', 'bia', 'caio'].forEach(entrarComo);
+    todosProntos();
+    const c = { ...ctx(), rng: () => 0.5 };
+    expect(iniciar(s, c, 'ana').ok).toBe(true);
+    expect(s.ordem).toEqual(['ana', 'bia', 'caio']);
+    expect(s.proximoIniciante).toBe('bia');
+  });
+
+  it('sala com senha barra quem não sabe a senha, mas não quem já está dentro', () => {
+    entrarComo('ana');
+    expect(definirSenha(s, ctx(), 'ana', 'hash-senha').ok).toBe(true);
+    expect(publico(s, ctx()).temSenha).toBe(true);
+    expect(JSON.stringify(publico(s, ctx()))).not.toContain('hash-senha');
+    const sem = entrar(s, ctx(), { jogadorId: 'bia', segredoHash: 'h-bia', apelido: 'bia', personagem: 'saci' });
+    expect(sem).toMatchObject({ ok: false, codigo: 'senha' });
+    const errada = { jogadorId: 'bia', segredoHash: 'h-bia', apelido: 'bia', personagem: 'saci', senhaHash: 'x' };
+    expect(entrar(s, ctx(), errada).ok).toBe(false);
+    expect(entrar(s, ctx(), { ...errada, senhaHash: 'hash-senha' }).ok).toBe(true);
+    expect(entrarComo('ana').ok).toBe(true); // reconexão
+  });
+
+  it('sala pública não tem senha e aparece no resumo da lista', () => {
+    entrarComo('ana');
+    definirSenha(s, ctx(), 'ana', 'hash-senha');
+    expect(resumoPublico(s)).toBeNull();
+    configurar(s, ctx(), 'ana', { publica: true });
+    expect(s.senhaHash).toBeNull();
+    expect(resumoPublico(s)).toMatchObject({ codigo: 'BCDF', anfitriao: 'ana', jogadores: 1, fase: 'lobby' });
+  });
+
+  it('chat guarda histórico, ignora mensagem vazia e segura flood', () => {
+    entrarComo('ana');
+    const c = ctx();
+    conversar(s, c, 'ana', '  oi   gente ');
+    conversar(s, c, 'ana', 'flood');
+    conversar(s, c, 'ana', '   ');
+    expect(c.efeitos.chat.map((m) => m.texto)).toEqual(['oi gente']);
+    agora += 1_000;
+    conversar(s, ctx(), 'ana', 'merda, errei');
+    expect(s.chat!.map((m) => m.texto)).toEqual(['oi gente', 'merda, errei']);
+    conversar(s, ctx(), 'intruso', 'oi');
+    expect(s.chat).toHaveLength(2);
   });
 
   it('reconexão exige o mesmo segredo', () => {
@@ -128,7 +183,7 @@ describe('turnos e pavio', () => {
     s.rodada!.perguntaId = 'frutas';
     responder(s, ctx(), quem, 'maca');
     expect(daVez()).not.toBe(quem);
-    // Placar usa a tabela 10/15/30/75/100; a barra de vida usa 0/10/35/100/150.
+    // Placar usa a tabela 10/15/30/75/100; a barra de vida usa 5/10/35/100/150.
     expect(s.jogadores.find((j) => j.id === quem)!.pontos).toBe(75);
     expect(s.jogadores.find((j) => j.id === quem)!.bonus).toBe(100);
     expect(s.evento).toMatchObject({ tipo: 'aceita', canonica: 'Maçã', raridade: 'epico' });
@@ -228,7 +283,7 @@ describe('turnos e pavio', () => {
     expect(s.fase).toBe('lobby');
   });
 
-  it('jogar de novo começa outra partida direto, sem sair da sala', () => {
+  it('no fim, qualquer jogador leva todo mundo de volta para a sala, e é preciso ficar pronto de novo', () => {
     comecar('ana', 'bia');
     for (const j of s.jogadores) j.vidas = 1;
     agora = s.prazo!;
@@ -236,9 +291,13 @@ describe('turnos e pavio', () => {
     agora = s.proximaEm!;
     avancarTempo(s, ctx());
     expect(s.fase).toBe('fim');
-    expect(jogarDeNovo(s, ctx(), s.hostId!).ok).toBe(true);
-    expect(s.fase).toBe('contagem');
-    expect(s.jogadores.every((j) => j.vivo && j.vidas === 3 && j.pontos === 0)).toBe(true);
+    const convidado = s.jogadores.find((j) => j.id !== s.hostId)!;
+    expect(novaPartida(s, ctx(), convidado.id).ok).toBe(true);
+    expect(s.fase).toBe('lobby');
+    expect(s.jogadores.every((j) => j.vivo && j.vidas === 3 && !j.pronto)).toBe(true);
+    expect(iniciar(s, ctx(), s.hostId!).ok).toBe(false);
+    todosProntos();
+    expect(iniciar(s, ctx(), s.hostId!).ok).toBe(true);
   });
 
   it('jogador que sai na sua vez passa a batata adiante', () => {
@@ -309,6 +368,7 @@ describe('aquecimento, tentativas e sessão', () => {
     avancarTempo(s, ctx());
     expect(s.fase).toBe('fim');
     novaPartida(s, ctx(), s.hostId!);
+    todosProntos();
     expect(iniciar(s, ctx(), s.hostId!).ok).toBe(true);
     agora = s.proximaEm!;
     avancarTempo(s, ctx());
@@ -340,7 +400,7 @@ describe('temas opcionais', () => {
         { id: 'p-fora', tema: 'fora', texto: 'y', dificuldade: 'facil', respostas: [] },
       ],
     });
-    const base = { dificeis: false, vidas: 3, ritmo: 'normal' as const, maxJogadores: 8 };
+    const base = { dificeis: false, vidas: 3, ritmo: 'normal' as const, maxJogadores: 8, publica: false };
     expect(b.elegiveis({ ...base, temas: [] })).toEqual(['p-br']);
     expect(b.elegiveis({ ...base, temas: ['br', 'fora'] }).sort()).toEqual(['p-br', 'p-fora']);
   });

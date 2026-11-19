@@ -1,4 +1,5 @@
-import { useState } from 'preact/hooks';
+import { useEffect, useState } from 'preact/hooks';
+import type { Fase, SalaListada } from '../../shared/protocolo';
 import { MAX_APELIDO } from '../../shared/regras';
 import { NOME_JOGO } from '../config';
 import { preferencias } from '../identidade';
@@ -71,12 +72,12 @@ export function Inicio() {
     return true;
   }
 
-  async function criar() {
+  async function criar(publica: boolean) {
     if (!validarPerfil()) return;
     setOcupado(true);
     setErro('');
     try {
-      const r = await fetch('/api/salas', { method: 'POST' });
+      const r = await fetch(`/api/salas?publica=${publica ? 1 : 0}`, { method: 'POST' });
       const dados = (await r.json()) as { codigo?: string; erro?: string };
       if (!r.ok || !dados.codigo) throw new Error(dados.erro);
       location.hash = `#/sala/${dados.codigo}`;
@@ -121,9 +122,14 @@ export function Inicio() {
           <FormularioPerfil apelido={apelido} personagem={personagem} aoMudar={mudarPerfil} />
         </div>
         <div class="card">
-          <button class="btn btn-primary largo" onClick={criar} disabled={ocupado}>
-            Criar sala
-          </button>
+          <div class="criar-sala">
+            <button class="btn btn-primary" onClick={() => criar(false)} disabled={ocupado}>
+              Criar sala privada
+            </button>
+            <button class="btn btn-secondary" onClick={() => criar(true)} disabled={ocupado}>
+              Criar sala pública
+            </button>
+          </div>
           <div class="or">ou entre com o código</div>
           <form class="join" onSubmit={entrarComCodigo}>
             <label class="sr" for="codigo">
@@ -150,10 +156,64 @@ export function Inicio() {
             </p>
           )}
         </div>
+        <SalasPublicas aoEntrar={(c) => validarPerfil() && (location.hash = `#/sala/${c}`)} />
         <p class="muted centro">
           <a href="#/sobre">Como jogar?</a>
         </p>
       </div>
     </section>
+  );
+}
+
+const ROTULO_FASE: Record<Fase, string> = {
+  lobby: 'Esperando',
+  contagem: 'Começando',
+  jogando: 'Em jogo',
+  intervalo: 'Em jogo',
+  fim: 'Acabando',
+};
+
+function SalasPublicas({ aoEntrar }: { aoEntrar: (codigo: string) => void }) {
+  const [salas, setSalas] = useState<SalaListada[] | null>(null);
+
+  useEffect(() => {
+    let ativo = true;
+    const buscar = () =>
+      fetch('/api/salas')
+        .then((r) => r.json() as Promise<SalaListada[]>)
+        .then((lista) => ativo && setSalas(lista))
+        .catch(() => {});
+    buscar();
+    const t = setInterval(buscar, 10_000);
+    return () => {
+      ativo = false;
+      clearInterval(t);
+    };
+  }, []);
+
+  return (
+    <div class="card salas-publicas" aria-labelledby="h-publicas">
+      <h2 id="h-publicas">Salas públicas</h2>
+      {salas === null ? (
+        <p class="muted">Procurando rodas abertas…</p>
+      ) : salas.length === 0 ? (
+        <p class="muted">Nenhuma sala pública agora. Crie uma e chame a galera!</p>
+      ) : (
+        <ul>
+          {salas.map((s) => (
+            <li key={s.codigo}>
+              <span class="code">{s.codigo}</span>
+              <span class="nome">Roda de {s.anfitriao || '…'}</span>
+              <span class="muted">
+                {s.jogadores}/{s.maxJogadores} · {ROTULO_FASE[s.fase]}
+              </span>
+              <button class="btn btn-secondary pequeno" onClick={() => aoEntrar(s.codigo)}>
+                {s.fase === 'lobby' ? 'Entrar' : 'Assistir'}
+              </button>
+            </li>
+          ))}
+        </ul>
+      )}
+    </div>
   );
 }

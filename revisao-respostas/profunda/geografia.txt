@@ -1,0 +1,91 @@
+== geo-paises-europa
+~ Turquia | Türkiye | https://pt.wikipedia.org/wiki/Turquia
+~ Irlanda | República da Irlanda | https://pt.wikipedia.org/wiki/Rep%C3%BAblica_da_Irlanda
+
+== geo-paises-asia
+~ Vietnã | Vietnam | https://pt.wikipedia.org/wiki/Vietname
+~ Turquia | Türkiye | https://pt.wikipedia.org/wiki/Turquia
+
+== geo-capitais-europa
+~ Astana | Nur-Sultan | https://pt.wikipedia.org/wiki/Astana
+~ Vilnius | Vilna | https://pt.wikipedia.org/wiki/Vilnius
+
+== geo-rios-brasil
++ Ivaí | Rio Ivaí | | | r | https://pt.wikipedia.org/wiki/Rio_Iva%C3%AD
++ Tibagi | Rio Tibagi | | | r | https://pt.wikipedia.org/wiki/Rio_Tibagi
++ Paranaíba | Rio Paranaíba | | | r | https://pt.wikipedia.org/wiki/Rio_Parana%C3%ADba
++ Rio das Mortes | | | | e | https://pt.wikipedia.org/wiki/Rio_das_Mortes
++ Aquidauana | Rio Aquidauana | | | e | https://pt.wikipedia.org/wiki/Rio_Aquidauana
++ Miranda | Rio Miranda | | | e | https://pt.wikipedia.org/wiki/Rio_Miranda
++ São Lourenço | Rio São Lourenço | | | e | https://pt.wikipedia.org/wiki/Rio_S%C3%A3o_Louren%C3%A7o
++ Paraíba | Rio Paraíba | | | e | https://pt.wikipedia.org/wiki/Rio_Para%C3%ADba
++ Potengi | Rio Potengi | | | e | https://pt.wikipedia.org/wiki/Rio_Potengi
++ Piranhas-Açu | Rio Piranhas-Açu | | | e | https://pt.wikipedia.org/wiki/Rio_Piranhas-A%C3%A7u
++ Ipojuca | Rio Ipojuca | | | e | https://pt.wikipedia.org/wiki/Rio_Ipojuca
++ São Mateus | Rio São Mateus | | | e | https://pt.wikipedia.org/wiki/Rio_S%C3%A3o_Mateus
++ Itapemirim | Rio Itapemirim | | | l | https://pt.wikipedia.org/wiki/Rio_Itapemirim
++ Pomba | Rio Pomba | | | l | https://pt.wikipedia.org/wiki/Rio_Pomba
++ Muriaé | Rio Muriaé | | | l | https://pt.wikipedia.org/wiki/Rio_Muria%C3%A9
++ Atibaia | Rio Atibaia | | | e | https://pt.wikipedia.org/wiki/Rio_Atibaia
++ Jundiaí | Rio Jundiaí | | | e | https://pt.wikipedia.org/wiki/Rio_Jundia%C3%AD
++ Tamanduateí | Rio Tamanduateí | | | e | https://pt.wikipedia.org/wiki/Rio_Tamanduate%C3%AD
++ Sorocaba | Rio Sorocaba | | | e | https://pt.wikipedia.org/wiki/Rio_Sorocaba
++ Rio dos Sinos | | | | e | https://pt.wikipedia.org/wiki/Rio_dos_Sinos
++ Gravataí | Rio Gravataí | | | e | https://pt.wikipedia.org/wiki/Rio_Gravata%C3%AD
++ Camaquã | Rio Camaquã | | | l | https://pt.wikipedia.org/wiki/Rio_Camaqu%C3%A3
++ Ibicuí | Rio Ibicuí | | | e | https://pt.wikipedia.org/wiki/Rio_Ibicu%C3%AD
++ Pelotas | Rio Pelotas | | | e | https://pt.wikipedia.org/wiki/Rio_Pelotas
++ Canoas | Rio Canoas | | | e | https://pt.wikipedia.org/wiki/Rio_Canoas_(Santa_Catarina)
++ Chapecó | Rio Chapecó | | | e | https://pt.wikipedia.org/wiki/Rio_Chapec%C3%B3
++ Tubarão | Rio Tubarão | | | e | https://pt.wikipedia.org/wiki/Rio_Tubar%C3%A3o
++ Piquiri | Rio Piquiri | | | e | https://pt.wikipedia.org/wiki/Rio_Piquiri
++ Apa | Rio Apa | | | l | https://pt.wikipedia.org/wiki/Rio_Apa
++ Uaupés | Rio Uaupés | | | e | https://pt.wikipedia.org/wiki/Rio_Uaup%C3%A9s
++ Tefé | Rio Tefé | | | e | https://pt.wikipedia.org/wiki/Rio_Tef%C3%A9
++ Nhamundá | Rio Nhamundá | | | e | https://pt.wikipedia.org/wiki/Rio_Nhamund%C3%A1
++ Jamari | Rio Jamari | | | e | https://pt.wikipedia.org/wiki/Rio_Jamari
++ Ji-Paraná | Rio Ji-Paraná | | | e | https://pt.wikipedia.org/wiki/Rio_Ji-Paran%C3%A1
++ Roosevelt | Rio Roosevelt | | | e | https://pt.wikipedia.org/wiki/Rio_Roosevelt
++ Acre | Rio Acre | | | e | https://pt.wikipedia.org/wiki/Rio_Acre
++ Tarauacá | Rio Tarauacá | | | e | https://pt.wikipedia.org/wiki/Rio_Tarauac%C3%A1
++ Abunã | Rio Abunã | | | e | https://pt.wikipedia.org/wiki/Rio_Abun%C3%A3
++ Guamá | Rio Guamá | | | e | https://pt.wikipedia.org/wiki/Rio_Guam%C3%A1
++ Capim | Rio Capim | | | e | https://pt.wikipedia.org/wiki/Rio_Capim
++ Moju | Rio Moju | | | e | https://pt.wikipedia.org/wiki/Rio_Moju
++ Acará | Rio Acará | | | e | https://pt.wikipedia.org/wiki/Rio_Acar%C3%A1
++ Pará | Rio Pará | | | e | https://pt.wikipedia.org/wiki/Rio_Par%C3%A1
++ Araguari | Rio Araguari | | | e | https://pt.wikipedia.org/wiki/Rio_Araguari_(Amap%C3%A1)
++ Uraricoera | Rio Uraricoera | | | e | https://pt.wikipedia.org/wiki/Rio_Uraricoera
++ Tacutu | Rio Tacutu | | | e | https://pt.wikipedia.org/wiki/Rio_Tacutu
++ Mucajaí | Rio Mucajaí | | | e | https://pt.wikipedia.org/wiki/Rio_Mucaja%C3%AD
++ Pindaré | Rio Pindaré | | | e | https://pt.wikipedia.org/wiki/Rio_Pindar%C3%A9
++ Grajaú | Rio Grajaú | | | e | https://pt.wikipedia.org/wiki/Rio_Graja%C3%BA_(Maranh%C3%A3o)
++ Munim | Rio Munim | | | e | https://pt.wikipedia.org/wiki/Rio_Munim
++ Gurgueia | Rio Gurgueia | | | e | https://pt.wikipedia.org/wiki/Rio_Gurgueia
++ Canindé | Rio Canindé | | | e | https://pt.wikipedia.org/wiki/Rio_Canind%C3%A9_(Piau%C3%AD)
++ Banabuiú | Rio Banabuiú | | | e | https://pt.wikipedia.org/wiki/Rio_Banabui%C3%BA
++ Apodi-Mossoró | Rio Apodi-Mossoró;Rio Apodi;Rio Mossoró;Apodi;Mossoró | | | e | https://pt.wikipedia.org/wiki/Rio_Apodi
++ Goiana | Rio Goiana | | | l | https://pt.wikipedia.org/wiki/Rio_Goiana
++ Mundaú | Rio Mundaú | | | e | https://pt.wikipedia.org/wiki/Rio_Munda%C3%BA_(Alagoas)
++ Sergipe | Rio Sergipe | | | e | https://pt.wikipedia.org/wiki/Rio_Sergipe
++ Real | Rio Real | | | e | https://pt.wikipedia.org/wiki/Rio_Real_(Brasil)
++ Itapicuru | Rio Itapicuru | | | e | https://pt.wikipedia.org/wiki/Rio_Itapicuru
++ Jacuípe | Rio Jacuípe | | | e | https://pt.wikipedia.org/wiki/Rio_Jacu%C3%ADpe_(Bahia)
++ Cachoeira | Rio Cachoeira | | | e | https://pt.wikipedia.org/wiki/Rio_Cachoeira_(Bahia)
++ Corrente | Rio Corrente | | | e | https://pt.wikipedia.org/wiki/Rio_Corrente_(Bahia)
++ Paracatu | Rio Paracatu | | | e | https://pt.wikipedia.org/wiki/Rio_Paracatu
++ Urucuia | Rio Urucuia | | | e | https://pt.wikipedia.org/wiki/Rio_Urucuia
++ Manhuaçu | Rio Manhuaçu | | | l | https://pt.wikipedia.org/wiki/Rio_Manhua%C3%A7u
++ Culuene | Rio Culuene | | | e | https://pt.wikipedia.org/wiki/Rio_Culuene
++ Corumbá | Rio Corumbá | | | e | https://pt.wikipedia.org/wiki/Rio_Corumb%C3%A1
++ Meia Ponte | Rio Meia Ponte | | | e | https://pt.wikipedia.org/wiki/Rio_Meia_Ponte
++ Rio do Sono | | | | e | https://pt.wikipedia.org/wiki/Rio_do_Sono
++ Guandu | Rio Guandu | | | e | https://pt.wikipedia.org/wiki/Rio_Guandu
++ Macaé | Rio Macaé | | | e | https://pt.wikipedia.org/wiki/Rio_Maca%C3%A9
++ Carioca | Rio Carioca | | | e | https://pt.wikipedia.org/wiki/Rio_Carioca
++ Caí | Rio Caí | | | e | https://pt.wikipedia.org/wiki/Rio_Ca%C3%AD
++ Quaraí | Rio Quaraí | | | e | https://pt.wikipedia.org/wiki/Rio_Quara%C3%AD
++ Jaguarão | Rio Jaguarão | | | e | https://pt.wikipedia.org/wiki/Rio_Jaguar%C3%A3o
++ Paraibuna | Rio Paraibuna | | | l | https://pt.wikipedia.org/wiki/Rio_Paraibuna
++ Juquiá | Rio Juquiá | | | l | https://pt.wikipedia.org/wiki/Rio_Juqui%C3%A1
++ Belém | Rio Belém | | | l | https://pt.wikipedia.org/wiki/Rio_Bel%C3%A9m

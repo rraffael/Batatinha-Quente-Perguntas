@@ -2,6 +2,7 @@ import { useEffect, useRef, useState } from 'preact/hooks';
 import type { JogadorPublico } from '../../shared/protocolo';
 import { MAX_RESPOSTA, PONTOS_POR_VIDA, type Raridade } from '../../shared/regras';
 import { Avatar, BotaoSair, Coracoes, Selo } from '../componentes';
+import { Chat } from './Chat';
 import type { PropsTela } from './Lobby';
 import type { Digitando, Recusa, Tentativa } from './Sala';
 
@@ -39,6 +40,7 @@ export function Partida({
   eu,
   enviar,
   sair,
+  chat,
   recusa,
   digitando,
   tentativa,
@@ -307,13 +309,14 @@ export function Partida({
               <li key={u.canonica}>
                 <Avatar personagem={porId.get(u.por)?.personagem ?? 'saci'} tamanho="sm" />
                 <span>{u.canonica}</span>
-                <Selo raridade={u.raridade} />
+                <Selo raridade={u.raridade} mini />
               </li>
             ))}
           </ol>
         ) : (
           <p class="muted">Nenhuma resposta ainda.</p>
         )}
+        <Chat mensagens={chat} eu={eu} enviar={enviar} />
         <BotaoSair aoSair={sair} rotulo="Sair da partida" />
       </aside>
     </section>

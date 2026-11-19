@@ -10,6 +10,7 @@ describe('banco de perguntas real', () => {
     vidas: 3,
     ritmo: 'normal',
     maxJogadores: 8,
+    publica: false,
   });
 
   it('tem perguntas com respostas suficientes', () => {

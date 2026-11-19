@@ -108,6 +108,8 @@ legend { font-weight: 800; font-size: var(--fs-sm); padding: 0; margin-bottom: v
   font-size: var(--fs-xs); font-weight: 900; letter-spacing: .03em; text-transform: uppercase;
 }
 .badge.grande { font-size: var(--fs-sm); }
+/* Selo discreto na lista "Nesta pergunta": informa sem competir com a resposta. */
+.badge.mini { padding: 0 6px; font-size: 0.6rem; font-weight: 800; letter-spacing: 0; opacity: .8; }
 .r-comum    { background: var(--r-comum);    color: var(--r-comum-on); }
 .r-incomum  { background: var(--r-incomum);  color: var(--r-incomum-on); }
 .r-raro     { background: var(--r-raro);     color: var(--r-raro-on); }
@@ -163,6 +165,9 @@ legend { font-weight: 800; font-size: var(--fs-sm); padding: 0; margin-bottom: v
 .players li.offline { opacity: .6; }
 .players .nome { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .players .host { margin-left: auto; font-size: var(--fs-xs); font-weight: 900; color: var(--c-primary); }
+.players .estado-pronto { margin-left: auto; font-size: var(--fs-xs); font-weight: 800; color: var(--c-text-muted); white-space: nowrap; }
+.players .estado-pronto.sim { color: var(--c-success); }
+.players + .btn { margin-top: var(--sp-3); }
 .players .empty { border: 2px dashed var(--c-border); background: transparent; color: var(--c-text-muted); justify-content: center; }
 .settings { display: grid; gap: var(--sp-4); }
 .settings h2 { font-size: var(--fs-xl); margin: 0; }
@@ -319,6 +324,47 @@ legend { font-weight: 800; font-size: var(--fs-sm); padding: 0; margin-bottom: v
 .ranking li { display: flex; align-items: center; gap: var(--sp-3); padding: var(--sp-2) var(--sp-3); background: var(--c-surface-2); border-radius: var(--radius-md); font-weight: 700; }
 .ranking .pos { font-family: var(--font-display); font-weight: 800; width: 2ch; }
 .ranking .stat { margin-left: auto; font-size: var(--fs-sm); color: var(--c-text-muted); text-align: right; }
+.ranking li.vencedor { background: var(--c-accent); color: var(--c-on-accent); }
+.ranking li.vencedor .stat, .ranking li.vencedor .muted { color: inherit; font-weight: 800; }
+.destaque-vencedor {
+  display: flex; align-items: center; justify-content: center; gap: var(--sp-4); flex-wrap: wrap;
+  max-width: 480px; margin: var(--sp-4) auto 0; padding: var(--sp-3) var(--sp-4);
+  border: 3px solid var(--c-accent); border-radius: var(--radius-md); background: var(--c-surface-2);
+}
+.destaque-vencedor .numeros { display: flex; gap: var(--sp-4); flex-wrap: wrap; justify-content: center; }
+.destaque-vencedor .numeros div { display: grid; text-align: center; }
+.destaque-vencedor strong { font-family: var(--font-display); font-weight: 800; font-size: var(--fs-2xl); color: var(--c-primary); line-height: 1.1; }
+.destaque-vencedor span { font-size: var(--fs-xs); font-weight: 800; text-transform: uppercase; color: var(--c-text-muted); }
+.fim-chat { max-width: 480px; margin: var(--sp-5) auto 0; text-align: left; }
+
+/* ---------- Chat ---------- */
+.chat { display: grid; gap: var(--sp-2); margin-top: var(--sp-4); }
+.history .chat { margin-top: 0; }
+.chat h2 { font-size: var(--fs-lg); margin: 0; }
+.chat ol {
+  list-style: none; margin: 0; padding: var(--sp-2); display: grid; gap: var(--sp-1); align-content: start;
+  height: 180px; overflow: auto; background: var(--c-surface-2); border-radius: var(--radius-md);
+}
+.chat li { display: flex; gap: var(--sp-2); align-items: flex-start; font-size: var(--fs-sm); overflow-wrap: anywhere; }
+.chat li .avatar { width: 22px; height: 22px; flex: none; }
+.chat li.minha strong { color: var(--c-primary); }
+.chat li.vazio { justify-content: center; }
+.chat form { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: var(--sp-2); }
+.chat .input { font-size: var(--fs-md); min-height: 40px; padding-top: 0; padding-bottom: 0; }
+
+/* ---------- Início: salas ---------- */
+.criar-sala { display: grid; grid-template-columns: 1fr 1fr; gap: var(--sp-2); }
+.salas-publicas { grid-column: 1 / -1; }
+.salas-publicas h2 { font-size: var(--fs-lg); margin: 0 0 var(--sp-3); }
+.salas-publicas p { margin: 0; }
+.salas-publicas ul { list-style: none; margin: 0; padding: 0; display: grid; gap: var(--sp-2); }
+.salas-publicas li {
+  display: flex; align-items: center; gap: var(--sp-3); flex-wrap: wrap;
+  padding: var(--sp-2) var(--sp-3); background: var(--c-surface-2); border-radius: var(--radius-md);
+}
+.salas-publicas .code { font-family: var(--font-display); font-weight: 800; letter-spacing: .15em; }
+.salas-publicas .nome { font-weight: 700; flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.settings .join { margin-top: var(--sp-2); grid-template-columns: minmax(0, 1fr) auto auto; }
 .center-actions { display: flex; justify-content: center; align-items: center; gap: var(--sp-3); flex-wrap: wrap; margin-top: var(--sp-5); }
 
 /* ---------- Páginas de texto ---------- */
@@ -353,4 +399,6 @@ legend { font-weight: 800; font-size: var(--fs-sm); padding: 0; margin-bottom: v
   .answer-input { min-height: 54px; }
   .answer-bar .btn { padding: 0 var(--sp-4); }
   .room-code .code { font-size: var(--fs-xl); }
+  .criar-sala { grid-template-columns: 1fr; }
+  .chat ol { height: 140px; }
 }

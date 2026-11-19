@@ -1,0 +1,476 @@
+== mint-bandas-rock
++ Rammstein | | | | i | https://pt.wikipedia.org/wiki/Rammstein
++ The Smiths | Smiths | | | r | https://pt.wikipedia.org/wiki/The_Smiths
++ Blur | | | | r | https://pt.wikipedia.org/wiki/Blur_(banda)
++ Korn | | | | r | https://pt.wikipedia.org/wiki/Korn
++ Limp Bizkit | | | | r | https://pt.wikipedia.org/wiki/Limp_Bizkit
++ Fall Out Boy | | | | r | https://pt.wikipedia.org/wiki/Fall_Out_Boy
++ Sum 41 | | | | r | https://pt.wikipedia.org/wiki/Sum_41
++ Good Charlotte | | | | r | https://pt.wikipedia.org/wiki/Good_Charlotte
++ Weezer | | | | r | https://pt.wikipedia.org/wiki/Weezer
++ The Beach Boys | Beach Boys | | | r | https://pt.wikipedia.org/wiki/The_Beach_Boys
++ Europe | | | | r | https://en.wikipedia.org/wiki/Europe_(band)
++ Supertramp | | | | r | https://pt.wikipedia.org/wiki/Supertramp
++ Twenty One Pilots | | | | r | https://pt.wikipedia.org/wiki/Twenty_One_Pilots
++ Panic! at the Disco | | | | r | https://pt.wikipedia.org/wiki/Panic!_at_the_Disco
++ No Doubt | | | | r | https://pt.wikipedia.org/wiki/No_Doubt
++ The Kinks | Kinks | | | e | https://pt.wikipedia.org/wiki/The_Kinks
++ Slayer | | | | e | https://pt.wikipedia.org/wiki/Slayer
++ Mötley Crüe | | | | e | https://pt.wikipedia.org/wiki/M%C3%B6tley_Cr%C3%BCe
++ Whitesnake | | | | e | https://pt.wikipedia.org/wiki/Whitesnake
++ Twisted Sister | | | | e | https://pt.wikipedia.org/wiki/Twisted_Sister
++ Skid Row | | | | e | https://pt.wikipedia.org/wiki/Skid_Row_(banda)
++ Poison | | | | e | https://pt.wikipedia.org/wiki/Poison_(banda)
++ Foreigner | | | | e | https://pt.wikipedia.org/wiki/Foreigner_(banda)
++ Thin Lizzy | | | | e | https://pt.wikipedia.org/wiki/Thin_Lizzy
++ Dio | | | | e | https://pt.wikipedia.org/wiki/Dio_(banda)
++ Tool | | | | e | https://pt.wikipedia.org/wiki/Tool_(banda)
++ Deftones | | | | e | https://pt.wikipedia.org/wiki/Deftones
++ Papa Roach | | | | e | https://pt.wikipedia.org/wiki/Papa_Roach
++ Three Days Grace | | | | e | https://pt.wikipedia.org/wiki/Three_Days_Grace
++ Hoobastank | | | | e | https://pt.wikipedia.org/wiki/Hoobastank
++ 3 Doors Down | | | | e | https://pt.wikipedia.org/wiki/3_Doors_Down
++ Goo Goo Dolls | | | | e | https://pt.wikipedia.org/wiki/Goo_Goo_Dolls
++ Tame Impala | | | | e | https://pt.wikipedia.org/wiki/Tame_Impala
++ The 1975 | | | | e | https://pt.wikipedia.org/wiki/The_1975
++ Arcade Fire | | | | e | https://pt.wikipedia.org/wiki/Arcade_Fire
++ Keane | | | | e | https://en.wikipedia.org/wiki/Keane_(band)
++ Snow Patrol | | | | e | https://pt.wikipedia.org/wiki/Snow_Patrol
++ The Verve | | | | e | https://pt.wikipedia.org/wiki/The_Verve
++ Joy Division | | | | e | https://pt.wikipedia.org/wiki/Joy_Division
++ The Animals | | | | e | https://pt.wikipedia.org/wiki/The_Animals
++ Grateful Dead | | | | e | https://pt.wikipedia.org/wiki/Grateful_Dead
++ Garbage | | | | e | https://pt.wikipedia.org/wiki/Garbage_(banda)
++ Faith No More | | | | e | https://pt.wikipedia.org/wiki/Faith_No_More
++ Disturbed | | | | e | https://en.wikipedia.org/wiki/Disturbed_(band)
++ Bring Me the Horizon | | | | e | https://pt.wikipedia.org/wiki/Bring_Me_the_Horizon
++ Ghost | | | | e | https://en.wikipedia.org/wiki/Ghost_(Swedish_band)
++ Nightwish | | | | e | https://pt.wikipedia.org/wiki/Nightwish
++ Helloween | | | | e | https://pt.wikipedia.org/wiki/Helloween
++ Dream Theater | | | | e | https://pt.wikipedia.org/wiki/Dream_Theater
++ Gorillaz | | | | e | https://pt.wikipedia.org/wiki/Gorillaz
++ Santana | | | | e | https://pt.wikipedia.org/wiki/Santana_(banda)
++ Greta Van Fleet | | | | e | https://pt.wikipedia.org/wiki/Greta_Van_Fleet
++ Electric Light Orchestra | ELO | | | e | https://pt.wikipedia.org/wiki/Electric_Light_Orchestra
++ Survivor | | | | e | https://pt.wikipedia.org/wiki/Survivor_(banda)
++ Mr. Big | | | | e | https://pt.wikipedia.org/wiki/Mr._Big_(banda)
++ Joan Jett & the Blackhearts | Joan Jett | | | e | https://pt.wikipedia.org/wiki/Joan_Jett_%26_the_Blackhearts
++ The Byrds | | | | l | https://pt.wikipedia.org/wiki/The_Byrds
++ Jefferson Airplane | | | | l | https://pt.wikipedia.org/wiki/Jefferson_Airplane
++ The Stooges | | | | l | https://pt.wikipedia.org/wiki/The_Stooges
++ Dead Kennedys | | | | l | https://pt.wikipedia.org/wiki/Dead_Kennedys
++ Bad Religion | | | | l | https://pt.wikipedia.org/wiki/Bad_Religion
++ NOFX | | | | l | https://pt.wikipedia.org/wiki/NOFX
++ Misfits | | | | l | https://pt.wikipedia.org/wiki/Misfits_(banda)
++ Rancid | | | | l | https://pt.wikipedia.org/wiki/Rancid
++ Stone Temple Pilots | | | | l | https://pt.wikipedia.org/wiki/Stone_Temple_Pilots
++ Sonic Youth | | | | l | https://pt.wikipedia.org/wiki/Sonic_Youth
++ Jane's Addiction | | | | l | https://pt.wikipedia.org/wiki/Jane's_Addiction
++ Incubus | | | | l | https://pt.wikipedia.org/wiki/Incubus_(banda)
++ Pulp | | | | l | https://pt.wikipedia.org/wiki/Pulp_(banda)
++ Travis | | | | l | https://pt.wikipedia.org/wiki/Travis_(banda)
++ Kaiser Chiefs | | | | l | https://pt.wikipedia.org/wiki/Kaiser_Chiefs
++ The Pretenders | Pretenders | | | l | https://pt.wikipedia.org/wiki/The_Pretenders
++ Heart | | | | l | https://pt.wikipedia.org/wiki/Heart_(banda)
++ T. Rex | | | | l | https://pt.wikipedia.org/wiki/T._Rex_(banda)
++ Status Quo | | | | l | https://pt.wikipedia.org/wiki/Status_Quo_(banda)
++ Uriah Heep | | | | l | https://pt.wikipedia.org/wiki/Uriah_Heep
++ Steppenwolf | | | | l | https://pt.wikipedia.org/wiki/Steppenwolf_(banda)
++ Chicago | | | | l | https://pt.wikipedia.org/wiki/Chicago_(banda)
++ King Crimson | | | | l | https://pt.wikipedia.org/wiki/King_Crimson
++ Emerson, Lake & Palmer | ELP | | | l | https://pt.wikipedia.org/wiki/Emerson,_Lake_%26_Palmer
++ The Allman Brothers Band | Allman Brothers | | | l | https://pt.wikipedia.org/wiki/The_Allman_Brothers_Band
++ Anthrax | | | | l | https://pt.wikipedia.org/wiki/Anthrax_(banda)
++ Testament | | | | l | https://en.wikipedia.org/wiki/Testament_(band)
++ Sabaton | | | | l | https://pt.wikipedia.org/wiki/Sabaton
++ Manowar | | | | l | https://pt.wikipedia.org/wiki/Manowar
++ Lamb of God | | | | l | https://pt.wikipedia.org/wiki/Lamb_of_God_(banda)
++ Bullet for My Valentine | | | | l | https://pt.wikipedia.org/wiki/Bullet_for_My_Valentine
++ The Darkness | | | | l | https://pt.wikipedia.org/wiki/The_Darkness_(banda)
++ Wolfmother | | | | l | https://pt.wikipedia.org/wiki/Wolfmother
++ Kasabian | | | | l | https://pt.wikipedia.org/wiki/Kasabian
++ The Hives | | | | l | https://pt.wikipedia.org/wiki/The_Hives
++ Interpol | | | | l | https://pt.wikipedia.org/wiki/Interpol_(banda)
+
+== mint-cantores-pop
++ Stevie Wonder | | | | i | https://pt.wikipedia.org/wiki/Stevie_Wonder
++ Usher | | | | i | https://en.wikipedia.org/wiki/Usher_(musician)
++ Chris Brown | | | | i | https://pt.wikipedia.org/wiki/Chris_Brown
++ Alicia Keys | | | | i | https://pt.wikipedia.org/wiki/Alicia_Keys
++ Tina Turner | | | | i | https://pt.wikipedia.org/wiki/Tina_Turner
++ Amy Winehouse | | | | i | https://pt.wikipedia.org/wiki/Amy_Winehouse
++ David Bowie | Bowie | | | r | https://pt.wikipedia.org/wiki/David_Bowie
++ Diana Ross | | | | r | https://pt.wikipedia.org/wiki/Diana_Ross
++ Donna Summer | | | | r | https://pt.wikipedia.org/wiki/Donna_Summer
++ Gloria Estefan | | | | r | https://pt.wikipedia.org/wiki/Gloria_Estefan
++ Marc Anthony | | | | r | https://pt.wikipedia.org/wiki/Marc_Anthony
++ Luis Fonsi | | | | r | https://pt.wikipedia.org/wiki/Luis_Fonsi
++ Luis Miguel | | | | r | https://pt.wikipedia.org/wiki/Luis_Miguel
++ Laura Pausini | | | | r | https://pt.wikipedia.org/wiki/Laura_Pausini
++ Thalía | | | | r | https://pt.wikipedia.org/wiki/Thal%C3%ADa
++ Michael Bublé | | | | r | https://pt.wikipedia.org/wiki/Michael_Bubl%C3%A9
++ Sting | | | | r | https://pt.wikipedia.org/wiki/Sting_(m%C3%BAsico)
++ Bryan Adams | | | | r | https://pt.wikipedia.org/wiki/Bryan_Adams
++ Rod Stewart | | | | r | https://pt.wikipedia.org/wiki/Rod_Stewart
++ Billy Joel | | | | r | https://pt.wikipedia.org/wiki/Billy_Joel
++ Bonnie Tyler | | | | r | https://pt.wikipedia.org/wiki/Bonnie_Tyler
++ Olivia Newton-John | | | | r | https://pt.wikipedia.org/wiki/Olivia_Newton-John
++ Kelly Clarkson | | | | r | https://pt.wikipedia.org/wiki/Kelly_Clarkson
++ James Blunt | | | | r | https://pt.wikipedia.org/wiki/James_Blunt
++ John Legend | | | | r | https://pt.wikipedia.org/wiki/John_Legend
++ Pharrell Williams | Pharrell | | | r | https://pt.wikipedia.org/wiki/Pharrell_Williams
++ Jason Derulo | | | | r | https://pt.wikipedia.org/wiki/Jason_Derulo
++ Ne-Yo | | | | r | https://pt.wikipedia.org/wiki/Ne-Yo
++ Zayn Malik | Zayn | | | r | https://pt.wikipedia.org/wiki/Zayn_Malik
++ Nick Jonas | | | | r | https://pt.wikipedia.org/wiki/Nick_Jonas
++ Gloria Gaynor | | | | r | https://pt.wikipedia.org/wiki/Gloria_Gaynor
++ Karol G | | | | r | https://pt.wikipedia.org/wiki/Karol_G
++ Anahí | | | | e | https://pt.wikipedia.org/wiki/Anah%C3%AD
++ Dulce María | | | | e | https://pt.wikipedia.org/wiki/Dulce_Mar%C3%ADa
++ Paulina Rubio | | | | e | https://pt.wikipedia.org/wiki/Paulina_Rubio
++ Alejandro Sanz | | | | e | https://pt.wikipedia.org/wiki/Alejandro_Sanz
++ Eros Ramazzotti | | | | e | https://pt.wikipedia.org/wiki/Eros_Ramazzotti
++ Björk | | | | e | https://pt.wikipedia.org/wiki/Bj%C3%B6rk
++ Annie Lennox | | | | e | https://pt.wikipedia.org/wiki/Annie_Lennox
++ Seal | | | | e | https://pt.wikipedia.org/wiki/Seal_(cantor)
++ Boy George | | | | e | https://pt.wikipedia.org/wiki/Boy_George
++ Michael Bolton | | | | e | https://pt.wikipedia.org/wiki/Michael_Bolton
++ Toni Braxton | | | | e | https://pt.wikipedia.org/wiki/Toni_Braxton
++ Leona Lewis | | | | e | https://pt.wikipedia.org/wiki/Leona_Lewis
++ Jessica Simpson | | | | e | https://pt.wikipedia.org/wiki/Jessica_Simpson
++ Mandy Moore | | | | e | https://pt.wikipedia.org/wiki/Mandy_Moore
++ Lily Allen | | | | e | https://pt.wikipedia.org/wiki/Lily_Allen
++ Natasha Bedingfield | | | | e | https://pt.wikipedia.org/wiki/Natasha_Bedingfield
++ James Arthur | | | | e | https://pt.wikipedia.org/wiki/James_Arthur
++ Ava Max | | | | e | https://pt.wikipedia.org/wiki/Ava_Max
++ Bebe Rexha | | | | e | https://pt.wikipedia.org/wiki/Bebe_Rexha
++ Rita Ora | | | | e | https://pt.wikipedia.org/wiki/Rita_Ora
++ Becky G | | | | e | https://pt.wikipedia.org/wiki/Becky_G
++ Niall Horan | | | | e | https://pt.wikipedia.org/wiki/Niall_Horan
++ Louis Tomlinson | | | | e | https://pt.wikipedia.org/wiki/Louis_Tomlinson
++ Liam Payne | | | | e | https://pt.wikipedia.org/wiki/Liam_Payne
++ Mika | | | | e | https://pt.wikipedia.org/wiki/Mika_(cantor)
++ Jason Mraz | | | | e | https://pt.wikipedia.org/wiki/Jason_Mraz
++ Hozier | | | | e | https://en.wikipedia.org/wiki/Hozier_(musician)
++ Teddy Swims | | | | e | https://pt.wikipedia.org/wiki/Teddy_Swims
++ Ciara | | | | e | https://pt.wikipedia.org/wiki/Ciara
++ Nicole Scherzinger | | | | e | https://pt.wikipedia.org/wiki/Nicole_Scherzinger
++ Kelly Rowland | | | | e | https://pt.wikipedia.org/wiki/Kelly_Rowland
++ Aaliyah | | | | e | https://pt.wikipedia.org/wiki/Aaliyah
++ Khalid | | | | e | https://en.wikipedia.org/wiki/Khalid_(singer)
++ Gracie Abrams | | | | e | https://pt.wikipedia.org/wiki/Gracie_Abrams
++ Shania Twain | | | | e | https://pt.wikipedia.org/wiki/Shania_Twain
++ Robin Thicke | | | | e | https://pt.wikipedia.org/wiki/Robin_Thicke
++ Richard Marx | | | | l | https://pt.wikipedia.org/wiki/Richard_Marx
++ Belinda Carlisle | | | | l | https://pt.wikipedia.org/wiki/Belinda_Carlisle
++ Tiziano Ferro | | | | l | https://pt.wikipedia.org/wiki/Tiziano_Ferro
++ Duffy | | | | l | https://en.wikipedia.org/wiki/Duffy_(singer)
++ Madison Beer | | | | l | https://pt.wikipedia.org/wiki/Madison_Beer
++ Conan Gray | | | | l | https://pt.wikipedia.org/wiki/Conan_Gray
++ Lauv | | | | l | https://pt.wikipedia.org/wiki/Lauv
+
+== mint-musicas-beatles
++ I Will | | | | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Glass Onion | | | | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Mother Nature's Son | | | | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Sexy Sadie | | | | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Martha My Dear | | | | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Revolution 9 | | | | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ I'm So Tired | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Piggies | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Savoy Truffle | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Cry Baby Cry | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Honey Pie | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Yer Blues | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Why Don't We Do It in the Road? | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ The Continuing Story of Bungalow Bill | Bungalow Bill | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Good Night | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Don't Pass Me By | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Long, Long, Long | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ You Won't See Me | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ I'm Looking Through You | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ If I Needed Someone | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Run for Your Life | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ What Goes On | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Wait | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ I'm Only Sleeping | | | | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ For No One | | | | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ She Said She Said | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ And Your Bird Can Sing | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Doctor Robert | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ I Want to Tell You | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Love You To | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ I've Just Seen a Face | | | | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ The Night Before | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Another Girl | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ You're Going to Lose That Girl | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ I Need You | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Act Naturally | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ It's Only Love | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Dizzy Miss Lizzy | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Things We Said Today | | | | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ I'll Be Back | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Tell Me Why | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Any Time at All | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ I'll Cry Instead | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ You Can't Do That | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ I'm Happy Just to Dance with You | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Baby's in Black | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ I'll Follow the Sun | | | | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Mr. Moonlight | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Kansas City | Kansas City/Hey-Hey-Hey-Hey! | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Words of Love | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Honey Don't | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Every Little Thing | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ P.S. I Love You | PS I Love You | | | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Do You Want to Know a Secret | | | | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Misery | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Anna (Go to Him) | Anna | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Chains | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Boys | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Ask Me Why | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Baby It's You | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ A Taste of Honey | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ There's a Place | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ It Won't Be Long | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ All I've Got to Do | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Don't Bother Me | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Little Child | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Till There Was You | | | | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Please Mr. Postman | Please Mister Postman | | | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Hold Me Tight | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ You Really Got a Hold on Me | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ I Wanna Be Your Man | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Devil in Her Heart | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Not a Second Time | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Sun King | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Mean Mr. Mustard | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Polythene Pam | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ She Came In Through the Bathroom Window | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ You Never Give Me Your Money | | | | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Her Majesty | | | | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ I've Got a Feeling | | | | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ One After 909 | | | | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Dig It | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ I Me Mine | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ For You Blue | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Maggie Mae | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Blue Jay Way | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Your Mother Should Know | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Flying | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Only a Northern Song | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ All Together Now | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ It's All Too Much | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Good Morning Good Morning | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ I'm Down | | | | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Yes It Is | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ This Boy | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ She's a Woman | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Thank You Girl | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ I'll Get You | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Old Brown Shoe | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ The Inner Light | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ You Know My Name (Look Up the Number) | You Know My Name | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Long Tall Sally | | | | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Matchbox | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Slow Down | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ I Call Your Name | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Bad Boy | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Everybody's Trying to Be My Baby | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ I Don't Want to Spoil the Party | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ What You're Doing | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ When I Get Home | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Wild Honey Pie | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Everybody's Got Something to Hide Except Me and My Monkey | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ Tell Me What You See | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
++ You Like Me Too Much | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles
+
+== mint-musicas-queen
++ I Was Born to Love You | | | | r | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ Scandal | | | | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ The Invisible Man | | | | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ One Year of Love | | | | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ Gimme the Prize | | | | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ Is This the World We Created...? | | | | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ Teo Torriatte (Let Us Cling Together) | Teo Torriatte | | | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ Death on Two Legs | | | | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ Lazing on a Sunday Afternoon | | | | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ I'm in Love with My Car | | | | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ Get Down, Make Love | | | | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ Back Chat | | | | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ No-One but You (Only the Good Die Young) | No-One but You | | | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ Seaside Rendezvous | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ Good Company | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ Sweet Lady | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ God Save the Queen | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ Flick of the Wrist | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ Lily of the Valley | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ In the Lap of the Gods | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ Bring Back That Leroy Brown | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ Father to Son | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ White Queen (As It Began) | White Queen | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ The Fairy Feller's Master-Stroke | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ Nevermore | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ The March of the Black Queen | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ Great King Rat | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ My Fairy King | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ Long Away | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ The Millionaire Waltz | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ All Dead, All Dead | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ It's Late | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ Jealousy | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ Let Me Entertain You | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ Dead on Time | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ Sail Away Sweet Sister | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ Need Your Loving Tonight | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ Staying Power | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ Calling All Girls | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ Tear It Up | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ Machines (or 'Back to Humans') | Machines | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ Pain Is So Close to Pleasure | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ Don't Lose Your Head | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ Rain Must Fall | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ Was It All Worth It | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ Party | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ Ride the Wild Wind | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ All God's People | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ Delilah | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ The Hitman | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ Bijou | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ It's a Beautiful Day | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ My Life Has Been Saved | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ A Winter's Tale | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ The Hero | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
++ Face It Alone | | | | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen
+
+== mint-rappers
++ Diddy | Puff Daddy;P. Diddy;Sean Combs | | | r | https://pt.wikipedia.org/wiki/Diddy
++ DMX | | | | r | https://pt.wikipedia.org/wiki/DMX_(rapper)
++ Rick Ross | | | | r | https://pt.wikipedia.org/wiki/Rick_Ross
++ Migos | | | | r | https://pt.wikipedia.org/wiki/Migos
++ Soulja Boy | | | | r | https://pt.wikipedia.org/wiki/Soulja_Boy
++ Tekashi 6ix9ine | 6ix9ine | | | r | https://en.wikipedia.org/wiki/6ix9ine
++ Grandmaster Flash | | | | r | https://pt.wikipedia.org/wiki/Grandmaster_Flash
++ Meek Mill | | | | e | https://pt.wikipedia.org/wiki/Meek_Mill
++ Big Sean | | | | e | https://pt.wikipedia.org/wiki/Big_Sean
++ Common | | | | e | https://pt.wikipedia.org/wiki/Common_(rapper)
++ Fat Joe | | | | e | https://pt.wikipedia.org/wiki/Fat_Joe
++ Ja Rule | | | | e | https://pt.wikipedia.org/wiki/Ja_Rule
++ Ol' Dirty Bastard | | | | e | https://pt.wikipedia.org/wiki/Ol'_Dirty_Bastard
++ Xzibit | | | | e | https://pt.wikipedia.org/wiki/Xzibit
++ Warren G | | | | e | https://pt.wikipedia.org/wiki/Warren_G
++ Nate Dogg | | | | e | https://pt.wikipedia.org/wiki/Nate_Dogg
++ The Game | | | | e | https://pt.wikipedia.org/wiki/The_Game_(rapper)
++ Bone Thugs-N-Harmony | | | | e | https://pt.wikipedia.org/wiki/Bone_Thugs-N-Harmony
++ Gucci Mane | | | | e | https://pt.wikipedia.org/wiki/Gucci_Mane
++ Eve | | | | e | https://pt.wikipedia.org/wiki/Eve_(rapper)
++ Stormzy | | | | e | https://pt.wikipedia.org/wiki/Stormzy
++ Central Cee | | | | e | https://pt.wikipedia.org/wiki/Central_Cee
++ MC Solaar | | | | e | https://pt.wikipedia.org/wiki/MC_Solaar
++ Gims | Maître Gims | | | e | https://en.wikipedia.org/wiki/Gims
++ Residente | | | | e | https://en.wikipedia.org/wiki/Residente
++ Calle 13 | | | | e | https://en.wikipedia.org/wiki/Calle_13_(band)
++ G-Eazy | | | | e | https://pt.wikipedia.org/wiki/G-Eazy
++ Lil Pump | | | | e | https://pt.wikipedia.org/wiki/Lil_Pump
++ Jack Harlow | | | | e | https://pt.wikipedia.org/wiki/Jack_Harlow
++ Quavo | | | | e | https://pt.wikipedia.org/wiki/Quavo
++ Offset | | | | e | https://pt.wikipedia.org/wiki/Offset_(rapper)
++ Kodak Black | | | | e | https://pt.wikipedia.org/wiki/Kodak_Black
++ NF | | | | e | https://pt.wikipedia.org/wiki/NF_(rapper)
++ Bow Wow | | | | e | https://en.wikipedia.org/wiki/Bow_Wow_(rapper)
++ Lil Yachty | | | | e | https://pt.wikipedia.org/wiki/Lil_Yachty
++ Young Thug | | | | e | https://pt.wikipedia.org/wiki/Young_Thug
++ DaBaby | | | | e | https://pt.wikipedia.org/wiki/DaBaby
++ A Tribe Called Quest | | | | e | https://pt.wikipedia.org/wiki/A_Tribe_Called_Quest
++ The Roots | | | | e | https://pt.wikipedia.org/wiki/The_Roots
++ Kris Kross | | | | e | https://pt.wikipedia.org/wiki/Kris_Kross
++ Sugarhill Gang | The Sugarhill Gang | | | e | https://pt.wikipedia.org/wiki/Sugarhill_Gang
++ Doechii | | | | e | https://pt.wikipedia.org/wiki/Doechii
++ Rae Sremmurd | | | | e | https://pt.wikipedia.org/wiki/Rae_Sremmurd
++ Afrika Bambaataa | | | | l | https://pt.wikipedia.org/wiki/Afrika_Bambaataa
++ Rakim | Eric B. & Rakim | | | l | https://pt.wikipedia.org/wiki/Rakim
++ KRS-One | | | | l | https://pt.wikipedia.org/wiki/KRS-One
++ Slick Rick | | | | l | https://pt.wikipedia.org/wiki/Slick_Rick
++ Big Pun | Big Punisher | | | l | https://pt.wikipedia.org/wiki/Big_Pun
++ Big L | | | | l | https://pt.wikipedia.org/wiki/Big_L
++ Mos Def | Yasiin Bey | | | l | https://pt.wikipedia.org/wiki/Mos_Def
++ Ghostface Killah | | | | l | https://pt.wikipedia.org/wiki/Ghostface_Killah
++ Raekwon | | | | l | https://pt.wikipedia.org/wiki/Raekwon
++ Pusha T | | | | l | https://pt.wikipedia.org/wiki/Pusha_T
++ Three 6 Mafia | | | | l | https://pt.wikipedia.org/wiki/Three_6_Mafia
++ Master P | | | | l | https://pt.wikipedia.org/wiki/Master_P
++ Juvenile | | | | l | https://pt.wikipedia.org/wiki/Juvenile_(rapper)
++ De La Soul | | | | l | https://pt.wikipedia.org/wiki/De_La_Soul
++ Gang Starr | | | | l | https://pt.wikipedia.org/wiki/Gang_Starr
++ Naughty by Nature | | | | l | https://pt.wikipedia.org/wiki/Naughty_by_Nature
++ Geto Boys | | | | l | https://pt.wikipedia.org/wiki/Geto_Boys
++ Dizzy Rascal | Dizzee Rascal | | | l | https://pt.wikipedia.org/wiki/Dizzee_Rascal
++ Skepta | | | | l | https://pt.wikipedia.org/wiki/Skepta
++ Lil Durk | | | | l | https://pt.wikipedia.org/wiki/Lil_Durk
++ Roddy Ricch | | | | l | https://pt.wikipedia.org/wiki/Roddy_Ricch
++ Polo G | | | | l | https://pt.wikipedia.org/wiki/Polo_G
++ Latto | | | | l | https://pt.wikipedia.org/wiki/Latto
++ GloRilla | | | | l | https://pt.wikipedia.org/wiki/GloRilla
++ Tech N9ne | | | | l | https://pt.wikipedia.org/wiki/Tech_N9ne
++ Twista | | | | l | https://pt.wikipedia.org/wiki/Twista
++ Booba | | | | l | https://pt.wikipedia.org/wiki/Booba
++ Canserbero | | | | l | https://en.wikipedia.org/wiki/Canserbero
+
+== mint-generos
++ Hard rock | | | | i | https://pt.wikipedia.org/wiki/Hard_rock
++ Rock progressivo | Progressivo;Prog rock | Progressive rock | Rock progresivo | e | https://pt.wikipedia.org/wiki/Rock_progressivo
++ Rock psicodélico | Psicodelia | Psychedelic rock | Rock psicodélico | e | https://pt.wikipedia.org/wiki/Rock_psicod%C3%A9lico
++ Glam rock | | | | e | https://pt.wikipedia.org/wiki/Glam_rock
++ Rock alternativo | Alternativo | Alternative rock | Rock alternativo | r | https://pt.wikipedia.org/wiki/Rock_alternativo
++ Pop rock | | | | r | https://pt.wikipedia.org/wiki/Pop_rock
++ Pop punk | | | | e | https://pt.wikipedia.org/wiki/Pop_punk
++ Post-punk | | | | l | https://pt.wikipedia.org/wiki/Post-punk
++ Britpop | | | | e | https://pt.wikipedia.org/wiki/Britpop
++ Rock gótico | Gótico | Gothic rock | Rock gótico | e | https://pt.wikipedia.org/wiki/Rock_g%C3%B3tico
++ Surf rock | | | | l | https://pt.wikipedia.org/wiki/Surf_music
++ Garage rock | | | | l | https://pt.wikipedia.org/wiki/Garage_rock
++ Thrash metal | | | | e | https://pt.wikipedia.org/wiki/Thrash_metal
++ Death metal | | | | e | https://pt.wikipedia.org/wiki/Death_metal
++ Black metal | | | | e | https://pt.wikipedia.org/wiki/Black_metal
++ Nu metal | | | | e | https://pt.wikipedia.org/wiki/Nu_metal
++ Power metal | | | | l | https://pt.wikipedia.org/wiki/Power_metal
++ Metal sinfônico | | Symphonic metal | Metal sinfónico | l | https://pt.wikipedia.org/wiki/Metal_sinf%C3%B4nico
++ Glam metal | Hair metal | | | l | https://pt.wikipedia.org/wiki/Glam_metal
++ Metalcore | | | | l | https://pt.wikipedia.org/wiki/Metalcore
++ Industrial | Música industrial | Industrial music | | l | https://pt.wikipedia.org/wiki/M%C3%BAsica_industrial
++ Doo-wop | | | | l | https://pt.wikipedia.org/wiki/Doo-wop
++ Twist | | | | e | https://en.wikipedia.org/wiki/Twist_(dance)
++ Charleston | | | | l | https://pt.wikipedia.org/wiki/Charleston_(dan%C3%A7a)
++ Big band | | | | l | https://pt.wikipedia.org/wiki/Big_band
++ Dixieland | | | | l | https://pt.wikipedia.org/wiki/Dixieland
++ Jazz fusion | Fusion | | | l | https://pt.wikipedia.org/wiki/Jazz_fusion
++ Gangsta rap | | | | e | https://pt.wikipedia.org/wiki/Gangsta_rap
++ Drill | | | | e | https://en.wikipedia.org/wiki/Drill_music
++ Eurodance | | | | e | https://pt.wikipedia.org/wiki/Eurodance
++ Deep house | | | | l | https://pt.wikipedia.org/wiki/Deep_house
++ Psytrance | Trance psicodélico | | | e | https://pt.wikipedia.org/wiki/Psytrance
++ Ambient | Música ambiente | Ambient music | | l | https://pt.wikipedia.org/wiki/M%C3%BAsica_ambiente
++ Trip hop | | | | l | https://pt.wikipedia.org/wiki/Trip_hop
++ Dub | | | | l | https://en.wikipedia.org/wiki/Dub_music
++ Jungle | | | | l | https://en.wikipedia.org/wiki/Jungle_music
++ New age | | | | l | https://pt.wikipedia.org/wiki/New_age_(m%C3%BAsica)
++ Calipso | | Calypso | Calipso | l | https://pt.wikipedia.org/wiki/Calipso_(g%C3%AAnero_musical)
++ Son cubano | | | | l | https://pt.wikipedia.org/wiki/Son_cubano
++ Chamamé | | | | e | https://pt.wikipedia.org/wiki/Chamam%C3%A9
++ Milonga | | | | l | https://en.wikipedia.org/wiki/Milonga_(music)
++ Vallenato | | | | l | https://pt.wikipedia.org/wiki/Vallenato
++ Pasodoble | Paso doble | | | l | https://pt.wikipedia.org/wiki/Pasodoble
++ Morna | | | | e | https://en.wikipedia.org/wiki/Morna_(music)
++ Funaná | | | | l | https://pt.wikipedia.org/wiki/Funan%C3%A1
++ Amapiano | | | | l | https://pt.wikipedia.org/wiki/Amapiano
++ Bhangra | | | | l | https://en.wikipedia.org/wiki/Bhangra_(music)
++ City pop | | | | l | https://pt.wikipedia.org/wiki/City_pop
++ Canto gregoriano | Gregoriano | Gregorian chant | Canto gregoriano | e | https://pt.wikipedia.org/wiki/Canto_gregoriano
++ Opereta | | Operetta | Opereta | l | https://pt.wikipedia.org/wiki/Opereta
++ Chanson | Chanson française | | | l | https://pt.wikipedia.org/wiki/Chanson
++ Klezmer | | | | l | https://pt.wikipedia.org/wiki/Klezmer
++ Música celta | Celta | Celtic music | Música celta | e | https://pt.wikipedia.org/wiki/M%C3%BAsica_celta
++ Soft rock | | | | l | https://pt.wikipedia.org/wiki/Soft_rock
++ Dance | Dance music | | | r | https://pt.wikipedia.org/wiki/Dance_music
++ Electropop | | | | l | https://pt.wikipedia.org/wiki/Electropop
++ Spiritual | Negro spiritual | | | l | https://pt.wikipedia.org/wiki/Spiritual

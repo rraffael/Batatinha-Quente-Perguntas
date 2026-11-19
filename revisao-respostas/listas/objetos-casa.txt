@@ -1,0 +1,149 @@
+== obj-ferramentas
++ Britadeira | Martelete;Martelete rompedor;Rompedor;Martelo pneumático | Jackhammer | Martillo neumático | i | https://pt.wikipedia.org/wiki/Britadeira
+~ Marreta | Malho | https://pt.wikipedia.org/wiki/Marreta
+~ Torno | Morsa | https://pt.wikipedia.org/wiki/Torno_(ferramenta)
+~ Esmerilhadeira | Rebarbadora;Rebarbadeira;Esmerilhadora | https://pt.wikipedia.org/wiki/Rebarbadora
++ Broca | Brocas | Drill bit | Broca | i | https://www.dicio.com.br/broca/
++ Alavanca | | Crowbar;Lever | Palanca | i | https://www.dicio.com.br/alavanca/
++ Canivete | | Pocketknife | Navaja | i | https://pt.wikipedia.org/wiki/Canivete
++ Machadinha | | Hatchet | Hachuela | i | https://www.dicio.com.br/machadinha/
++ Enxadão | | Mattock | | i | https://www.dicio.com.br/enxadao/
++ Cinzel | | Chisel | Cincel | r | https://pt.wikipedia.org/wiki/Cinzel
++ Ponteiro | | | | r | https://www.dicio.com.br/ponteiro/
++ Torquímetro | Chave dinamométrica | Torque wrench | Torquímetro | r | https://pt.wikipedia.org/wiki/Torqu%C3%ADmetro
++ Tupia | | Router | Fresadora | r | https://pt.wikipedia.org/wiki/Tupia
++ Retífica | | | | r | https://www.dicio.com.br/retifica/
++ Serra de fita | Serra-fita | Band saw | Sierra de cinta | e | https://pt.wikipedia.org/wiki/Serra_de_fita
++ Pistola de pintura | | Spray gun | Pistola de pintura | r | https://pt.wikipedia.org/wiki/Pistola_de_pintura
++ Maçarico | | Blowtorch | Soplete | r | https://www.dicio.com.br/macarico/
++ Verruma | | Gimlet | Barrena | e | https://www.dicio.com.br/verruma/
++ Trado | | Auger | | e | https://www.dicio.com.br/trado/
++ Tarraxa | | | Terraja | e | https://www.dicio.com.br/tarraxa/
++ Cossinete | | Die | | l | https://www.dicio.com.br/cossinete/
++ Maceta | | | Maceta | e | https://www.dicio.com.br/maceta/
++ Picão | | | | e | https://www.dicio.com.br/picao/
++ Podão | | Billhook | | e | https://www.dicio.com.br/podao/
++ Gadanha | | Scythe | Guadaña | e | https://www.dicio.com.br/gadanha/
+
+== obj-utensilios-cozinha
++ Caneca | | Mug | Taza | c | https://www.dicio.com.br/caneca/
++ Taça | | Wine glass | Copa | c | https://www.dicio.com.br/taca/
++ Pires | | Saucer | Platillo | c | https://www.dicio.com.br/pires/
++ Colher de pau | | Wooden spoon | Cuchara de palo | c | https://pt.wikipedia.org/wiki/Utens%C3%ADlio_de_cozinha
++ Grelha | | Grill;Grate | Parrilla | i | https://www.dicio.com.br/grelha/
++ Tacho | | | | i | https://www.dicio.com.br/tacho/
++ Caldeirão | | Cauldron | Caldero | i | https://www.dicio.com.br/caldeirao/
++ Cutelo | | Cleaver | Cuchilla | r | https://www.dicio.com.br/cutelo/
++ Chaira | Amolador;Afiador de facas | Honing steel | Chaira | e | https://www.dicio.com.br/chaira/
++ Socador | Socador de caipirinha | Muddler | | r | https://www.dicio.com.br/socador/
++ Marmita | | | | r | https://www.dicio.com.br/marmita/
++ Moringa | Bilha | | | r | https://www.dicio.com.br/moringa/
++ Manteigueira | | Butter dish | Mantequera | r | https://www.dicio.com.br/manteigueira/
++ Galheteiro | | Cruet stand | | e | https://www.dicio.com.br/galheteiro/
++ Sopeira | Terrina | Tureen | Sopera | e | https://www.dicio.com.br/sopeira/
++ Molheira | | Gravy boat | Salsera | e | https://www.dicio.com.br/molheira/
++ Compoteira | | | | e | https://www.dicio.com.br/compoteira/
++ Réchaud | | Chafing dish | | e | https://www.dicio.com.br/rechaud/
++ Espeto | | Skewer | Pincho | r | https://www.dicio.com.br/espeto/
++ Canudo | | Straw | Pajita | r | https://www.dicio.com.br/canudo/
++ Avental | | Apron | Delantal | r | https://www.dicio.com.br/avental/
+~ Rolo de massa | Rolo de macarrão;Rolo de abrir massa | https://pt.wikipedia.org/wiki/Utens%C3%ADlio_de_cozinha
+~ Cuscuzeira | Cuscuzeiro | https://www.dicio.com.br/cuscuzeiro/
+~ Pote | Pote hermético;Tupperware | https://www.dicio.com.br/pote/
+~ Chaleira | Chaleira elétrica | https://www.dicio.com.br/chaleira/
+~ Cafeteira | Cafeteira italiana;Moka | https://www.dicio.com.br/cafeteira/
+
+== obj-moveis
++ Cama de solteiro | | Single bed | Cama individual | i | https://www.dicio.com.br/cama/
++ Mesa lateral | Mesa de canto;Mesinha | Side table | Mesa auxiliar | i | https://pt.wikipedia.org/wiki/Mobili%C3%A1rio
++ Canapé | | Canapé | Canapé | e | https://www.dicio.com.br/canape/
++ Cadeirão | Cadeira de alimentação;Cadeirinha de alimentação | High chair | Trona | r | https://www.dicio.com.br/cadeirao/
++ Cercadinho | Chiqueirinho | Playpen | Corralito | r | https://www.dicio.com.br/chiqueirinho/
++ Moisés | | Moses basket | Moisés | e | https://www.dicio.com.br/moises/
++ Trocador | | Changing table | Cambiador | r | https://www.dicio.com.br/trocador/
++ Cadeira de praia | | Beach chair | Silla de playa | r | https://www.dicio.com.br/cadeira/
++ Gabinete | Gabinete de banheiro | Cabinet | Gabinete | r | https://www.dicio.com.br/gabinete/
+~ Cabideiro | Mancebo | https://www.dicio.com.br/mancebo/
+~ Baú | Arca | https://www.dicio.com.br/arca/
+~ Banquinho | Tamborete;Mocho | https://www.dicio.com.br/tamborete/
+
+== obj-eletrodomesticos
++ Máquina de costura | | Sewing machine | Máquina de coser | i | https://pt.wikipedia.org/wiki/M%C3%A1quina_de_costura
++ Tablet | | Tablet | Tableta | i | https://pt.wikipedia.org/wiki/Tablet
++ Lava e seca | Lava-seca;Lavadora e secadora | Washer-dryer | Lavasecadora | i | https://pt.wikipedia.org/wiki/M%C3%A1quina_de_lavar_roupa
++ Enceradeira | | Floor polisher | Enceradora | r | https://www.dicio.com.br/enceradeira/
++ Lavadora de alta pressão | Lava-jato | Pressure washer | Hidrolavadora | r | https://pt.wikipedia.org/wiki/Lavadora_de_alta_press%C3%A3o
++ Home theater | | Home theater | Cine en casa | r | https://pt.wikipedia.org/wiki/Home_theater
++ Projetor | | Projector | Proyector | r | https://www.dicio.com.br/projetor/
++ Monitor | | Monitor | Monitor | r | https://www.dicio.com.br/monitor/
++ Despertador | Rádio-relógio | Alarm clock | Despertador | r | https://www.dicio.com.br/despertador/
++ Interfone | | Intercom | Interfono | r | https://www.dicio.com.br/interfone/
++ Estabilizador | | Voltage stabilizer | Estabilizador | r | https://www.dicio.com.br/estabilizador/
++ Nobreak | | UPS | SAI | e | https://pt.wikipedia.org/wiki/Nobreak
++ Moedor de café | | Coffee grinder | Molinillo de café | r | https://pt.wikipedia.org/wiki/Moedor_de_caf%C3%A9
++ Sorveteira | | Ice cream maker | Heladera | e | https://www.dicio.com.br/sorveteira/
++ Máquina de gelo | | Ice maker | Máquina de hielo | e | https://pt.wikipedia.org/wiki/M%C3%A1quina_de_gelo
++ Churrasqueira elétrica | | Electric grill | Parrilla eléctrica | r | https://pt.wikipedia.org/wiki/Churrasqueira
++ Waffleira | Máquina de waffle | Waffle iron | Wafflera | e | https://pt.wikipedia.org/wiki/Waffle
++ Depilador elétrico | Depiladora | Epilator | Depiladora | r | https://www.dicio.com.br/depilador/
++ Aquecedor de água | Boiler;Aquecedor a gás | Water heater | Calentador de agua | r | https://pt.wikipedia.org/wiki/Aquecedor_de_%C3%A1gua
+~ Micro-ondas | Forno micro-ondas;Forno de micro-ondas | https://pt.wikipedia.org/wiki/Forno_de_micro-ondas
+~ Ventilador | Circulador de ar | https://pt.wikipedia.org/wiki/Ventilador
+~ Panela elétrica | Panela de arroz;Panela de pressão elétrica | https://pt.wikipedia.org/wiki/Panela_el%C3%A9trica
+~ Chapinha | Prancha | https://www.dicio.com.br/chapinha/
+~ Fritadeira elétrica com óleo | Fritadeira | https://www.dicio.com.br/fritadeira/
+
+== obj-comodos
+~ Banheiro | WC;Toalete | https://www.dicio.com.br/toalete/
++ Sala de jogos | | Game room | Sala de juegos | r | https://www.dicio.com.br/sala/
++ Área de lazer | | | | r | https://www.dicio.com.br/lazer/
++ Deck | | Deck | | r | https://www.dicio.com.br/deck/
+
+== obj-material-escolar
++ Fita crepe | | Masking tape | Cinta de papel | i | https://www.dicio.com.br/crepe/
++ Apostila | | Handout | | i | https://www.dicio.com.br/apostila/
++ Glitter | Purpurina | Glitter | Purpurina | i | https://www.dicio.com.br/purpurina/
++ Tachinha | Percevejo | Thumbtack | Chincheta | r | https://www.dicio.com.br/tachinha/
++ Aquarela | | Watercolor | Acuarela | r | https://www.dicio.com.br/aquarela/
++ Papel camurça | | | | r | https://www.dicio.com.br/camurca/
++ Papel laminado | | | | e | https://www.dicio.com.br/laminado/
++ Papel vegetal | | Tracing paper | Papel vegetal | e | https://www.dicio.com.br/papel/
++ Papel milimetrado | | Graph paper | Papel milimetrado | e | https://www.dicio.com.br/milimetrado/
++ Caderno de caligrafia | | | | r | https://www.dicio.com.br/caligrafia/
++ Tabuada | | Times table | Tabla de multiplicar | r | https://www.dicio.com.br/tabuada/
++ Argila | | Clay | Arcilla | r | https://www.dicio.com.br/argila/
++ Ábaco | | Abacus | Ábaco | e | https://www.dicio.com.br/abaco/
+~ Papel sulfite | Papel;Folha;Folha de papel | https://www.dicio.com.br/sulfite/
+~ Cola | Cola branca;Cola de isopor | https://www.dicio.com.br/cola/
+~ Tinta guache | Tinta | https://www.dicio.com.br/guache/
+~ Canetinha | Caneta hidrográfica;Canetinha hidrográfica | https://www.dicio.com.br/hidrografica/
+~ Lancheira | Merendeira | https://www.dicio.com.br/merendeira/
+~ Pincel atômico | Pincel marcador;Marcador | https://www.dicio.com.br/marcador/
+
+== obj-higiene-banheiro
+~ Pasta de dente | Pasta dental;Dentifrício | https://www.dicio.com.br/dentifricio/
+~ Bucha | Esponja;Esponja de banho | https://www.dicio.com.br/bucha/
+~ Tampão | Absorvente interno | https://www.dicio.com.br/tampao/
+~ Perfume | Colônia;Água de colônia | https://www.dicio.com.br/colonia/
++ Vaso sanitário | Privada;Vaso;Bacia sanitária | Toilet | Inodoro | c | https://www.dicio.com.br/privada/
++ Pia | Lavatório | Sink | Lavabo | c | https://www.dicio.com.br/pia/
++ Chuveiro | Ducha | Shower | Ducha | c | https://www.dicio.com.br/chuveiro/
++ Banheira | | Bathtub | Bañera | i | https://www.dicio.com.br/banheira/
++ Bidê | | Bidet | Bidé | r | https://www.dicio.com.br/bide/
++ Box | | Shower stall | | i | https://www.dicio.com.br/box/
++ Álcool em gel | Álcool gel | Hand sanitizer | Gel hidroalcohólico | i | https://pt.wikipedia.org/wiki/%C3%81lcool_em_gel
++ Protetor labial | Manteiga de cacau;Hidratante labial | Lip balm | Protector labial | i | https://www.dicio.com.br/labial/
++ Cera depilatória | | Wax | Cera depilatoria | r | https://www.dicio.com.br/depilatorio/
++ Creme depilatório | | Depilatory cream | Crema depilatoria | r | https://www.dicio.com.br/depilatorio/
++ Repelente | | Repellent | Repelente | r | https://www.dicio.com.br/repelente/
++ Desentupidor | | Plunger | Desatascador | r | https://www.dicio.com.br/desentupidor/
++ Toalheiro | | Towel rack | Toallero | r | https://www.dicio.com.br/toalheiro/
++ Porta-papel | Papeleira | Toilet paper holder | Portarrollos | e | https://www.dicio.com.br/papeleira/
++ Navalha | | Straight razor | Navaja | r | https://www.dicio.com.br/navalha/
++ Pincel de barba | | Shaving brush | Brocha de afeitar | e | https://www.dicio.com.br/pincel/
++ Pente fino | | Fine-tooth comb | Peine fino | r | https://www.dicio.com.br/pente/
++ Escova de unha | | Nail brush | Cepillo de uñas | e | https://www.dicio.com.br/escova/
++ Tinta de cabelo | Tintura de cabelo;Tintura | Hair dye | Tinte | r | https://www.dicio.com.br/tintura/
++ Delineador | | Eyeliner | Delineador | r | https://www.dicio.com.br/delineador/
++ Sombra | | Eyeshadow | Sombra de ojos | r | https://www.dicio.com.br/sombra/
++ Blush | | Blush | Rubor | r | https://www.dicio.com.br/blush/

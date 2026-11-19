@@ -5,16 +5,21 @@ import type {
   Evento,
   Fase,
   JogadorPublico,
+  MensagemChat,
   MotivoRecusa,
   MsgServidor,
+  SalaListada,
   SalaPublica,
 } from '../shared/protocolo';
 import {
   ANTES_DO_FIM_MS,
   CALOR_MS,
   CONTAGEM_MS,
+  HISTORICO_CHAT,
+  INTERVALO_CHAT_MS,
   INTERVALO_MS,
   MAX_APELIDO,
+  MAX_CHAT,
   MAX_JOGADORES,
   MAX_NA_SALA,
   MAX_RESPOSTA,
@@ -82,6 +87,12 @@ export interface EstadoSala {
   seq: number;
   vencedorId: string | null;
   atualizadaEm: number;
+  /** Hash da senha da sala privada (nunca vai para o cliente). */
+  senhaHash?: string | null;
+  chat?: MensagemChat[];
+  chatSeq?: number;
+  /** Última mensagem de chat de cada jogador (anti-flood). */
+  chatUltimo?: Record<string, number>;
 }
 
 export interface Estatistica {
@@ -98,6 +109,8 @@ export interface Efeitos {
   tentativas: { jogadorId: string; texto: string; aceita: boolean }[];
   /** Pergunta nova cujas raridades podem ser buscadas nas estatísticas. */
   carregarRaridade: string | null;
+  /** Mensagens de chat novas, para transmitir a todos. */
+  chat: MensagemChat[];
 }
 
 export interface Ctx {
@@ -114,11 +127,11 @@ const OK: Resultado = { ok: true };
 const falha = (codigo: string, mensagem: string): Falha => ({ ok: false, codigo, mensagem });
 
 export function novosEfeitos(): Efeitos {
-  return { privadas: [], estatisticas: [], expulsos: [], tentativas: [], carregarRaridade: null };
+  return { privadas: [], estatisticas: [], expulsos: [], tentativas: [], carregarRaridade: null, chat: [] };
 }
 
 export function configPadrao(): Config {
-  return { temas: [], dificeis: false, vidas: VIDAS_PADRAO, ritmo: 'normal', maxJogadores: 8 };
+  return { temas: [], dificeis: false, vidas: VIDAS_PADRAO, ritmo: 'normal', maxJogadores: 8, publica: false };
 }
 
 export function criarSala(codigo: string, agora: number): EstadoSala {
@@ -141,6 +154,10 @@ export function criarSala(codigo: string, agora: number): EstadoSala {
     seq: 0,
     vencedorId: null,
     atualizadaEm: agora,
+    senhaHash: null,
+    chat: [],
+    chatSeq: 0,
+    chatUltimo: {},
   };
 }
 
@@ -148,15 +165,6 @@ export function criarSala(codigo: string, agora: number): EstadoSala {
 
 function jogador(s: EstadoSala, id: string | null | undefined): Jogador | undefined {
   return id ? s.jogadores.find((j) => j.id === id) : undefined;
-}
-
-function embaralhar<T>(lista: T[], rng: () => number): T[] {
-  const r = [...lista];
-  for (let i = r.length - 1; i > 0; i--) {
-    const k = Math.floor(rng() * (i + 1));
-    [r[i], r[k]] = [r[k], r[i]];
-  }
-  return r;
 }
 
 function sortearPavio(s: EstadoSala, ctx: Ctx): number {
@@ -317,6 +325,8 @@ export interface DadosEntrada {
   segredoHash: string;
   apelido: string;
   personagem: string;
+  /** Hash da senha digitada (só conta para quem ainda não está na sala). */
+  senhaHash?: string;
 }
 
 export function entrar(s: EstadoSala, ctx: Ctx, d: DadosEntrada): Resultado {
@@ -333,6 +343,9 @@ export function entrar(s: EstadoSala, ctx: Ctx, d: DadosEntrada): Resultado {
       existente.personagem = personagem;
     }
   } else {
+    if (s.senhaHash && d.senhaHash !== s.senhaHash) {
+      return falha('senha', d.senhaHash ? 'Senha incorreta.' : 'Esta sala tem senha.');
+    }
     if (s.jogadores.length >= MAX_NA_SALA) return falha('sala_cheia', 'A sala está lotada.');
     const espectador = s.fase !== 'lobby';
     const naRoda = s.jogadores.filter((j) => !j.espectador).length;
@@ -348,6 +361,7 @@ export function entrar(s: EstadoSala, ctx: Ctx, d: DadosEntrada): Resultado {
       vivo: !espectador,
       conectado: true,
       espectador,
+      pronto: false,
       acertos: 0,
       lendarias: 0,
       eliminadoNaRodada: null,
@@ -404,6 +418,11 @@ export function configurar(s: EstadoSala, ctx: Ctx, jogadorId: string, cfg: Part
   if (typeof cfg.dificeis === 'boolean') c.dificeis = cfg.dificeis;
   if (typeof cfg.vidas === 'number') c.vidas = Math.min(VIDAS_MAX, Math.max(1, Math.round(cfg.vidas)));
   if (typeof cfg.ritmo === 'string' && cfg.ritmo in RITMOS) c.ritmo = cfg.ritmo as Ritmo;
+  if (typeof cfg.publica === 'boolean') {
+    c.publica = cfg.publica;
+    // Sala pública é aberta: não tem senha.
+    if (c.publica) s.senhaHash = null;
+  }
   if (typeof cfg.maxJogadores === 'number') {
     c.maxJogadores = Math.min(MAX_JOGADORES, Math.max(MIN_JOGADORES, Math.round(cfg.maxJogadores)));
   }
@@ -412,9 +431,37 @@ export function configurar(s: EstadoSala, ctx: Ctx, jogadorId: string, cfg: Part
   return OK;
 }
 
+/** Senha da sala privada (só o anfitrião). null remove. Definir senha torna a sala privada. */
+export function definirSenha(s: EstadoSala, ctx: Ctx, jogadorId: string, senhaHash: string | null): Resultado {
+  if (s.hostId !== jogadorId) return falha('nao_host', 'Só o anfitrião muda a senha.');
+  s.senhaHash = senhaHash;
+  if (senhaHash) s.config.publica = false;
+  s.atualizadaEm = ctx.agora;
+  return OK;
+}
+
+export function marcarPronto(s: EstadoSala, ctx: Ctx, jogadorId: string, pronto: boolean): void {
+  const j = jogador(s, jogadorId);
+  if (!j || s.fase !== 'lobby' || j.espectador) return;
+  j.pronto = pronto;
+  s.atualizadaEm = ctx.agora;
+}
+
+/** Quem vai para a roda e ainda não marcou pronto (o anfitrião não precisa). */
+export function faltamProntos(s: EstadoSala): Jogador[] {
+  return s.jogadores
+    .filter((j) => j.conectado && !j.espectador)
+    .slice(0, s.config.maxJogadores)
+    .filter((j) => j.id !== s.hostId && !j.pronto);
+}
+
 export function iniciar(s: EstadoSala, ctx: Ctx, jogadorId: string): Resultado {
   if (s.hostId !== jogadorId) return falha('nao_host', 'Só o anfitrião pode começar.');
   if (s.fase !== 'lobby') return OK;
+  const faltam = faltamProntos(s);
+  if (faltam.length > 0) {
+    return falha('nao_prontos', `Esperando ${faltam.map((j) => j.apelido).join(', ')} ficar pronto.`);
+  }
   // Quem caiu antes de começar fica de fora desta partida.
   s.jogadores = s.jogadores.filter((j) => j.conectado);
   if (s.jogadores.length < MIN_JOGADORES) return falha('poucos', `Precisa de pelo menos ${MIN_JOGADORES} jogadores.`);
@@ -429,13 +476,12 @@ export function iniciar(s: EstadoSala, ctx: Ctx, jogadorId: string): Resultado {
       lendarias: 0,
       vivo: joga,
       espectador: !joga,
+      pronto: false,
       eliminadoNaRodada: null,
     });
   }
-  s.ordem = embaralhar(
-    naRoda.map((j) => j.id),
-    ctx.rng,
-  );
+  // A roda segue a ordem do lobby; só quem começa é sorteado.
+  s.ordem = naRoda.map((j) => j.id);
   s.rodada = null;
   s.numeroRodada = 0;
   s.calor = 0;
@@ -443,7 +489,7 @@ export function iniciar(s: EstadoSala, ctx: Ctx, jogadorId: string): Resultado {
   s.vencedorId = null;
   s.fase = 'contagem';
   s.proximaEm = ctx.agora + CONTAGEM_MS;
-  s.proximoIniciante = s.ordem[0];
+  s.proximoIniciante = s.ordem[Math.floor(ctx.rng() * s.ordem.length)];
   s.atualizadaEm = ctx.agora;
   emitir(s, { tipo: 'inicio' });
   return OK;
@@ -539,12 +585,12 @@ export function avancarTempo(s: EstadoSala, ctx: Ctx): void {
   }
 }
 
+/** Fim de partida → volta todo mundo para o lobby da mesma sala (qualquer jogador pode). */
 export function novaPartida(s: EstadoSala, ctx: Ctx, jogadorId: string): Resultado {
-  if (s.hostId !== jogadorId) return falha('nao_host', 'Só o anfitrião pode reabrir a roda.');
-  if (s.fase !== 'fim') return OK;
+  if (!jogador(s, jogadorId) || s.fase !== 'fim') return OK;
   s.jogadores = s.jogadores.filter((j) => j.conectado);
   for (const j of s.jogadores) {
-    Object.assign(j, { espectador: false, vivo: true, vidas: s.config.vidas, eliminadoNaRodada: null });
+    Object.assign(j, { espectador: false, vivo: true, vidas: s.config.vidas, pronto: false, eliminadoNaRodada: null });
   }
   s.fase = 'lobby';
   s.rodada = null;
@@ -556,11 +602,22 @@ export function novaPartida(s: EstadoSala, ctx: Ctx, jogadorId: string): Resulta
   return OK;
 }
 
-/** Fim de partida → nova partida direto, com as mesmas configurações e a mesma turma. */
-export function jogarDeNovo(s: EstadoSala, ctx: Ctx, jogadorId: string): Resultado {
-  const r = novaPartida(s, ctx, jogadorId);
-  if (!r.ok) return r;
-  return iniciar(s, ctx, jogadorId);
+/** Chat da sala (lobby, partida e fim). Sem filtro de palavras; só limita tamanho e ritmo. */
+export function conversar(s: EstadoSala, ctx: Ctx, jogadorId: string, bruto: string): void {
+  const j = jogador(s, jogadorId);
+  const texto = bruto
+    .replace(/[\p{C}]/gu, '')
+    .replace(/\s+/g, ' ')
+    .trim()
+    .slice(0, MAX_CHAT);
+  if (!j || !texto) return;
+  s.chatUltimo ??= {};
+  if (ctx.agora - (s.chatUltimo[jogadorId] ?? 0) < INTERVALO_CHAT_MS) return;
+  s.chatUltimo[jogadorId] = ctx.agora;
+  s.chatSeq = (s.chatSeq ?? 0) + 1;
+  const msg: MensagemChat = { id: s.chatSeq, jogadorId, apelido: j.apelido, personagem: j.personagem, texto };
+  s.chat = [...(s.chat ?? []), msg].slice(-HISTORICO_CHAT);
+  ctx.efeitos.chat.push(msg);
 }
 
 export function proximoAlarme(s: EstadoSala): number | null {
@@ -589,7 +646,7 @@ export function publico(s: EstadoSala, ctx: Pick<Ctx, 'agora' | 'banco'>): SalaP
     codigo: s.codigo,
     fase: s.fase,
     config: s.config,
-    jogadores: s.jogadores.map(({ segredoHash: _, ...j }) => ({ ...j, host: j.id === s.hostId })),
+    jogadores: s.jogadores.map(({ segredoHash: _, ...j }) => ({ ...j, pronto: j.pronto ?? false, host: j.id === s.hostId })),
     ordem: s.ordem,
     rodada:
       r && pergunta
@@ -609,5 +666,19 @@ export function publico(s: EstadoSala, ctx: Pick<Ctx, 'agora' | 'banco'>): SalaP
     proximaEmMs: s.proximaEm !== null ? Math.max(0, s.proximaEm - ctx.agora) : null,
     calor: s.calor ?? 0,
     vencedorId: s.vencedorId,
+    temSenha: !!s.senhaHash,
+  };
+}
+
+/** Resumo para a lista de salas públicas (null = não listar). */
+export function resumoPublico(s: EstadoSala): SalaListada | null {
+  const conectados = s.jogadores.filter((j) => j.conectado);
+  if (!s.config.publica || conectados.length === 0) return null;
+  return {
+    codigo: s.codigo,
+    anfitriao: jogador(s, s.hostId)?.apelido ?? '',
+    fase: s.fase,
+    jogadores: conectados.filter((j) => !j.espectador).length,
+    maxJogadores: s.config.maxJogadores,
   };
 }

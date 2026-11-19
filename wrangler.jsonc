@@ -6,9 +6,15 @@
   "compatibility_date": "2025-09-01",
   "observability": { "enabled": true },
   "durable_objects": {
-    "bindings": [{ "name": "SALAS", "class_name": "Sala" }]
+    "bindings": [
+      { "name": "SALAS", "class_name": "Sala" },
+      { "name": "SAGUAO", "class_name": "Saguao" }
+    ]
   },
-  "migrations": [{ "tag": "v1", "new_sqlite_classes": ["Sala"] }]
+  "migrations": [
+    { "tag": "v1", "new_sqlite_classes": ["Sala"] },
+    { "tag": "v2", "new_sqlite_classes": ["Saguao"] }
+  ]
 
   // Estatísticas de uso das respostas (raridade dinâmica). Opcional: o jogo funciona sem.
   // Para ativar: `npx wrangler d1 create batatinha-stats`, cole o database_id abaixo,

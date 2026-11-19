@@ -24,8 +24,8 @@ export function Coracoes({ vidas }: { vidas: number }) {
   );
 }
 
-export function Selo({ raridade }: { raridade: Raridade }) {
-  return <span class={`badge r-${raridade}`}>{ROTULO_RARIDADE[raridade]}</span>;
+export function Selo({ raridade, mini = false }: { raridade: Raridade; mini?: boolean }) {
+  return <span class={`badge r-${raridade} ${mini ? 'mini' : ''}`}>{ROTULO_RARIDADE[raridade]}</span>;
 }
 
 export function Cartao({ children, classe = '' }: { children: ComponentChildren; classe?: string }) {

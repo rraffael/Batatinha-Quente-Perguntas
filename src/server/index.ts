@@ -1,6 +1,7 @@
 import { BANCO } from './banco-padrao';
 import type { Env } from './env';
 
+export { Saguao } from './saguao';
 export { Sala } from './sala';
 
 // Sem vogais: evita formar palavras (e palavrões) no código da sala.
@@ -28,13 +29,21 @@ export default {
     if (pathname === '/api/salas' && req.method === 'POST') {
       for (let tentativa = 0; tentativa < 8; tentativa++) {
         const codigo = gerarCodigo();
-        const r = await sala(env, codigo).fetch('https://sala/criar', {
+        const publica = url.searchParams.get('publica') === '1' ? '1' : '0';
+        const r = await sala(env, codigo).fetch(`https://sala/criar?publica=${publica}`, {
           method: 'POST',
           headers: { 'x-codigo': codigo },
         });
         if (r.ok) return Response.json({ codigo });
       }
       return Response.json({ erro: 'Não foi possível criar a sala agora.' }, { status: 503 });
+    }
+
+    if (pathname === '/api/salas' && req.method === 'GET') {
+      const r = await env.SAGUAO.get(env.SAGUAO.idFromName('saguao')).fetch('https://saguao/lista');
+      return new Response(r.body, {
+        headers: { 'content-type': 'application/json', 'cache-control': 'no-store' },
+      });
     }
 
     const info = pathname.match(/^\/api\/salas\/([A-Za-z]{4})$/);

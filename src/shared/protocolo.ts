@@ -10,6 +10,8 @@ export interface Config {
   vidas: number;
   ritmo: Ritmo;
   maxJogadores: number;
+  /** Sala pública aparece na lista do início; privada só entra quem tem o código (e a senha, se houver). */
+  publica: boolean;
 }
 
 export interface JogadorPublico {
@@ -24,6 +26,8 @@ export interface JogadorPublico {
   conectado: boolean;
   espectador: boolean;
   host: boolean;
+  /** Marcou "pronto" no lobby (o anfitrião não precisa). */
+  pronto: boolean;
   acertos: number;
   lendarias: number;
   /** Número da rodada em que foi eliminado (para o ranking). */
@@ -86,6 +90,25 @@ export interface SalaPublica {
   /** 0 = normal, 1 = esquentando, 2 = em brasa (prestes a estourar). */
   calor: Calor;
   vencedorId: string | null;
+  /** Sala privada com senha (a senha nunca vai para o cliente). */
+  temSenha: boolean;
+}
+
+export interface MensagemChat {
+  id: number;
+  jogadorId: string;
+  apelido: string;
+  personagem: string;
+  texto: string;
+}
+
+/** Resumo de sala pública para a lista do início. */
+export interface SalaListada {
+  codigo: string;
+  anfitriao: string;
+  fase: Fase;
+  jogadores: number;
+  maxJogadores: number;
 }
 
 export interface TemaInfo {
@@ -99,7 +122,7 @@ export interface TemaInfo {
 export type MotivoRecusa = 'usada' | 'ambigua' | 'desconhecida';
 
 export type MsgCliente =
-  | { t: 'entrar'; jogadorId: string; segredo: string; apelido: string; personagem: string }
+  | { t: 'entrar'; jogadorId: string; segredo: string; apelido: string; personagem: string; senha?: string }
   | { t: 'config'; config: Partial<Config> }
   | { t: 'iniciar' }
   | { t: 'responder'; texto: string }
@@ -107,7 +130,10 @@ export type MsgCliente =
   | { t: 'sair' }
   | { t: 'expulsar'; jogadorId: string }
   | { t: 'novaPartida' }
-  | { t: 'jogarDeNovo' };
+  | { t: 'pronto'; pronto: boolean }
+  | { t: 'chat'; texto: string }
+  /** Só o anfitrião; vazio remove a senha. */
+  | { t: 'senha'; senha: string };
 
 export type MsgServidor =
   | { t: 'sala'; sala: SalaPublica }
@@ -115,6 +141,8 @@ export type MsgServidor =
   /** Toda tentativa enviada, para o balãozinho que todos veem. */
   | { t: 'tentativa'; jogadorId: string; texto: string; aceita: boolean }
   | { t: 'digitando'; jogadorId: string; texto: string }
+  /** Mensagens novas de chat (ou o histórico, logo depois de entrar). */
+  | { t: 'chat'; mensagens: MensagemChat[] }
   | { t: 'erro'; codigo: string; mensagem: string };
 
 /** Mensagem crua de keep-alive respondida pelo runtime sem acordar a sala. */

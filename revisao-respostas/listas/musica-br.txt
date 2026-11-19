@@ -1,0 +1,174 @@
+== mbr-instrumentos
++ Tambor | | Drum | | c | https://pt.wikipedia.org/wiki/Tambor
+~ Viola caipira | Viola | https://pt.wikipedia.org/wiki/Viola_caipira
+~ Trompete | Trombeta | https://pt.wikipedia.org/wiki/Trompete
++ Ocarina | | | | r | https://pt.wikipedia.org/wiki/Ocarina
++ Apito | | Whistle | Silbato | r | https://pt.wikipedia.org/wiki/Apito
++ Sino | Sinos | Bell | Campana | r | https://pt.wikipedia.org/wiki/Sino
++ Pandeireta | | | | r | https://www.dicio.com.br/instrumentos-musicais/
++ Djembê | Jembê | Djembe | | r | https://pt.wikipedia.org/wiki/Jemb%C3%AA
++ Repinique | Repique | | | r | https://pt.wikipedia.org/wiki/Repinique
++ Tantã | Tantan | | | r | https://pt.wikipedia.org/wiki/Tant%C3%A3
++ Tom-tom | Tom | | | r | https://pt.wikipedia.org/wiki/Tom-tom
++ Caxixi | | | | r | https://pt.wikipedia.org/wiki/Caxixi
++ Afoxé | | | | r | https://pt.wikipedia.org/wiki/Afox%C3%A9_(instrumento)
++ Kazoo | Mirlitão | | | r | https://pt.wikipedia.org/wiki/Kazoo
++ Flauta de pã | Flauta de pan | Pan flute | Flauta de Pan | r | https://pt.wikipedia.org/wiki/Flauta_de_p%C3%A3
++ Pífano | Pífaro | Fife | | e | https://pt.wikipedia.org/wiki/P%C3%ADfano
++ Tarol | | | | e | https://pt.wikipedia.org/wiki/Tarol
++ Matraca | | | | e | https://pt.wikipedia.org/wiki/Matraca
++ Vibrafone | | Vibraphone | Vibráfono | e | https://pt.wikipedia.org/wiki/Vibrafone
++ Metalofone | | Metallophone | | e | https://pt.wikipedia.org/wiki/Metalofone
++ Glockenspiel | | Glockenspiel | | e | https://pt.wikipedia.org/wiki/Glockenspiel
++ Bandoneon | | Bandoneon | Bandoneón | e | https://pt.wikipedia.org/wiki/Bandoneon
++ Concertina | | Concertina | | e | https://pt.wikipedia.org/wiki/Concertina
++ Sousafone | | Sousaphone | | e | https://pt.wikipedia.org/wiki/Sousafone
++ Bombardino | Eufônio | Euphonium | Bombardino | e | https://pt.wikipedia.org/wiki/Euf%C3%B4nio
++ Clarim | | Bugle | | e | https://pt.wikipedia.org/wiki/Clarim
++ Charango | | | | e | https://pt.wikipedia.org/wiki/Charango
++ Carrilhão | | Carillon | Carillón | e | https://pt.wikipedia.org/wiki/Carrilh%C3%A3o
++ Darbuka | Darbuca;Derbak | Darbuka | Darbuka | e | https://pt.wikipedia.org/wiki/Darbuka
++ Taiko | | | | e | https://pt.wikipedia.org/wiki/Taiko
++ Guitarra baiana | | | | e | https://pt.wikipedia.org/wiki/Guitarra_baiana
++ Viola de cocho | | | | l | https://pt.wikipedia.org/wiki/Viola_de_cocho
++ Realejo | | Barrel organ | Organillo | e | https://pt.wikipedia.org/wiki/Realejo
++ Berimbau de boca | Berimbau de índio;Harpa de boca | Jaw harp | | l | https://pt.wikipedia.org/wiki/Berimbau_de_boca
++ Xequerê | Xekerê | Shekere | | l | https://pt.wikipedia.org/wiki/Xequer%C3%AA
++ Tabla | | Tabla | | l | https://pt.wikipedia.org/wiki/Tabla
++ Celesta | | Celesta | | l | https://pt.wikipedia.org/wiki/Celesta
++ Fliscorne | Flugelhorn | Flugelhorn | Fliscorno | l | https://pt.wikipedia.org/wiki/Fliscorne
++ Corne inglês | Corno inglês | English horn;Cor anglais | Corno inglés | l | https://pt.wikipedia.org/wiki/Corne_ingl%C3%AAs
++ Contrafagote | Baixão | Contrabassoon | Contrafagot | l | https://pt.wikipedia.org/wiki/Contrafagote
++ Clarone | Clarinete baixo | Bass clarinet | Clarinete bajo | l | https://pt.wikipedia.org/wiki/Clarinete_baixo
++ Requinta | | | | l | https://pt.wikipedia.org/wiki/Requinta
++ Quena | | | | l | https://pt.wikipedia.org/wiki/Quena
++ Clavicórdio | | Clavichord | Clavicordio | l | https://pt.wikipedia.org/wiki/Clavic%C3%B3rdio
++ Viola da gamba | | Viola da gamba | Viola da gamba | l | https://pt.wikipedia.org/wiki/Viola_da_gamba
++ Koto | | | | l | https://pt.wikipedia.org/wiki/Koto
++ Adufe | Pandeiro quadrado | | | l | https://pt.wikipedia.org/wiki/Adufe
+
+== mbr-generos-brasileiros
++ Jongo | Caxambu | | | i | https://pt.wikipedia.org/wiki/Jongo
++ Seresta | | | | i | https://pt.wikipedia.org/wiki/Seresta
++ Samba-canção | | | | r | https://pt.wikipedia.org/wiki/Samba-can%C3%A7%C3%A3o
++ Congada | Congado | | | r | https://pt.wikipedia.org/wiki/Congada
++ Marcha-rancho | | | | e | https://pt.wikipedia.org/wiki/Marcha-rancho
++ Lambadão | Lambadão cuiabano | | | e | https://pt.wikipedia.org/wiki/Lambad%C3%A3o_cuiabano
++ Tchê music | Chê music | | | e | https://pt.wikipedia.org/wiki/Tch%C3%AA_music
+~ Pagodão | Swingueira;Quebradeira | https://pt.wikipedia.org/wiki/Pagode_baiano
+~ Música caipira | Moda caipira | https://pt.wikipedia.org/wiki/Moda_de_viola
+
+== mbr-artistas-mpb
++ Rita Lee | | | | c | https://pt.wikipedia.org/wiki/Rita_Lee
++ Cazuza | | | | c | https://pt.wikipedia.org/wiki/Cazuza
++ Cássia Eller | | | | c | https://pt.wikipedia.org/wiki/C%C3%A1ssia_Eller
++ Roberto Carlos | | | | c | https://pt.wikipedia.org/wiki/Roberto_Carlos
++ Erasmo Carlos | | | | i | https://pt.wikipedia.org/wiki/Erasmo_Carlos
++ Elza Soares | | | | i | https://pt.wikipedia.org/wiki/Elza_Soares
++ Clara Nunes | | | | i | https://pt.wikipedia.org/wiki/Clara_Nunes
++ Paulinho da Viola | | | | i | https://pt.wikipedia.org/wiki/Paulinho_da_Viola
++ Jorge Vercillo | Jorge Vercilo | | | i | https://pt.wikipedia.org/wiki/Jorge_Vercillo
++ Zeca Baleiro | | | | i | https://pt.wikipedia.org/wiki/Zeca_Baleiro
++ Zizi Possi | | | | i | https://pt.wikipedia.org/wiki/Zizi_Possi
++ Emílio Santiago | | | | r | https://pt.wikipedia.org/wiki/Em%C3%ADlio_Santiago
++ Elizeth Cardoso | | | | r | https://pt.wikipedia.org/wiki/Elizeth_Cardoso
++ Dominguinhos | | | | r | https://pt.wikipedia.org/wiki/Dominguinhos
++ Hermeto Pascoal | | | | r | https://pt.wikipedia.org/wiki/Hermeto_Pascoal
++ Marina Lima | | | | r | https://pt.wikipedia.org/wiki/Marina_Lima
++ Paulinho Moska | Moska | | | r | https://pt.wikipedia.org/wiki/Paulinho_Moska
++ Ângela Ro Ro | | | | r | https://pt.wikipedia.org/wiki/Angela_Ro_Ro
++ Wilson Simonal | Simonal | | | r | https://pt.wikipedia.org/wiki/Wilson_Simonal
++ Renato Teixeira | | | | r | https://pt.wikipedia.org/wiki/Renato_Teixeira
++ Almir Sater | | | | r | https://pt.wikipedia.org/wiki/Almir_Sater
++ Ed Motta | | | | r | https://pt.wikipedia.org/wiki/Ed_Motta
++ Anavitória | | | | r | https://pt.wikipedia.org/wiki/Anavit%C3%B3ria
+
+== mbr-bandas-rock
++ Roupa Nova | | | | i | https://pt.wikipedia.org/wiki/Roupa_Nova
++ 14 Bis | Quatorze Bis | | | r | https://pt.wikipedia.org/wiki/14-bis
++ A Cor do Som | | | | r | https://pt.wikipedia.org/wiki/A_Cor_do_Som
++ Papas da Língua | | | | r | https://pt.wikipedia.org/wiki/Papas_da_L%C3%ADngua
++ Catedral | | | | r | https://pt.wikipedia.org/wiki/Catedral_(banda)
++ Metrô | | | | r | https://pt.wikipedia.org/wiki/Metr%C3%B4_(banda)
++ Heróis da Resistência | | | | e | https://pt.wikipedia.org/wiki/Her%C3%B3is_da_Resist%C3%AAncia
++ O Terço | | | | e | https://pt.wikipedia.org/wiki/O_Ter%C3%A7o
++ Made in Brazil | | | | e | https://pt.wikipedia.org/wiki/Made_in_Brazil_(banda)
++ Joelho de Porco | | | | e | https://pt.wikipedia.org/wiki/Joelho_de_Porco
++ Casa das Máquinas | | | | e | https://pt.wikipedia.org/wiki/Casa_das_M%C3%A1quinas
++ Os Replicantes | Replicantes | | | e | https://pt.wikipedia.org/wiki/Os_Replicantes
++ Comunidade Nin-Jitsu | | | | e | https://pt.wikipedia.org/wiki/Comunidade_Nin-Jitsu
++ Autoramas | | | | e | https://pt.wikipedia.org/wiki/Autoramas
++ Picassos Falsos | | | | l | https://pt.wikipedia.org/wiki/Picassos_Falsos
++ Gang 90 e as Absurdettes | Gang 90 | | | l | https://pt.wikipedia.org/wiki/Gang_90_e_as_Absurdettes
++ Violeta de Outono | | | | l | https://pt.wikipedia.org/wiki/Violeta_de_Outono
++ Hangar | | | | l | https://pt.wikipedia.org/wiki/Hangar_(banda)
++ Sarcófago | | | | l | https://pt.wikipedia.org/wiki/Sarc%C3%B3fago_(banda)
++ Torture Squad | | | | l | https://pt.wikipedia.org/wiki/Torture_Squad
++ Maglore | | | | e | https://pt.wikipedia.org/wiki/Maglore
++ O Terno | | | | e | https://pt.wikipedia.org/wiki/O_Terno
++ Boogarins | | | | l | https://pt.wikipedia.org/wiki/Boogarins
++ Selvagens à Procura de Lei | | | | l | https://pt.wikipedia.org/wiki/Selvagens_%C3%A0_Procura_de_Lei
++ Black Pantera | | | | l | https://pt.wikipedia.org/wiki/Black_Pantera
++ Ego Kill Talent | | | | l | https://pt.wikipedia.org/wiki/Ego_Kill_Talent
+
+== mbr-duplas-sertanejas
++ Hugo & Tiago | | | | r | https://pt.wikipedia.org/wiki/Hugo_%26_Tiago
++ Cleber & Cauan | | | | r | https://pt.wikipedia.org/wiki/Cleber_%26_Cauan
++ Mayck & Lyan | | | | r | https://pt.wikipedia.org/wiki/Mayck_%26_Lyan
++ Day & Lara | | | | r | https://pt.wikipedia.org/wiki/Day_%26_Lara
++ Bruninho & Davi | | | | r | https://pt.wikipedia.org/wiki/Bruninho_%26_Davi
++ João Carreiro & Capataz | | | | r | https://pt.wikipedia.org/wiki/Jo%C3%A3o_Carreiro_%26_Capataz
++ Duduca & Dalvan | | | | e | https://pt.wikipedia.org/wiki/Duduca_%26_Dalvan
++ Lourenço & Lourival | | | | e | https://pt.wikipedia.org/wiki/Louren%C3%A7o_%26_Lourival
++ Zé Mulato & Cassiano | | | | e | https://pt.wikipedia.org/wiki/Z%C3%A9_Mulato_%26_Cassiano
++ Belmonte & Amaraí | | | | e | https://pt.wikipedia.org/wiki/Belmonte_%26_Amara%C3%AD
++ Cezar & Paulinho | | | | e | https://pt.wikipedia.org/wiki/Cezar_%26_Paulinho
++ Craveiro & Cravinho | | | | l | https://pt.wikipedia.org/wiki/Craveiro_%26_Cravinho
++ Vieira & Vieirinha | | | | l | https://pt.wikipedia.org/wiki/Vieira_%26_Vieirinha
+
+== mbr-samba-pagode
++ Alexandre Pires | | | | i | https://pt.wikipedia.org/wiki/Alexandre_Pires
++ Grupo Raça | Raça | | | r | https://pt.wikipedia.org/wiki/Grupo_Ra%C3%A7a
++ Benito di Paula | | | | r | https://pt.wikipedia.org/wiki/Benito_di_Paula
++ Agepê | | | | r | https://pt.wikipedia.org/wiki/Agep%C3%AA
++ Neguinho da Beija-Flor | | | | r | https://pt.wikipedia.org/wiki/Neguinho_da_Beija-Flor
++ Rodriguinho | | | | r | https://pt.wikipedia.org/wiki/Rodriguinho
++ Netinho de Paula | | | | r | https://pt.wikipedia.org/wiki/Netinho_de_Paula
++ Chrigor | | | | r | https://pt.wikipedia.org/wiki/Chrigor
++ Os Morenos | | | | r | https://pt.wikipedia.org/wiki/Os_Morenos
++ Sensação | Grupo Sensação | | | e | https://pt.wikipedia.org/wiki/Sensa%C3%A7%C3%A3o_(banda)
++ Luiz Ayrão | | | | e | https://pt.wikipedia.org/wiki/Luiz_Ayr%C3%A3o
++ Leandro Sapucahy | | | | e | https://pt.wikipedia.org/wiki/Leandro_Sapucahy
++ Moreira da Silva | | | | e | https://pt.wikipedia.org/wiki/Moreira_da_Silva
++ Zé Kéti | | | | e | https://pt.wikipedia.org/wiki/Z%C3%A9_Keti
++ Clementina de Jesus | | | | e | https://pt.wikipedia.org/wiki/Clementina_de_Jesus
++ Nelson Sargento | | | | e | https://pt.wikipedia.org/wiki/Nelson_Sargento
++ Lupicínio Rodrigues | | | | e | https://pt.wikipedia.org/wiki/Lupic%C3%ADnio_Rodrigues
++ Velha Guarda da Portela | | | | e | https://pt.wikipedia.org/wiki/Velha_Guarda_da_Portela
++ Luiz Carlos da Vila | | | | l | https://pt.wikipedia.org/wiki/Luiz_Carlos_da_Vila
++ Geraldo Pereira | | | | l | https://pt.wikipedia.org/wiki/Geraldo_Pereira
++ Wilson Batista | | | | l | https://pt.wikipedia.org/wiki/Wilson_Batista
++ Ismael Silva | | | | l | https://pt.wikipedia.org/wiki/Ismael_Silva
++ Elton Medeiros | | | | l | https://pt.wikipedia.org/wiki/Elton_Medeiros
++ Sinhô | | | | l | https://pt.wikipedia.org/wiki/Sinh%C3%B4
++ Germano Mathias | | | | l | https://pt.wikipedia.org/wiki/Germano_Mathias
++ Paulo Vanzolini | | | | l | https://pt.wikipedia.org/wiki/Paulo_Vanzolini
++ Marquinhos de Oswaldo Cruz | Marquinhos de Osvaldo Cruz | | | l | https://pt.wikipedia.org/wiki/Marquinhos_de_Oswaldo_Cruz
++ Salgadinho | | | | e | https://pt.wikipedia.org/wiki/Salgadinho_(cantor)
+
+== mbr-funk
+~ Ludmilla | MC Ludmilla | https://pt.wikipedia.org/wiki/Ludmilla
+~ MC Poze do Rodo | MC Poze | https://pt.wikipedia.org/wiki/MC_Poze_do_Rodo
++ Nego do Borel | | | | i | https://pt.wikipedia.org/wiki/Nego_do_Borel
++ Rennan da Penha | DJ Rennan da Penha | | | r | https://pt.wikipedia.org/wiki/Rennan_da_Penha
++ Rebecca | MC Rebecca | | | r | https://pt.wikipedia.org/wiki/Rebecca_(cantora)
++ MC G15 | | | | r | https://pt.wikipedia.org/wiki/MC_G15
++ MC Bob Rum | | | | r | https://pt.wikipedia.org/wiki/MC_Bob_Rum
++ MC Koringa | | | | r | https://pt.wikipedia.org/wiki/MC_Koringa
++ MC Smith | | | | r | https://pt.wikipedia.org/wiki/MC_Smith
++ MC Lon | | | | r | https://pt.wikipedia.org/wiki/MC_Lon
++ Tati Zaqui | MC Tati Zaqui | | | r | https://pt.wikipedia.org/wiki/Tati_Zaqui
++ MC Duduzinho | | | | e | https://pt.wikipedia.org/wiki/MC_Duduzinho
++ MC Neguinho do Kaxeta | Neguinho do Kaxeta | | | e | https://pt.wikipedia.org/wiki/MC_Neguinho_do_Kaxeta
++ Bonde das Maravilhas | | | | e | https://pt.wikipedia.org/wiki/Bonde_das_Maravilhas
++ Os Avassaladores | | | | e | https://pt.wikipedia.org/wiki/Os_Avassaladores

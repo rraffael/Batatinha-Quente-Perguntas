@@ -1,9 +1,8 @@
 import { Avatar, BotaoSair, EspacoAnuncio } from '../componentes';
+import { Chat } from './Chat';
 import type { PropsTela } from './Lobby';
 
-export function Fim({ sala, eu, enviar, sair }: PropsTela) {
-  const souHost = sala.jogadores.some((j) => j.id === eu && j.host);
-  const host = sala.jogadores.find((j) => j.host);
+export function Fim({ sala, eu, enviar, sair, chat }: PropsTela) {
   const ranking = sala.jogadores
     .filter((j) => !j.espectador)
     .sort((a, b) => {
@@ -13,7 +12,7 @@ export function Fim({ sala, eu, enviar, sair }: PropsTela) {
       const eb = b.eliminadoNaRodada ?? Infinity;
       return eb - ea || b.pontos - a.pontos;
     });
-  const vencedor = ranking[0];
+  const vencedor = sala.vencedorId ? ranking[0] : undefined;
   const podio = [ranking[1], ranking[0], ranking[2]];
 
   return (
@@ -24,19 +23,35 @@ export function Fim({ sala, eu, enviar, sair }: PropsTela) {
       <p class="muted">
         {vencedor ? `${vencedor.apelido} saiu da roda sem nenhuma queimadura.` : 'Ninguém sobrou na roda!'}
       </p>
+      {vencedor && (
+        <div class="destaque-vencedor" aria-label={`Números de ${vencedor.apelido}`}>
+          <Avatar personagem={vencedor.personagem} tamanho="lg" />
+          <div class="numeros">
+            <div>
+              <strong>{vencedor.pontos}</strong>
+              <span>pontos</span>
+            </div>
+            <div>
+              <strong>{vencedor.acertos}</strong>
+              <span>{vencedor.acertos === 1 ? 'acerto' : 'acertos'}</span>
+            </div>
+            <div>
+              <strong>{vencedor.vidas}</strong>
+              <span>{vencedor.vidas === 1 ? 'vida sobrando' : 'vidas sobrando'}</span>
+            </div>
+            {vencedor.lendarias > 0 && (
+              <div>
+                <strong>{vencedor.lendarias}</strong>
+                <span>{vencedor.lendarias === 1 ? 'lendária' : 'lendárias'}</span>
+              </div>
+            )}
+          </div>
+        </div>
+      )}
       <div class="center-actions topo">
-        {souHost ? (
-          <>
-            <button class="btn btn-primary" onClick={() => enviar({ t: 'jogarDeNovo' })}>
-              Jogar de novo
-            </button>
-            <button class="btn btn-ghost" onClick={() => enviar({ t: 'novaPartida' })}>
-              Mudar configurações
-            </button>
-          </>
-        ) : (
-          <p class="muted">Esperando {host?.apelido ?? 'o anfitrião'} começar outra partida…</p>
-        )}
+        <button class="btn btn-primary" onClick={() => enviar({ t: 'novaPartida' })}>
+          Voltar para a sala
+        </button>
       </div>
       <div class="podium">
         {podio.map((j, i) =>
@@ -53,7 +68,7 @@ export function Fim({ sala, eu, enviar, sair }: PropsTela) {
       </div>
       <ol class="ranking">
         {ranking.map((j, i) => (
-          <li key={j.id}>
+          <li key={j.id} class={j.id === vencedor?.id ? 'vencedor' : ''}>
             <span class="pos">{i + 1}</span>
             <Avatar personagem={j.personagem} tamanho="sm" />
             {j.apelido}
@@ -65,6 +80,9 @@ export function Fim({ sala, eu, enviar, sair }: PropsTela) {
           </li>
         ))}
       </ol>
+      <div class="fim-chat">
+        <Chat mensagens={chat} eu={eu} enviar={enviar} />
+      </div>
       <div class="center-actions">
         <BotaoSair aoSair={sair} />
       </div>

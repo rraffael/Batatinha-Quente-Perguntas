@@ -1,13 +1,15 @@
 import { useEffect, useState } from 'preact/hooks';
-import type { Config, MsgCliente, SalaPublica, TemaInfo } from '../../shared/protocolo';
-import { MIN_JOGADORES, PONTOS_POR_VIDA, RITMOS, VIDAS_MAX, type Ritmo } from '../../shared/regras';
+import type { Config, MensagemChat, MsgCliente, SalaPublica, TemaInfo } from '../../shared/protocolo';
+import { MAX_SENHA, MIN_JOGADORES, PONTOS_POR_VIDA, RITMOS, VIDAS_MAX, type Ritmo } from '../../shared/regras';
 import { Avatar, BotaoSair, EspacoAnuncio } from '../componentes';
+import { Chat } from './Chat';
 
 export interface PropsTela {
   sala: SalaPublica;
   eu: string;
   enviar: (msg: MsgCliente) => void;
   sair: () => void;
+  chat: MensagemChat[];
 }
 
 let temasCache: TemaInfo[] | null = null;
@@ -27,12 +29,15 @@ function useTemas(): TemaInfo[] {
   return temas;
 }
 
-export function Lobby({ sala, eu, enviar, sair }: PropsTela) {
+export function Lobby({ sala, eu, enviar, sair, chat }: PropsTela) {
   const temas = useTemas();
   const [copiado, setCopiado] = useState(false);
+  const [senha, setSenha] = useState('');
   const souHost = sala.jogadores.some((j) => j.id === eu && j.host);
+  const me = sala.jogadores.find((j) => j.id === eu);
   const naRoda = sala.jogadores.filter((j) => !j.espectador);
   const conectados = naRoda.filter((j) => j.conectado).length;
+  const faltamProntos = naRoda.filter((j) => j.conectado && !j.host && !j.pronto);
   const link = `${location.origin}/#/sala/${sala.codigo}`;
   const cfg = sala.config;
   const mudar = (config: Partial<Config>) => enviar({ t: 'config', config });
@@ -88,7 +93,11 @@ export function Lobby({ sala, eu, enviar, sair }: PropsTela) {
                   {j.id === eu && <span class="muted"> (você)</span>}
                   {!j.conectado && <span class="muted"> · caiu</span>}
                 </span>
-                {j.host && <span class="host">ANFITRIÃO</span>}
+                {j.host ? (
+                  <span class="host">ANFITRIÃO</span>
+                ) : (
+                  <span class={`estado-pronto ${j.pronto ? 'sim' : ''}`}>{j.pronto ? '✔ Pronto' : 'Esperando…'}</span>
+                )}
                 {souHost && j.id !== eu && (
                   <button
                     class="btn-x"
@@ -103,10 +112,71 @@ export function Lobby({ sala, eu, enviar, sair }: PropsTela) {
             ))}
             {naRoda.length < cfg.maxJogadores && <li class="empty">Lugar vago na roda…</li>}
           </ul>
+          {!souHost && me && !me.espectador && (
+            <button
+              class={`btn largo ${me.pronto ? 'btn-ghost' : 'btn-primary'}`}
+              onClick={() => enviar({ t: 'pronto', pronto: !me.pronto })}
+            >
+              {me.pronto ? 'Não estou pronto' : 'Estou pronto!'}
+            </button>
+          )}
+          <Chat mensagens={chat} eu={eu} enviar={enviar} />
         </div>
 
         <div class="card settings">
           <h2>Configurações</h2>
+          <fieldset class="field" disabled={!souHost}>
+            <legend>Quem pode entrar</legend>
+            <div class="seg">
+              <label>
+                <input type="radio" name="publica" checked={cfg.publica} onChange={() => mudar({ publica: true })} />
+                Pública
+              </label>
+              <label>
+                <input type="radio" name="publica" checked={!cfg.publica} onChange={() => mudar({ publica: false })} />
+                Privada
+              </label>
+            </div>
+            <p class="muted pequeno">
+              {cfg.publica
+                ? 'Aparece na lista do início: qualquer pessoa pode entrar.'
+                : sala.temSenha
+                  ? 'Só entra quem tem o código e a senha.'
+                  : 'Só entra quem tem o código. Coloque uma senha se quiser.'}
+            </p>
+            {!cfg.publica && souHost && (
+              <form
+                class="join"
+                onSubmit={(e) => {
+                  e.preventDefault();
+                  enviar({ t: 'senha', senha: senha.trim() });
+                  setSenha('');
+                }}
+              >
+                <label class="sr" for="nova-senha">
+                  Senha da sala
+                </label>
+                <input
+                  id="nova-senha"
+                  class="input"
+                  type="password"
+                  maxLength={MAX_SENHA}
+                  placeholder={sala.temSenha ? 'Nova senha' : 'Senha (opcional)'}
+                  autoComplete="new-password"
+                  value={senha}
+                  onInput={(e) => setSenha(e.currentTarget.value)}
+                />
+                <button class="btn btn-secondary pequeno" disabled={!senha.trim()}>
+                  {sala.temSenha ? 'Trocar' : 'Pôr senha'}
+                </button>
+                {sala.temSenha && (
+                  <button type="button" class="btn btn-ghost pequeno" onClick={() => enviar({ t: 'senha', senha: '' })}>
+                    Tirar senha
+                  </button>
+                )}
+              </form>
+            )}
+          </fieldset>
           <fieldset class="field" disabled={!souHost}>
             <legend>Vidas iniciais</legend>
             <div class="seg">
@@ -164,13 +234,19 @@ export function Lobby({ sala, eu, enviar, sair }: PropsTela) {
           {souHost ? (
             <button
               class="btn btn-primary"
-              disabled={conectados < MIN_JOGADORES}
+              disabled={conectados < MIN_JOGADORES || faltamProntos.length > 0}
               onClick={() => enviar({ t: 'iniciar' })}
             >
-              {conectados < MIN_JOGADORES ? `Esperando mais ${MIN_JOGADORES - conectados}…` : 'Acender o pavio!'}
+              {conectados < MIN_JOGADORES
+                ? `Esperando mais ${MIN_JOGADORES - conectados}…`
+                : faltamProntos.length > 0
+                  ? `Esperando ${faltamProntos.length} ficar${faltamProntos.length > 1 ? 'em' : ''} pronto${faltamProntos.length > 1 ? 's' : ''}…`
+                  : 'Acender o pavio!'}
             </button>
           ) : (
-            <p class="muted">Esperando o anfitrião acender o pavio…</p>
+            <p class="muted">
+              {me?.pronto ? 'Esperando o anfitrião acender o pavio…' : 'Marque que está pronto para começar.'}
+            </p>
           )}
           <BotaoSair aoSair={sair} />
         </div>
@@ -181,7 +257,7 @@ export function Lobby({ sala, eu, enviar, sair }: PropsTela) {
           <li>Na sua vez, digite uma resposta para a pergunta e aperte Enter. Acertou, a batata passa.</li>
           <li>O pavio é secreto: ninguém sabe quando a batata vai estourar. Errar custa 1 segundo.</li>
           <li>Estourou na sua mão? Perde uma vida. Quem ficar por último vence.</li>
-          <li>Respostas raras dão pontos. A cada {PONTOS_POR_VIDA} pontos você ganha uma vida extra.</li>
+          <li>Toda resposta certa dá pontos, e as raras dão mais. A cada {PONTOS_POR_VIDA} pontos você ganha uma vida extra.</li>
         </ol>
       </div>
       <EspacoAnuncio />

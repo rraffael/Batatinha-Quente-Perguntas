@@ -12,7 +12,7 @@ export const ROTULO_RARIDADE: Record<Raridade, string> = {
 
 /** Pontos de vida extra por raridade no multiplayer (acumulam até PONTOS_POR_VIDA). */
 export const PONTOS_MULTI: Record<Raridade, number> = {
-  comum: 0,
+  comum: 5,
   incomum: 10,
   raro: 35,
   epico: 100,
@@ -58,6 +58,12 @@ export const INTERVALO_MS = 5_000;
 export const ANTES_DO_FIM_MS = 3_500;
 export const MAX_APELIDO = 16;
 export const MAX_RESPOSTA = 60;
+export const MAX_CHAT = 200;
+/** Mensagens de chat guardadas na sala (para quem entra depois). */
+export const HISTORICO_CHAT = 50;
+/** Intervalo mínimo entre mensagens de chat do mesmo jogador. */
+export const INTERVALO_CHAT_MS = 700;
+export const MAX_SENHA = 32;
 
 /** Distribuição alvo de raridade dentro de cada pergunta (por posição no ranking de uso). */
 export const DISTRIBUICAO_RARIDADE = [0.3, 0.3, 0.2, 0.12, 0.08] as const;

@@ -1,0 +1,199 @@
+== cor-ossos
++ Sesamoide | Osso sesamoide;Ossos sesamoides | Sesamoid bone | Hueso sesamoideo | e | https://pt.wikipedia.org/wiki/Osso_sesamoide
++ Ossos suturais | Ossos wormianos;Osso sutural | Wormian bones | Huesos wormianos | l | https://en.wikipedia.org/wiki/Wormian_bones
+~ Semilunar | Lunato;Osso semilunar | https://pt.wikipedia.org/wiki/Osso_semilunar
+~ Hamato | Unciforme;Osso hamato | https://pt.wikipedia.org/wiki/Osso_hamato
+~ Capitato | Grande osso;Osso capitato | https://pt.wikipedia.org/wiki/Osso_capitato
+~ Tálus | Talo | https://pt.wikipedia.org/wiki/T%C3%A1lus
+~ Piramidal | Triquetro;Osso piramidal | https://pt.wikipedia.org/wiki/Osso_piramidal
+~ Cuneiforme | Cuneiformes;Cuneiforme medial;Cuneiforme lateral;Cuneiforme intermédio | https://en.wikipedia.org/wiki/Cuneiform_bones
+~ Costela | Costelas;Costela flutuante | https://pt.wikipedia.org/wiki/Costela
+
+== cor-orgaos
++ Encéfalo | | Brain | Encéfalo | i | https://pt.wikipedia.org/wiki/Enc%C3%A9falo
++ Medula óssea | Tutano | Bone marrow | Médula ósea | r | https://pt.wikipedia.org/wiki/Medula_%C3%B3ssea
++ Linfonodo | Gânglio linfático;Íngua;Linfonodos | Lymph node | Ganglio linfático | e | https://pt.wikipedia.org/wiki/Linfonodo
++ Tuba uterina | Trompa de Falópio;Trompa uterina;Trompas | Fallopian tube | Trompa de Falopio | r | https://pt.wikipedia.org/wiki/Tuba_uterina
++ Epidídimo | | Epididymis | Epidídimo | e | https://pt.wikipedia.org/wiki/Epid%C3%ADdimo
++ Vesícula seminal | | Seminal vesicle | Vesícula seminal | e | https://pt.wikipedia.org/wiki/Ves%C3%ADcula_seminal
++ Clitóris | | Clitoris | Clítoris | e | https://pt.wikipedia.org/wiki/Clit%C3%B3ris
++ Glândula lacrimal | | Lacrimal gland | Glándula lagrimal | e | https://pt.wikipedia.org/wiki/Gl%C3%A2ndula_lacrimal
++ Glândula sudorípara | Glândulas sudoríparas | Sweat gland | Glándula sudorípara | e | https://pt.wikipedia.org/wiki/Gl%C3%A2ndula_sudor%C3%ADpara
++ Glândula sebácea | Glândulas sebáceas | Sebaceous gland | Glándula sebácea | e | https://pt.wikipedia.org/wiki/Gl%C3%A2ndula_seb%C3%A1cea
++ Tálamo | | Thalamus | Tálamo | e | https://pt.wikipedia.org/wiki/T%C3%A1lamo
++ Hipocampo | | Hippocampus | Hipocampo | e | https://en.wikipedia.org/wiki/Hippocampus
++ Bulbo | Medula oblonga;Bulbo raquidiano | Medulla oblongata | Bulbo raquídeo | e | https://pt.wikipedia.org/wiki/Bulbo_raquidiano
++ Cóclea | Caracol | Cochlea | Cóclea | e | https://pt.wikipedia.org/wiki/C%C3%B3clea
++ Jejuno | | Jejunum | Yeyuno | e | https://pt.wikipedia.org/wiki/Jejuno
++ Íleo | | Ileum | Íleon | e | https://pt.wikipedia.org/wiki/%C3%8Dleo
++ Ceco | | Cecum | Ciego | e | https://pt.wikipedia.org/wiki/Ceco
++ Ânus | | Anus | Ano | r | https://pt.wikipedia.org/wiki/%C3%82nus
++ Dente | Dentes | Tooth | Diente | r | https://pt.wikipedia.org/wiki/Dente
++ Gengiva | | Gum | Encía | e | https://pt.wikipedia.org/wiki/Gengiva
++ Boca | | Mouth | Boca | r | https://pt.wikipedia.org/wiki/Boca
++ Ducto deferente | Canal deferente | Vas deferens | Conducto deferente | l | https://pt.wikipedia.org/wiki/Ducto_deferente
+
+== cor-partes-externas
++ Pele | | Skin | Piel | i | https://pt.wikipedia.org/wiki/Pele
++ Hálux | Dedão do pé | Big toe | Dedo gordo | e | https://pt.wikipedia.org/wiki/H%C3%A1lux
++ Dedo mindinho | Mindinho;Dedo mínimo | Little finger | Meñique | r | https://pt.wikipedia.org/wiki/Dedo_m%C3%ADnimo
++ Dedo indicador | Indicador;Fura-bolo | Index finger | Índice | r | https://pt.wikipedia.org/wiki/Dedo_indicador
++ Dedo anelar | Anelar;Seu-vizinho | Ring finger | Anular | r | https://pt.wikipedia.org/wiki/Dedo_anelar
++ Dedo médio | Pai de todos | Middle finger | Dedo corazón | r | https://pt.wikipedia.org/wiki/Dedo_m%C3%A9dio
++ Pelo | Pelos | Hair | Vello | r | https://pt.wikipedia.org/wiki/Pelo
++ Tronco | | Torso;Trunk | Tronco | r | https://pt.wikipedia.org/wiki/Tronco_(anatomia)
++ Maçã do rosto | Maçãs do rosto | Cheekbone | Pómulo | e | https://pt.wikipedia.org/wiki/Osso_zigom%C3%A1tico
++ Costeleta | Costeletas;Suíças | Sideburns | Patillas | e | https://en.wikipedia.org/wiki/Sideburns
++ Buço | | Upper lip hair | Bozo | e | https://www.dicio.com.br/buco/
++ Cutícula | | Cuticle | Cutícula | e | https://en.wikipedia.org/wiki/Cuticle_(hair)
++ Dorso da mão | Costas da mão | Back of the hand | Dorso de la mano | e | https://en.wikipedia.org/wiki/Hand
++ Pênis | | Penis | Pene | r | https://pt.wikipedia.org/wiki/P%C3%AAnis
++ Vulva | | Vulva | Vulva | e | https://pt.wikipedia.org/wiki/Vulva
++ Ânus | | Anus | Ano | e | https://pt.wikipedia.org/wiki/%C3%82nus
+~ Testa | Fronte | https://pt.wikipedia.org/wiki/Testa
+~ Barriga | Ventre;Pança | https://pt.wikipedia.org/wiki/Abd%C3%B4men
+
+== cor-doencas
++ Obesidade | | Obesity | Obesidad | r | https://pt.wikipedia.org/wiki/Obesidade
++ Hipertireoidismo | | Hyperthyroidism | Hipertiroidismo | e | https://pt.wikipedia.org/wiki/Hipertireoidismo
++ Arritmia | Arritmia cardíaca | Arrhythmia | Arritmia | e | https://pt.wikipedia.org/wiki/Arritmia_card%C3%ADaca
++ Insuficiência cardíaca | | Heart failure | Insuficiencia cardíaca | e | https://pt.wikipedia.org/wiki/Insufici%C3%AAncia_card%C3%ADaca
++ Aterosclerose | | Atherosclerosis | Aterosclerosis | e | https://pt.wikipedia.org/wiki/Aterosclerose
++ Trombose | | Thrombosis | Trombosis | e | https://pt.wikipedia.org/wiki/Trombose
++ Embolia | Embolia pulmonar | Embolism | Embolia | e | https://pt.wikipedia.org/wiki/Embolia
++ Aneurisma | | Aneurysm | Aneurisma | e | https://pt.wikipedia.org/wiki/Aneurisma
++ Varizes | | Varicose veins | Várices | r | https://pt.wikipedia.org/wiki/Varizes
++ Hérnia | Hérnia de disco;Hérnia inguinal;Hérnia umbilical | Hernia | Hernia | r | https://pt.wikipedia.org/wiki/H%C3%A9rnia
++ Pancreatite | | Pancreatitis | Pancreatitis | e | https://pt.wikipedia.org/wiki/Pancreatite
++ Esteatose hepática | Gordura no fígado;Esteatose | Fatty liver | Hígado graso | e | https://pt.wikipedia.org/wiki/Esteatose_hep%C3%A1tica
++ Refluxo | Refluxo gastroesofágico;DRGE | GERD;Acid reflux | Reflujo gastroesofágico | r | https://pt.wikipedia.org/wiki/Doen%C3%A7a_do_refluxo_gastroesof%C3%A1gico
++ Gastroenterite | Virose | Gastroenteritis | Gastroenteritis | e | https://pt.wikipedia.org/wiki/Gastroenterite
++ Doença de Crohn | Crohn | Crohn's disease | Enfermedad de Crohn | e | https://pt.wikipedia.org/wiki/Doen%C3%A7a_de_Crohn
++ Colite | | Colitis | Colitis | e | https://pt.wikipedia.org/wiki/Colite
++ Diverticulite | | Diverticulitis | Diverticulitis | e | https://pt.wikipedia.org/wiki/Diverticulite
++ Síndrome do intestino irritável | Intestino irritável | Irritable bowel syndrome | Síndrome del intestino irritable | e | https://pt.wikipedia.org/wiki/S%C3%ADndrome_do_intestino_irrit%C3%A1vel
++ Infecção urinária | Cistite | Urinary tract infection | Infección urinaria | r | https://pt.wikipedia.org/wiki/Infec%C3%A7%C3%A3o_do_trato_urin%C3%A1rio
++ Insuficiência renal | Doença renal crônica | Kidney failure | Insuficiencia renal | e | https://pt.wikipedia.org/wiki/Insufici%C3%AAncia_renal
++ Enfisema | Enfisema pulmonar;DPOC | Emphysema;COPD | Enfisema | e | https://pt.wikipedia.org/wiki/Enfisema_pulmonar
++ Faringite | | Pharyngitis | Faringitis | e | https://pt.wikipedia.org/wiki/Faringite
++ Amigdalite | | Tonsillitis | Amigdalitis | r | https://pt.wikipedia.org/wiki/Amigdalite
++ Laringite | | Laryngitis | Laringitis | e | https://pt.wikipedia.org/wiki/Laringite
++ Candidíase | Sapinho;Candidíase oral | Candidiasis | Candidiasis | r | https://pt.wikipedia.org/wiki/Candid%C3%ADase
++ HPV | Papilomavírus humano;Condiloma | HPV | VPH | r | https://pt.wikipedia.org/wiki/Papilomav%C3%ADrus_humano
++ Clamídia | Clamidíase | Chlamydia | Clamidia | e | https://pt.wikipedia.org/wiki/Clam%C3%ADdia
++ Tricomoníase | | Trichomoniasis | Tricomoniasis | l | https://pt.wikipedia.org/wiki/Tricomon%C3%ADase
++ Febre tifoide | | Typhoid fever | Fiebre tifoidea | e | https://pt.wikipedia.org/wiki/Febre_tifoide
++ Botulismo | | Botulism | Botulismo | e | https://pt.wikipedia.org/wiki/Botulismo
++ Antraz | Carbúnculo | Anthrax | Ántrax | e | https://pt.wikipedia.org/wiki/Antraz
++ Febre Oropouche | Oropouche | Oropouche fever | Fiebre de Oropouche | e | https://en.wikipedia.org/wiki/Oropouche_fever
++ Rotavirose | Rotavírus | Rotavirus | Rotavirus | e | https://pt.wikipedia.org/wiki/Rotav%C3%ADrus
++ Herpes-zóster | Cobreiro;Zóster | Shingles | Herpes zóster | r | https://pt.wikipedia.org/wiki/Herpes-z%C3%B3ster
++ Impetigo | | Impetigo | Impétigo | e | https://pt.wikipedia.org/wiki/Impetigo
++ Erisipela | | Erysipelas | Erisipela | e | https://pt.wikipedia.org/wiki/Erisipela
++ Furúnculo | Furunculose | Boil | Forúnculo | e | https://pt.wikipedia.org/wiki/Fur%C3%BAnculo
++ Pediculose | Piolho | Head lice | Pediculosis | e | https://pt.wikipedia.org/wiki/Pediculose
++ Giardíase | Giárdia | Giardiasis | Giardiasis | e | https://pt.wikipedia.org/wiki/Giard%C3%ADase
++ Amebíase | | Amoebiasis | Amebiasis | e | https://pt.wikipedia.org/wiki/Ameb%C3%ADase
++ Teníase | Solitária | Taeniasis | Teniasis | e | https://pt.wikipedia.org/wiki/Ten%C3%ADase
++ Cisticercose | | Cysticercosis | Cisticercosis | e | https://pt.wikipedia.org/wiki/Cisticercose
++ Bicho-geográfico | Larva migrans | Cutaneous larva migrans | Larva migratoria | e | https://pt.wikipedia.org/wiki/Larva_migrans_cut%C3%A2nea
++ Frieira | Pé de atleta;Tinea pedis | Athlete's foot | Pie de atleta | r | https://pt.wikipedia.org/wiki/P%C3%A9_de_atleta
++ Pano branco | Pitiríase versicolor | Pityriasis versicolor | Pitiriasis versicolor | e | https://pt.wikipedia.org/wiki/Pitir%C3%ADase_versicolor
++ Doença de Lyme | Lyme | Lyme disease | Enfermedad de Lyme | e | https://pt.wikipedia.org/wiki/Doen%C3%A7a_de_Lyme
++ Febre reumática | | Rheumatic fever | Fiebre reumática | e | https://pt.wikipedia.org/wiki/Febre_reum%C3%A1tica
++ Doença de Creutzfeldt-Jakob | Doença da vaca louca;Vaca louca | Creutzfeldt–Jakob disease | Enfermedad de Creutzfeldt-Jakob | e | https://pt.wikipedia.org/wiki/Doen%C3%A7a_de_Creutzfeldt-Jakob
++ Mononucleose | Doença do beijo | Mononucleosis | Mononucleosis | e | https://pt.wikipedia.org/wiki/Mononucleose_infecciosa
++ Esquizofrenia | | Schizophrenia | Esquizofrenia | r | https://pt.wikipedia.org/wiki/Esquizofrenia
++ Transtorno bipolar | Bipolaridade | Bipolar disorder | Trastorno bipolar | r | https://pt.wikipedia.org/wiki/Transtorno_bipolar
++ Transtorno obsessivo-compulsivo | TOC | Obsessive–compulsive disorder | Trastorno obsesivo-compulsivo | e | https://pt.wikipedia.org/wiki/Transtorno_obsessivo-compulsivo
++ Síndrome do pânico | Transtorno do pânico | Panic disorder | Trastorno de pánico | e | https://pt.wikipedia.org/wiki/Transtorno_do_p%C3%A2nico
++ Demência | | Dementia | Demencia | e | https://pt.wikipedia.org/wiki/Dem%C3%AAncia
++ Distrofia muscular | | Muscular dystrophy | Distrofia muscular | e | https://pt.wikipedia.org/wiki/Distrofia_muscular
++ Doença de Huntington | Huntington | Huntington's disease | Enfermedad de Huntington | l | https://pt.wikipedia.org/wiki/Doen%C3%A7a_de_Huntington
++ Hidrocefalia | | Hydrocephalus | Hidrocefalia | e | https://pt.wikipedia.org/wiki/Hidrocefalia
++ Narcolepsia | | Narcolepsy | Narcolepsia | e | https://pt.wikipedia.org/wiki/Narcolepsia
++ Hemofilia | | Haemophilia | Hemofilia | r | https://pt.wikipedia.org/wiki/Hemofilia
++ Anemia falciforme | Doença falciforme | Sickle cell disease | Anemia falciforme | e | https://pt.wikipedia.org/wiki/Anemia_falciforme
++ Fibrose cística | Mucoviscidose | Cystic fibrosis | Fibrosis quística | e | https://pt.wikipedia.org/wiki/Fibrose_c%C3%ADstica
++ Talassemia | | Thalassemia | Talasemia | e | https://pt.wikipedia.org/wiki/Talassemia
++ Acne | Espinha | Acne | Acné | r | https://pt.wikipedia.org/wiki/Acne
++ Dermatite | Eczema | Dermatitis;Eczema | Dermatitis | e | https://pt.wikipedia.org/wiki/Dermatite
++ Rosácea | | Rosacea | Rosácea | e | https://pt.wikipedia.org/wiki/Ros%C3%A1cea
++ Urticária | | Hives | Urticaria | e | https://pt.wikipedia.org/wiki/Urtic%C3%A1ria
++ Melanoma | | Melanoma | Melanoma | e | https://pt.wikipedia.org/wiki/Melanoma
++ Linfoma | | Lymphoma | Linfoma | e | https://pt.wikipedia.org/wiki/Linfoma
++ Raquitismo | | Rickets | Raquitismo | e | https://pt.wikipedia.org/wiki/Raquitismo
++ Bócio | Papo | Goitre | Bocio | e | https://pt.wikipedia.org/wiki/B%C3%B3cio
++ Pelagra | | Pellagra | Pelagra | l | https://pt.wikipedia.org/wiki/Pelagra
++ Miopia | | Myopia | Miopía | r | https://pt.wikipedia.org/wiki/Miopia
++ Astigmatismo | | Astigmatism | Astigmatismo | r | https://pt.wikipedia.org/wiki/Astigmatismo
++ Hipermetropia | | Hyperopia | Hipermetropía | e | https://pt.wikipedia.org/wiki/Hipermetropia
++ Estrabismo | | Strabismus | Estrabismo | e | https://pt.wikipedia.org/wiki/Estrabismo
++ Terçol | Hordéolo | Stye | Orzuelo | e | https://pt.wikipedia.org/wiki/Hord%C3%A9olo
++ Escoliose | | Scoliosis | Escoliosis | r | https://pt.wikipedia.org/wiki/Escoliose
++ Tendinite | | Tendinitis | Tendinitis | r | https://pt.wikipedia.org/wiki/Tendinite
++ Bursite | | Bursitis | Bursitis | e | https://pt.wikipedia.org/wiki/Bursite
++ LER | Lesão por esforço repetitivo;DORT | Repetitive strain injury | Lesión por esfuerzo repetitivo | e | https://pt.wikipedia.org/wiki/Les%C3%A3o_por_esfor%C3%A7o_repetitivo
++ Endometriose | | Endometriosis | Endometriosis | r | https://pt.wikipedia.org/wiki/Endometriose
++ Mioma | Mioma uterino | Uterine fibroid | Mioma | e | https://en.wikipedia.org/wiki/Uterine_fibroid
++ Síndrome dos ovários policísticos | Ovário policístico;SOP | Polycystic ovary syndrome | Síndrome de ovario poliquístico | e | https://pt.wikipedia.org/wiki/S%C3%ADndrome_dos_ov%C3%A1rios_polic%C3%ADsticos
++ Pré-eclâmpsia | | Pre-eclampsia | Preeclampsia | e | https://pt.wikipedia.org/wiki/Pr%C3%A9-ecl%C3%A2mpsia
++ Sepse | Septicemia;Infecção generalizada | Sepsis | Sepsis | e | https://pt.wikipedia.org/wiki/Sepse
++ Gangrena | | Gangrene | Gangrena | e | https://pt.wikipedia.org/wiki/Gangrena
++ Tifo | Tifo epidêmico | Typhus | Tifus | e | https://pt.wikipedia.org/wiki/Tifo
++ Hantavirose | | Hantavirus | Hantavirus | l | https://pt.wikipedia.org/wiki/Hantav%C3%ADrus
++ Doença de Kawasaki | Kawasaki | Kawasaki disease | Enfermedad de Kawasaki | l | https://pt.wikipedia.org/wiki/Doen%C3%A7a_de_Kawasaki
++ Sarcoidose | | Sarcoidosis | Sarcoidosis | l | https://pt.wikipedia.org/wiki/Sarcoidose
++ Brucelose | | Brucellosis | Brucelosis | l | https://pt.wikipedia.org/wiki/Brucelose
+
+== cor-musculos
++ Peitoral menor | | Pectoralis minor | Pectoral menor | e | https://pt.wikipedia.org/wiki/M%C3%BAsculo_peitoral_menor
++ Redondo menor | | Teres minor | Redondo menor | l | https://pt.wikipedia.org/wiki/M%C3%BAsculo_redondo_menor
++ Glúteo mínimo | | Gluteus minimus | Glúteo menor | e | https://pt.wikipedia.org/wiki/M%C3%BAsculo_gl%C3%BAteo_m%C3%ADnimo
++ Quadrado lombar | | Quadratus lumborum | Cuadrado lumbar | e | https://pt.wikipedia.org/wiki/M%C3%BAsculo_quadrado_lombar
++ Tibial posterior | | Tibialis posterior | Tibial posterior | l | https://pt.wikipedia.org/wiki/M%C3%BAsculo_tibial_posterior
++ Poplíteo | | Popliteus | Poplíteo | l | https://pt.wikipedia.org/wiki/M%C3%BAsculo_popl%C3%ADteo
++ Plantar | | Plantaris | Plantar delgado | l | https://pt.wikipedia.org/wiki/M%C3%BAsculo_plantar
++ Palmar longo | | Palmaris longus | Palmar largo | l | https://pt.wikipedia.org/wiki/M%C3%BAsculo_palmar_longo
++ Pectíneo | | Pectineus | Pectíneo | l | https://pt.wikipedia.org/wiki/M%C3%BAsculo_pect%C3%ADneo
++ Pterigoideo | Pterigoideo lateral;Pterigoideo medial | Pterygoid | Pterigoideo | l | https://en.wikipedia.org/wiki/Lateral_pterygoid_muscle
++ Frontal | Occipitofrontal;Músculo frontal | Frontalis | Frontal | e | https://pt.wikipedia.org/wiki/M%C3%BAsculo_occipitofrontal
++ Prócero | | Procerus | Prócer | l | https://pt.wikipedia.org/wiki/M%C3%BAsculo_pr%C3%B3cero
++ Corrugador do supercílio | | Corrugator supercilii | Corrugador superciliar | l | https://pt.wikipedia.org/wiki/M%C3%BAsculo_corrugador_do_superc%C3%ADlio
++ Levantador da pálpebra superior | | Levator palpebrae superioris | Elevador del párpado superior | l | https://pt.wikipedia.org/wiki/M%C3%BAsculo_levantador_da_p%C3%A1lpebra_superior
++ Ancôneo | | Anconeus | Ancóneo | l | https://en.wikipedia.org/wiki/Anconeus_muscle
++ Subclávio | | Subclavius | Subclavio | l | https://pt.wikipedia.org/wiki/M%C3%BAsculo_subcl%C3%A1vio
++ Esplênio | Esplênio da cabeça | Splenius | Esplenio | l | https://pt.wikipedia.org/wiki/M%C3%BAsculo_espl%C3%AAnio_da_cabe%C3%A7a
++ Digástrico | | Digastric | Digástrico | l | https://pt.wikipedia.org/wiki/M%C3%BAsculo_dig%C3%A1strico
++ Milo-hioideo | | Mylohyoid | Milohioideo | l | https://pt.wikipedia.org/wiki/M%C3%BAsculo_milo-hioideo
++ Cremaster | | Cremaster | Cremáster | l | https://pt.wikipedia.org/wiki/M%C3%BAsculo_cremaster
++ Detrusor | | Detrusor | Detrusor | l | https://pt.wikipedia.org/wiki/M%C3%BAsculo_detrusor
++ Interósseos | | Interossei | Interóseos | l | https://en.wikipedia.org/wiki/Dorsal_interossei_of_the_hand
++ Lumbricais | | Lumbricals | Lumbricales | l | https://en.wikipedia.org/wiki/Lumbricals_of_the_hand
++ Mentual | Mentoniano | Mentalis | Mentoniano | l | https://pt.wikipedia.org/wiki/M%C3%BAsculo_mentual
++ Depressor do ângulo da boca | | Depressor anguli oris | Depresor del ángulo de la boca | l | https://en.wikipedia.org/wiki/Depressor_anguli_oris_muscle
++ Extensor dos dedos | | Extensor digitorum | Extensor de los dedos | l | https://pt.wikipedia.org/wiki/M%C3%BAsculo_extensor_dos_dedos
++ Flexor superficial dos dedos | Flexor dos dedos | Flexor digitorum superficialis | Flexor superficial de los dedos | l | https://pt.wikipedia.org/wiki/M%C3%BAsculo_flexor_superficial_dos_dedos
++ Adutor longo | | Adductor longus | Aductor largo | l | https://pt.wikipedia.org/wiki/M%C3%BAsculo_adutor_longo
++ Tríceps sural | | Triceps surae | Tríceps sural | l | https://pt.wikipedia.org/wiki/M%C3%BAsculo_tr%C3%ADceps_sural
+~ Oblíquo | Oblíquo interno | https://en.wikipedia.org/wiki/Abdominal_internal_oblique_muscle
+~ Miocárdio | Músculo cardíaco | https://pt.wikipedia.org/wiki/M%C3%BAsculo_card%C3%ADaco
+
+== cor-especialidades-medicas
+~ Ortopedia | Traumatologia;Traumatologista | https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2026/2472_2026.pdf
+~ Oncologia | Cancerologia;Cancerologista | https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2026/2472_2026.pdf
+~ Genética médica | Geneticista | https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2026/2472_2026.pdf
+~ Homeopatia | Homeopata | https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2026/2472_2026.pdf
+~ Acupuntura | Acupunturista | https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2026/2472_2026.pdf
+~ Medicina do trabalho | Médico do trabalho | https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2026/2472_2026.pdf
+~ Medicina esportiva | Médico do esporte | https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2026/2472_2026.pdf
+~ Radioterapia | Radioterapeuta | https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2026/2472_2026.pdf
+~ Endoscopia | Endoscopista | https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2026/2472_2026.pdf
+~ Cirurgia pediátrica | Cirurgião pediátrico | https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2026/2472_2026.pdf
+~ Cirurgia torácica | Cirurgião torácico | https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2026/2472_2026.pdf
+~ Cirurgia oncológica | Cirurgião oncológico | https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2026/2472_2026.pdf
+~ Cirurgia de cabeça e pescoço | Cirurgião de cabeça e pescoço | https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2026/2472_2026.pdf
+~ Cirurgia da mão | Cirurgião da mão | https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2026/2472_2026.pdf
+~ Cirurgia do aparelho digestivo | Cirurgião do aparelho digestivo;Cirurgia digestiva | https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2026/2472_2026.pdf
+~ Medicina preventiva e social | Sanitarista;Medicina preventiva | https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2026/2472_2026.pdf
+~ Medicina nuclear | Médico nuclear | https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2026/2472_2026.pdf

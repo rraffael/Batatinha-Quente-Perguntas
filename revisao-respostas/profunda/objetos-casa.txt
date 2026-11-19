@@ -1,0 +1,186 @@
+== obj-utensilios-cozinha
++ Taça | Taça de vinho | Wine glass;Goblet | Copa | i | https://pt.wikipedia.org/wiki/Ta%C3%A7a
++ Caneca | | Mug | Taza | c | https://pt.wikipedia.org/wiki/Caneca
++ Pires | | Saucer | Platillo | i | https://pt.wikipedia.org/wiki/Pires
++ Colher de pau | | Wooden spoon | Cuchara de palo | i | https://pt.wikipedia.org/wiki/Colher
++ Refratário | Pirex;Travessa refratária | Ovenproof dish | Fuente refractaria | i | https://pt.wiktionary.org/wiki/refrat%C3%A1rio
++ Grelha | | Grill;Grate | Parrilla | r | https://pt.wikipedia.org/wiki/Grelha
++ Espeto | Espeto de churrasco | Skewer | Brocheta | r | https://pt.wikipedia.org/wiki/Espeto
++ Hashi | Pauzinhos;Palitinhos;Hashis | Chopsticks | Palillos | r | https://pt.wikipedia.org/wiki/Hashi
++ Canudo | | Straw | Pajita | r | https://pt.wikipedia.org/wiki/Canudo
++ Afiador de facas | Amolador;Chaira | Knife sharpener | Afilador | e | https://pt.wikipedia.org/wiki/Afiador_de_facas
++ Espremedor de batatas | Amassador de batatas | Potato masher | Pisapapas | e | https://pt.wikipedia.org/wiki/Espremedor_de_batatas
++ Coqueteleira | | Cocktail shaker | Coctelera | e | https://en.wikipedia.org/wiki/Cocktail_shaker
++ Alguidar | | | Lebrillo | l | https://pt.wikipedia.org/wiki/Alguidar
++ Terrina | Sopeira | Tureen | Sopera | e | https://pt.wikipedia.org/wiki/Terrina
++ Rechaud | | Chafing dish | | e | https://pt.wikipedia.org/wiki/Rechaud
++ Ramekin | Ramequim | Ramekin | | l | https://pt.wikipedia.org/wiki/Ramekin
++ Mezzaluna | | Mezzaluna | | l | https://pt.wikipedia.org/wiki/Mezzaluna
++ Pousa-colheres | Descanso de colher | Spoon rest | | l | https://pt.wikipedia.org/wiki/Pousa-colheres
++ Picador de gelo | | Ice pick | Picahielo | l | https://pt.wikipedia.org/wiki/Picador_de_gelo
++ Trempe | | Trivet | Trébede | l | https://pt.wikipedia.org/wiki/Trempe
++ Fogareiro | | Portable stove | Hornillo | e | https://pt.wikipedia.org/wiki/Fogareiro
++ Cuia | Cuia de chimarrão | Gourd | Mate | r | https://pt.wikipedia.org/wiki/Cuia
++ Abridor de garrafas | Abridor de cerveja;Abridor de garrafa | Bottle opener | Abrebotellas | i | https://en.wikipedia.org/wiki/Bottle_opener
++ Tacho | | | | r | https://pt.wiktionary.org/wiki/tacho
++ Caldeirão | | Cauldron | Caldero | r | https://pt.wiktionary.org/wiki/caldeir%C3%A3o
++ Cafeteira italiana | Moka | Moka pot | Cafetera italiana | e | https://en.wikipedia.org/wiki/Moka_pot
++ Prensa francesa | French press | French press | Prensa francesa | e | https://en.wikipedia.org/wiki/French_press
++ Faqueiro | | Cutlery set | | e | https://www.dicio.com.br/faqueiro/
++ Manteigueira | | Butter dish | Mantequera | e | https://pt.wiktionary.org/wiki/manteigueira
++ Molheira | | Gravy boat | Salsera | l | https://pt.wiktionary.org/wiki/molheira
++ Saladeira | | Salad bowl | Ensaladera | e | https://pt.wiktionary.org/wiki/saladeira
++ Galheteiro | | Cruet stand | Vinagrera | l | https://pt.wiktionary.org/wiki/galheteiro
++ Bico de confeitar | Saco de confeitar | Piping bag | Manga pastelera | e | https://en.wikipedia.org/wiki/Pastry_bag
+~ Pote | Tupperware;Vasilha;Vasilhame | https://pt.wikipedia.org/wiki/Tupperware
+~ Moedor | Moedor de café | https://pt.wikipedia.org/wiki/Moedor_de_caf%C3%A9
+~ Cuscuzeira | Cuscuzeiro | https://pt.wikipedia.org/wiki/Cuscuzeiro
+~ Rolo de massa | Rolo da massa;Rolo de macarrão | https://pt.wikipedia.org/wiki/Rolo_da_massa
+~ Luva térmica | Luva de cozinha | https://pt.wikipedia.org/wiki/Luva_de_cozinha
+~ Coador de café | Passador;Coador de pano | https://pt.wikipedia.org/wiki/Passador
+
+== obj-moveis
++ Canapé | | Settee | Canapé | e | https://pt.wikipedia.org/wiki/Canap%C3%A9
++ Carteira escolar | Carteira | School desk | Pupitre | r | https://pt.wikipedia.org/wiki/Carteira_escolar
++ Guarda-louça | | China cabinet;Dresser | Alacena | r | https://michaelis.uol.com.br/moderno-portugues/busca/portugues-brasileiro/guarda-lou%C3%A7a/
++ Mesa de canto | Mesa lateral | Side table;End table | Mesa auxiliar | r | https://pt.wikipedia.org/wiki/Mesa
++ Oratório | | | Oratorio | l | https://pt.wiktionary.org/wiki/orat%C3%B3rio
++ Estrado | | Bed frame;Platform | Somier | e | https://pt.wikipedia.org/wiki/Estrado
++ Escabelo | | Footstool | Escabel | l | https://pt.wikipedia.org/wiki/Escabelo
++ Gueridom | Guéridon | Gueridon | Velador | l | https://pt.wikipedia.org/wiki/Gueridom
++ Valete de roupas | Galã de noite | Valet stand | Galán de noche | l | https://pt.wikipedia.org/wiki/Valete_de_roupas
++ Bergère | Poltrona bergère | Bergère | | l | https://en.wikipedia.org/wiki/Berg%C3%A8re
++ Gabinete de banheiro | Gabinete | Vanity cabinet | Mueble de baño | r | https://pt.wiktionary.org/wiki/gabinete
++ Paneleiro | | | | e | https://pt.wiktionary.org/wiki/paneleiro
++ Revisteiro | Porta-revistas | Magazine rack | Revistero | e | https://www.dicio.com.br/revisteiro/
++ Cadeirão | Cadeira de alimentação | High chair | Trona | e | https://en.wikipedia.org/wiki/High_chair
++ Trocador | Cômoda trocador | Changing table | Cambiador | l | https://en.wikipedia.org/wiki/Changing_table
+~ Puff | Otomana | https://pt.wikipedia.org/wiki/Otomana_(mob%C3%ADlia)
+~ Baú | Arca | https://pt.wikipedia.org/wiki/Ba%C3%BA
+~ Banquinho | Tamborete;Mocho | https://pt.wiktionary.org/wiki/tamborete
+~ Cabideiro | Mancebo | https://pt.wiktionary.org/wiki/mancebo
+~ Escrivaninha | Secretária | https://pt.wiktionary.org/wiki/secret%C3%A1ria
+~ Rede | Rede de dormir;Rede de descanso | https://pt.wikipedia.org/wiki/Rede_de_dormir
+~ Penteadeira | Toucador | https://pt.wiktionary.org/wiki/toucador
+
+== obj-eletrodomesticos
++ Máquina de costura | | Sewing machine | Máquina de coser | i | https://pt.wikipedia.org/wiki/M%C3%A1quina_de_costura
++ Enceradeira | | Floor polisher | Enceradora | r | https://pt.wiktionary.org/wiki/enceradeira
++ Lava e seca | Lava-seca | Washer-dryer | Lavasecadora | r | https://pt.wikipedia.org/wiki/Lava_e_seca
++ Cafeteira de cápsula | Máquina de cápsula;Nespresso;Dolce Gusto | Capsule coffee machine | Cafetera de cápsulas | r | https://pt.wikipedia.org/wiki/Categoria:M%C3%A1quinas_de_caf%C3%A9
++ Máquina de waffles | Waffle | Waffle iron | Gofrera | l | https://pt.wikipedia.org/wiki/M%C3%A1quina_de_waffles
++ Máquina de gelo | | Ice maker | Máquina de hielo | l | https://pt.wikipedia.org/wiki/M%C3%A1quina_de_gelo
++ Lavadora de alta pressão | Lava-jato;Wap | Pressure washer | Hidrolimpiadora | r | https://pt.wikipedia.org/wiki/Lavadora_de_alta_press%C3%A3o
++ Faca elétrica | | Electric knife | Cuchillo eléctrico | l | https://pt.wikipedia.org/wiki/Faca_el%C3%A9trica
++ Lençol térmico | Cobertor elétrico | Electric blanket | Manta eléctrica | l | https://pt.wikipedia.org/wiki/Len%C3%A7ol_t%C3%A9rmico
++ Raquete elétrica | Raquete mata-mosquito | Bug zapper racket | Raqueta matamoscas | e | https://pt.wikipedia.org/wiki/Raquete_el%C3%A9trica
++ Fogão de indução | Fogão por indução;Cooktop de indução | Induction cooker | Cocina de inducción | r | https://pt.wikipedia.org/wiki/Fog%C3%A3o_por_indu%C3%A7%C3%A3o
++ Projetor | Data show | Projector | Proyector | r | https://pt.wikipedia.org/wiki/Projetor
++ Tablet | | Tablet | Tableta | i | https://pt.wikipedia.org/wiki/Tablet
++ Home theater | | Home theater | Cine en casa | r | https://pt.wikipedia.org/wiki/Home_theater
++ Vitrola | Toca-discos | Record player;Turntable | Tocadiscos | e | https://pt.wikipedia.org/wiki/Toca-discos
++ Interfone | | Intercom | Interfono | e | https://pt.wikipedia.org/wiki/Interfone
++ Depilador elétrico | Depiladora | Epilator | Depiladora | e | https://en.wikipedia.org/wiki/Epilator
++ Balança digital | Balança de banheiro | Bathroom scale | Báscula de baño | e | https://pt.wikipedia.org/wiki/Balan%C3%A7a
++ Panela de pressão elétrica | | Electric pressure cooker | Olla a presión eléctrica | e | https://en.wikipedia.org/wiki/Instant_Pot
++ Sorveteira | Máquina de sorvete | Ice cream maker | Heladera | l | https://en.wikipedia.org/wiki/Ice_cream_maker
+~ Televisão | Smart TV;Televisor portátil | https://pt.wikipedia.org/wiki/Televisor
+~ Air fryer | Fritadeira de ar | https://pt.wikipedia.org/wiki/Fritadeira_de_ar
+~ Purificador de água | Dispensador de água | https://pt.wikipedia.org/wiki/Dispensador_de_%C3%A1gua
+~ Mixer | Varinha mágica | https://pt.wikipedia.org/wiki/Varinha_m%C3%A1gica_(eletrodom%C3%A9stico)
+~ Processador de alimentos | Multiprocessador | https://pt.wikipedia.org/wiki/Processador_de_alimentos
+
+== obj-ferramentas
++ Martelete | Martelete rompedor;Martelete perfurador;Martelete pneumático | Rotary hammer | Martillo percutor | i | https://www.lojadomecanico.com.br/blog/tipos-de-martelete/
++ Britadeira | Martelo demolidor;Martelo rompedor | Jackhammer | Martillo neumático | r | https://pt.wikipedia.org/wiki/Britadeira
++ Chave combinada | Chave estrela-boca | Combination wrench | Llave combinada | r | https://www.quintoandar.com.br/guias/?p=476019
++ Chave catraca | Catraca | Ratchet | Llave de carraca | r | https://www.quintoandar.com.br/guias/?p=476019
++ Chave de teste | Caneta de teste | Voltage tester | Destornillador buscapolos | r | https://www.quintoandar.com.br/guias/?p=476019
++ Chave de impacto | Parafusadeira de impacto | Impact wrench | Llave de impacto | e | https://pt.wikipedia.org/wiki/Chave_de_impacto
++ Torquímetro | | Torque wrench | Llave dinamométrica | e | https://pt.wikipedia.org/wiki/Torqu%C3%ADmetro
++ Chave Torx | Torx | Torx screwdriver | | l | https://pt.wikipedia.org/wiki/Torx
++ Cinzel | | Chisel | Cincel | r | https://pt.wikipedia.org/wiki/Cinzel
++ Goiva | | Gouge | Gubia | l | https://pt.wikipedia.org/wiki/Goiva
++ Maço | Martelo de borracha;Macete | Mallet | Mazo de goma | r | https://pt.wikipedia.org/wiki/Ma%C3%A7o
++ Alavanca | | Lever | Palanca | r | https://pt.wikipedia.org/wiki/Alavanca
++ Sovela | | Awl | Lezna | l | https://pt.wikipedia.org/wiki/Sovela
++ Trado | Verruma | Auger | Barrena | l | https://pt.wikipedia.org/wiki/Trado
++ Tupia | | Router | Fresadora | e | https://pt.wikipedia.org/wiki/Tupia
++ Retífica | Micro retífica | Rotary tool | Minitorno | e | https://pt.wikipedia.org/wiki/Ret%C3%ADfica
++ Maçarico | | Blowtorch | Soplete | r | https://pt.wikipedia.org/wiki/Ma%C3%A7arico_(ferramenta)
++ Pedra de amolar | Rebolo | Whetstone | Piedra de afilar | e | https://pt.wikipedia.org/wiki/Pedra_de_amolar
++ Soprador de folhas | Soprador | Leaf blower | Soplador | e | https://pt.wikipedia.org/wiki/Soprador_de_folhas
++ Lavadora de alta pressão | Lava-jato | Pressure washer | Hidrolimpiadora | e | https://pt.wikipedia.org/wiki/Lavadora_de_alta_press%C3%A3o
++ Desentupidor | | Plunger | Desatascador | r | https://pt.wikipedia.org/wiki/Desentupidor
++ Broca | | Drill bit | Broca | r | https://pt.wikipedia.org/wiki/Fresa
++ Alvião | | Mattock | Zapapico | l | https://pt.wikipedia.org/wiki/Alvi%C3%A3o
++ Almocafre | Sacho | Hand hoe | Almocafre | l | https://pt.wikipedia.org/wiki/Almocafre
++ Graminho | | Marking gauge | Gramil | l | https://pt.wikipedia.org/wiki/Graminho
++ Compactador | Sapo compactador | Compactor | Compactadora | l | https://pt.wikipedia.org/wiki/Compactador
++ Micrômetro | | Micrometer | Micrómetro | e | https://pt.wikipedia.org/wiki/Micr%C3%B3metro_(instrumento)
++ Escova de aço | | Wire brush | Cepillo de alambre | e | https://pt.wikipedia.org/wiki/Escova
+~ Alicate | Alicate universal;Alicate de pressão;Alicate de corte;Alicate de bico | https://pt.wikipedia.org/wiki/Categoria:Alicates
+~ Torquês | Tenaz | https://pt.wikipedia.org/wiki/Tenaz
+~ Esmerilhadeira | Rebarbadora;Esmeriladora | https://pt.wikipedia.org/wiki/Rebarbadora
+~ Grampeador | Agrafador | https://pt.wikipedia.org/wiki/Agrafador
+~ Chave de grifo | Grifo | https://pt.wikipedia.org/wiki/Grifo_(ferramenta)
+~ Torno | Morsa | https://pt.wikipedia.org/wiki/Torno_(ferramenta)
+~ Arco de serra | Serra para metais | https://pt.wikipedia.org/wiki/Serra_para_metais
+
+== obj-comodos
++ Sala de jogos | | Game room | Sala de juegos | r | https://en.wikipedia.org/wiki/Game_room
++ Oficina | | Workshop | Taller | e | https://pt.wiktionary.org/wiki/oficina
++ Deck | | Deck | Terraza de madera | e | https://en.wikipedia.org/wiki/Deck_(building)
++ Área de lazer | | Recreation area | Zona de ocio | r | https://pt.wiktionary.org/wiki/lazer
++ Gazebo | Caramanchão | Gazebo | Cenador | l | https://pt.wikipedia.org/wiki/Gazebo
++ Pergolado | Pérgola | Pergola | Pérgola | l | https://pt.wikipedia.org/wiki/P%C3%A9rgula
++ Galinheiro | | Chicken coop | Gallinero | l | https://pt.wiktionary.org/wiki/galinheiro
++ Antessala | | Anteroom | Antesala | l | https://pt.wiktionary.org/wiki/antessala
+~ Sótão | Ático;Mansarda | https://pt.wikipedia.org/wiki/S%C3%B3t%C3%A3o
+~ Porão | Cave;Subsolo | https://pt.wikipedia.org/wiki/Por%C3%A3o
+~ Banheiro | WC;Toalete;Casa de banho | https://pt.wikipedia.org/wiki/Casa_de_banho
+~ Sala | Living;Sala de visitas | https://pt.wikipedia.org/wiki/Sala_de_estar
+
+== obj-material-escolar
++ Apostila | | Handout;Workbook | Cuadernillo | i | https://pt.wiktionary.org/wiki/apostila
++ Fita crepe | | Masking tape | Cinta de carrocero | r | https://en.wikipedia.org/wiki/Masking_tape
++ Papel contact | Contact | Contact paper | Papel adhesivo | e | https://pt.wiktionary.org/wiki/contact
++ Papel vegetal | | Tracing paper | Papel vegetal | e | https://pt.wikipedia.org/wiki/Papel_vegetal
++ Aquarela | Tinta aquarela | Watercolor | Acuarela | e | https://pt.wikipedia.org/wiki/Aquarela
++ Nanquim | Tinta nanquim;Caneta nanquim | India ink | Tinta china | e | https://pt.wikipedia.org/wiki/Nanquim
++ Purpurina | Glitter | Glitter | Purpurina | e | https://pt.wikipedia.org/wiki/Purpurina
++ Envelope | | Envelope | Sobre | l | https://pt.wikipedia.org/wiki/Envelope
++ Caderno de caligrafia | | Handwriting notebook | Cuaderno de caligrafía | l | https://pt.wikipedia.org/wiki/Caligrafia
+~ Lápis | Lápis preto;Lápis grafite | https://pt.wikipedia.org/wiki/L%C3%A1pis
+~ Lancheira | Merendeira | https://pt.wiktionary.org/wiki/merendeira
+~ Livro | Livro didático | https://pt.wikipedia.org/wiki/Livro_did%C3%A1tico
+~ Cola | Cola branca | https://pt.wikipedia.org/wiki/Cola
+
+== obj-higiene-banheiro
++ Vaso sanitário | Privada;Bacia sanitária;Vaso | Toilet | Inodoro;Váter | c | https://pt.wikipedia.org/wiki/Vaso_sanit%C3%A1rio
++ Chuveiro | Ducha | Shower | Ducha | c | https://pt.wikipedia.org/wiki/Chuveiro
++ Pia | Lavatório;Cuba | Sink;Washbasin | Lavabo | i | https://pt.wikipedia.org/wiki/Lavat%C3%B3rio
++ Banheira | | Bathtub | Bañera | i | https://pt.wikipedia.org/wiki/Banheira
++ Torneira | | Faucet;Tap | Grifo | i | https://pt.wikipedia.org/wiki/Torneira
++ Box | Box de banheiro | Shower enclosure | Mampara | r | https://pt.wiktionary.org/wiki/box
++ Bidê | | Bidet | Bidé | r | https://pt.wikipedia.org/wiki/Bid%C3%AA
++ Ducha higiênica | Chuveirinho | Bidet shower | | r | https://en.wikipedia.org/wiki/Bidet_shower
++ Toalheiro | Porta-toalha | Towel rack | Toallero | e | https://www.dicio.com.br/toalheiro/
++ Desentupidor | | Plunger | Desatascador | e | https://pt.wikipedia.org/wiki/Desentupidor
++ Álcool em gel | Álcool gel | Hand sanitizer | Gel hidroalcohólico | i | https://en.wikipedia.org/wiki/Hand_sanitizer
++ Cera depilatória | | Depilatory wax | Cera depilatoria | r | https://pt.wikipedia.org/wiki/Depila%C3%A7%C3%A3o
++ Navalha | | Straight razor | Navaja | r | https://pt.wikipedia.org/wiki/Navalha_(instrumento_cortante)
++ Pincel de barba | | Shaving brush | Brocha de afeitar | e | https://en.wikipedia.org/wiki/Shaving_brush
++ Protetor labial | Manteiga de cacau | Lip balm | Bálsamo labial | r | https://en.wikipedia.org/wiki/Lip_balm
++ Repelente | | Insect repellent | Repelente | e | https://pt.wikipedia.org/wiki/Repelente_de_insetos
++ Tintura de cabelo | Tinta de cabelo | Hair dye | Tinte | e | https://en.wikipedia.org/wiki/Hair_coloring
++ Delineador | Lápis de olho | Eyeliner | Delineador | e | https://en.wikipedia.org/wiki/Eye_liner
++ Blush | | Blush | Colorete | e | https://en.wikipedia.org/wiki/Rouge_(cosmetics)
++ Pó compacto | Pó facial | Face powder | Polvo compacto | e | https://en.wikipedia.org/wiki/Face_powder
++ Água micelar | | Micellar water | Agua micelar | l | https://en.wikipedia.org/wiki/Micellar_water
++ Protetor diário | | Panty liner | Salvaslip | e | https://en.wikipedia.org/wiki/Panty_liner
++ Grampo de cabelo | | Bobby pin | Horquilla | e | https://en.wikipedia.org/wiki/Bobby_pin
++ Irrigador oral | | Oral irrigator | Irrigador bucal | l | https://en.wikipedia.org/wiki/Oral_irrigator
+~ Tampão | Absorvente interno | https://pt.wikipedia.org/wiki/Tamp%C3%A3o
+~ Perfume | Colônia;Água de colônia | https://pt.wikipedia.org/wiki/%C3%81gua-de-col%C3%B4nia
+~ Bucha | Esponja de banho | https://pt.wikipedia.org/wiki/Esponja_(objeto)

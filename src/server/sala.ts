@@ -1,24 +1,26 @@
 import { DurableObject } from 'cloudflare:workers';
-import type { Config, MsgCliente, MsgServidor } from '../shared/protocolo';
+import type { Config, MsgCliente, MsgServidor, SalaListada } from '../shared/protocolo';
 import { PING, PONG } from '../shared/protocolo';
-import { temPalavrao } from '../shared/filtro';
-import { MAX_RESPOSTA, raridadesPorUso } from '../shared/regras';
+import { MAX_RESPOSTA, MAX_SENHA, raridadesPorUso } from '../shared/regras';
 import { BANCO } from './banco-padrao';
 import {
   aplicarRaridades,
   avancarTempo,
   configurar,
+  conversar,
   criarSala,
+  definirSenha,
   desconectar,
   entrar,
   expulsar,
   iniciar,
-  jogarDeNovo,
+  marcarPronto,
   novaPartida,
   novosEfeitos,
   proximoAlarme,
   publico,
   responder,
+  resumoPublico,
   sair,
   type Ctx,
   type EstadoSala,
@@ -37,6 +39,8 @@ const MAX_MENSAGEM = 2_000;
 
 export class Sala extends DurableObject<Env> {
   private estado: EstadoSala | null = null;
+  /** Último resumo mandado ao saguão (evita avisar sem mudança). */
+  private ultimoResumo: string | undefined;
 
   constructor(ctx: DurableObjectState, env: Env) {
     super(ctx, env);
@@ -53,6 +57,7 @@ export class Sala extends DurableObject<Env> {
       if (this.estado) return new Response('existe', { status: 409 });
       const codigo = req.headers.get('x-codigo') ?? '????';
       this.estado = criarSala(codigo, Date.now());
+      this.estado.config.publica = url.searchParams.get('publica') === '1';
       await this.salvar();
       await this.ctx.storage.setAlarm(Date.now() + LIMPEZA_MS);
       return new Response('ok');
@@ -64,6 +69,7 @@ export class Sala extends DurableObject<Env> {
         existe: !!s,
         fase: s?.fase ?? null,
         jogadores: s?.jogadores.length ?? 0,
+        temSenha: !!s?.senhaHash,
       });
     }
 
@@ -96,11 +102,13 @@ export class Sala extends DurableObject<Env> {
     if (msg.t === 'entrar') {
       if (!texto(msg.jogadorId, 64) || !texto(msg.segredo, 128)) return;
       const segredoHash = await sha256(msg.segredo);
+      const senha = texto(msg.senha, MAX_SENHA) ? await hashSenha(s.codigo, msg.senha) : undefined;
       const r = entrar(s, ctx, {
         jogadorId: msg.jogadorId,
         segredoHash,
         apelido: String(msg.apelido ?? ''),
         personagem: String(msg.personagem ?? ''),
+        senhaHash: senha,
       });
       if (!r.ok) {
         this.enviar(ws, { t: 'erro', codigo: r.codigo, mensagem: r.mensagem });
@@ -117,6 +125,7 @@ export class Sala extends DurableObject<Env> {
         }
       }
       ws.serializeAttachment({ jogadorId: msg.jogadorId } satisfies Anexo);
+      if (s.chat?.length) this.enviar(ws, { t: 'chat', mensagens: s.chat });
       await this.concluir(ctx);
       return;
     }
@@ -132,9 +141,25 @@ export class Sala extends DurableObject<Env> {
         break;
       case 'digitando': {
         if (typeof msg.texto !== 'string' || s.fase !== 'jogando' || s.rodada?.vezDe !== id) return;
-        const previa = msg.texto.slice(0, MAX_RESPOSTA);
-        this.transmitir({ t: 'digitando', jogadorId: id, texto: temPalavrao(previa) ? '***' : previa }, id);
+        this.transmitir({ t: 'digitando', jogadorId: id, texto: msg.texto.slice(0, MAX_RESPOSTA) }, id);
         return;
+      }
+      case 'chat':
+        if (typeof msg.texto !== 'string') return;
+        conversar(s, ctx, id, msg.texto);
+        // Chat não muda o estado do jogo: só transmite e guarda o histórico.
+        if (ctx.efeitos.chat.length === 0) return;
+        await this.salvar();
+        this.transmitir({ t: 'chat', mensagens: ctx.efeitos.chat });
+        return;
+      case 'pronto':
+        marcarPronto(s, ctx, id, msg.pronto === true);
+        break;
+      case 'senha': {
+        if (typeof msg.senha !== 'string' || msg.senha.length > MAX_SENHA) return;
+        const nova = msg.senha.trim();
+        r = definirSenha(s, ctx, id, nova ? await hashSenha(s.codigo, nova) : null);
+        break;
       }
       case 'config':
         r = configurar(s, ctx, id, (msg.config ?? {}) as Partial<Config>);
@@ -144,9 +169,6 @@ export class Sala extends DurableObject<Env> {
         break;
       case 'novaPartida':
         r = novaPartida(s, ctx, id);
-        break;
-      case 'jogarDeNovo':
-        r = jogarDeNovo(s, ctx, id);
         break;
       case 'expulsar':
         if (typeof msg.jogadorId !== 'string') return;
@@ -185,6 +207,7 @@ export class Sala extends DurableObject<Env> {
       return;
     }
     if (this.ctx.getWebSockets().length === 0 && ctx.agora - s.atualizadaEm >= LIMPEZA_MS - 1000) {
+      if (s.config.publica) await this.avisarSaguao(s.codigo, null);
       this.estado = null;
       await this.ctx.storage.deleteAll();
       return;
@@ -228,8 +251,7 @@ export class Sala extends DurableObject<Env> {
       }
     }
     for (const t of ctx.efeitos.tentativas) {
-      const texto = temPalavrao(t.texto) ? '***' : t.texto;
-      this.transmitir({ t: 'tentativa', jogadorId: t.jogadorId, texto, aceita: t.aceita });
+      this.transmitir({ t: 'tentativa', jogadorId: t.jogadorId, texto: t.texto, aceita: t.aceita });
     }
     this.transmitir({ t: 'sala', sala: publico(s, ctx) });
     for (const { jogadorId, msg } of ctx.efeitos.privadas) {
@@ -237,6 +259,25 @@ export class Sala extends DurableObject<Env> {
     }
     if (ctx.efeitos.estatisticas.length > 0) this.ctx.waitUntil(this.gravarEstatisticas(ctx.efeitos.estatisticas));
     if (ctx.efeitos.carregarRaridade) this.ctx.waitUntil(this.carregarRaridade(ctx.efeitos.carregarRaridade));
+
+    // Avisa o saguão só quando o resumo muda (null = sai da lista).
+    const resumo = resumoPublico(s);
+    const chave = JSON.stringify(resumo);
+    if (chave !== this.ultimoResumo) {
+      this.ultimoResumo = chave;
+      this.ctx.waitUntil(this.avisarSaguao(s.codigo, resumo));
+    }
+  }
+
+  private async avisarSaguao(codigo: string, resumo: SalaListada | null): Promise<void> {
+    try {
+      await this.env.SAGUAO.get(this.env.SAGUAO.idFromName('saguao')).fetch('https://saguao/atualizar', {
+        method: 'POST',
+        body: JSON.stringify({ codigo, resumo }),
+      });
+    } catch (erro) {
+      console.error('Falha ao avisar o saguão', erro);
+    }
   }
 
   private async salvar(): Promise<void> {
@@ -322,6 +363,11 @@ export class Sala extends DurableObject<Env> {
 
 function texto(v: unknown, max: number): v is string {
   return typeof v === 'string' && v.length > 0 && v.length <= max;
+}
+
+/** Senha com o código da sala como sal: a mesma senha gera hashes diferentes em salas diferentes. */
+function hashSenha(codigo: string, senha: string): Promise<string> {
+  return sha256(`${codigo}:${senha.trim()}`);
 }
 
 async function sha256(valor: string): Promise<string> {

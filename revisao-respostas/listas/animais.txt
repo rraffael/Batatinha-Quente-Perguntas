@@ -1,0 +1,252 @@
+== ani-mamiferos
+~ Panda | Urso-panda | https://pt.wikipedia.org/wiki/Panda-gigante
++ Ser humano | Humano;Homem;Homo sapiens | Human | Humano | r | https://pt.wikipedia.org/wiki/Humano
++ Macaco-prego | | Capuchin monkey | Capuchino | i | https://pt.wikipedia.org/wiki/Macaco-prego
++ Babuíno | | Baboon | Babuino | i | https://pt.wikipedia.org/wiki/Babu%C3%ADno
++ Cachalote | | Sperm whale | Cachalote | i | https://pt.wikipedia.org/wiki/Cachalote
++ Baleia-jubarte | Jubarte | Humpback whale | Ballena jorobada | i | https://pt.wikipedia.org/wiki/Baleia-jubarte
++ Baleia-azul | | Blue whale | Ballena azul | i | https://pt.wikipedia.org/wiki/Baleia-azul
++ Mamute | | Mammoth | Mamut | r | https://pt.wikipedia.org/wiki/Mamute
++ Mandril | | Mandrill | Mandril | r | https://pt.wikipedia.org/wiki/Mandril
++ Gibão | | Gibbon | Gibón | r | https://pt.wikipedia.org/wiki/Gib%C3%A3o
++ Bonobo | | Bonobo | Bonobo | r | https://pt.wikipedia.org/wiki/Bonobo
++ Narval | | Narwhal | Narval | r | https://pt.wikipedia.org/wiki/Narval
++ Beluga | | Beluga | Beluga | r | https://pt.wikipedia.org/wiki/Beluga
++ Elefante-marinho | | Elephant seal | Elefante marino | r | https://pt.wikipedia.org/wiki/Elefante-marinho
++ Lobo-marinho | | Fur seal | Lobo marino | r | https://pt.wikipedia.org/wiki/Lobo-marinho
++ Urso-pardo | Urso-cinzento;Grizzly | Brown bear;Grizzly bear | Oso pardo | r | https://pt.wikipedia.org/wiki/Urso-pardo
++ Panda-vermelho | | Red panda | Panda rojo | r | https://pt.wikipedia.org/wiki/Panda-vermelho
++ Leopardo-das-neves | | Snow leopard | Leopardo de las nieves | r | https://pt.wikipedia.org/wiki/Leopardo-das-neves
++ Gato-do-mato | Gato-do-mato-pequeno | | | r | https://pt.wikipedia.org/wiki/Gato-do-mato-pequeno
++ Raposa-do-ártico | Raposa-polar | Arctic fox | Zorro ártico | r | https://pt.wikipedia.org/wiki/Raposa-do-%C3%A1rtico
++ Feneco | Raposa-do-deserto | Fennec fox | Feneco | r | https://pt.wikipedia.org/wiki/Feneco
++ Dingo | | Dingo | Dingo | r | https://pt.wikipedia.org/wiki/Dingo
++ Diabo-da-tasmânia | | Tasmanian devil | Demonio de Tasmania | r | https://pt.wikipedia.org/wiki/Diabo-da-tasm%C3%A2nia
++ Pangolim | | Pangolin | Pangolín | r | https://pt.wikipedia.org/wiki/Pangolim
++ Queixada | Porco-do-mato | White-lipped peccary | Pecarí labiado | r | https://pt.wikipedia.org/wiki/Queixada
++ Macaco-aranha | Coatá | Spider monkey | Mono araña | r | https://pt.wikipedia.org/wiki/Macaco-aranha
++ Jaritataca | Cangambá;Zorrilho | Skunk | Zorrillo | r | https://pt.wikipedia.org/wiki/Jaritataca
++ Ualabi | Wallaby | Wallaby | Ualabí | e | https://pt.wikipedia.org/wiki/Ualabi
++ Vombate | | Wombat | Wombat | e | https://pt.wikipedia.org/wiki/Vombate
++ Porco-formigueiro | Oricteropo;Aardvark | Aardvark | Cerdo hormiguero | e | https://pt.wikipedia.org/wiki/Porco-formigueiro
++ Caracal | | Caracal | Caracal | e | https://pt.wikipedia.org/wiki/Caracal_caracal
++ Serval | | Serval | Serval | e | https://pt.wikipedia.org/wiki/Serval
++ Vison | | Mink | Visón | e | https://pt.wikipedia.org/wiki/Vison
++ Órix | Oryx | Oryx | Órice | e | https://pt.wikipedia.org/wiki/Oryx
++ Íbex | | Ibex | Íbice | e | https://pt.wikipedia.org/wiki/%C3%8Dbex
++ Boi-almiscarado | | Muskox | Buey almizclero | e | https://pt.wikipedia.org/wiki/Boi-almiscarado
++ Muriqui | Mono-carvoeiro | Muriqui | Muriquí | e | https://pt.wikipedia.org/wiki/Muriqui
++ Mocó | | | | e | https://pt.wikipedia.org/wiki/Moc%C3%B3
++ Társio | Tarsius | Tarsier | Tarsero | e | https://pt.wikipedia.org/wiki/Tarsius
++ Lóris | Loris | Loris | Loris | e | https://pt.wikipedia.org/wiki/Loris
++ Uacari | Cacajao | Uakari | Uacarí | e | https://pt.wikipedia.org/wiki/Cacajao
++ Vicunha | | Vicuña | Vicuña | e | https://pt.wikipedia.org/wiki/Vicunha
++ Guanaco | | Guanaco | Guanaco | e | https://pt.wikipedia.org/wiki/Guanaco
++ Muflão | | Mouflon | Muflón | l | https://pt.wikipedia.org/wiki/Mufl%C3%A3o
+
+== ani-aves
++ Arara-canindé | Arara-de-barriga-amarela | Blue-and-yellow macaw | Guacamayo azulamarillo | i | https://pt.wikipedia.org/wiki/Arara-can%C3%ADnd%C3%A9
++ Periquito-australiano | | Budgerigar | Periquito australiano | i | https://pt.wikipedia.org/wiki/Periquito-australiano
++ Galinha-d'angola | Angolinha;Guiné;Capote | Guineafowl | Gallina de Guinea | i | https://pt.wikipedia.org/wiki/Galinha-d%27angola
++ Coruja-buraqueira | Buraqueira | Burrowing owl | Mochuelo de madriguera | i | https://pt.wikipedia.org/wiki/Coruja-buraqueira
++ Águia-careca | Águia-de-cabeça-branca;Águia-americana | Bald eagle | Águila calva | i | https://pt.wikipedia.org/wiki/%C3%81guia-de-cabe%C3%A7a-branca
++ Falcão-peregrino | | Peregrine falcon | Halcón peregrino | r | https://pt.wikipedia.org/wiki/Falc%C3%A3o-peregrino
++ Águia-real | | Golden eagle | Águila real | r | https://pt.wikipedia.org/wiki/%C3%81guia-real
++ Urubu-rei | | King vulture | Zopilote rey | r | https://pt.wikipedia.org/wiki/Urubu-rei
++ Sanhaço | Sanhaçu | Tanager | Tangara | r | https://pt.wikipedia.org/wiki/Sanha%C3%A7o
++ Tiziu | | | | r | https://pt.wikipedia.org/wiki/Tiziu
++ Canário-da-terra | | Saffron finch | Jilguero dorado | r | https://pt.wikipedia.org/wiki/Can%C3%A1rio-da-terra-verdadeiro
++ Cardeal-do-nordeste | Galo-de-campina;Cardeal | Red-cowled cardinal | Cardenal | r | https://pt.wikipedia.org/wiki/Cardeal-do-nordeste
++ Tangará | Dançarino | | | r | https://pt.wikipedia.org/wiki/Tangar%C3%A1
++ Anu-preto | Anu;Anum | Smooth-billed ani | Garrapatero | r | https://pt.wikipedia.org/wiki/Anu-preto
++ Agapórnis | Pássaro-do-amor | Lovebird | Inseparable | r | https://pt.wikipedia.org/wiki/Ag%C3%A1p%C3%B3rnis
++ Manon | | Society finch | | e | https://pt.wikipedia.org/wiki/Manon
++ Caburé | | Pygmy owl | Mochuelo | e | https://pt.wikipedia.org/wiki/Cabur%C3%A9
++ Suindara | Coruja-das-torres;Rasga-mortalha | Barn owl | Lechuza común | r | https://pt.wikipedia.org/wiki/Coruja-das-torres
++ Atobá | | Booby | Piquero | e | https://pt.wikipedia.org/wiki/Sul%C3%ADdeos
++ Colhereiro | | Roseate spoonbill | Espátula rosada | e | https://pt.wikipedia.org/wiki/Colhereiro
++ Íbis | | Ibis | Ibis | r | https://pt.wikipedia.org/wiki/%C3%8Dbis
++ Jaçanã | | Jacana | Jacana | e | https://pt.wikipedia.org/wiki/Ja%C3%A7an%C3%A3
++ Perdiz | | Partridge | Perdiz | r | https://pt.wikipedia.org/wiki/Perdiz
++ Inhambu | Nambu;Inambu | Tinamou | Tinamú | e | https://pt.wikipedia.org/wiki/Tinamiformes
++ Macuco | | Solitary tinamou | Tinamú macuco | e | https://pt.wikipedia.org/wiki/Macuco
++ Casuar | | Cassowary | Casuario | r | https://pt.wikipedia.org/wiki/Casuar
++ Dodô | Dodó | Dodo | Dodo | r | https://pt.wikipedia.org/wiki/Dod%C3%B4
++ Araçari | | Aracari | Arasarí | e | https://pt.wikipedia.org/wiki/Ara%C3%A7ari
++ Corruíra | Curruíra;Cambaxirra;Garrincha | House wren | Chochín | e | https://pt.wikipedia.org/wiki/Curru%C3%ADra
++ Urutau | Mãe-da-lua | Potoo | Urutaú | e | https://pt.wikipedia.org/wiki/Urutau
++ Bacurau | Curiango | Nightjar | Chotacabras | e | https://pt.wikipedia.org/wiki/Caprimulg%C3%ADdeos
++ Gralha-azul | Gralha | Azure jay | Urraca azul | r | https://pt.wikipedia.org/wiki/Gralha-azul
++ Estorninho | | Starling | Estornino | e | https://pt.wikipedia.org/wiki/Esturn%C3%ADdeos
++ Cuco | | Cuckoo | Cuco | r | https://pt.wikipedia.org/wiki/Cucul%C3%ADdeos
+
+== ani-peixes
+~ Tubarão | Cação | https://pt.wikipedia.org/wiki/Tubar%C3%A3o
+~ Bagre | Peixe-gato | https://pt.wikipedia.org/wiki/Siluriformes
++ Tubarão-martelo | | Hammerhead shark | Tiburón martillo | i | https://pt.wikipedia.org/wiki/Tubar%C3%A3o-martelo
++ Tubarão-baleia | | Whale shark | Tiburón ballena | i | https://pt.wikipedia.org/wiki/Tubar%C3%A3o-baleia
++ Tubarão-branco | | Great white shark | Tiburón blanco | i | https://pt.wikipedia.org/wiki/Tubar%C3%A3o-branco
++ Tubarão-tigre | | Tiger shark | Tiburón tigre | r | https://pt.wikipedia.org/wiki/Tubar%C3%A3o-tigre
++ Cascudo | Acari | Pleco | | i | https://pt.wikipedia.org/wiki/Cascudo
++ Piraíba | Filhote | | | r | https://pt.wikipedia.org/wiki/Brachyplatystoma_filamentosum
++ Jaú | | | | r | https://pt.wikipedia.org/wiki/Ja%C3%BA_(peixe)
++ Mandi | | | | r | https://pt.wikipedia.org/wiki/Mandi
++ Curimbatá | Curimba;Curimatã | | | r | https://pt.wikipedia.org/wiki/Curimbat%C3%A1
++ Jundiá | | | | r | https://pt.wikipedia.org/wiki/Jundi%C3%A1
++ Pirarara | | Redtail catfish | | r | https://pt.wikipedia.org/wiki/Pirarara
++ Aruanã | | Arowana | Arawana | r | https://pt.wikipedia.org/wiki/Aruan%C3%A3
++ Poraquê | Peixe-elétrico;Enguia-elétrica | Electric eel | Anguila eléctrica | r | https://pt.wikipedia.org/wiki/Poraqu%C3%AA
++ Candiru | | Candiru | Candirú | r | https://pt.wikipedia.org/wiki/Candiru
++ Espadarte | Meca | Swordfish | Pez espada | r | https://pt.wikipedia.org/wiki/Espadarte
++ Solha | | Sole;Flounder | Lenguado | r | https://pt.wikipedia.org/wiki/Soleidae
++ Esturjão | | Sturgeon | Esturión | r | https://pt.wikipedia.org/wiki/Esturj%C3%A3o
++ Lampreia | | Lamprey | Lamprea | r | https://pt.wikipedia.org/wiki/Lampreia
++ Mero | | Goliath grouper | Mero | r | https://pt.wikipedia.org/wiki/Mero
++ Manjuba | | Anchovy | | r | https://pt.wikipedia.org/wiki/Anchoviella
++ Cavalinha | | Mackerel | Caballa | r | https://pt.wikipedia.org/wiki/Cavalinha
++ Peixe-cirurgião | Cirurgião-patela;Dory | Surgeonfish;Blue tang | Pez cirujano | r | https://pt.wikipedia.org/wiki/Peixe-cirurgi%C3%A3o
++ Peixe-anjo | | Angelfish | Pez ángel | r | https://pt.wikipedia.org/wiki/Pomacant%C3%ADdeos
++ Molinésia | Molly | Molly | Molly | e | https://pt.wikipedia.org/wiki/Poecilia
++ Platy | | Platy | Platy | e | https://pt.wikipedia.org/wiki/Xiphophorus_maculatus
++ Oscar | Apaiari | Oscar | Óscar | e | https://pt.wikipedia.org/wiki/Astronotus_ocellatus
++ Hadoque | Arinca | Haddock | Eglefino | e | https://pt.wikipedia.org/wiki/Melanogrammus_aeglefinus
++ Celacanto | | Coelacanth | Celacanto | e | https://pt.wikipedia.org/wiki/Celacanto
++ Piramboia | | South American lungfish | | e | https://pt.wikipedia.org/wiki/Piramboia
++ Tamboril | | Monkfish | Rape | e | https://pt.wikipedia.org/wiki/Tamboril
++ Rêmora | | Remora | Rémora | e | https://pt.wikipedia.org/wiki/R%C3%AAmora
++ Piraputanga | | | | e | https://pt.wikipedia.org/wiki/Piraputanga
++ Cachara | | | | e | https://pt.wikipedia.org/wiki/Cachara
++ Sargo | | | Sargo | e | https://pt.wikipedia.org/wiki/Sargo
++ Sororoca | | | | e | https://pt.wikipedia.org/wiki/Sororoca
++ Olho-de-boi | | Amberjack | Pez limón | e | https://pt.wikipedia.org/wiki/Olho_de_boi
++ Peixe-galo | Galo | John Dory | Pez de San Pedro | e | https://pt.wikipedia.org/wiki/Zeiformes
+
+== ani-insetos
+~ Mosquito | Muriçoca;Carapanã | https://pt.wikipedia.org/wiki/Culic%C3%ADdeos
+~ Abelha | Zangão;Zângão;Abelhão | https://pt.wikipedia.org/wiki/Zang%C3%A3o
+~ Formiga | Içá | https://pt.wikipedia.org/wiki/Sa%C3%BAva
+~ Cupim | Siriri;Aleluia;Sarará | https://pt.wikipedia.org/wiki/Siriri_(inseto)
+~ Percevejo | Maria-fedida;Fede-fede;Percevejo-de-cama | https://pt.wikipedia.org/wiki/Nezara_viridula
+~ Bicho-de-pé | Tunga | https://pt.wikipedia.org/wiki/Bicho-de-p%C3%A9
+~ Lagarta | Taturana;Maranduvá;Lagarta-de-fogo | https://pt.wikipedia.org/wiki/Maranduv%C3%A1
++ Rola-bosta | Vira-bosta | Dung beetle | Escarabajo pelotero | i | https://pt.wikipedia.org/wiki/Rola-bosta
++ Pulgão | Afídeo;Afídio | Aphid | Pulgón | r | https://pt.wikipedia.org/wiki/Af%C3%ADdio
++ Jataí | Abelha-jataí;Jataí-amarela | | | r | https://pt.wikipedia.org/wiki/Jata%C3%AD-amarela
++ Uruçu | Iruçu | | | e | https://pt.wikipedia.org/wiki/Uru%C3%A7u
++ Besouro-rinoceronte | | Rhinoceros beetle | Escarabajo rinoceronte | r | https://pt.wikipedia.org/wiki/Dinast%C3%ADneos
++ Bicudo | Bicudo-do-algodoeiro | Boll weevil | Picudo | e | https://pt.wikipedia.org/wiki/Bicudo-do-algodoeiro
++ Paquinha | Grilo-toupeira | Mole cricket | Grillotalpa | e | https://pt.wikipedia.org/wiki/Gryllotalpa_gryllotalpa
++ Mosca-tsé-tsé | Tsé-tsé | Tsetse fly | Mosca tsetsé | r | https://pt.wikipedia.org/wiki/Mosca-ts%C3%A9-ts%C3%A9
++ Maruim | Mosquito-pólvora;Mosquitinho-do-mangue | Biting midge | | e | https://pt.wikipedia.org/wiki/Maruim
++ Mosquito-palha | Birigui;Flebótomo | Sandfly | Flebótomo | e | https://pt.wikipedia.org/wiki/Flebotom%C3%ADneos
++ Borboleta-monarca | Monarca | Monarch butterfly | Mariposa monarca | r | https://pt.wikipedia.org/wiki/Borboleta-monarca
++ Morfo | Borboleta-azul;Morpho | Morpho | Morfo | e | https://pt.wikipedia.org/wiki/Morpho_(g%C3%A9nero)
++ Potó | Besouro-potó | Rove beetle | | e | https://pt.wikipedia.org/wiki/Pot%C3%B3
++ Efemérida | Efêmera;Efeméride | Mayfly | Efímera | l | https://pt.wikipedia.org/wiki/Efemer%C3%B3pteros
+
+== ani-repteis
+~ Teiú | Teju | https://pt.wikipedia.org/wiki/Tei%C3%BA
++ Jacaré-de-papo-amarelo | | Broad-snouted caiman | Yacaré overo | r | https://pt.wikipedia.org/wiki/Jacar%C3%A9-de-papo-amarelo
++ Jacaré-açu | | Black caiman | Caimán negro | r | https://pt.wikipedia.org/wiki/Jacar%C3%A9-a%C3%A7u
++ Tartaruga-de-couro | | Leatherback turtle | Tortuga laúd | r | https://pt.wikipedia.org/wiki/Tartaruga-de-couro
++ Tartaruga-verde | Aruanã | Green sea turtle | Tortuga verde | r | https://pt.wikipedia.org/wiki/Tartaruga-verde
++ Tartaruga-de-pente | | Hawksbill turtle | Tortuga carey | e | https://pt.wikipedia.org/wiki/Tartaruga-de-pente
++ Urutu | Urutu-cruzeiro | | | r | https://pt.wikipedia.org/wiki/Urutu
++ Jararacuçu | | | | r | https://pt.wikipedia.org/wiki/Jararacu%C3%A7u
++ Cobra-cipó | | Vine snake | | r | https://pt.wikipedia.org/wiki/Cobra-cip%C3%B3
++ Muçurana | Mussurana;Cobra-preta | | | e | https://pt.wikipedia.org/wiki/Mu%C3%A7urana
++ Periquitamboia | Cobra-papagaio;Jiboia-verde | Emerald tree boa | Boa esmeralda | e | https://pt.wikipedia.org/wiki/Periquitamboia
++ Boipeva | | | | e | https://pt.wikipedia.org/wiki/Boipeva
++ Taipan | | Taipan | Taipán | e | https://pt.wikipedia.org/wiki/Taipan
++ Varano | Lagarto-monitor | Monitor lizard | Varano | r | https://pt.wikipedia.org/wiki/Varan%C3%ADdeos
++ Diabo-espinhoso | Lagarto-espinhoso;Moloch | Thorny devil | Diablo espinoso | l | https://pt.wikipedia.org/wiki/Diabo-espinhoso
++ Cobra-de-vidro | | Glass lizard | Lagarto de cristal | l | https://pt.wikipedia.org/wiki/Angu%C3%ADdeos
+
+== ani-fauna-brasileira
++ Macaco-prego | | Capuchin monkey | Capuchino | c | https://pt.wikipedia.org/wiki/Macaco-prego
++ Carcará | Caracará | Southern caracara | Carancho | i | https://pt.wikipedia.org/wiki/Carcar%C3%A1
++ Maritaca | Maitaca | | | i | https://pt.wikipedia.org/wiki/Maitaca
++ Arara-canindé | | Blue-and-yellow macaw | Guacamayo azulamarillo | i | https://pt.wikipedia.org/wiki/Arara-can%C3%ADnd%C3%A9
++ Jacaré-de-papo-amarelo | | Broad-snouted caiman | Yacaré overo | i | https://pt.wikipedia.org/wiki/Jacar%C3%A9-de-papo-amarelo
++ Jacaré-açu | | Black caiman | Caimán negro | r | https://pt.wikipedia.org/wiki/Jacar%C3%A9-a%C3%A7u
++ Cascavel | | Rattlesnake | Cascabel | i | https://pt.wikipedia.org/wiki/Cascavel
++ Surucucu | | Bushmaster | Cascabel muda | r | https://pt.wikipedia.org/wiki/Surucucu
++ Teiú | Teju | | | r | https://pt.wikipedia.org/wiki/Tei%C3%BA
++ Tucunaré | | Peacock bass | Tucunaré | i | https://pt.wikipedia.org/wiki/Tucunar%C3%A9
++ Pintado | Surubim | | | r | https://pt.wikipedia.org/wiki/Pseudoplatystoma_corruscans
++ Pirarara | | Redtail catfish | | e | https://pt.wikipedia.org/wiki/Pirarara
++ Aruanã | | Arowana | Arawana | e | https://pt.wikipedia.org/wiki/Aruan%C3%A3
++ Poraquê | Peixe-elétrico | Electric eel | Anguila eléctrica | r | https://pt.wikipedia.org/wiki/Poraqu%C3%AA
++ Candiru | | Candiru | Candirú | e | https://pt.wikipedia.org/wiki/Candiru
++ Gralha-azul | | Azure jay | Urraca azul | r | https://pt.wikipedia.org/wiki/Gralha-azul
++ Tamanduá-mirim | | Southern tamandua | Tamandúa | r | https://pt.wikipedia.org/wiki/Tamandu%C3%A1-mirim
++ Tatu-galinha | | Nine-banded armadillo | Armadillo de nueve bandas | r | https://pt.wikipedia.org/wiki/Tatu-galinha
++ Preá | | | Cuis | r | https://pt.wikipedia.org/wiki/Pre%C3%A1
++ Mocó | | | | e | https://pt.wikipedia.org/wiki/Moc%C3%B3
++ Raposa-do-campo | | Hoary fox | Zorro de campo | e | https://pt.wikipedia.org/wiki/Raposa-do-campo
++ Cachorro-vinagre | | Bush dog | Perro de monte | e | https://pt.wikipedia.org/wiki/Cachorro-vinagre
++ Gato-do-mato | Gato-do-mato-pequeno | | | r | https://pt.wikipedia.org/wiki/Gato-do-mato-pequeno
++ Macaco-aranha | Coatá | Spider monkey | Mono araña | r | https://pt.wikipedia.org/wiki/Macaco-aranha
++ Mico-leão-preto | | Black lion tamarin | Tití león negro | e | https://pt.wikipedia.org/wiki/Mico-le%C3%A3o-preto
++ Mico-leão-de-cara-dourada | | Golden-headed lion tamarin | | e | https://pt.wikipedia.org/wiki/Mico-le%C3%A3o-de-cara-dourada
++ Preguiça-de-coleira | | Maned sloth | Perezoso de collar | e | https://pt.wikipedia.org/wiki/Pregui%C3%A7a-de-coleira
++ Boto-cinza | Tucuxi | Guiana dolphin | | e | https://pt.wikipedia.org/wiki/Sotalia
++ Baleia-franca | Baleia-franca-austral | Southern right whale | Ballena franca austral | e | https://pt.wikipedia.org/wiki/Baleia-franca-austral
++ Tracajá | | | Taricaya | e | https://pt.wikipedia.org/wiki/Tracaj%C3%A1
++ Coruja-buraqueira | Buraqueira | Burrowing owl | Mochuelo de madriguera | r | https://pt.wikipedia.org/wiki/Coruja-buraqueira
++ Urubu-rei | | King vulture | Zopilote rey | r | https://pt.wikipedia.org/wiki/Urubu-rei
++ Curió | Papa-arroz | | | r | https://pt.wikipedia.org/wiki/Curi%C3%B3
++ Trinca-ferro | | | | r | https://pt.wikipedia.org/wiki/Trinca-ferro
++ Tiê-sangue | | Brazilian tanager | | e | https://pt.wikipedia.org/wiki/Ti%C3%AA-sangue
++ Saíra-sete-cores | | Green-headed tanager | | e | https://pt.wikipedia.org/wiki/Sa%C3%ADra-sete-cores
++ Pássaro-preto | Graúna;Chopim;Chupim | | | r | https://pt.wikipedia.org/wiki/Sargento-chopi
++ Guará | Guará-vermelho | Scarlet ibis | Corocoro rojo | r | https://pt.wikipedia.org/wiki/Guar%C3%A1
++ Anu-preto | Anu;Anum | Smooth-billed ani | Garrapatero | r | https://pt.wikipedia.org/wiki/Anu-preto
++ Curicaca | | Buff-necked ibis | Bandurria | e | https://pt.wikipedia.org/wiki/Curicaca
++ Jacutinga | | Black-fronted piping guan | | e | https://pt.wikipedia.org/wiki/Jacutinga
++ Macuco | | Solitary tinamou | | e | https://pt.wikipedia.org/wiki/Macuco
++ Urutau | Mãe-da-lua | Potoo | Urutaú | e | https://pt.wikipedia.org/wiki/Urutau
+~ Tucano | Tucano-toco;Tucanuçu | https://pt.wikipedia.org/wiki/Tucanu%C3%A7u
+~ Peixe-boi | Peixe-boi-da-amazônia | https://pt.wikipedia.org/wiki/Peixe-boi-da-amaz%C3%B4nia
+
+== ani-racas-cachorro
+~ Shih-tzu | Shitzu | https://pt.wikipedia.org/wiki/Shih-tzu
+~ Yorkshire | Yorkie | https://pt.wikipedia.org/wiki/Yorkshire_terrier
+~ Akita | Akita inu | https://pt.wikipedia.org/wiki/Akita_inu
+~ Dachshund | Salsichinha | https://pt.wikipedia.org/wiki/Dachshund
+~ Spitz alemão | Lulu | https://pt.wikipedia.org/wiki/Spitz_alem%C3%A3o
++ Dogo argentino | | Dogo Argentino | Dogo argentino | r | https://pt.wikipedia.org/wiki/Dogo_argentino
++ Boston terrier | | Boston Terrier | Boston terrier | r | https://pt.wikipedia.org/wiki/Boston_terrier
++ Fox terrier | | Fox Terrier | Fox terrier | r | https://pt.wikipedia.org/wiki/Fox_terrier
++ Mastim napolitano | | Neapolitan Mastiff | Mastín napolitano | r | https://pt.wikipedia.org/wiki/Mastim_napolitano
++ Mastim tibetano | | Tibetan Mastiff | Mastín tibetano | r | https://pt.wikipedia.org/wiki/Mastim_tibetano
++ Bulmastife | Bullmastiff | Bullmastiff | Bullmastiff | r | https://pt.wikipedia.org/wiki/Bulmastife
++ Buldogue americano | Bulldog americano | American Bulldog | Bulldog americano | r | https://pt.wikipedia.org/wiki/Buldogue-americano
++ American Staffordshire terrier | Amstaff | American Staffordshire Terrier | | r | https://pt.wikipedia.org/wiki/American_staffordshire_terrier
++ Pastor-branco-suíço | Pastor suíço | White Swiss Shepherd | Pastor blanco suizo | r | https://pt.wikipedia.org/wiki/Pastor-branco-su%C3%AD%C3%A7o
++ Boiadeiro-australiano | Blue heeler;Red heeler | Australian Cattle Dog | Boyero australiano | r | https://pt.wikipedia.org/wiki/Boiadeiro-australiano
++ Dogue-de-bordéus | Dogue de Bordeaux | Dogue de Bordeaux | Dogo de Burdeos | r | https://pt.wikipedia.org/wiki/Dogue-de-bord%C3%A9us
++ Old English Sheepdog | Bobtail | Old English Sheepdog | Bobtail | e | https://pt.wikipedia.org/wiki/Old_english_sheepdog
++ Springer spaniel | Springer spaniel inglês | English Springer Spaniel | Springer spaniel inglés | e | https://pt.wikipedia.org/wiki/Springer_spaniel_ingl%C3%AAs
++ Airedale terrier | | Airedale Terrier | Airedale terrier | e | https://pt.wikipedia.org/wiki/Airedale_terrier
++ Terrier escocês | Scottish terrier | Scottish Terrier | Terrier escocés | e | https://pt.wikipedia.org/wiki/Terrier_escoc%C3%AAs
++ Akita americano | | American Akita | Akita americano | e | https://pt.wikipedia.org/wiki/Akita_americano
++ Pastor-do-cáucaso | | Caucasian Shepherd Dog | Pastor del Cáucaso | e | https://pt.wikipedia.org/wiki/Pastor-do-c%C3%A1ucaso
++ Dogue canário | Presa canário | Presa Canario | Presa canario | e | https://pt.wikipedia.org/wiki/Dogue_can%C3%A1rio
++ Pastor-maremano-abruzês | Pastor maremano | Maremma Sheepdog | Pastor de Maremma | e | https://pt.wikipedia.org/wiki/Pastor-maremano-abruz%C3%AAs
++ Spitz japonês | | Japanese Spitz | Spitz japonés | e | https://pt.wikipedia.org/wiki/Spitz_japon%C3%AAs
++ Cão de crista chinês | Crista chinês | Chinese Crested | Crestado chino | e | https://pt.wikipedia.org/wiki/C%C3%A3o_de_crista_chin%C3%AAs
++ Cão de água português | Cão d'água português | Portuguese Water Dog | Perro de agua portugués | e | https://pt.wikipedia.org/wiki/C%C3%A3o_de_%C3%A1gua_portugu%C3%AAs
++ Coton de Tulear | | Coton de Tulear | Coton de Tulear | e | https://pt.wikipedia.org/wiki/Coton_de_Tulear
++ Borzoi | | Borzoi | Borzoi | e | https://pt.wikipedia.org/wiki/Borzoi
++ Setter inglês | | English Setter | Setter inglés | e | https://pt.wikipedia.org/wiki/Setter_ingl%C3%AAs
++ Leonberger | | Leonberger | Leonberger | l | https://pt.wikipedia.org/wiki/Leonberger
++ Saluki | | Saluki | Saluki | l | https://pt.wikipedia.org/wiki/Saluki
++ Komondor | | Komondor | Komondor | l | https://pt.wikipedia.org/wiki/Komondor
++ Puli | | Puli | Puli | l | https://pt.wikipedia.org/wiki/Puli
++ Tosa | Tosa inu | Tosa | Tosa | l | https://pt.wikipedia.org/wiki/Tosa_(ra%C3%A7a)
++ Braco alemão | Braco alemão de pelo curto | German Shorthaired Pointer | Braco alemán | l | https://pt.wikipedia.org/wiki/Braco_alem%C3%A3o_de_pelo_curto
++ Podengo português | | Portuguese Podengo | Podenco portugués | l | https://pt.wikipedia.org/wiki/Podengo-portugu%C3%AAs
++ Rafeiro do Alentejo | | Rafeiro do Alentejo | | l | https://pt.wikipedia.org/wiki/Rafeiro_do_Alentejo
++ Ovelheiro gaúcho | | | | l | https://pt.wikipedia.org/wiki/Ovelheiro-ga%C3%BAcho
++ Cão-pelado-peruano | Pelado peruano | Peruvian Hairless Dog | Perro sin pelo del Perú | l | https://pt.wikipedia.org/wiki/C%C3%A3o-pelado-peruano

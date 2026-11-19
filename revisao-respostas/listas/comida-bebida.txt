@@ -1,0 +1,215 @@
+== com-frutas
+~ Tangerina | Poncã;Mixirica;Murcote;Tangerina-murcote | https://pt.wikipedia.org/wiki/Tangerina
+~ Laranja | Laranja-lima;Laranja-pera;Laranja-baía | https://pt.wikipedia.org/wiki/Lima_(fruto)
+~ Mamão | Mamão-papaia | https://pt.wikipedia.org/wiki/Mam%C3%A3o
+~ Açaí | Juçara;Içara | https://pt.wikipedia.org/wiki/I%C3%A7ara_(palmeira)
++ Tâmara | | Date | Dátil | i | https://pt.wikipedia.org/wiki/Tamareira
++ Toranja | Grapefruit;Pomelo | Grapefruit | Pomelo | i | https://pt.wikipedia.org/wiki/Toranja
++ Marmelo | | Quince | Membrillo | i | https://pt.wikipedia.org/wiki/Marmeleiro
++ Azeitona | | Olive | Aceituna | r | https://pt.wikipedia.org/wiki/Azeitona
++ Pupunha | | Peach palm | Chontaduro | r | https://pt.wikipedia.org/wiki/Pupunha
++ Jatobá | | | | r | https://pt.wikipedia.org/wiki/Jatob%C3%A1
++ Ingá | | | Guaba | r | https://pt.wikipedia.org/wiki/Ing%C3%A1
++ Pitomba | | | | r | https://pt.wikipedia.org/wiki/Pitomba
++ Tucumã | | | | r | https://pt.wikipedia.org/wiki/Tucum%C3%A3
++ Camu-camu | | Camu camu | Camu camu | r | https://pt.wikipedia.org/wiki/Camu-camu
++ Cajá-manga | Cajamanga;Cajarana | Ambarella | Jobo de la India | r | https://pt.wikipedia.org/wiki/Caj%C3%A1-manga
++ Jamelão | Jambolão;Jalão | Java plum | Jambolán | r | https://pt.wikipedia.org/wiki/Jamel%C3%A3o
++ Butiá | | | | r | https://pt.wikipedia.org/wiki/Buti%C3%A1
++ Fruta-pão | | Breadfruit | Fruta de pan | r | https://pt.wikipedia.org/wiki/%C3%81rvore-do-p%C3%A3o
++ Goji | Goji berry | Goji berry | Goji | r | https://pt.wikipedia.org/wiki/G%C3%B3ji
++ Abiu | | Abiu | Caimito | e | https://pt.wikipedia.org/wiki/Abieiro
++ Cagaita | | | | e | https://pt.wikipedia.org/wiki/Cagaiteira
++ Bacaba | | | | e | https://pt.wikipedia.org/wiki/Bacaba
++ Araticum | | | | e | https://pt.wikipedia.org/wiki/Araticum
++ Biribá | | | | e | https://pt.wikipedia.org/wiki/Birib%C3%A1
++ Guabiroba | | | | e | https://pt.wikipedia.org/wiki/Campomanesia_pubescens
++ Cherimoia | | Cherimoya | Chirimoya | e | https://pt.wikipedia.org/wiki/Annona_cherimola
++ Feijoa | Goiaba-serrana | Feijoa | Feijoa | e | https://pt.wikipedia.org/wiki/Feijoa
++ Durião | Durian | Durian | Durián | e | https://pt.wikipedia.org/wiki/Duri%C3%A3o
++ Nashi | Pera-asiática | Nashi pear;Asian pear | Nashi | e | https://pt.wikipedia.org/wiki/Nashi
++ Longan | Olho-de-dragão | Longan | Longan | e | https://pt.wikipedia.org/wiki/Longan
++ Noni | | Noni | Noni | e | https://pt.wikipedia.org/wiki/Noni
++ Baru | | | | e | https://pt.wikipedia.org/wiki/Baru
++ Licuri | Ouricuri | | | e | https://pt.wikipedia.org/wiki/Syagrus_coronata
++ Cereja-do-rio-grande | | | | l | https://pt.wikipedia.org/wiki/Eugenia_involucrata
++ Cabeludinha | | | | l | https://pt.wikipedia.org/wiki/Plinia_glomerata
++ Bilimbi | Biri-biri | Bilimbi | Bilimbí | l | https://pt.wikipedia.org/wiki/Bilimbi
+
+== com-hortalicas
++ Manjericão | Alfavaca;Basílico | Basil | Albahaca | c | https://pt.wikipedia.org/wiki/Manjeric%C3%A3o-de-folha-larga
++ Hortelã | Menta | Mint | Hierbabuena | c | https://pt.wikipedia.org/wiki/Mentha
++ Pimenta | | Chili pepper | Chile;Ají | i | https://pt.wikipedia.org/wiki/Capsicum_frutescens
+~ Abóbora | Moranga;Abóbora-moranga;Cabotiá;Abóbora-japonesa | https://pt.wikipedia.org/wiki/Ab%C3%B3bora
+~ Repolho | Repolho roxo | https://pt.wikipedia.org/wiki/Repolho
+~ Tomate | Tomate-cereja | https://pt.wikipedia.org/wiki/Tomate
+~ Vagem | Feijão-verde | https://www.dicio.com.br/vagem/
+~ Ervilha | Ervilha-torta | https://www.dicio.com.br/ervilha/
++ Yacon | Batata yacon | Yacon | Yacón | r | https://pt.wikipedia.org/wiki/Yacon
++ Jambu | | | | r | https://pt.wikipedia.org/wiki/Acmella_oleracea
++ Caruru | Bredo | Amaranth | Bledo | r | https://pt.wikipedia.org/wiki/Caruru
++ Endívia | | Endive | Endibia | r | https://pt.wikipedia.org/wiki/End%C3%ADvia
++ Radicchio | Chicória-vermelha | Radicchio | Radicchio | e | https://pt.wikipedia.org/wiki/Cichorium_intybus
++ Couve-chinesa | Acelga-chinesa | Napa cabbage | Col china | r | https://pt.wikipedia.org/wiki/Couve-china
++ Couve-rábano | | Kohlrabi | Colinabo | e | https://pt.wikipedia.org/wiki/Couve-r%C3%A1bano
++ Broto de feijão | Moyashi | Bean sprout | Brote de soja | r | https://pt.wikipedia.org/wiki/Moyashi
++ Tupinambo | Alcachofra-de-jerusalém | Jerusalem artichoke | Tupinambo | e | https://pt.wikipedia.org/wiki/Helianthus_tuberosus
++ Azedinha | Azeda | Sorrel | Acedera | e | https://pt.wikipedia.org/wiki/Rumex_acetosa
++ Capuchinha | Chagas | Nasturtium | Capuchina | e | https://pt.wikipedia.org/wiki/Tropaeolum_majus
++ Nirá | Cebolinha-chinesa | Garlic chives | | e | https://pt.wikipedia.org/wiki/Allium_tuberosum
++ Dente-de-leão | | Dandelion | Diente de león | e | https://pt.wikipedia.org/wiki/Dente-de-le%C3%A3o
++ Serralha | | Sow thistle | Cerraja | e | https://pt.wikipedia.org/wiki/Serralha
+
+== com-temperos
+~ Pimenta-do-reino | Pimenta-preta;Pimenta-branca | https://pt.wikipedia.org/wiki/Pimenta-do-reino
+~ Pimenta caiena | Pimenta-de-caiena | https://pt.wikipedia.org/wiki/Pimenta-de-caiena
+~ Cebolinha | Cebolinha-francesa;Ciboulette | https://pt.wikipedia.org/wiki/Allium_schoenoprasum
+~ Manjericão | Alfavaca;Basílico | https://pt.wikipedia.org/wiki/Manjeric%C3%A3o-de-folha-larga
+~ Páprica | Páprica defumada;Páprica doce;Páprica picante | https://pt.wikipedia.org/wiki/P%C3%A1prica
+~ Sal | Sal grosso;Sal marinho;Sal rosa;Flor de sal | https://pt.wikipedia.org/wiki/Sal_de_cozinha
+~ Coentro | Semente de coentro | https://pt.wikipedia.org/wiki/Coentro
++ Pimenta síria | Bahar;Baharat | Baharat | Baharat | r | https://pt.wikipedia.org/wiki/Pimenta_s%C3%ADria
++ Vinagre | | Vinegar | Vinagre | i | https://pt.wikipedia.org/wiki/Vinagre
++ Shoyu | Molho de soja;Molho shoyu | Soy sauce | Salsa de soja | i | https://pt.wikipedia.org/wiki/Molho_de_soja
++ Molho inglês | Worcestershire | Worcestershire sauce | Salsa inglesa | r | https://pt.wikipedia.org/wiki/Molho_Worcestershire
++ Glutamato monossódico | Glutamato;Ajinomoto | MSG;Monosodium glutamate | Glutamato monosódico | r | https://pt.wikipedia.org/wiki/Glutamato_monoss%C3%B3dico
++ Pimenta jalapeño | Jalapeño;Jalapenho;Pimenta-jalapenho | Jalapeño | Jalapeño | r | https://pt.wikipedia.org/wiki/Pimenta-jalapenho
++ Pimenta habanero | Habanero;Pimenta-lampião | Habanero | Habanero | r | https://pt.wikipedia.org/wiki/Pimento_Lampi%C3%A3o
++ Pimenta-murupi | Murupi | | | e | https://pt.wikipedia.org/wiki/Capsicum_chinense
++ Za'atar | Zaatar | Za'atar | Zaatar | e | https://pt.wikipedia.org/wiki/Za%27atar
++ Ras el hanout | | Ras el hanout | Ras el hanout | l | https://pt.wikipedia.org/wiki/Ras_el_hanout
++ Harissa | | Harissa | Harissa | e | https://pt.wikipedia.org/wiki/Harissa
++ Segurelha | | Savory | Ajedrea | e | https://pt.wikipedia.org/wiki/Satureja
++ Macis | Mácide | Mace | Macis | e | https://pt.wikipedia.org/wiki/Macis
++ Assa-fétida | | Asafoetida | Asafétida | l | https://pt.wikipedia.org/wiki/Ferula_assafoetida
++ Galanga | | Galangal | Galanga | l | https://pt.wikipedia.org/wiki/Galanga
++ Pimenta-longa | | Long pepper | Pimienta larga | l | https://pt.wikipedia.org/wiki/Pimenta-longa
+
+== com-pratos-brasileiros
+~ Baião de dois | Baião | https://pt.wikipedia.org/wiki/Bai%C3%A3o_de_dois
++ Prato feito | PF;Prato comercial | | | i | https://pt.wikipedia.org/wiki/Prato_comercial
++ Casquinha de siri | | | | i | https://pt.wikipedia.org/wiki/Casquinha_de_siri
++ Rabada | | Oxtail stew | Rabo de toro | i | https://pt.wikipedia.org/wiki/Rabada
++ Biscoito de polvilho | Avoador;Biscoito de goma;Peta | | | i | https://pt.wikipedia.org/wiki/Avoador
++ Misto-quente | Misto | Ham and cheese sandwich | Mixto | i | https://pt.wikipedia.org/wiki/Misto-quente
++ Cozido | Cozido à brasileira | | Cocido | i | https://pt.wikipedia.org/wiki/Cozido
++ Filé à Oswaldo Aranha | Filé Oswaldo Aranha | | | r | https://pt.wikipedia.org/wiki/Fil%C3%A9_%C3%A0_Oswaldo_Aranha
++ Arrumadinho | | | | r | https://pt.wikipedia.org/wiki/Arrumadinho
++ Maria-isabel | Arroz Maria Isabel;Arroz de pinicado | | | r | https://pt.wikipedia.org/wiki/Maria-isabel
++ Torta capixaba | | | | r | https://pt.wikipedia.org/wiki/Torta_capixaba
++ Carne de onça | | | | r | https://pt.wikipedia.org/wiki/Culin%C3%A1ria_do_Paran%C3%A1
++ Sopa paraguaia | | | Sopa paraguaya | e | https://pt.wikipedia.org/wiki/Sopa_paraguaia
++ Arroz de hauçá | | | | e | https://pt.wikipedia.org/wiki/Arroz_de_hau%C3%A7%C3%A1
+
+== com-doces-brasileiros
+~ Paçoca | Paçoquinha | https://pt.wikipedia.org/wiki/Pa%C3%A7oca
+~ Cocada | Cocada branca;Cocada preta;Cocada queimada | https://pt.wikipedia.org/wiki/Cocada
+~ Goiabada | Goiabada cascão | https://pt.wikipedia.org/wiki/Goiabada
+~ Sagu | Sagu de vinho | https://pt.wikipedia.org/wiki/Sagu
+~ Quindim | Quindão | https://pt.wikipedia.org/wiki/Quindim
+~ Doce de leite | Doce de leite de cortar | https://pt.wikipedia.org/wiki/Doce_de_leite
+~ Pavê | Pavê de chocolate | https://pt.wikipedia.org/wiki/Pav%C3%AA
++ Bolinho de chuva | | | | c | https://pt.wikipedia.org/wiki/Bolinho_de_chuva
++ Sacolé | Geladinho;Dindin;Chup-chup;Flau;Gelinho | | | i | https://pt.wikipedia.org/wiki/Sacol%C3%A9
++ Palha italiana | | | | i | https://pt.wikipedia.org/wiki/Palha_italiana
++ Doce de mamão | Doce de mamão verde | | Dulce de papaya | r | https://pt.wikipedia.org/wiki/Doce_de_mam%C3%A3o
++ Broa de fubá | Broa;Broa de milho | | | r | https://pt.wikipedia.org/wiki/Broa_de_fub%C3%A1
++ Nego bom | | | | r | https://pt.wikipedia.org/wiki/Nego_bom
++ Mané pelado | | | | e | https://pt.wikipedia.org/wiki/Man%C3%A9_pelado
++ Alfenim | | | Alfeñique | e | https://pt.wikipedia.org/wiki/Alfenim
++ Chimia | Schmier | | | e | https://pt.wikipedia.org/wiki/Chimia
+
+== com-bebidas-alcoolicas
+~ Vinho | Vinho tinto;Vinho branco;Vinho rosé | https://pt.wikipedia.org/wiki/Vinho
+~ Batida | Batida de coco;Batidinha | https://pt.wikipedia.org/wiki/Batida_(bebida)
+~ Hi-fi | Screwdriver | https://en.wikipedia.org/wiki/Screwdriver_(cocktail)
+~ Caipiroska | Caipivodka | https://pt.wikipedia.org/wiki/Caipiroska
+~ Cerveja | Pilsen;Lager;IPA;Stout;Weiss;Ale;Cerveja artesanal | https://pt.wikipedia.org/wiki/Cerveja
++ Bourbon | | Bourbon | Bourbon | i | https://pt.wikipedia.org/wiki/Bourbon_(u%C3%ADsque)
++ Prosecco | | Prosecco | Prosecco | i | https://pt.wikipedia.org/wiki/Prosecco
++ Vinho verde | | Vinho verde | Vino verde | r | https://pt.wikipedia.org/wiki/Vinho_verde
++ Lambrusco | | Lambrusco | Lambrusco | r | https://pt.wikipedia.org/wiki/Lambrusco
++ Moscatel | | Muscat | Moscatel | r | https://pt.wikipedia.org/wiki/Moscatel
++ Vinho da Madeira | Madeira | Madeira wine | Vino de Madeira | e | https://pt.wikipedia.org/wiki/Vinho_da_Madeira
++ Marsala | Vinho Marsala | Marsala | Marsala | e | https://pt.wikipedia.org/wiki/Vinho_Marsala
++ Amaretto | | Amaretto | Amaretto | r | https://pt.wikipedia.org/wiki/Amaretto
++ Limoncello | | Limoncello | Limoncello | r | https://pt.wikipedia.org/wiki/Limoncello
++ Curaçau | Blue curaçao;Curaçao | Curaçao | Curazao | r | https://pt.wikipedia.org/wiki/Cura%C3%A7ao_(licor)
++ Sambuca | | Sambuca | Sambuca | e | https://pt.wikipedia.org/wiki/Sambuca
++ Anisete | | Anisette | Anisete | e | https://pt.wikipedia.org/wiki/Anisete
++ Pastis | | Pastis | Pastis | e | https://pt.wikipedia.org/wiki/Pastis
++ Rakı | Raki | Rakı | Rakı | e | https://pt.wikipedia.org/wiki/Rak%C4%B1
++ Armanhaque | Armagnac | Armagnac | Armañac | e | https://pt.wikipedia.org/wiki/Armagnac
++ Leite de onça | | | | r | https://pt.wikipedia.org/wiki/Leite_de_on%C3%A7a
++ Cauim | | | | e | https://pt.wikipedia.org/wiki/Cauim
++ Chicha | | Chicha | Chicha | e | https://pt.wikipedia.org/wiki/Chicha
++ Pulque | | Pulque | Pulque | e | https://pt.wikipedia.org/wiki/Pulque
++ Baijiu | | Baijiu | Baijiu | l | https://pt.wikipedia.org/wiki/Baijiu
++ Makgeolli | | Makgeolli | Makgeolli | l | https://pt.wikipedia.org/wiki/Makgeolli
++ Slivovitz | | Slivovitz | Slivovitz | l | https://pt.wikipedia.org/wiki/Slivovitz
++ Old fashioned | | Old Fashioned | Old fashioned | r | https://pt.wikipedia.org/wiki/Old_fashioned
++ Manhattan | | Manhattan | Manhattan | r | https://pt.wikipedia.org/wiki/Manhattan_(coquetel)
++ Pisco sour | | Pisco sour | Pisco sour | r | https://pt.wikipedia.org/wiki/Pisco_sour
++ Long Island Iced Tea | Long Island | Long Island Iced Tea | Long Island | r | https://pt.wikipedia.org/wiki/Long_Island_Iced_Tea
++ Irish coffee | Café irlandês | Irish coffee | Café irlandés | r | https://pt.wikipedia.org/wiki/Irish_coffee
++ Whisky sour | Whiskey sour | Whiskey sour | Whisky sour | r | https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails
++ Bellini | | Bellini | Bellini | r | https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails
++ Mimosa | | Mimosa | Mimosa | r | https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails
++ Espresso martini | | Espresso martini | Espresso martini | r | https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails
++ Tequila sunrise | | Tequila Sunrise | Tequila sunrise | r | https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails
++ Mai tai | | Mai Tai | Mai tai | e | https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails
++ Mint julep | | Mint Julep | Mint julep | e | https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails
++ Sidecar | | Sidecar | Sidecar | e | https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails
++ Gin fizz | | Gin Fizz | Gin fizz | e | https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails
++ Black Russian | Russo negro | Black Russian | Ruso negro | e | https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails
++ Alexander | Brandy Alexander | Alexander | Alexander | e | https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails
++ Zombie | | Zombie | Zombie | e | https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails
++ Paloma | | Paloma | Paloma | e | https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails
++ French 75 | | French 75 | French 75 | l | https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails
++ Rusty Nail | | Rusty Nail | Rusty Nail | l | https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails
+
+== com-massas
+~ Penne | Penne rigate | https://en.wikipedia.org/wiki/List_of_pasta
+~ Parafuso | Macarrão parafuso | https://en.wikipedia.org/wiki/List_of_pasta
+~ Gravatinha | Gravata;Borboleta | https://en.wikipedia.org/wiki/List_of_pasta
+~ Cotovelo | Cotovelinho | https://en.wikipedia.org/wiki/List_of_pasta
+~ Bifum | Macarrão de arroz | https://en.wikipedia.org/wiki/List_of_pasta
++ Bavette | | Bavette | Bavette | r | https://en.wikipedia.org/wiki/List_of_pasta
++ Mafalda | Mafalde;Mafaldine | Mafaldine | Mafalda | e | https://en.wikipedia.org/wiki/List_of_pasta
++ Anelli | Argolinha;Anelini | Anelli | Anelli | e | https://en.wikipedia.org/wiki/List_of_pasta
++ Rotelle | Ruote;Rodinha | Rotelle;Wagon wheels | Rotelle | e | https://en.wikipedia.org/wiki/List_of_pasta
++ Campanelle | | Campanelle | Campanelle | e | https://en.wikipedia.org/wiki/List_of_pasta
++ Cavatelli | | Cavatelli | Cavatelli | e | https://en.wikipedia.org/wiki/List_of_pasta
++ Garganelli | | Garganelli | Garganelli | l | https://pt.wikipedia.org/wiki/Garganelli
++ Strozzapreti | | Strozzapreti | Strozzapreti | l | https://en.wikipedia.org/wiki/List_of_pasta
++ Casarecce | | Casarecce | Casarecce | l | https://en.wikipedia.org/wiki/List_of_pasta
++ Gramigna | | Gramigna | Gramigna | l | https://en.wikipedia.org/wiki/List_of_pasta
++ Maltagliati | | Maltagliati | Maltagliati | l | https://en.wikipedia.org/wiki/List_of_pasta
++ Spätzle | Spaetzle | Spätzle | Spätzle | e | https://pt.wikipedia.org/wiki/Sp%C3%A4tzle
+
+== com-queijos
+~ Minas frescal | Minas;Queijo minas;Queijo branco;Queijo fresco | https://pt.wikipedia.org/wiki/Queijo_minas
+~ Muçarela | Mozarela;Muzarela;Queijo muçarela;Queijo mussarela | https://pt.wikipedia.org/wiki/Mu%C3%A7arela
+~ Emmental | Queijo suíço;Suíço;Emmentaler | https://pt.wikipedia.org/wiki/Emmentaler_(queijo)
+~ Queijo serro | Queijo do serro | https://pt.wikipedia.org/wiki/Queijo_do_Serro
+~ Queijo do reino | Queijo reino | https://pt.wikipedia.org/wiki/Queijo_do_reino
+~ Pecorino | Pecorino romano | https://pt.wikipedia.org/wiki/Pecorino_romano
++ Queijo de cabra | Chèvre | Goat cheese | Queso de cabra | i | https://pt.wikipedia.org/wiki/Queijo_de_cabra
++ Queijo do Marajó | Queijo marajoara | | | r | https://pt.wikipedia.org/wiki/Queijo_do_Maraj%C3%B3
++ Queijo serrano | | | | e | https://pt.wikipedia.org/wiki/Queijo_serrano
++ Serra da Estrela | Queijo da serra;Queijo Serra da Estrela | | Queso Serra da Estrela | r | https://pt.wikipedia.org/wiki/Queijo_Serra_da_Estrela
++ Fontina | | Fontina | Fontina | e | https://pt.wikipedia.org/wiki/Fontina
++ Stracciatella | | Stracciatella | Stracciatella | e | https://pt.wikipedia.org/wiki/Stracciatella_(queijo)
++ Scamorza | | Scamorza | Scamorza | e | https://en.wikipedia.org/wiki/Scamorza
++ Caciocavallo | | Caciocavallo | Caciocavallo | l | https://en.wikipedia.org/wiki/Caciocavallo
++ Comté | | Comté | Comté | e | https://pt.wikipedia.org/wiki/Comt%C3%A9
++ Reblochon | | Reblochon | Reblochon | l | https://en.wikipedia.org/wiki/Reblochon
++ Munster | | Munster | Munster | e | https://pt.wikipedia.org/wiki/Munster_(queijo)
++ Appenzeller | | Appenzeller | Appenzeller | l | https://en.wikipedia.org/wiki/Appenzeller_cheese
++ Jarlsberg | | Jarlsberg | Jarlsberg | l | https://pt.wikipedia.org/wiki/Jarlsberg
++ Havarti | | Havarti | Havarti | e | https://en.wikipedia.org/wiki/Havarti
++ Limburger | | Limburger | Limburger | l | https://en.wikipedia.org/wiki/Limburger
++ Monterey Jack | | Monterey Jack | Monterey Jack | e | https://pt.wikipedia.org/wiki/Monterey_Jack
++ Paneer | | Paneer | Paneer | e | https://pt.wikipedia.org/wiki/Paneer
++ Labneh | Coalhada seca | Labneh | Labneh | e | https://pt.wikipedia.org/wiki/Labneh
++ Cabrales | | Cabrales | Cabrales | l | https://pt.wikipedia.org/wiki/Cabrales
