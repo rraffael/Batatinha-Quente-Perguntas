@@ -1,0 +1,54 @@
+== geo-uf-brasil
+~ Minas Gerais | Minas | https://pt.wikipedia.org/wiki/Minas_Gerais
+
+== geo-capitais-europa
+~ Astana | Nur-Sultan | https://pt.wikipedia.org/wiki/Astana
+~ Vilnius | Vilna | https://pt.wikipedia.org/wiki/Vilnius
+~ Tbilisi | Tiblíssi;Tiflis | https://pt.wikipedia.org/wiki/Tbilisi
+
+== geo-rios-brasil
+~ Rio das Velhas | Das Velhas | https://pt.wikipedia.org/wiki/Rio_das_Velhas
++ Paranaíba | Rio Paranaíba | | | i | https://pt.wikipedia.org/wiki/Rio_Parana%C3%ADba
++ Tamanduateí | | | | r | https://pt.wikipedia.org/wiki/Rio_Tamanduate%C3%AD
++ Piranhas-Açu | Piranhas;Açu;Piranhas-Assu | | | r | https://pt.wikipedia.org/wiki/Rio_Piranhas%E2%80%93A%C3%A7u
++ Pindaré | | | | r | https://pt.wikipedia.org/wiki/Rio_Pindar%C3%A9
++ Miranda | | | | r | https://pt.wikipedia.org/wiki/Rio_Miranda
++ Aquidauana | | | | r | https://pt.wikipedia.org/wiki/Rio_Aquidauana
++ Capivari | | | | r | https://pt.wikipedia.org/wiki/Rio_Capivari
++ Jundiaí | | | | r | https://pt.wikipedia.org/wiki/Rio_Jundia%C3%AD
++ Guandu | | | | r | https://pt.wikipedia.org/wiki/Rio_Guandu
++ Muriaé | | | | r | https://pt.wikipedia.org/wiki/Rio_Muria%C3%A9
++ Itapemirim | | | | e | https://pt.wikipedia.org/wiki/Rio_Itapemirim
++ Sergipe | | | | r | https://pt.wikipedia.org/wiki/Rio_Sergipe
++ Paraíba | Paraíba do Norte | | | r | https://pt.wikipedia.org/wiki/Rio_Para%C3%ADba
++ Potengi | | | | r | https://pt.wikipedia.org/wiki/Rio_Potengi
++ Acaraú | | | | e | https://pt.wikipedia.org/wiki/Rio_Acara%C3%BA
++ Preguiças | | | | r | https://pt.wikipedia.org/wiki/Rio_Pregui%C3%A7as
++ Urucuia | | | | r | https://pt.wikipedia.org/wiki/Rio_Urucuia
++ Paracatu | | | | r | https://pt.wikipedia.org/wiki/Rio_Paracatu
++ Meia Ponte | Meia-Ponte | | | r | https://pt.wikipedia.org/wiki/Rio_Meia-Ponte
++ Corumbá | | | | r | https://pt.wikipedia.org/wiki/Rio_Corumb%C3%A1
++ Rio das Mortes | Das Mortes | | | r | https://pt.wikipedia.org/wiki/Rio_das_Mortes
++ Roosevelt | Rio da Dúvida | | | r | https://pt.wikipedia.org/wiki/Rio_Roosevelt
++ Ji-Paraná | Machado | | | r | https://pt.wikipedia.org/wiki/Rio_Ji-Paran%C3%A1
++ Acre | | | | r | https://pt.wikipedia.org/wiki/Rio_Acre
++ Guamá | | | | r | https://pt.wikipedia.org/wiki/Rio_Guam%C3%A1
++ Tibagi | Tibaji | | | r | https://pt.wikipedia.org/wiki/Rio_Tibaji
++ Ivaí | | | | r | https://pt.wikipedia.org/wiki/Rio_Iva%C3%AD
++ Piquiri | | | | e | https://pt.wikipedia.org/wiki/Rio_Piquiri
++ Canoas | | | | e | https://pt.wikipedia.org/wiki/Rio_Canoas
++ Pelotas | | | | e | https://pt.wikipedia.org/wiki/Rio_Pelotas
++ Ibicuí | | | | e | https://pt.wikipedia.org/wiki/Rio_Ibicu%C3%AD
++ Quaraí | | | | e | https://pt.wikipedia.org/wiki/Rio_Quara%C3%AD
++ Camaquã | | | | e | https://pt.wikipedia.org/wiki/Rio_Camaqu%C3%A3
++ Jaguarão | | | | e | https://pt.wikipedia.org/wiki/Rio_Jaguar%C3%A3o
++ Rio dos Sinos | Sinos;Dos Sinos | | | r | https://pt.wikipedia.org/wiki/Rio_dos_Sinos
++ Gravataí | | | | e | https://pt.wikipedia.org/wiki/Rio_Gravata%C3%AD
++ Caí | | | | e | https://pt.wikipedia.org/wiki/Rio_Ca%C3%AD
++ Rio das Antas | Das Antas;Antas | | | e | https://pt.wikipedia.org/wiki/Rio_das_Antas
++ Carioca | Rio Carioca | | | e | https://pt.wikipedia.org/wiki/Rio_Carioca
++ Tefé | | | | e | https://pt.wikipedia.org/wiki/Rio_Tef%C3%A9
++ Envira | | | | e | https://pt.wikipedia.org/wiki/Rio_Envira
++ Tarauacá | | | | e | https://pt.wikipedia.org/wiki/Rio_Tarauac%C3%A1
++ Nhamundá | | | | e | https://pt.wikipedia.org/wiki/Rio_Nhamund%C3%A1
++ Moju | | | | e | https://pt.wikipedia.org/wiki/Rio_Moju

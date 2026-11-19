@@ -1,0 +1,165 @@
+== his-presidentes-brasil
+~ Fernando Henrique Cardoso | Fernando Henrique | https://pt.wikipedia.org/wiki/Fernando_Henrique_Cardoso
+~ Floriano Peixoto | Marechal Floriano | https://pt.wikipedia.org/wiki/Floriano_Peixoto
+~ Hermes da Fonseca | Marechal Hermes | https://pt.wikipedia.org/wiki/Hermes_da_Fonseca
+~ Prudente de Morais | Prudente | https://pt.wikipedia.org/wiki/Prudente_de_Morais
+~ Campos Sales | Campos Salles | https://pt.wikipedia.org/wiki/Campos_Sales
+~ Washington Luís | Washington Luiz | https://pt.wikipedia.org/wiki/Washington_Lu%C3%ADs
+~ Artur Bernardes | Arthur Bernardes | https://pt.wikipedia.org/wiki/Artur_Bernardes
+~ Epitácio Pessoa | Epitácio | https://pt.wikipedia.org/wiki/Epit%C3%A1cio_Pessoa
+~ Ranieri Mazzilli | Mazzilli | https://pt.wikipedia.org/wiki/Ranieri_Mazzilli
+
+== his-imperadores-romanos
++ Maxêncio | Magêncio | Maxentius | Majencio | e | https://pt.wikipedia.org/wiki/Max%C3%AAncio
++ Licínio | Licínio I | Licinius | Licinio | e | https://pt.wikipedia.org/wiki/Lic%C3%ADnio
++ Constante | Constante I | Constans | Constante | e | https://pt.wikipedia.org/wiki/Constante_I
++ Constantino II | | Constantine II | Constantino II | l | https://en.wikipedia.org/wiki/Constantine_II_(emperor)
++ Valentiniano II | | Valentinian II | Valentiniano II | l | https://pt.wikipedia.org/wiki/Valentiniano_II
++ Valentiniano III | | Valentinian III | Valentiniano III | e | https://pt.wikipedia.org/wiki/Valentiniano_III
++ Treboniano Galo | | Trebonianus Gallus | Treboniano Galo | e | https://pt.wikipedia.org/wiki/Treboniano_Galo
++ Emiliano | | Aemilian | Emiliano | l | https://en.wikipedia.org/wiki/Aemilian
++ Hostiliano | | Hostilian | Hostiliano | l | https://pt.wikipedia.org/wiki/Hostiliano
++ Volusiano | | Volusianus | Volusiano | l | https://pt.wikipedia.org/wiki/Volusiano
++ Quintilo | | Quintillus | Quintilo | l | https://pt.wikipedia.org/wiki/Quintilo
++ Tácito | | Tacitus | Tácito | l | https://pt.wikipedia.org/wiki/T%C3%A1cito_(imperador)
++ Floriano | | Florianus | Floriano | l | https://pt.wikipedia.org/wiki/Floriano_(imperador)
++ Caro | | Carus | Caro | l | https://pt.wikipedia.org/wiki/Caro_(imperador)
++ Carino | | Carinus | Carino | l | https://pt.wikipedia.org/wiki/Carino
++ Numeriano | | Numerian | Numeriano | l | https://pt.wikipedia.org/wiki/Numeriano
++ Severo II | Valério Severo | Severus II | Severo II | l | https://pt.wikipedia.org/wiki/Severo_II
++ Maximino Daia | Maximino II | Maximinus Daza | Maximino Daya | l | https://pt.wikipedia.org/wiki/Maximino_Daia
++ Pupieno | | Pupienus | Pupieno | l | https://pt.wikipedia.org/wiki/Pupieno
++ Balbino | | Balbinus | Balbino | l | https://pt.wikipedia.org/wiki/Balbino
++ Gordiano I | | Gordian I | Gordiano I | l | https://pt.wikipedia.org/wiki/Gordiano_I
++ Gordiano II | | Gordian II | Gordiano II | l | https://pt.wikipedia.org/wiki/Gordiano_II
++ Petrônio Máximo | | Petronius Maximus | Petronio Máximo | l | https://pt.wikipedia.org/wiki/Petr%C3%B4nio_M%C3%A1ximo
++ Avito | | Avitus | Avito | l | https://en.wikipedia.org/wiki/Avitus
++ Majoriano | | Majorian | Mayoriano | l | https://pt.wikipedia.org/wiki/Majoriano
++ Líbio Severo | | Libius Severus | Libio Severo | l | https://pt.wikipedia.org/wiki/L%C3%ADbio_Severo
++ Antêmio | | Anthemius | Antemio | l | https://pt.wikipedia.org/wiki/Ant%C3%AAmio
++ Olíbrio | | Olybrius | Olibrio | l | https://pt.wikipedia.org/wiki/Ol%C3%ADbrio
++ Glicério | | Glycerius | Glicerio | l | https://pt.wikipedia.org/wiki/Glic%C3%A9rio
++ Júlio Nepos | | Julius Nepos | Julio Nepote | l | https://pt.wikipedia.org/wiki/J%C3%BAlio_Nepos
+
+== his-guerras
++ Revolução Francesa | | French Revolution | Revolución francesa | r | https://pt.wikipedia.org/wiki/Revolu%C3%A7%C3%A3o_Francesa
++ Revolução de 1930 | | Revolution of 1930 | Revolución de 1930 | r | https://pt.wikipedia.org/wiki/Revolu%C3%A7%C3%A3o_de_1930
++ Revolta dos Malês | | Malê revolt | Revuelta de los Malês | e | https://pt.wikipedia.org/wiki/Revolta_dos_Mal%C3%AAs
++ Conjuração Baiana | Revolta dos Alfaiates;Revolta dos Búzios | Bahian Conspiracy | Conjuración bahiana | e | https://pt.wikipedia.org/wiki/Conjura%C3%A7%C3%A3o_Baiana
++ Revolução Praieira | Praieira | Praieira revolt | Revolución Praieira | e | https://pt.wikipedia.org/wiki/Revolu%C3%A7%C3%A3o_Praieira
++ Revolução Federalista | | Federalist Revolution | Revolución Federalista | e | https://pt.wikipedia.org/wiki/Revolu%C3%A7%C3%A3o_Federalista
++ Revolta dos 18 do Forte | Revolta do Forte de Copacabana;Os 18 do Forte | Copacabana Fort revolt | Revuelta del Fuerte de Copacabana | e | https://pt.wikipedia.org/wiki/Revolta_dos_18_do_Forte_de_Copacabana
++ Coluna Prestes | | Prestes Column | Columna Prestes | e | https://pt.wikipedia.org/wiki/Coluna_Prestes
++ Intentona Comunista | Levante Comunista | Communist Uprising of 1935 | Intentona Comunista | e | https://pt.wikipedia.org/wiki/Intentona_Comunista
++ Guerrilha do Araguaia | | Araguaia Guerrilla War | Guerrilla de Araguaia | e | https://pt.wikipedia.org/wiki/Guerrilha_do_Araguaia
++ Guerra Guaranítica | | Guarani War | Guerra Guaranítica | e | https://pt.wikipedia.org/wiki/Guerra_Guaran%C3%ADtica
++ Insurreição Pernambucana | | Pernambucan Insurrection | Insurrección Pernambucana | e | https://pt.wikipedia.org/wiki/Insurrei%C3%A7%C3%A3o_Pernambucana
++ Revolta de Beckman | | Beckman Revolt | Revuelta de Beckman | l | https://pt.wikipedia.org/wiki/Revolta_de_Beckman
++ Revolta de Filipe dos Santos | Revolta de Vila Rica | Vila Rica Revolt | | l | https://pt.wikipedia.org/wiki/Revolta_de_Filipe_dos_Santos
++ Guerra dos Bárbaros | Confederação dos Cariris | Barbarian War | Guerra de los Bárbaros | l | https://pt.wikipedia.org/wiki/Guerra_dos_B%C3%A1rbaros
++ Cabanada | | Cabanada | Cabanada | l | https://pt.wikipedia.org/wiki/Cabanada
++ Revolta dos Muckers | Muckers | Mucker revolt | | l | https://pt.wikipedia.org/wiki/Revolta_dos_Muckers
++ Revolta do Quebra-Quilos | Quebra-Quilos | Quebra-Quilos revolt | | l | https://pt.wikipedia.org/wiki/Revolta_do_Quebra-Quilos
++ Guerra do Prata | Guerra contra Oribe e Rosas | Platine War | Guerra Grande | l | https://pt.wikipedia.org/wiki/Guerra_do_Prata
++ Guerra Franco-Prussiana | | Franco-Prussian War | Guerra franco-prusiana | e | https://pt.wikipedia.org/wiki/Guerra_Franco-Prussiana
++ Guerras Balcânicas | Guerra dos Bálcãs | Balkan Wars | Guerras de los Balcanes | e | https://pt.wikipedia.org/wiki/Guerras_Balc%C3%A2nicas
++ Guerra Civil Inglesa | Revolução Inglesa | English Civil War | Guerra civil inglesa | e | https://pt.wikipedia.org/wiki/Guerra_Civil_Inglesa
++ Guerras Gálicas | Guerra das Gálias | Gallic Wars | Guerra de las Galias | e | https://pt.wikipedia.org/wiki/Guerras_G%C3%A1licas
++ Guerra Anglo-Americana de 1812 | Guerra de 1812 | War of 1812 | Guerra anglo-estadounidense de 1812 | e | https://pt.wikipedia.org/wiki/Guerra_Anglo-Americana_de_1812
++ Guerra Mexicano-Americana | | Mexican–American War | Intervención estadounidense en México | e | https://pt.wikipedia.org/wiki/Guerra_Mexicano-Americana
++ Guerra de Inverno | Guerra Russo-Finlandesa | Winter War | Guerra de Invierno | e | https://pt.wikipedia.org/wiki/Guerra_de_Inverno
++ Guerra Civil Chinesa | Revolução Chinesa | Chinese Civil War | Guerra civil china | e | https://pt.wikipedia.org/wiki/Guerra_Civil_Chinesa
++ Revolução Cubana | | Cuban Revolution | Revolución cubana | r | https://pt.wikipedia.org/wiki/Revolu%C3%A7%C3%A3o_Cubana
++ Guerra Israel-Hamas | Guerra de Gaza;Guerra em Gaza | Gaza war | Guerra de Gaza | r | https://pt.wikipedia.org/wiki/Guerra_Israel-Hamas
++ Guerra da Chechênia | Guerras da Chechênia;Guerra da Tchetchênia | Chechen wars | Guerras chechenas | e | https://pt.wikipedia.org/wiki/Primeira_Guerra_da_Chech%C3%AAnia
++ Genocídio em Ruanda | Guerra Civil de Ruanda;Genocídio de Ruanda | Rwandan Civil War | Guerra civil ruandesa | e | https://pt.wikipedia.org/wiki/Guerra_Civil_de_Ruanda
++ Guerra Civil Angolana | | Angolan Civil War | Guerra civil angoleña | e | https://pt.wikipedia.org/wiki/Guerra_Civil_Angolana
++ Guerra Civil Moçambicana | | Mozambican Civil War | Guerra civil mozambiqueña | l | https://pt.wikipedia.org/wiki/Guerra_Civil_Mo%C3%A7ambicana
++ Guerra de Biafra | Guerra Civil Nigeriana | Nigerian Civil War | Guerra de Biafra | e | https://pt.wikipedia.org/wiki/Guerra_Civil_Nigeriana
++ Guerra Árabe-Israelense de 1948 | Guerra da Independência de Israel | 1948 Arab–Israeli War | Guerra árabe-israelí de 1948 | e | https://pt.wikipedia.org/wiki/Guerra_%C3%81rabe-Israelense_de_1948
++ Crise de Suez | Guerra de Suez | Suez Crisis | Crisis de Suez | e | https://pt.wikipedia.org/wiki/Crise_de_Suez
++ Guerras Iugoslavas | Guerras da Iugoslávia | Yugoslav Wars | Guerras yugoslavas | e | https://pt.wikipedia.org/wiki/Guerras_Iugoslavas
++ Guerra de Nagorno-Karabakh | Guerra do Alto Carabaque | Nagorno-Karabakh war | Guerra del Alto Karabaj | e | https://en.wikipedia.org/wiki/Second_Nagorno-Karabakh_War
++ Guerra Russo-Georgiana | Guerra da Geórgia | Russo-Georgian War | Guerra de Osetia del Sur | e | https://pt.wikipedia.org/wiki/Guerra_Russo-Georgiana
++ Revolução Haitiana | | Haitian Revolution | Revolución haitiana | e | https://pt.wikipedia.org/wiki/Revolu%C3%A7%C3%A3o_Haitiana
++ Reconquista | | Reconquista | Reconquista | e | https://pt.wikipedia.org/wiki/Reconquista
++ Guerra da Sucessão Espanhola | | War of the Spanish Succession | Guerra de sucesión española | l | https://pt.wikipedia.org/wiki/Guerra_da_Sucess%C3%A3o_Espanhola
++ Guerra da Sucessão Austríaca | | War of the Austrian Succession | Guerra de sucesión austríaca | l | https://pt.wikipedia.org/wiki/Guerra_da_Sucess%C3%A3o_Austr%C3%ADaca
++ Guerra Austro-Prussiana | Guerra das Sete Semanas | Austro-Prussian War | Guerra austro-prusiana | l | https://pt.wikipedia.org/wiki/Guerra_Austro-Prussiana
++ Guerra do Futebol | Guerra das Cem Horas | Football War | Guerra del Fútbol | l | https://pt.wikipedia.org/wiki/Guerra_do_Futebol
++ Guerra Civil do Iêmen | | Yemeni Civil War | Guerra civil yemení | e | https://en.wikipedia.org/wiki/Yemeni_civil_war_(2014–present)
++ Guerra Civil Líbia | Guerra da Líbia | Libyan Civil War | Guerra civil libia | e | https://pt.wikipedia.org/wiki/Guerra_Civil_L%C3%ADbia_de_2011
++ Guerra ao Terror | Guerra contra o terrorismo | War on terror | Guerra contra el terrorismo | e | https://pt.wikipedia.org/wiki/Guerra_ao_terror
++ Guerra Ítalo-Etíope | Guerra da Etiópia | Second Italo-Ethiopian War | Segunda guerra ítalo-etíope | l | https://pt.wikipedia.org/wiki/Segunda_Guerra_%C3%8Dtalo-Et%C3%ADope
+
+== his-civilizacoes-antigas
++ Arameus | | Arameans | Arameos | e | https://pt.wikipedia.org/wiki/Arameus
++ Cananeus | | Canaanites | Cananeos | e | https://pt.wikipedia.org/wiki/Cananeus
++ Caldeus | | Chaldeans | Caldeos | e | https://pt.wikipedia.org/wiki/Caldeus
++ Frígios | | Phrygians | Frigios | e | https://pt.wikipedia.org/wiki/Fr%C3%ADgios
++ Aqueus | | Achaeans | Aqueos | e | https://pt.wikipedia.org/wiki/Aqueus
++ Atenienses | Atenas | Athenians | Atenienses | e | https://pt.wikipedia.org/wiki/Atenas_Antiga
++ Trácios | | Thracians | Tracios | e | https://pt.wikipedia.org/wiki/Tr%C3%A1cios
++ Dácios | | Dacians | Dacios | e | https://pt.wikipedia.org/wiki/D%C3%A1cios
++ Ilírios | | Illyrians | Ilirios | e | https://pt.wikipedia.org/wiki/Il%C3%ADrios
++ Sabinos | | Sabines | Sabinos | e | https://pt.wikipedia.org/wiki/Sabinos
++ Latinos | | Latins | Latinos | e | https://en.wikipedia.org/wiki/Latins_(Italic_tribe)
++ Samnitas | | Samnites | Samnitas | l | https://pt.wikipedia.org/wiki/Samnitas
++ Pictos | | Picts | Pictos | l | https://pt.wikipedia.org/wiki/Pictos
++ Sármatas | | Sarmatians | Sármatas | l | https://pt.wikipedia.org/wiki/S%C3%A1rmatas
++ Vândalos | | Vandals | Vándalos | e | https://pt.wikipedia.org/wiki/V%C3%A2ndalos
++ Francos | | Franks | Francos | e | https://pt.wikipedia.org/wiki/Francos
++ Saxões | | Saxons | Sajones | e | https://pt.wikipedia.org/wiki/Sax%C3%B5es
++ Suevos | | Suebi | Suevos | e | https://pt.wikipedia.org/wiki/Suevos
++ Berberes | | Berbers | Bereberes | e | https://pt.wikipedia.org/wiki/Berberes
++ Númidas | Numídia | Numidians | Númidas | e | https://pt.wikipedia.org/wiki/Num%C3%ADdia
++ Garamantes | | Garamantes | Garamantes | l | https://pt.wikipedia.org/wiki/Garamantes
++ Sassânidas | Império Sassânida | Sasanians | Sasánidas | e | https://pt.wikipedia.org/wiki/Imp%C3%A9rio_Sass%C3%A2nida
++ Mixtecas | | Mixtecs | Mixtecos | e | https://pt.wikipedia.org/wiki/Mixtecas
++ Chimus | Chimú;Cultura Chimú | Chimú | Chimú | e | https://pt.wikipedia.org/wiki/Cultura_Chim%C3%BA
++ Paracas | | Paracas | Paracas | e | https://pt.wikipedia.org/wiki/Cultura_Paracas
++ Muíscas | Chibchas | Muisca | Muiscas | e | https://pt.wikipedia.org/wiki/Mu%C3%ADscas
++ Taínos | | Taíno | Taínos | e | https://pt.wikipedia.org/wiki/Ta%C3%ADnos
++ Anasazi | Pueblos ancestrais | Ancestral Puebloans | Anasazi | e | https://pt.wikipedia.org/wiki/Anasazi
++ Tupis | Tupi;Tupis-guaranis | Tupi | Tupíes | r | https://pt.wikipedia.org/wiki/Tupis
++ Guaranis | Guarani | Guarani | Guaraníes | r | https://pt.wikipedia.org/wiki/Guaranis
++ Tupinambás | Tupinambá | Tupinambá | Tupinambás | e | https://pt.wikipedia.org/wiki/Tupinamb%C3%A1s
++ Cultura Tapajônica | Tapajós;Tapajônicos | Santarém culture | Cultura santarém | l | https://pt.wikipedia.org/wiki/Cultura_Tapaj%C3%B4nica
++ Caribes | Caraíbas | Caribs | Caribes | e | https://pt.wikipedia.org/wiki/Caribes
++ Huari | Wari | Wari | Huari | l | https://en.wikipedia.org/wiki/Wari_culture
++ Purépechas | Tarascos | Purépecha | Purépechas | l | https://pt.wikipedia.org/wiki/Pur%C3%A9pechas
++ Totonacas | | Totonac | Totonacas | l | https://pt.wikipedia.org/wiki/Totonacas
++ Império Máuria | Máurias;Império Maurya | Maurya Empire | Imperio Maurya | l | https://pt.wikipedia.org/wiki/Imp%C3%A9rio_M%C3%A1uria
++ Cultura Nok | Nok | Nok culture | Cultura Nok | l | https://en.wikipedia.org/wiki/Nok_culture
+
+== his-faraos
++ Ramsés III | Ramessés III | Ramesses III | Ramsés III | e | https://pt.wikipedia.org/wiki/Rams%C3%A9s_III
++ Ramsés I | Ramessés I | Ramesses I | Ramsés I | l | https://pt.wikipedia.org/wiki/Rams%C3%A9s_I
++ Tutmés I | Tutmósis I;Tutemés I | Thutmose I | Tutmosis I | e | https://pt.wikipedia.org/wiki/Tutm%C3%A9s_I
++ Tutmés II | Tutmósis II;Tutemés II | Thutmose II | Tutmosis II | l | https://pt.wikipedia.org/wiki/Tutm%C3%A9s_II
++ Tutmés IV | Tutmósis IV;Tutemés IV | Thutmose IV | Tutmosis IV | l | https://pt.wikipedia.org/wiki/Tutm%C3%A9s_IV
++ Amenófis I | Amenhotep I | Amenhotep I | Amenhotep I | l | https://pt.wikipedia.org/wiki/Amen%C3%B3fis_I
++ Amenófis II | Amenhotep II | Amenhotep II | Amenhotep II | l | https://pt.wikipedia.org/wiki/Amen%C3%B3fis_II
++ Seti II | | Seti II | Seti II | l | https://pt.wikipedia.org/wiki/Seti_II
++ Ptolomeu II | Ptolomeu II Filadelfo;Ptolemeu II | Ptolemy II Philadelphus | Ptolomeo II | e | https://pt.wikipedia.org/wiki/Ptolomeu_II_Filadelfo
++ Cesarião | Ptolomeu XV | Caesarion | Cesarión | e | https://pt.wikipedia.org/wiki/Cesari%C3%A3o
++ Pepi I | | Pepi I | Pepi I | l | https://pt.wikipedia.org/wiki/Pepi_I
++ Unas | | Unas | Unas | l | https://pt.wikipedia.org/wiki/Unas
++ Teti | | Teti | Teti | l | https://pt.wikipedia.org/wiki/Teti_(fara%C3%B3)
++ Userkaf | Userquerés | Userkaf | Userkaf | l | https://pt.wikipedia.org/wiki/Userkaf
++ Sahure | Sefrés | Sahure | Sahura | l | https://pt.wikipedia.org/wiki/Sahure
++ Djedefré | Radjedef | Djedefre | Dyedefra | l | https://pt.wikipedia.org/wiki/Djedefr%C3%A9
++ Shepseskaf | Seberquerés | Shepseskaf | Shepseskaf | l | https://pt.wikipedia.org/wiki/Shepseskaf
++ Djet | | Djet | Dyet | l | https://pt.wikipedia.org/wiki/Djet
++ Amenemés III | Amenemhat III | Amenemhat III | Amenemhat III | l | https://pt.wikipedia.org/wiki/Amenem%C3%A9s_III
++ Sesóstris I | Senusret I | Senusret I | Sesostris I | l | https://pt.wikipedia.org/wiki/Ses%C3%B3stris_I
++ Kamose | | Kamose | Kamose | l | https://en.wikipedia.org/wiki/Kamose
++ Seqenenré Tao | Seqenenre | Seqenenre Tao | Seqenenra Taa | l | https://en.wikipedia.org/wiki/Seqenenre_Tao
++ Nectanebo II | | Nectanebo II | Nectanebo II | l | https://pt.wikipedia.org/wiki/Nectanebo_II
++ Nectanebo I | | Nectanebo I | Nectanebo I | l | https://pt.wikipedia.org/wiki/Nectanebo_I
++ Amásis II | Ahmose II | Amasis II | Amasis II | l | https://pt.wikipedia.org/wiki/Am%C3%A1sis_II
++ Piye | Piankhi;Piiê | Piye | Piye | l | https://pt.wikipedia.org/wiki/Piye
++ Shabaka | Xabaca | Shabaka | Shabaka | l | https://pt.wikipedia.org/wiki/Shabaka
++ Sheshonq I | Sisaque;Sisaque I | Shoshenq I | Sheshonq I | l | https://pt.wikipedia.org/wiki/Sheshonq_I
++ Ptolomeu XIII | | Ptolemy XIII | Ptolomeo XIII | l | https://pt.wikipedia.org/wiki/Ptolomeu_XIII
+~ Narmer | Menés | https://pt.wikipedia.org/wiki/Men%C3%A9s

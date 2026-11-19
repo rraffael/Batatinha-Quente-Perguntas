@@ -1,0 +1,60 @@
+== mint-kpop
++ TVXQ | DBSK;Dong Bang Shin Ki | | | r | https://pt.wikipedia.org/wiki/TVXQ
++ Shinhwa | | | | e | https://pt.wikipedia.org/wiki/Shinhwa
++ H.O.T. | HOT | | | e | https://pt.wikipedia.org/wiki/H.O.T.
++ g.o.d | god | | | l | https://en.wikipedia.org/wiki/G.o.d
++ S.E.S. | SES | | | l | https://en.wikipedia.org/wiki/S.E.S._(group)
++ Fin.K.L | Fin.KL;Pinkl | | | l | https://en.wikipedia.org/wiki/Fin.K.L
++ SS501 | | | | e | https://pt.wikipedia.org/wiki/SS501
++ Highlight | Beast;B2ST | | | e | https://en.wikipedia.org/wiki/Highlight_(band)
++ Teen Top | | | | e | https://pt.wikipedia.org/wiki/Teen_Top
++ Block B | | | | e | https://pt.wikipedia.org/wiki/Block_B
++ B.A.P | BAP | | | e | https://en.wikipedia.org/wiki/B.A.P_(South_Korean_band)
++ VIXX | | | | e | https://pt.wikipedia.org/wiki/VIXX
++ Pentagon | | | | e | https://en.wikipedia.org/wiki/Pentagon_(South_Korean_band)
++ Astro | | | | e | https://en.wikipedia.org/wiki/Astro_(South_Korean_band)
++ CNBLUE | CN Blue | | | e | https://pt.wikipedia.org/wiki/CNBLUE
++ FT Island | | | | e | https://en.wikipedia.org/wiki/F.T._Island
++ Everglow | | | | e | https://pt.wikipedia.org/wiki/Everglow
++ STAYC | | | | e | https://pt.wikipedia.org/wiki/STAYC
++ Kep1er | | | | e | https://pt.wikipedia.org/wiki/Kep1er
++ NMIXX | | | | e | https://en.wikipedia.org/wiki/Nmixx
++ WJSN | Cosmic Girls | | | e | https://pt.wikipedia.org/wiki/WJSN
++ AOA | | | | e | https://en.wikipedia.org/wiki/AOA_(group)
++ Girl's Day | | | | e | https://pt.wikipedia.org/wiki/Girl's_Day
++ After School | | | | e | https://en.wikipedia.org/wiki/After_School_(group)
++ Fifty Fifty | | | | e | https://en.wikipedia.org/wiki/Fifty_Fifty_(group)
++ tripleS | | | | e | https://en.wikipedia.org/wiki/TripleS
++ WayV | | | | e | https://pt.wikipedia.org/wiki/WayV
++ SuperM | | | | e | https://pt.wikipedia.org/wiki/SuperM
++ KARD | | | | e | https://en.wikipedia.org/wiki/Kard_(group)
++ MBLAQ | | | | l | https://pt.wikipedia.org/wiki/MBLAQ
++ 2AM | | | | l | https://en.wikipedia.org/wiki/2AM_(band)
++ U-KISS | | | | l | https://en.wikipedia.org/wiki/U-KISS
++ SF9 | | | | l | https://en.wikipedia.org/wiki/SF9_(band)
++ fromis_9 | | | | l | https://en.wikipedia.org/wiki/Fromis_9
++ Lovelyz | | | | l | https://pt.wikipedia.org/wiki/Lovelyz
++ Brown Eyed Girls | | | | l | https://pt.wikipedia.org/wiki/Brown_Eyed_Girls
++ Secret | | | | l | https://en.wikipedia.org/wiki/Secret_(South_Korean_band)
++ CLC | | | | l | https://en.wikipedia.org/wiki/CLC_(group)
++ Weki Meki | | | | l | https://pt.wikipedia.org/wiki/Weki_Meki
++ Oneus | | | | l | https://pt.wikipedia.org/wiki/Oneus
++ AB6IX | | | | l | https://pt.wikipedia.org/wiki/AB6IX
++ Cravity | | | | l | https://pt.wikipedia.org/wiki/Cravity
++ Xdinary Heroes | | | | l | https://pt.wikipedia.org/wiki/Xdinary_Heroes
++ N.Flying | | | | l | https://pt.wikipedia.org/wiki/N.Flying
++ The Rose | | | | l | https://en.wikipedia.org/wiki/The_Rose_(band)
++ Hearts2Hearts | | | | l | https://pt.wikipedia.org/wiki/Hearts2Hearts
++ Meovv | | | | l | https://pt.wikipedia.org/wiki/Meovv
++ Victon | | | | l | https://pt.wikipedia.org/wiki/Victon
++ Golden Child | | | | l | https://en.wikipedia.org/wiki/Golden_Child_(band)
+
+== esp-times-nba
+~ Brooklyn Nets | New Jersey Nets | https://en.wikipedia.org/wiki/Brooklyn_Nets
+~ Golden State Warriors | Golden State | https://en.wikipedia.org/wiki/Golden_State_Warriors
+
+== esp-times-nfl
+~ Los Angeles Chargers | San Diego Chargers | https://en.wikipedia.org/wiki/Los_Angeles_Chargers
+~ Los Angeles Rams | St. Louis Rams | https://en.wikipedia.org/wiki/Los_Angeles_Rams
+~ Washington Commanders | Washington Football Team | https://en.wikipedia.org/wiki/Washington_Commanders
+~ Tennessee Titans | Houston Oilers | https://en.wikipedia.org/wiki/Tennessee_Titans
