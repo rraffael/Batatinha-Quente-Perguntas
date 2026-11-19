@@ -6,6 +6,7 @@ import {
   criarSala,
   entrar,
   iniciar,
+  jogarDeNovo,
   novaPartida,
   novosEfeitos,
   proximoAlarme,
@@ -15,7 +16,7 @@ import {
   type Ctx,
   type EstadoSala,
 } from '../src/server/jogo';
-import { PENALIDADE_ERRO_MS, RITMOS, raridadesPorUso } from '../src/shared/regras';
+import { CALOR_MS, PENALIDADE_ERRO_MS, RITMOS, raridadesPorUso } from '../src/shared/regras';
 
 const dados: DadosBanco = {
   temas: [{ id: 'teste', nome: 'Teste', qtd: 2 }],
@@ -127,7 +128,9 @@ describe('turnos e pavio', () => {
     s.rodada!.perguntaId = 'frutas';
     responder(s, ctx(), quem, 'maca');
     expect(daVez()).not.toBe(quem);
-    expect(s.jogadores.find((j) => j.id === quem)!.pontos).toBe(100);
+    // Placar usa a tabela 10/15/30/75/100; a barra de vida usa 0/10/35/100/150.
+    expect(s.jogadores.find((j) => j.id === quem)!.pontos).toBe(75);
+    expect(s.jogadores.find((j) => j.id === quem)!.bonus).toBe(100);
     expect(s.evento).toMatchObject({ tipo: 'aceita', canonica: 'Maçã', raridade: 'epico' });
   });
 
@@ -214,10 +217,28 @@ describe('turnos e pavio', () => {
     const vitima = daVez();
     agora = s.prazo!;
     avancarTempo(s, ctx());
+    // Primeiro mostra o POF; o pódio vem depois.
+    expect(s.fase).toBe('intervalo');
+    expect(s.evento).toMatchObject({ tipo: 'estouro', jogadorId: vitima, fimDeJogo: true });
+    agora = s.proximaEm!;
+    avancarTempo(s, ctx());
     expect(s.fase).toBe('fim');
     expect(s.vencedorId).toBe(s.ordem.find((id) => id !== vitima));
     expect(novaPartida(s, ctx(), s.hostId!).ok).toBe(true);
     expect(s.fase).toBe('lobby');
+  });
+
+  it('jogar de novo começa outra partida direto, sem sair da sala', () => {
+    comecar('ana', 'bia');
+    for (const j of s.jogadores) j.vidas = 1;
+    agora = s.prazo!;
+    avancarTempo(s, ctx());
+    agora = s.proximaEm!;
+    avancarTempo(s, ctx());
+    expect(s.fase).toBe('fim');
+    expect(jogarDeNovo(s, ctx(), s.hostId!).ok).toBe(true);
+    expect(s.fase).toBe('contagem');
+    expect(s.jogadores.every((j) => j.vivo && j.vidas === 3 && j.pontos === 0)).toBe(true);
   });
 
   it('jogador que sai na sua vez passa a batata adiante', () => {
@@ -230,17 +251,17 @@ describe('turnos e pavio', () => {
 });
 
 describe('aquecimento, tentativas e sessão', () => {
-  it('a batata esquenta nos últimos 3s, fica em brasa no último 1,5s e só então estoura', () => {
+  it('a batata esquenta a partir de 8s, fica em brasa em 3s e só estoura no 0', () => {
     comecar('ana', 'bia');
     const prazo = s.prazo!;
     expect(s.calor).toBe(0);
-    expect(proximoAlarme(s)).toBe(prazo - 3_000);
-    agora = prazo - 3_000;
+    expect(proximoAlarme(s)).toBe(prazo - CALOR_MS[0]);
+    agora = prazo - CALOR_MS[0];
     avancarTempo(s, ctx());
     expect(s.calor).toBe(1);
     expect(s.fase).toBe('jogando');
-    expect(proximoAlarme(s)).toBe(prazo - 1_500);
-    agora = prazo - 1_500;
+    expect(proximoAlarme(s)).toBe(prazo - CALOR_MS[1]);
+    agora = prazo - CALOR_MS[1];
     avancarTempo(s, ctx());
     expect(s.calor).toBe(2);
     expect(proximoAlarme(s)).toBe(prazo);
@@ -284,6 +305,8 @@ describe('aquecimento, tentativas e sessão', () => {
     for (const j of s.jogadores) j.vidas = 1;
     agora = s.prazo!;
     avancarTempo(s, ctx());
+    agora = s.proximaEm!;
+    avancarTempo(s, ctx());
     expect(s.fase).toBe('fim');
     novaPartida(s, ctx(), s.hostId!);
     expect(iniciar(s, ctx(), s.hostId!).ok).toBe(true);
@@ -302,6 +325,24 @@ describe('aquecimento, tentativas e sessão', () => {
     agora = s.proximaEm!;
     avancarTempo(s, ctx());
     expect(j.bonus).toBe(150);
+  });
+});
+
+describe('temas opcionais', () => {
+  it('ficam fora da seleção padrão, mas entram se escolhidos', () => {
+    const b = criarBanco({
+      temas: [
+        { id: 'br', nome: 'Brasil', qtd: 1 },
+        { id: 'fora', nome: 'Lá de Fora', qtd: 1, opcional: true },
+      ],
+      perguntas: [
+        { id: 'p-br', tema: 'br', texto: 'x', dificuldade: 'facil', respostas: [] },
+        { id: 'p-fora', tema: 'fora', texto: 'y', dificuldade: 'facil', respostas: [] },
+      ],
+    });
+    const base = { dificeis: false, vidas: 3, ritmo: 'normal' as const, maxJogadores: 8 };
+    expect(b.elegiveis({ ...base, temas: [] })).toEqual(['p-br']);
+    expect(b.elegiveis({ ...base, temas: ['br', 'fora'] }).sort()).toEqual(['p-br', 'p-fora']);
   });
 });
 

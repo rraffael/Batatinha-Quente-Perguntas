@@ -1,0 +1,1432 @@
+{
+  "tema": "exterior",
+  "nome": "Lá de Fora (EUA e outros)",
+  "perguntas": [
+    {
+      "id": "mint-kpop",
+      "texto": "Cite um grupo de K-pop",
+      "dificuldade": "dificil",
+      "tags": [
+        "k-pop",
+        "coreia"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/K-pop",
+      "respostas": [
+        {
+          "id": "bts",
+          "canonica": "BTS",
+          "aceitas": [
+            "Bangtan Boys"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "blackpink",
+          "canonica": "Blackpink",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "twice",
+          "canonica": "Twice",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "stray-kids",
+          "canonica": "Stray Kids",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "exo",
+          "canonica": "EXO",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "big-bang",
+          "canonica": "Big Bang",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "girls-generation",
+          "canonica": "Girls' Generation",
+          "aceitas": [
+            "SNSD"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "red-velvet",
+          "canonica": "Red Velvet",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "newjeans",
+          "canonica": "NewJeans",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "seventeen",
+          "canonica": "Seventeen",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "nct",
+          "canonica": "NCT",
+          "aceitas": [
+            "NCT 127",
+            "NCT Dream"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "tomorrow-x-together",
+          "canonica": "Tomorrow X Together",
+          "aceitas": [
+            "TXT"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "ateez",
+          "canonica": "Ateez",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "itzy",
+          "canonica": "ITZY",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "aespa",
+          "canonica": "aespa",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "g-i-dle",
+          "canonica": "(G)I-DLE",
+          "aceitas": [
+            "Gidle",
+            "I-DLE"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "le-sserafim",
+          "canonica": "Le Sserafim",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "ive",
+          "canonica": "IVE",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "enhypen",
+          "canonica": "Enhypen",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "super-junior",
+          "canonica": "Super Junior",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "shinee",
+          "canonica": "SHINee",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "2ne1",
+          "canonica": "2NE1",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "wonder-girls",
+          "canonica": "Wonder Girls",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "mamamoo",
+          "canonica": "Mamamoo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "got7",
+          "canonica": "GOT7",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "monsta-x",
+          "canonica": "Monsta X",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "treasure",
+          "canonica": "Treasure",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "babymonster",
+          "canonica": "Babymonster",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "apink",
+          "canonica": "Apink",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "sistar",
+          "canonica": "Sistar",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "f-x",
+          "canonica": "f(x)",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "wanna-one",
+          "canonica": "Wanna One",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ikon",
+          "canonica": "iKON",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "winner",
+          "canonica": "Winner",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "day6",
+          "canonica": "Day6",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "the-boyz",
+          "canonica": "The Boyz",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "kara",
+          "canonica": "Kara",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "t-ara",
+          "canonica": "T-ara",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "4minute",
+          "canonica": "4Minute",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "miss-a",
+          "canonica": "Miss A",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "btob",
+          "canonica": "BTOB",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "infinite",
+          "canonica": "Infinite",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "2pm",
+          "canonica": "2PM",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "oh-my-girl",
+          "canonica": "Oh My Girl",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "gfriend",
+          "canonica": "GFriend",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "loona",
+          "canonica": "Loona",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "exid",
+          "canonica": "EXID",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "momoland",
+          "canonica": "Momoland",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "dreamcatcher",
+          "canonica": "Dreamcatcher",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "illit",
+          "canonica": "Illit",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "riize",
+          "canonica": "Riize",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "zerobaseone",
+          "canonica": "Zerobaseone",
+          "aceitas": [
+            "ZB1"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "boynextdoor",
+          "canonica": "BoyNextDoor",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "tws",
+          "canonica": "TWS",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "kiss-of-life",
+          "canonica": "Kiss of Life",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "p1harmony",
+          "canonica": "P1Harmony",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        }
+      ]
+    },
+    {
+      "id": "esp-times-nba",
+      "texto": "Cite um time da NBA (National Basketball Association, a liga de basquete dos Estados Unidos)",
+      "dificuldade": "media",
+      "tags": [
+        "basquete",
+        "nba",
+        "eua"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/National_Basketball_Association",
+      "atualizadoEm": "2026-11",
+      "respostas": [
+        {
+          "id": "los-angeles-lakers",
+          "canonica": "Los Angeles Lakers",
+          "aceitas": [
+            "Lakers"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "chicago-bulls",
+          "canonica": "Chicago Bulls",
+          "aceitas": [
+            "Bulls"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "boston-celtics",
+          "canonica": "Boston Celtics",
+          "aceitas": [
+            "Celtics"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "golden-state-warriors",
+          "canonica": "Golden State Warriors",
+          "aceitas": [
+            "Warriors"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "miami-heat",
+          "canonica": "Miami Heat",
+          "aceitas": [
+            "Heat"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "new-york-knicks",
+          "canonica": "New York Knicks",
+          "aceitas": [
+            "Knicks"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "san-antonio-spurs",
+          "canonica": "San Antonio Spurs",
+          "aceitas": [
+            "Spurs"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cleveland-cavaliers",
+          "canonica": "Cleveland Cavaliers",
+          "aceitas": [
+            "Cavaliers",
+            "Cavs"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "brooklyn-nets",
+          "canonica": "Brooklyn Nets",
+          "aceitas": [
+            "Nets"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "houston-rockets",
+          "canonica": "Houston Rockets",
+          "aceitas": [
+            "Rockets"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "dallas-mavericks",
+          "canonica": "Dallas Mavericks",
+          "aceitas": [
+            "Mavericks",
+            "Mavs"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "philadelphia-76ers",
+          "canonica": "Philadelphia 76ers",
+          "aceitas": [
+            "76ers",
+            "Sixers"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "orlando-magic",
+          "canonica": "Orlando Magic",
+          "aceitas": [
+            "Magic"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "phoenix-suns",
+          "canonica": "Phoenix Suns",
+          "aceitas": [
+            "Suns"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "milwaukee-bucks",
+          "canonica": "Milwaukee Bucks",
+          "aceitas": [
+            "Bucks"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "denver-nuggets",
+          "canonica": "Denver Nuggets",
+          "aceitas": [
+            "Nuggets"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "toronto-raptors",
+          "canonica": "Toronto Raptors",
+          "aceitas": [
+            "Raptors"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "los-angeles-clippers",
+          "canonica": "Los Angeles Clippers",
+          "aceitas": [
+            "LA Clippers",
+            "Clippers"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "oklahoma-city-thunder",
+          "canonica": "Oklahoma City Thunder",
+          "aceitas": [
+            "Thunder",
+            "OKC"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "detroit-pistons",
+          "canonica": "Detroit Pistons",
+          "aceitas": [
+            "Pistons"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "utah-jazz",
+          "canonica": "Utah Jazz",
+          "aceitas": [
+            "Jazz"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "atlanta-hawks",
+          "canonica": "Atlanta Hawks",
+          "aceitas": [
+            "Hawks"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "indiana-pacers",
+          "canonica": "Indiana Pacers",
+          "aceitas": [
+            "Pacers"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "charlotte-hornets",
+          "canonica": "Charlotte Hornets",
+          "aceitas": [
+            "Hornets"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "portland-trail-blazers",
+          "canonica": "Portland Trail Blazers",
+          "aceitas": [
+            "Trail Blazers",
+            "Blazers"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "sacramento-kings",
+          "canonica": "Sacramento Kings",
+          "aceitas": [
+            "Kings"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "memphis-grizzlies",
+          "canonica": "Memphis Grizzlies",
+          "aceitas": [
+            "Grizzlies"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "minnesota-timberwolves",
+          "canonica": "Minnesota Timberwolves",
+          "aceitas": [
+            "Timberwolves",
+            "Wolves"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "new-orleans-pelicans",
+          "canonica": "New Orleans Pelicans",
+          "aceitas": [
+            "Pelicans"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "washington-wizards",
+          "canonica": "Washington Wizards",
+          "aceitas": [
+            "Wizards"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        }
+      ]
+    },
+    {
+      "id": "esp-times-nfl",
+      "texto": "Cite um time da NFL (National Football League, a liga de futebol americano)",
+      "dificuldade": "dificil",
+      "tags": [
+        "futebol americano",
+        "nfl",
+        "eua"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/National_Football_League",
+      "atualizadoEm": "2026-11",
+      "respostas": [
+        {
+          "id": "new-england-patriots",
+          "canonica": "New England Patriots",
+          "aceitas": [
+            "Patriots",
+            "Pats"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "dallas-cowboys",
+          "canonica": "Dallas Cowboys",
+          "aceitas": [
+            "Cowboys"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "kansas-city-chiefs",
+          "canonica": "Kansas City Chiefs",
+          "aceitas": [
+            "Chiefs"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "green-bay-packers",
+          "canonica": "Green Bay Packers",
+          "aceitas": [
+            "Packers"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pittsburgh-steelers",
+          "canonica": "Pittsburgh Steelers",
+          "aceitas": [
+            "Steelers"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "san-francisco-49ers",
+          "canonica": "San Francisco 49ers",
+          "aceitas": [
+            "49ers",
+            "Niners"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "philadelphia-eagles",
+          "canonica": "Philadelphia Eagles",
+          "aceitas": [
+            "Eagles"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "tampa-bay-buccaneers",
+          "canonica": "Tampa Bay Buccaneers",
+          "aceitas": [
+            "Buccaneers",
+            "Bucs"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "miami-dolphins",
+          "canonica": "Miami Dolphins",
+          "aceitas": [
+            "Dolphins"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "new-york-giants",
+          "canonica": "New York Giants",
+          "aceitas": [
+            "Giants"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "seattle-seahawks",
+          "canonica": "Seattle Seahawks",
+          "aceitas": [
+            "Seahawks"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "las-vegas-raiders",
+          "canonica": "Las Vegas Raiders",
+          "aceitas": [
+            "Raiders",
+            "Oakland Raiders"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "denver-broncos",
+          "canonica": "Denver Broncos",
+          "aceitas": [
+            "Broncos"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "baltimore-ravens",
+          "canonica": "Baltimore Ravens",
+          "aceitas": [
+            "Ravens"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "buffalo-bills",
+          "canonica": "Buffalo Bills",
+          "aceitas": [
+            "Bills"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "chicago-bears",
+          "canonica": "Chicago Bears",
+          "aceitas": [
+            "Bears"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "new-york-jets",
+          "canonica": "New York Jets",
+          "aceitas": [
+            "Jets"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "minnesota-vikings",
+          "canonica": "Minnesota Vikings",
+          "aceitas": [
+            "Vikings"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "new-orleans-saints",
+          "canonica": "New Orleans Saints",
+          "aceitas": [
+            "Saints"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "los-angeles-rams",
+          "canonica": "Los Angeles Rams",
+          "aceitas": [
+            "Rams"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "indianapolis-colts",
+          "canonica": "Indianapolis Colts",
+          "aceitas": [
+            "Colts"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "detroit-lions",
+          "canonica": "Detroit Lions",
+          "aceitas": [
+            "Lions"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "atlanta-falcons",
+          "canonica": "Atlanta Falcons",
+          "aceitas": [
+            "Falcons"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "cincinnati-bengals",
+          "canonica": "Cincinnati Bengals",
+          "aceitas": [
+            "Bengals"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "los-angeles-chargers",
+          "canonica": "Los Angeles Chargers",
+          "aceitas": [
+            "Chargers"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "houston-texans",
+          "canonica": "Houston Texans",
+          "aceitas": [
+            "Texans"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "arizona-cardinals",
+          "canonica": "Arizona Cardinals",
+          "aceitas": [
+            "Cardinals"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "carolina-panthers",
+          "canonica": "Carolina Panthers",
+          "aceitas": [
+            "Panthers"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "cleveland-browns",
+          "canonica": "Cleveland Browns",
+          "aceitas": [
+            "Browns"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "jacksonville-jaguars",
+          "canonica": "Jacksonville Jaguars",
+          "aceitas": [
+            "Jaguars"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "tennessee-titans",
+          "canonica": "Tennessee Titans",
+          "aceitas": [
+            "Titans"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "washington-commanders",
+          "canonica": "Washington Commanders",
+          "aceitas": [
+            "Commanders"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        }
+      ]
+    },
+    {
+      "id": "his-presidentes-eua",
+      "texto": "Cite um presidente dos Estados Unidos",
+      "dificuldade": "media",
+      "tags": [
+        "eua",
+        "política",
+        "presidentes"
+      ],
+      "fonte": "https://pt.wikipedia.org/wiki/Lista_de_presidentes_dos_Estados_Unidos",
+      "atualizadoEm": "2026-11",
+      "respostas": [
+        {
+          "id": "abraham-lincoln",
+          "canonica": "Abraham Lincoln",
+          "aceitas": [
+            "Lincoln",
+            "Abe Lincoln"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "george-washington",
+          "canonica": "George Washington",
+          "aceitas": [
+            "Washington"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "donald-trump",
+          "canonica": "Donald Trump",
+          "aceitas": [
+            "Trump"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "barack-obama",
+          "canonica": "Barack Obama",
+          "aceitas": [
+            "Obama"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "joe-biden",
+          "canonica": "Joe Biden",
+          "aceitas": [
+            "Biden"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "john-f-kennedy",
+          "canonica": "John F. Kennedy",
+          "aceitas": [
+            "Kennedy",
+            "JFK"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "bill-clinton",
+          "canonica": "Bill Clinton",
+          "aceitas": [
+            "Clinton"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "george-w-bush",
+          "canonica": "George W. Bush",
+          "aceitas": [
+            "Bush filho"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "george-h-w-bush",
+          "canonica": "George H. W. Bush",
+          "aceitas": [
+            "Bush pai"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "ronald-reagan",
+          "canonica": "Ronald Reagan",
+          "aceitas": [
+            "Reagan"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "richard-nixon",
+          "canonica": "Richard Nixon",
+          "aceitas": [
+            "Nixon"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "franklin-d-roosevelt",
+          "canonica": "Franklin D. Roosevelt",
+          "aceitas": [
+            "FDR",
+            "Franklin Roosevelt"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "theodore-roosevelt",
+          "canonica": "Theodore Roosevelt",
+          "aceitas": [
+            "Teddy Roosevelt"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "thomas-jefferson",
+          "canonica": "Thomas Jefferson",
+          "aceitas": [
+            "Jefferson"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "jimmy-carter",
+          "canonica": "Jimmy Carter",
+          "aceitas": [
+            "Carter"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "harry-truman",
+          "canonica": "Harry Truman",
+          "aceitas": [
+            "Truman"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "dwight-eisenhower",
+          "canonica": "Dwight Eisenhower",
+          "aceitas": [
+            "Eisenhower",
+            "Ike"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "gerald-ford",
+          "canonica": "Gerald Ford",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "lyndon-b-johnson",
+          "canonica": "Lyndon B. Johnson",
+          "aceitas": [
+            "LBJ",
+            "Lyndon Johnson"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "john-adams",
+          "canonica": "John Adams",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "james-madison",
+          "canonica": "James Madison",
+          "aceitas": [
+            "Madison"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "james-monroe",
+          "canonica": "James Monroe",
+          "aceitas": [
+            "Monroe"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "andrew-jackson",
+          "canonica": "Andrew Jackson",
+          "aceitas": [
+            "Jackson"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ulysses-s-grant",
+          "canonica": "Ulysses S. Grant",
+          "aceitas": [
+            "Ulysses Grant"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "woodrow-wilson",
+          "canonica": "Woodrow Wilson",
+          "aceitas": [
+            "Wilson"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "herbert-hoover",
+          "canonica": "Herbert Hoover",
+          "aceitas": [
+            "Hoover"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "john-quincy-adams",
+          "canonica": "John Quincy Adams",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "andrew-johnson",
+          "canonica": "Andrew Johnson",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "william-mckinley",
+          "canonica": "William McKinley",
+          "aceitas": [
+            "McKinley"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "william-howard-taft",
+          "canonica": "William Howard Taft",
+          "aceitas": [
+            "Taft"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "calvin-coolidge",
+          "canonica": "Calvin Coolidge",
+          "aceitas": [
+            "Coolidge"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "warren-harding",
+          "canonica": "Warren Harding",
+          "aceitas": [
+            "Harding"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "grover-cleveland",
+          "canonica": "Grover Cleveland",
+          "aceitas": [
+            "Cleveland"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "james-polk",
+          "canonica": "James Polk",
+          "aceitas": [
+            "Polk"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "martin-van-buren",
+          "canonica": "Martin Van Buren",
+          "aceitas": [
+            "Van Buren"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "william-henry-harrison",
+          "canonica": "William Henry Harrison",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "benjamin-harrison",
+          "canonica": "Benjamin Harrison",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "john-tyler",
+          "canonica": "John Tyler",
+          "aceitas": [
+            "Tyler"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "zachary-taylor",
+          "canonica": "Zachary Taylor",
+          "aceitas": [
+            "Taylor"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "millard-fillmore",
+          "canonica": "Millard Fillmore",
+          "aceitas": [
+            "Fillmore"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "franklin-pierce",
+          "canonica": "Franklin Pierce",
+          "aceitas": [
+            "Pierce"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "james-buchanan",
+          "canonica": "James Buchanan",
+          "aceitas": [
+            "Buchanan"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "rutherford-hayes",
+          "canonica": "Rutherford Hayes",
+          "aceitas": [
+            "Hayes"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "james-garfield",
+          "canonica": "James Garfield",
+          "aceitas": [
+            "Garfield"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "chester-arthur",
+          "canonica": "Chester Arthur",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        }
+      ]
+    }
+  ],
+  "opcional": true
+}

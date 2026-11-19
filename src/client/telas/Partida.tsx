@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from 'preact/hooks';
 import type { JogadorPublico } from '../../shared/protocolo';
 import { MAX_RESPOSTA, PONTOS_POR_VIDA, type Raridade } from '../../shared/regras';
-import { Avatar, Coracoes, Selo } from '../componentes';
+import { Avatar, BotaoSair, Coracoes, Selo } from '../componentes';
 import type { PropsTela } from './Lobby';
 import type { Digitando, Recusa, Tentativa } from './Sala';
 
@@ -155,7 +155,8 @@ export function Partida({
     iPortador >= 0
       ? (() => {
           const p = posicao(iPortador);
-          return { x: p.x + (50 - p.x) * 0.32, y: p.y + (50 - p.y) * 0.32 };
+          // Fica entre o jogador e a borda da clareira, sem cobrir o texto da pergunta.
+          return { x: p.x + (50 - p.x) * 0.2, y: p.y + (50 - p.y) * 0.2 };
         })()
       : { x: 50, y: 50 };
   const calor = sala.fase === 'jogando' ? sala.calor : 0;
@@ -204,7 +205,6 @@ export function Partida({
               <div class="pergunta">
                 <small>{rodada.temaNome}</small>
                 {rodada.texto}
-                {rodada.nota && <span class="nota">{rodada.nota}</span>}
               </div>
             )}
             {estouro && (
@@ -244,10 +244,14 @@ export function Partida({
               class={`potato calor-${calor} ${estouro ? 'boom' : ''}`}
               style={{ left: `${pBatata.x}%`, top: `${pBatata.y}%` }}
             >
-              <img src={`/personagens/${imagemBatata}.svg`} alt="Batata quente" width={52} height={52} />
+              <span class="corpo">
+                <img src={`/personagens/${imagemBatata}.svg`} alt="Batata quente" width={52} height={52} />
+              </span>
             </div>
           )}
         </div>
+
+        {sala.fase === 'jogando' && rodada?.nota && <p class="nota-pergunta muted">ℹ️ {rodada.nota}</p>}
 
         <div class="feedback" aria-live="polite">
           {aviso && (
@@ -310,9 +314,7 @@ export function Partida({
         ) : (
           <p class="muted">Nenhuma resposta ainda.</p>
         )}
-        <button class="btn btn-ghost pequeno" onClick={sair}>
-          Sair da partida
-        </button>
+        <BotaoSair aoSair={sair} rotulo="Sair da partida" />
       </aside>
     </section>
   );

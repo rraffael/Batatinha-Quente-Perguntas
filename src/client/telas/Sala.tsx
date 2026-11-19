@@ -2,6 +2,7 @@ import { useEffect, useMemo, useRef, useState } from 'preact/hooks';
 import type { MotivoRecusa, MsgCliente, SalaPublica } from '../../shared/protocolo';
 import { Conexao, type StatusConexao } from '../conexao';
 import { identidade, preferencias } from '../identidade';
+import { alternarMudo, estaMudo, sons } from '../sons';
 import { FormularioPerfil } from './Inicio';
 import { Fim } from './Fim';
 import { Lobby } from './Lobby';
@@ -68,6 +69,51 @@ function PerfilAntesDeEntrar({ codigo, aoConcluir }: { codigo: string; aoConclui
   );
 }
 
+/** Toca os sons comparando o estado anterior da sala com o novo. */
+function useSons(sala: SalaPublica | null, tentativa: Tentativa | null, eu: string) {
+  const anterior = useRef<SalaPublica | null>(null);
+
+  useEffect(() => {
+    const a = anterior.current;
+    anterior.current = sala;
+    if (!sala || !a) return;
+
+    const conectadosAntes = new Set(a.jogadores.filter((j) => j.conectado).map((j) => j.id));
+    const conectadosAgora = new Set(sala.jogadores.filter((j) => j.conectado).map((j) => j.id));
+    if ([...conectadosAgora].some((id) => !conectadosAntes.has(id))) sons.entrou();
+    else if ([...conectadosAntes].some((id) => !conectadosAgora.has(id))) sons.saiu();
+
+    const ev = sala.evento;
+    const eventoNovo = ev && ev.seq !== a.evento?.seq ? ev : null;
+    if (eventoNovo?.tipo === 'inicio') sons.inicio();
+    if (eventoNovo?.tipo === 'aceita') sons.acerto();
+    if (eventoNovo?.tipo === 'estouro') sons.estouro();
+    if (sala.fase === 'fim' && a.fase !== 'fim') sons.fim();
+
+    if (sala.fase === 'jogando' && sala.rodada) {
+      if (sala.rodada.perguntaId !== a.rodada?.perguntaId) {
+        setTimeout(sons.novaPergunta, eventoNovo ? 250 : 0);
+      }
+      if (sala.rodada.vezDe !== a.rodada?.vezDe || a.fase !== 'jogando') {
+        const minha = sala.rodada.vezDe === eu;
+        setTimeout(minha ? sons.suaVez : sons.passe, 180);
+      }
+    }
+  }, [sala]);
+
+  useEffect(() => {
+    if (tentativa && !tentativa.aceita) sons.erro();
+  }, [tentativa?.id]);
+
+  // Tique-taque do pavio: lento quando esquenta, rápido quando está em brasa.
+  const calor = sala?.fase === 'jogando' ? sala.calor : 0;
+  useEffect(() => {
+    if (calor === 0) return;
+    const t = setInterval(() => sons.tique(calor === 2), calor === 2 ? 160 : 500);
+    return () => clearInterval(t);
+  }, [calor]);
+}
+
 function SalaConectada({ codigo }: { codigo: string }) {
   const eu = useMemo(() => identidade(), []);
   const [sala, setSala] = useState<SalaPublica | null>(null);
@@ -76,7 +122,9 @@ function SalaConectada({ codigo }: { codigo: string }) {
   const [recusa, setRecusa] = useState<Recusa | null>(null);
   const [digitando, setDigitando] = useState<Digitando | null>(null);
   const [tentativa, setTentativa] = useState<Tentativa | null>(null);
+  const [mudo, setMudo] = useState(estaMudo());
   const conexao = useRef<Conexao | null>(null);
+  useSons(sala, tentativa, eu.jogadorId);
 
   useEffect(() => {
     let contador = 0;
@@ -163,6 +211,14 @@ function SalaConectada({ codigo }: { codigo: string }) {
   const props = { sala, eu: eu.jogadorId, enviar, sair: sairDaSala };
   return (
     <div class={`shell fase-${sala.fase}`}>
+      <button
+        class="botao-som"
+        onClick={() => setMudo(alternarMudo())}
+        aria-label={mudo ? 'Ligar sons' : 'Desligar sons'}
+        title={mudo ? 'Ligar sons' : 'Desligar sons'}
+      >
+        {mudo ? '🔇' : '🔊'}
+      </button>
       {status === 'reconectando' && (
         <div class="aviso-conexao" role="status">
           Reconectando…

@@ -269,7 +269,7 @@ Mengálvio | | | | l
 
 == fut-bola-de-ouro | Cite um jogador vencedor da Bola de Ouro (Ballon d'Or) | dificil | prêmios;futebol internacional | https://pt.wikipedia.org/wiki/Ballon_d%27Or
 @atualizadoEm 2026-11
-@nota Bola de Ouro masculina da France Football (inclui FIFA Ballon d'Or 2010–2015), até 2025.
+@nota Bola de Ouro masculina da France Football (inclui o FIFA Ballon d'Or, da FIFA, a Federação Internacional de Futebol, de 2010 a 2015), até 2025.
 Lionel Messi | Messi | | | c
 Cristiano Ronaldo | Cristiano;CR7 | | | c
 Ronaldo Fenômeno | Ronaldo;R9 | | | c

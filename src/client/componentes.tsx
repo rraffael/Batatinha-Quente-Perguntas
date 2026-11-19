@@ -1,4 +1,5 @@
 import type { ComponentChildren } from 'preact';
+import { useEffect, useState } from 'preact/hooks';
 import { ROTULO_RARIDADE, type Raridade } from '../shared/regras';
 import { ANUNCIOS_LIGADOS } from './config';
 import { imagemPersonagem, nomePersonagem } from './personagens';
@@ -29,6 +30,24 @@ export function Selo({ raridade }: { raridade: Raridade }) {
 
 export function Cartao({ children, classe = '' }: { children: ComponentChildren; classe?: string }) {
   return <div class={`card ${classe}`}>{children}</div>;
+}
+
+/** Sair pede confirmação (segundo toque), para ninguém perder a sala sem querer. */
+export function BotaoSair({ aoSair, rotulo = 'Sair da sala' }: { aoSair: () => void; rotulo?: string }) {
+  const [confirmando, setConfirmando] = useState(false);
+  useEffect(() => {
+    if (!confirmando) return;
+    const t = setTimeout(() => setConfirmando(false), 4000);
+    return () => clearTimeout(t);
+  }, [confirmando]);
+  return (
+    <button
+      class={`btn pequeno ${confirmando ? 'btn-perigo' : 'btn-ghost'}`}
+      onClick={() => (confirmando ? aoSair() : setConfirmando(true))}
+    >
+      {confirmando ? 'Toque de novo para sair' : rotulo}
+    </button>
+  );
 }
 
 /** Espaço de anúncio: só existe fora da partida e quando os anúncios estiverem ligados. */

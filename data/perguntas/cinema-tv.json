@@ -3972,7 +3972,7 @@
     },
     {
       "id": "cin-series-internacionais",
-      "texto": "Cite uma série de TV estrangeira",
+      "texto": "Cite uma série de televisão estrangeira",
       "dificuldade": "facil",
       "tags": [
         "séries",
@@ -3980,7 +3980,7 @@
         "streaming"
       ],
       "fonte": "https://pt.wikipedia.org/wiki/S%C3%A9rie_de_televis%C3%A3o",
-      "nota": "Séries de TV/streaming produzidas fora do Brasil (novelas não valem).",
+      "nota": "Séries de televisão ou streaming produzidas fora do Brasil (novelas não valem).",
       "respostas": [
         {
           "id": "friends",

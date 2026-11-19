@@ -327,7 +327,7 @@ Coracobraquial | | Coracobrachialis | | l
 Flexor ulnar do carpo | | Flexor carpi ulnaris | | l
 
 == cor-especialidades-medicas | Cite uma especialidade médica | media | medicina;saúde | https://portal.cfm.org.br/
-@nota Especialidades reconhecidas pelo CFM.
+@nota Especialidades reconhecidas pelo CFM (Conselho Federal de Medicina).
 Cardiologia | Cardiologista | Cardiology | | c
 Pediatria | Pediatra | Pediatrics | | c
 Ortopedia | Ortopedista;Ortopedia e Traumatologia | Orthopedics | | c

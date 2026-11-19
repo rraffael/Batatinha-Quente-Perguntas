@@ -1,0 +1,177 @@
+tema: exterior
+nome: Lá de Fora (EUA e outros)
+opcional: sim
+
+== mint-kpop | Cite um grupo de K-pop | dificil | k-pop;coreia | https://pt.wikipedia.org/wiki/K-pop
+BTS | Bangtan Boys | | | c
+Blackpink | | | | c
+Twice | | | | i
+Stray Kids | | | | i
+EXO | | | | i
+Big Bang | | | | i
+Girls' Generation | SNSD | | | r
+Red Velvet | | | | r
+NewJeans | | | | i
+Seventeen | | | | r
+NCT | NCT 127;NCT Dream | | | r
+Tomorrow X Together | TXT | | | r
+Ateez | | | | r
+ITZY | | | | r
+aespa | | | | r
+(G)I-DLE | G I-DLE;Gidle;I-DLE | | | r
+Le Sserafim | | | | r
+IVE | | | | r
+Enhypen | | | | r
+Super Junior | | | | r
+SHINee | | | | e
+2NE1 | | | | e
+Wonder Girls | | | | e
+Mamamoo | | | | e
+GOT7 | | | | e
+Monsta X | | | | e
+Treasure | | | | e
+Babymonster | | | | e
+Apink | | | | l
+Sistar | | | | l
+f(x) | | | | l
+Wanna One | | | | l
+iKON | | | | e
+Winner | | | | l
+Day6 | | | | l
+The Boyz | | | | l
+Kara | | | | l
+T-ara | | | | l
+4Minute | | | | l
+Miss A | | | | l
+BTOB | | | | l
+Infinite | | | | l
+2PM | | | | l
+Oh My Girl | | | | l
+GFriend | | | | l
+Loona | | | | l
+EXID | | | | l
+Momoland | | | | e
+Dreamcatcher | | | | l
+Illit | | | | e
+Riize | | | | l
+Zerobaseone | ZB1 | | | l
+BoyNextDoor | | | | l
+TWS | | | | l
+Kiss of Life | | | | l
+P1Harmony | | | | l
+
+== esp-times-nba | Cite um time da NBA (National Basketball Association, a liga de basquete dos Estados Unidos) | media | basquete;nba;eua | https://pt.wikipedia.org/wiki/National_Basketball_Association
+@atualizadoEm 2026-11
+Los Angeles Lakers | Lakers | | | c
+Chicago Bulls | Bulls | | | c
+Boston Celtics | Celtics | | | c
+Golden State Warriors | Warriors | | | c
+Miami Heat | Heat | | | c
+New York Knicks | Knicks | | | i
+San Antonio Spurs | Spurs | | | i
+Cleveland Cavaliers | Cavaliers;Cavs | | | i
+Brooklyn Nets | Nets | | | i
+Houston Rockets | Rockets | | | i
+Dallas Mavericks | Mavericks;Mavs | | | i
+Philadelphia 76ers | 76ers;Sixers | | | i
+Orlando Magic | Magic | | | i
+Phoenix Suns | Suns | | | i
+Milwaukee Bucks | Bucks | | | i
+Denver Nuggets | Nuggets | | | i
+Toronto Raptors | Raptors | | | r
+Los Angeles Clippers | LA Clippers;Clippers | | | r
+Oklahoma City Thunder | Thunder;OKC | | | r
+Detroit Pistons | Pistons | | | r
+Utah Jazz | Jazz | | | r
+Atlanta Hawks | Hawks | | | r
+Indiana Pacers | Pacers | | | r
+Charlotte Hornets | Hornets | | | r
+Portland Trail Blazers | Trail Blazers;Blazers | | | r
+Sacramento Kings | Kings | | | r
+Memphis Grizzlies | Grizzlies | | | e
+Minnesota Timberwolves | Timberwolves;Wolves | | | e
+New Orleans Pelicans | Pelicans | | | e
+Washington Wizards | Wizards | | | e
+
+== esp-times-nfl | Cite um time da NFL (National Football League, a liga de futebol americano) | dificil | futebol americano;nfl;eua | https://pt.wikipedia.org/wiki/National_Football_League
+@atualizadoEm 2026-11
+New England Patriots | Patriots;Pats | | | c
+Dallas Cowboys | Cowboys | | | c
+Kansas City Chiefs | Chiefs | | | c
+Green Bay Packers | Packers | | | i
+Pittsburgh Steelers | Steelers | | | i
+San Francisco 49ers | 49ers;Niners | | | i
+Philadelphia Eagles | Eagles | | | i
+Tampa Bay Buccaneers | Buccaneers;Bucs | | | i
+Miami Dolphins | Dolphins | | | i
+New York Giants | Giants | | | i
+Seattle Seahawks | Seahawks | | | i
+Las Vegas Raiders | Raiders;Oakland Raiders | | | i
+Denver Broncos | Broncos | | | r
+Baltimore Ravens | Ravens | | | r
+Buffalo Bills | Bills | | | r
+Chicago Bears | Bears | | | r
+New York Jets | Jets | | | r
+Minnesota Vikings | Vikings | | | r
+New Orleans Saints | Saints | | | r
+Los Angeles Rams | Rams | | | r
+Indianapolis Colts | Colts | | | r
+Detroit Lions | Lions | | | r
+Atlanta Falcons | Falcons | | | r
+Cincinnati Bengals | Bengals | | | r
+Los Angeles Chargers | Chargers | | | e
+Houston Texans | Texans | | | e
+Arizona Cardinals | Cardinals | | | e
+Carolina Panthers | Panthers | | | e
+Cleveland Browns | Browns | | | e
+Jacksonville Jaguars | Jaguars | | | e
+Tennessee Titans | Titans | | | e
+Washington Commanders | Commanders | | | e
+
+== his-presidentes-eua | Cite um presidente dos Estados Unidos | media | eua;política;presidentes | https://pt.wikipedia.org/wiki/Lista_de_presidentes_dos_Estados_Unidos
+@atualizadoEm 2026-11
+Abraham Lincoln | Lincoln;Abe Lincoln | | | c
+George Washington | Washington | | | c
+Donald Trump | Trump | | | c
+Barack Obama | Obama | | | c
+Joe Biden | Biden | | | c
+John F. Kennedy | Kennedy;JFK | | | c
+Bill Clinton | Clinton | | | c
+George W. Bush | Bush filho | | | c
+George H. W. Bush | Bush pai | | | i
+Ronald Reagan | Reagan | | | c
+Richard Nixon | Nixon | | | c
+Franklin D. Roosevelt | FDR;Franklin Roosevelt | | | i
+Theodore Roosevelt | Teddy Roosevelt | | | i
+Thomas Jefferson | Jefferson | | | i
+Jimmy Carter | Carter | | | i
+Harry Truman | Truman | | | i
+Dwight Eisenhower | Eisenhower;Ike | | | i
+Gerald Ford | | | | i
+Lyndon B. Johnson | LBJ;Lyndon Johnson | | | r
+John Adams | | | | r
+James Madison | Madison | | | r
+James Monroe | Monroe | | | r
+Andrew Jackson | Jackson | | | r
+Ulysses S. Grant | Ulysses Grant | | | r
+Woodrow Wilson | Wilson | | | r
+Herbert Hoover | Hoover | | | r
+John Quincy Adams | | | | e
+Andrew Johnson | | | | e
+William McKinley | McKinley | | | e
+William Howard Taft | Taft | | | e
+Calvin Coolidge | Coolidge | | | e
+Warren Harding | Harding | | | e
+Grover Cleveland | Cleveland | | | e
+James Polk | Polk | | | e
+Martin Van Buren | Van Buren | | | e
+William Henry Harrison | | | | l
+Benjamin Harrison | | | | l
+John Tyler | Tyler | | | l
+Zachary Taylor | Taylor | | | l
+Millard Fillmore | Fillmore | | | l
+Franklin Pierce | Pierce | | | l
+James Buchanan | Buchanan | | | l
+Rutherford Hayes | Hayes | | | l
+James Garfield | Garfield | | | l
+Chester Arthur | | | | l

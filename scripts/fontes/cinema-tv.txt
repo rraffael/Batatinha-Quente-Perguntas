@@ -372,8 +372,8 @@ Gil | Gil Gunderson | | | l
 Disco Stu | | | | l
 Bumblebee Man | Homem-Abelha | | | e
 
-== cin-series-internacionais | Cite uma série de TV estrangeira | facil | séries;tv;streaming | https://pt.wikipedia.org/wiki/S%C3%A9rie_de_televis%C3%A3o
-@nota Séries de TV/streaming produzidas fora do Brasil (novelas não valem).
+== cin-series-internacionais | Cite uma série de televisão estrangeira | facil | séries;tv;streaming | https://pt.wikipedia.org/wiki/S%C3%A9rie_de_televis%C3%A3o
+@nota Séries de televisão ou streaming produzidas fora do Brasil (novelas não valem).
 Friends | | | | c
 Breaking Bad | | | | c
 Game of Thrones | GoT | | Juego de tronos | c

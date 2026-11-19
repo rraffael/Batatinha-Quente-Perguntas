@@ -1,8 +1,9 @@
-import { Avatar, EspacoAnuncio } from '../componentes';
+import { Avatar, BotaoSair, EspacoAnuncio } from '../componentes';
 import type { PropsTela } from './Lobby';
 
 export function Fim({ sala, eu, enviar, sair }: PropsTela) {
   const souHost = sala.jogadores.some((j) => j.id === eu && j.host);
+  const host = sala.jogadores.find((j) => j.host);
   const ranking = sala.jogadores
     .filter((j) => !j.espectador)
     .sort((a, b) => {
@@ -23,6 +24,20 @@ export function Fim({ sala, eu, enviar, sair }: PropsTela) {
       <p class="muted">
         {vencedor ? `${vencedor.apelido} saiu da roda sem nenhuma queimadura.` : 'Ninguém sobrou na roda!'}
       </p>
+      <div class="center-actions topo">
+        {souHost ? (
+          <>
+            <button class="btn btn-primary" onClick={() => enviar({ t: 'jogarDeNovo' })}>
+              Jogar de novo
+            </button>
+            <button class="btn btn-ghost" onClick={() => enviar({ t: 'novaPartida' })}>
+              Mudar configurações
+            </button>
+          </>
+        ) : (
+          <p class="muted">Esperando {host?.apelido ?? 'o anfitrião'} começar outra partida…</p>
+        )}
+      </div>
       <div class="podium">
         {podio.map((j, i) =>
           j ? (
@@ -44,23 +59,14 @@ export function Fim({ sala, eu, enviar, sair }: PropsTela) {
             {j.apelido}
             {j.id === eu && <span class="muted"> (você)</span>}
             <span class="stat">
-              {j.pontos} pts · {j.acertos} acertos
+              {j.pontos} pts · {j.acertos} {j.acertos === 1 ? 'acerto' : 'acertos'}
               {j.lendarias > 0 && ` · ${j.lendarias} lendária${j.lendarias > 1 ? 's' : ''}`}
             </span>
           </li>
         ))}
       </ol>
       <div class="center-actions">
-        {souHost ? (
-          <button class="btn btn-primary" onClick={() => enviar({ t: 'novaPartida' })}>
-            Jogar de novo
-          </button>
-        ) : (
-          <p class="muted">Esperando o anfitrião reabrir a roda…</p>
-        )}
-        <button class="btn btn-ghost" onClick={sair}>
-          Sair da roda
-        </button>
+        <BotaoSair aoSair={sair} />
       </div>
       <EspacoAnuncio />
     </section>

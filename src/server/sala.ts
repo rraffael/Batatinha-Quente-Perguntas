@@ -13,6 +13,7 @@ import {
   entrar,
   expulsar,
   iniciar,
+  jogarDeNovo,
   novaPartida,
   novosEfeitos,
   proximoAlarme,
@@ -143,6 +144,9 @@ export class Sala extends DurableObject<Env> {
         break;
       case 'novaPartida':
         r = novaPartida(s, ctx, id);
+        break;
+      case 'jogarDeNovo':
+        r = jogarDeNovo(s, ctx, id);
         break;
       case 'expulsar':
         if (typeof msg.jogadorId !== 'string') return;

@@ -60,7 +60,7 @@ Azerbaijão | Azerbeijão | Azerbaijan | Azerbaiyán | e
 Cazaquistão | | Kazakhstan | Kazajistán | l
 
 == geo-paises-africa | Cite um país da África | media | países;áfrica | https://pt.wikipedia.org/wiki/Lista_de_pa%C3%ADses_da_%C3%81frica
-@nota Os 54 países africanos membros da ONU.
+@nota Os 54 países africanos membros da ONU (Organização das Nações Unidas).
 África do Sul | | South Africa | Sudáfrica | c
 Angola | | | | c
 Egito | Egipto | Egypt | Egipto | c

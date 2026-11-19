@@ -3,7 +3,7 @@ import type { Calor, Raridade, Ritmo } from './regras';
 export type Fase = 'lobby' | 'contagem' | 'jogando' | 'intervalo' | 'fim';
 
 export interface Config {
-  /** Ids de temas; vazio = todos. */
+  /** Ids de temas; vazio = seleção padrão (todos menos os opcionais). */
   temas: string[];
   /** Inclui perguntas de dificuldade "dificil". */
   dificeis: boolean;
@@ -18,7 +18,7 @@ export interface JogadorPublico {
   personagem: string;
   vidas: number;
   pontos: number;
-  /** Pontos acumulados rumo à próxima vida (0..499). */
+  /** Pontos acumulados rumo à próxima vida (0..PONTOS_POR_VIDA-1). */
   bonus: number;
   vivo: boolean;
   conectado: boolean;
@@ -57,7 +57,10 @@ export type Evento =
       jogadorId: string;
       canonica: string;
       raridade: Raridade;
+      /** Pontos do placar. */
       pontos: number;
+      /** Pontos rumo à vida extra. */
+      bonus: number;
       ganhouVida: boolean;
       trocouPergunta: boolean;
     }
@@ -89,6 +92,8 @@ export interface TemaInfo {
   id: string;
   nome: string;
   qtd: number;
+  /** Tema de nicho (ex.: ligas dos EUA): fica fora da seleção padrão. */
+  opcional?: boolean;
 }
 
 export type MotivoRecusa = 'usada' | 'ambigua' | 'desconhecida';
@@ -101,7 +106,8 @@ export type MsgCliente =
   | { t: 'digitando'; texto: string }
   | { t: 'sair' }
   | { t: 'expulsar'; jogadorId: string }
-  | { t: 'novaPartida' };
+  | { t: 'novaPartida' }
+  | { t: 'jogarDeNovo' };
 
 export type MsgServidor =
   | { t: 'sala'; sala: SalaPublica }

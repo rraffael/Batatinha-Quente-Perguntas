@@ -360,7 +360,7 @@ Flintheart Glomgold | Pão-Duro Mac Mônei | Flintheart Glomgold | | e
 Patacôncio | | John D. Rockerduck | | e
 Urtigão | | Hard Haid Moe | | e
 
-== anm-desenhos-animados | Cite um desenho animado (série de TV) | facil | desenhos;tv;infantil | https://pt.wikipedia.org/wiki/S%C3%A9rie_animada
+== anm-desenhos-animados | Cite um desenho animado (série de televisão) | facil | desenhos;tv;infantil | https://pt.wikipedia.org/wiki/S%C3%A9rie_animada
 Pica-Pau | | Woody Woodpecker | El Pájaro Loco | c
 Tom e Jerry | Tom & Jerry | Tom and Jerry | Tom y Jerry | c
 Os Simpsons | Simpsons | The Simpsons | Los Simpson | c

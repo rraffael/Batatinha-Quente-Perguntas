@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'preact/hooks';
 import type { Config, MsgCliente, SalaPublica, TemaInfo } from '../../shared/protocolo';
 import { MIN_JOGADORES, PONTOS_POR_VIDA, RITMOS, VIDAS_MAX, type Ritmo } from '../../shared/regras';
-import { Avatar, EspacoAnuncio } from '../componentes';
+import { Avatar, BotaoSair, EspacoAnuncio } from '../componentes';
 
 export interface PropsTela {
   sala: SalaPublica;
@@ -49,13 +49,19 @@ export function Lobby({ sala, eu, enviar, sair }: PropsTela) {
     } catch {}
   }
 
+  // Seleção vazia = padrão: todos os temas menos os opcionais (nichos estrangeiros).
+  const padrao = temas.filter((t) => !t.opcional).map((t) => t.id);
+  const ehPadrao = (lista: string[]) =>
+    lista.length === padrao.length && padrao.every((id) => lista.includes(id));
+
   function alternarTema(id: string) {
-    const atual = cfg.temas.length === 0 ? temas.map((t) => t.id) : cfg.temas;
+    const atual = cfg.temas.length === 0 ? padrao : cfg.temas;
     const novo = atual.includes(id) ? atual.filter((t) => t !== id) : [...atual, id];
-    mudar({ temas: novo.length === temas.length ? [] : novo });
+    if (novo.length === 0) return; // pelo menos um tema
+    mudar({ temas: ehPadrao(novo) ? [] : novo });
   }
 
-  const temaLigado = (id: string) => cfg.temas.length === 0 || cfg.temas.includes(id);
+  const temaLigado = (id: string) => (cfg.temas.length === 0 ? padrao.includes(id) : cfg.temas.includes(id));
 
   return (
     <div class="lobby-pagina">
@@ -124,15 +130,32 @@ export function Lobby({ sala, eu, enviar, sair }: PropsTela) {
             </div>
           </fieldset>
           <fieldset class="field" disabled={!souHost}>
-            <legend>Temas {cfg.temas.length === 0 && <span class="muted">(todos)</span>}</legend>
+            <legend>Temas {cfg.temas.length === 0 && <span class="muted">(padrão)</span>}</legend>
             <div class="chips">
-              {temas.map((t) => (
-                <label key={t.id} class={`chip ${temaLigado(t.id) ? 'ligado' : ''}`}>
-                  <input type="checkbox" checked={temaLigado(t.id)} onChange={() => alternarTema(t.id)} />
-                  {t.nome}
-                </label>
-              ))}
+              {temas
+                .filter((t) => !t.opcional)
+                .map((t) => (
+                  <label key={t.id} class={`chip ${temaLigado(t.id) ? 'ligado' : ''}`}>
+                    <input type="checkbox" checked={temaLigado(t.id)} onChange={() => alternarTema(t.id)} />
+                    {t.nome}
+                  </label>
+                ))}
             </div>
+            {temas.some((t) => t.opcional) && (
+              <>
+                <p class="muted pequeno">Extras (desligados por padrão):</p>
+                <div class="chips">
+                  {temas
+                    .filter((t) => t.opcional)
+                    .map((t) => (
+                      <label key={t.id} class={`chip extra ${temaLigado(t.id) ? 'ligado' : ''}`}>
+                        <input type="checkbox" checked={temaLigado(t.id)} onChange={() => alternarTema(t.id)} />
+                        {t.nome}
+                      </label>
+                    ))}
+                </div>
+              </>
+            )}
             <label class="toggle">
               <input type="checkbox" checked={cfg.dificeis} onChange={(e) => mudar({ dificeis: e.currentTarget.checked })} />
               Incluir perguntas difíceis
@@ -149,9 +172,7 @@ export function Lobby({ sala, eu, enviar, sair }: PropsTela) {
           ) : (
             <p class="muted">Esperando o anfitrião acender o pavio…</p>
           )}
-          <button class="btn btn-ghost" onClick={sair}>
-            Sair da sala
-          </button>
+          <BotaoSair aoSair={sair} />
         </div>
       </div>
       <div class="card como-jogar">

@@ -4,7 +4,13 @@ import { casar } from '../src/server/casamento';
 
 // Regra de ouro 2: toda forma escrita no banco precisa ser reconhecida como a própria resposta.
 describe('banco de perguntas real', () => {
-  const perguntas = BANCO.temas.length > 0 ? BANCO.elegiveis({ temas: [], dificeis: true, vidas: 3, ritmo: 'normal', maxJogadores: 8 }) : [];
+  const perguntas = BANCO.elegiveis({
+    temas: BANCO.temas.map((t) => t.id),
+    dificeis: true,
+    vidas: 3,
+    ritmo: 'normal',
+    maxJogadores: 8,
+  });
 
   it('tem perguntas com respostas suficientes', () => {
     expect(perguntas.length).toBeGreaterThan(50);

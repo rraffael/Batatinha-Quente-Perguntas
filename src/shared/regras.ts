@@ -10,7 +10,7 @@ export const ROTULO_RARIDADE: Record<Raridade, string> = {
   lendario: 'Lendário',
 };
 
-/** Pontos por raridade no multiplayer (acumulam para ganhar vida extra). */
+/** Pontos de vida extra por raridade no multiplayer (acumulam até PONTOS_POR_VIDA). */
 export const PONTOS_MULTI: Record<Raridade, number> = {
   comum: 0,
   incomum: 10,
@@ -19,7 +19,7 @@ export const PONTOS_MULTI: Record<Raridade, number> = {
   lendario: 150,
 };
 
-/** Pontos por raridade no modo solo competitivo (futuro). */
+/** Placar da partida (e do modo solo competitivo, futuro): toda resposta certa pontua. */
 export const PONTOS_SOLO: Record<Raridade, number> = {
   comum: 10,
   incomum: 15,
@@ -46,7 +46,7 @@ export const RITMOS: Record<Ritmo, { min: number; max: number; minimo: number; r
  * Aviso de que o pavio está acabando: a batata esquenta (nível 1) e depois fica em brasa (nível 2).
  * Só esses dois momentos são revelados; o tempo exato continua secreto.
  */
-export const CALOR_MS = [3_000, 1_500] as const;
+export const CALOR_MS = [8_000, 3_000] as const;
 export type Calor = 0 | 1 | 2;
 
 export const MIN_JOGADORES = 2;
@@ -54,6 +54,8 @@ export const MAX_JOGADORES = 10;
 export const MAX_NA_SALA = 16; // jogadores + espectadores
 export const CONTAGEM_MS = 3_000;
 export const INTERVALO_MS = 5_000;
+/** Tempo mostrando o último estouro antes do pódio. */
+export const ANTES_DO_FIM_MS = 3_500;
 export const MAX_APELIDO = 16;
 export const MAX_RESPOSTA = 60;
 

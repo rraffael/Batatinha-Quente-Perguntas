@@ -10,6 +10,7 @@ import type {
   SalaPublica,
 } from '../shared/protocolo';
 import {
+  ANTES_DO_FIM_MS,
   CALOR_MS,
   CONTAGEM_MS,
   INTERVALO_MS,
@@ -22,6 +23,7 @@ import {
   PERSONAGENS,
   PONTOS_MULTI,
   PONTOS_POR_VIDA,
+  PONTOS_SOLO,
   RITMOS,
   VIDAS_MAX,
   VIDAS_PADRAO,
@@ -74,6 +76,8 @@ export interface EstadoSala {
   jaFeitas: string[];
   /** Aviso visual de pavio acabando (só os dois últimos momentos são revelados). */
   calor: Calor;
+  /** O último estouro acabou a partida: mostra o POF e depois vai para o pódio. */
+  fimPendente?: boolean;
   evento: Evento | null;
   seq: number;
   vencedorId: string | null;
@@ -262,6 +266,8 @@ function encerrar(s: EstadoSala, vencedorId: string | null): void {
   s.fase = 'fim';
   s.prazo = null;
   s.proximaEm = null;
+  s.calor = 0;
+  s.fimPendente = false;
   s.vencedorId = vencedorId;
 }
 
@@ -289,9 +295,15 @@ function estourar(s: EstadoSala, ctx: Ctx): void {
   s.prazo = null;
   s.calor = 0;
 
-  const fimDeJogo = verificarFim(s);
-  if (!fimDeJogo) {
-    s.fase = 'intervalo';
+  const vivos = s.jogadores.filter((j) => j.vivo);
+  const fimDeJogo = vivos.length <= 1;
+  // Sempre mostra o POF primeiro; se acabou a partida, o pódio vem depois.
+  s.fase = 'intervalo';
+  if (fimDeJogo) {
+    s.fimPendente = true;
+    s.vencedorId = vivos[0]?.id ?? null;
+    s.proximaEm = ctx.agora + ANTES_DO_FIM_MS;
+  } else {
     s.proximaEm = ctx.agora + INTERVALO_MS;
     s.proximoIniciante = vitima.vivo ? vitima.id : proximoVivo(s, vitima.id);
   }
@@ -427,6 +439,7 @@ export function iniciar(s: EstadoSala, ctx: Ctx, jogadorId: string): Resultado {
   s.rodada = null;
   s.numeroRodada = 0;
   s.calor = 0;
+  s.fimPendente = false;
   s.vencedorId = null;
   s.fase = 'contagem';
   s.proximaEm = ctx.agora + CONTAGEM_MS;
@@ -474,9 +487,10 @@ export function responder(s: EstadoSala, ctx: Ctx, jogadorId: string, texto: str
   const pergunta = ctx.banco.pergunta(r.perguntaId)!;
   const resposta = pergunta.respostas.find((x) => x.id === resultado.id)!;
   const raridade = raridadeDe(s, ctx, r.perguntaId, resposta.id);
-  const pontos = PONTOS_MULTI[raridade];
+  const pontos = PONTOS_SOLO[raridade];
+  const bonus = PONTOS_MULTI[raridade];
   j.pontos += pontos;
-  j.bonus += pontos;
+  j.bonus += bonus;
   j.acertos += 1;
   if (raridade === 'lendario') j.lendarias += 1;
   let ganhouVida = false;
@@ -507,6 +521,7 @@ export function responder(s: EstadoSala, ctx: Ctx, jogadorId: string, texto: str
     canonica: resposta.canonica,
     raridade,
     pontos,
+    bonus,
     ganhouVida,
     trocouPergunta: esgotou,
   });
@@ -516,7 +531,8 @@ export function responder(s: EstadoSala, ctx: Ctx, jogadorId: string, texto: str
 export function avancarTempo(s: EstadoSala, ctx: Ctx): void {
   const folga = 25;
   if ((s.fase === 'contagem' || s.fase === 'intervalo') && s.proximaEm !== null && ctx.agora + folga >= s.proximaEm) {
-    comecarRodada(s, ctx);
+    if (s.fimPendente) encerrar(s, s.vencedorId);
+    else comecarRodada(s, ctx);
   } else if (s.fase === 'jogando' && s.prazo !== null) {
     if (ctx.agora + folga >= s.prazo) estourar(s, ctx);
     else s.calor = calorAtual(s, ctx.agora + folga);
@@ -538,6 +554,13 @@ export function novaPartida(s: EstadoSala, ctx: Ctx, jogadorId: string): Resulta
   passarHost(s);
   s.atualizadaEm = ctx.agora;
   return OK;
+}
+
+/** Fim de partida → nova partida direto, com as mesmas configurações e a mesma turma. */
+export function jogarDeNovo(s: EstadoSala, ctx: Ctx, jogadorId: string): Resultado {
+  const r = novaPartida(s, ctx, jogadorId);
+  if (!r.ok) return r;
+  return iniciar(s, ctx, jogadorId);
 }
 
 export function proximoAlarme(s: EstadoSala): number | null {

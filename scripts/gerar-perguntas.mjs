@@ -3,6 +3,7 @@
 // Formato da fonte:
 //   tema: geografia
 //   nome: Geografia
+//   opcional: sim        (opcional; tema desligado por padrão no lobby)
 //   == <id> | <texto> | <facil|media|dificil> | <tag1;tag2> | <url fonte>
 //   <canonica> | <rar>
 //   <canonica> | <aceitas a;b> | <rar>
@@ -65,6 +66,11 @@ function gerarTema(arquivo) {
 
     if (linha.startsWith("tema:")) { tema.tema = linha.slice(5).trim(); return; }
     if (linha.startsWith("nome:")) { tema.nome = linha.slice(5).trim(); return; }
+    // opcional: sim → tema fica desligado por padrão (só entra se o anfitrião escolher).
+    if (linha.startsWith("opcional:")) {
+      if (/^(sim|true)$/i.test(linha.slice(9).trim())) tema.opcional = true;
+      return;
+    }
 
     if (linha.startsWith("@nota ") || linha.startsWith("@atualizadoEm ")) {
       if (!atual) throw new Error(`${onde}: metadado fora de pergunta`);

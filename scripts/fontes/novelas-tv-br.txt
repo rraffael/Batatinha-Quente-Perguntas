@@ -1,5 +1,5 @@
 tema: novelas-tv-br
-nome: TV Brasileira
+nome: Televisão Brasileira
 
 == tvbr-novelas-globo | Cite uma novela da TV Globo | facil | novelas;globo | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo
 @nota Inclui remakes exibidos pela Globo (ex.: Pantanal 2022).
@@ -105,7 +105,7 @@ Verão 90 | | | | e
 Cama de Gato | | | | e
 Malhação | | | | i
 
-== tvbr-apresentadores | Cite um(a) apresentador(a) de TV brasileiro(a) | facil | tv;apresentadores | https://pt.wikipedia.org/wiki/Televis%C3%A3o_no_Brasil
+== tvbr-apresentadores | Cite um(a) apresentador(a) de televisão brasileiro(a) | facil | tv;apresentadores | https://pt.wikipedia.org/wiki/Televis%C3%A3o_no_Brasil
 Faustão | Fausto Silva | | | c
 Silvio Santos | Sílvio Santos | | | c
 Xuxa | Xuxa Meneghel | | | c
@@ -177,7 +177,7 @@ Poliana Abritta | | | | e
 César Tralli | | | | r
 Renata Vasconcellos | | | | r
 
-== tvbr-programas | Cite um programa da TV brasileira | facil | tv;programas | https://pt.wikipedia.org/wiki/Televis%C3%A3o_no_Brasil
+== tvbr-programas | Cite um programa da televisão brasileira | facil | tv;programas | https://pt.wikipedia.org/wiki/Televis%C3%A3o_no_Brasil
 Fantástico | | | | c
 Jornal Nacional | JN | | | c
 Domingão do Faustão | Domingão;Domingão com Huck | | | c
@@ -331,7 +331,7 @@ Murilo Couto | | | | e
 Bruna Louise | | | | e
 Gil Brother | | | | l
 
-== tvbr-sitio-picapau | Cite um personagem do Sítio do Picapau Amarelo (livros ou TV) | media | monteiro lobato;sítio;infantil | https://pt.wikipedia.org/wiki/S%C3%ADtio_do_Picapau_Amarelo
+== tvbr-sitio-picapau | Cite um personagem do Sítio do Picapau Amarelo (livros ou televisão) | media | monteiro lobato;sítio;infantil | https://pt.wikipedia.org/wiki/S%C3%ADtio_do_Picapau_Amarelo
 Emília | | | | c
 Narizinho | Lúcia | | | c
 Pedrinho | | | | c
@@ -370,7 +370,7 @@ Polegarzinho | Pequeno Polegar | | | l
 
 == tvbr-campeoes-bbb | Cite um(a) campeão(ã) do Big Brother Brasil | dificil | bbb;reality show | https://pt.wikipedia.org/wiki/Big_Brother_Brasil
 @atualizadoEm 2026-11
-@nota Vencedores do BBB1 ao BBB26.
+@nota Vencedores do BBB (Big Brother Brasil), da 1ª à 26ª edição.
 Kleber Bambam | Bambam | | | c
 Rodrigo Cowboy | Rodrigo Leonel | | | r
 Dhomini | Dhomini Ferreira | | | i

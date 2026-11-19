@@ -42,54 +42,6 @@ Carlos Luz | | | | l
 Nereu Ramos | | | | l
 Ranieri Mazzilli | | | | l
 
-== his-presidentes-eua | Cite um presidente dos Estados Unidos | media | eua;política;presidentes | https://pt.wikipedia.org/wiki/Lista_de_presidentes_dos_Estados_Unidos
-@atualizadoEm 2026-11
-Abraham Lincoln | Lincoln;Abe Lincoln | | | c
-George Washington | Washington | | | c
-Donald Trump | Trump | | | c
-Barack Obama | Obama | | | c
-Joe Biden | Biden | | | c
-John F. Kennedy | Kennedy;JFK | | | c
-Bill Clinton | Clinton | | | c
-George W. Bush | Bush filho | | | c
-George H. W. Bush | Bush pai | | | i
-Ronald Reagan | Reagan | | | c
-Richard Nixon | Nixon | | | c
-Franklin D. Roosevelt | FDR;Franklin Roosevelt | | | i
-Theodore Roosevelt | Teddy Roosevelt | | | i
-Thomas Jefferson | Jefferson | | | i
-Jimmy Carter | Carter | | | i
-Harry Truman | Truman | | | i
-Dwight Eisenhower | Eisenhower;Ike | | | i
-Gerald Ford | | | | i
-Lyndon B. Johnson | LBJ;Lyndon Johnson | | | r
-John Adams | | | | r
-James Madison | Madison | | | r
-James Monroe | Monroe | | | r
-Andrew Jackson | Jackson | | | r
-Ulysses S. Grant | Ulysses Grant | | | r
-Woodrow Wilson | Wilson | | | r
-Herbert Hoover | Hoover | | | r
-John Quincy Adams | | | | e
-Andrew Johnson | | | | e
-William McKinley | McKinley | | | e
-William Howard Taft | Taft | | | e
-Calvin Coolidge | Coolidge | | | e
-Warren Harding | Harding | | | e
-Grover Cleveland | Cleveland | | | e
-James Polk | Polk | | | e
-Martin Van Buren | Van Buren | | | e
-William Henry Harrison | | | | l
-Benjamin Harrison | | | | l
-John Tyler | Tyler | | | l
-Zachary Taylor | Taylor | | | l
-Millard Fillmore | Fillmore | | | l
-Franklin Pierce | Pierce | | | l
-James Buchanan | Buchanan | | | l
-Rutherford Hayes | Hayes | | | l
-James Garfield | Garfield | | | l
-Chester Arthur | | | | l
-
 == his-imperadores-romanos | Cite um imperador romano | dificil | roma;antiguidade | https://pt.wikipedia.org/wiki/Lista_de_imperadores_romanos
 Nero | | | Nerón | c
 Calígula | | Caligula | | c

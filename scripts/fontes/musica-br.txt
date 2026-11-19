@@ -1,7 +1,7 @@
 tema: musica-br
 nome: Música Brasileira
 
-== mbr-artistas-mpb | Cite um(a) cantor(a) ou compositor(a) da MPB | media | mpb;cantores | https://pt.wikipedia.org/wiki/M%C3%BAsica_popular_brasileira
+== mbr-artistas-mpb | Cite um(a) cantor(a) ou compositor(a) da MPB (Música Popular Brasileira) | media | mpb;cantores | https://pt.wikipedia.org/wiki/M%C3%BAsica_popular_brasileira
 Caetano Veloso | Caetano | | | c
 Gilberto Gil | Gil | | | c
 Chico Buarque | Chico | | | c

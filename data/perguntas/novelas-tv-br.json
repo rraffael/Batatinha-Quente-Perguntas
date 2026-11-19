@@ -1,6 +1,6 @@
 {
   "tema": "novelas-tv-br",
-  "nome": "TV Brasileira",
+  "nome": "Televisão Brasileira",
   "perguntas": [
     {
       "id": "tvbr-novelas-globo",
@@ -734,7 +734,7 @@
     },
     {
       "id": "tvbr-apresentadores",
-      "texto": "Cite um(a) apresentador(a) de TV brasileiro(a)",
+      "texto": "Cite um(a) apresentador(a) de televisão brasileiro(a)",
       "dificuldade": "facil",
       "tags": [
         "tv",
@@ -1268,7 +1268,7 @@
     },
     {
       "id": "tvbr-programas",
-      "texto": "Cite um programa da TV brasileira",
+      "texto": "Cite um programa da televisão brasileira",
       "dificuldade": "facil",
       "tags": [
         "tv",
@@ -2407,7 +2407,7 @@
     },
     {
       "id": "tvbr-sitio-picapau",
-      "texto": "Cite um personagem do Sítio do Picapau Amarelo (livros ou TV)",
+      "texto": "Cite um personagem do Sítio do Picapau Amarelo (livros ou televisão)",
       "dificuldade": "media",
       "tags": [
         "monteiro lobato",
@@ -2688,7 +2688,7 @@
         "reality show"
       ],
       "fonte": "https://pt.wikipedia.org/wiki/Big_Brother_Brasil",
-      "nota": "Vencedores do BBB1 ao BBB26.",
+      "nota": "Vencedores do BBB (Big Brother Brasil), da 1ª à 26ª edição.",
       "atualizadoEm": "2026-11",
       "respostas": [
         {

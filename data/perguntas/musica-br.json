@@ -4,7 +4,7 @@
   "perguntas": [
     {
       "id": "mbr-artistas-mpb",
-      "texto": "Cite um(a) cantor(a) ou compositor(a) da MPB",
+      "texto": "Cite um(a) cantor(a) ou compositor(a) da MPB (Música Popular Brasileira)",
       "dificuldade": "media",
       "tags": [
         "mpb",

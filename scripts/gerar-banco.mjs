@@ -32,7 +32,7 @@ for (const arquivo of readdirSync(pastaDados).filter((f) => f.endsWith('.json'))
     });
     qtd++;
   }
-  temas.push({ id: dados.tema, nome: dados.nome, qtd });
+  temas.push({ id: dados.tema, nome: dados.nome, qtd, ...(dados.opcional ? { opcional: true } : {}) });
 }
 
 mkdirSync(dirname(destino), { recursive: true });

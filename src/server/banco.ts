@@ -54,6 +54,7 @@ export function criarBanco(dados: DadosBanco): FonteBanco {
     });
   }
   const nomes = new Map(dados.temas.map((t) => [t.id, t.nome]));
+  const opcionais = new Set(dados.temas.filter((t) => t.opcional).map((t) => t.id));
   const indices = new Map<string, Indice>();
 
   return {
@@ -75,7 +76,7 @@ export function criarBanco(dados: DadosBanco): FonteBanco {
     elegiveis(config) {
       const filtrar = (comDificeis: boolean) =>
         [...perguntas.values()]
-          .filter((p) => config.temas.length === 0 || config.temas.includes(p.tema))
+          .filter((p) => (config.temas.length === 0 ? !opcionais.has(p.tema) : config.temas.includes(p.tema)))
           .filter((p) => comDificeis || p.dificuldade !== 'dificil')
           .map((p) => p.id);
       let ids = filtrar(config.dificeis);
