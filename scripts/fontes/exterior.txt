@@ -6,14 +6,14 @@ opcional: sim
 BTS | Bangtan Boys | | | c
 Blackpink | | | | c
 Twice | | | | i
-Stray Kids | | | | i
+Stray Kids | SKZ |  |  | i
 EXO | | | | i
 Big Bang | | | | i
-Girls' Generation | SNSD | | | r
+Girls' Generation | SNSD;Shoujo Jidai |  |  | r
 Red Velvet | | | | r
 NewJeans | | | | i
-Seventeen | | | | r
-NCT | NCT 127;NCT Dream | | | r
+Seventeen | SVT |  |  | r
+NCT | NCT 127;NCT Dream;WayV |  |  | r
 Tomorrow X Together | TXT | | | r
 Ateez | | | | r
 ITZY | | | | r
@@ -59,21 +59,69 @@ BoyNextDoor | | | | l
 TWS | | | | l
 Kiss of Life | | | | l
 P1Harmony | | | | l
+TVXQ | DBSK;Dong Bang Shin Ki | r
+Shinhwa | e
+H.O.T. | HOT | e
+g.o.d | god | l
+S.E.S. | SES | l
+Fin.K.L | Fin.KL;Pinkl | l
+SS501 | e
+Highlight | Beast;B2ST | e
+Teen Top | e
+Block B | e
+B.A.P | BAP | e
+VIXX | e
+Pentagon | e
+Astro | e
+CNBLUE | CN Blue | e
+FT Island | e
+Everglow | e
+STAYC | e
+Kep1er | e
+NMIXX | e
+WJSN | Cosmic Girls | e
+AOA | e
+Girl's Day | e
+After School | e
+Fifty Fifty | e
+tripleS | e
+SuperM | e
+KARD | e
+MBLAQ | l
+2AM | l
+U-KISS | l
+SF9 | l
+fromis_9 | l
+Lovelyz | l
+Brown Eyed Girls | l
+Secret | l
+CLC | l
+Weki Meki | l
+Oneus | l
+AB6IX | l
+Cravity | l
+Xdinary Heroes | l
+N.Flying | l
+The Rose | l
+Hearts2Hearts | l
+Meovv | l
+Victon | l
+Golden Child | l
 
 == esp-times-nba | Cite um time da NBA (National Basketball Association, a liga de basquete dos Estados Unidos) | media | basquete;nba;eua | https://pt.wikipedia.org/wiki/National_Basketball_Association
 @atualizadoEm 2026-11
-Los Angeles Lakers | Lakers | | | c
+Los Angeles Lakers | Lakers;LA Lakers |  |  | c
 Chicago Bulls | Bulls | | | c
 Boston Celtics | Celtics | | | c
-Golden State Warriors | Warriors | | | c
+Golden State Warriors | Warriors;Golden State |  |  | c
 Miami Heat | Heat | | | c
-New York Knicks | Knicks | | | i
+New York Knicks | Knicks;NY Knicks |  |  | i
 San Antonio Spurs | Spurs | | | i
 Cleveland Cavaliers | Cavaliers;Cavs | | | i
-Brooklyn Nets | Nets | | | i
+Brooklyn Nets | Nets;New Jersey Nets |  |  | i
 Houston Rockets | Rockets | | | i
 Dallas Mavericks | Mavericks;Mavs | | | i
-Philadelphia 76ers | 76ers;Sixers | | | i
+Philadelphia 76ers | 76ers;Sixers;Philadelphia Sixers |  |  | i
 Orlando Magic | Magic | | | i
 Phoenix Suns | Suns | | | i
 Milwaukee Bucks | Bucks | | | i
@@ -86,7 +134,7 @@ Utah Jazz | Jazz | | | r
 Atlanta Hawks | Hawks | | | r
 Indiana Pacers | Pacers | | | r
 Charlotte Hornets | Hornets | | | r
-Portland Trail Blazers | Trail Blazers;Blazers | | | r
+Portland Trail Blazers | Trail Blazers;Blazers;Portland Blazers |  |  | r
 Sacramento Kings | Kings | | | r
 Memphis Grizzlies | Grizzlies | | | e
 Minnesota Timberwolves | Timberwolves;Wolves | | | e
@@ -104,50 +152,50 @@ San Francisco 49ers | 49ers;Niners | | | i
 Philadelphia Eagles | Eagles | | | i
 Tampa Bay Buccaneers | Buccaneers;Bucs | | | i
 Miami Dolphins | Dolphins | | | i
-New York Giants | Giants | | | i
+New York Giants | Giants;NY Giants |  |  | i
 Seattle Seahawks | Seahawks | | | i
 Las Vegas Raiders | Raiders;Oakland Raiders | | | i
 Denver Broncos | Broncos | | | r
 Baltimore Ravens | Ravens | | | r
 Buffalo Bills | Bills | | | r
 Chicago Bears | Bears | | | r
-New York Jets | Jets | | | r
+New York Jets | Jets;NY Jets |  |  | r
 Minnesota Vikings | Vikings | | | r
 New Orleans Saints | Saints | | | r
-Los Angeles Rams | Rams | | | r
+Los Angeles Rams | Rams;LA Rams;St. Louis Rams |  |  | r
 Indianapolis Colts | Colts | | | r
 Detroit Lions | Lions | | | r
 Atlanta Falcons | Falcons | | | r
 Cincinnati Bengals | Bengals | | | r
-Los Angeles Chargers | Chargers | | | e
+Los Angeles Chargers | Chargers;LA Chargers;San Diego Chargers |  |  | e
 Houston Texans | Texans | | | e
 Arizona Cardinals | Cardinals | | | e
 Carolina Panthers | Panthers | | | e
 Cleveland Browns | Browns | | | e
-Jacksonville Jaguars | Jaguars | | | e
-Tennessee Titans | Titans | | | e
-Washington Commanders | Commanders | | | e
+Jacksonville Jaguars | Jaguars;Jags |  |  | e
+Tennessee Titans | Titans;Houston Oilers |  |  | e
+Washington Commanders | Commanders;Washington Football Team |  |  | e
 
 == his-presidentes-eua | Cite um presidente dos Estados Unidos | media | eua;política;presidentes | https://pt.wikipedia.org/wiki/Lista_de_presidentes_dos_Estados_Unidos
 @atualizadoEm 2026-11
 Abraham Lincoln | Lincoln;Abe Lincoln | | | c
 George Washington | Washington | | | c
-Donald Trump | Trump | | | c
+Donald Trump | Trump;Donald J. Trump |  |  | c
 Barack Obama | Obama | | | c
 Joe Biden | Biden | | | c
-John F. Kennedy | Kennedy;JFK | | | c
-Bill Clinton | Clinton | | | c
-George W. Bush | Bush filho | | | c
-George H. W. Bush | Bush pai | | | i
+John F. Kennedy | Kennedy;JFK;John Kennedy;John Fitzgerald Kennedy |  |  | c
+Bill Clinton | Clinton;William Clinton;William Jefferson Clinton |  |  | c
+George W. Bush | Bush filho;George Bush Jr;Bush Jr;George Bush Filho |  |  | c
+George H. W. Bush | Bush pai;George Bush Sr;Bush Sr;George Bush Pai |  |  | i
 Ronald Reagan | Reagan | | | c
 Richard Nixon | Nixon | | | c
-Franklin D. Roosevelt | FDR;Franklin Roosevelt | | | i
+Franklin D. Roosevelt | FDR;Franklin Roosevelt;Franklin Delano Roosevelt |  |  | i
 Theodore Roosevelt | Teddy Roosevelt | | | i
 Thomas Jefferson | Jefferson | | | i
 Jimmy Carter | Carter | | | i
-Harry Truman | Truman | | | i
-Dwight Eisenhower | Eisenhower;Ike | | | i
-Gerald Ford | | | | i
+Harry Truman | Truman;Harry S. Truman |  |  | i
+Dwight Eisenhower | Eisenhower;Ike;Dwight D. Eisenhower |  |  | i
+Gerald Ford | Gerald R. Ford |  |  | i
 Lyndon B. Johnson | LBJ;Lyndon Johnson | | | r
 John Adams | | | | r
 James Madison | Madison | | | r
@@ -159,11 +207,11 @@ Herbert Hoover | Hoover | | | r
 John Quincy Adams | | | | e
 Andrew Johnson | | | | e
 William McKinley | McKinley | | | e
-William Howard Taft | Taft | | | e
+William Howard Taft | Taft;William Taft |  |  | e
 Calvin Coolidge | Coolidge | | | e
-Warren Harding | Harding | | | e
+Warren Harding | Harding;Warren G. Harding |  |  | e
 Grover Cleveland | Cleveland | | | e
-James Polk | Polk | | | e
+James Polk | Polk;James K. Polk |  |  | e
 Martin Van Buren | Van Buren | | | e
 William Henry Harrison | | | | l
 Benjamin Harrison | | | | l
@@ -172,6 +220,6 @@ Zachary Taylor | Taylor | | | l
 Millard Fillmore | Fillmore | | | l
 Franklin Pierce | Pierce | | | l
 James Buchanan | Buchanan | | | l
-Rutherford Hayes | Hayes | | | l
+Rutherford Hayes | Hayes;Rutherford B. Hayes |  |  | l
 James Garfield | Garfield | | | l
-Chester Arthur | | | | l
+Chester Arthur | Chester A. Arthur |  |  | l

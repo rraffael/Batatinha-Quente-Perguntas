@@ -67,6 +67,47 @@ Iveco | | | | l
 Willys | Willys-Overland | | | e
 Simca | | | | l
 DKW | DKW-Vemag;Vemag | | | l
+MG | MG Motor;Morris Garages | i
+Daihatsu | r
+Isuzu | r
+SsangYong | KG Mobility | r
+Infiniti | r
+Acura | r
+Genesis | r
+Hummer | r
+Geely | i
+Daewoo | r
+Saab | r
+Pontiac | r
+Oldsmobile | e
+Maybach | r
+Abarth | r
+Polestar | r
+Zeekr | e
+Jetour | e
+Changan | e
+Dongfeng | e
+Foton | e
+Mahindra | e
+Tata | Tata Motors | e
+Datsun | e
+Agrale | e
+Engesa | l
+Vauxhall | e
+Triumph | e
+Austin | l
+Rover | e
+Studebaker | l
+Packard | l
+Rivian | e
+Lucid | l
+Fisker | l
+NIO | e
+XPeng | e
+Leapmotor | l
+Lynk & Co | e
+DS | DS Automobiles | e
+Stellantis | i
 
 == mar-modelos-carro-brasil | Cite um modelo de carro vendido no Brasil | media | carros;brasil | https://pt.wikipedia.org/wiki/Ind%C3%BAstria_automobil%C3%ADstica_no_Brasil
 Gol | VW Gol | | | c
@@ -195,18 +236,116 @@ Pulse | Fiat Pulse | | | r
 Fastback | Fiat Fastback | | | r
 Tiggo | | | | e
 Kardian | | | | e
+Amarok | i
+Tiguan | i
+Taos | r
+Touareg | r
+CrossFox | Cross Fox | r
+SpaceFox | Space Fox | r
+Mustang | Ford Mustang | i
+Fusion | Ford Fusion | r
+Edge | Ford Edge | r
+Territory | Ford Territory | r
+Courier | Ford Courier | r
+F-1000 | F1000 | r
+F-250 | F250 | r
+Idea | Fiat Idea | r
+Stilo | Fiat Stilo | r
+Bravo | Fiat Bravo | r
+Linea | Fiat Linea | r
+Ducato | Fiat Ducato | r
+Agile | Chevrolet Agile | i
+Classic | Chevrolet Classic | r
+Camaro | Chevrolet Camaro | i
+Blazer | Chevrolet Blazer | i
+Equinox | Chevrolet Equinox | r
+Trailblazer | Chevrolet Trailblazer | r
+Captiva | Chevrolet Captiva | r
+Sonic | Chevrolet Sonic | r
+Silverado | Chevrolet Silverado | r
+Bandeirante | Toyota Bandeirante | i
+Land Cruiser | Toyota Land Cruiser | r
+RAV4 | Toyota RAV4 | r
+Camry | Toyota Camry | r
+Prius | Toyota Prius | r
+Corolla Cross | r
+CR-V | CRV;Honda CR-V | i
+Accord | Honda Accord | i
+WR-V | WRV | r
+ZR-V | ZRV | r
+ix35 | Hyundai ix35 | r
+Santa Fe | Hyundai Santa Fe | r
+Elantra | Hyundai Elantra | r
+i30 | Hyundai i30 | r
+Azera | Hyundai Azera | e
+Veloster | Hyundai Veloster | e
+Oroch | Renault Duster Oroch | r
+Fluence | Renault Fluence | r
+Mégane | Renault Mégane | r
+Scénic | e
+Master | Renault Master | r
+Kangoo | Renault Kangoo | r
+Tiida | Nissan Tiida | r
+Livina | Nissan Livina | r
+Leaf | Nissan Leaf | r
+Peugeot 307 | 307 | r
+Peugeot 308 | 308 | r
+Peugeot 3008 | 3008 | r
+Peugeot 408 | 408 | r
+Peugeot 106 | 106 | e
+Peugeot 405 | 405 | e
+Partner | Peugeot Partner | r
+C4 Cactus | Citroën C4 Cactus | r
+C4 Lounge | Citroën C4 Lounge | r
+C3 Aircross | Aircross | r
+Xsara Picasso | Picasso | e
+Berlingo | Citroën Berlingo | e
+Wrangler | Jeep Wrangler | i
+Grand Cherokee | Jeep Grand Cherokee | i
+Cherokee | Jeep Cherokee | r
+Gladiator | Jeep Gladiator | r
+Sprinter | Mercedes Sprinter;Mercedes-Benz Sprinter | i
+BMW X1 | X1 | r
+BMW X3 | X3 | r
+BMW X5 | X5 | r
+Audi A3 | A3 | r
+Audi A4 | A4 | r
+Audi Q3 | Q3 | r
+Audi Q5 | Q5 | r
+Audi TT | TT | r
+Sportage | Kia Sportage | r
+Sorento | Kia Sorento | r
+Picanto | Kia Picanto | r
+Cerato | Kia Cerato | r
+Soul | Kia Soul | r
+Jimny | Suzuki Jimny | r
+Swift | Suzuki Swift | r
+Vitara | Suzuki Vitara | r
+Defender | Land Rover Defender | i
+Discovery | Land Rover Discovery | r
+Evoque | Range Rover Evoque | r
+XC60 | Volvo XC60 | r
+XC90 | Volvo XC90 | r
+QQ | Chery QQ | r
+Cielo | Chery Cielo | e
+Celer | Chery Celer | e
+Pajero Sport | Mitsubishi Pajero Sport | r
+ASX | Mitsubishi ASX | r
+Outlander | Mitsubishi Outlander | r
+Pajero TR4 | TR4 | r
+Freemont | Fiat Freemont | e
 
 == mar-fast-food | Cite uma rede de fast food ou de restaurantes | facil | restaurantes;fast food | https://pt.wikipedia.org/wiki/Fast_food
-McDonald's | McDonalds;Mc;Méqui | | | c
-Burger King | BK | | | c
+McDonald's | McDonalds;Mc;Méqui;Mc Donalds;Mac Donalds;MacDonalds |  |  | c
+Burger King | BK;Burguer King |  |  | c
 Subway | | | | c
-KFC | Kentucky Fried Chicken | | | c
+KFC | Kentucky Fried Chicken;Kentucky |  |  | c
 Bob's | Bobs | | | c
 Habib's | Habibs | | | c
-Giraffas | | | | c
-Spoleto | | | | c
-China in Box | | | | i
-Pizza Hut | | | | c
+Giraffas | Girafas |  |  | c
+Spoleto | Spoletto |  |  | c
+China in Box | China Box |  |  | i
+Pizza Hut | Pizzahut |  |  | c
 Domino's | Dominos;Domino's Pizza | | | i
 Outback | Outback Steakhouse | | | c
 Madero | | | | i
@@ -253,11 +392,34 @@ Parmê | | | | e
 Cacau Show | | | | r
 Kopenhagen | | | | e
 Ráscal | | | | l
+Sbarro | i
+Krispy Kreme | i
+Cinnabon | r
+Auntie Anne's | Auntie Annes | r
+Denny's | Dennys | r
+Olive Garden | r
+Red Lobster | r
+Hard Rock Cafe | i
+Nando's | Nandos | r
+Chick-fil-A | r
+Wingstop | e
+Buffalo Wild Wings | e
+Koni Store | Koni | r
+Brasil Cacau | r
+Havanna | r
+IHOP | r
+Texas Roadhouse | e
+Whataburger | e
+Sonic Drive-In | Sonic | e
+White Castle | e
+Pret A Manger | Pret | e
+TGI Fridays | Fridays | r
+Tony Roma's | Tony Romas | e
 
 == mar-tecnologia | Cite uma marca de tecnologia ou eletrônicos | facil | tecnologia;eletrônicos | https://pt.wikipedia.org/wiki/Empresa_de_tecnologia
-Apple | | | | c
-Samsung | | | | c
-Motorola | Moto | | | c
+Apple | Apple Inc |  |  | c
+Samsung | Samsung Electronics |  |  | c
+Motorola | Moto;Motorola Mobility |  |  | c
 LG | | | | c
 Sony | | | | c
 Xiaomi | | | | c
@@ -281,7 +443,7 @@ Huawei | | | | i
 Nokia | | | | i
 Philco | | | | i
 TCL | Semp TCL;Semp | | | i
-Toshiba | | | | i
+Toshiba | Semp Toshiba |  |  | i
 JBL | | | | i
 Logitech | | | | i
 Canon | | | | i
@@ -327,34 +489,77 @@ HyperX | | | | l
 Kingston | | | | e
 SanDisk | | | | e
 Seagate | | | | l
+ZTE | r
+MSI | r
+Gigabyte | r
+Hisense | r
+Midea | r
+Bosch | i
+Whirlpool | i
+Elgin | r
+Tectoy | r
+Oster | r
+Black+Decker | r
+Fujitsu | r
+NEC | r
+Casio | i
+Brother | r
+Ricoh | e
+Kyocera | e
+Lexmark | e
+Sennheiser | r
+Yamaha | i
+JVC | r
+TP-Link | r
+D-Link | r
+Compaq | r
+Sega | r
+Atari | r
+Itautec | e
+Oracle | i
+Adobe | i
+SAP | r
+OpenAI | i
+Dolby | e
+Olympus | e
+Esmaltec | l
+Western Digital | WD | e
+Micron | e
+Sonos | e
+Harman Kardon | e
+Marshall | e
+Leica | e
+Sigma | l
+Infinix | e
+Tecno | e
 
 == mar-bancos | Cite um banco que opera ou já operou no Brasil | media | bancos;finanças | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
 Banco do Brasil | BB | | | c
 Caixa Econômica Federal | Caixa;CEF | | | c
-Itaú | Itaú Unibanco | | | c
-Bradesco | | | | c
-Santander | | | | c
+Itaú | Itaú Unibanco;Banco Itaú |  |  | c
+Bradesco | Banco Bradesco |  |  | c
+Santander | Banco Santander;Santander Brasil |  |  | c
 Nubank | Nu | | | c
 Inter | Banco Inter | | | c
 C6 Bank | C6 | | | i
 BTG Pactual | BTG | | | i
 Safra | Banco Safra | | | i
-Banrisul | | | | i
+Banrisul | Banco do Estado do Rio Grande do Sul |  |  | i
 PagBank | PagSeguro | | | i
 Mercado Pago | | | | i
 PicPay | | | | i
 Banco Pan | Pan | | | i
-Neon | | | | i
+Neon | Banco Neon |  |  | i
 Original | Banco Original | | | r
 Next | | | | r
 Sicredi | | | | i
 Sicoob | | | | i
 HSBC | | | | i
 Citibank | Citi | | | r
-Unibanco | | | | i
-Banco Real | Real | | | r
+Unibanco | Banco Unibanco |  |  | i
+Banco Real | Real;Banco Real ABN |  |  | r
 Bamerindus | | | | r
-Banespa | | | | r
+Banespa | Banco do Estado de São Paulo |  |  | r
 Banco do Nordeste | BNB | | | r
 Banco da Amazônia | Basa | | | e
 BRB | Banco de Brasília | | | r
@@ -365,8 +570,8 @@ BMG | Banco BMG | | | r
 Daycoval | | | | e
 Mercantil | Banco Mercantil | | | e
 Banco Votorantim | BV | | | r
-Banestes | | | | e
-Banpará | | | | e
+Banestes | Banco do Estado do Espírito Santo |  |  | e
+Banpará | Banco do Estado do Pará |  |  | e
 Banerj | | | | e
 Banco Nacional | | | | e
 Banco Econômico | Econômico | | | l
@@ -378,6 +583,114 @@ Banco Bari | | | | l
 Banco Rendimento | | | | l
 Banco Fibra | | | | l
 Banco Pine | | | | l
+ABN AMRO | Banco ABN AMRO;ABN Amro Real | i
+Banco Master | Master | i
+Banco Digio | Digio | i
+Banco Genial | Genial | r
+Banco BS2 | BS2 | r
+Cora | Banco Cora | e
+BankBoston | Bank Boston;Banco de Boston | r
+Banco Santos | r
+Banco Cruzeiro do Sul | Cruzeiro do Sul | r
+Banco Rural | Rural | r
+Banco Cacique | Cacique | r
+Nossa Caixa | Banco Nossa Caixa | r
+Banco Bandeirantes | Bandeirantes | r
+Banco Boavista | r
+Banco Bozano Simonsen | Bozano Simonsen | e
+Banco Meridional | Meridional | e
+Banco Icatu | Icatu | e
+Banco Excel-Econômico | Excel-Econômico | e
+Banco Garantia | Garantia | e
+Banco Noroeste | Noroeste | e
+Banco Sudameris | Banco Sudameris Brasil;Sudameris | e
+Lloyds TSB | Lloyds;Lloyds TSB Brasil | e
+Deutsche Bank | r
+Goldman Sachs | Goldman Sachs do Brasil | r
+JPMorgan | JP Morgan;Banco JP Morgan;JPMorgan Chase | r
+Morgan Stanley | Banco Morgan Stanley | r
+UBS | r
+Credit Suisse | r
+BNP Paribas | Banco BNP Paribas Brasil | r
+Société Générale | Banco Société Générale Brasil | e
+Scotiabank | Scotiabank Brasil | e
+Bank of America | Bank of America Merrill Lynch;Merrill Lynch | r
+Banco Itaú BBA | Itaú BBA | r
+Banco Honda | e
+Banco Toyota | Banco Toyota do Brasil | e
+Banco Volkswagen | Volkswagen Financial Services | e
+Banco Mercedes-Benz | Banco Mercedes-Benz do Brasil | e
+Banco RCI | Banco RCI Brasil;Banco Renault | e
+Banco Stellantis | e
+Banco John Deere | John Deere | e
+Banco Randon | l
+Banco Rodobens | Rodobens | l
+Banco Fator | Fator | r
+Banco Guanabara | l
+Banco Semear | Semear | l
+Banco Topázio | l
+Banco Moneo | Moneo | l
+Banco Pleno | Pleno | l
+Banco Luso Brasileiro | l
+Banco Mercantil de São Paulo | e
+Banco de Crédito Nacional | BCN | e
+Banco BMC | BMC | e
+Banco Marka | Marka | l
+Banco Matone | Matone | l
+Banco Opportunity | Opportunity | l
+Banco Cidade | l
+Banco Halles | Halles | l
+Banco Comind | Comind | l
+Banco Habitasul | Habitasul | l
+Banco BBA | BBA | l
+Banco Popular do Brasil | e
+Banco Industrial e Comercial | BIC Banco;BIC | l
+Banco Sulbrasileiro | Sulbrasileiro | l
+Banco Auxiliar | l
+Banco Maisonnave | Maisonnave | l
+Banco do Estado da Guanabara | l
+Banese | Banco do Estado de Sergipe | r
+BDMG | Banco de Desenvolvimento de Minas Gerais | r
+BRDE | Banco Regional de Desenvolvimento do Extremo Sul | e
+Banco de Desenvolvimento do Espírito Santo | Bandes | e
+Banco Nacional da Habitação | BNH | r
+Banco Western Union do Brasil | Western Union | e
+Bank of China | Bank of China Brasil | e
+ICBC | ICBC do Brasil | e
+Banco Mizuho | Mizuho | e
+Banco MUFG Brasil | MUFG | e
+Banco Sumitomo Mitsui Brasileiro | Sumitomo Mitsui | e
+Banco Rabobank | Rabobank | e
+Banco Cargill | Cargill | l
+Banco Cédula | Cédula | l
+Banco Confidence | Confidence | l
+Banco Arbi | Arbi | l
+Banco Paulista | l
+Banco Digimais | Digimais | l
+Banco Afinz | Afinz | l
+Banco B3 | l
+Omni Banco | e
+Paraná Banco | e
+Banco Letsbank | Letsbank | l
+N26 | e
+Stark Bank | Stark | l
+Tribanco | e
+Ouribank | Ouri | l
+Banco VR | l
+Banco KDB | KDB | l
+Banco Woori Bank | Woori Bank | l
+Banco Andbank | Andbank | l
+Banco Clássico | Clássico | l
+Banco Senff | Senff | l
+Banco Tricury | Tricury | l
+Haitong | l
+Banco Finaxis | l
+Banco BRP | BRP | l
+Banco RNX | RNX | l
+Banco CSF | CSF | l
+Banco Industrial do Brasil | Industrial do Brasil | l
+Banco Predial do Estado do Rio de Janeiro | Predial | l
+Banco União Comercial | União Comercial | l
 
 == mar-moda | Cite uma marca de roupa, calçado ou acessório | facil | moda;roupas | https://pt.wikipedia.org/wiki/Moda
 Nike | | | | c
@@ -413,7 +726,7 @@ Marisa | Lojas Marisa | | | i
 Prada | | | | i
 Dior | | | | i
 Versace | | | | i
-Armani | Giorgio Armani | | | i
+Armani | Giorgio Armani;Emporio Armani;Armani Exchange |  |  | i
 Dolce & Gabbana | D&G | | | r
 Hermès | Hermes | | | r
 Burberry | | | | r
@@ -462,3 +775,55 @@ Rolex | | | | i
 Victoria's Secret | | | | r
 Hope | | | | e
 Insider | | | | l
+Forever 21 | i
+Uniqlo | i
+Mango | i
+Bershka | r
+Primark | r
+Abercrombie & Fitch | Abercrombie | r
+Hollister | r
+Dudalina | r
+Cavalera | r
+Lança Perfume | e
+Diadora | r
+Lotto | r
+Hummel | r
+The North Face | North Face | i
+Columbia | r
+Volcom | e
+Moleca | r
+Azaleia | r
+Santa Lolla | e
+Carmen Steffens | e
+Michael Kors | i
+Longchamp | e
+Cartier | i
+Bvlgari | Bulgari | i
+Montblanc | Mont Blanc | r
+Bottega Veneta | r
+Off-White | r
+Miu Miu | r
+Salvatore Ferragamo | Ferragamo | e
+Jimmy Choo | r
+Christian Louboutin | Louboutin | r
+Hugo Boss | Boss | r
+Moschino | e
+Kenzo | e
+Balmain | e
+Zegna | Ermenegildo Zegna | e
+Cavalli | Roberto Cavalli | e
+Valisère | e
+Triumph | e
+Gap | i
+Pull&Bear | Pull and Bear | r
+American Eagle | e
+Lululemon | r
+Patagonia | r
+Coach | r
+Kate Spade | e
+Tory Burch | e
+Saint Laurent | Yves Saint Laurent;YSL | r
+Celine | r
+Moncler | r
+Lanvin | e
+Rainha | r

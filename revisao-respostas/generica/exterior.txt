@@ -1,0 +1,40 @@
+== mint-kpop
+~ NewJeans | New Jeans | https://pt.wikipedia.org/wiki/NewJeans
+~ Stray Kids | SKZ | https://pt.wikipedia.org/wiki/Stray_Kids
+~ Seventeen | SVT;Seventeen | https://pt.wikipedia.org/wiki/Seventeen_(banda)
+~ Girls' Generation | Girls Generation;Shoujo Jidai | https://pt.wikipedia.org/wiki/Girls'_Generation
+~ BoyNextDoor | Boy Next Door | https://pt.wikipedia.org/wiki/BoyNextDoor
+~ Zerobaseone | Zero Base One | https://pt.wikipedia.org/wiki/Zerobaseone
+~ Babymonster | Baby Monster | https://pt.wikipedia.org/wiki/Babymonster
+~ GFriend | G-Friend;G Friend | https://pt.wikipedia.org/wiki/GFriend
+~ Big Bang | BigBang | https://pt.wikipedia.org/wiki/Big_Bang_(banda)
+
+== esp-times-nba
+~ Los Angeles Lakers | LA Lakers | https://pt.wikipedia.org/wiki/Los_Angeles_Lakers
+~ New York Knicks | NY Knicks | https://pt.wikipedia.org/wiki/New_York_Knicks
+~ Philadelphia 76ers | Philadelphia Sixers | https://pt.wikipedia.org/wiki/Philadelphia_76ers
+~ Oklahoma City Thunder | Seattle SuperSonics;SuperSonics;Sonics | https://pt.wikipedia.org/wiki/Oklahoma_City_Thunder
+~ Portland Trail Blazers | Portland Blazers | https://pt.wikipedia.org/wiki/Portland_Trail_Blazers
+
+== esp-times-nfl
+~ Jacksonville Jaguars | Jags | https://pt.wikipedia.org/wiki/Jacksonville_Jaguars
+~ Los Angeles Rams | LA Rams | https://pt.wikipedia.org/wiki/Los_Angeles_Rams
+~ Los Angeles Chargers | LA Chargers | https://pt.wikipedia.org/wiki/Los_Angeles_Chargers
+~ New York Giants | NY Giants | https://pt.wikipedia.org/wiki/New_York_Giants
+~ New York Jets | NY Jets | https://pt.wikipedia.org/wiki/New_York_Jets
+
+== his-presidentes-eua
+~ John F. Kennedy | John Kennedy;John Fitzgerald Kennedy | https://pt.wikipedia.org/wiki/John_F._Kennedy
+~ Franklin D. Roosevelt | Franklin Delano Roosevelt | https://pt.wikipedia.org/wiki/Franklin_D._Roosevelt
+~ Bill Clinton | William Clinton;William Jefferson Clinton | https://pt.wikipedia.org/wiki/Bill_Clinton
+~ George W. Bush | George Bush Jr;Bush Jr;George Bush Filho | https://pt.wikipedia.org/wiki/George_W._Bush
+~ George H. W. Bush | George Bush Sr;Bush Sr;George Bush Pai | https://pt.wikipedia.org/wiki/George_H._W._Bush
+~ Harry Truman | Harry S. Truman | https://pt.wikipedia.org/wiki/Harry_S._Truman
+~ Dwight Eisenhower | Dwight D. Eisenhower | https://pt.wikipedia.org/wiki/Dwight_D._Eisenhower
+~ Gerald Ford | Gerald R. Ford | https://pt.wikipedia.org/wiki/Gerald_Ford
+~ Rutherford Hayes | Rutherford B. Hayes | https://pt.wikipedia.org/wiki/Rutherford_B._Hayes
+~ Warren Harding | Warren G. Harding | https://pt.wikipedia.org/wiki/Warren_G._Harding
+~ Chester Arthur | Chester A. Arthur | https://pt.wikipedia.org/wiki/Chester_A._Arthur
+~ James Polk | James K. Polk | https://pt.wikipedia.org/wiki/James_K._Polk
+~ William Howard Taft | William Taft | https://pt.wikipedia.org/wiki/William_Howard_Taft
+~ Donald Trump | Donald J. Trump | https://pt.wikipedia.org/wiki/Donald_Trump

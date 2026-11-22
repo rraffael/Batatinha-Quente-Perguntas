@@ -1086,7 +1086,7 @@
         "consoles"
       ],
       "fonte": "https://pt.wikipedia.org/wiki/Lista_de_consoles_de_videogame",
-      "nota": "Diga o modelo/geração (ex.: PlayStation 2). \"PlayStation\" sozinho é ambíguo.",
+      "nota": "Diga o modelo ou a geração; só o nome da linha de consoles não basta.",
       "respostas": [
         {
           "id": "ps1",
@@ -1122,7 +1122,9 @@
           "id": "playstation-4",
           "canonica": "PlayStation 4",
           "aceitas": [
-            "PS4"
+            "PS4",
+            "PlayStation 4 Pro",
+            "PS4 Pro"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -1131,7 +1133,9 @@
           "id": "playstation-5",
           "canonica": "PlayStation 5",
           "aceitas": [
-            "PS5"
+            "PS5",
+            "PlayStation 5 Pro",
+            "PS5 Pro"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -1155,25 +1159,31 @@
         {
           "id": "xbox-one",
           "canonica": "Xbox One",
-          "aceitas": [],
+          "aceitas": [
+            "Xbox One S",
+            "Xbox One X"
+          ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "xbox-series-x",
           "canonica": "Xbox Series X",
           "aceitas": [
             "Xbox Series S",
-            "Xbox Series"
+            "Xbox Series",
+            "Xbox Series X/S"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "nintendo-switch",
           "canonica": "Nintendo Switch",
           "aceitas": [
-            "Switch"
+            "Switch",
+            "Nintendo Switch OLED",
+            "Switch OLED"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -1183,14 +1193,15 @@
           "canonica": "Switch 2",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "super-nintendo",
           "canonica": "Super Nintendo",
           "aceitas": [
             "SNES",
-            "Super NES"
+            "Super NES",
+            "Super Famicom"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -1219,7 +1230,9 @@
           "id": "mega-drive",
           "canonica": "Mega Drive",
           "aceitas": [
-            "Sega Genesis"
+            "Sega Genesis",
+            "Sega Mega Drive",
+            "Genesis"
           ],
           "traducoes": {
             "en": [
@@ -1249,7 +1262,9 @@
         {
           "id": "game-boy",
           "canonica": "Game Boy",
-          "aceitas": [],
+          "aceitas": [
+            "Nintendo Game Boy"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
@@ -1311,7 +1326,9 @@
           "id": "nintendo-3ds",
           "canonica": "Nintendo 3DS",
           "aceitas": [
-            "3DS"
+            "3DS",
+            "Nintendo 2DS",
+            "2DS"
           ],
           "traducoes": {},
           "raridadeInicial": "incomum"
@@ -1360,28 +1377,28 @@
             "Sega Game Gear"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "steam-deck",
           "canonica": "Steam Deck",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "neo-geo",
           "canonica": "Neo Geo",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "virtual-boy",
           "canonica": "Virtual Boy",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "odyssey",
@@ -1431,49 +1448,49 @@
           "canonica": "3DO",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "colecovision",
           "canonica": "ColecoVision",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "intellivision",
           "canonica": "Intellivision",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "phantom-system",
           "canonica": "Phantom System",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "ouya",
           "canonica": "Ouya",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "n-gage",
           "canonica": "N-Gage",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "wonderswan",
           "canonica": "WonderSwan",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "philips-cd-i",
@@ -1482,7 +1499,7 @@
             "CD-i"
           ],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "sega-cd",
@@ -1491,14 +1508,14 @@
             "Mega-CD"
           ],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "new-nintendo-3ds",
           "canonica": "New Nintendo 3DS",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "switch-lite",
@@ -1507,13 +1524,113 @@
             "Nintendo Switch Lite"
           ],
           "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "game-watch",
+          "canonica": "Game & Watch",
+          "aceitas": [
+            "Game e Watch"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "atari-5200",
+          "canonica": "Atari 5200",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "sega-32x",
+          "canonica": "Sega 32X",
+          "aceitas": [
+            "32X"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "vectrex",
+          "canonica": "Vectrex",
+          "aceitas": [],
+          "traducoes": {},
           "raridadeInicial": "raro"
+        },
+        {
+          "id": "fairchild-channel-f",
+          "canonica": "Fairchild Channel F",
+          "aceitas": [
+            "Channel F"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "amiga-cd32",
+          "canonica": "Amiga CD32",
+          "aceitas": [
+            "CD32"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "neo-geo-pocket",
+          "canonica": "Neo Geo Pocket",
+          "aceitas": [
+            "Neo Geo Pocket Color"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "sega-sg-1000",
+          "canonica": "Sega SG-1000",
+          "aceitas": [
+            "SG-1000"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "pc-fx",
+          "canonica": "PC-FX",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "apple-pippin",
+          "canonica": "Apple Pippin",
+          "aceitas": [
+            "Pippin"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "telejogo",
+          "canonica": "Telejogo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "famicom-disk-system",
+          "canonica": "Famicom Disk System",
+          "aceitas": [
+            "Disk System"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
         }
       ]
     },
     {
       "id": "gam-personagens-mario",
-      "texto": "Cite um personagem do universo Super Mario",
+      "texto": "Cite um personagem dos jogos do encanador bigodudo da Nintendo",
       "dificuldade": "facil",
       "tags": [
         "nintendo",
@@ -1553,7 +1670,10 @@
         {
           "id": "bowser",
           "canonica": "Bowser",
-          "aceitas": [],
+          "aceitas": [
+            "Rei Koopa",
+            "King Koopa"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
@@ -1666,14 +1786,14 @@
             "Rei Boo"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "shy-guy",
           "canonica": "Shy Guy",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "lakitu",
@@ -1776,7 +1896,7 @@
           "canonica": "Blooper",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "hammer-bro",
@@ -1785,7 +1905,7 @@
             "Irmão Martelo"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "dry-bones",
@@ -1872,7 +1992,7 @@
             "Ludwig"
           ],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "funky-kong",
@@ -1900,7 +2020,7 @@
           "canonica": "Nabbit",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "pom-pom",
@@ -1977,6 +2097,188 @@
           "aceitas": [],
           "traducoes": {},
           "raridadeInicial": "raro"
+        },
+        {
+          "id": "spiny",
+          "canonica": "Spiny",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "koopa-paratroopa",
+          "canonica": "Koopa Paratroopa",
+          "aceitas": [
+            "Paratroopa"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "luma",
+          "canonica": "Luma",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "donkey-kong-jr",
+          "canonica": "Donkey Kong Jr.",
+          "aceitas": [
+            "Donkey Kong Junior"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "king-k-rool",
+          "canonica": "King K. Rool",
+          "aceitas": [
+            "K. Rool"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "tiny-kong",
+          "canonica": "Tiny Kong",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "candy-kong",
+          "canonica": "Candy Kong",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "buzzy-beetle",
+          "canonica": "Buzzy Beetle",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "pokey",
+          "canonica": "Pokey",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "poochy",
+          "canonica": "Poochy",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "baby-peach",
+          "canonica": "Baby Peach",
+          "aceitas": [
+            "Bebê Peach"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "chunky-kong",
+          "canonica": "Chunky Kong",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "lanky-kong",
+          "canonica": "Lanky Kong",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "mallow",
+          "canonica": "Mallow",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "geno",
+          "canonica": "Geno",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "fawful",
+          "canonica": "Fawful",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "kammy-koopa",
+          "canonica": "Kammy Koopa",
+          "aceitas": [
+            "Kammy"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "wart",
+          "canonica": "Wart",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "whomp",
+          "canonica": "Whomp",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "banzai-bill",
+          "canonica": "Banzai Bill",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "podoboo",
+          "canonica": "Podoboo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "fuzzy",
+          "canonica": "Fuzzy",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "baby-daisy",
+          "canonica": "Baby Daisy",
+          "aceitas": [
+            "Bebê Daisy"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "baby-rosalina",
+          "canonica": "Baby Rosalina",
+          "aceitas": [
+            "Bebê Rosalina"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
         }
       ]
     },
@@ -2089,7 +2391,9 @@
         {
           "id": "cammy",
           "canonica": "Cammy",
-          "aceitas": [],
+          "aceitas": [
+            "Cammy White"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
@@ -2128,7 +2432,9 @@
         {
           "id": "sakura",
           "canonica": "Sakura",
-          "aceitas": [],
+          "aceitas": [
+            "Sakura Kasugano"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
@@ -2146,28 +2452,30 @@
           "canonica": "Rose",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "guy",
           "canonica": "Guy",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "cody",
           "canonica": "Cody",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "juri",
           "canonica": "Juri",
-          "aceitas": [],
+          "aceitas": [
+            "Juri Han"
+          ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "laura",
@@ -2176,7 +2484,7 @@
             "Laura Matsuda"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "sean",
@@ -2202,7 +2510,7 @@
             "Charlie"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "rainbow-mika",
@@ -2318,28 +2626,28 @@
             "Crimson Viper"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "rufus",
           "canonica": "Rufus",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "el-fuerte",
           "canonica": "El Fuerte",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "seth",
           "canonica": "Seth",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "hakan",
@@ -2353,14 +2661,14 @@
           "canonica": "Rashid",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "luke",
           "canonica": "Luke",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "jamie",
@@ -2381,91 +2689,295 @@
           "canonica": "Lily",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "manon",
           "canonica": "Manon",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "marisa",
           "canonica": "Marisa",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "jp",
           "canonica": "JP",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "rolento",
           "canonica": "Rolento",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "sodom",
           "canonica": "Sodom",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "birdie",
           "canonica": "Birdie",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "adon",
           "canonica": "Adon",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "ed",
           "canonica": "Ed",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "menat",
           "canonica": "Menat",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "kolin",
           "canonica": "Kolin",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "necalli",
           "canonica": "Necalli",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "zeku",
           "canonica": "Zeku",
           "aceitas": [],
           "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "gouken",
+          "canonica": "Gouken",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "evil-ryu",
+          "canonica": "Evil Ryu",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "violent-ken",
+          "canonica": "Violent Ken",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "remy",
+          "canonica": "Remy",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "q",
+          "canonica": "Q",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "twelve",
+          "canonica": "Twelve",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "retsu",
+          "canonica": "Retsu",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "joe",
+          "canonica": "Joe",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "mike",
+          "canonica": "Mike",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "lee",
+          "canonica": "Lee",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "geki",
+          "canonica": "Geki",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "eagle",
+          "canonica": "Eagle",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "maki",
+          "canonica": "Maki",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "juli",
+          "canonica": "Juli",
+          "aceitas": [],
+          "traducoes": {},
           "raridadeInicial": "lendario"
+        },
+        {
+          "id": "juni",
+          "canonica": "Juni",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "decapre",
+          "canonica": "Decapre",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "falke",
+          "canonica": "Falke",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "kage",
+          "canonica": "Kage",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "poison",
+          "canonica": "Poison",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "oni",
+          "canonica": "Oni",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "shin-akuma",
+          "canonica": "Shin Akuma",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "abigail",
+          "canonica": "Abigail",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "f-a-n-g",
+          "canonica": "F.A.N.G",
+          "aceitas": [
+            "FANG"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "g",
+          "canonica": "G",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "a-k-i",
+          "canonica": "A.K.I.",
+          "aceitas": [
+            "AKI"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "ingrid",
+          "canonica": "Ingrid",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "terry-bogard",
+          "canonica": "Terry Bogard",
+          "aceitas": [
+            "Terry"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "mai-shiranui",
+          "canonica": "Mai Shiranui",
+          "aceitas": [
+            "Mai"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
         }
       ]
     },
@@ -2723,14 +3235,14 @@
           "canonica": "Twister",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "jenga",
           "canonica": "Jenga",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "pula-pirata",
@@ -2741,7 +3253,7 @@
               "Pop-up Pirate"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "lig-4",
@@ -2755,7 +3267,7 @@
               "Conecta 4"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "resta-um",
@@ -2780,7 +3292,7 @@
               "Solitario"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "tranca",
@@ -2957,7 +3469,7 @@
           "canonica": "Rummikub",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "codenames",
@@ -2995,7 +3507,7 @@
             "D&D"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "magic-the-gathering",
@@ -3004,14 +3516,14 @@
             "Magic"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "yu-gi-oh",
           "canonica": "Yu-Gi-Oh!",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "pokemon-estampas-ilustradas",
@@ -3024,7 +3536,7 @@
               "Pokémon Trading Card Game"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "blackjack",
@@ -3034,7 +3546,7 @@
             "21"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "pife",
@@ -3043,14 +3555,14 @@
             "Pif-paf"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "burro",
           "canonica": "Burro",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "copas",
@@ -3064,35 +3576,35 @@
               "Corazones"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "bridge",
           "canonica": "Bridge",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "cacheta",
           "canonica": "Cacheta",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "rouba-monte",
           "canonica": "Rouba-monte",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "escopa",
           "canonica": "Escopa",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "sobe-e-desce",
@@ -3115,32 +3627,185 @@
           "canonica": "Scotland Yard",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "exploding-kittens",
           "canonica": "Exploding Kittens",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "coup",
           "canonica": "Coup",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "sushi-go",
           "canonica": "Sushi Go",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "terra-mystica",
           "canonica": "Terra Mystica",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "bisca",
+          "canonica": "Bisca",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "biriba",
+          "canonica": "Biriba",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "jogo-da-memoria",
+          "canonica": "Jogo da Memória",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Memory"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "trivial-pursuit",
+          "canonica": "Trivial Pursuit",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cranium",
+          "canonica": "Cranium",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "dobble",
+          "canonica": "Dobble",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "mancala",
+          "canonica": "Mancala",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "baccarat",
+          "canonica": "Baccarat",
+          "aceitas": [
+            "Bacará"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "sete-e-meio",
+          "canonica": "Sete e Meio",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "wingspan",
+          "canonica": "Wingspan",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "gloomhaven",
+          "canonica": "Gloomhaven",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "terraforming-mars",
+          "canonica": "Terraforming Mars",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "kingdomino",
+          "canonica": "Kingdomino",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "dominion",
+          "canonica": "Dominion",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "takenoko",
+          "canonica": "Takenoko",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "king-of-tokyo",
+          "canonica": "King of Tokyo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "munchkin",
+          "canonica": "Munchkin",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "hanabi",
+          "canonica": "Hanabi",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "talisman",
+          "canonica": "Talisman",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "diplomacy",
+          "canonica": "Diplomacy",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "love-letter",
+          "canonica": "Love Letter",
           "aceitas": [],
           "traducoes": {},
           "raridadeInicial": "lendario"
@@ -3337,7 +4002,9 @@
         {
           "id": "golem-de-neve",
           "canonica": "Golem de Neve",
-          "aceitas": [],
+          "aceitas": [
+            "Boneco de Neve"
+          ],
           "traducoes": {
             "en": [
               "Snow Golem"
@@ -3418,14 +4085,14 @@
           "canonica": "Piglin",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "phantom",
           "canonica": "Phantom",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "abelha",
@@ -3754,7 +4421,7 @@
               "Vindicator"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "saqueador",
@@ -3776,7 +4443,7 @@
               "Ravager"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "piglin-bruto",
@@ -3833,7 +4500,7 @@
               "Wither Skeleton"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "morcego",
@@ -3847,7 +4514,7 @@
               "Murciélago"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "papagaio",
@@ -3912,7 +4579,7 @@
           "canonica": "Breeze",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "creaking",
@@ -3928,7 +4595,7 @@
             "Zumbi do deserto"
           ],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "stray",
@@ -3969,6 +4636,77 @@
             ]
           },
           "raridadeInicial": "raro"
+        },
+        {
+          "id": "aranha-das-cavernas",
+          "canonica": "Aranha das Cavernas",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cave Spider"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cavalo-esqueleto",
+          "canonica": "Cavalo-esqueleto",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Skeleton Horse"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "cavalo-zumbi",
+          "canonica": "Cavalo-zumbi",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Zombie Horse"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ilusionista",
+          "canonica": "Ilusionista",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Illusioner"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "pantanoso",
+          "canonica": "Pantanoso",
+          "aceitas": [
+            "Enlameado",
+            "Atolado"
+          ],
+          "traducoes": {
+            "en": [
+              "Bogged"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "lhama-do-vendedor",
+          "canonica": "Lhama do vendedor",
+          "aceitas": [
+            "Lhama do mercador"
+          ],
+          "traducoes": {
+            "en": [
+              "Trader Llama"
+            ]
+          },
+          "raridadeInicial": "lendario"
         }
       ]
     }

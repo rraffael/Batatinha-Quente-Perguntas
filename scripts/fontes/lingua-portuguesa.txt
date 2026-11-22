@@ -5,7 +5,7 @@ nome: Língua Portuguesa e Literatura
 Metáfora | | Metaphor | | c
 Comparação | Símile | Simile | Símil | c
 Hipérbole | | Hyperbole | | c
-Ironia | | Irony | Ironía | c
+Ironia | Sarcasmo | Irony | Ironía | c
 Eufemismo | | Euphemism | | c
 Onomatopeia | | Onomatopoeia | Onomatopeya | c
 Personificação | Prosopopeia | Personification | Personificación | c
@@ -38,13 +38,21 @@ Quiasmo | | Chiasmus | Quiasmo | e
 Epístrofe | | Epistrophe | Epífora | e
 Sínquise | | Synchysis | | l
 Disfemismo | | Dysphemism | | e
-Epizeuxe | | Epizeuxis | Epanadiplosis | l
+Epizeuxe | Reduplicação | Epizeuxis | Epanadiplosis | l
 Hipálage | | Hypallage | | l
 Diácope | | Diacope | | l
 Paralelismo | | Parallelism | | e
 Interrogação retórica | Pergunta retórica | Rhetorical question | Pregunta retórica | e
 Anadiplose | | Anadiplosis | | l
 Reticência | | Aposiopesis | | l
+Alusão |  | Allusion | Alusión | r
+Hendíade |  | Hendiadys | Hendíadis | e
+Antífrase |  | Antiphrasis | Antífrasis | e
+Metalepse |  | Metalepsis | l
+Epanalepse |  | Epanalepsis | l
+Prolepse |  | Prolepsis | l
+Animalização | Zoomorfização | e
+Reificação | Coisificação | e
 
 == lpt-escritores-brasileiros | Cite um(a) escritor(a) brasileiro(a) | facil | literatura;escritores;brasil | https://pt.wikipedia.org/wiki/Literatura_do_Brasil
 Machado de Assis | Machado | | | c
@@ -127,6 +135,81 @@ Ignácio de Loyola Brandão | | | | l
 Marina Colasanti | | | | e
 Ailton Krenak | | | | e
 Djamila Ribeiro | | | | e
+Maurício de Sousa | c
+Augusto Cury | i
+Jô Soares | i
+Millôr Fernandes | Millôr | i
+Lygia Bojunga | Lygia Bojunga Nunes | i
+Eva Furnari | i
+Caio Fernando Abreu | i
+Marcelo Rubens Paiva | i
+Martha Medeiros | i
+Lya Luft | r
+Mário Prata | r
+Malba Tahan | Júlio César de Mello e Souza | r
+Rubem Alves | r
+Gilberto Freyre | r
+Darcy Ribeiro | r
+Luiz Gama | r
+Maria Firmina dos Reis | r
+Nélida Piñon | r
+Antonio Callado | e
+Pedro Nava | e
+Lúcio Cardoso | e
+Plínio Marcos | r
+Haroldo de Campos | e
+Augusto de Campos | e
+Alphonsus de Guimaraens | e
+Joaquim Nabuco | e
+Coelho Neto | e
+Daniel Galera | e
+Cristóvão Tezza | e
+Luiz Ruffato | e
+Patrícia Melo | e
+Bernardo Carvalho | e
+Guilherme de Almeida | l
+Menotti Del Picchia | l
+Cassiano Ricardo | l
+Raul Bopp | l
+Murilo Rubião | l
+Osman Lins | l
+Cornélio Penna | l
+Franklin Távora | l
+Inglês de Sousa | l
+Afonso Arinos | l
+Graça Aranha | l
+Adolfo Caminha | l
+Júlio Ribeiro | l
+Sousândrade | l
+Vicente de Carvalho | l
+Alberto de Oliveira | l
+Emílio de Menezes | l
+Mário Faustino | l
+Décio Pignatari | l
+Carlos Nejar | l
+Torquato Neto | l
+Ana Cristina Cesar | l
+Solano Trindade | l
+Auta de Souza | l
+Nísia Floresta | l
+Júlia Lopes de Almeida | l
+Campos de Carvalho | l
+Rodolfo Teófilo | l
+Domingos Olímpio | l
+Cyro dos Anjos | l
+Otto Lara Resende | l
+Paulo Mendes Campos | l
+Carlos Heitor Cony | l
+Marçal Aquino | l
+Lourenço Mutarelli | l
+Jeferson Tenório | l
+Ana Paula Maia | l
+Narcisa Amália | l
+Francisca Júlia | l
+Ledo Ivo | l
+Affonso Romano de Sant'Anna | l
+Sérgio Porto | Stanislaw Ponte Preta | e
+Patrícia Galvão | Pagu | e
 
 == lpt-obras-brasileiras | Cite uma obra da literatura brasileira | media | literatura;livros;brasil | https://pt.wikipedia.org/wiki/Literatura_do_Brasil
 Dom Casmurro | | | | c
@@ -212,6 +295,73 @@ Urupês | | | | e
 Feliz Ano Velho | | | | e
 O Analista de Bagé | | | | e
 Comédias da Vida Privada | | | | e
+Sítio do Picapau Amarelo | O Sítio do Picapau Amarelo | c
+Perto do Coração Selvagem | i
+A Maçã no Escuro | r
+O Homem que Calculava | i
+O Coronel e o Lobisomem | r
+Viva o Povo Brasileiro | r
+Dois Irmãos | r
+Primeiras Estórias | r
+Corpo de Baile | r
+Memórias do Cárcere | r
+Angústia | r
+Úrsula | r
+Bom-Crioulo | r
+Til | e
+O Sertanejo | e
+A Viuvinha | e
+Cinco Minutos | e
+O Cabeleira | e
+A Normalista | e
+Canaã | e
+Pauliceia Desvairada | r
+Amar, Verbo Intransitivo | r
+Memórias Sentimentais de João Miramar | e
+Serafim Ponte Grande | e
+O Rei da Vela | e
+Manifesto Antropófago | e
+Claro Enigma | e
+Romanceiro da Inconfidência | e
+A Educação pela Pedra | e
+Espumas Flutuantes | e
+Os Timbiras | l
+O Beijo no Asfalto | r
+Toda Nudez Será Castigada | r
+A Vida Como Ela É | r
+Navalha na Carne | r
+Gota d'Água | r
+Ópera do Malandro | r
+Uma Mulher Vestida de Sol | l
+O Santo e a Porca | e
+Tereza Batista Cansada de Guerra | r
+Cacau | e
+O Gato Malhado e a Andorinha Sinhá | e
+Emília no País da Gramática | e
+Caçadas de Pedrinho | r
+Memórias da Emília | e
+A Menina do Narizinho Arrebitado | r
+Flicts | r
+Uma Professora Muito Maluquinha | r
+Bisa Bia, Bisa Bel | e
+Viagem ao Céu | e
+A Cartomante | i
+Missa do Galo | i
+Pai Contra Mãe | e
+Iaiá Garcia | e
+Papéis Avulsos | e
+Relíquias de Casa Velha | l
+A Grande Arte | e
+Zero | e
+Sargento Getúlio | e
+Clarissa | e
+Música ao Longe | l
+Pedra Bonita | l
+Doidinho | l
+Banguê | l
+A Cidade Sitiada | l
+Uma Aprendizagem ou O Livro dos Prazeres | l
+A Legião Estrangeira | l
 
 == lpt-coletivos | Cite um substantivo coletivo | media | gramática;substantivos | https://pt.wikipedia.org/wiki/Substantivo_coletivo
 Cardume | | | | c
@@ -311,6 +461,65 @@ Romanceiro | | | | l
 Turma | | | | i
 Time | Equipe | | | i
 Família | | | | i
+Legião | i
+Armada | i
+Falange | r
+Década | i
+Século | i
+Milênio | i
+Povo | i
+População | i
+Classe | i
+Serra | i
+Alfabeto | i
+Panapaná | e
+Comitiva | i
+Galera | i
+Companhia | i
+Horda | r
+Cavalaria | r
+Colônia | r
+Pinhal | r
+Fardo | r
+Banca | r
+Bancada | r
+Comunidade | r
+Fornada | r
+Repertório | r
+Seleta | r
+Chusma | e
+Choldra | e
+Conclave | e
+Concílio | e
+Congregação | e
+Cavalgada | e
+Renque | e
+Magote | e
+Saraivada | e
+Novena | e
+Praga | e
+Cabido | l
+Farândola | l
+Grosa | l
+Gataria | l
+Burricada | l
+Baleal | l
+Olival | l
+Carvalhal | l
+Herbário | l
+Consistório | l
+Camerata | l
+Tertúlia | l
+Abecedário | l
+Alameda | l
+Lustro | l
+Biênio | l
+Triênio | l
+Quinquênio | l
+Semestre | e
+Trimestre | e
+Bimestre | e
+Quinzena | e
 
 == lpt-gentilicos-estados | Cite o gentílico de um estado brasileiro (ou do Distrito Federal) | media | gentílicos;estados | https://pt.wikipedia.org/wiki/Lista_de_gent%C3%ADlicos_do_Brasil
 Paulista | | | | c
@@ -371,7 +580,7 @@ Macapaense | | | | e
 Palmense | | | | e
 
 == lpt-escritores-lusofonos | Cite um(a) escritor(a) de língua portuguesa nascido(a) fora do Brasil | dificil | literatura;portugal;áfrica | https://pt.wikipedia.org/wiki/Literatura_portuguesa
-Luís de Camões | Camões | | | c
+Luís de Camões | Camões;Luís Vaz de Camões |  |  | c
 Fernando Pessoa | Pessoa | | | c
 José Saramago | Saramago | | | c
 Eça de Queirós | Eça de Queiroz;Eça | | | c
@@ -413,3 +622,52 @@ Fernão Mendes Pinto | | | | l
 Germano Almeida | | | | l
 Baltasar Lopes | | | | l
 Afonso Cruz | | | | l
+Almada Negreiros | r
+António Nobre | r
+Miguel Esteves Cardoso | r
+Bernardim Ribeiro | r
+José Craveirinha | r
+Mário Cesariny | e
+Raul Brandão | e
+Aquilino Ribeiro | e
+Fernando Namora | e
+José Cardoso Pires | e
+Miguel Sousa Tavares | e
+Dulce Maria Cardoso | e
+Ramalho Ortigão | e
+Guerra Junqueiro | e
+Sá de Miranda | e
+Gomes Leal | l
+Natália Correia | e
+Vitorino Nemésio | e
+Jorge de Sena | e
+José Gomes Ferreira | l
+Alves Redol | l
+Soeiro Pereira Gomes | l
+Manuel da Fonseca | l
+Almeida Faria | l
+Mário de Carvalho | l
+Camilo Pessanha | e
+Damião de Góis | l
+Garcia de Resende | l
+Francisco Manuel de Melo | l
+Fialho de Almeida | l
+Luís Bernardo Honwana | e
+Noémia de Sousa | e
+Eduardo White | l
+Ungulani Ba Ka Khosa | l
+Manuel Rui | e
+Ruy Duarte de Carvalho | l
+Ana Paula Tavares | e
+Boaventura Cardoso | l
+Uanhenga Xitu | l
+Mário Pinto de Andrade | l
+Viriato da Cruz | l
+Alda Lara | l
+Manuel Lopes | l
+Jorge Barbosa | l
+Orlanda Amarílis | l
+Francisco José Tenreiro | l
+Conceição Lima | l
+Alda Espírito Santo | l
+Orlando da Costa | l

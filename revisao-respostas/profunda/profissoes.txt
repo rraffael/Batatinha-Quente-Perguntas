@@ -1,0 +1,113 @@
+== pro-profissoes
++ Luthier | | Luthier | Luthier | r | https://pt.wikipedia.org/wiki/Luthier
++ Amolador | Afiador | Knife grinder | Afilador | r | https://www.dicio.com.br/amolador/
++ Legista | Médico legista | Medical examiner | Médico forense | r | https://www.dicio.com.br/legista/
++ Síndico | Síndica | Building manager | Administrador de fincas | r | https://www.dicio.com.br/sindico/
++ Mediador | Mediadora | Mediator | Mediador | r | https://www.dicio.com.br/mediador/
++ Representante comercial | | Sales representative | Representante comercial | r | https://www.dicio.com.br/representante/
++ Promotor de vendas | Promotora de vendas | Sales promoter | | r | https://www.dicio.com.br/promotor/
++ Corretor de seguros | | Insurance broker | Corredor de seguros | r | https://www.dicio.com.br/corretor/
++ Dramaturgo | Dramaturga | Playwright | Dramaturgo | r | https://www.dicio.com.br/dramaturgo/
++ Massoterapeuta | | Massage therapist | Masoterapeuta | r | https://www.dicio.com.br/massoterapeuta/
++ Óptico | Ótico | Optician | Óptico | r | https://www.dicio.com.br/optico/
++ Protético | Protético dentário | Dental technician | Protésico dental | r | https://www.dicio.com.br/protetico/
++ Sacristão | | Sacristan | Sacristán | r | https://www.dicio.com.br/sacristao/
++ Lapidador | Lapidário | Lapidary;Gem cutter | Lapidario | r | https://www.dicio.com.br/lapidador/
++ Restaurador | Restauradora | Restorer | Restaurador | r | https://www.dicio.com.br/restaurador/
++ Curador | Curadora | Curator | Curador | r | https://www.dicio.com.br/curador/
++ Cerimonialista | | Event planner | Maestro de ceremonias | r | https://www.dicio.com.br/cerimonialista/
++ Tratador | Tratadora | Animal keeper | Cuidador de animales | r | https://www.dicio.com.br/tratador/
++ Tosador | Tosadora | Groomer | | r | https://www.dicio.com.br/tosador/
++ Adestrador | Adestradora | Animal trainer | Adiestrador | r | https://www.dicio.com.br/adestrador/
++ Degustador | | Taster | Catador | r | https://www.dicio.com.br/degustador/
++ Timoneiro | | Helmsman | Timonel | r | https://www.dicio.com.br/timoneiro/
++ Bioquímico | Bioquímica | Biochemist | Bioquímico | r | https://www.dicio.com.br/bioquimico/
++ Encadernador | | Bookbinder | Encuadernador | e | https://www.dicio.com.br/encadernador/
++ Tipógrafo | | Typographer;Typesetter | Tipógrafo | e | https://www.dicio.com.br/tipografo/
++ Gravador | Gravadora | Engraver | Grabador | e | https://www.dicio.com.br/gravador/
++ Calígrafo | Calígrafa | Calligrapher | Calígrafo | e | https://www.dicio.com.br/caligrafo/
++ Embalsamador | | Embalmer | Embalsamador | e | https://www.dicio.com.br/embalsamador/
++ Gemólogo | Gemóloga | Gemologist | Gemólogo | e | https://www.dicio.com.br/gemologo/
++ Museólogo | Museóloga | Museologist | Museólogo | e | https://www.dicio.com.br/museologo/
++ Agrimensor | | Land surveyor | Agrimensor | e | https://www.dicio.com.br/agrimensor/
++ Ventríloquo | Ventríloqua | Ventriloquist | Ventrílocuo | e | https://www.dicio.com.br/ventriloquo/
++ Sonoplasta | | Sound designer | Sonidista | e | https://www.dicio.com.br/sonoplasta/
++ Boticário | Boticária | Apothecary | Boticario | e | https://www.dicio.com.br/boticario/
++ Carrasco | Algoz | Executioner | Verdugo | e | https://www.dicio.com.br/carrasco/
++ Escriba | | Scribe | Escriba | e | https://www.dicio.com.br/escriba/
++ Ornitólogo | Ornitóloga | Ornithologist | Ornitólogo | e | https://www.dicio.com.br/ornitologo/
++ Entomólogo | Entomóloga | Entomologist | Entomólogo | e | https://www.dicio.com.br/entomologo/
++ Ictiólogo | Ictióloga | Ichthyologist | Ictiólogo | e | https://www.dicio.com.br/ictiologo/
++ Astrofísico | Astrofísica | Astrophysicist | Astrofísico | e | https://www.dicio.com.br/astrofisico/
++ Caldeireiro | | Boilermaker | Calderero | e | https://www.dicio.com.br/caldeireiro/
++ Tosquiador | | Sheep shearer | Esquilador | e | https://www.dicio.com.br/tosquiador/
++ Ferrador | | Farrier | Herrador | e | https://www.dicio.com.br/ferrador/
++ Piscicultor | Piscicultora | Fish farmer | Piscicultor | e | https://www.dicio.com.br/piscicultor/
++ Avicultor | Avicultora | Poultry farmer | Avicultor | e | https://www.dicio.com.br/avicultor/
++ Cafeicultor | Cafeicultora | Coffee grower | Cafetero | e | https://www.dicio.com.br/cafeicultor/
++ Viticultor | Viticultora | Winegrower | Viticultor | e | https://www.dicio.com.br/viticultor/
++ Vinicultor | Vinicultora | Winemaker | Vinicultor | e | https://www.dicio.com.br/vinicultor/
++ Enólogo | Enóloga | Oenologist | Enólogo | e | https://www.dicio.com.br/enologo/
++ Instrumentador cirúrgico | | Surgical technician | Instrumentista quirúrgico | e | https://www.dicio.com.br/instrumentador/
++ Registrador | Oficial de registro | Registrar | Registrador | e | https://www.dicio.com.br/registrador/
++ Litógrafo | | Lithographer | Litógrafo | l | https://www.dicio.com.br/litografo/
++ Tanatopraxista | | Thanatopractor | | l | https://www.dicio.com.br/tanatopraxia/
++ Mosaicista | | Mosaic artist | Mosaiquista | l | https://www.dicio.com.br/mosaicista/
++ Numismata | | Numismatist | Numismático | l | https://www.dicio.com.br/numismata/
++ Contrarregra | | Stage manager | | l | https://www.dicio.com.br/contrarregra/
++ Alquimista | | Alchemist | Alquimista | l | https://www.dicio.com.br/alquimista/
++ Arauto | | Herald | Heraldo | l | https://www.dicio.com.br/arauto/
++ Herpetólogo | Herpetóloga | Herpetologist | Herpetólogo | l | https://www.dicio.com.br/herpetologo/
++ Sismólogo | Sismóloga | Seismologist | Sismólogo | l | https://www.dicio.com.br/sismologo/
++ Vulcanólogo | Vulcanóloga | Volcanologist | Vulcanólogo | l | https://www.dicio.com.br/vulcanologo/
++ Espeleólogo | Espeleóloga | Speleologist | Espeleólogo | l | https://www.dicio.com.br/espeleologo/
++ Egiptólogo | Egiptóloga | Egyptologist | Egiptólogo | l | https://www.dicio.com.br/egiptologo/
++ Cosmólogo | Cosmóloga | Cosmologist | Cosmólogo | l | https://www.dicio.com.br/cosmologo/
++ Falcoeiro | | Falconer | Cetrero | l | https://www.dicio.com.br/falcoeiro/
++ Amanuense | | Amanuensis | Amanuense | l | https://www.dicio.com.br/amanuense/
++ Perfusionista | | Perfusionist | Perfusionista | l | https://www.dicio.com.br/perfusionista/
+
+== pro-terminadas-ista
++ Optometrista | | Optometrist | Optometrista | e | https://www.dicio.com.br/optometrista/
++ Mineralogista | | Mineralogist | Mineralogista | l | https://www.dicio.com.br/mineralogista/
++ Climatologista | | Climatologist | Climatólogo | l | https://www.dicio.com.br/climatologista/
++ Pandeirista | | Tambourine player | Pandeirista | e | https://www.dicio.com.br/pandeirista/
++ Tubista | | Tuba player | Tubista | l | https://www.dicio.com.br/tubista/
++ Cravista | | Harpsichordist | Clavecinista | l | https://www.dicio.com.br/cravista/
++ Sitarista | | Sitarist | | l | https://www.dicio.com.br/sitarista/
++ Ukulelista | | Ukulele player | Ukelelista | l | https://www.dicio.com.br/ukulelista/
+
+== pro-terminadas-eiro
++ Tanoeiro | | Cooper | Tonelero | l | https://www.dicio.com.br/tanoeiro/
++ Latoeiro | | Tinsmith | Hojalatero | l | https://www.dicio.com.br/latoeiro/
++ Aguadeiro | | Water carrier | Aguador | l | https://www.dicio.com.br/aguadeiro/
++ Vassoureiro | Vassoureira | Broom maker | Escobero | e | https://www.dicio.com.br/vassoureiro/
++ Erveiro | Erveira | Herb seller | Yerbatero | e | https://www.dicio.com.br/erveiro/
++ Cabineiro | | Elevator operator | Ascensorista | l | https://www.dicio.com.br/cabineiro/
++ Gondoleiro | | Gondolier | Gondolero | l | https://www.dicio.com.br/gondoleiro/
++ Cordoeiro | Cordeleiro | Ropemaker | Cordelero | e | https://www.dicio.com.br/cordoeiro/
++ Cavalariço | | Groom | Caballerizo | e | https://www.dicio.com.br/cavalarico/
++ Ferrageiro | | Hardware dealer | Ferretero | e | https://www.dicio.com.br/ferrageiro/
+
+== pro-cursos-graduacao
++ Engenharia Sanitária e Ambiental | | Sanitary and environmental engineering | Ingeniería sanitaria y ambiental | r | https://emec.mec.gov.br/
++ Engenharia Nuclear | | Nuclear engineering | Ingeniería nuclear | e | https://emec.mec.gov.br/
++ Engenharia Oceânica | | Ocean engineering | Ingeniería oceánica | l | https://emec.mec.gov.br/
++ Engenharia Hídrica | | Water resources engineering | Ingeniería hídrica | l | https://emec.mec.gov.br/
++ Engenharia de Transportes | | Transportation engineering | Ingeniería de transporte | e | https://emec.mec.gov.br/
++ Engenharia de Controle e Automação | | Control and automation engineering | Ingeniería de control y automatización | r | https://emec.mec.gov.br/
++ Física Médica | | Medical physics | Física médica | l | https://emec.mec.gov.br/
++ Ciências Ambientais | | Environmental sciences | Ciencias ambientales | r | https://emec.mec.gov.br/
++ Segurança Pública | | Public security | Seguridad pública | r | https://emec.mec.gov.br/
++ Educação Especial | | Special education | Educación especial | r | https://emec.mec.gov.br/
+
+== pro-cargos-publicos
++ Primeiro-ministro | Primeiro Ministro | Prime minister | Primer ministro | e | https://pt.wikipedia.org/wiki/Primeiro-ministro_do_Brasil
++ Procurador da Fazenda Nacional | | | | l | https://pt.wikipedia.org/wiki/Procuradoria-Geral_da_Fazenda_Nacional
++ Defensor público federal | Defensora pública federal | Federal public defender | | r | https://pt.wikipedia.org/wiki/Defensoria_P%C3%BAblica_da_Uni%C3%A3o
++ Secretário-executivo | Secretária-executiva | | | e | https://pt.wikipedia.org/wiki/Secret%C3%A1rio-executivo
++ Presidente do STJ | Presidente do Superior Tribunal de Justiça | | | e | https://pt.wikipedia.org/wiki/Superior_Tribunal_de_Justi%C3%A7a
++ Presidente do TCU | Presidente do Tribunal de Contas da União | | | l | https://pt.wikipedia.org/wiki/Tribunal_de_Contas_da_Uni%C3%A3o
++ Analista judiciário | | Judicial analyst | | r | https://pt.wikipedia.org/wiki/Analista_judici%C3%A1rio
++ Ouvidor | Ouvidora | Ombudsman | Defensor del pueblo | e | https://pt.wikipedia.org/wiki/Ouvidor
++ Corregedor | Corregedora | | | e | https://pt.wikipedia.org/wiki/Corregedor

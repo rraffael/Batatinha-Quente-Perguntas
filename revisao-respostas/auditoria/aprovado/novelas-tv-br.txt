@@ -1,0 +1,174 @@
+== tvbr-novelas-globo    # Cite uma novela da TV Globo
++ Sassaricando |  |  |  | i | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ Vamp |  |  |  | i | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ Mandala |  |  |  | i | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ Fera Ferida |  |  |  | i | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ Meu Bem, Meu Mal |  |  |  | i | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ Pedra sobre Pedra |  |  |  | i | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ O Salvador da Pátria | Salvador da Pátria |  |  | i | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ Anjo Mau |  |  |  | i | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ Pecado Capital |  |  |  | i | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ Baila Comigo |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ Brilhante |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ Água Viva |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ Final Feliz |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ Corpo a Corpo |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ Louco Amor |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ Champagne |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ Bebê a Bordo |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ O Dono do Mundo | Dono do Mundo |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ Felicidade |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ A Viagem |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ Olho no Olho |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ Deus Nos Acuda |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ Pátria Minha |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ Meu Pedacinho de Chão |  |  |  | i | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ O Astro |  |  |  | i | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ Saramandaia |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ Sangue Bom |  |  |  | i | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ A Vida da Gente |  |  |  | i | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ Aquele Beijo |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ Flor do Caribe |  |  |  | i | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ Amor Eterno Amor |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ Morde & Assopra |  |  |  | i | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ Araguaia |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ Escrito nas Estrelas |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ Caras & Bocas |  |  |  | i | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ Negócio da China |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ Sete Vidas |  |  |  | i | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ I Love Paraisópolis |  |  |  | i | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ Sol Nascente |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ Orgulho e Paixão |  |  |  | i | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ O Tempo Não Para | Tempo Não Para |  |  | i | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ Órfãos da Terra |  |  |  | i | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ Salve-se Quem Puder |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ Nos Tempos do Imperador |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ Amor Perfeito |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ Fuzuê |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ Família É Tudo |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ Cara e Coragem |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ Em Família |  |  |  | i | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ Geração Brasil |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ Boogie Oogie |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # generica
++ Ciranda de Pedra |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # profunda
++ Estúpido Cupido |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # profunda
++ O Casarão |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # profunda
++ Os Gigantes |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # profunda
++ Locomotivas |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # profunda
++ Espelho Mágico |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # profunda
++ Plumas e Paetês |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # profunda
++ Marron Glacê |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # profunda
++ Sol de Verão |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # profunda
++ Eu Prometo |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # profunda
++ Partido Alto |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # profunda
++ Transas e Caretas |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # profunda
++ A Gata Comeu |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # profunda
++ Cambalacho |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # profunda
++ Hipertensão |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # profunda
++ O Outro |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # profunda
++ Direito de Amar |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # profunda
++ Bambolê |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # profunda
++ Mico Preto |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # profunda
++ Araponga |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # profunda
++ Lua Cheia de Amor |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # profunda
++ Sonho Meu |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # profunda
++ Despedida de Solteiro |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # profunda
++ Jogo da Vida |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # profunda
++ Sétimo Sentido |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # profunda
++ Duas Vidas |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # profunda
++ O Espigão |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # profunda
++ Fogo sobre Terra |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # profunda
++ O Grito |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # profunda
++ Escalada |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # profunda
++ Pecado Rasgado |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # profunda
++ Desejos de Mulher |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # profunda
++ Começar de Novo |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # profunda
++ A Lua Me Disse |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # profunda
++ Bang Bang |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # profunda
++ O Beijo do Vampiro |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # profunda
++ Sabor da Paixão |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # profunda
++ Coração de Estudante |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # profunda
++ Estrela-Guia |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # profunda
++ As Filhas da Mãe |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # profunda
++ Um Anjo Caiu do Céu |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # profunda
++ Esplendor |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # profunda
++ Força de um Desejo |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # profunda
++ Andando nas Nuvens |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # profunda
++ Vila Madalena |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo    # profunda
+
+== tvbr-apresentadores    # Cite um(a) apresentador(a) de televisão brasileiro(a)
++ Sílvia Poppovic |  |  |  | i | https://pt.wikipedia.org/wiki/S%C3%ADlvia_Poppovic    # generica
++ Gilberto Barros | Leão |  |  | i | https://pt.wikipedia.org/wiki/Gilberto_Barros    # generica
++ João Kléber |  |  |  | i | https://pt.wikipedia.org/wiki/Jo%C3%A3o_Kl%C3%A9ber    # generica
++ Ticiane Pinheiro |  |  |  | i | https://pt.wikipedia.org/wiki/Ticiane_Pinheiro    # generica
++ Zeca Camargo |  |  |  | i | https://pt.wikipedia.org/wiki/Zeca_Camargo    # generica
++ Maisa | Maisa Silva |  |  | i | https://pt.wikipedia.org/wiki/Maisa_Silva    # generica
++ Roberto Justus | Justus |  |  | i | https://pt.wikipedia.org/wiki/Roberto_Justus    # generica
++ Ana Paula Padrão |  |  |  | r | https://pt.wikipedia.org/wiki/Ana_Paula_Padr%C3%A3o    # generica
++ Christiane Pelajo |  |  |  | r | https://pt.wikipedia.org/wiki/Christiane_Pelajo    # generica
++ Chico Pinheiro |  |  |  | r | https://pt.wikipedia.org/wiki/Chico_Pinheiro    # generica
++ Ana Paula Araújo |  |  |  | r | https://pt.wikipedia.org/wiki/Ana_Paula_Ara%C3%BAjo    # generica
++ Carlos Nascimento |  |  |  | r | https://pt.wikipedia.org/wiki/Carlos_Nascimento    # generica
++ Cátia Fonseca |  |  |  | r | https://pt.wikipedia.org/wiki/C%C3%A1tia_Fonseca    # generica
++ Mariana Godoy |  |  |  | r | https://pt.wikipedia.org/wiki/Mariana_Godoy    # generica
++ Milton Neves |  |  |  | r | https://pt.wikipedia.org/wiki/Milton_Neves    # generica
++ Luiz Bacci |  |  |  | r | https://pt.wikipedia.org/wiki/Luiz_Bacci    # generica
++ Marcelo de Carvalho |  |  |  | r | https://pt.wikipedia.org/wiki/Marcelo_de_Carvalho    # generica
++ Evaristo Costa |  |  |  | r | https://pt.wikipedia.org/wiki/Evaristo_Costa    # generica
+~ Faustão | Fausto | https://pt.wikipedia.org/wiki/Faust%C3%A3o    # generica
+~ Silvio Santos | Senor Abravanel | https://pt.wikipedia.org/wiki/Silvio_Santos    # generica
+~ Xuxa | Rainha dos Baixinhos | https://pt.wikipedia.org/wiki/Xuxa    # generica
+~ Chacrinha | Velho Guerreiro | https://pt.wikipedia.org/wiki/Chacrinha    # generica
+
+== tvbr-programas    # Cite um programa da televisão brasileira
++ Programa Eliana | Eliana |  |  | i | https://pt.wikipedia.org/wiki/Programa_Eliana    # generica
++ Super Pop | Superpop |  |  | i | https://pt.wikipedia.org/wiki/Super_Pop    # generica
++ TV Pirata |  |  |  | i | https://pt.wikipedia.org/wiki/TV_Pirata    # generica
++ Viva o Gordo |  |  |  | i | https://pt.wikipedia.org/wiki/Viva_o_Gordo    # generica
++ Armação Ilimitada |  |  |  | i | https://pt.wikipedia.org/wiki/Arma%C3%A7%C3%A3o_Ilimitada    # generica
++ Bom Dia & Cia |  |  |  | i | https://pt.wikipedia.org/wiki/Bom_Dia_%26_Cia    # generica
++ Esquadrão da Moda |  |  |  | i | https://pt.wikipedia.org/wiki/Esquadr%C3%A3o_da_Moda    # generica
++ Hora do Faro |  |  |  | i | https://pt.wikipedia.org/wiki/Hora_do_Faro    # generica
++ The Noite | The Noite com Danilo Gentili |  |  | i | https://pt.wikipedia.org/wiki/The_Noite_com_Danilo_Gentili    # generica
++ Domingo Espetacular |  |  |  | i | https://pt.wikipedia.org/wiki/Domingo_Espetacular    # generica
++ Conexão Repórter |  |  |  | r | https://pt.wikipedia.org/wiki/Conex%C3%A3o_Rep%C3%B3rter    # generica
++ Jornal da Globo |  |  |  | r | https://pt.wikipedia.org/wiki/Jornal_da_Globo    # generica
++ Jornal da Band |  |  |  | r | https://pt.wikipedia.org/wiki/Jornal_da_Band    # generica
++ Fala Brasil |  |  |  | r | https://pt.wikipedia.org/wiki/Fala_Brasil    # generica
++ Aqui Agora |  |  |  | r | https://pt.wikipedia.org/wiki/Aqui_Agora    # generica
++ Programa Livre |  |  |  | r | https://pt.wikipedia.org/wiki/Programa_Livre    # generica
++ Qual É o Seu Talento? |  |  |  | r | https://pt.wikipedia.org/wiki/Qual_%C3%A9_o_Seu_Talento%3F    # generica
++ Programa Hebe | Hebe |  |  | i | https://pt.wikipedia.org/wiki/Programa_Hebe    # generica
++ Programa do Gugu | Gugu |  |  | i | https://pt.wikipedia.org/wiki/Programa_do_Gugu    # generica
++ Show de Calouros |  |  |  | i | https://pt.wikipedia.org/wiki/Show_de_Calouros    # generica
++ Superstar |  |  |  | r | https://pt.wikipedia.org/wiki/Superstar_(programa_de_televis%C3%A3o)    # generica
+~ Big Brother Brasil | Big Brother | https://pt.wikipedia.org/wiki/Big_Brother_Brasil    # generica
+
+== tvbr-humoristas    # Cite um(a) humorista brasileiro(a)
++ Lúcio Mauro |  |  |  | i | https://pt.wikipedia.org/wiki/L%C3%BAcio_Mauro    # generica
++ Jorge Loredo | Zé Bonitinho |  |  | r | https://pt.wikipedia.org/wiki/Jorge_Loredo    # generica
++ Zé Trindade |  |  |  | r | https://pt.wikipedia.org/wiki/Z%C3%A9_Trindade    # generica
++ Eri Johnson |  |  |  | r | https://pt.wikipedia.org/wiki/Eri_Johnson    # generica
++ Carlinhos Maia |  |  |  | i | https://pt.wikipedia.org/wiki/Carlinhos_Maia    # generica
++ Gustavo Mendes |  |  |  | r | https://pt.wikipedia.org/wiki/Gustavo_Mendes    # generica
++ Claudia Jimenez |  |  |  | r | https://pt.wikipedia.org/wiki/Cl%C3%A1udia_Jimenez    # generica
++ Fabiana Karla |  |  |  | r | https://pt.wikipedia.org/wiki/Fabiana_Karla    # generica
++ Fernando Caruso |  |  |  | r | https://pt.wikipedia.org/wiki/Fernando_Caruso    # generica
++ Rafael Cortez |  |  |  | r | https://pt.wikipedia.org/wiki/Rafael_Cortez    # generica
+~ Mussum | Antônio Carlos Bernardes Gomes | https://pt.wikipedia.org/wiki/Mussum    # generica
+~ Renato Aragão | Didi Mocó | https://pt.wikipedia.org/wiki/Renato_Arag%C3%A3o    # generica
+
+== tvbr-sitio-picapau    # Cite um personagem do Sítio do Picapau Amarelo (livros ou televisão)
++ Caipora |  |  |  | i | https://pt.wikipedia.org/wiki/Caipora    # generica
+~ Narizinho | Menina do Narizinho Arrebitado | https://pt.wikipedia.org/wiki/Narizinho    # generica
+~ Visconde de Sabugosa | Sabugosa | https://pt.wikipedia.org/wiki/Visconde_de_Sabugosa    # generica
+~ Tia Nastácia | Nastácia;Tia Anastácia;Anastácia | https://pt.wikipedia.org/wiki/Tia_Nast%C3%A1cia    # generica
+~ Dona Benta | Benta | https://pt.wikipedia.org/wiki/Dona_Benta    # generica
+~ Pedrinho | Pedro | https://pt.wikipedia.org/wiki/Pedrinho    # generica
+
+== tvbr-campeoes-bbb    # Cite um(a) campeão(ã) do Big Brother Brasil
+~ Rodrigo Cowboy | Cowboy | https://pt.wikipedia.org/wiki/Big_Brother_Brasil    # generica
+~ Fernanda Keulla | Keulla | https://pt.wikipedia.org/wiki/Big_Brother_Brasil_13    # generica
+~ Ana Paula Renault | Renault | https://pt.wikipedia.org/wiki/Big_Brother_Brasil    # generica
+~ Maria Melilo | Melilo | https://pt.wikipedia.org/wiki/Big_Brother_Brasil_11    # generica
+~ Max Porto | Max | https://pt.wikipedia.org/wiki/Big_Brother_Brasil_9    # generica

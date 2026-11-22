@@ -3,15 +3,15 @@ nome: Profissões
 
 == pro-profissoes | Cite uma profissão | facil | profissões;trabalho | https://pt.wikipedia.org/wiki/Classifica%C3%A7%C3%A3o_Brasileira_de_Ocupa%C3%A7%C3%B5es
 Médico | Médica | Doctor;Physician | | c
-Professor | Professora | Teacher | Profesor | c
+Professor | Professora;Docente;Educador | Teacher | Profesor | c
 Advogado | Advogada | Lawyer | Abogado | c
-Engenheiro | Engenheira | Engineer | Ingeniero | c
-Policial | Polícia | Police officer | | c
-Bombeiro | Bombeira | Firefighter | Bombero | c
+Engenheiro | Engenheira;Engenheiro civil;Engenheiro mecânico;Engenheiro elétrico;Engenheiro de software;Engenheiro químico | Engineer | Ingeniero | c
+Policial | Polícia;Policial militar;PM | Police officer |  | c
+Bombeiro | Bombeira;Bombeiro militar | Firefighter | Bombero | c
 Enfermeiro | Enfermeira | Nurse | Enfermero | c
-Dentista | | Dentist | | c
-Motorista | | Driver | Conductor | c
-Cozinheiro | Cozinheira;Chef;Chef de cozinha | Cook | Cocinero | c
+Dentista | Cirurgião-dentista;Odontólogo | Dentist |  | c
+Motorista | Chofer;Condutor;Motorista de ônibus;Motorista de aplicativo | Driver | Conductor | c
+Cozinheiro | Cozinheira;Chef;Chef de cozinha;Mestre-cuca | Cook | Cocinero | c
 Padeiro | Padeira | Baker | Panadero | c
 Pedreiro | | Bricklayer | Albañil | c
 Eletricista | | Electrician | Electricista | c
@@ -24,11 +24,11 @@ Vendedor | Vendedora | Salesperson | | c
 Jornalista | | Journalist | Periodista | c
 Ator | Atriz | Actor;Actress | Actriz | c
 Cantor | Cantora | Singer | | c
-Piloto | Piloto de avião | Pilot | | c
+Piloto | Piloto de avião;Aviador | Pilot |  | c
 Veterinário | Veterinária | Veterinarian;Vet | Veterinario | c
 Arquiteto | Arquiteta | Architect | Arquitecto | c
 Programador | Programadora;Desenvolvedor | Programmer;Developer | | c
-Juiz | Juíza | Judge | Juez | c
+Juiz | Juíza;Magistrado;Magistrada | Judge | Juez | c
 Carteiro | Carteira | Mailman;Postman | Cartero | c
 Jardineiro | Jardineira | Gardener | Jardinero | i
 Manicure | Manicuro | | | i
@@ -36,22 +36,22 @@ Costureira | Costureiro | Seamstress | Costurera | i
 Caixa | Operador de caixa | Cashier | Cajero | i
 Secretária | Secretário | Secretary | Secretaria | i
 Recepcionista | | Receptionist | | i
-Contador | Contadora | Accountant | | i
+Contador | Contadora;Contabilista | Accountant |  | i
 Administrador | Administradora | Administrator | | i
 Economista | | Economist | | i
 Fotógrafo | Fotógrafa | Photographer | Fotógrafo | i
-Músico | Musicista | Musician | Músico | i
-Pintor | Pintora | Painter | | i
-Escritor | Escritora | Writer | | i
+Músico | Musicista;Instrumentista | Musician | Músico | i
+Pintor | Pintora;Pintor de paredes;Pintor de obras | Painter |  | i
+Escritor | Escritora;Autor | Writer |  | i
 Comissário de bordo | Aeromoça;Comissária de bordo | Flight attendant | Azafata | i
-Marinheiro | | Sailor | Marinero | i
-Soldado | | Soldier | | i
+Marinheiro | Marujo | Sailor | Marinero | i
+Soldado | Militar | Soldier |  | i
 Promotor | Promotora | Prosecutor | Fiscal | r
 Delegado | Delegada | | | i
 Taxista | | Taxi driver | | i
 Motoboy | Motofretista | | | i
 Entregador | Entregadora | Delivery person | Repartidor | i
-Faxineiro | Faxineira;Diarista | Cleaner | Limpiador | i
+Faxineiro | Faxineira;Diarista;Auxiliar de limpeza;Servente de limpeza | Cleaner | Limpiador | i
 Porteiro | Porteira | Doorman | Portero | i
 Segurança | Vigilante;Vigia | Security guard | Guardia de seguridad | i
 Designer | | | Diseñador | i
@@ -65,7 +65,7 @@ Farmacêutico | Farmacêutica | Pharmacist | Farmacéutico | i
 Psicólogo | Psicóloga | Psychologist | | i
 Fisioterapeuta | | Physiotherapist | | i
 Nutricionista | | Nutritionist | | i
-Agricultor | Lavrador;Agricultora | Farmer | | i
+Agricultor | Lavrador;Agricultora;Fazendeiro;Fazendeira;Produtor rural;Camponês | Farmer |  | i
 Pescador | Pescadora | Fisherman | | i
 Açougueiro | Açougueira | Butcher | Carnicero | i
 Barbeiro | | Barber | Barbero | i
@@ -107,7 +107,7 @@ Personal trainer | Educador físico | | | r
 Árbitro | Juiz de futebol | Referee | | r
 Treinador | Técnico de futebol | Coach | | r
 Jogador de futebol | Futebolista | Soccer player | Futbolista | i
-Atleta | | Athlete | | r
+Atleta | Esportista | Athlete |  | r
 Estilista | | Fashion designer | | r
 Maquiador | Maquiadora | Makeup artist | Maquillador | r
 Despachante | | | | e
@@ -134,6 +134,217 @@ Ascensorista | | Elevator operator | Ascensorista | l
 Faroleiro | | Lighthouse keeper | Farero | l
 Seringueiro | | Rubber tapper | Cauchero | l
 Garimpeiro | | Prospector | | e
+Político | Política | Politician | c
+Artista |  | Artist | c
+Churrasqueiro | Churrasqueira | Barbecue cook;Grill master | Parrillero | i
+Confeiteiro | Confeiteira | Pastry chef;Confectioner | Confitero;Pastelero | i
+Pedicure | Pedicura | Pedicurist | Pedicuro | i
+Poeta | Poetisa | Poet | i
+Estatístico | Estatística | Statistician | Estadístico | i
+Diretor | Diretora | Director | i
+Produtor | Produtora | Producer | Productor | i
+Editor | Editora | i
+Instrutor | Instrutora | Instructor | i
+Cardiologista |  | Cardiologist | Cardiólogo | i
+Dermatologista |  | Dermatologist | Dermatólogo | i
+Ginecologista |  | Gynecologist | Ginecólogo | i
+Oftalmologista |  | Ophthalmologist | Oftalmólogo | i
+Ortopedista |  | Orthopedist | i
+Anestesista | Anestesiologista | Anesthesiologist | i
+Neurologista |  | Neurologist | Neurólogo | i
+Oncologista |  | Oncologist | Oncólogo | i
+Urologista |  | Urologist | Urólogo | i
+Pianista |  | Pianist | i
+Guitarrista |  | Guitarist | i
+Baterista |  | Drummer | i
+Violinista |  | Violinist | i
+Tenista |  | Tennis player | i
+Nadador | Nadadora | Swimmer | i
+Ciclista |  | Cyclist | i
+Jogador de vôlei | Voleibolista | Volleyball player | Jugador de voleibol | i
+Jogador de basquete | Basquetebolista | Basketball player | Jugador de baloncesto | i
+Florista |  | Florist | i
+Analista | Analista de sistemas | Analyst | i
+Balconista | Atendente | Counter clerk;Attendant | Dependiente | i
+Massagista |  | Masseur;Masseuse | Masajista | i
+Esteticista |  | Beautician | i
+Paisagista |  | Landscape designer | Paisajista | i
+Telefonista |  | Telephone operator | r
+Streamer | i
+Blogueiro | Blogueira;Blogger |  | Bloguero | i
+Auxiliar administrativo | Assistente administrativo | Administrative assistant | i
+Auxiliar de cozinha | Ajudante de cozinha | Kitchen assistant | Ayudante de cocina | i
+Office boy | Contínuo | r
+Rabino |  | Rabbi | r
+Monge | Monja;Freira | Monk;Nun | Monje | r
+Bispo |  | Bishop | Obispo | r
+Missionário | Missionária | Missionary | Misionero | r
+Jurista |  | Jurist | r
+Desembargador | Desembargadora | Appellate judge | r
+Procurador | Procuradora | Attorney | r
+Defensor público | Defensora pública | Public defender | r
+Oficial de justiça |  | Bailiff | r
+Pecuarista |  | Rancher | Ganadero | i
+Banqueiro | Banqueira | Banker | Banquero | i
+Parteira | Parteiro | Midwife | Partera | i
+Lavadeira |  | Laundress | Lavandera | i
+Merendeira |  | School cook | i
+Pipoqueiro | Pipoqueira | Popcorn vendor | i
+Sorveteiro | Sorveteira | Ice cream vendor | Heladero | i
+Peixeiro | Peixeira | Fishmonger | Pescadero | i
+Livreiro | Livreira | Bookseller | Librero | r
+Tesoureiro | Tesoureira | Treasurer | Tesorero | r
+Empilhadeirista | Operador de empilhadeira | Forklift operator | Operador de montacargas | r
+Estofador | Estofadora | Upholsterer | Tapicero | r
+Maqueiro | Maqueira | Stretcher bearer | Camillero | r
+Chapeiro | Chapeira | Short-order cook | r
+Panfleteiro | Panfleteira | Flyer distributor | r
+Pamonheiro | Pamonheira | r
+Sacoleiro | Sacoleira | r
+Luthier | r
+Amolador | Afiador | Knife grinder | Afilador | r
+Legista | Médico legista | Medical examiner | Médico forense | r
+Síndico | Síndica | Building manager | Administrador de fincas | r
+Mediador | Mediadora | Mediator | r
+Representante comercial |  | Sales representative | r
+Promotor de vendas | Promotora de vendas | Sales promoter | r
+Corretor de seguros |  | Insurance broker | Corredor de seguros | r
+Dramaturgo | Dramaturga | Playwright | r
+Massoterapeuta |  | Massage therapist | Masoterapeuta | r
+Óptico | Ótico | Optician | r
+Protético | Protético dentário | Dental technician | Protésico dental | r
+Sacristão |  | Sacristan | r
+Lapidador | Lapidário | Lapidary;Gem cutter | r
+Restaurador | Restauradora | Restorer | r
+Curador | Curadora | Curator | r
+Cerimonialista |  | Event planner | Maestro de ceremonias | r
+Tratador | Tratadora | Animal keeper | Cuidador de animales | r
+Tosador | Tosadora | Groomer | r
+Adestrador | Adestradora | Animal trainer | Adiestrador | r
+Degustador |  | Taster | Catador | r
+Timoneiro |  | Helmsman | Timonel | r
+Bioquímico | Bioquímica | Biochemist | r
+Encadernador |  | Bookbinder | Encuadernador | e
+Tipógrafo |  | Typographer;Typesetter | e
+Gravador | Gravadora | Engraver | Grabador | e
+Calígrafo | Calígrafa | Calligrapher | e
+Embalsamador |  | Embalmer | e
+Gemólogo | Gemóloga | Gemologist | e
+Museólogo | Museóloga | Museologist | e
+Agrimensor |  | Land surveyor | e
+Ventríloquo | Ventríloqua | Ventriloquist | Ventrílocuo | e
+Sonoplasta |  | Sound designer | Sonidista | e
+Boticário | Boticária | Apothecary | e
+Carrasco | Algoz | Executioner | Verdugo | e
+Escriba |  | Scribe | e
+Ornitólogo | Ornitóloga | Ornithologist | e
+Entomólogo | Entomóloga | Entomologist | e
+Ictiólogo | Ictióloga | Ichthyologist | e
+Astrofísico | Astrofísica | Astrophysicist | e
+Caldeireiro |  | Boilermaker | Calderero | e
+Tosquiador |  | Sheep shearer | Esquilador | e
+Ferrador |  | Farrier | Herrador | e
+Piscicultor | Piscicultora | Fish farmer | e
+Avicultor | Avicultora | Poultry farmer | e
+Cafeicultor | Cafeicultora | Coffee grower | Cafetero | e
+Viticultor | Viticultora | Winegrower | e
+Vinicultor | Vinicultora | Winemaker | e
+Enólogo | Enóloga | Oenologist | e
+Instrumentador cirúrgico |  | Surgical technician | Instrumentista quirúrgico | e
+Registrador | Oficial de registro | Registrar | e
+Litógrafo |  | Lithographer | l
+Tanatopraxista |  | Thanatopractor | l
+Mosaicista |  | Mosaic artist | Mosaiquista | l
+Numismata |  | Numismatist | Numismático | l
+Contrarregra |  | Stage manager | l
+Alquimista |  | Alchemist | l
+Arauto |  | Herald | Heraldo | l
+Herpetólogo | Herpetóloga | Herpetologist | l
+Sismólogo | Sismóloga | Seismologist | l
+Vulcanólogo | Vulcanóloga | Volcanologist | l
+Espeleólogo | Espeleóloga | Speleologist | l
+Egiptólogo | Egiptóloga | Egyptologist | l
+Cosmólogo | Cosmóloga | Cosmologist | l
+Falcoeiro |  | Falconer | Cetrero | l
+Amanuense |  | Amanuensis | l
+Perfusionista |  | Perfusionist | l
+Gari | Lixeiro;Coletor de lixo;Varredor | Garbage collector;Street sweeper | Barrendero | c
+Caminhoneiro | Motorista de caminhão | Truck driver | Camionero | c
+Marceneiro |  | Joiner;Cabinetmaker | Ebanista | c
+Pediatra |  | Pediatrician | c
+Empresário | Empreendedor | Businessman | c
+Padre | Sacerdote | Priest | i
+Pastor | Pastor evangélico | i
+Psiquiatra |  | Psychiatrist | i
+Cirurgião |  | Surgeon | Cirujano | i
+Repórter |  |  | Reportero | i
+Locutor | Radialista;Locutor esportivo;Narrador | Announcer;Broadcaster;Sports commentator | Narrador deportivo | i
+Humorista | Comediante | Comedian | i
+Gerente |  | Manager | i
+Metalúrgico |  | Metalworker | i
+Operário |  | Worker | Obrero | i
+Soldador |  | Welder | i
+Feirante |  | Market vendor | Feriante | i
+Camelô | Vendedor ambulante;Ambulante | Street vendor | i
+Zelador | Caseiro | Janitor;Caretaker | Conserje;Casero | i
+Doméstica | Empregada doméstica;Governanta | Housekeeper;Maid | Empleada doméstica;Ama de llaves | i
+Camareira | Camareiro | Chambermaid | Camarera | r
+Mordomo |  | Butler | Mayordomo | r
+Salva-vidas | Guarda-vidas | Lifeguard | Salvavidas | i
+Estivador |  | Stevedore;Docker | Estibador | r
+Tratorista |  | Tractor driver | Tractorista | r
+Pizzaiolo |  | Pizza maker | Pizzero | r
+Barman | Bartender | r
+Tatuador |  | Tattoo artist | r
+Escultor |  | Sculptor | r
+Ilustrador |  | Illustrator | r
+Cineasta | Diretor de cinema | Filmmaker | r
+Roteirista |  | Screenwriter | Guionista | r
+Compositor |  | Composer | r
+Cinegrafista | Câmera;Cameraman |  | Camarógrafo | r
+Fonoaudiólogo | Fono | Speech therapist | r
+Terapeuta ocupacional |  | Occupational therapist | e
+Biomédico |  | Biomedical scientist | r
+Técnico de enfermagem | Auxiliar de enfermagem | Nursing technician | Técnico de enfermería | r
+Pesquisador | Pesquisadora | Researcher | Investigador | r
+Astrônomo |  | Astronomer | r
+Paleontólogo |  | Paleontologist | r
+Botânico |  | Botanist | r
+Zoólogo |  | Zoologist | r
+Antropólogo |  | Anthropologist | r
+Geógrafo |  | Geographer | r
+Mestre de obras |  | Foreman | Maestro de obras | r
+Servente | Servente de pedreiro | Laborer | Peón | r
+Mergulhador |  | Diver | Buzo | r
+Controlador de voo | Controlador de tráfego aéreo | Air traffic controller | Controlador aéreo | r
+Jóquei |  | Jockey | Jinete | r
+Lutador |  | Fighter | Luchador | r
+Boxeador | Pugilista | Boxer | r
+Comerciante |  | Merchant | r
+Consultor |  | Consultant | r
+Auditor | r
+Assistente social |  | Social worker | Trabajador social | r
+Escriturário |  | Clerk | Oficinista | e
+Estoquista | Almoxarife | Stock clerk | Almacenista | r
+Repositor |  | Stocker | Reponedor | e
+Operador de telemarketing | Telemarketing | Telemarketer | Teleoperador | r
+Engraxate |  | Shoeshiner | Limpiabotas | e
+Tecelão | Tecelã | Weaver | Tejedor | e
+Doula | e
+Podólogo |  | Podiatrist | e
+Cenógrafo |  | Set designer | Escenógrafo | e
+Figurinista |  | Costume designer | e
+Comentarista |  | Commentator | r
+Domador |  | Tamer | e
+Acrobata |  | Acrobat | e
+Malabarista |  | Juggler | r
+Mímico |  | Mime | Mimo | e
+Agente de trânsito | Guarda de trânsito | Traffic warden | r
+Agente penitenciário | Policial penal | Prison officer | Funcionario de prisiones | e
+Cartorário |  | Notary clerk | e
+Ferroviário |  | Railway worker | e
+Maestro | Regente |  | Director de orquesta | i
+Cobrador | Cobrador de ônibus | Fare collector | i
 
 == pro-terminadas-ista | Cite uma profissão terminada em "-ista" | media | profissões;palavras | https://pt.wikipedia.org/wiki/-ista
 Dentista | | | | c
@@ -244,6 +455,93 @@ Harpista | | | | e
 Violoncelista | | | | e
 Organista | | | | e
 Acordeonista | Sanfoneiro | | | l
+Capoeirista | i
+Jurista |  | Jurist | r
+Violista |  | Violist | r
+Cavaquinista | r
+Voleibolista |  | Volleyball player | r
+Basquetebolista |  | Basketball player | r
+Handebolista |  | Handball player | r
+Beisebolista |  | Baseball player | r
+Rugbista |  | Rugby player | r
+Mastologista |  | Mastologist | r
+Angiologista |  | Angiologist | r
+Hepatologista |  | Hepatologist | r
+Neonatologista |  | Neonatologist | r
+Intensivista |  | Intensivist | r
+Traumatologista |  | Traumatologist | r
+Imunologista |  | Immunologist | r
+Flebologista |  | Phlebologist | e
+Timpanista |  | Timpanist | e
+Cornetista |  | Cornetist | e
+Trompista |  | Horn player | e
+Vibrafonista |  | Vibraphonist | e
+Harmonicista | Gaitista | Harmonica player | r
+Gruísta |  | Crane operator | e
+Empilhadeirista |  | Forklift operator | e
+Orçamentista |  | Estimator | e
+Perfumista |  | Perfumer | e
+Optometrista |  | Optometrist | e
+Mineralogista |  | Mineralogist | l
+Climatologista |  | Climatologist | Climatólogo | l
+Pandeirista |  | Tambourine player | e
+Tubista |  | Tuba player | l
+Cravista |  | Harpsichordist | Clavecinista | l
+Sitarista |  | Sitarist | l
+Ukulelista |  | Ukulele player | Ukelelista | l
+Ortopedista |  | Orthopedist | i
+Tratorista |  | Tractor driver | Tractorista | i
+Comentarista |  | Commentator | i
+Radialista |  | Broadcaster | i
+Sambista | i
+Motociclista |  | Motorcyclist | i
+Pecuarista |  | Rancher | Ganadero | i
+Oculista |  | Oculist | i
+Alpinista |  | Mountaineer | i
+Maratonista |  | Marathoner | i
+Corista |  | Chorister | r
+Conferencista |  | Lecturer | r
+Articulista |  | Columnist | r
+Passista | r
+Repentista | r
+Cordelista | r
+Velocista |  | Sprinter | r
+Pugilista |  | Boxer | r
+Esgrimista |  | Fencer | r
+Halterofilista |  | Weightlifter | Halterófilo | r
+Automobilista |  | Racing driver | Automovilista | r
+Kartista |  | Kart driver | r
+Canoísta |  | Canoeist | Piragüista | r
+Trombonista |  | Trombonist | r
+Contrabaixista |  | Double bassist | Contrabajista | r
+Solista |  | Soloist | r
+Letrista |  | Lyricist | r
+Caricaturista |  | Caricaturist | r
+Quadrinista |  | Comic artist | Historietista | r
+Muralista |  | Muralist | r
+Geneticista |  | Geneticist | Genetista | r
+Virologista |  | Virologist | Virólogo | r
+Epidemiologista |  | Epidemiologist | Epidemiólogo | r
+Alergista |  | Allergist | r
+Linguista |  | Linguist | r
+Criminalista |  | Criminal lawyer | r
+Calculista | r
+Telegrafista |  | Telegraphist | r
+Cambista |  | Money changer | r
+Financista |  | Financier | r
+Catequista |  | Catechist | r
+Fotojornalista |  | Photojournalist | Fotoperiodista | r
+Quiropraxista |  | Chiropractor | Quiropráctico | e
+Marmorista |  | Marble worker | Marmolista | e
+Vitralista |  | Stained glass artist | e
+Protocolista | e
+Entomologista |  | Entomologist | Entomólogo | e
+Sanitarista |  | Public health specialist | e
+Bandolinista |  | Mandolinist | Mandolinista | e
+Oboísta |  | Oboist | e
+Fagotista |  | Bassoonist | e
+Latinista |  | Latinist | l
+Helenista |  | Hellenist | l
 
 == pro-terminadas-eiro | Cite uma profissão terminada em "-eiro" ou "-eira" | media | profissões;palavras | https://pt.wikipedia.org/wiki/Classifica%C3%A7%C3%A3o_Brasileira_de_Ocupa%C3%A7%C3%B5es
 Bombeiro | Bombeira | | | c
@@ -254,7 +552,7 @@ Enfermeiro | Enfermeira | | | c
 Cozinheiro | Cozinheira | | | c
 Cabeleireiro | Cabeleireira | | | c
 Carpinteiro | Carpinteira | | | c
-Marceneiro | | | | c
+Marceneiro | Marceneira |  |  | c
 Açougueiro | Açougueira | | | c
 Jardineiro | Jardineira | | | c
 Carteiro | Carteira | | | c
@@ -262,32 +560,32 @@ Costureira | Costureiro | | | c
 Faxineira | Faxineiro | | | c
 Barbeiro | | | | c
 Banqueiro | Banqueira | | | i
-Sapateiro | | | | i
+Sapateiro | Sapateira |  |  | i
 Ferreiro | | | | i
-Joalheiro | | | | i
-Relojoeiro | | | | i
+Joalheiro | Joalheira |  |  | i
+Relojoeiro | Relojoeira |  |  | i
 Chaveiro | | | | i
 Vidraceiro | | | | i
 Serralheiro | | | | i
 Caminhoneiro | Caminhoneira | | | i
 Porteiro | Porteira | | | i
-Pipoqueiro | | | | i
-Sorveteiro | | | | i
-Verdureiro | | | | r
-Peixeiro | | | | r
-Leiteiro | | | | r
+Pipoqueiro | Pipoqueira |  |  | i
+Sorveteiro | Sorveteira |  |  | i
+Verdureiro | Verdureira |  |  | r
+Peixeiro | Peixeira |  |  | r
+Leiteiro | Leiteira |  |  | r
 Confeiteiro | Confeiteira | | | i
 Doceira | Doceiro | | | r
-Churrasqueiro | | | | i
-Cervejeiro | | | | r
+Churrasqueiro | Churrasqueira |  |  | i
+Cervejeiro | Cervejeira |  |  | r
 Fazendeiro | Fazendeira | | | i
-Vaqueiro | | | | r
+Vaqueiro | Vaqueira |  |  | r
 Boiadeiro | | | | r
 Seringueiro | | | | r
 Garimpeiro | | | | i
 Jangadeiro | | | | r
 Marinheiro | | | | i
-Barqueiro | | | | r
+Barqueiro | Barqueira |  |  | r
 Ferramenteiro | | | | e
 Torneiro mecânico | Torneiro | | | e
 Funileiro | | | | r
@@ -295,12 +593,12 @@ Borracheiro | | | | i
 Lanterneiro | | | | e
 Gesseiro | | | | e
 Ladrilheiro | | | | l
-Lavadeira | | | | r
-Passadeira | | | | r
-Arrumadeira | | | | r
-Parteira | | | | r
+Lavadeira | Lavadeiro |  |  | r
+Passadeira | Passadeiro |  |  | r
+Arrumadeira | Arrumadeiro |  |  | r
+Parteira | Parteiro |  |  | r
 Tesoureiro | Tesoureira | | | r
-Livreiro | | | | e
+Livreiro | Livreira |  |  | e
 Tintureiro | | | | e
 Chapeleiro | | | | e
 Seleiro | | | | l
@@ -309,20 +607,20 @@ Colchoeiro | | | | l
 Carvoeiro | | | | e
 Madeireiro | | | | e
 Merendeira | Merendeiro | | | r
-Quituteira | | | | e
-Bilheteiro | | | | e
-Carcereiro | | | | r
-Mensageiro | | | | r
-Hoteleiro | | | | e
-Bordadeira | | | | e
+Quituteira | Quituteiro |  |  | e
+Bilheteiro | Bilheteira |  |  | e
+Carcereiro | Carcereira |  |  | r
+Mensageiro | Mensageira |  |  | r
+Hoteleiro | Hoteleira |  |  | e
+Bordadeira | Bordadeiro |  |  | e
 Rendeira | | | | e
 Oleiro | | | | e
 Cuteleiro | | | | l
 Armeiro | | | | l
 Coveiro | | | | r
 Copeiro | Copeira | | | e
-Jornaleiro | | | | r
-Quitandeiro | | | | e
+Jornaleiro | Jornaleira |  |  | r
+Quitandeiro | Quitandeira |  |  | e
 Salgadeira | Salgadeiro | | | e
 Faroleiro | | | | l
 Sanfoneiro | | | | e
@@ -330,10 +628,75 @@ Violeiro | | | | e
 Fuzileiro | Fuzileiro naval | | | e
 Artilheiro | | | | e
 Picolezeiro | | | | l
-Pasteleiro | | | | e
+Pasteleiro | Pasteleira |  |  | e
 Granjeiro | | | | l
 Mineiro | | | | r
-Tropeiro | | | | e
+Tropeiro | Tropeira |  |  | e
+Maqueiro | Maqueira | Stretcher bearer | Camillero | r
+Chapeiro | Chapeira | Short-order cook | r
+Panfleteiro | Panfleteira | Flyer distributor | r
+Pamonheiro | Pamonheira | r
+Sacoleiro | Sacoleira | r
+Tapioqueira | Tapioqueiro | r
+Cantineiro | Cantineira | Canteen worker | r
+Arqueiro | Arqueira | Archer | Arquero | r
+Tanoeiro |  | Cooper | Tonelero | l
+Latoeiro |  | Tinsmith | Hojalatero | l
+Aguadeiro |  | Water carrier | Aguador | l
+Vassoureiro | Vassoureira | Broom maker | Escobero | e
+Erveiro | Erveira | Herb seller | Yerbatero | e
+Cabineiro |  | Elevator operator | l
+Gondoleiro |  | Gondolier | Gondolero | l
+Cordoeiro | Cordeleiro | Ropemaker | Cordelero | e
+Ferrageiro |  | Hardware dealer | Ferretero | e
+Lixeiro | Lixeira | Garbage collector | Basurero | c
+Caseiro | Caseira | Caretaker | Casero | i
+Camareira | Camareiro | Chambermaid | Camarera | i
+Carroceiro | Carreiro | Carter;Oxcart driver | Carretero | r
+Cocheiro |  | Coachman | Cochero | r
+Carreteiro |  | Trucker | Camionero | r
+Freteiro |  |  | Fletero | r
+Caixeiro | Caixeiro-viajante | Clerk;Traveling salesman | Cajero | r
+Baleiro |  | Candy seller | r
+Fruteiro |  | Fruit seller | Frutero | r
+Moveleiro |  | Furniture maker | Mueblero | r
+Vidreiro |  | Glassmaker | Vidriero | r
+Poceiro |  | Well digger | Pocero | e
+Canoeiro |  | Canoeist | Canoero | e
+Balseiro |  | Ferryman | Balsero | e
+Remeiro |  | Rower | Remero | e
+Salineiro |  | Salt maker | Salinero | e
+Cesteiro |  | Basket maker | Cestero | e
+Sineiro |  | Bell ringer | Campanero | e
+Queijeiro | Queijeira | Cheesemaker | Quesero | r
+Vinhateiro |  | Winegrower | Viñatero | e
+Cabreiro |  | Goatherd | Cabrero | e
+Porqueiro |  | Swineherd | Porquero | e
+Mateiro |  | Woodsman | e
+Roceiro |  | Farmhand | r
+Ceifeiro |  | Reaper | Segador | e
+Marisqueira | Mariscadeira | Shellfish gatherer | Mariscadora | e
+Fiandeira |  | Spinner | Hilandera | e
+Engomadeira |  | Ironer | Planchadora | e
+Correeiro |  | Leatherworker | Correero | l
+Calceteiro |  | Paver | Adoquinador | l
+Cavouqueiro |  | Quarryman | Cantero | l
+Forneiro |  | Baker | Hornero | e
+Motorneiro |  | Tram driver | l
+Escudeiro |  | Squire | Escudero | e
+Mosqueteiro |  | Musketeer | Mosquetero | e
+Estalajadeiro |  | Innkeeper | Posadero | e
+Taberneiro |  | Tavern keeper | Tabernero | e
+Curandeiro | Curandeira | Healer | Curandero | r
+Benzedeiro | Benzedeira | Faith healer | r
+Rezadeira | Rezadeiro |  | Rezandera | r
+Raizeiro |  | Herbalist | e
+Roupeiro |  | Kit manager | Utilero | r
+Olheiro |  | Scout | Ojeador | r
+Marqueteiro |  | Marketer | Marketinero | r
+Bonequeiro |  | Puppet maker | e
+Titereiro |  | Puppeteer | Titiritero | e
+Santeiro |  |  | Santero | e
 
 == pro-patentes-militares | Cite um posto ou graduação militar das Forças Armadas brasileiras | media | militares;hierarquia | https://pt.wikipedia.org/wiki/Hierarquia_militar_no_Brasil
 Soldado | | Private;Soldier | | c
@@ -346,15 +709,15 @@ Coronel | | Colonel | | c
 General | | | | c
 Marechal | | Marshal | Mariscal | c
 Almirante | | Admiral | | c
-Brigadeiro | | Brigadier | | i
+Brigadeiro | Brigadeiro do ar | Brigadier |  | i
 Tenente-Coronel | | Lieutenant colonel | Teniente coronel | i
 Subtenente | | | | i
 Marinheiro | | Seaman | Marinero | i
-Primeiro-Sargento | | First sergeant | | i
-Segundo-Sargento | | | | r
-Terceiro-Sargento | | | | r
-Primeiro-Tenente | | First lieutenant | | i
-Segundo-Tenente | | Second lieutenant | | r
+Primeiro-Sargento | 1º Sargento | First sergeant |  | i
+Segundo-Sargento | 2º Sargento |  |  | r
+Terceiro-Sargento | 3º Sargento |  |  | r
+Primeiro-Tenente | 1º Tenente | First lieutenant |  | i
+Segundo-Tenente | 2º Tenente | Second lieutenant |  | r
 Aspirante a oficial | Aspirante | | | r
 Suboficial | | | | r
 Guarda-Marinha | | Midshipman | Guardiamarina | r
@@ -368,20 +731,25 @@ Almirante de Esquadra | | | | e
 General de Brigada | | Brigadier general | | e
 General de Divisão | | Major general | | e
 General de Exército | | | | e
-Major-Brigadeiro | | | | e
-Tenente-Brigadeiro | | | | e
+Major-Brigadeiro | Major-Brigadeiro do Ar |  |  | e
+Tenente-Brigadeiro | Tenente-Brigadeiro do Ar |  |  | e
 Marechal do Ar | | | | e
 Taifeiro | | | | l
 Taifeiro-Mor | | | | l
 Fuzileiro naval | Fuzileiro | Marine | Infante de marina | r
 Recruta | | Recruit | Recluta | i
 Cadete | | Cadet | | r
+Taifeiro de Primeira Classe | Taifeiro primeira classe;Taifeiro de 1ª classe | l
+Taifeiro de Segunda Classe | Taifeiro segunda classe;Taifeiro de 2ª classe | l
+Soldado de Primeira Classe | Soldado primeira classe;Soldado de 1ª classe | l
+Soldado de Segunda Classe | Soldado segunda classe;Soldado de 2ª classe | l
+Aprendiz-Marinheiro | Aprendiz de marinheiro | l
 
-== pro-cursos-graduacao | Cite um curso de graduação (faculdade) | facil | faculdade;educação | https://emec.mec.gov.br/
+== pro-cursos-graduacao | Cite um curso de faculdade (ensino superior) | facil | faculdade;educação | https://emec.mec.gov.br/
 Medicina | | Medicine | | c
 Direito | | Law | Derecho | c
 Engenharia Civil | | Civil engineering | Ingeniería civil | c
-Administração | | Business administration | Administración | c
+Administração | Administração de Empresas | Business administration | Administración | c
 Psicologia | | Psychology | Psicología | c
 Enfermagem | | Nursing | Enfermería | c
 Odontologia | | Dentistry | | c
@@ -413,7 +781,7 @@ Física | | Physics | | i
 Matemática | | Mathematics | Matemáticas | i
 História | | History | Historia | i
 Geografia | | Geography | Geografía | i
-Letras | | Languages and literature | | i
+Letras | Língua Portuguesa;Letras Português | Languages and literature |  | i
 Filosofia | | Philosophy | Filosofía | i
 Ciências Sociais | Sociologia | Social sciences | | i
 Relações Internacionais | | International relations | Relaciones internacionales | i
@@ -451,7 +819,7 @@ Marketing | | | | r
 Gestão de Recursos Humanos | Recursos Humanos;RH | Human resources | | r
 Logística | | Logistics | | r
 Radiologia | | Radiology | | e
-Estética e Cosmética | Estética | | | e
+Estética e Cosmética | Estética;Cosmetologia;Cosmetologia e Estética |  |  | e
 Teologia | | Theology | | r
 Antropologia | | Anthropology | | e
 Engenharia Mecatrônica | Mecatrônica | Mechatronics engineering | | e
@@ -463,47 +831,131 @@ Jogos Digitais | Games | Game design | | e
 Química Industrial | | | | l
 Ciência de Dados | | Data science | | e
 Educação do Campo | | | | l
+Ciência Política | Ciências Políticas | Political science | i
+Ciências Aeronáuticas |  | Aeronautical sciences | r
+Engenharia Eletrônica |  | Electronic engineering | Ingeniería electrónica | r
+Letras-Libras | Libras | r
+Engenharia Sanitária e Ambiental | Engenharia Sanitária | Sanitary and environmental engineering | Ingeniería sanitaria y ambiental | e
+Engenharia Nuclear |  | Nuclear engineering | Ingeniería nuclear | e
+Engenharia Hídrica |  | Water resources engineering | Ingeniería hídrica | l
+Engenharia de Transportes |  | Transportation engineering | Ingeniería de transporte | e
+Engenharia de Controle e Automação | Engenharia de Automação | Control and automation engineering | Ingeniería de control y automatización | r
+Física Médica |  | Medical physics | l
+Ciências Ambientais |  | Environmental sciences | Ciencias ambientales | r
+Segurança Pública |  | Public security | Seguridad pública | r
+Educação Especial |  | Special education | Educación especial | r
+Comunicação Social | Comunicação | Communication | Comunicación social | i
+Relações Públicas |  | Public relations | Relaciones públicas | i
+Design Gráfico |  | Graphic design | Diseño gráfico | i
+Design de Interiores |  | Interior design | Diseño de interiores | i
+Biotecnologia |  | Biotechnology | i
+Gestão Pública |  | Public management | Gestión pública | r
+Administração Pública |  | Public administration | Administración pública | r
+Gestão Ambiental |  | Environmental management | Gestión ambiental | r
+Rádio, TV e Internet | Rádio e TV | Broadcasting | Radio y televisión | r
+Produção Cultural |  | Cultural production | Producción cultural | r
+Design de Produto |  | Product design | Diseño de producto | r
+Design de Animação | Animação | Animation | Animación | r
+Tradutor e Intérprete | Tradução | Translation | Traducción e interpretación | r
+Bioquímica |  | Biochemistry | r
+Gestão Financeira | Finanças | Finance | Finanzas | r
+Processos Gerenciais | r
+Gestão Comercial |  |  | Gestión comercial | r
+Gestão Hospitalar |  | Hospital management | Gestión hospitalaria | r
+Gestão da Tecnologia da Informação | Gestão de TI | IT management | r
+Saúde Coletiva | Saúde Pública | Public health | Salud pública | r
+Segurança no Trabalho | Segurança do Trabalho | Occupational safety | Seguridad laboral | r
+Redes de Computadores |  | Computer networks | Redes de computadoras | r
+Banco de Dados |  | Databases | Bases de datos | r
+Inteligência Artificial |  | Artificial intelligence | r
+Automação Industrial |  | Industrial automation | Automatización industrial | r
+Eletrônica Industrial |  | Industrial electronics | Electrónica industrial | r
+Agronegócio |  | Agribusiness | Agronegocios | r
+Arqueologia |  | Archaeology | r
+Engenharia de Telecomunicações |  | Telecommunications engineering | Ingeniería de telecomunicaciones | r
+Engenharia Agrícola |  | Agricultural engineering | Ingeniería agrícola | r
+Engenharia de Materiais |  | Materials engineering | Ingeniería de materiales | r
+Engenharia Metalúrgica |  | Metallurgical engineering | Ingeniería metalúrgica | r
+Engenharia Aeroespacial |  | Aerospace engineering | Ingeniería aeroespacial | r
+Engenharia de Energia |  | Energy engineering | Ingeniería energética | e
+Engenharia Física |  | Engineering physics | Ingeniería física | e
+Engenharia Têxtil |  | Textile engineering | Ingeniería textil | e
+Engenharia de Pesca |  | Fisheries engineering | Ingeniería pesquera | e
+Engenharia Cartográfica | Engenharia Cartográfica e de Agrimensura | Surveying engineering | Ingeniería cartográfica | e
+Engenharia Acústica |  | Acoustical engineering | Ingeniería acústica | l
+Produção Fonográfica |  | Music production | Producción musical | e
+Gestão da Qualidade |  | Quality management | Gestión de calidad | e
+Óptica e Optometria | Optometria | Optometry | e
+Quiropraxia |  | Chiropractic | Quiropráctica | e
+Eventos | Gestão de Eventos | Event management | Gestión de eventos | e
+Conservação e Restauro |  | Conservation and restoration | Conservación y restauración | e
+Gerontologia |  | Gerontology | e
+Podologia |  | Podiatry | e
 
 == pro-cargos-publicos | Cite um cargo político ou público do Brasil | media | política;cargos;brasil | https://pt.wikipedia.org/wiki/Pol%C3%ADtica_do_Brasil
-Presidente da República | Presidente | | | c
-Vice-presidente | | | | c
+Presidente da República | Presidente;Presidenta;Presidenta da República |  |  | c
+Vice-presidente | Vice-presidente da República;Vice-presidenta |  |  | c
 Governador | Governadora | Governor | Gobernador | c
 Prefeito | Prefeita | Mayor | Alcalde | c
 Vereador | Vereadora | City councilor | Concejal | c
 Senador | Senadora | Senator | | c
-Deputado federal | Deputada federal | | Diputado federal | c
+Deputado federal | Deputada federal;Deputado;Deputada |  | Diputado federal | c
 Deputado estadual | Deputada estadual | | Diputado estatal | c
 Ministro | Ministra;Ministro de Estado | Minister | | c
-Vice-governador | | | | i
-Vice-prefeito | | | | i
-Secretário municipal | | | | r
-Secretário estadual | Secretário de Estado | | | r
-Juiz | Juíza | Judge | Juez | c
+Vice-governador | Vice-governadora |  |  | i
+Vice-prefeito | Vice-prefeita |  |  | i
+Secretário municipal | Secretária municipal |  |  | r
+Secretário estadual | Secretário de Estado;Secretária estadual;Secretária de Estado |  |  | r
+Juiz | Juíza;Juiz federal;Juiz de direito;Juiz do trabalho;Juiz eleitoral | Judge | Juez | c
 Desembargador | Desembargadora | | | i
-Ministro do STF | Ministro do Supremo | | | i
-Promotor de Justiça | Promotor | Prosecutor | Fiscal | i
-Procurador | Procurador da República | | | r
-Procurador-Geral da República | PGR | | | r
-Defensor público | Defensora pública | Public defender | Defensor público | r
-Delegado de polícia | Delegado | | | i
+Ministro do STF | Ministro do Supremo;Ministra do STF;Ministro do Supremo Tribunal Federal;Ministra do Supremo |  |  | i
+Promotor de Justiça | Promotor;Promotora de Justiça;Promotora | Prosecutor | Fiscal | i
+Procurador | Procurador da República;Procuradora;Procurador de Justiça;Procurador do Estado |  |  | r
+Procurador-Geral da República | PGR;Procuradora-Geral da República |  |  | r
+Defensor público | Defensora pública;Defensor;Defensor público federal;Defensora pública federal | Public defender | Defensor público | r
+Delegado de polícia | Delegado;Delegada de polícia;Delegada;Delegado federal |  |  | i
 Embaixador | Embaixadora | Ambassador | Embajador | r
-Cônsul | | Consul | | r
+Cônsul | Cônsula;Cônsul-geral | Consul |  | r
 Diplomata | | Diplomat | Diplomático | r
-Presidente do Senado | | | | r
+Presidente do Senado | Presidente do Senado Federal |  |  | r
 Presidente da Câmara | Presidente da Câmara dos Deputados | | | r
-Ministro do STJ | | | | e
-Ministro do TCU | Conselheiro do TCU | | | e
-Advogado-Geral da União | AGU | | | e
+Ministro do STJ | Ministra do STJ;Ministro do Superior Tribunal de Justiça |  |  | e
+Ministro do TCU | Conselheiro do TCU;Ministra do TCU |  |  | e
+Advogado-Geral da União | AGU;Advogada-Geral da União |  |  | e
 Defensor Público-Geral | | | | l
 Controlador-Geral da União | | | | l
-Subprefeito | Administrador regional | | | e
-Escrivão de polícia | | | | e
+Subprefeito | Administrador regional;Subprefeita |  |  | e
+Escrivão de polícia | Escrivã de polícia |  |  | e
 Policial federal | Agente da PF | | | r
-Auditor fiscal | Auditor da Receita | | | e
+Auditor fiscal | Auditor da Receita;Auditora fiscal |  |  | e
 Oficial de justiça | | | | e
-Tabelião | | | | e
-Conselheiro tutelar | | | | r
-Juiz de paz | | | | e
-Chefe da Casa Civil | Ministro da Casa Civil | | | e
+Tabelião | Tabeliã |  |  | e
+Conselheiro tutelar | Conselheira tutelar |  |  | r
+Juiz de paz | Juíza de paz |  |  | e
+Chefe da Casa Civil | Ministro da Casa Civil;Ministro-Chefe da Casa Civil;Ministra da Casa Civil |  |  | e
 Líder do governo | | | | l
 Senador suplente | Suplente | | | l
+Servidor público | Funcionário público | Civil servant | c
+Presidente do STF | Presidente do Supremo;Presidente do Supremo Tribunal Federal | Chief Justice | r
+Presidente do TSE | Presidente do Tribunal Superior Eleitoral | e
+Deputado distrital | Deputada distrital |  | Diputado distrital | r
+Chefe de gabinete |  | Chief of staff | Jefe de gabinete | r
+Primeiro-ministro |  | Prime minister | Primer ministro | e
+Procurador da Fazenda Nacional | l
+Secretário-executivo | Secretária-executiva | e
+Presidente do STJ | Presidente do Superior Tribunal de Justiça | e
+Presidente do TCU | Presidente do Tribunal de Contas da União | l
+Analista judiciário |  | Judicial analyst | r
+Ouvidor | Ouvidora | Ombudsman | Defensor del pueblo | e
+Corregedor | Corregedora | e
+Policial militar | PM | Military police officer | Policía militar | i
+Policial civil |  | Civil police officer | Policía civil | r
+Policial rodoviário federal | PRF | Federal highway police officer | r
+Guarda municipal |  | Municipal guard | Guardia municipal | r
+Perito criminal |  | Forensic expert | r
+Papiloscopista |  | Fingerprint examiner | e
+Agente de trânsito |  | Traffic warden | r
+Ministro do TSE | Ministro do Tribunal Superior Eleitoral | e
+Ministro do TST | Ministro do Tribunal Superior do Trabalho | e
+Ministro do STM | Ministro do Superior Tribunal Militar | l
+Conselheiro do Tribunal de Contas | l

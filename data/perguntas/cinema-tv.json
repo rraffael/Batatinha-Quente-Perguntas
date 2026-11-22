@@ -13,18 +13,35 @@
         "filmes"
       ],
       "fonte": "https://pt.wikipedia.org/wiki/Lista_de_filmes_de_anima%C3%A7%C3%A3o_da_Disney",
-      "nota": "Sequências com o mesmo nome contam junto com o original (Toy Story 2 = Toy Story).",
+      "nota": "Cada filme de uma franquia conta como uma resposta separada.",
       "respostas": [
         {
           "id": "toy-story",
           "canonica": "Toy Story",
-          "aceitas": [
-            "Toy Story 2",
-            "Toy Story 3",
-            "Toy Story 4"
-          ],
+          "aceitas": [],
           "traducoes": {},
           "raridadeInicial": "comum"
+        },
+        {
+          "id": "toy-story-2",
+          "canonica": "Toy Story 2",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "toy-story-3",
+          "canonica": "Toy Story 3",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "toy-story-4",
+          "canonica": "Toy Story 4",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
         },
         {
           "id": "procurando-nemo",
@@ -80,16 +97,30 @@
           "id": "os-incriveis",
           "canonica": "Os Incríveis",
           "aceitas": [
-            "Os Incríveis 2",
             "Incríveis"
           ],
           "traducoes": {
             "en": [
-              "The Incredibles",
-              "Incredibles 2"
+              "The Incredibles"
             ],
             "es": [
               "Los Increíbles"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "os-incriveis-2",
+          "canonica": "Os Incríveis 2",
+          "aceitas": [
+            "Incríveis 2"
+          ],
+          "traducoes": {
+            "en": [
+              "Incredibles 2"
+            ],
+            "es": [
+              "Los Increíbles 2"
             ]
           },
           "raridadeInicial": "comum"
@@ -160,17 +191,29 @@
         {
           "id": "divertida-mente",
           "canonica": "Divertida Mente",
-          "aceitas": [
-            "Divertida Mente 2"
-          ],
+          "aceitas": [],
           "traducoes": {
             "en": [
-              "Inside Out",
-              "Inside Out 2"
+              "Inside Out"
             ],
             "es": [
               "Intensa-Mente",
               "Del revés"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "divertida-mente-2",
+          "canonica": "Divertida Mente 2",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Inside Out 2"
+            ],
+            "es": [
+              "Intensa-Mente 2",
+              "Del revés 2"
             ]
           },
           "raridadeInicial": "comum"
@@ -251,7 +294,6 @@
           "id": "zootopia",
           "canonica": "Zootopia",
           "aceitas": [
-            "Zootopia 2",
             "Zootopia: Essa Cidade é o Bicho"
           ],
           "traducoes": {
@@ -260,6 +302,17 @@
             ]
           },
           "raridadeInicial": "comum"
+        },
+        {
+          "id": "zootopia-2",
+          "canonica": "Zootopia 2",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Zootropolis 2"
+            ]
+          },
+          "raridadeInicial": "incomum"
         },
         {
           "id": "enrolados",
@@ -324,7 +377,7 @@
               "La bella y la bestia"
             ]
           },
-          "raridadeInicial": "comum"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "a-pequena-sereia",
@@ -381,7 +434,8 @@
           "id": "lilo-stitch",
           "canonica": "Lilo & Stitch",
           "aceitas": [
-            "Lilo e Stitch"
+            "Lilo e Stitch",
+            "Stitch"
           ],
           "traducoes": {},
           "raridadeInicial": "incomum"
@@ -452,7 +506,9 @@
           "id": "mogli-o-menino-lobo",
           "canonica": "Mogli: O Menino Lobo",
           "aceitas": [
-            "Mogli"
+            "Mogli",
+            "O Livro da Selva",
+            "Livro da Selva"
           ],
           "traducoes": {
             "en": [
@@ -500,9 +556,18 @@
           "raridadeInicial": "incomum"
         },
         {
+          "id": "fantasia-2000",
+          "canonica": "Fantasia 2000",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
           "id": "aristogatas",
           "canonica": "Aristogatas",
-          "aceitas": [],
+          "aceitas": [
+            "Os Aristogatas"
+          ],
           "traducoes": {
             "en": [
               "The Aristocats"
@@ -560,7 +625,7 @@
               "Bichos"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "valente",
@@ -712,7 +777,7 @@
               "Vacas vaqueras"
             ]
           },
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "o-galinho-chicken-little",
@@ -841,7 +906,10 @@
         {
           "id": "bernardo-e-bianca",
           "canonica": "Bernardo e Bianca",
-          "aceitas": [],
+          "aceitas": [
+            "Bernardo e Bianca na Terra dos Cangurus",
+            "The Rescuers Down Under"
+          ],
           "traducoes": {
             "en": [
               "The Rescuers"
@@ -921,12 +989,79 @@
             ]
           },
           "raridadeInicial": "lendario"
+        },
+        {
+          "id": "ursinho-pooh",
+          "canonica": "Ursinho Pooh",
+          "aceitas": [
+            "Pooh",
+            "Winnie the Pooh",
+            "As Aventuras do Ursinho Pooh"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "alo-amigos",
+          "canonica": "Alô, Amigos",
+          "aceitas": [
+            "Saludos Amigos"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "voce-ja-foi-a-bahia",
+          "canonica": "Você Já Foi à Bahia?",
+          "aceitas": [
+            "Os Três Cavaleiros"
+          ],
+          "traducoes": {
+            "en": [
+              "The Three Caballeros"
+            ],
+            "es": [
+              "Los tres caballeros"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "as-aventuras-de-ichabod-e-sr-sapo",
+          "canonica": "As Aventuras de Ichabod e Sr. Sapo",
+          "aceitas": [
+            "Ichabod e Sr. Sapo"
+          ],
+          "traducoes": {
+            "en": [
+              "The Adventures of Ichabod and Mr. Toad"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "tempo-de-melodia",
+          "canonica": "Tempo de Melodia",
+          "aceitas": [
+            "Melody Time"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "musica-maestro",
+          "canonica": "Música, Maestro!",
+          "aceitas": [
+            "Make Mine Music"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
         }
       ]
     },
     {
       "id": "cin-personagens-marvel",
-      "texto": "Cite um personagem da Marvel (herói ou vilão)",
+      "texto": "Cite um personagem do universo Marvel (heróis e vilões)",
       "dificuldade": "facil",
       "tags": [
         "marvel",
@@ -956,7 +1091,8 @@
           "id": "homem-de-ferro",
           "canonica": "Homem de Ferro",
           "aceitas": [
-            "Tony Stark"
+            "Tony Stark",
+            "Ironman"
           ],
           "traducoes": {
             "en": [
@@ -1051,7 +1187,8 @@
           "canonica": "Doutor Estranho",
           "aceitas": [
             "Doutor Stephen Strange",
-            "Stephen Strange"
+            "Stephen Strange",
+            "Dr. Estranho"
           ],
           "traducoes": {
             "en": [
@@ -1184,7 +1321,7 @@
               "Mystique"
             ]
           },
-          "raridadeInicial": "comum"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "vampira",
@@ -1217,7 +1354,9 @@
         {
           "id": "fera",
           "canonica": "Fera",
-          "aceitas": [],
+          "aceitas": [
+            "Hank McCoy"
+          ],
           "traducoes": {
             "en": [
               "Beast"
@@ -1231,7 +1370,9 @@
         {
           "id": "homem-formiga",
           "canonica": "Homem-Formiga",
-          "aceitas": [],
+          "aceitas": [
+            "Antman"
+          ],
           "traducoes": {
             "en": [
               "Ant-Man"
@@ -1406,7 +1547,8 @@
           "canonica": "Senhor Fantástico",
           "aceitas": [
             "Reed Richards",
-            "Sr. Fantástico"
+            "Sr. Fantástico",
+            "Mr. Fantastic"
           ],
           "traducoes": {
             "en": [
@@ -1454,7 +1596,8 @@
           "id": "coisa",
           "canonica": "Coisa",
           "aceitas": [
-            "Ben Grimm"
+            "Ben Grimm",
+            "Thing"
           ],
           "traducoes": {
             "en": [
@@ -1470,7 +1613,8 @@
           "id": "doutor-destino",
           "canonica": "Doutor Destino",
           "aceitas": [
-            "Victor von Doom"
+            "Victor von Doom",
+            "Dr. Destino"
           ],
           "traducoes": {
             "en": [
@@ -1516,7 +1660,8 @@
           "id": "duende-verde",
           "canonica": "Duende Verde",
           "aceitas": [
-            "Norman Osborn"
+            "Norman Osborn",
+            "Duende"
           ],
           "traducoes": {
             "en": [
@@ -1596,7 +1741,9 @@
         {
           "id": "lagarto",
           "canonica": "Lagarto",
-          "aceitas": [],
+          "aceitas": [
+            "Curt Connors"
+          ],
           "traducoes": {
             "en": [
               "Lizard"
@@ -1673,7 +1820,7 @@
               "Puño de Hierro"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "epico"
         },
         {
           "id": "motoqueiro-fantasma",
@@ -1722,7 +1869,7 @@
           "canonica": "Nick Fury",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "shang-chi",
@@ -1860,7 +2007,7 @@
               "Dientes de Sable"
             ]
           },
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "valquiria",
@@ -1871,14 +2018,14 @@
               "Valkyrie"
             ]
           },
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "miles-morales",
           "canonica": "Miles Morales",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "mulher-aranha",
@@ -1894,7 +2041,7 @@
               "Mujer Araña"
             ]
           },
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "gwen-stacy",
@@ -1904,7 +2051,7 @@
             "Ghost-Spider"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "carnificina",
@@ -1919,12 +2066,317 @@
             ]
           },
           "raridadeInicial": "lendario"
+        },
+        {
+          "id": "kingpin",
+          "canonica": "Kingpin",
+          "aceitas": [
+            "Rei do Crime",
+            "Wilson Fisk"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "namor",
+          "canonica": "Namor",
+          "aceitas": [
+            "Príncipe Namor"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "maquina-de-combate",
+          "canonica": "Máquina de Combate",
+          "aceitas": [
+            "War Machine",
+            "James Rhodes",
+            "Rhodey"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pepper-potts",
+          "canonica": "Pepper Potts",
+          "aceitas": [
+            "Virginia Potts"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "odin",
+          "canonica": "Odin",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "wong",
+          "canonica": "Wong",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "shuri",
+          "canonica": "Shuri",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "okoye",
+          "canonica": "Okoye",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "killmonger",
+          "canonica": "Killmonger",
+          "aceitas": [
+            "Erik Killmonger"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "yondu",
+          "canonica": "Yondu",
+          "aceitas": [
+            "Yondu Udonta"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "ronan",
+          "canonica": "Ronan",
+          "aceitas": [
+            "Ronan, o Acusador"
+          ],
+          "traducoes": {
+            "en": [
+              "Ronan the Accuser"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "morbius",
+          "canonica": "Morbius",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "gata-negra",
+          "canonica": "Gata Negra",
+          "aceitas": [
+            "Felicia Hardy"
+          ],
+          "traducoes": {
+            "en": [
+              "Black Cat"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "madame-teia",
+          "canonica": "Madame Teia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Madame Web"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "abominavel",
+          "canonica": "Abominável",
+          "aceitas": [
+            "Abomination",
+            "Emil Blonsky"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "taskmaster",
+          "canonica": "Taskmaster",
+          "aceitas": [
+            "Treinador"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "zemo",
+          "canonica": "Zemo",
+          "aceitas": [
+            "Barão Zemo",
+            "Helmut Zemo"
+          ],
+          "traducoes": {
+            "en": [
+              "Baron Zemo"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "heimdall",
+          "canonica": "Heimdall",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "sif",
+          "canonica": "Sif",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "korg",
+          "canonica": "Korg",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "mephisto",
+          "canonica": "Mephisto",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "lince-negra",
+          "canonica": "Lince Negra",
+          "aceitas": [
+            "Kitty Pryde"
+          ],
+          "traducoes": {
+            "en": [
+              "Shadowcat"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "jubileu",
+          "canonica": "Jubileu",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Jubilee"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "bishop",
+          "canonica": "Bishop",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "arnim-zola",
+          "canonica": "Arnim Zola",
+          "aceitas": [
+            "Zola"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "ossos-cruzados",
+          "canonica": "Ossos Cruzados",
+          "aceitas": [
+            "Crossbones"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "maria-hill",
+          "canonica": "Maria Hill",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "phil-coulson",
+          "canonica": "Phil Coulson",
+          "aceitas": [
+            "Agente Coulson",
+            "Coulson"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "peggy-carter",
+          "canonica": "Peggy Carter",
+          "aceitas": [
+            "Agente Carter"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ego",
+          "canonica": "Ego",
+          "aceitas": [
+            "Ego, o Planeta Vivo"
+          ],
+          "traducoes": {
+            "en": [
+              "Ego the Living Planet"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "adam-warlock",
+          "canonica": "Adam Warlock",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "surtur",
+          "canonica": "Surtur",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "lider",
+          "canonica": "Líder",
+          "aceitas": [
+            "O Líder"
+          ],
+          "traducoes": {
+            "en": [
+              "The Leader"
+            ]
+          },
+          "raridadeInicial": "lendario"
         }
       ]
     },
     {
       "id": "cin-harry-potter",
-      "texto": "Cite um personagem do universo Harry Potter",
+      "texto": "Cite um personagem do mundo bruxo de Hogwarts (livros e filmes de J. K. Rowling)",
       "dificuldade": "media",
       "tags": [
         "harry potter",
@@ -2261,7 +2713,7 @@
               "Crookshanks"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "perebas",
@@ -2292,7 +2744,7 @@
             "Umbridge"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "gilderoy-lockhart",
@@ -2301,7 +2753,7 @@
             "Lockhart"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "quirino-quirrell",
@@ -2314,7 +2766,7 @@
               "Quirinus Quirrell"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "cedrico-diggory",
@@ -2328,14 +2780,14 @@
               "Cedric"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "cho-chang",
           "canonica": "Cho Chang",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "olho-tonto-moody",
@@ -2349,7 +2801,7 @@
               "Mad-Eye Moody"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "ninfadora-tonks",
@@ -2362,7 +2814,7 @@
               "Nymphadora Tonks"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "kingsley-shacklebolt",
@@ -2384,7 +2836,7 @@
               "Argus Filch"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "madame-pomfrey",
@@ -2432,7 +2884,7 @@
               "Sybill Trelawney"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "horacio-slughorn",
@@ -2641,7 +3093,7 @@
               "Seamus Finnigan"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "dino-thomas",
@@ -2652,7 +3104,7 @@
               "Dean Thomas"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "lila-brown",
@@ -2663,7 +3115,7 @@
               "Lavender Brown"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "olivaras",
@@ -2676,7 +3128,7 @@
               "Ollivander"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "fawkes",
@@ -2703,7 +3155,7 @@
               "Aragog"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "fofo",
@@ -2714,7 +3166,7 @@
               "Fluffy"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "grope",
@@ -2732,14 +3184,14 @@
           "canonica": "Winky",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "rita-skeeter",
           "canonica": "Rita Skeeter",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "xenofilio-lovegood",
@@ -2750,7 +3202,7 @@
               "Xenophilius Lovegood"
             ]
           },
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "mundungo-fletcher",
@@ -2761,7 +3213,7 @@
               "Mundungus Fletcher"
             ]
           },
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "fenrir-greyback",
@@ -2770,7 +3222,7 @@
             "Lobo Greyback"
           ],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "newt-scamander",
@@ -2797,7 +3249,7 @@
           "canonica": "Scorpius Malfoy",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "rufo-scrimgeour",
@@ -2808,6 +3260,293 @@
               "Rufus Scrimgeour"
             ]
           },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "padma-patil",
+          "canonica": "Padma Patil",
+          "aceitas": [
+            "Padma"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "parvati-patil",
+          "canonica": "Parvati Patil",
+          "aceitas": [
+            "Parvati"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "pansy-parkinson",
+          "canonica": "Pansy Parkinson",
+          "aceitas": [
+            "Pansy"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "blaise-zabini",
+          "canonica": "Blaise Zabini",
+          "aceitas": [
+            "Blaise"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "barao-sangrento",
+          "canonica": "Barão Sangrento",
+          "aceitas": [
+            "Bloody Baron"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "frei-gorducho",
+          "canonica": "Frei Gorducho",
+          "aceitas": [
+            "Fat Friar"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "dama-cinzenta",
+          "canonica": "Dama Cinzenta",
+          "aceitas": [
+            "Grey Lady",
+            "Helena Ravenclaw"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "igor-karkaroff",
+          "canonica": "Igor Karkaroff",
+          "aceitas": [
+            "Karkaroff"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "madame-maxime",
+          "canonica": "Madame Maxime",
+          "aceitas": [
+            "Olympe Maxime"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "madame-hooch",
+          "canonica": "Madame Hooch",
+          "aceitas": [
+            "Rolanda Hooch"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "firenze",
+          "canonica": "Firenze",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "nicolau-flamel",
+          "canonica": "Nicolau Flamel",
+          "aceitas": [
+            "Nicolas Flamel"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "teddy-lupin",
+          "canonica": "Teddy Lupin",
+          "aceitas": [
+            "Teddy"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tina-goldstein",
+          "canonica": "Tina Goldstein",
+          "aceitas": [
+            "Tina"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "queenie-goldstein",
+          "canonica": "Queenie Goldstein",
+          "aceitas": [
+            "Queenie"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "jacob-kowalski",
+          "canonica": "Jacob Kowalski",
+          "aceitas": [
+            "Jacob"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "credence-barebone",
+          "canonica": "Credence Barebone",
+          "aceitas": [
+            "Credence"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ludo-bagman",
+          "canonica": "Ludo Bagman",
+          "aceitas": [
+            "Bagman"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "oliver-wood",
+          "canonica": "Oliver Wood",
+          "aceitas": [
+            "Olívio Wood"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "angelina-johnson",
+          "canonica": "Angelina Johnson",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "katie-bell",
+          "canonica": "Katie Bell",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "marcus-flint",
+          "canonica": "Marcus Flint",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "hannah-abbott",
+          "canonica": "Hannah Abbott",
+          "aceitas": [
+            "Ana Abbott"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "susan-bones",
+          "canonica": "Susan Bones",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "justin-finch-fletchley",
+          "canonica": "Justin Finch-Fletchley",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "cormac-mclaggen",
+          "canonica": "Cormac McLaggen",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "marietta-edgecombe",
+          "canonica": "Marietta Edgecombe",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "bathilda-bagshot",
+          "canonica": "Bathilda Bagshot",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "griphook",
+          "canonica": "Griphook",
+          "aceitas": [
+            "Grampo"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "fang",
+          "canonica": "Fang",
+          "aceitas": [
+            "Canino"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "rose-weasley",
+          "canonica": "Rose Weasley",
+          "aceitas": [
+            "Rosa Weasley"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "hugo-weasley",
+          "canonica": "Hugo Weasley",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "tiago-sirius-potter",
+          "canonica": "Tiago Sirius Potter",
+          "aceitas": [
+            "James Sirius Potter"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "lilian-luna-potter",
+          "canonica": "Lílian Luna Potter",
+          "aceitas": [
+            "Lily Luna Potter"
+          ],
+          "traducoes": {},
           "raridadeInicial": "lendario"
         }
       ]
@@ -2947,14 +3686,17 @@
             "Qui-Gon"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "mace-windu",
           "canonica": "Mace Windu",
-          "aceitas": [],
+          "aceitas": [
+            "Mestre Windu",
+            "Windu"
+          ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "jabba-o-hutt",
@@ -2981,7 +3723,7 @@
           "canonica": "Jango Fett",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "lando-calrissian",
@@ -2990,7 +3732,7 @@
             "Lando"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "conde-dookan",
@@ -3008,14 +3750,14 @@
               "Conde Dooku"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "general-grievous",
           "canonica": "General Grievous",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "rey",
@@ -3031,14 +3773,14 @@
           "canonica": "Finn",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "poe-dameron",
           "canonica": "Poe Dameron",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "kylo-ren",
@@ -3098,7 +3840,7 @@
             "Andor"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "k-2so",
@@ -3178,14 +3920,14 @@
             "Tarkin"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "greedo",
           "canonica": "Greedo",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "watto",
@@ -3227,7 +3969,7 @@
           "canonica": "Hera Syndulla",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "epico"
         },
         {
           "id": "grande-almirante-thrawn",
@@ -3236,7 +3978,7 @@
             "Thrawn"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "moff-gideon",
@@ -3261,14 +4003,14 @@
             "Hux"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "rose-tico",
           "canonica": "Rose Tico",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "wedge-antilles",
@@ -3316,14 +4058,14 @@
           "canonica": "Bail Organa",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "shmi-skywalker",
           "canonica": "Shmi Skywalker",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "ewoks",
@@ -3342,7 +4084,7 @@
             "Soldado de assalto"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "jawas",
@@ -3351,7 +4093,7 @@
             "Jawa"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "tusken",
@@ -3365,21 +4107,409 @@
               "Sand People"
             ]
           },
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "qi-ra",
           "canonica": "Qi'ra",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "kanan-jarrah",
           "canonica": "Kanan Jarrah",
           "aceitas": [],
           "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "capitao-rex",
+          "canonica": "Capitão Rex",
+          "aceitas": [
+            "Rex",
+            "Captain Rex"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "kit-fisto",
+          "canonica": "Kit Fisto",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "plo-koon",
+          "canonica": "Plo Koon",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "aayla-secura",
+          "canonica": "Aayla Secura",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ki-adi-mundi",
+          "canonica": "Ki-Adi-Mundi",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "asajj-ventress",
+          "canonica": "Asajj Ventress",
+          "aceitas": [
+            "Ventress"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "nute-gunray",
+          "canonica": "Nute Gunray",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "darth-plagueis",
+          "canonica": "Darth Plagueis",
+          "aceitas": [
+            "Plagueis"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "bossk",
+          "canonica": "Bossk",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "porgs",
+          "canonica": "Porgs",
+          "aceitas": [
+            "Porg"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "wampa",
+          "canonica": "Wampa",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "rancor",
+          "canonica": "Rancor",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cara-dune",
+          "canonica": "Cara Dune",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "greef-karga",
+          "canonica": "Greef Karga",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "fennec-shand",
+          "canonica": "Fennec Shand",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ig-11",
+          "canonica": "IG-11",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "luthen-rael",
+          "canonica": "Luthen Rael",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "dengar",
+          "canonica": "Dengar",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ig-88",
+          "canonica": "IG-88",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "zeb-orrelios",
+          "canonica": "Zeb Orrelios",
+          "aceitas": [
+            "Zeb"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "grande-inquisidor",
+          "canonica": "Grande Inquisidor",
+          "aceitas": [
+            "Grand Inquisitor"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "yaddle",
+          "canonica": "Yaddle",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "luminara-unduli",
+          "canonica": "Luminara Unduli",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "shaak-ti",
+          "canonica": "Shaak Ti",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "darth-bane",
+          "canonica": "Darth Bane",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "darth-revan",
+          "canonica": "Darth Revan",
+          "aceitas": [
+            "Revan"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "comandante-cody",
+          "canonica": "Comandante Cody",
+          "aceitas": [
+            "Cody"
+          ],
+          "traducoes": {
+            "en": [
+              "Commander Cody"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "echo",
+          "canonica": "Echo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "fives",
+          "canonica": "Fives",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "lobot",
+          "canonica": "Lobot",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "almirante-piett",
+          "canonica": "Almirante Piett",
+          "aceitas": [
+            "Piett"
+          ],
+          "traducoes": {
+            "en": [
+              "Admiral Piett"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "general-veers",
+          "canonica": "General Veers",
+          "aceitas": [
+            "Veers"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "bib-fortuna",
+          "canonica": "Bib Fortuna",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "salacious-crumb",
+          "canonica": "Salacious Crumb",
+          "aceitas": [],
+          "traducoes": {},
           "raridadeInicial": "lendario"
+        },
+        {
+          "id": "max-rebo",
+          "canonica": "Max Rebo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "lor-san-tekka",
+          "canonica": "Lor San Tekka",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "unkar-plutt",
+          "canonica": "Unkar Plutt",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "zorii-bliss",
+          "canonica": "Zorii Bliss",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "vice-almirante-holdo",
+          "canonica": "Vice-Almirante Holdo",
+          "aceitas": [
+            "Holdo",
+            "Amilyn Holdo"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "dryden-vos",
+          "canonica": "Dryden Vos",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "tobias-beckett",
+          "canonica": "Tobias Beckett",
+          "aceitas": [
+            "Beckett"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "l3-37",
+          "canonica": "L3-37",
+          "aceitas": [
+            "L3"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "kuiil",
+          "canonica": "Kuiil",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "a-armeira",
+          "canonica": "A Armeira",
+          "aceitas": [
+            "The Armorer"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "babu-frik",
+          "canonica": "Babu Frik",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "reva",
+          "canonica": "Reva",
+          "aceitas": [
+            "Terceira Irmã"
+          ],
+          "traducoes": {
+            "en": [
+              "Third Sister"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "agente-kallus",
+          "canonica": "Agente Kallus",
+          "aceitas": [
+            "Kallus"
+          ],
+          "traducoes": {
+            "en": [
+              "Agent Kallus"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "chopper",
+          "canonica": "Chopper",
+          "aceitas": [
+            "C1-10P"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
         }
       ]
     },
@@ -3444,7 +4574,8 @@
           "aceitas": [
             "Abe Simpson",
             "Abraham Simpson",
-            "Vovô Abe"
+            "Vovô Abe",
+            "Grampa"
           ],
           "traducoes": {
             "en": [
@@ -3489,7 +4620,8 @@
           "canonica": "Sr. Burns",
           "aceitas": [
             "Montgomery Burns",
-            "Burns"
+            "Burns",
+            "Mister Burns"
           ],
           "traducoes": {
             "en": [
@@ -3589,9 +4721,12 @@
         {
           "id": "edna-krabappel",
           "canonica": "Edna Krabappel",
-          "aceitas": [],
+          "aceitas": [
+            "Professora Edna",
+            "Edna"
+          ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "barney-gumble",
@@ -3609,7 +4744,7 @@
             "Lenny"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "carl-carlson",
@@ -3618,7 +4753,7 @@
             "Carl"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "otto-mann",
@@ -3728,7 +4863,7 @@
           "canonica": "Troy McClure",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "lionel-hutz",
@@ -3798,14 +4933,14 @@
           "canonica": "Kearney",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "dolph",
           "canonica": "Dolph",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "bola-de-neve",
@@ -3900,21 +5035,21 @@
           "canonica": "Luann Van Houten",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "kirk-van-houten",
           "canonica": "Kirk Van Houten",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "agnes-skinner",
           "canonica": "Agnes Skinner",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "rod-flanders",
@@ -3941,7 +5076,7 @@
             "Maude"
           ],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "gil",
@@ -3950,14 +5085,14 @@
             "Gil Gunderson"
           ],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "disco-stu",
           "canonica": "Disco Stu",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "bumblebee-man",
@@ -3966,7 +5101,160 @@
             "Homem-Abelha"
           ],
           "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "prefeito-quimby",
+          "canonica": "Prefeito Quimby",
+          "aceitas": [
+            "Joe Quimby",
+            "Mayor Quimby"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "rainier-wolfcastle",
+          "canonica": "Rainier Wolfcastle",
+          "aceitas": [
+            "McBain",
+            "Wolfcastle"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "jasper-beardly",
+          "canonica": "Jasper Beardly",
+          "aceitas": [
+            "Jasper"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "superintendente-chalmers",
+          "canonica": "Superintendente Chalmers",
+          "aceitas": [
+            "Chalmers"
+          ],
+          "traducoes": {
+            "en": [
+              "Superintendent Chalmers"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "lou",
+          "canonica": "Lou",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "eddie",
+          "canonica": "Eddie",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "jacqueline-bouvier",
+          "canonica": "Jacqueline Bouvier",
+          "aceitas": [
+            "Jacqueline"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "poochie",
+          "canonica": "Poochie",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "artie-ziff",
+          "canonica": "Artie Ziff",
+          "aceitas": [],
+          "traducoes": {},
           "raridadeInicial": "epico"
+        },
+        {
+          "id": "dr-marvin-monroe",
+          "canonica": "Dr. Marvin Monroe",
+          "aceitas": [
+            "Marvin Monroe"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "ruth-powers",
+          "canonica": "Ruth Powers",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "sr-largo",
+          "canonica": "Sr. Largo",
+          "aceitas": [
+            "Mr. Largo"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "homem-radioativo",
+          "canonica": "Homem Radioativo",
+          "aceitas": [
+            "Radioactive Man"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "louca-dos-gatos",
+          "canonica": "Louca dos Gatos",
+          "aceitas": [
+            "Mulher dos Gatos"
+          ],
+          "traducoes": {
+            "en": [
+              "Crazy Cat Lady"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "hyman-krustofski",
+          "canonica": "Hyman Krustofski",
+          "aceitas": [
+            "Rabino Krustofski"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "cecil-terwilliger",
+          "canonica": "Cecil Terwilliger",
+          "aceitas": [
+            "Cecil"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "mel",
+          "canonica": "Mel",
+          "aceitas": [
+            "Sideshow Mel"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
         }
       ]
     },
@@ -4172,7 +5460,7 @@
           "canonica": "Sex and the City",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "seinfeld",
@@ -4202,7 +5490,7 @@
           "canonica": "Dark",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "wandinha",
@@ -4244,14 +5532,14 @@
           "canonica": "Bridgerton",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "the-last-of-us",
           "canonica": "The Last of Us",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "succession",
@@ -4272,14 +5560,14 @@
           "canonica": "Peaky Blinders",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "vikings",
           "canonica": "Vikings",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "supernatural",
@@ -4288,14 +5576,14 @@
             "Sobrenatural"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "gossip-girl",
           "canonica": "Gossip Girl",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "glee",
@@ -4330,14 +5618,14 @@
           "canonica": "Black Mirror",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "modern-family",
           "canonica": "Modern Family",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "arquivo-x",
@@ -4351,7 +5639,7 @@
               "Expediente X"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "twin-peaks",
@@ -4385,7 +5673,7 @@
           "canonica": "Smallville",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "desperate-housewives",
@@ -4398,21 +5686,21 @@
               "Mujeres desesperadas"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "elite",
           "canonica": "Elite",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "narcos",
           "canonica": "Narcos",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "the-mandalorian",
@@ -4421,21 +5709,21 @@
             "O Mandaloriano"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "the-boys",
           "canonica": "The Boys",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "euphoria",
           "canonica": "Euphoria",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "13-reasons-why",
@@ -4522,14 +5810,14 @@
               "Separación"
             ]
           },
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "mad-men",
           "canonica": "Mad Men",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "eu-a-patroa-e-as-criancas",
@@ -4540,7 +5828,7 @@
               "My Wife and Kids"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "anos-incriveis",
@@ -4568,7 +5856,7 @@
               "Dinosaurios"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "tres-e-demais",
@@ -4579,7 +5867,7 @@
               "Full House"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "barrados-no-baile",
@@ -4593,7 +5881,7 @@
               "Sensación de vivir"
             ]
           },
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "er-plantao-medico",
@@ -4609,25 +5897,678 @@
               "Urgencias"
             ]
           },
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "the-good-doctor",
           "canonica": "The Good Doctor",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "bates-motel",
           "canonica": "Bates Motel",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "outlander",
           "canonica": "Outlander",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "os-simpsons",
+          "canonica": "Os Simpsons",
+          "aceitas": [
+            "Simpsons"
+          ],
+          "traducoes": {
+            "en": [
+              "The Simpsons"
+            ],
+            "es": [
+              "Los Simpson"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "the-vampire-diaries",
+          "canonica": "The Vampire Diaries",
+          "aceitas": [
+            "Diários de um Vampiro"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pretty-little-liars",
+          "canonica": "Pretty Little Liars",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "teen-wolf",
+          "canonica": "Teen Wolf",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "orange-is-the-new-black",
+          "canonica": "Orange Is the New Black",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "house-of-cards",
+          "canonica": "House of Cards",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "ozark",
+          "canonica": "Ozark",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cobra-kai",
+          "canonica": "Cobra Kai",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "mr-bean",
+          "canonica": "Mr. Bean",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "scrubs",
+          "canonica": "Scrubs",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "brooklyn-nine-nine",
+          "canonica": "Brooklyn Nine-Nine",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "malcolm",
+          "canonica": "Malcolm",
+          "aceitas": [
+            "Malcolm in the Middle",
+            "Malcolm, o do Meio"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "criminal-minds",
+          "canonica": "Criminal Minds",
+          "aceitas": [
+            "Mentes Criminosas"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "csi",
+          "canonica": "CSI",
+          "aceitas": [
+            "CSI: Investigação Criminal"
+          ],
+          "traducoes": {
+            "en": [
+              "CSI: Crime Scene Investigation"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "charmed",
+          "canonica": "Charmed",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "buffy-a-caca-vampiros",
+          "canonica": "Buffy, a Caça-Vampiros",
+          "aceitas": [
+            "Buffy"
+          ],
+          "traducoes": {
+            "en": [
+              "Buffy the Vampire Slayer"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "the-flash",
+          "canonica": "The Flash",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "arrow",
+          "canonica": "Arrow",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "rick-and-morty",
+          "canonica": "Rick and Morty",
+          "aceitas": [
+            "Rick e Morty"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "south-park",
+          "canonica": "South Park",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "family-guy",
+          "canonica": "Family Guy",
+          "aceitas": [
+            "Uma Família da Pesada"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "emily-in-paris",
+          "canonica": "Emily in Paris",
+          "aceitas": [
+            "Emily em Paris"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "sex-education",
+          "canonica": "Sex Education",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "the-umbrella-academy",
+          "canonica": "The Umbrella Academy",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "lupin",
+          "canonica": "Lupin",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "wandavision",
+          "canonica": "WandaVision",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "loki",
+          "canonica": "Loki",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "o-conto-da-aia",
+          "canonica": "O Conto da Aia",
+          "aceitas": [
+            "The Handmaid's Tale"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "westworld",
+          "canonica": "Westworld",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "chernobyl",
+          "canonica": "Chernobyl",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "band-of-brothers",
+          "canonica": "Band of Brothers",
+          "aceitas": [
+            "Irmãos de Guerra"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "true-detective",
+          "canonica": "True Detective",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "fargo",
+          "canonica": "Fargo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "o-show-dos-anos-70",
+          "canonica": "O Show dos Anos 70",
+          "aceitas": [
+            "That '70s Show"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "parks-and-recreation",
+          "canonica": "Parks and Recreation",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "community",
+          "canonica": "Community",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "new-girl",
+          "canonica": "New Girl",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cheers",
+          "canonica": "Cheers",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "frasier",
+          "canonica": "Frasier",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "sos-malibu",
+          "canonica": "SOS Malibu",
+          "aceitas": [
+            "Baywatch"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "macgyver",
+          "canonica": "MacGyver",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "a-super-maquina",
+          "canonica": "A Super Máquina",
+          "aceitas": [
+            "Knight Rider"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "esquadrao-classe-a",
+          "canonica": "Esquadrão Classe A",
+          "aceitas": [
+            "The A-Team"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "miami-vice",
+          "canonica": "Miami Vice",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "dallas",
+          "canonica": "Dallas",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ncis",
+          "canonica": "NCIS",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "monk",
+          "canonica": "Monk",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "the-mentalist",
+          "canonica": "The Mentalist",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "once-upon-a-time",
+          "canonica": "Once Upon a Time",
+          "aceitas": [
+            "Era Uma Vez"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "grimm",
+          "canonica": "Grimm",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "chuck",
+          "canonica": "Chuck",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "shameless",
+          "canonica": "Shameless",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "mr-robot",
+          "canonica": "Mr. Robot",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "fringe",
+          "canonica": "Fringe",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "homeland",
+          "canonica": "Homeland",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "the-wire",
+          "canonica": "The Wire",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "boardwalk-empire",
+          "canonica": "Boardwalk Empire",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "six-feet-under",
+          "canonica": "Six Feet Under",
+          "aceitas": [
+            "A Sete Palmos"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "the-west-wing",
+          "canonica": "The West Wing",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "battlestar-galactica",
+          "canonica": "Battlestar Galactica",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "firefly",
+          "canonica": "Firefly",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "star-trek",
+          "canonica": "Star Trek",
+          "aceitas": [
+            "Jornada nas Estrelas"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "stargate-sg-1",
+          "canonica": "Stargate SG-1",
+          "aceitas": [
+            "Stargate"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "the-expanse",
+          "canonica": "The Expanse",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "andor",
+          "canonica": "Andor",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "fallout",
+          "canonica": "Fallout",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "shogun",
+          "canonica": "Shogun",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "reacher",
+          "canonica": "Reacher",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "yellowstone",
+          "canonica": "Yellowstone",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "mindhunter",
+          "canonica": "Mindhunter",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "the-leftovers",
+          "canonica": "The Leftovers",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "fleabag",
+          "canonica": "Fleabag",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "downton-abbey",
+          "canonica": "Downton Abbey",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "black-sails",
+          "canonica": "Black Sails",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "spartacus",
+          "canonica": "Spartacus",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "roma",
+          "canonica": "Roma",
+          "aceitas": [
+            "Rome"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "merlin",
+          "canonica": "Merlin",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "skins",
+          "canonica": "Skins",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "the-it-crowd",
+          "canonica": "The IT Crowd",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "fawlty-towers",
+          "canonica": "Fawlty Towers",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "monty-python-s-flying-circus",
+          "canonica": "Monty Python's Flying Circus",
+          "aceitas": [
+            "Monty Python"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "blackadder",
+          "canonica": "Blackadder",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "babylon-5",
+          "canonica": "Babylon 5",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "farscape",
+          "canonica": "Farscape",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "deadwood",
+          "canonica": "Deadwood",
           "aceitas": [],
           "traducoes": {},
           "raridadeInicial": "lendario"

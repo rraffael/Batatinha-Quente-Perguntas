@@ -1,0 +1,271 @@
+== mit-deuses-gregos    # Cite um deus, deusa ou titã da mitologia grega
++ Métis |  |  |  | e | https://pt.wikipedia.org/wiki/M%C3%A9tis    # profunda
++ Teia | Theia |  | Tía | l | https://pt.wikipedia.org/wiki/Teia_(mitologia)    # profunda
++ Éter |  | Aether |  | l | https://pt.wikipedia.org/wiki/%C3%89ter_(mitologia)    # profunda
++ Hemera |  |  |  | l | https://pt.wikipedia.org/wiki/Hemera    # profunda
++ Pontos | Ponto | Pontus |  | l | https://pt.wikipedia.org/wiki/Ponto_(mitologia)    # profunda
++ Ananque |  | Ananke |  | l | https://pt.wikipedia.org/wiki/Ananque    # profunda
++ Zéfiro |  | Zephyrus | Céfiro | e | https://pt.wikipedia.org/wiki/Z%C3%A9firo    # profunda
++ Bóreas |  |  |  | e | https://pt.wikipedia.org/wiki/B%C3%B3reas    # profunda
++ Cratos |  | Kratos |  | e | https://pt.wikipedia.org/wiki/Cratos    # profunda
++ Bia |  |  |  | l | https://pt.wikipedia.org/wiki/Bia_(mitologia)    # profunda
++ Zelo |  | Zelus |  | l | https://pt.wikipedia.org/wiki/Zelo_(mitologia)    # profunda
++ Cloto |  | Clotho |  | e | https://pt.wikipedia.org/wiki/Cloto    # profunda
++ Láquesis |  | Lachesis |  | e | https://pt.wikipedia.org/wiki/L%C3%A1quesis    # profunda
++ Átropos |  |  |  | e | https://pt.wikipedia.org/wiki/%C3%81tropos    # profunda
++ Aglaia |  | Aglaea |  | l | https://pt.wikipedia.org/wiki/Aglaia    # profunda
++ Eufrosine |  | Euphrosyne |  | l | https://pt.wikipedia.org/wiki/Eufrosine    # profunda
++ Tália |  | Thalia |  | e | https://pt.wikipedia.org/wiki/T%C3%A1lia    # profunda
++ Calíope |  | Calliope |  | e | https://pt.wikipedia.org/wiki/Cal%C3%ADope    # profunda
++ Clio |  |  |  | e | https://pt.wikipedia.org/wiki/Clio    # profunda
++ Érato |  |  |  | l | https://pt.wikipedia.org/wiki/%C3%89rato    # profunda
++ Euterpe |  |  |  | l | https://pt.wikipedia.org/wiki/Euterpe    # profunda
++ Melpômene |  |  |  | l | https://pt.wikipedia.org/wiki/Melp%C3%B4mene    # profunda
++ Polímnia |  | Polyhymnia |  | l | https://pt.wikipedia.org/wiki/Pol%C3%ADmnia    # profunda
++ Terpsícore |  | Terpsichore |  | l | https://pt.wikipedia.org/wiki/Terps%C3%ADcore    # profunda
++ Urânia |  |  |  | l | https://pt.wikipedia.org/wiki/Ur%C3%A2nia    # profunda
++ Ilítia |  | Eileithyia |  | l | https://pt.wikipedia.org/wiki/Il%C3%ADtia    # profunda
++ Hímen | Himeneu | Hymen | Himeneo | l | https://pt.wikipedia.org/wiki/H%C3%ADmen    # profunda
++ Higeia | Hígia | Hygieia |  | e | https://pt.wikipedia.org/wiki/Higeia    # profunda
++ Panaceia |  | Panacea |  | l | https://pt.wikipedia.org/wiki/Panaceia_(mitologia)    # profunda
++ Priapo |  | Priapus |  | e | https://pt.wikipedia.org/wiki/Priapo    # profunda
++ Oneiros |  |  |  | l | https://pt.wikipedia.org/wiki/Oneiros    # profunda
++ Estige |  | Styx | Estigia | l | https://pt.wikipedia.org/wiki/Estige_(mitologia)    # profunda
++ Glauco |  | Glaucus |  | l | https://pt.wikipedia.org/wiki/Glauco_(mitologia)    # profunda
++ Aqueloo |  | Achelous |  | l | https://pt.wikipedia.org/wiki/Aqueloo    # profunda
++ Aristeu |  | Aristaeus |  | l | https://pt.wikipedia.org/wiki/Aristeu    # profunda
++ Dione |  |  |  | l | https://pt.wikipedia.org/wiki/Dione_(mitologia)    # profunda
++ Ceto |  |  |  | l | https://pt.wikipedia.org/wiki/Ceto_(mitologia)    # profunda
++ Fórcis |  | Phorcys |  | l | https://pt.wikipedia.org/wiki/F%C3%B3rcis    # profunda
++ Menécio | Menoécio | Menoetius |  | l | https://pt.wikipedia.org/wiki/Men%C3%A9cio    # listas
++ Astéria |  |  |  | l | https://pt.wikipedia.org/wiki/Ast%C3%A9ria    # listas
++ Astreu |  | Astraeus |  | l | https://pt.wikipedia.org/wiki/Astreu    # listas
++ Palas |  | Pallas |  | l | https://pt.wikipedia.org/wiki/Palas_(tit%C3%A3)    # listas
++ Perses |  |  |  | l | https://pt.wikipedia.org/wiki/Perses_(tit%C3%A3)    # listas
+- Hades | Plutão | https://pt.wikipedia.org/wiki/Hades    # generica  # REJ: Plutão é o nome romano (pergunta é grega)
+
+== mit-deuses-romanos    # Cite um deus ou deusa da mitologia romana
++ Esculápio |  | Aesculapius |  | r | https://pt.wikipedia.org/wiki/Asclepius    # generica
++ Cibele | Magna Mater | Cybele | Cibeles | r | https://pt.wikipedia.org/wiki/Cibele    # generica
++ Ops | Ópis |  |  | e | https://pt.wikipedia.org/wiki/Ops    # profunda
++ Juventas | Juventa |  |  | l | https://pt.wikipedia.org/wiki/Juventas    # profunda
++ Bona Dea | Boa Deusa |  |  | e | https://pt.wikipedia.org/wiki/Bona_Dea    # profunda
++ Salus |  |  |  | l | https://pt.wikipedia.org/wiki/Salus    # profunda
++ Fides |  |  |  | l | https://pt.wikipedia.org/wiki/Fides_(mitologia)    # profunda
++ Spes | Esperança |  |  | l | https://pt.wikipedia.org/wiki/Spes    # profunda
++ Libitina |  |  |  | l | https://pt.wikipedia.org/wiki/Libitina    # profunda
++ Carna |  |  |  | l | https://pt.wikipedia.org/wiki/Carna    # profunda
++ Consus |  |  |  | l | https://pt.wikipedia.org/wiki/Consus    # profunda
++ Robigus |  |  |  | l | https://pt.wikipedia.org/wiki/Robigus    # profunda
++ Honos | Honor |  |  | l | https://pt.wikipedia.org/wiki/Honos    # profunda
++ Virtus |  |  |  | l | https://pt.wikipedia.org/wiki/Virtus_(mitologia)    # profunda
++ Discórdia |  |  |  | e | https://pt.wikipedia.org/wiki/Disc%C3%B3rdia    # profunda
++ Nox | Noite |  |  | e | https://pt.wikipedia.org/wiki/Nox_(mitologia)    # profunda
+~ Cupido | Amor | https://pt.wikipedia.org/wiki/Cupido    # generica
+~ Plutão | Dis Pater | https://pt.wikipedia.org/wiki/Dis_Pater    # profunda
+~ Júpiter | Jove | https://pt.wikipedia.org/wiki/J%C3%BApiter_(mitologia)    # profunda
+
+== mit-nordica    # Cite um deus ou ser da mitologia nórdica
++ Aesir | Ases |  |  | i | https://pt.wikipedia.org/wiki/Aesir    # generica
++ Vanir | Vanes |  |  | r | https://pt.wikipedia.org/wiki/Vanir    # generica
++ Draugr | |  |  | r | https://pt.wikipedia.org/wiki/Draugr    # generica
++ Fafnir |  |  |  | r | https://pt.wikipedia.org/wiki/Fafnir    # generica
++ Magni |  |  |  | e | https://pt.wikipedia.org/wiki/Magni_e_M%C3%B3%C3%B0i    # generica
++ Modi | |  |  | e | https://pt.wikipedia.org/wiki/Magni_e_M%C3%B3%C3%B0i    # generica
++ Garm | Garmr |  |  | e | https://pt.wikipedia.org/wiki/Garm    # generica
++ Angrboda | Angrboða |  |  | e | https://pt.wikipedia.org/wiki/Angrboda    # generica
++ Skuld |  |  |  | e | https://pt.wikipedia.org/wiki/Nornas    # profunda
++ Urd | Urdr;Urðr |  |  | e | https://pt.wikipedia.org/wiki/Nornas    # profunda
++ Verdandi | Verðandi |  |  | e | https://pt.wikipedia.org/wiki/Nornas    # profunda
++ Buri |  |  |  | l | https://pt.wikipedia.org/wiki/B%C3%BAri    # profunda
++ Bor | Borr |  |  | l | https://pt.wikipedia.org/wiki/Borr    # profunda
++ Bestla |  |  |  | l | https://pt.wikipedia.org/wiki/Bestla    # profunda
++ Vili | |  |  | l | https://pt.wikipedia.org/wiki/Vili_e_V%C3%A9    # profunda
++ Ve |  |  |  | l | https://pt.wikipedia.org/wiki/Vili_e_V%C3%A9    # profunda
++ Audhumbla | Audhumla;Auðumbla |  |  | l | https://pt.wikipedia.org/wiki/Audhumbla    # profunda
++ Thrud | Þrúðr;Thrudr |  |  | l | https://pt.wikipedia.org/wiki/%C3%9Er%C3%BA%C3%B0r    # profunda
++ Gullveig |  |  |  | l | https://pt.wikipedia.org/wiki/Gullveig    # profunda
++ Hrungnir |  |  |  | l | https://pt.wikipedia.org/wiki/Hrungnir    # profunda
++ Thrym | Þrymr;Trym |  |  | l | https://pt.wikipedia.org/wiki/%C3%9Erymr    # profunda
++ Svadilfari | Svaðilfari |  |  | l | https://pt.wikipedia.org/wiki/Sva%C3%B0ilfari    # profunda
++ Gullinbursti |  |  |  | l | https://pt.wikipedia.org/wiki/Gullinbursti    # profunda
++ Fulla |  |  |  | l | https://pt.wikipedia.org/wiki/Fulla    # profunda
++ Hoenir | Hœnir;Hönir |  |  | l | https://pt.wikipedia.org/wiki/H%C5%93nir    # profunda
++ Sol |  |  |  | l | https://pt.wikipedia.org/wiki/S%C3%B3l_(mitologia_n%C3%B3rdica)    # profunda
++ Mani |  |  |  | l | https://pt.wikipedia.org/wiki/M%C3%A1ni    # profunda
++ Nott |  |  |  | l | https://pt.wikipedia.org/wiki/N%C3%B3tt    # profunda
++ Thjazi | Þjazi;Tiazi |  |  | l | https://pt.wikipedia.org/wiki/%C3%9Ejazi    # profunda
++ Hraesvelg | Hræsvelgr | Hraesvelgr |  | l | https://pt.wikipedia.org/wiki/Hr%C3%A6svelgr    # profunda
+~ Huginn | Hugin | https://pt.wikipedia.org/wiki/Huginn_e_Muninn    # generica
+~ Muninn | Munin | https://pt.wikipedia.org/wiki/Huginn_e_Muninn    # generica
+~ Heimdall | Heimdallr | https://pt.wikipedia.org/wiki/Heimdall    # generica
+~ Freyr | Frey | https://pt.wikipedia.org/wiki/Freyr    # generica
+~ Idun | Iðunn;Idunn | https://pt.wikipedia.org/wiki/Idun    # generica
+~ Skadi | Skaði | https://pt.wikipedia.org/wiki/Skadi    # generica
+~ Ratatoskr | Ratatosk | https://pt.wikipedia.org/wiki/Ratatoskr    # generica
+~ Gigantes de gelo | Jotun;Gigantes de Jotunheim | https://pt.wikipedia.org/wiki/J%C3%B6tunn    # generica
+~ Ymir | Aurgelmir | https://pt.wikipedia.org/wiki/Ymir    # profunda
+~ Elfos | Alfar | https://pt.wikipedia.org/wiki/%C3%81lfar    # profunda
+~ Anões | Dvergar | https://pt.wikipedia.org/wiki/An%C3%B5es_(mitologia_n%C3%B3rdica)    # profunda
+
+== mit-livros-biblia    # Cite um livro da Bíblia
+~ Mateus | Evangelho de Mateus;Evangelho segundo Mateus | https://pt.wikipedia.org/wiki/Evangelho_de_Mateus    # generica
+~ Marcos | Evangelho de Marcos;Evangelho segundo Marcos | https://pt.wikipedia.org/wiki/Evangelho_de_Marcos    # generica
+~ Lucas | Evangelho de Lucas;Evangelho segundo Lucas | https://pt.wikipedia.org/wiki/Evangelho_de_Lucas    # generica
+~ Apocalipse | Apocalipse de João;Revelação;Revelações | https://pt.wikipedia.org/wiki/Apocalipse_de_Jo%C3%A3o    # generica
+~ Salmos | Livro dos Salmos | https://pt.wikipedia.org/wiki/Livro_dos_Salmos    # generica,profunda
+~ Cântico dos Cânticos | Cantar dos Cantares;Cântico de Salomão;Cantares de Salomão | https://pt.wikipedia.org/wiki/C%C3%A2ntico_dos_C%C3%A2nticos    # generica,profunda
+~ Lamentações | Lamentações de Jeremias | https://pt.wikipedia.org/wiki/Livro_das_Lamenta%C3%A7%C3%B5es    # generica
+~ Romanos | Carta aos Romanos;Epístola aos Romanos | https://pt.wikipedia.org/wiki/Ep%C3%ADstola_aos_Romanos    # generica
+~ Gálatas | Carta aos Gálatas;Epístola aos Gálatas | https://pt.wikipedia.org/wiki/Ep%C3%ADstola_aos_G%C3%A1latas    # generica
+~ Efésios | Carta aos Efésios;Epístola aos Efésios | https://pt.wikipedia.org/wiki/Ep%C3%ADstola_aos_Ef%C3%A9sios    # generica
+~ Filipenses | Carta aos Filipenses;Epístola aos Filipenses | https://pt.wikipedia.org/wiki/Ep%C3%ADstola_aos_Filipenses    # generica
+~ Colossenses | Carta aos Colossenses;Epístola aos Colossenses | https://pt.wikipedia.org/wiki/Ep%C3%ADstola_aos_Colossenses    # generica
+~ Hebreus | Carta aos Hebreus;Epístola aos Hebreus | https://pt.wikipedia.org/wiki/Ep%C3%ADstola_aos_Hebreus    # generica
+~ Filemom | Carta a Filemom;Epístola a Filemom | https://pt.wikipedia.org/wiki/Ep%C3%ADstola_a_Filemom    # generica
+~ Tito | Carta a Tito;Epístola a Tito | https://pt.wikipedia.org/wiki/Ep%C3%ADstola_a_Tito    # generica
+~ 1 Coríntios | Primeira Carta aos Coríntios;Primeira Epístola aos Coríntios | https://pt.wikipedia.org/wiki/Primeira_Ep%C3%ADstola_aos_Cor%C3%ADntios    # generica
+~ 2 Coríntios | Segunda Carta aos Coríntios;Segunda Epístola aos Coríntios | https://pt.wikipedia.org/wiki/Segunda_Ep%C3%ADstola_aos_Cor%C3%ADntios    # generica
+~ 1 Tessalonicenses | Primeira Carta aos Tessalonicenses;Primeira Epístola aos Tessalonicenses | https://pt.wikipedia.org/wiki/Primeira_Ep%C3%ADstola_aos_Tessalonicenses    # generica
+~ 2 Tessalonicenses | Segunda Carta aos Tessalonicenses;Segunda Epístola aos Tessalonicenses | https://pt.wikipedia.org/wiki/Segunda_Ep%C3%ADstola_aos_Tessalonicenses    # generica
+~ 1 Timóteo | Primeira Carta a Timóteo;Primeira Epístola a Timóteo | https://pt.wikipedia.org/wiki/Primeira_Ep%C3%ADstola_a_Tim%C3%B3teo    # generica
+~ 2 Timóteo | Segunda Carta a Timóteo;Segunda Epístola a Timóteo | https://pt.wikipedia.org/wiki/Segunda_Ep%C3%ADstola_a_Tim%C3%B3teo    # generica
+~ Tiago | Carta de Tiago;Epístola de Tiago | https://pt.wikipedia.org/wiki/Ep%C3%ADstola_de_Tiago    # generica
+~ 1 Pedro | Primeira Carta de Pedro;Primeira Epístola de Pedro | https://pt.wikipedia.org/wiki/Primeira_Ep%C3%ADstola_de_Pedro    # generica
+~ 2 Pedro | Segunda Carta de Pedro;Segunda Epístola de Pedro | https://pt.wikipedia.org/wiki/Segunda_Ep%C3%ADstola_de_Pedro    # generica
+~ 1 João | Primeira Carta de João;Primeira Epístola de João | https://pt.wikipedia.org/wiki/Primeira_Ep%C3%ADstola_de_Jo%C3%A3o    # generica
+~ Judas | Carta de Judas;Epístola de Judas | https://pt.wikipedia.org/wiki/Ep%C3%ADstola_de_Judas    # generica
+~ Sabedoria | Sabedoria de Salomão | https://pt.wikipedia.org/wiki/Livro_da_Sabedoria    # generica
+- Gênesis | Bereshit | https://pt.wikipedia.org/wiki/G%C3%AAnesis    # profunda  # REJ: nome hebraico que jogador não digita
+- Êxodo | Shemot | https://pt.wikipedia.org/wiki/%C3%8Axodo    # profunda  # REJ: nome hebraico que jogador não digita
+- Levítico | Vaicra;Vayikra | https://pt.wikipedia.org/wiki/Lev%C3%ADtico    # profunda  # REJ: nome hebraico que jogador não digita
+- Números | Bamidbar | https://pt.wikipedia.org/wiki/N%C3%BAmeros_(livro)    # profunda  # REJ: nome hebraico que jogador não digita
+- Deuteronômio | Devarim | https://pt.wikipedia.org/wiki/Deuteron%C3%B4mio    # profunda  # REJ: nome hebraico que jogador não digita
+- Provérbios | Mishlei | https://pt.wikipedia.org/wiki/Livro_dos_Prov%C3%A9rbios    # profunda  # REJ: nome hebraico que jogador não digita
+~ Eclesiastes | Coélet;Qohélet | https://pt.wikipedia.org/wiki/Eclesiastes    # profunda
+- Jó | Iyov | https://pt.wikipedia.org/wiki/Livro_de_J%C3%B3    # profunda  # REJ: nome hebraico que jogador não digita
+~ 1 Crônicas | Primeiro Paralipômenos;1 Paralipômenos | https://pt.wikipedia.org/wiki/Livros_das_Cr%C3%B4nicas    # profunda
+~ 2 Crônicas | Segundo Paralipômenos;2 Paralipômenos | https://pt.wikipedia.org/wiki/Livros_das_Cr%C3%B4nicas    # profunda
+~ Eclesiástico | Ben Sira;Sabedoria de Ben Sirá;Livro de Ben Sirá | https://pt.wikipedia.org/wiki/Eclesi%C3%A1stico_(livro)    # profunda
+
+== mit-personagens-biblicos    # Cite um personagem bíblico
++ Ismael |  | Ishmael |  | i | https://pt.wikipedia.org/wiki/Ismael    # generica
++ Rainha de Sabá | Rainha de Sheba | Queen of Sheba | Reina de Saba | i | https://pt.wikipedia.org/wiki/Rainha_de_Sab%C3%A1    # generica
++ Miriã | Míriam |  |  | r | https://pt.wikipedia.org/wiki/Miri%C3%A3    # generica
++ José de Arimateia |  | Joseph of Arimathea | José de Arimatea | r | https://pt.wikipedia.org/wiki/Jos%C3%A9_de_Arimateia    # generica
++ Arcanjo Rafael | Rafael;São Rafael | Raphael |  | r | https://pt.wikipedia.org/wiki/Rafael_(arcanjo)    # generica
++ Agar |  | Hagar |  | r | https://pt.wikipedia.org/wiki/Agar    # generica
++ Calebe |  | Caleb |  | r | https://pt.wikipedia.org/wiki/Calebe    # generica
++ Jessé |  |  | Isaí | r | https://pt.wikipedia.org/wiki/Jess%C3%A9    # generica
++ Jônatas |  | Jonathan | Jonatán | r | https://pt.wikipedia.org/wiki/J%C3%B4natas    # generica
++ Jetro |  | Jethro |  | r | https://pt.wikipedia.org/wiki/Jetro    # generica
++ Mardoqueu |  | Mordecai | Mardoqueo | r | https://pt.wikipedia.org/wiki/Mardoqueu    # generica
++ Herodias |  |  |  | r | https://pt.wikipedia.org/wiki/Herod%C3%ADades    # generica
++ Barnabé |  | Barnabas | Bernabé | r | https://pt.wikipedia.org/wiki/Barnab%C3%A9    # generica
++ Matias |  | Matthias |  | e | https://pt.wikipedia.org/wiki/Matias_(ap%C3%B3stolo)    # generica
++ Judas Tadeu | Tadeu;São Judas Tadeu | Jude Thaddaeus;Thaddaeus | Judas Tadeo | r | https://pt.wikipedia.org/wiki/Judas_Tadeu    # generica
++ Simão Zelote | Simão, o Zelote | Simon the Zealot | Simón el Zelote | e | https://pt.wikipedia.org/wiki/Sim%C3%A3o_(ap%C3%B3stolo)    # generica
++ Silas |  |  |  | e | https://pt.wikipedia.org/wiki/Silas_(Novo_Testamento)    # generica
++ Priscila |  | Priscilla |  | e | https://pt.wikipedia.org/wiki/Priscila_e_%C3%81quila    # generica
++ Áquila |  |  |  | e | https://pt.wikipedia.org/wiki/Priscila_e_%C3%81quila    # generica
++ Lídia |  | Lydia |  | e | https://pt.wikipedia.org/wiki/L%C3%ADdia_(B%C3%ADblia)    # generica
++ Cornélio |  | Cornelius |  | e | https://pt.wikipedia.org/wiki/Corn%C3%A9lio_(centuri%C3%A3o)    # generica
++ Ananias |  |  |  | e | https://pt.wikipedia.org/wiki/Ananias    # generica
++ Simão de Cirene | Cirineu;Simão Cirineu | Simon of Cyrene | Simón de Cirene | r | https://pt.wikipedia.org/wiki/Sim%C3%A3o_de_Cirene    # generica
++ Sadraque |  | Shadrach | Sadrac | e | https://pt.wikipedia.org/wiki/Sadraque,_Mesaque_e_Abede-Nego    # profunda
++ Mesaque |  | Meshach | Mesac | e | https://pt.wikipedia.org/wiki/Sadraque,_Mesaque_e_Abede-Nego    # profunda
++ Abede-Nego | Abednego |  | Abed-nego | e | https://pt.wikipedia.org/wiki/Sadraque,_Mesaque_e_Abede-Nego    # profunda
++ Zípora |  | Zipporah | Séfora | l | https://pt.wikipedia.org/wiki/Z%C3%ADpora    # profunda
++ Balaão |  | Balaam |  | l | https://pt.wikipedia.org/wiki/Bala%C3%A3o    # profunda
++ Raabe |  | Rahab |  | e | https://pt.wikipedia.org/wiki/Raabe    # profunda
++ Jael |  |  |  | l | https://pt.wikipedia.org/wiki/Jael    # profunda
++ Jefté |  | Jephthah |  | l | https://pt.wikipedia.org/wiki/Jeft%C3%A9    # profunda
++ Eli |  |  |  | e | https://pt.wikipedia.org/wiki/Eli_(sacerdote)    # profunda
++ Abner |  |  |  | l | https://pt.wikipedia.org/wiki/Abner    # profunda
++ Joabe |  | Joab |  | l | https://pt.wikipedia.org/wiki/Joabe    # profunda
++ Mical |  | Michal |  | l | https://pt.wikipedia.org/wiki/Mical    # profunda
++ Abigail |  |  |  | l | https://pt.wikipedia.org/wiki/Abigail_(B%C3%ADblia)    # profunda
++ Roboão |  | Rehoboam | Roboam | l | https://pt.wikipedia.org/wiki/Robo%C3%A3o    # profunda
++ Jeroboão |  | Jeroboam |  | l | https://pt.wikipedia.org/wiki/Jerobo%C3%A3o_I    # profunda
++ Naamã |  | Naaman |  | l | https://pt.wikipedia.org/wiki/Naam%C3%A3    # profunda
++ Ezequias |  | Hezekiah |  | e | https://pt.wikipedia.org/wiki/Ezequias    # profunda
++ Josias |  | Josiah |  | e | https://pt.wikipedia.org/wiki/Josias    # profunda
++ Zorobabel |  | Zerubbabel |  | l | https://pt.wikipedia.org/wiki/Zorobabel    # profunda
++ Ciro | Ciro, o Grande | Cyrus |  | e | https://pt.wikipedia.org/wiki/Ciro_II    # profunda
++ Dario |  | Darius |  | e | https://pt.wikipedia.org/wiki/Dario_I    # profunda
++ Assuero | Xerxes | Ahasuerus | Asuero | l | https://pt.wikipedia.org/wiki/Xerxes_I    # profunda
++ Vasti |  | Vashti |  | l | https://pt.wikipedia.org/wiki/Vasti    # profunda
++ Hamã | Amã | Haman | Amán | l | https://pt.wikipedia.org/wiki/Ham%C3%A3    # profunda
++ Susana |  | Susanna |  | l | https://pt.wikipedia.org/wiki/Susana_(B%C3%ADblia)    # profunda
++ Holofernes |  |  |  | l | https://pt.wikipedia.org/wiki/Holofernes    # profunda
++ Judas Macabeu | Judas Macabeus | Judas Maccabeus | Judas Macabeo | l | https://pt.wikipedia.org/wiki/Judas_Macabeu    # profunda
++ Cam |  | Ham |  | e | https://pt.wikipedia.org/wiki/Cam_(B%C3%ADblia)    # profunda
++ Sem |  | Shem |  | e | https://pt.wikipedia.org/wiki/Sem_(B%C3%ADblia)    # profunda
++ Jafé |  | Japheth | Jafet | e | https://pt.wikipedia.org/wiki/Jaf%C3%A9    # profunda
++ Efraim |  | Ephraim |  | l | https://pt.wikipedia.org/wiki/Efraim    # profunda
++ Manassés |  | Manasseh | Manasés | l | https://pt.wikipedia.org/wiki/Manass%C3%A9s    # profunda
++ Potifar |  | Potiphar | Putifar | l | https://pt.wikipedia.org/wiki/Potifar    # profunda
++ Labão |  | Laban |  | l | https://pt.wikipedia.org/wiki/Lab%C3%A3o    # profunda
++ Dina |  | Dinah |  | l | https://pt.wikipedia.org/wiki/Dina_(B%C3%ADblia)    # profunda
++ Judá |  | Judah |  | e | https://pt.wikipedia.org/wiki/Jud%C3%A1_(patriarca)    # profunda
++ Safira |  | Sapphira |  | l | https://pt.wikipedia.org/wiki/Ananias_e_Safira    # profunda
++ Bartimeu |  | Bartimaeus | Bartimeo | l | https://pt.wikipedia.org/wiki/Bartimeu    # profunda
++ Jairo |  | Jairus |  | l | https://pt.wikipedia.org/wiki/Jairo    # profunda
++ Anás |  | Annas |  | l | https://pt.wikipedia.org/wiki/An%C3%A1s    # profunda
++ Onésimo |  | Onesimus |  | l | https://pt.wikipedia.org/wiki/On%C3%A9simo    # profunda
++ Apolo |  | Apollos |  | l | https://pt.wikipedia.org/wiki/Apolo_(crist%C3%A3o)    # profunda
++ Febe |  | Phoebe |  | l | https://pt.wikipedia.org/wiki/Febe_(B%C3%ADblia)    # profunda
++ Epafras |  | Epaphras |  | l | https://pt.wikipedia.org/wiki/Epafras    # profunda
++ Zebedeu |  | Zebedee |  | l | https://pt.wikipedia.org/wiki/Zebedeu    # profunda
++ Cleopas | Cléofas |  |  | l | https://pt.wikipedia.org/wiki/Cleofas    # profunda
+~ Herodes | Herodes Antipas;Herodes, o Grande;Herodes Magno | https://pt.wikipedia.org/wiki/Herodes_Antipas https://pt.wikipedia.org/wiki/Herodes,_o_Grande    # profunda (convertida: banco já tem "Herodes" genérico; resolve conflito)
+- Herodes, o Grande | Herodes Magno | Herod the Great |  | e | https://pt.wikipedia.org/wiki/Herodes,_o_Grande    # profunda  # REJ: unida em "~ Herodes" (banco já tem Herodes genérico)
+~ Jesus | Jesus de Nazaré | https://pt.wikipedia.org/wiki/Jesus    # generica
+~ Maria | Maria de Nazaré;Mãe de Jesus | https://pt.wikipedia.org/wiki/Maria_(m%C3%A3e_de_Jesus)    # generica
+~ Abraão | Abrão | https://pt.wikipedia.org/wiki/Abra%C3%A3o    # generica
+~ Jacó | Israel | https://pt.wikipedia.org/wiki/Jac%C3%B3    # generica
+~ Davi | Rei Davi | https://pt.wikipedia.org/wiki/Davi    # generica
+~ Salomão | Rei Salomão | https://pt.wikipedia.org/wiki/Salom%C3%A3o    # generica
+~ Paulo | Saulo;Saulo de Tarso | https://pt.wikipedia.org/wiki/Paulo_de_Tarso    # generica
+~ Bartolomeu | Natanael;Nataniel | https://pt.wikipedia.org/wiki/Bartolomeu_(ap%C3%B3stolo)    # generica
+
+== mit-criaturas    # Cite uma criatura mitológica ou lendária
++ Saci | Saci-Pererê |  |  | c | https://pt.wikipedia.org/wiki/Saci    # generica
++ Curupira |  |  |  | c | https://pt.wikipedia.org/wiki/Curupira    # generica
++ Iara | Uiara;Mãe d'Água |  |  | c | https://pt.wikipedia.org/wiki/Iara    # generica
++ Boitatá |  |  |  | i | https://pt.wikipedia.org/wiki/Boitat%C3%A1    # generica
++ Mula sem cabeça |  |  |  | i | https://pt.wikipedia.org/wiki/Mula_sem_cabe%C3%A7a    # generica
++ Goblin | |  |  | i | https://pt.wikipedia.org/wiki/Goblin    # generica
++ Dríade |  | Dryad | Dríada | i | https://pt.wikipedia.org/wiki/Dr%C3%ADade    # generica
++ Náiade |  | Naiad | Náyade | i | https://pt.wikipedia.org/wiki/N%C3%A1iade    # generica
++ Hipocampo |  | Hippocampus |  | r | https://pt.wikipedia.org/wiki/Hipocampo_(mitologia)    # generica
++ Fúrias | Erínias;Eumênides | Furies;Erinyes |  | r | https://pt.wikipedia.org/wiki/Er%C3%ADnias    # profunda
++ Oréade |  | Oread |  | l | https://pt.wikipedia.org/wiki/Or%C3%A9ades    # profunda
++ Nereida |  | Nereid |  | r | https://pt.wikipedia.org/wiki/Nereidas    # profunda
++ Simurgue | Simurg | Simurgh |  | l | https://pt.wikipedia.org/wiki/Simurgue    # profunda
++ Garuda |  |  |  | l | https://pt.wikipedia.org/wiki/Garuda    # profunda
++ Ave Roca | Roca;Pássaro Roca | Roc |  | e | https://pt.wikipedia.org/wiki/Roca_(mitologia)    # profunda
++ Selkie |  |  |  | l | https://pt.wikipedia.org/wiki/Selkie    # profunda
++ Oni |  |  |  | e | https://pt.wikipedia.org/wiki/Oni    # profunda
++ Qilin | Kirin |  |  | l | https://pt.wikipedia.org/wiki/Qilin    # profunda
++ Mothman | Homem-mariposa |  |  | l | https://pt.wikipedia.org/wiki/Mothman    # profunda
++ Ladon |  |  |  | l | https://pt.wikipedia.org/wiki/Ladon_(mitologia)    # profunda
++ Píton | Pitão | Python |  | l | https://pt.wikipedia.org/wiki/P%C3%ADton_(mitologia)    # profunda
++ Esteno |  | Stheno |  | l | https://pt.wikipedia.org/wiki/Esteno    # profunda
++ Euríale |  | Euryale |  | l | https://pt.wikipedia.org/wiki/Eur%C3%ADale    # profunda
++ Ortro | Orto | Orthrus |  | l | https://pt.wikipedia.org/wiki/Ortro    # profunda
++ Leão de Neméia |  | Nemean Lion | León de Nemea | e | https://pt.wikipedia.org/wiki/Le%C3%A3o_de_Nem%C3%A9ia    # profunda
++ Javali de Erimanto |  | Erymanthian Boar |  | l | https://pt.wikipedia.org/wiki/Javali_de_Erimanto    # profunda
++ Touro de Creta |  | Cretan Bull |  | l | https://pt.wikipedia.org/wiki/Touro_de_Creta    # profunda
++ Ave de Estínfalo | Aves de Estínfalo | Stymphalian Birds |  | l | https://pt.wikipedia.org/wiki/Aves_do_Lago_Est%C3%ADnfalo    # profunda
+~ Pé-grande | Sasquatch | https://pt.wikipedia.org/wiki/P%C3%A9-grande    # generica
+
+== mit-folclore-brasileiro    # Cite um personagem ou lenda do folclore brasileiro
++ Capelobo |  |  |  | r | https://pt.wikipedia.org/wiki/Capelobo    # generica
++ Jurupari |  |  |  | r | https://pt.wikipedia.org/wiki/Jurupari    # generica
++ Pedro Malasartes | Malasartes;Pedro Malazartes |  |  | r | https://pt.wikipedia.org/wiki/Pedro_Malasartes    # generica
++ Pé-de-garrafa |  |  |  | r | https://pt.wikipedia.org/wiki/P%C3%A9-de-garrafa    # generica
++ Teiniaguá |  |  |  | l | https://pt.wikipedia.org/wiki/Teiniagu%C3%A1    # generica
+~ Boitatá | Mbaê-Tata;Mboitatá;Baitatá;Batatão;Biatatá;Bitatá | https://pt.wikipedia.org/wiki/Boitat%C3%A1    # generica
+~ Caipora | Caapora | https://pt.wikipedia.org/wiki/Caipora    # generica
+~ Cobra Grande | Cobra Norato | https://pt.wikipedia.org/wiki/Cobra-grande    # generica

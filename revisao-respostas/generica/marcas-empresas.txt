@@ -1,0 +1,403 @@
+== mar-montadoras
++ MG | MG Motor;Morris Garages |  |  | i | https://pt.wikipedia.org/wiki/MG_Motor
++ Daihatsu |  |  |  | r | https://pt.wikipedia.org/wiki/Daihatsu
++ Isuzu |  |  |  | r | https://pt.wikipedia.org/wiki/Isuzu
++ SsangYong | KG Mobility |  |  | r | https://pt.wikipedia.org/wiki/SsangYong_Motor_Company
++ Infiniti |  |  |  | r | https://pt.wikipedia.org/wiki/Infiniti
++ Acura |  |  |  | r | https://pt.wikipedia.org/wiki/Acura
++ Genesis |  |  |  | r | https://pt.wikipedia.org/wiki/Genesis_Motor
++ Hummer |  |  |  | r | https://pt.wikipedia.org/wiki/Hummer
++ Geely |  |  |  | i | https://pt.wikipedia.org/wiki/Geely
++ Daewoo |  |  |  | r | https://pt.wikipedia.org/wiki/Daewoo_Motors
++ Saab |  |  |  | r | https://pt.wikipedia.org/wiki/Saab_Automobile
++ Pontiac |  |  |  | r | https://pt.wikipedia.org/wiki/Pontiac
++ Oldsmobile |  |  |  | e | https://pt.wikipedia.org/wiki/Oldsmobile
++ Maybach |  |  |  | r | https://pt.wikipedia.org/wiki/Maybach
++ Abarth |  |  |  | r | https://pt.wikipedia.org/wiki/Abarth
++ Polestar |  |  |  | r | https://pt.wikipedia.org/wiki/Polestar
++ Zeekr |  |  |  | e | https://pt.wikipedia.org/wiki/Zeekr
++ Jetour |  |  |  | e | https://pt.wikipedia.org/wiki/Jetour
++ Changan |  |  |  | e | https://pt.wikipedia.org/wiki/Changan_Automobile
++ Dongfeng |  |  |  | e | https://pt.wikipedia.org/wiki/Dongfeng_Motor_Corporation
++ Foton |  |  |  | e | https://pt.wikipedia.org/wiki/Foton_Motor
++ Mahindra |  |  |  | e | https://pt.wikipedia.org/wiki/Mahindra_%26_Mahindra
++ Tata | Tata Motors |  |  | e | https://pt.wikipedia.org/wiki/Tata_Motors
++ Datsun |  |  |  | e | https://pt.wikipedia.org/wiki/Datsun
++ Agrale |  |  |  | e | https://pt.wikipedia.org/wiki/Agrale
++ Engesa |  |  |  | l | https://pt.wikipedia.org/wiki/Engesa
++ Vauxhall |  |  |  | e | https://pt.wikipedia.org/wiki/Vauxhall_Motors
++ Triumph |  |  |  | e | https://pt.wikipedia.org/wiki/Triumph_Motor_Company
++ Austin |  |  |  | l | https://pt.wikipedia.org/wiki/Austin_Motor_Company
++ Rover |  |  |  | e | https://pt.wikipedia.org/wiki/Rover_Company
++ Studebaker |  |  |  | l | https://pt.wikipedia.org/wiki/Studebaker
++ Packard |  |  |  | l | https://pt.wikipedia.org/wiki/Packard
++ Rivian |  |  |  | e | https://pt.wikipedia.org/wiki/Rivian
++ Lucid |  |  |  | l | https://pt.wikipedia.org/wiki/Lucid_Motors
++ Fisker |  |  |  | l | https://pt.wikipedia.org/wiki/Fisker_Automotive
++ NIO |  |  |  | e | https://pt.wikipedia.org/wiki/NIO
++ XPeng |  |  |  | e | https://pt.wikipedia.org/wiki/XPeng
++ Leapmotor |  |  |  | l | https://pt.wikipedia.org/wiki/Leapmotor
++ Lynk & Co |  |  |  | e | https://pt.wikipedia.org/wiki/Lynk_%26_Co
++ DS | DS Automobiles |  |  | e | https://pt.wikipedia.org/wiki/DS_Automobiles
++ Stellantis |  |  |  | i | https://pt.wikipedia.org/wiki/Stellantis
+== mar-modelos-carro-brasil
++ Amarok |  |  |  | i | https://pt.wikipedia.org/wiki/Volkswagen_Amarok
++ Tiguan |  |  |  | i | https://pt.wikipedia.org/wiki/Volkswagen_Tiguan
++ Taos |  |  |  | r | https://pt.wikipedia.org/wiki/Volkswagen_Taos
++ Touareg |  |  |  | r | https://pt.wikipedia.org/wiki/Volkswagen_Touareg
++ CrossFox | Cross Fox |  |  | r | https://pt.wikipedia.org/wiki/Volkswagen_CrossFox
++ SpaceFox | Space Fox |  |  | r | https://pt.wikipedia.org/wiki/Volkswagen_SpaceFox
++ Mustang | Ford Mustang |  |  | i | https://pt.wikipedia.org/wiki/Ford_Mustang
++ Fusion | Ford Fusion |  |  | r | https://pt.wikipedia.org/wiki/Ford_Fusion
++ Edge | Ford Edge |  |  | r | https://pt.wikipedia.org/wiki/Ford_Edge
++ Territory | Ford Territory |  |  | r | https://pt.wikipedia.org/wiki/Ford_Territory
++ Courier | Ford Courier |  |  | r | https://pt.wikipedia.org/wiki/Ford_Courier
++ F-1000 | F1000 |  |  | r | https://pt.wikipedia.org/wiki/Ford_F-1000
++ F-250 | F250 |  |  | r | https://pt.wikipedia.org/wiki/Ford_F-250
++ Idea | Fiat Idea |  |  | r | https://pt.wikipedia.org/wiki/Fiat_Idea
++ Stilo | Fiat Stilo |  |  | r | https://pt.wikipedia.org/wiki/Fiat_Stilo
++ Bravo | Fiat Bravo |  |  | r | https://pt.wikipedia.org/wiki/Fiat_Bravo
++ Linea | Fiat Linea |  |  | r | https://pt.wikipedia.org/wiki/Fiat_Linea
++ Ducato | Fiat Ducato |  |  | r | https://pt.wikipedia.org/wiki/Fiat_Ducato
++ Agile | Chevrolet Agile |  |  | i | https://pt.wikipedia.org/wiki/Chevrolet_Agile
++ Classic | Chevrolet Classic |  |  | r | https://pt.wikipedia.org/wiki/Chevrolet_Classic
++ Camaro | Chevrolet Camaro |  |  | i | https://pt.wikipedia.org/wiki/Chevrolet_Camaro
++ Blazer | Chevrolet Blazer |  |  | i | https://pt.wikipedia.org/wiki/Chevrolet_Blazer
++ Equinox | Chevrolet Equinox |  |  | r | https://pt.wikipedia.org/wiki/Chevrolet_Equinox
++ Trailblazer | Chevrolet Trailblazer |  |  | r | https://pt.wikipedia.org/wiki/Chevrolet_Trailblazer
++ Captiva | Chevrolet Captiva |  |  | r | https://pt.wikipedia.org/wiki/Chevrolet_Captiva
++ Sonic | Chevrolet Sonic |  |  | r | https://pt.wikipedia.org/wiki/Chevrolet_Sonic
++ Silverado | Chevrolet Silverado |  |  | r | https://pt.wikipedia.org/wiki/Chevrolet_Silverado
++ Bandeirante | Toyota Bandeirante |  |  | i | https://pt.wikipedia.org/wiki/Toyota_Bandeirante
++ Land Cruiser | Toyota Land Cruiser |  |  | r | https://pt.wikipedia.org/wiki/Toyota_Land_Cruiser
++ RAV4 | Toyota RAV4 |  |  | r | https://pt.wikipedia.org/wiki/Toyota_RAV4
++ Camry | Toyota Camry |  |  | r | https://pt.wikipedia.org/wiki/Toyota_Camry
++ Prius | Toyota Prius |  |  | r | https://pt.wikipedia.org/wiki/Toyota_Prius
++ Corolla Cross |  |  |  | r | https://pt.wikipedia.org/wiki/Toyota_Corolla_Cross
++ CR-V | CRV;Honda CR-V |  |  | i | https://pt.wikipedia.org/wiki/Honda_CR-V
++ Accord | Honda Accord |  |  | i | https://pt.wikipedia.org/wiki/Honda_Accord
++ WR-V | WRV |  |  | r | https://pt.wikipedia.org/wiki/Honda_WR-V
++ ZR-V | ZRV |  |  | r | https://pt.wikipedia.org/wiki/Honda_ZR-V
++ ix35 | Hyundai ix35 |  |  | r | https://pt.wikipedia.org/wiki/Hyundai_ix35
++ Santa Fe | Hyundai Santa Fe |  |  | r | https://pt.wikipedia.org/wiki/Hyundai_Santa_Fe
++ Elantra | Hyundai Elantra |  |  | r | https://pt.wikipedia.org/wiki/Hyundai_Elantra
++ i30 | Hyundai i30 |  |  | r | https://pt.wikipedia.org/wiki/Hyundai_i30
++ Azera | Hyundai Azera |  |  | e | https://pt.wikipedia.org/wiki/Hyundai_Azera
++ Veloster | Hyundai Veloster |  |  | e | https://pt.wikipedia.org/wiki/Hyundai_Veloster
++ Oroch | Renault Duster Oroch |  |  | r | https://pt.wikipedia.org/wiki/Renault_Duster_Oroch
++ Fluence | Renault Fluence |  |  | r | https://pt.wikipedia.org/wiki/Renault_Fluence
++ Mégane | Renault Mégane |  |  | r | https://pt.wikipedia.org/wiki/Renault_M%C3%A9gane
++ Scénic |  |  |  | e | https://pt.wikipedia.org/wiki/Renault_Sc%C3%A9nic
++ Master | Renault Master |  |  | r | https://pt.wikipedia.org/wiki/Renault_Master
++ Kangoo | Renault Kangoo |  |  | r | https://pt.wikipedia.org/wiki/Renault_Kangoo
++ Tiida | Nissan Tiida |  |  | r | https://pt.wikipedia.org/wiki/Nissan_Tiida
++ Livina | Nissan Livina |  |  | r | https://pt.wikipedia.org/wiki/Nissan_Livina
++ Leaf | Nissan Leaf |  |  | r | https://pt.wikipedia.org/wiki/Nissan_Leaf
++ Peugeot 307 | 307 |  |  | r | https://pt.wikipedia.org/wiki/Peugeot_307
++ Peugeot 308 | 308 |  |  | r | https://pt.wikipedia.org/wiki/Peugeot_308
++ Peugeot 3008 | 3008 |  |  | r | https://pt.wikipedia.org/wiki/Peugeot_3008
++ Peugeot 408 | 408 |  |  | r | https://pt.wikipedia.org/wiki/Peugeot_408
++ Peugeot 106 | 106 |  |  | e | https://pt.wikipedia.org/wiki/Peugeot_106
++ Peugeot 405 | 405 |  |  | e | https://pt.wikipedia.org/wiki/Peugeot_405
++ Partner | Peugeot Partner |  |  | r | https://pt.wikipedia.org/wiki/Peugeot_Partner
++ C4 Cactus | Citroën C4 Cactus |  |  | r | https://pt.wikipedia.org/wiki/Citro%C3%ABn_C4_Cactus
++ C4 Lounge | Citroën C4 Lounge |  |  | r | https://pt.wikipedia.org/wiki/Citro%C3%ABn_C4_Lounge
++ C3 Aircross | Aircross |  |  | r | https://pt.wikipedia.org/wiki/Citro%C3%ABn_C3_Aircross
++ Xsara Picasso | Picasso |  |  | e | https://pt.wikipedia.org/wiki/Citro%C3%ABn_Xsara_Picasso
++ Berlingo | Citroën Berlingo |  |  | e | https://pt.wikipedia.org/wiki/Citro%C3%ABn_Berlingo
++ Wrangler | Jeep Wrangler |  |  | i | https://pt.wikipedia.org/wiki/Jeep_Wrangler
++ Grand Cherokee | Jeep Grand Cherokee |  |  | i | https://pt.wikipedia.org/wiki/Jeep_Grand_Cherokee
++ Cherokee | Jeep Cherokee |  |  | r | https://pt.wikipedia.org/wiki/Jeep_Cherokee
++ Gladiator | Jeep Gladiator |  |  | r | https://pt.wikipedia.org/wiki/Jeep_Gladiator
++ Sprinter | Mercedes Sprinter;Mercedes-Benz Sprinter |  |  | i | https://pt.wikipedia.org/wiki/Mercedes-Benz_Sprinter
++ BMW X1 | X1 |  |  | r | https://pt.wikipedia.org/wiki/BMW_X1
++ BMW X3 | X3 |  |  | r | https://pt.wikipedia.org/wiki/BMW_X3
++ BMW X5 | X5 |  |  | r | https://pt.wikipedia.org/wiki/BMW_X5
++ Audi A3 | A3 |  |  | r | https://pt.wikipedia.org/wiki/Audi_A3
++ Audi A4 | A4 |  |  | r | https://pt.wikipedia.org/wiki/Audi_A4
++ Audi Q3 | Q3 |  |  | r | https://pt.wikipedia.org/wiki/Audi_Q3
++ Audi Q5 | Q5 |  |  | r | https://pt.wikipedia.org/wiki/Audi_Q5
++ Audi TT | TT |  |  | r | https://pt.wikipedia.org/wiki/Audi_TT
++ Sportage | Kia Sportage |  |  | r | https://pt.wikipedia.org/wiki/Kia_Sportage
++ Sorento | Kia Sorento |  |  | r | https://pt.wikipedia.org/wiki/Kia_Sorento
++ Picanto | Kia Picanto |  |  | r | https://pt.wikipedia.org/wiki/Kia_Picanto
++ Cerato | Kia Cerato |  |  | r | https://pt.wikipedia.org/wiki/Kia_Cerato
++ Soul | Kia Soul |  |  | r | https://pt.wikipedia.org/wiki/Kia_Soul
++ Jimny | Suzuki Jimny |  |  | r | https://pt.wikipedia.org/wiki/Suzuki_Jimny
++ Swift | Suzuki Swift |  |  | r | https://pt.wikipedia.org/wiki/Suzuki_Swift
++ Vitara | Suzuki Vitara |  |  | r | https://pt.wikipedia.org/wiki/Suzuki_Vitara
++ Defender | Land Rover Defender |  |  | i | https://pt.wikipedia.org/wiki/Land_Rover_Defender
++ Discovery | Land Rover Discovery |  |  | r | https://pt.wikipedia.org/wiki/Land_Rover_Discovery
++ Evoque | Range Rover Evoque |  |  | r | https://pt.wikipedia.org/wiki/Land_Rover_Range_Rover_Evoque
++ XC60 | Volvo XC60 |  |  | r | https://pt.wikipedia.org/wiki/Volvo_XC60
++ XC90 | Volvo XC90 |  |  | r | https://pt.wikipedia.org/wiki/Volvo_XC90
++ QQ | Chery QQ |  |  | r | https://pt.wikipedia.org/wiki/Chery_QQ
++ Cielo | Chery Cielo |  |  | e | https://pt.wikipedia.org/wiki/Chery_Cielo
++ Celer | Chery Celer |  |  | e | https://pt.wikipedia.org/wiki/Chery_Celer
++ Pajero Sport | Mitsubishi Pajero Sport |  |  | r | https://pt.wikipedia.org/wiki/Mitsubishi_Pajero_Sport
++ ASX | Mitsubishi ASX |  |  | r | https://pt.wikipedia.org/wiki/Mitsubishi_ASX
++ Outlander | Mitsubishi Outlander |  |  | r | https://pt.wikipedia.org/wiki/Mitsubishi_Outlander
++ Pajero TR4 | TR4 |  |  | r | https://pt.wikipedia.org/wiki/Mitsubishi_Pajero_TR4
++ Freemont | Fiat Freemont |  |  | e | https://pt.wikipedia.org/wiki/Fiat_Freemont
+== mar-fast-food
++ Sbarro |  |  |  | i | https://pt.wikipedia.org/wiki/Sbarro
++ Krispy Kreme |  |  |  | i | https://pt.wikipedia.org/wiki/Krispy_Kreme
++ Cinnabon |  |  |  | r | https://pt.wikipedia.org/wiki/Cinnabon
++ Auntie Anne's | Auntie Annes |  |  | r | https://pt.wikipedia.org/wiki/Auntie_Anne's
++ Denny's | Dennys |  |  | r | https://pt.wikipedia.org/wiki/Denny's
++ Olive Garden |  |  |  | r | https://pt.wikipedia.org/wiki/Olive_Garden
++ Red Lobster |  |  |  | r | https://pt.wikipedia.org/wiki/Red_Lobster
++ Hard Rock Cafe |  |  |  | i | https://pt.wikipedia.org/wiki/Hard_Rock_Cafe
++ Nando's | Nandos |  |  | r | https://pt.wikipedia.org/wiki/Nando's
++ Chick-fil-A |  |  |  | r | https://pt.wikipedia.org/wiki/Chick-fil-A
++ Wingstop |  |  |  | e | https://pt.wikipedia.org/wiki/Wingstop
++ Buffalo Wild Wings |  |  |  | e | https://pt.wikipedia.org/wiki/Buffalo_Wild_Wings
++ Koni Store | Koni |  |  | r | https://pt.wikipedia.org/wiki/Koni_Store
++ Brasil Cacau |  |  |  | r | https://pt.wikipedia.org/wiki/Brasil_Cacau
++ Havanna |  |  |  | r | https://pt.wikipedia.org/wiki/Havanna
++ IHOP |  |  |  | r | https://pt.wikipedia.org/wiki/IHOP
++ Texas Roadhouse |  |  |  | e | https://pt.wikipedia.org/wiki/Texas_Roadhouse
++ Whataburger |  |  |  | e | https://pt.wikipedia.org/wiki/Whataburger
++ Sonic Drive-In | Sonic |  |  | e | https://pt.wikipedia.org/wiki/Sonic_Drive-In
++ White Castle |  |  |  | e | https://pt.wikipedia.org/wiki/White_Castle
++ Pret A Manger | Pret |  |  | e | https://pt.wikipedia.org/wiki/Pret_A_Manger
+== mar-fast-food
++ TGI Fridays | Fridays;TGI Friday's |  |  | r | https://en.wikipedia.org/wiki/TGI_Fridays
++ Tony Roma's | Tony Romas |  |  | e | https://en.wikipedia.org/wiki/Tony_Roma's
+~ Burger King | Burguer King;Burguer | https://pt.wikipedia.org/wiki/Burger_King
+~ McDonald's | Mc Donalds;Mac Donalds;MacDonalds | https://pt.wikipedia.org/wiki/McDonald's
+~ Giraffas | Girafas | https://pt.wikipedia.org/wiki/Giraffas
+~ Spoleto | Spoletto | https://pt.wikipedia.org/wiki/Spoleto
+~ KFC | Kentucky | https://pt.wikipedia.org/wiki/KFC
+~ Popeyes | Popeye's | https://pt.wikipedia.org/wiki/Popeyes
+~ Pizza Hut | Pizzahut | https://pt.wikipedia.org/wiki/Pizza_Hut
+~ China in Box | China Box | https://pt.wikipedia.org/wiki/China_in_Box
+~ Subway | Sub | https://pt.wikipedia.org/wiki/Subway
+== mar-tecnologia
++ ZTE |  |  |  | r | https://pt.wikipedia.org/wiki/ZTE
++ MSI |  |  |  | r | https://pt.wikipedia.org/wiki/Micro-Star_International
++ Gigabyte |  |  |  | r | https://pt.wikipedia.org/wiki/Gigabyte_Technology
++ Hisense |  |  |  | r | https://pt.wikipedia.org/wiki/Hisense
++ Midea |  |  |  | r | https://pt.wikipedia.org/wiki/Midea
++ Bosch |  |  |  | i | https://pt.wikipedia.org/wiki/Robert_Bosch_GmbH
++ Whirlpool |  |  |  | i | https://pt.wikipedia.org/wiki/Whirlpool_Corporation
++ Elgin |  |  |  | r | https://pt.wikipedia.org/wiki/Elgin_(empresa)
++ Tectoy |  |  |  | r | https://pt.wikipedia.org/wiki/Tectoy
++ Semp Toshiba |  |  |  | r | https://pt.wikipedia.org/wiki/Semp_Toshiba
++ Oster |  |  |  | r | https://pt.wikipedia.org/wiki/Oster
++ Black+Decker |  |  |  | r | https://pt.wikipedia.org/wiki/Black_%26_Decker
++ Fujitsu |  |  |  | r | https://pt.wikipedia.org/wiki/Fujitsu
++ NEC |  |  |  | r | https://pt.wikipedia.org/wiki/NEC
++ Casio |  |  |  | i | https://pt.wikipedia.org/wiki/Casio
++ Brother |  |  |  | r | https://pt.wikipedia.org/wiki/Brother_Industries
++ Ricoh |  |  |  | e | https://pt.wikipedia.org/wiki/Ricoh
++ Kyocera |  |  |  | e | https://pt.wikipedia.org/wiki/Kyocera
++ Lexmark |  |  |  | e | https://pt.wikipedia.org/wiki/Lexmark
++ Sennheiser |  |  |  | r | https://pt.wikipedia.org/wiki/Sennheiser
++ Yamaha |  |  |  | i | https://pt.wikipedia.org/wiki/Yamaha_Corporation
++ JVC |  |  |  | r | https://pt.wikipedia.org/wiki/JVC
++ TP-Link |  |  |  | r | https://pt.wikipedia.org/wiki/TP-Link
++ D-Link |  |  |  | r | https://pt.wikipedia.org/wiki/D-Link
++ Compaq |  |  |  | r | https://pt.wikipedia.org/wiki/Compaq
++ Sega |  |  |  | r | https://pt.wikipedia.org/wiki/Sega
++ Atari |  |  |  | r | https://pt.wikipedia.org/wiki/Atari
++ Itautec |  |  |  | e | https://pt.wikipedia.org/wiki/Itautec
++ Oracle |  |  |  | i | https://pt.wikipedia.org/wiki/Oracle_Corporation
++ Adobe |  |  |  | i | https://pt.wikipedia.org/wiki/Adobe_Inc.
++ SAP |  |  |  | r | https://pt.wikipedia.org/wiki/SAP_SE
++ OpenAI |  |  |  | i | https://pt.wikipedia.org/wiki/OpenAI
++ Dolby |  |  |  | e | https://pt.wikipedia.org/wiki/Dolby_Laboratories
++ Olympus |  |  |  | e | https://pt.wikipedia.org/wiki/Olympus_Corporation
++ Esmaltec |  |  |  | l | https://pt.wikipedia.org/wiki/Esmaltec
+~ Philips | Koninklijke Philips | https://pt.wikipedia.org/wiki/Philips
+== mar-tecnologia
++ Western Digital | WD |  |  | e | https://pt.wikipedia.org/wiki/Western_Digital
++ Micron |  |  |  | e | https://pt.wikipedia.org/wiki/Micron_Technology
++ Sonos |  |  |  | e | https://pt.wikipedia.org/wiki/Sonos
++ Harman Kardon |  |  |  | e | https://pt.wikipedia.org/wiki/Harman_Kardon
++ Marshall |  |  |  | e | https://pt.wikipedia.org/wiki/Marshall_Amplification
++ Leica |  |  |  | e | https://pt.wikipedia.org/wiki/Leica_Camera
++ Sigma |  |  |  | l | https://pt.wikipedia.org/wiki/Sigma_Corporation
++ Infinix |  |  |  | e | https://pt.wikipedia.org/wiki/Infinix
++ Tecno |  |  |  | e | https://pt.wikipedia.org/wiki/Tecno_Mobile
+~ Xiaomi | Mi | https://pt.wikipedia.org/wiki/Xiaomi
+~ Samsung | Samsung Electronics | https://pt.wikipedia.org/wiki/Samsung
+~ Apple | Apple Inc | https://pt.wikipedia.org/wiki/Apple_Inc.
+~ Motorola | Motorola Mobility | https://pt.wikipedia.org/wiki/Motorola
+== mar-bancos
++ ABN AMRO | Banco ABN AMRO;ABN Amro Real |  |  | i | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Master | Master |  |  | i | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Digio | Digio |  |  | i | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Genial | Genial |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco BS2 | BS2 |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Cora | Banco Cora |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ BankBoston | Bank Boston;Banco de Boston |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Santos |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Cruzeiro do Sul | Cruzeiro do Sul |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Rural | Rural |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Cacique | Cacique |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Nossa Caixa | Banco Nossa Caixa |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Bandeirantes | Bandeirantes |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Boavista |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Bozano Simonsen | Bozano Simonsen |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Meridional | Meridional |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Icatu | Icatu |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Excel-Econômico | Excel-Econômico |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Garantia | Garantia |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Noroeste | Noroeste |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Sudameris | Banco Sudameris Brasil;Sudameris |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Lloyds TSB | Lloyds;Lloyds TSB Brasil |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Deutsche Bank |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Goldman Sachs | Goldman Sachs do Brasil |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ JPMorgan | JP Morgan;Banco JP Morgan;JPMorgan Chase |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Morgan Stanley | Banco Morgan Stanley |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ UBS |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Credit Suisse |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ BNP Paribas | Banco BNP Paribas Brasil |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Société Générale | Banco Société Générale Brasil |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Scotiabank | Scotiabank Brasil |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Bank of America | Bank of America Merrill Lynch;Merrill Lynch |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Itaú BBA | Itaú BBA |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Honda |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Toyota | Banco Toyota do Brasil |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Volkswagen | Volkswagen Financial Services |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Mercedes-Benz | Banco Mercedes-Benz do Brasil |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco RCI | Banco RCI Brasil;Banco Renault |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Stellantis |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco John Deere | John Deere |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Randon |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Rodobens | Rodobens |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Fator | Fator |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Guanabara |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Semear | Semear |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Topázio |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Moneo | Moneo |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Pleno | Pleno |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Luso Brasileiro |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Mercantil de São Paulo |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco de Crédito Nacional | BCN |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco BMC | BMC |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Marka | Marka |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Matone | Matone |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Opportunity | Opportunity |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Cidade |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Halles | Halles |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Comind | Comind |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Habitasul | Habitasul |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco BBA | BBA |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Popular do Brasil |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Industrial e Comercial | BIC Banco;BIC |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Sulbrasileiro | Sulbrasileiro |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Auxiliar |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Maisonnave | Maisonnave |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco do Estado da Guanabara | Banco da Guanabara |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banese | Banco do Estado de Sergipe |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ BDMG | Banco de Desenvolvimento de Minas Gerais |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ BRDE | Banco Regional de Desenvolvimento do Extremo Sul |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco de Desenvolvimento do Espírito Santo | Bandes |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Nacional da Habitação | BNH |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Western Union do Brasil | Western Union |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Bank of China | Bank of China Brasil |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ ICBC | ICBC do Brasil |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Mizuho | Mizuho |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco MUFG Brasil | MUFG |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Sumitomo Mitsui Brasileiro | Sumitomo Mitsui |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Rabobank | Rabobank |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Cargill | Cargill |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Cédula | Cédula |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Confidence | Confidence |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Arbi | Arbi |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Paulista |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Digimais | Digimais |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Afinz | Afinz |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco B3 |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Social Bank | Social Bank |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Omni Banco |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Paraná Banco |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Letsbank | Letsbank |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ N26 |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Stark Bank | Stark |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Tribanco |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Ouribank | Ouri |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco VR |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco KDB | KDB |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Woori Bank | Woori Bank |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Andbank | Andbank |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Clássico | Clássico |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Senff | Senff |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Tricury | Tricury |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Haitong |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Finaxis |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco BRP | BRP |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco RNX | RNX |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco CSF | CSF |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Industrial do Brasil | Industrial do Brasil |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Mineiro do Oeste | Mineiro do Oeste |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco Predial do Estado do Rio de Janeiro | Predial |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
++ Banco União Comercial | União Comercial |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
+== mar-bancos
+~ Itaú | Banco Itaú | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
+~ Bradesco | Banco Bradesco | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
+~ Santander | Banco Santander;Santander Brasil | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
+~ Neon | Banco Neon | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
+~ Unibanco | Banco Unibanco | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
+~ Banco Real | Banco Real ABN | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
+~ Banrisul | Banco do Estado do Rio Grande do Sul | https://pt.wikipedia.org/wiki/Banrisul
+~ Banpará | Banco do Estado do Pará | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
+~ Banestes | Banco do Estado do Espírito Santo | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
+~ Banespa | Banco do Estado de São Paulo | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil
+== mar-moda
++ Forever 21 |  |  |  | i | https://pt.wikipedia.org/wiki/Forever_21
++ Uniqlo |  |  |  | i | https://pt.wikipedia.org/wiki/Uniqlo
++ Mango |  |  |  | i | https://pt.wikipedia.org/wiki/Mango_(empresa)
++ Bershka |  |  |  | r | https://pt.wikipedia.org/wiki/Bershka
++ Primark |  |  |  | r | https://pt.wikipedia.org/wiki/Primark
++ Abercrombie & Fitch | Abercrombie |  |  | r | https://pt.wikipedia.org/wiki/Abercrombie_%26_Fitch
++ Hollister |  |  |  | r | https://pt.wikipedia.org/wiki/Hollister_Co.
++ Dudalina |  |  |  | r | https://pt.wikipedia.org/wiki/Dudalina
++ Cavalera |  |  |  | r | https://pt.wikipedia.org/wiki/Cavalera
++ Lança Perfume |  |  |  | e | https://pt.wikipedia.org/wiki/Lan%C3%A7a_Perfume
++ Diadora |  |  |  | r | https://pt.wikipedia.org/wiki/Diadora
++ Lotto |  |  |  | r | https://pt.wikipedia.org/wiki/Lotto_Sport_Italia
++ Hummel |  |  |  | r | https://pt.wikipedia.org/wiki/Hummel_International
++ The North Face | North Face |  |  | i | https://pt.wikipedia.org/wiki/The_North_Face
++ Columbia |  |  |  | r | https://pt.wikipedia.org/wiki/Columbia_Sportswear
++ Volcom |  |  |  | e | https://pt.wikipedia.org/wiki/Volcom
++ Moleca |  |  |  | r | https://pt.wikipedia.org/wiki/Moleca
++ Azaleia |  |  |  | r | https://pt.wikipedia.org/wiki/Azaleia
++ Santa Lolla |  |  |  | e | https://pt.wikipedia.org/wiki/Santa_Lolla
++ Carmen Steffens |  |  |  | e | https://pt.wikipedia.org/wiki/Carmen_Steffens
++ Michael Kors |  |  |  | i | https://pt.wikipedia.org/wiki/Michael_Kors
++ Longchamp |  |  |  | e | https://pt.wikipedia.org/wiki/Longchamp
++ Cartier |  |  |  | i | https://pt.wikipedia.org/wiki/Cartier
++ Bvlgari | Bulgari |  |  | i | https://pt.wikipedia.org/wiki/Bulgari
++ Montblanc | Mont Blanc |  |  | r | https://pt.wikipedia.org/wiki/Montblanc
++ Bottega Veneta |  |  |  | r | https://pt.wikipedia.org/wiki/Bottega_Veneta
++ Off-White |  |  |  | r | https://pt.wikipedia.org/wiki/Off-White
++ Miu Miu |  |  |  | r | https://pt.wikipedia.org/wiki/Miu_Miu
++ Salvatore Ferragamo | Ferragamo |  |  | e | https://pt.wikipedia.org/wiki/Salvatore_Ferragamo
++ Jimmy Choo |  |  |  | r | https://pt.wikipedia.org/wiki/Jimmy_Choo
++ Christian Louboutin | Louboutin |  |  | r | https://pt.wikipedia.org/wiki/Christian_Louboutin
++ Hugo Boss | Boss |  |  | r | https://pt.wikipedia.org/wiki/Hugo_Boss
++ Emporio Armani | Armani Exchange |  |  | r | https://pt.wikipedia.org/wiki/Emporio_Armani
++ Moschino |  |  |  | e | https://pt.wikipedia.org/wiki/Moschino
++ Kenzo |  |  |  | e | https://pt.wikipedia.org/wiki/Kenzo
++ Balmain |  |  |  | e | https://pt.wikipedia.org/wiki/Balmain
++ Zegna | Ermenegildo Zegna |  |  | e | https://pt.wikipedia.org/wiki/Ermenegildo_Zegna
++ Cavalli | Roberto Cavalli |  |  | e | https://pt.wikipedia.org/wiki/Roberto_Cavalli
++ Valisère |  |  |  | e | https://pt.wikipedia.org/wiki/Valis%C3%A8re
++ Triumph |  |  |  | e | https://pt.wikipedia.org/wiki/Triumph_International
+== mar-moda
++ Gap |  |  |  | i | https://en.wikipedia.org/wiki/Gap_Inc.
++ Pull&Bear | Pull and Bear |  |  | r | https://en.wikipedia.org/wiki/Pull%26Bear
++ American Eagle |  |  |  | e | https://en.wikipedia.org/wiki/American_Eagle_Outfitters
++ Lululemon |  |  |  | r | https://en.wikipedia.org/wiki/Lululemon
++ Patagonia |  |  |  | r | https://en.wikipedia.org/wiki/Patagonia%2C_Inc.
++ Coach |  |  |  | r | https://en.wikipedia.org/wiki/Coach_(brand)
++ Kate Spade |  |  |  | e | https://en.wikipedia.org/wiki/Kate_Spade_New_York
++ Tory Burch |  |  |  | e | https://en.wikipedia.org/wiki/Tory_Burch
++ Saint Laurent | Yves Saint Laurent;YSL |  |  | r | https://en.wikipedia.org/wiki/Yves_Saint_Laurent_(brand)
++ Celine |  |  |  | r | https://en.wikipedia.org/wiki/Celine_(brand)
++ Moncler |  |  |  | r | https://en.wikipedia.org/wiki/Moncler
++ Lanvin |  |  |  | e | https://en.wikipedia.org/wiki/Lanvin
++ Rainha |  |  |  | r | https://pt.wikipedia.org/wiki/Rainha_(marca)

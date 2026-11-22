@@ -20,10 +20,21 @@ const DIFICULDADES = new Set(["facil", "media", "dificil"]);
 const RARIDADES = ["comum", "incomum", "raro", "epico", "lendario"];
 const SLUG = /^[a-z0-9]+(-[a-z0-9]+)*$/;
 const PREFIXO_MIN = 0.8;
+// Pares de prefixo já revisados (palavras distintas e válidas): "<id> | <curta> | <longa>".
+const PREFIXOS_REVISADOS = new Set(
+  readFileSync(join(raiz, "scripts", "prefixos-revisados.txt"), "utf8").split(/\r?\n/)
+    .filter((l) => l.trim() && !l.startsWith("#"))
+    .map((l) => l.split("|").map((x, i) => (i === 0 ? x.trim() : normalizarRev(x))).join("|")),
+);
+function normalizarRev(s) {
+  return s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
+}
+const revisados = new Set();
 
+// Igual ao jogo (src/shared/normalizar.ts): "&" vale "e".
 const normalizar = (s) =>
   s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase()
-    .replace(/[^a-z0-9]+/g, " ").trim();
+    .replace(/&/g, " e ").replace(/[^a-z0-9]+/g, " ").trim();
 
 const similares = [];
 const erros = [];
@@ -41,6 +52,46 @@ function formasDe(r) {
   const formas = [r.canonica, ...(r.aceitas ?? [])];
   for (const lst of Object.values(r.traducoes ?? {})) formas.push(...lst);
   return formas.filter(ehTexto);
+}
+
+// O texto e a nota aparecem na tela: nenhum trecho deles pode valer como resposta da pergunta.
+// Usa as mesmas regras do jogo (src/server/casamento.ts): exato, prefixo de 80% de uma forma em português
+// e erro de digitação (1, ou 2 a partir de 9 letras). Traduções só contam exatas.
+// Formas de uma letra ficam de fora (o símbolo "O" casaria com o artigo "o").
+function validarVazamento(onde, p) {
+  for (const campo of ["texto", "nota"]) {
+    if (!ehTexto(p[campo])) continue;
+    const palavras = normalizar(p[campo]).split(" ");
+    const trechos = new Set();
+    for (let i = 0; i < palavras.length; i++) for (let n = 1; n <= 4 && i + n <= palavras.length; n++) trechos.add(palavras.slice(i, i + n).join(" "));
+    for (const r of p.respostas ?? []) {
+      const pt = [r.canonica, ...(r.aceitas ?? [])].map((x) => [x, normalizar(x)]);
+      const tr = Object.values(r.traducoes ?? {}).flat().map((x) => [x, normalizar(x)]);
+      let achou;
+      for (const t of trechos) {
+        achou = [...pt, ...tr].find(([, n]) => n.length > 1 && n === t)
+          ?? pt.find(([, n]) => t.length >= 2 && n.length > t.length && n.startsWith(t) && t.length >= PREFIXO_MIN * n.length)
+          ?? (t.length >= 5 ? pt.find(([, n]) => { const lim = t.length >= 9 ? 2 : 1; return n.length >= 5 && distancia(t, n, lim) <= lim; }) : undefined);
+        if (achou) { achou = { forma: achou[0], trecho: t }; break; }
+      }
+      if (achou) erro(`${onde}/${r.id}`, `${campo === "nota" ? "a nota" : "o texto"} da pergunta revela a resposta "${achou.forma}" (trecho "${achou.trecho}")`);
+    }
+  }
+}
+
+// Fora dos temas de obras e produtos, nomes que só diferem pelo número são UMA resposta (Ramsés I e II → Ramsés).
+// Deve bater com TEMAS_OBRAS de scripts/banco/lib.mjs.
+const TEMAS_OBRAS = new Set(["cinema-tv", "anime-desenho", "novelas-tv-br", "games", "marcas-empresas", "musica-br", "musica-internacional"]);
+function validarNumerados(onde, tema, respostas) {
+  if (TEMAS_OBRAS.has(tema)) return;
+  const porBase = new Map();
+  for (const r of respostas) {
+    const n = normalizar(r.canonica);
+    const b = semNumeral(n);
+    if (b === n && !respostas.some((o) => o !== r && semNumeral(normalizar(o.canonica)) === n && normalizar(o.canonica) !== n)) continue;
+    (porBase.get(b) ?? porBase.set(b, []).get(b)).push(r.canonica);
+  }
+  for (const [b, lst] of porBase) if (lst.length > 1) erro(onde, `respostas que só diferem pelo número devem ser uma só ("${b}"): ${lst.join(", ")}`);
 }
 
 // Levenshtein com corte: devolve limite + 1 se a distância passar do limite.
@@ -84,11 +135,16 @@ function listarSimilares(onde, todas) {
   }
 }
 
+// Tira um numeral final (romano até XXXIX ou arábico) separado por espaço: "ramses ii" → "ramses".
+const NUMERAL_FINAL = /\s(?:\d+|x{0,3}(?:ix|iv|v?i{0,3}))$/;
+const semNumeral = (n) => n.replace(NUMERAL_FINAL, "");
+
 function validarColisoes(onde, respostas) {
   const dono = new Map(); // forma normalizada -> id da resposta
   const todas = [];
   for (const r of respostas) {
     const proprias = new Set();
+    const formasPt = new Set([r.canonica, ...(r.aceitas ?? [])]);
     for (const f of formasDe(r)) {
       const n = normalizar(f);
       if (!n) { erro(`${onde}/${r.id}`, `forma vazia após normalizar: "${f}"`); continue; }
@@ -97,7 +153,7 @@ function validarColisoes(onde, respostas) {
       const outro = dono.get(n);
       if (outro && outro !== r.id) erro(`${onde}`, `forma "${f}" (${n}) pertence a "${outro}" e "${r.id}"`);
       else dono.set(n, r.id);
-      todas.push({ n, id: r.id, f });
+      todas.push({ n, id: r.id, f, pt: formasPt.has(f) });
     }
   }
   if (SIMILARES) listarSimilares(onde, todas);
@@ -108,8 +164,16 @@ function validarColisoes(onde, respostas) {
     for (let j = i + 1; j < todas.length && todas[j].n.startsWith(a.n); j++) {
       const b = todas[j];
       if (b.id === a.id || b.n === a.n) continue;
+      // Traduções só valem digitadas exatamente (casamento.ts), então não entram no prefixo.
+      if (!a.pt || !b.pt) continue;
+      // Obras e produtos numerados (Carros/Carros 2, Revolution/Revolution 9, Ahmose I/Ahmose II)
+      // são respostas distintas de propósito; a forma exata sempre vence no casamento.
+      if (semNumeral(a.n) === semNumeral(b.n)) continue;
       if (a.n.length >= PREFIXO_MIN * b.n.length) {
-        erro(onde, `prefixo ambíguo: "${a.f}" (${a.id}) cobre ${Math.round((100 * a.n.length) / b.n.length)}% de "${b.f}" (${b.id})`);
+        // Palavras distintas e válidas (Pulga/Pulgão) podem ficar se revisadas em prefixos-revisados.txt.
+        const chave = `${onde.split("#").pop()}|${a.n}|${b.n}`;
+        if (PREFIXOS_REVISADOS.has(chave)) { revisados.add(chave); continue; }
+        erro(onde, `prefixo ambíguo: "${a.f}" (${a.id}) cobre ${Math.round((100 * a.n.length) / b.n.length)}% de "${b.f}" (${b.id}) — corrija ou registre em scripts/prefixos-revisados.txt`);
       }
     }
   }
@@ -170,6 +234,8 @@ function validarArquivo(arquivo) {
     }
     totalRespostas += p.respostas.length;
     validarColisoes(onde, p.respostas);
+    validarVazamento(onde, p);
+    validarNumerados(onde, tema.tema, p.respostas);
 
     const comuns = raridade.comum + raridade.incomum;
     if (comuns < p.respostas.length * 0.3) aviso(onde, `poucas respostas comuns/incomuns (${comuns}/${p.respostas.length})`);
@@ -181,6 +247,9 @@ function validarArquivo(arquivo) {
 const arquivos = readdirSync(dir).filter((f) => f.endsWith(".json")).sort();
 if (arquivos.length === 0) erro(dir, "nenhum arquivo .json encontrado");
 arquivos.forEach(validarArquivo);
+for (const chave of PREFIXOS_REVISADOS) {
+  if (!revisados.has(chave)) aviso("prefixos-revisados.txt", `par não encontrado no banco (pode remover): ${chave}`);
+}
 
 if (ESTATISTICAS || erros.length === 0) {
   const tot = { perguntas: 0, respostas: 0, raridade: Object.fromEntries(RARIDADES.map((r) => [r, 0])) };

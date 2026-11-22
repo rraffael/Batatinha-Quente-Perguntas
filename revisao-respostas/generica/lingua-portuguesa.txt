@@ -1,0 +1,173 @@
+== lpt-figuras-linguagem
++ Sarcasmo |  | Sarcasm | Sarcasmo | i | https://pt.wikipedia.org/wiki/Figura_de_linguagem
++ Alusão |  | Allusion | Alusión | r | https://pt.wikipedia.org/wiki/Figura_de_linguagem
++ Hendíade |  | Hendiadys | Hendíadis | e | https://pt.wikipedia.org/wiki/Figura_de_linguagem
++ Antífrase |  | Antiphrasis | Antífrasis | e | https://pt.wikipedia.org/wiki/Figura_de_linguagem
++ Metalepse |  | Metalepsis | Metalepsis | l | https://pt.wikipedia.org/wiki/Figura_de_linguagem
++ Epanalepse |  | Epanalepsis | Epanalepsis | l | https://pt.wikipedia.org/wiki/Figura_de_linguagem
++ Prolepse |  | Prolepsis | Prolepsis | l | https://pt.wikipedia.org/wiki/Figura_de_linguagem
++ Animalização | Zoomorfização |  |  | e | https://pt.wikipedia.org/wiki/Figura_de_linguagem
++ Reificação | Coisificação |  |  | e | https://pt.wikipedia.org/wiki/Figura_de_linguagem
+~ Epizeuxe | Reduplicação | https://pt.wikipedia.org/wiki/Figura_de_linguagem
+== lpt-coletivos
++ Legião |  |  |  | i | https://pt.wikipedia.org/wiki/Substantivo_coletivo
++ Armada |  |  |  | i | https://pt.wikipedia.org/wiki/Substantivo_coletivo
++ Falange |  |  |  | r | https://pt.wikipedia.org/wiki/Substantivo_coletivo
++ Década |  |  |  | i | https://pt.wikipedia.org/wiki/Substantivo_coletivo
++ Século |  |  |  | i | https://pt.wikipedia.org/wiki/Substantivo_coletivo
++ Milênio |  |  |  | i | https://pt.wikipedia.org/wiki/Substantivo_coletivo
++ Povo |  |  |  | i | https://pt.wikipedia.org/wiki/Substantivo_coletivo
++ População |  |  |  | i | https://pt.wikipedia.org/wiki/Substantivo_coletivo
++ Classe |  |  |  | i | https://pt.wikipedia.org/wiki/Substantivo_coletivo
++ Serra |  |  |  | i | https://pt.wikipedia.org/wiki/Substantivo_coletivo
++ Alfabeto |  |  |  | i | https://pt.wikipedia.org/wiki/Substantivo_coletivo
++ Panapaná |  |  |  | e | https://pt.wikipedia.org/wiki/Substantivo_coletivo
++ Comitiva |  |  |  | i | https://www.normaculta.com.br/substantivos-coletivos/
++ Galera |  |  |  | i | https://www.normaculta.com.br/substantivos-coletivos/
++ Companhia |  |  |  | i | https://www.normaculta.com.br/substantivos-coletivos/
++ Horda |  |  |  | r | https://www.normaculta.com.br/substantivos-coletivos/
++ Cavalaria |  |  |  | r | https://www.normaculta.com.br/substantivos-coletivos/
++ Colônia |  |  |  | r | https://www.normaculta.com.br/substantivos-coletivos/
++ Pinhal |  |  |  | r | https://www.normaculta.com.br/substantivos-coletivos/
++ Fardo |  |  |  | r | https://www.normaculta.com.br/substantivos-coletivos/
++ Banca |  |  |  | r | https://www.normaculta.com.br/substantivos-coletivos/
++ Bancada |  |  |  | r | https://www.normaculta.com.br/substantivos-coletivos/
++ Comunidade |  |  |  | r | https://www.normaculta.com.br/substantivos-coletivos/
++ Fornada |  |  |  | r | https://www.normaculta.com.br/substantivos-coletivos/
++ Repertório |  |  |  | r | https://www.normaculta.com.br/substantivos-coletivos/
++ Seleta |  |  |  | r | https://www.normaculta.com.br/substantivos-coletivos/
++ Chusma |  |  |  | e | https://pt.wikipedia.org/wiki/Substantivo_coletivo
++ Choldra |  |  |  | e | https://pt.wikipedia.org/wiki/Substantivo_coletivo
++ Conclave |  |  |  | e | https://pt.wikipedia.org/wiki/Substantivo_coletivo
++ Concílio |  |  |  | e | https://www.normaculta.com.br/substantivos-coletivos/
++ Congregação |  |  |  | e | https://pt.wikipedia.org/wiki/Substantivo_coletivo
++ Cavalgada |  |  |  | e | https://www.normaculta.com.br/substantivos-coletivos/
++ Renque |  |  |  | e | https://www.normaculta.com.br/substantivos-coletivos/
++ Magote |  |  |  | e | https://www.normaculta.com.br/substantivos-coletivos/
++ Saraivada |  |  |  | e | https://www.normaculta.com.br/substantivos-coletivos/
++ Novena |  |  |  | e | https://pt.wikipedia.org/wiki/Substantivo_coletivo
++ Praga |  |  |  | e | https://www.normaculta.com.br/substantivos-coletivos/
++ Cabido |  |  |  | l | https://www.normaculta.com.br/substantivos-coletivos/
++ Companha |  |  |  | l | https://www.normaculta.com.br/substantivos-coletivos/
++ Farândola |  |  |  | l | https://www.normaculta.com.br/substantivos-coletivos/
++ Grosa |  |  |  | l | https://www.normaculta.com.br/substantivos-coletivos/
++ Gataria |  |  |  | l | https://pt.wikipedia.org/wiki/Substantivo_coletivo
++ Burricada |  |  |  | l | https://pt.wikipedia.org/wiki/Substantivo_coletivo
++ Baleal |  |  |  | l | https://pt.wikipedia.org/wiki/Substantivo_coletivo
++ Olival |  |  |  | l | https://pt.wikipedia.org/wiki/Substantivo_coletivo
++ Carvalhal |  |  |  | l | https://pt.wikipedia.org/wiki/Substantivo_coletivo
++ Herbário |  |  |  | l | https://pt.wikipedia.org/wiki/Substantivo_coletivo
++ Consistório |  |  |  | l | https://pt.wikipedia.org/wiki/Substantivo_coletivo
++ Camerata |  |  |  | l | https://pt.wikipedia.org/wiki/Substantivo_coletivo
++ Tertúlia |  |  |  | l | https://pt.wikipedia.org/wiki/Substantivo_coletivo
++ Abecedário |  |  |  | l | https://pt.wikipedia.org/wiki/Substantivo_coletivo
++ Alameda |  |  |  | l | https://pt.wikipedia.org/wiki/Substantivo_coletivo
++ Lustro |  |  |  | l | https://pt.wikipedia.org/wiki/Substantivo_coletivo
++ Biênio |  |  |  | l | https://pt.wikipedia.org/wiki/Substantivo_coletivo
++ Triênio |  |  |  | l | https://pt.wikipedia.org/wiki/Substantivo_coletivo
++ Quinquênio |  |  |  | l | https://pt.wikipedia.org/wiki/Substantivo_coletivo
++ Semestre |  |  |  | e | https://pt.wikipedia.org/wiki/Substantivo_coletivo
++ Trimestre |  |  |  | e | https://pt.wikipedia.org/wiki/Substantivo_coletivo
++ Bimestre |  |  |  | e | https://pt.wikipedia.org/wiki/Substantivo_coletivo
++ Quinzena |  |  |  | e | https://pt.wikipedia.org/wiki/Substantivo_coletivo
+== lpt-escritores-brasileiros
++ Maurício de Sousa | Mauricio de Souza |  |  | c | https://pt.wikipedia.org/wiki/Maur%C3%ADcio_de_Sousa
++ Augusto Cury |  |  |  | i | https://pt.wikipedia.org/wiki/Augusto_Cury
++ Jô Soares |  |  |  | i | https://pt.wikipedia.org/wiki/J%C3%B4_Soares
++ Millôr Fernandes | Millôr |  |  | i | https://pt.wikipedia.org/wiki/Mill%C3%B4r_Fernandes
++ Lygia Bojunga | Lygia Bojunga Nunes |  |  | i | https://pt.wikipedia.org/wiki/Lygia_Bojunga
++ Eva Furnari |  |  |  | i | https://pt.wikipedia.org/wiki/Eva_Furnari
++ Caio Fernando Abreu |  |  |  | i | https://pt.wikipedia.org/wiki/Caio_Fernando_Abreu
++ Marcelo Rubens Paiva |  |  |  | i | https://pt.wikipedia.org/wiki/Marcelo_Rubens_Paiva
++ Martha Medeiros |  |  |  | i | https://pt.wikipedia.org/wiki/Martha_Medeiros
++ Lya Luft |  |  |  | r | https://pt.wikipedia.org/wiki/Lya_Luft
++ Mário Prata |  |  |  | r | https://pt.wikipedia.org/wiki/M%C3%A1rio_Prata
++ Malba Tahan | Júlio César de Mello e Souza |  |  | r | https://pt.wikipedia.org/wiki/Malba_Tahan
++ Rubem Alves |  |  |  | r | https://pt.wikipedia.org/wiki/Rubem_Alves
++ Gilberto Freyre |  |  |  | r | https://pt.wikipedia.org/wiki/Gilberto_Freyre
++ Darcy Ribeiro |  |  |  | r | https://pt.wikipedia.org/wiki/Darcy_Ribeiro
++ Luiz Gama |  |  |  | r | https://pt.wikipedia.org/wiki/Lu%C3%ADs_Gama
++ Maria Firmina dos Reis |  |  |  | r | https://pt.wikipedia.org/wiki/Maria_Firmina_dos_Reis
++ Nélida Piñon |  |  |  | r | https://pt.wikipedia.org/wiki/N%C3%A9lida_Pi%C3%B1on
++ Antonio Callado |  |  |  | e | https://pt.wikipedia.org/wiki/Antonio_Callado
++ Pedro Nava |  |  |  | e | https://pt.wikipedia.org/wiki/Pedro_Nava
++ Lúcio Cardoso |  |  |  | e | https://pt.wikipedia.org/wiki/L%C3%BAcio_Cardoso
++ Plínio Marcos |  |  |  | r | https://pt.wikipedia.org/wiki/Pl%C3%ADnio_Marcos
++ Haroldo de Campos |  |  |  | e | https://pt.wikipedia.org/wiki/Haroldo_de_Campos
++ Augusto de Campos |  |  |  | e | https://pt.wikipedia.org/wiki/Augusto_de_Campos
++ Alphonsus de Guimaraens |  |  |  | e | https://pt.wikipedia.org/wiki/Alphonsus_de_Guimaraens
++ Joaquim Nabuco |  |  |  | e | https://pt.wikipedia.org/wiki/Joaquim_Nabuco
++ Coelho Neto |  |  |  | e | https://pt.wikipedia.org/wiki/Coelho_Neto
++ Daniel Galera |  |  |  | e | https://pt.wikipedia.org/wiki/Daniel_Galera
++ Cristóvão Tezza |  |  |  | e | https://pt.wikipedia.org/wiki/Crist%C3%B3v%C3%A3o_Tezza
++ Luiz Ruffato |  |  |  | e | https://pt.wikipedia.org/wiki/Luiz_Ruffato
++ Patrícia Melo |  |  |  | e | https://pt.wikipedia.org/wiki/Patr%C3%ADcia_Melo
++ Bernardo Carvalho |  |  |  | e | https://pt.wikipedia.org/wiki/Bernardo_Carvalho
+== lpt-obras-brasileiras
++ Sítio do Picapau Amarelo | O Sítio do Picapau Amarelo;Sítio |  |  | c | https://pt.wikipedia.org/wiki/S%C3%ADtio_do_Picapau_Amarelo
++ Perto do Coração Selvagem |  |  |  | i | https://pt.wikipedia.org/wiki/Perto_do_Cora%C3%A7%C3%A3o_Selvagem
++ A Maçã no Escuro |  |  |  | r | https://pt.wikipedia.org/wiki/A_Ma%C3%A7%C3%A3_no_Escuro
++ O Homem que Calculava |  |  |  | i | https://pt.wikipedia.org/wiki/O_Homem_que_Calculava
++ O Coronel e o Lobisomem |  |  |  | r | https://pt.wikipedia.org/wiki/O_Coronel_e_o_Lobisomem
++ Viva o Povo Brasileiro |  |  |  | r | https://pt.wikipedia.org/wiki/Viva_o_Povo_Brasileiro
++ Dois Irmãos |  |  |  | r | https://pt.wikipedia.org/wiki/Dois_Irm%C3%A3os_(romance)
++ Primeiras Estórias |  |  |  | r | https://pt.wikipedia.org/wiki/Primeiras_Est%C3%B3rias
++ Corpo de Baile |  |  |  | r | https://pt.wikipedia.org/wiki/Corpo_de_Baile
++ Memórias do Cárcere |  |  |  | r | https://pt.wikipedia.org/wiki/Mem%C3%B3rias_do_C%C3%A1rcere
++ Angústia |  |  |  | r | https://pt.wikipedia.org/wiki/Ang%C3%BAstia_(romance)
++ Úrsula |  |  |  | r | https://pt.wikipedia.org/wiki/%C3%9Arsula_(romance)
++ Bom-Crioulo |  |  |  | r | https://pt.wikipedia.org/wiki/Bom-Crioulo
++ Til |  |  |  | e | https://pt.wikipedia.org/wiki/Til_(romance)
++ O Sertanejo |  |  |  | e | https://pt.wikipedia.org/wiki/O_Sertanejo
++ A Viuvinha |  |  |  | e | https://pt.wikipedia.org/wiki/A_Viuvinha
++ Cinco Minutos |  |  |  | e | https://pt.wikipedia.org/wiki/Cinco_Minutos
++ O Cabeleira |  |  |  | e | https://pt.wikipedia.org/wiki/O_Cabeleira
++ A Normalista |  |  |  | e | https://pt.wikipedia.org/wiki/A_Normalista
++ Canaã |  |  |  | e | https://pt.wikipedia.org/wiki/Cana%C3%A3_(romance)
++ Pauliceia Desvairada |  |  |  | r | https://pt.wikipedia.org/wiki/Pauliceia_Desvairada
++ Amar, Verbo Intransitivo |  |  |  | r | https://pt.wikipedia.org/wiki/Amar%2C_Verbo_Intransitivo
++ Memórias Sentimentais de João Miramar |  |  |  | e | https://pt.wikipedia.org/wiki/Mem%C3%B3rias_Sentimentais_de_Jo%C3%A3o_Miramar
++ Serafim Ponte Grande |  |  |  | e | https://pt.wikipedia.org/wiki/Serafim_Ponte_Grande
++ O Rei da Vela |  |  |  | e | https://pt.wikipedia.org/wiki/O_Rei_da_Vela
++ Manifesto Antropófago |  |  |  | e | https://pt.wikipedia.org/wiki/Manifesto_Antrop%C3%B3fago
++ Claro Enigma |  |  |  | e | https://pt.wikipedia.org/wiki/Claro_Enigma
++ Romanceiro da Inconfidência |  |  |  | e | https://pt.wikipedia.org/wiki/Romanceiro_da_Inconfid%C3%AAncia
++ A Educação pela Pedra |  |  |  | e | https://pt.wikipedia.org/wiki/A_Educa%C3%A7%C3%A3o_pela_Pedra
++ Espumas Flutuantes |  |  |  | e | https://pt.wikipedia.org/wiki/Espumas_Flutuantes
++ Os Timbiras |  |  |  | l | https://pt.wikipedia.org/wiki/Os_Timbiras
++ O Beijo no Asfalto |  |  |  | r | https://pt.wikipedia.org/wiki/O_Beijo_no_Asfalto
++ Toda Nudez Será Castigada |  |  |  | r | https://pt.wikipedia.org/wiki/Toda_Nudez_Ser%C3%A1_Castigada
++ A Vida Como Ela É |  |  |  | r | https://pt.wikipedia.org/wiki/A_Vida_Como_Ela_%C3%89...
++ Navalha na Carne |  |  |  | r | https://pt.wikipedia.org/wiki/Navalha_na_Carne
++ Gota d'Água | Gota Dágua |  |  | r | https://pt.wikipedia.org/wiki/Gota_d'%C3%81gua
++ Ópera do Malandro |  |  |  | r | https://pt.wikipedia.org/wiki/%C3%93pera_do_Malandro
++ Uma Mulher Vestida de Sol |  |  |  | l | https://pt.wikipedia.org/wiki/Uma_Mulher_Vestida_de_Sol
++ O Santo e a Porca |  |  |  | e | https://pt.wikipedia.org/wiki/O_Santo_e_a_Porca
++ Tereza Batista Cansada de Guerra |  |  |  | r | https://pt.wikipedia.org/wiki/Tereza_Batista_Cansada_de_Guerra
++ Cacau |  |  |  | e | https://pt.wikipedia.org/wiki/Cacau_(romance)
++ O Gato Malhado e a Andorinha Sinhá |  |  |  | e | https://pt.wikipedia.org/wiki/O_Gato_Malhado_e_a_Andorinha_Sinh%C3%A1
++ Emília no País da Gramática |  |  |  | e | https://pt.wikipedia.org/wiki/Em%C3%ADlia_no_Pa%C3%ADs_da_Gram%C3%A1tica
++ Caçadas de Pedrinho |  |  |  | r | https://pt.wikipedia.org/wiki/Ca%C3%A7adas_de_Pedrinho
++ Memórias da Emília |  |  |  | e | https://pt.wikipedia.org/wiki/Mem%C3%B3rias_da_Em%C3%ADlia
++ A Menina do Narizinho Arrebitado |  |  |  | r | https://pt.wikipedia.org/wiki/A_Menina_do_Narizinho_Arrebitado
++ Flicts |  |  |  | r | https://pt.wikipedia.org/wiki/Flicts
++ Uma Professora Muito Maluquinha |  |  |  | r | https://pt.wikipedia.org/wiki/Uma_Professora_Muito_Maluquinha
++ Bisa Bia, Bisa Bel |  |  |  | e | https://pt.wikipedia.org/wiki/Bisa_Bia%2C_Bisa_Bel
++ Viagem ao Céu |  |  |  | e | https://pt.wikipedia.org/wiki/Viagem_ao_C%C3%A9u
++ A Cartomante |  |  |  | i | https://pt.wikipedia.org/wiki/A_Cartomante
++ Missa do Galo |  |  |  | i | https://pt.wikipedia.org/wiki/Missa_do_Galo
++ Pai Contra Mãe |  |  |  | e | https://pt.wikipedia.org/wiki/Pai_contra_M%C3%A3e
++ Iaiá Garcia |  |  |  | e | https://pt.wikipedia.org/wiki/Iai%C3%A1_Garcia
++ Papéis Avulsos |  |  |  | e | https://pt.wikipedia.org/wiki/Pap%C3%A9is_Avulsos
++ Relíquias de Casa Velha |  |  |  | l | https://pt.wikipedia.org/wiki/Rel%C3%ADquias_de_Casa_Velha
++ A Grande Arte |  |  |  | e | https://pt.wikipedia.org/wiki/A_Grande_Arte
++ Zero |  |  |  | e | https://pt.wikipedia.org/wiki/Zero_(romance)
++ Sargento Getúlio |  |  |  | e | https://pt.wikipedia.org/wiki/Sargento_Get%C3%BAlio
++ Clarissa |  |  |  | e | https://pt.wikipedia.org/wiki/Clarissa_(romance)
++ Música ao Longe |  |  |  | l | https://pt.wikipedia.org/wiki/M%C3%BAsica_ao_Longe
++ Pedra Bonita |  |  |  | l | https://pt.wikipedia.org/wiki/Pedra_Bonita_(romance)
++ Doidinho |  |  |  | l | https://pt.wikipedia.org/wiki/Doidinho
++ Banguê |  |  |  | l | https://pt.wikipedia.org/wiki/Bangu%C3%AA
++ A Cidade Sitiada |  |  |  | l | https://pt.wikipedia.org/wiki/A_Cidade_Sitiada
++ Uma Aprendizagem ou O Livro dos Prazeres |  |  |  | l | https://pt.wikipedia.org/wiki/Uma_Aprendizagem_ou_O_Livro_dos_Prazeres
++ A Legião Estrangeira |  |  |  | l | https://pt.wikipedia.org/wiki/A_Legi%C3%A3o_Estrangeira

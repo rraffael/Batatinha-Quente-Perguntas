@@ -1,0 +1,34 @@
+== com-frutas
+~ Banana | Banana-prata;Banana-nanica;Banana-maçã;Banana-da-terra | https://pt.wikipedia.org/wiki/Banana
+~ Limão | Limão-siciliano;Limão-taiti;Limão-galego | https://pt.wikipedia.org/wiki/Lim%C3%A3o
+~ Lima-da-pérsia | Lima | https://pt.wikipedia.org/wiki/Lima-da-p%C3%A9rsia
+~ Physalis | Fisális;Fisalis;Camapu;Tomate-capucho | https://pt.wikipedia.org/wiki/Physalis
+== com-hortalicas
+~ Alface | Alface-americana;Alface-crespa;Alface-roxa;Alface-lisa | https://pt.wikipedia.org/wiki/Alface
+~ Abobrinha | Abobrinha-italiana;Abobrinha-verde | https://pt.wikipedia.org/wiki/Abobrinha
+~ Pimentão | Pimentão-verde;Pimentão-vermelho;Pimentão-amarelo | https://pt.wikipedia.org/wiki/Piment%C3%A3o
+~ Cebola | Cebola-roxa;Cebola-branca | https://pt.wikipedia.org/wiki/Cebola
+~ Inhame | Taro | https://pt.wikipedia.org/wiki/Taro
++ Ruibarbo | | Rhubarb | Ruibarbo | r | https://pt.wikipedia.org/wiki/Ruibarbo
+== com-pratos-brasileiros
+~ Feijoada | Feijoada completa | https://pt.wikipedia.org/wiki/Feijoada
+~ Churrasco | Churrasquinho;Espetinho | https://pt.wikipedia.org/wiki/Churrasco
+~ Pato no tucupi | Pato ao tucupi | https://pt.wikipedia.org/wiki/Pato_no_tucupi
+~ Virado à paulista | Virado paulista | https://pt.wikipedia.org/wiki/Virado_%C3%A0_paulista
+~ Moqueca | Moqueca de peixe;Moqueca de camarão | https://pt.wikipedia.org/wiki/Moqueca
+~ Empadão goiano | Empadão | https://pt.wikipedia.org/wiki/Empad%C3%A3o_goiano
++ Salpicão | Salada de salpicão;Salpicão de frango | | Ensalada de salpicón | i | https://pt.wikipedia.org/wiki/Salpic%C3%A3o_(salada)
+== com-doces-brasileiros
++ Rabanada | Fatia dourada | French toast | Torrija | i | https://pt.wikipedia.org/wiki/Rabanada
+~ Pudim | Pudim de leite condensado | https://pt.wikipedia.org/wiki/Pudim
+== com-temperos
++ Pimenta | | Pepper;Chili | Pimienta;Chile | c | https://pt.wikipedia.org/wiki/Pimenta
++ Vinagre | | Vinegar | Vinagre | i | https://pt.wikipedia.org/wiki/Vinagre
+~ Cúrcuma | Açafrão-da-índia;Açafroeira-da-índia | https://pt.wikipedia.org/wiki/C%C3%BArcuma
+~ Endro | Aneto | https://pt.wikipedia.org/wiki/Endro
+== com-massas
+~ Linguine | Linguini | https://pt.wikipedia.org/wiki/Linguine
+~ Fettuccine | Fettuccini;Fettucine | https://pt.wikipedia.org/wiki/Fettuccine
+== com-queijos
+~ Coalho | Queijo de coalho | https://pt.wikipedia.org/wiki/Queijo_coalho
+~ Minas padrão | Minas curado;Queijo minas curado;Queijo minas padrão | https://pt.wikipedia.org/wiki/Queijo_minas

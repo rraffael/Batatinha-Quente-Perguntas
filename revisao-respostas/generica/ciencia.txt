@@ -1,0 +1,50 @@
+== cie-sistema-solar
+~ Cometa Halley | Cometa de Halley | https://pt.wikipedia.org/wiki/Cometa_Halley
+
+== cie-constelacoes
+~ Ursa Maior | Grande Ursa | https://pt.wikipedia.org/wiki/Ursa_Maior
+~ Ursa Menor | Pequena Ursa | https://pt.wikipedia.org/wiki/Ursa_Menor
+~ Cão Maior | Grande Cão | https://pt.wikipedia.org/wiki/C%C3%A3o_Maior
+~ Cão Menor | Pequeno Cão | https://pt.wikipedia.org/wiki/C%C3%A3o_Menor
+
+== cie-cientistas
++ Charles Babbage | Babbage | | | i | https://pt.wikipedia.org/wiki/Charles_Babbage
++ Michio Kaku | Kaku | | | r | https://pt.wikipedia.org/wiki/Michio_Kaku
++ Anders Celsius | Celsius | | | i | https://pt.wikipedia.org/wiki/Anders_Celsius
++ Daniel Gabriel Fahrenheit | Daniel Fahrenheit;Fahrenheit | | | i | https://pt.wikipedia.org/wiki/Daniel_Gabriel_Fahrenheit
++ William Herschel | Herschel | | | r | https://pt.wikipedia.org/wiki/William_Herschel
++ Ludwig Boltzmann | Boltzmann | | | r | https://pt.wikipedia.org/wiki/Ludwig_Boltzmann
++ Roger Penrose | Penrose | | | r | https://pt.wikipedia.org/wiki/Roger_Penrose
++ Anthony Fauci | Fauci | | | r | https://pt.wikipedia.org/wiki/Anthony_Fauci
++ Mary Anning | | | | r | https://pt.wikipedia.org/wiki/Mary_Anning
++ Emmanuelle Charpentier | Charpentier | | | r | https://pt.wikipedia.org/wiki/Emmanuelle_Charpentier
++ Átila Iamarino | Atila Iamarino | | | r | https://pt.wikipedia.org/wiki/%C3%81tila_Iamarino
++ Natalia Pasternak | Natália Pasternak | | | r | https://pt.wikipedia.org/wiki/Natalia_Pasternak
++ Ricardo Galvão | Galvão | | | e | https://pt.wikipedia.org/wiki/Ricardo_Magnus_Os%C3%B3rio_Galv%C3%A3o
++ Benoît Mandelbrot | Mandelbrot | | | e | https://pt.wikipedia.org/wiki/Beno%C3%AEt_Mandelbrot
++ Pierre de Fermat | Fermat | | | r | https://pt.wikipedia.org/wiki/Pierre_de_Fermat
++ Evangelista Torricelli | Torricelli | | | r | https://pt.wikipedia.org/wiki/Evangelista_Torricelli
++ Charles-Augustin de Coulomb | Coulomb | | | r | https://pt.wikipedia.org/wiki/Charles-Augustin_de_Coulomb
++ Hans Christian Ørsted | Ørsted;Oersted;Hans Christian Oersted | | | e | https://pt.wikipedia.org/wiki/Hans_Christian_%C3%98rsted
++ Joseph-Louis Lagrange | Lagrange | | | r | https://pt.wikipedia.org/wiki/Joseph-Louis_Lagrange
++ Pierre-Simon Laplace | Laplace | | | r | https://pt.wikipedia.org/wiki/Pierre-Simon_Laplace
++ Otto Hahn | Hahn | | | e | https://pt.wikipedia.org/wiki/Otto_Hahn
++ Svante Arrhenius | Arrhenius | | | e | https://pt.wikipedia.org/wiki/Svante_Arrhenius
++ Robert Bunsen | Bunsen | | | e | https://pt.wikipedia.org/wiki/Robert_Bunsen
++ August Kekulé | Kekulé | | | e | https://pt.wikipedia.org/wiki/Friedrich_August_Kekul%C3%A9
++ Frederick Banting | Banting | | | e | https://pt.wikipedia.org/wiki/Frederick_Banting
++ William Harvey | Harvey | | | e | https://pt.wikipedia.org/wiki/William_Harvey
++ Andreas Vesalius | Vesálio;Andreas Vesálio | | | e | https://pt.wikipedia.org/wiki/Andreas_Vesalius
++ Paracelso | | Paracelsus | | e | https://pt.wikipedia.org/wiki/Paracelso
++ Christiaan Barnard | Barnard | | | r | https://pt.wikipedia.org/wiki/Christiaan_Barnard
++ Averróis | Ibn Rushd | Averroes | | e | https://pt.wikipedia.org/wiki/Averr%C3%B3is
+~ Adolpho Lutz | Adolfo Lutz | https://pt.wikipedia.org/wiki/Adolfo_Lutz
+~ Alexander Fleming | Alexandre Fleming | https://pt.wikipedia.org/wiki/Alexander_Fleming
+~ Alexander Graham Bell | Alexandre Graham Bell | https://pt.wikipedia.org/wiki/Alexander_Graham_Bell
+~ Marie Curie | Marie Skłodowska-Curie;Marie Sklodowska Curie | https://pt.wikipedia.org/wiki/Marie_Curie
+~ Thomas Edison | Thomas Alva Edison | https://pt.wikipedia.org/wiki/Thomas_Edison
+~ Isaac Newton | Sir Isaac Newton | https://pt.wikipedia.org/wiki/Isaac_Newton
+~ Robert Oppenheimer | J. Robert Oppenheimer;Julius Robert Oppenheimer | https://pt.wikipedia.org/wiki/J._Robert_Oppenheimer
+
+== cie-estudos-logia
++ Tecnologia | | | | i | https://pt.wikipedia.org/wiki/Tecnologia

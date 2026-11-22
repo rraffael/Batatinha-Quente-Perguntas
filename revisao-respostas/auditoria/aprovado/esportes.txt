@@ -1,0 +1,96 @@
+== esp-modalidades-paris-2024    # Cite um esporte (ou modalidade) disputado nos Jogos Olímpicos de Paris 2024
++ Salto em altura |  | High jump | Salto de altura | r | https://pt.wikipedia.org/wiki/Atletismo_nos_Jogos_Ol%C3%ADmpicos_de_Ver%C3%A3o_de_2024    # generica
++ 100 metros rasos | 100 metros;Corrida de 100 metros | 100 metres;100m | 100 metros lisos | r | https://pt.wikipedia.org/wiki/Atletismo_nos_Jogos_Ol%C3%ADmpicos_de_Ver%C3%A3o_de_2024    # generica
++ Arremesso de peso | Lançamento de peso | Shot put | Lanzamiento de peso | r | https://pt.wikipedia.org/wiki/Atletismo_nos_Jogos_Ol%C3%ADmpicos_de_Ver%C3%A3o_de_2024    # generica
++ Lançamento de dardo | Dardo | Javelin throw | Lanzamiento de jabalina | r | https://pt.wikipedia.org/wiki/Atletismo_nos_Jogos_Ol%C3%ADmpicos_de_Ver%C3%A3o_de_2024    # generica
++ Lançamento de disco | Disco | Discus throw | Lanzamiento de disco | r | https://pt.wikipedia.org/wiki/Atletismo_nos_Jogos_Ol%C3%ADmpicos_de_Ver%C3%A3o_de_2024    # generica
++ Lançamento de martelo | Martelo | Hammer throw | Lanzamiento de martillo | e | https://pt.wikipedia.org/wiki/Atletismo_nos_Jogos_Ol%C3%ADmpicos_de_Ver%C3%A3o_de_2024    # generica
++ Revezamento | Revezamento 4x100;Revezamento 4x400 | Relay | Relevos | r | https://pt.wikipedia.org/wiki/Atletismo_nos_Jogos_Ol%C3%ADmpicos_de_Ver%C3%A3o_de_2024    # generica
++ Corrida com barreiras | Barreiras;110 metros com barreiras;400 metros com barreiras | Hurdles | Vallas | e | https://pt.wikipedia.org/wiki/Atletismo_nos_Jogos_Ol%C3%ADmpicos_de_Ver%C3%A3o_de_2024    # generica
++ Nado livre | Crawl | Freestyle | Estilo libre | r | https://pt.wikipedia.org/wiki/Nata%C3%A7%C3%A3o_nos_Jogos_Ol%C3%ADmpicos_de_Ver%C3%A3o_de_2024    # generica
++ Nado borboleta | Borboleta | Butterfly | Mariposa | r | https://pt.wikipedia.org/wiki/Nata%C3%A7%C3%A3o_nos_Jogos_Ol%C3%ADmpicos_de_Ver%C3%A3o_de_2024    # generica
++ Nado de costas | Costas;Nado costas | Backstroke | Espalda | r | https://pt.wikipedia.org/wiki/Nata%C3%A7%C3%A3o_nos_Jogos_Ol%C3%ADmpicos_de_Ver%C3%A3o_de_2024    # generica
++ Nado peito | Peito;Nado de peito | Breaststroke | Pecho | r | https://pt.wikipedia.org/wiki/Nata%C3%A7%C3%A3o_nos_Jogos_Ol%C3%ADmpicos_de_Ver%C3%A3o_de_2024    # generica
+~ Vôlei de praia | Voleibol de praia | https://pt.wikipedia.org/wiki/Voleibol_de_praia    # generica
+~ Ginástica de trampolim | Cama elástica;Trampolim | https://pt.wikipedia.org/wiki/Gin%C3%A1stica_de_trampolim    # generica
+~ Hóquei sobre grama | Hockey;Hóquei na grama | https://pt.wikipedia.org/wiki/H%C3%B3quei_sobre_a_relva    # generica
+~ Canoagem | Caiaque;Canoa | https://pt.wikipedia.org/wiki/Canoagem    # generica
+~ Maratona aquática | Águas abertas;Natação em águas abertas | https://pt.wikipedia.org/wiki/Maratona_aqu%C3%A1tica    # generica
+- Saltos ornamentais | Salto ornamental | https://pt.wikipedia.org/wiki/Saltos_ornamentais    # generica # REJ: só singular/plural (o jogo tolera)
+- Hipismo | Salto (hipismo) | https://pt.wikipedia.org/wiki/Hipismo    # generica # REJ: forma artificial, ninguém digita
+~ BMX | BMX freestyle;BMX racing | https://pt.wikipedia.org/wiki/Ciclismo_BMX    # generica
+
+== esp-com-bola    # Cite um esporte jogado com bola
++ Pickleball | Picklebol |  |  | i | https://pt.wikipedia.org/wiki/Pickleball    # generica
++ Raquetebol | Racquetball |  | Raquetbol | r | https://pt.wikipedia.org/wiki/Raquetebol    # generica
++ Vôlei sentado | Voleibol sentado | Sitting volleyball |  | r | https://pt.wikipedia.org/wiki/Voleibol_sentado    # generica
++ Handebol de praia | Andebol de praia | Beach handball | Balonmano playa | r | https://pt.wikipedia.org/wiki/Handebol_de_praia    # generica
++ Basquete em cadeira de rodas | Basquetebol em cadeira de rodas | Wheelchair basketball | Baloncesto en silla de ruedas | r | https://pt.wikipedia.org/wiki/Basquetebol_em_cadeira_de_rodas    # generica
++ Hóquei em patins |  | Roller hockey;Rink hockey | Hockey sobre patines | r | https://pt.wikipedia.org/wiki/H%C3%B3quei_em_patins    # generica
++ Petanca | Pétanque;Bocha provençal | Boules |  | e | https://pt.wikipedia.org/wiki/Petanca    # profunda
++ Kin-ball | Kinball |  |  | l | https://pt.wikipedia.org/wiki/Kin-ball    # profunda
++ Futebol de cinco | Futebol de 5;Futebol para cegos | Blind football;5-a-side football | Fútbol para ciegos | e | https://pt.wikipedia.org/wiki/Futebol_de_cinco    # profunda
+~ Beisebol | Basebol | https://pt.wikipedia.org/wiki/Beisebol    # generica
+~ Futebol | Futebol de campo | https://pt.wikipedia.org/wiki/Futebol    # generica
+~ Futebol americano | Football americano | https://pt.wikipedia.org/wiki/Futebol_americano    # generica
+~ Basquete | Basket | https://pt.wikipedia.org/wiki/Basquetebol    # generica
+~ Hóquei sobre grama | Hóquei na grama | https://pt.wikipedia.org/wiki/H%C3%B3quei_sobre_a_relva    # generica    # "Hockey" removido: colide com Hóquei em patins
+~ Pelota basca | Jai alai;Pelota | https://pt.wikipedia.org/wiki/Pelota_basca    # generica
+
+== esp-ouro-olimpico-brasil    # Cite um atleta brasileiro campeão olímpico (medalha de ouro)
++ Matheus Henrique |  |  |  | e | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Gabriel Martinelli | Martinelli |  |  | i | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Gabriel Menino | Menino |  |  | r | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Guilherme Arana | Arana |  |  | r | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Diego Carlos |  |  |  | r | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Paulinho |  |  |  | r | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Reinier |  |  |  | r | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Ricardo Graça |  |  |  | l | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Nino |  |  |  | l | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Abner | Abner Vinícius |  |  | r | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Bruno Fuchs |  |  |  | l | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Brenno |  |  |  | l | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Aderbar Santos |  |  |  | l | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Rodrigo Caio |  |  |  | r | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Felipe Anderson |  |  |  | r | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Rafinha | Rafinha Alcântara |  |  | r | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Thiago Maia |  |  |  | r | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Douglas Santos |  |  |  | r | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Rodrigo Dourado |  |  |  | l | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Walace |  |  |  | l | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Luan |  |  |  | e | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Zeca |  |  |  | l | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Uílson |  |  |  | l | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Douglas Souza |  |  |  | e | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Maurício Souza |  |  |  | e | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Lipe Fonteles | Lipe |  |  | e | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Éder Carbonera | Éder |  |  | e | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Evandro Guerra | Evandro |  |  | e | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ William Arjona | Arjona |  |  | e | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Maurício Borges |  |  |  | e | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Carol Albuquerque | Carol |  |  | l | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Walewska | Walewska Oliveira |  |  | r | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Valeskinha | Valeska Menezes |  |  | e | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Sassá | Sassá Gonzaga |  |  | l | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Adenízia |  |  |  | e | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Fernandinha | Fernanda Ferreira |  |  | e | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Anderson Rodrigues | |  |  | e | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ André Heller | Heller |  |  | r | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ André Nascimento |  |  |  | e | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Rodrigão | Rodrigo Santana |  |  | e | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Alexandre Welter |  |  |  | l | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Lars Björkström |  |  |  | l | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Eduardo Penido |  |  |  | l | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Marcos Soares |  |  |  | l | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Douglas Chiarotti | Chiarotti |  |  | l | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Amauri Ribeiro | Amauri |  |  | l | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ André Pampa | Pampa |  |  | l | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Janelson Carvalho | Janelson |  |  | l | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Jorge Edson |  |  |  | l | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Paulão | Paulão Jukoski |  |  | l | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
++ Talmo de Oliveira | Talmo |  |  | l | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
+~ Neymar | Neymar Junior | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
+~ Ana Patrícia | Ana Patrícia Ramos | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
+~ Thiago Braz | Thiago Braz da Silva | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
+~ Tandara | Tandara Caixeta | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas
+~ Jacqueline Silva | Jackie Silva | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil    # listas

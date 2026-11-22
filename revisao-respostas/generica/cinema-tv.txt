@@ -1,0 +1,212 @@
+== cin-animacoes-disney-pixar
++ Ursinho Pooh | Pooh;Winnie the Pooh;As Aventuras do Ursinho Pooh | Winnie the Pooh | Winnie the Pooh | c | https://en.wikipedia.org/wiki/Winnie_the_Pooh_(franchise)
+~ Mogli: O Menino Lobo | O Livro da Selva;Livro da Selva | https://en.wikipedia.org/wiki/The_Jungle_Book_(1967_film)
+~ Aristogatas | Os Aristogatas | https://en.wikipedia.org/wiki/The_Aristocats
+~ Fantasia | Fantasia 2000 | https://en.wikipedia.org/wiki/Fantasia_2000
+~ Lilo & Stitch | Stitch | https://en.wikipedia.org/wiki/Lilo_%26_Stitch
+== cin-personagens-marvel
++ Kingpin | Rei do Crime;Wilson Fisk | Kingpin | | c | https://en.wikipedia.org/wiki/Kingpin_(character)
++ Namor | Príncipe Namor | Namor | | i | https://en.wikipedia.org/wiki/Namor
++ Máquina de Combate | War Machine;James Rhodes;Rhodey | War Machine | | i | https://en.wikipedia.org/wiki/War_Machine
++ Pepper Potts | Virginia Potts | Pepper Potts | | i | https://en.wikipedia.org/wiki/Pepper_Potts
++ Odin | | Odin | | i | https://en.wikipedia.org/wiki/Odin_(Marvel_Comics)
++ Wong | | Wong | | i | https://en.wikipedia.org/wiki/Wong_(comics)
++ Shuri | | Shuri | | i | https://en.wikipedia.org/wiki/Shuri_(comics)
++ Okoye | | Okoye | | r | https://en.wikipedia.org/wiki/Okoye_(Marvel_Comics)
++ Killmonger | Erik Killmonger | Killmonger | | i | https://en.wikipedia.org/wiki/Killmonger
++ Yondu | Yondu Udonta | Yondu | | i | https://en.wikipedia.org/wiki/Yondu
++ Ronan | Ronan, o Acusador | Ronan the Accuser | | r | https://en.wikipedia.org/wiki/Ronan_the_Accuser
++ Morbius | | Morbius | | i | https://en.wikipedia.org/wiki/Morbius_(character)
++ Gata Negra | Felicia Hardy | Black Cat | | i | https://en.wikipedia.org/wiki/Black_Cat_(Marvel_Comics)
++ Madame Teia | | Madame Web | | r | https://en.wikipedia.org/wiki/Madame_Web
++ Abominável | Abomination;Emil Blonsky | Abomination | | r | https://en.wikipedia.org/wiki/Abomination_(character)
++ Taskmaster | Treinador | Taskmaster | | r | https://en.wikipedia.org/wiki/Taskmaster_(character)
++ Zemo | Barão Zemo;Helmut Zemo | Baron Zemo | | r | https://en.wikipedia.org/wiki/Baron_Zemo
++ Heimdall | | Heimdall | | r | https://en.wikipedia.org/wiki/Heimdall_(Marvel_Comics)
++ Sif | | Sif | | r | https://en.wikipedia.org/wiki/Sif_(comics)
++ Korg | | Korg | | r | https://en.wikipedia.org/wiki/Korg_(Marvel_Comics)
++ Mephisto | | Mephisto | | r | https://en.wikipedia.org/wiki/Mephisto_(comics)
++ Lince Negra | Kitty Pryde | Shadowcat;Kitty Pryde | | r | https://en.wikipedia.org/wiki/Shadowcat
++ Jubileu | | Jubilee | | r | https://en.wikipedia.org/wiki/Jubilee_(comics)
++ Bishop | | Bishop | | r | https://en.wikipedia.org/wiki/Bishop_(comics)
+~ Homem-Aranha | Spider-Man;Spiderman | https://en.wikipedia.org/wiki/Spider-Man
+~ Homem de Ferro | Iron Man;Ironman | https://en.wikipedia.org/wiki/Iron_Man
+~ Capitão América | Captain America | https://en.wikipedia.org/wiki/Captain_America
+~ Viúva Negra | Black Widow | https://en.wikipedia.org/wiki/Black_Widow_(Natasha_Romanoff)
+~ Gavião Arqueiro | Hawkeye | https://en.wikipedia.org/wiki/Hawkeye_(Clint_Barton)
+~ Pantera Negra | Black Panther | https://en.wikipedia.org/wiki/Black_Panther_(character)
+~ Doutor Estranho | Doctor Strange;Dr. Estranho | https://en.wikipedia.org/wiki/Doctor_Strange
+~ Capitã Marvel | Captain Marvel | https://en.wikipedia.org/wiki/Carol_Danvers
+~ Homem-Formiga | Ant-Man;Antman | https://en.wikipedia.org/wiki/Ant-Man
+~ Vespa | Wasp | https://en.wikipedia.org/wiki/Wasp_(Marvel_Comics)
+~ Feiticeira Escarlate | Scarlet Witch | https://en.wikipedia.org/wiki/Scarlet_Witch
+~ Falcão | Falcon | https://en.wikipedia.org/wiki/Falcon_(comics)
+~ Soldado Invernal | Winter Soldier | https://en.wikipedia.org/wiki/Bucky_Barnes
+~ Visão | Vision | https://en.wikipedia.org/wiki/Vision_(Marvel_Comics)
+~ Tempestade | Storm | https://en.wikipedia.org/wiki/Storm_(Marvel_Comics)
+~ Vampira | Rogue | https://en.wikipedia.org/wiki/Rogue_(Marvel_Comics)
+~ Mística | Mystique | https://en.wikipedia.org/wiki/Mystique_(Marvel_Comics)
+~ Noturno | Nightcrawler | https://en.wikipedia.org/wiki/Nightcrawler_(comics)
+~ Fera | Beast;Hank McCoy | https://en.wikipedia.org/wiki/Beast_(comics)
+~ Ciclope | Cyclops | https://en.wikipedia.org/wiki/Cyclops_(Marvel_Comics)
+~ Justiceiro | Punisher | https://en.wikipedia.org/wiki/Punisher
+~ Demolidor | Daredevil | https://en.wikipedia.org/wiki/Daredevil_(Marvel_Comics_character)
+~ Motoqueiro Fantasma | Ghost Rider | https://en.wikipedia.org/wiki/Ghost_Rider
+~ Doutor Destino | Doctor Doom;Dr. Destino | https://en.wikipedia.org/wiki/Doctor_Doom
+~ Duende Verde | Duende;Green Goblin | https://en.wikipedia.org/wiki/Green_Goblin
+~ Abutre | Vulture | https://en.wikipedia.org/wiki/Vulture_(Marvel_Comics)
+~ Rino | Rhino | https://en.wikipedia.org/wiki/Rhino_(Marvel_Comics)
+~ Lagarto | Lizard;Curt Connors | https://en.wikipedia.org/wiki/Lizard_(Marvel_Comics)
+~ Homem-Areia | Sandman | https://en.wikipedia.org/wiki/Sandman_(Marvel_Comics)
+~ Surfista Prateado | Silver Surfer | https://en.wikipedia.org/wiki/Silver_Surfer
+~ Tocha Humana | Human Torch | https://en.wikipedia.org/wiki/Human_Torch
+~ Coisa | The Thing;Thing | https://en.wikipedia.org/wiki/Thing_(comics)
+~ Senhor Fantástico | Mister Fantastic;Mr. Fantastic | https://en.wikipedia.org/wiki/Mister_Fantastic
+~ Mulher Invisível | Invisible Woman | https://en.wikipedia.org/wiki/Invisible_Woman
+~ Caveira Vermelha | Red Skull | https://en.wikipedia.org/wiki/Red_Skull
+~ Dentes-de-Sabre | Sabretooth | https://en.wikipedia.org/wiki/Sabretooth_(comics)
+~ Mulher-Hulk | She-Hulk | https://en.wikipedia.org/wiki/She-Hulk
+~ Cavaleiro da Lua | Moon Knight | https://en.wikipedia.org/wiki/Moon_Knight
+~ Mercúrio | Quicksilver | https://en.wikipedia.org/wiki/Quicksilver_(Marvel_Comics)
+~ Apocalipse | Apocalypse | https://en.wikipedia.org/wiki/Apocalypse_(comics)
+== cin-harry-potter
+~ Rony Weasley | Ron Weasley;Ron | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Harry_Potter
+~ Gina Weasley | Ginny Weasley;Ginny | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Harry_Potter
+~ Alvo Dumbledore | Albus Dumbledore | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Harry_Potter
+~ Severo Snape | Severus Snape | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Harry_Potter
+~ Rúbeo Hagrid | Rubeus Hagrid | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Harry_Potter
+~ Belatriz Lestrange | Bellatrix Lestrange;Bellatrix | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Harry_Potter
+~ Remo Lupin | Remus Lupin | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Harry_Potter
+~ Pedro Pettigrew | Peter Pettigrew;Wormtail | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Harry_Potter
+~ Lúcio Malfoy | Lucius Malfoy | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Harry_Potter
+~ Edwiges | Hedwig | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Harry_Potter
+~ Bichento | Crookshanks | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Harry_Potter
+~ Perebas | Scabbers | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Harry_Potter
+~ Bicuço | Buckbeak | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Harry_Potter
+~ Monstro | Kreacher | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Harry_Potter
+~ Jorge Weasley | George Weasley | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Harry_Potter
+~ Gui Weasley | Bill Weasley | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Harry_Potter
+~ Carlinhos Weasley | Charlie Weasley | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Harry_Potter
+~ Cedrico Diggory | Cedric Diggory | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Harry_Potter
+~ Tiago Potter | James Potter | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Harry_Potter
+~ Lílian Potter | Lily Potter;Lilian Potter | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Harry_Potter
+~ Vítor Krum | Viktor Krum | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Harry_Potter
+~ Simas Finnigan | Seamus Finnigan | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Harry_Potter
+~ Pirraça | Peeves | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Harry_Potter
+~ Murta Que Geme | Moaning Myrtle | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Harry_Potter
+~ Nick Quase Sem Cabeça | Nearly Headless Nick | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Harry_Potter
+~ Olho-Tonto Moody | Mad-Eye Moody | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Harry_Potter
++ Padma Patil | Padma | | | r | https://harrypotter.fandom.com/wiki/Padma_Patil
++ Parvati Patil | Parvati | | | r | https://harrypotter.fandom.com/wiki/Parvati_Patil
++ Pansy Parkinson | Pansy | | | i | https://harrypotter.fandom.com/wiki/Pansy_Parkinson
++ Blaise Zabini | Blaise | | | r | https://harrypotter.fandom.com/wiki/Blaise_Zabini
++ Barão Sangrento | Bloody Baron | Bloody Baron | | r | https://harrypotter.fandom.com/wiki/Bloody_Baron
++ Frei Gorducho | Fat Friar | Fat Friar | | r | https://harrypotter.fandom.com/wiki/Fat_Friar
++ Dama Cinzenta | Grey Lady;Helena Ravenclaw | Grey Lady | | r | https://harrypotter.fandom.com/wiki/Helena_Ravenclaw
++ Igor Karkaroff | Karkaroff | | | r | https://harrypotter.fandom.com/wiki/Igor_Karkaroff
++ Madame Maxime | Olympe Maxime | | | r | https://harrypotter.fandom.com/wiki/Olympe_Maxime
++ Madame Hooch | Rolanda Hooch | | | r | https://harrypotter.fandom.com/wiki/Rolanda_Hooch
++ Firenze | | | | r | https://harrypotter.fandom.com/wiki/Firenze
++ Nicolau Flamel | Nicolas Flamel | | | r | https://harrypotter.fandom.com/wiki/Nicolas_Flamel
++ Teddy Lupin | Teddy | | | r | https://harrypotter.fandom.com/wiki/Teddy_Lupin
++ Tina Goldstein | Tina | | | r | https://harrypotter.fandom.com/wiki/Porpentina_Goldstein
++ Queenie Goldstein | Queenie | | | r | https://harrypotter.fandom.com/wiki/Queenie_Goldstein
++ Jacob Kowalski | Jacob | | | r | https://harrypotter.fandom.com/wiki/Jacob_Kowalski
++ Credence Barebone | Credence | | | r | https://harrypotter.fandom.com/wiki/Credence_Barebone
+== cin-star-wars
+~ Obi-Wan Kenobi | Obiwan;Obiwan Kenobi | https://en.wikipedia.org/wiki/Obi-Wan_Kenobi
+~ Jabba, o Hutt | Jabba the Hutt | https://en.wikipedia.org/wiki/Jabba_the_Hutt
+~ Mace Windu | Mestre Windu;Windu | https://en.wikipedia.org/wiki/Mace_Windu
+~ Almirante Ackbar | Admiral Ackbar | https://en.wikipedia.org/wiki/Admiral_Ackbar
+~ Imperador Palpatine | Emperor Palpatine;Darth Sidious | https://en.wikipedia.org/wiki/Palpatine
++ Capitão Rex | Rex;Captain Rex | Captain Rex | | i | https://starwars.fandom.com/wiki/CT-7567
++ Kit Fisto | | | | r | https://en.wikipedia.org/wiki/List_of_Star_Wars_characters
++ Plo Koon | | | | r | https://en.wikipedia.org/wiki/List_of_Star_Wars_characters
++ Aayla Secura | | | | r | https://en.wikipedia.org/wiki/List_of_Star_Wars_characters
++ Ki-Adi-Mundi | | | | r | https://en.wikipedia.org/wiki/List_of_Star_Wars_characters
++ Asajj Ventress | Ventress | | | r | https://en.wikipedia.org/wiki/List_of_Star_Wars_characters
++ Nute Gunray | | | | r | https://en.wikipedia.org/wiki/List_of_Star_Wars_characters
++ Darth Plagueis | Plagueis | | | r | https://en.wikipedia.org/wiki/Darth_Plagueis
++ Bossk | | | | r | https://en.wikipedia.org/wiki/List_of_Star_Wars_characters
++ Porgs | Porg | | | i | https://en.wikipedia.org/wiki/Porg
++ Wampa | | | | i | https://en.wikipedia.org/wiki/Wampa
++ Rancor | | | | i | https://en.wikipedia.org/wiki/Rancor_(Star_Wars)
++ Cara Dune | | | | r | https://en.wikipedia.org/wiki/Cara_Dune
++ Greef Karga | | | | r | https://en.wikipedia.org/wiki/Greef_Karga
++ Fennec Shand | | | | r | https://en.wikipedia.org/wiki/Fennec_Shand
++ IG-11 | | | | r | https://en.wikipedia.org/wiki/IG-11
++ Luthen Rael | | | | r | https://en.wikipedia.org/wiki/Andor_(TV_series)
++ Dengar | | | | e | https://en.wikipedia.org/wiki/List_of_Star_Wars_characters
++ IG-88 | | | | e | https://en.wikipedia.org/wiki/List_of_Star_Wars_characters
++ Zeb Orrelios | Zeb | | | r | https://en.wikipedia.org/wiki/Star_Wars_Rebels
++ Grande Inquisidor | Grand Inquisitor | Grand Inquisitor | | r | https://en.wikipedia.org/wiki/Star_Wars_Rebels
+== cin-simpsons
+~ Sr. Burns | Mr. Burns;Mister Burns | https://en.wikipedia.org/wiki/Mr._Burns
+~ Krusty, o Palhaço | Krusty the Clown | https://en.wikipedia.org/wiki/Krusty_the_Clown
+~ Vovô Simpson | Grampa;Grampa Simpson | https://en.wikipedia.org/wiki/Grampa_Simpson
+~ Diretor Skinner | Principal Skinner | https://en.wikipedia.org/wiki/Seymour_Skinner
+~ Chefe Wiggum | Chief Wiggum;Wiggum | https://en.wikipedia.org/wiki/Chief_Wiggum
+~ Zelador Willie | Groundskeeper Willie | https://en.wikipedia.org/wiki/Groundskeeper_Willie
+~ Edna Krabappel | Professora Edna;Edna | https://en.wikipedia.org/wiki/Edna_Krabappel
++ Prefeito Quimby | Joe Quimby;Mayor Quimby | Mayor Quimby | | i | https://en.wikipedia.org/wiki/Mayor_Quimby
++ Rainier Wolfcastle | McBain;Wolfcastle | McBain | | i | https://en.wikipedia.org/wiki/Rainier_Wolfcastle
++ Jasper Beardly | Jasper | | | r | https://en.wikipedia.org/wiki/Jasper_Beardly
++ Superintendente Chalmers | Chalmers | Superintendent Chalmers | | r | https://en.wikipedia.org/wiki/Superintendent_Chalmers
++ Lou | | | | r | https://en.wikipedia.org/wiki/Eddie_and_Lou
++ Eddie | | | | r | https://en.wikipedia.org/wiki/Eddie_and_Lou
++ Jacqueline Bouvier | Jacqueline | | | r | https://en.wikipedia.org/wiki/Marge_Simpson
++ Poochie | | | | r | https://en.wikipedia.org/wiki/The_Itchy_%26_Scratchy_%26_Poochie_Show
+== cin-series-internacionais
++ Os Simpsons | Simpsons | The Simpsons | Los Simpson | c | https://en.wikipedia.org/wiki/The_Simpsons
++ The Vampire Diaries | Diários de um Vampiro | | | c | https://en.wikipedia.org/wiki/The_Vampire_Diaries
++ Pretty Little Liars | | | | c | https://en.wikipedia.org/wiki/Pretty_Little_Liars
++ Teen Wolf | | | | i | https://en.wikipedia.org/wiki/Teen_Wolf_(2011_TV_series)
++ Orange Is the New Black | | | | i | https://en.wikipedia.org/wiki/Orange_Is_the_New_Black
++ House of Cards | | | | i | https://en.wikipedia.org/wiki/House_of_Cards_(American_TV_series)
++ Ozark | | | | i | https://en.wikipedia.org/wiki/Ozark_(TV_series)
++ Cobra Kai | | | | c | https://en.wikipedia.org/wiki/Cobra_Kai
++ Mr. Bean | | | | c | https://en.wikipedia.org/wiki/Mr._Bean
++ Scrubs | | | | i | https://en.wikipedia.org/wiki/Scrubs_(TV_series)
++ Brooklyn Nine-Nine | | | | i | https://en.wikipedia.org/wiki/Brooklyn_Nine-Nine
++ Malcolm | Malcolm in the Middle;Malcolm, o do Meio | Malcolm in the Middle | | i | https://en.wikipedia.org/wiki/Malcolm_in_the_Middle
++ Criminal Minds | Mentes Criminosas | | | i | https://en.wikipedia.org/wiki/Criminal_Minds
++ CSI | CSI: Investigação Criminal | CSI: Crime Scene Investigation | | i | https://en.wikipedia.org/wiki/CSI:_Crime_Scene_Investigation
++ Charmed | | | | i | https://en.wikipedia.org/wiki/Charmed
++ Buffy, a Caça-Vampiros | Buffy | Buffy the Vampire Slayer | | i | https://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer_(TV_series)
++ The Flash | | | | i | https://en.wikipedia.org/wiki/The_Flash_(2014_TV_series)
++ Arrow | | | | i | https://en.wikipedia.org/wiki/Arrow_(TV_series)
++ Rick and Morty | Rick e Morty | | | i | https://en.wikipedia.org/wiki/Rick_and_Morty
++ South Park | | | | i | https://en.wikipedia.org/wiki/South_Park
++ Family Guy | Uma Família da Pesada | | | i | https://en.wikipedia.org/wiki/Family_Guy
++ Emily in Paris | Emily em Paris | | | i | https://en.wikipedia.org/wiki/Emily_in_Paris
++ Sex Education | | | | i | https://en.wikipedia.org/wiki/Sex_Education_(TV_series)
++ The Umbrella Academy | | | | i | https://en.wikipedia.org/wiki/The_Umbrella_Academy_(TV_series)
++ Lupin | | | | i | https://en.wikipedia.org/wiki/Lupin_(TV_series)
++ WandaVision | | | | i | https://en.wikipedia.org/wiki/WandaVision
++ Loki | | | | i | https://en.wikipedia.org/wiki/Loki_(TV_series)
++ O Conto da Aia | The Handmaid's Tale | The Handmaid's Tale | | i | https://en.wikipedia.org/wiki/The_Handmaid%27s_Tale_(TV_series)
++ Westworld | | | | i | https://en.wikipedia.org/wiki/Westworld_(TV_series)
++ Chernobyl | | | | i | https://en.wikipedia.org/wiki/Chernobyl_(miniseries)
++ Band of Brothers | Irmãos de Guerra | | | i | https://en.wikipedia.org/wiki/Band_of_Brothers_(miniseries)
++ True Detective | | | | i | https://en.wikipedia.org/wiki/True_Detective
++ Fargo | | | | r | https://en.wikipedia.org/wiki/Fargo_(TV_series)
++ O Show dos Anos 70 | That '70s Show | That '70s Show | | i | https://en.wikipedia.org/wiki/That_%2770s_Show
++ Parks and Recreation | | | | r | https://en.wikipedia.org/wiki/Parks_and_Recreation
++ Community | | | | r | https://en.wikipedia.org/wiki/Community_(TV_series)
++ New Girl | | | | i | https://en.wikipedia.org/wiki/New_Girl
++ Cheers | | | | r | https://en.wikipedia.org/wiki/Cheers
++ Frasier | | | | i | https://en.wikipedia.org/wiki/Frasier
++ SOS Malibu | Baywatch | Baywatch | | i | https://en.wikipedia.org/wiki/Baywatch
++ MacGyver | | | | i | https://en.wikipedia.org/wiki/MacGyver_(1985_TV_series)
++ A Super Máquina | Knight Rider | Knight Rider | | i | https://en.wikipedia.org/wiki/Knight_Rider_(1982_TV_series)
++ Esquadrão Classe A | The A-Team | The A-Team | | i | https://en.wikipedia.org/wiki/The_A-Team
++ Miami Vice | | | | r | https://en.wikipedia.org/wiki/Miami_Vice
++ Dallas | | | | r | https://en.wikipedia.org/wiki/Dallas_(1978_TV_series)
++ NCIS | | | | i | https://en.wikipedia.org/wiki/NCIS_(TV_series)
++ Monk | | | | i | https://en.wikipedia.org/wiki/Monk_(TV_series)
++ The Mentalist | | | | i | https://en.wikipedia.org/wiki/The_Mentalist
++ Once Upon a Time | Era Uma Vez | | | i | https://en.wikipedia.org/wiki/Once_Upon_a_Time_(TV_series)
++ Grimm | | | | r | https://en.wikipedia.org/wiki/Grimm_(TV_series)
++ Chuck | | | | r | https://en.wikipedia.org/wiki/Chuck_(TV_series)
++ Shameless | | | | r | https://en.wikipedia.org/wiki/Shameless_(American_TV_series)
+~ Round 6 | Squid Game | https://en.wikipedia.org/wiki/Squid_Game

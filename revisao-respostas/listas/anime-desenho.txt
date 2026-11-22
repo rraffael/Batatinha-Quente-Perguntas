@@ -1,0 +1,12 @@
+== anm-naruto
++ Han | | | | l | https://en.wikipedia.org/wiki/List_of_Naruto_characters
++ Roshi | Rōshi | | | l | https://en.wikipedia.org/wiki/List_of_Naruto_characters
++ Utakata | | | | l | https://en.wikipedia.org/wiki/List_of_Naruto_characters
++ Fuu | | | | l | https://en.wikipedia.org/wiki/List_of_Naruto_characters
++ Yagura Karatachi | Yagura | | | l | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto
+== anm-dragon-ball
++ Paragus | | | | e | https://en.wikipedia.org/wiki/List_of_Dragon_Ball_characters
++ Kale | | | | l | https://en.wikipedia.org/wiki/List_of_Dragon_Ball_characters
+== anm-one-piece
++ Edward Weevil | Weevil | | | l | https://en.wikipedia.org/wiki/List_of_One_Piece_characters
++ Ryokugyu | Aramaki | Green Bull | | l | https://en.wikipedia.org/wiki/List_of_One_Piece_characters

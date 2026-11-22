@@ -1,0 +1,74 @@
+== mbr-artistas-mpb
+~ Gonzaguinha | Luiz Gonzaga Júnior | https://pt.wikipedia.org/wiki/Gonzaguinha
+~ Elba Ramalho | Elba | https://pt.wikipedia.org/wiki/Elba_Ramalho
+~ Fafá de Belém | Fafá | https://pt.wikipedia.org/wiki/Faf%C3%A1_de_Bel%C3%A9m
+~ Nana Caymmi | Nana | https://pt.wikipedia.org/wiki/Nana_Caymmi
+~ Nara Leão | Nara | https://pt.wikipedia.org/wiki/Nara_Le%C3%A3o
+~ Moraes Moreira | Moraes | https://pt.wikipedia.org/wiki/Moraes_Moreira
+~ Johnny Hooker | Hooker | https://pt.wikipedia.org/wiki/Johnny_Hooker
+~ Marisa Monte | Marisa | https://pt.wikipedia.org/wiki/Marisa_Monte
+~ Vanessa da Mata | Vanessa | https://pt.wikipedia.org/wiki/Vanessa_da_Mata
+~ Arnaldo Antunes | Arnaldo | https://pt.wikipedia.org/wiki/Arnaldo_Antunes
+~ Pepeu Gomes | Pepeu | https://pt.wikipedia.org/wiki/Pepeu_Gomes
+~ Luiz Melodia | Melodia | https://pt.wikipedia.org/wiki/Luiz_Melodia
+~ Tim Maia | Síndico | https://pt.wikipedia.org/wiki/Tim_Maia
+
+== mbr-bandas-rock
++ Rádio Táxi | | | | r | https://pt.wikipedia.org/wiki/R%C3%A1dio_T%C3%A1xi
++ Cansei de Ser Sexy | CSS | | | r | https://pt.wikipedia.org/wiki/Cansei_de_Ser_Sexy
++ Móveis Coloniais de Acaju | Móveis Coloniais | | | e | https://pt.wikipedia.org/wiki/M%C3%B3veis_Coloniais_de_Acaju
+~ Legião Urbana | Legião | https://pt.wikipedia.org/wiki/Legi%C3%A3o_Urbana
+~ Barão Vermelho | Barão | https://pt.wikipedia.org/wiki/Bar%C3%A3o_Vermelho
+~ Capital Inicial | Capital | https://pt.wikipedia.org/wiki/Capital_Inicial
+~ Titãs | Os Titãs | https://pt.wikipedia.org/wiki/Tit%C3%A3s
+~ Kid Abelha | Kid Abelha e os Abóboras Selvagens | https://pt.wikipedia.org/wiki/Kid_Abelha
+~ NX Zero | NXZero | https://pt.wikipedia.org/wiki/NX_Zero
+~ Blitz | A Blitz | https://pt.wikipedia.org/wiki/Blitz_(banda)
+
+== mbr-duplas-sertanejas
++ Fred & Gustavo | | | | i | https://pt.wikipedia.org/wiki/Fred_%26_Gustavo
++ Zé Ricardo & Thiago | | | | r | https://pt.wikipedia.org/wiki/Z%C3%A9_Ricardo_%26_Thiago
+~ Milionário & José Rico | Milionário e Zé Rico | https://pt.wikipedia.org/wiki/Milion%C3%A1rio_%26_Jos%C3%A9_Rico
+~ Chrystian & Ralf | Christian e Ralf | https://pt.wikipedia.org/wiki/Chrystian_%26_Ralf
+
+== mbr-samba-pagode
+~ Exaltasamba | Exalta Samba | https://pt.wikipedia.org/wiki/Exaltasamba
+~ Fundo de Quintal | Grupo Fundo de Quintal | https://pt.wikipedia.org/wiki/Fundo_de_Quintal
+~ Martinho da Vila | Martinho | https://pt.wikipedia.org/wiki/Martinho_da_Vila
+~ Beth Carvalho | Beth | https://pt.wikipedia.org/wiki/Beth_Carvalho
+~ Dona Ivone Lara | Dona Ivone | https://pt.wikipedia.org/wiki/Dona_Ivone_Lara
+~ Clara Nunes | Clara | https://pt.wikipedia.org/wiki/Clara_Nunes
+~ Elza Soares | Elza | https://pt.wikipedia.org/wiki/Elza_Soares
+~ Noel Rosa | Noel | https://pt.wikipedia.org/wiki/Noel_Rosa
+~ Bezerra da Silva | Bezerra | https://pt.wikipedia.org/wiki/Bezerra_da_Silva
+~ Arlindo Cruz | Arlindo | https://pt.wikipedia.org/wiki/Arlindo_Cruz
+~ Sorriso Maroto | Sorriso | https://pt.wikipedia.org/wiki/Sorriso_Maroto
+~ Demônios da Garoa | Os Demônios da Garoa | https://pt.wikipedia.org/wiki/Dem%C3%B4nios_da_Garoa
+~ Almir Guineto | Guineto | https://pt.wikipedia.org/wiki/Almir_Guineto
+~ Leci Brandão | Leci | https://pt.wikipedia.org/wiki/Leci_Brand%C3%A3o
+~ Xande de Pilares | Xande | https://pt.wikipedia.org/wiki/Xande_de_Pilares
+
+== mbr-funk
++ Pedro Sampaio | | | | i | https://pt.wikipedia.org/wiki/Pedro_Sampaio
+~ Kevin o Chris | MC Kevin o Chris | https://pt.wikipedia.org/wiki/MC_Kevin_o_Chris
+~ Jojo Todynho | Jojo | https://pt.wikipedia.org/wiki/Jojo_Todynho
+~ Nego do Borel | Borel | https://pt.wikipedia.org/wiki/Nego_do_Borel
+~ MC WM | WM | https://pt.wikipedia.org/wiki/MC_WM
+~ Bonde do Tigrão | Tigrão | https://pt.wikipedia.org/wiki/Bonde_do_Tigr%C3%A3o
+~ Gaiola das Popozudas | Gaiola | https://pt.wikipedia.org/wiki/Gaiola_das_Popozudas
+~ Mr. Catra | Mister Catra | https://pt.wikipedia.org/wiki/Mr._Catra
+~ MC Carol | Carol | https://pt.wikipedia.org/wiki/MC_Carol
+
+== mbr-generos-brasileiros
++ Rock brasileiro | BRock;Rock nacional;Rock BR | | | c | https://pt.wikipedia.org/wiki/Rock_brasileiro
++ Samba exaltação | Samba-exaltação | | | e | https://pt.wikipedia.org/wiki/Samba-exalta%C3%A7%C3%A3o
+~ Samba | Samba de raiz | https://pt.wikipedia.org/wiki/Samba
+~ Bossa nova | Bossa | https://pt.wikipedia.org/wiki/Bossa_nova
+~ Samba-enredo | Samba de enredo | https://pt.wikipedia.org/wiki/Samba-enredo
+~ Forró | Forró pé de serra;Forró pé-de-serra | https://pt.wikipedia.org/wiki/Forr%C3%B3
+
+== mbr-instrumentos
+~ Gaita | Gaita de boca | https://pt.wikipedia.org/wiki/Gaita_de_boca
+~ Violoncelo | Celo | https://pt.wikipedia.org/wiki/Violoncelo
+~ Piano | Pianoforte | https://pt.wikipedia.org/wiki/Piano
+~ Contrabaixo | Contrabaixo acústico;Baixo acústico | https://pt.wikipedia.org/wiki/Contrabaixo

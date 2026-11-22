@@ -1,0 +1,272 @@
+== lpt-figuras-linguagem    # Cite uma figura de linguagem
+~ Ironia | Sarcasmo | https://pt.wikipedia.org/wiki/Figura_de_linguagem    # generica — CORR: sarcasmo é forma de ironia; convertida em variante
++ Alusão |  | Allusion | Alusión | r | https://pt.wikipedia.org/wiki/Figura_de_linguagem    # generica
++ Hendíade |  | Hendiadys | Hendíadis | e | https://pt.wikipedia.org/wiki/Figura_de_linguagem    # generica
++ Antífrase |  | Antiphrasis | Antífrasis | e | https://pt.wikipedia.org/wiki/Figura_de_linguagem    # generica
++ Metalepse |  | Metalepsis |  | l | https://pt.wikipedia.org/wiki/Figura_de_linguagem    # generica
++ Epanalepse |  | Epanalepsis |  | l | https://pt.wikipedia.org/wiki/Figura_de_linguagem    # generica
++ Prolepse |  | Prolepsis |  | l | https://pt.wikipedia.org/wiki/Figura_de_linguagem    # generica
++ Animalização | Zoomorfização |  |  | e | https://pt.wikipedia.org/wiki/Figura_de_linguagem    # generica
++ Reificação | Coisificação |  |  | e | https://pt.wikipedia.org/wiki/Figura_de_linguagem    # generica
+~ Epizeuxe | Reduplicação | https://pt.wikipedia.org/wiki/Figura_de_linguagem    # generica
+
+== lpt-escritores-brasileiros    # Cite um(a) escritor(a) brasileiro(a)
++ Maurício de Sousa |  |  |  | c | https://pt.wikipedia.org/wiki/Maur%C3%ADcio_de_Sousa    # generica — CORR: tirei Mauricio de Souza (só s/z)
++ Augusto Cury |  |  |  | i | https://pt.wikipedia.org/wiki/Augusto_Cury    # generica
++ Jô Soares |  |  |  | i | https://pt.wikipedia.org/wiki/J%C3%B4_Soares    # generica
++ Millôr Fernandes | Millôr |  |  | i | https://pt.wikipedia.org/wiki/Mill%C3%B4r_Fernandes    # generica
++ Lygia Bojunga | Lygia Bojunga Nunes |  |  | i | https://pt.wikipedia.org/wiki/Lygia_Bojunga    # generica
++ Eva Furnari |  |  |  | i | https://pt.wikipedia.org/wiki/Eva_Furnari    # generica
++ Caio Fernando Abreu |  |  |  | i | https://pt.wikipedia.org/wiki/Caio_Fernando_Abreu    # generica
++ Marcelo Rubens Paiva |  |  |  | i | https://pt.wikipedia.org/wiki/Marcelo_Rubens_Paiva    # generica
++ Martha Medeiros |  |  |  | i | https://pt.wikipedia.org/wiki/Martha_Medeiros    # generica
++ Lya Luft |  |  |  | r | https://pt.wikipedia.org/wiki/Lya_Luft    # generica
++ Mário Prata |  |  |  | r | https://pt.wikipedia.org/wiki/M%C3%A1rio_Prata    # generica
++ Malba Tahan | Júlio César de Mello e Souza |  |  | r | https://pt.wikipedia.org/wiki/Malba_Tahan    # generica
++ Rubem Alves |  |  |  | r | https://pt.wikipedia.org/wiki/Rubem_Alves    # generica
++ Gilberto Freyre |  |  |  | r | https://pt.wikipedia.org/wiki/Gilberto_Freyre    # generica
++ Darcy Ribeiro |  |  |  | r | https://pt.wikipedia.org/wiki/Darcy_Ribeiro    # generica
++ Luiz Gama |  |  |  | r | https://pt.wikipedia.org/wiki/Lu%C3%ADs_Gama    # generica
++ Maria Firmina dos Reis |  |  |  | r | https://pt.wikipedia.org/wiki/Maria_Firmina_dos_Reis    # generica
++ Nélida Piñon |  |  |  | r | https://pt.wikipedia.org/wiki/N%C3%A9lida_Pi%C3%B1on    # generica
++ Antonio Callado |  |  |  | e | https://pt.wikipedia.org/wiki/Antonio_Callado    # generica
++ Pedro Nava |  |  |  | e | https://pt.wikipedia.org/wiki/Pedro_Nava    # generica
++ Lúcio Cardoso |  |  |  | e | https://pt.wikipedia.org/wiki/L%C3%BAcio_Cardoso    # generica
++ Plínio Marcos |  |  |  | r | https://pt.wikipedia.org/wiki/Pl%C3%ADnio_Marcos    # generica
++ Haroldo de Campos |  |  |  | e | https://pt.wikipedia.org/wiki/Haroldo_de_Campos    # generica
++ Augusto de Campos |  |  |  | e | https://pt.wikipedia.org/wiki/Augusto_de_Campos    # generica
++ Alphonsus de Guimaraens |  |  |  | e | https://pt.wikipedia.org/wiki/Alphonsus_de_Guimaraens    # generica
++ Joaquim Nabuco |  |  |  | e | https://pt.wikipedia.org/wiki/Joaquim_Nabuco    # generica
++ Coelho Neto |  |  |  | e | https://pt.wikipedia.org/wiki/Coelho_Neto    # generica
++ Daniel Galera |  |  |  | e | https://pt.wikipedia.org/wiki/Daniel_Galera    # generica
++ Cristóvão Tezza |  |  |  | e | https://pt.wikipedia.org/wiki/Crist%C3%B3v%C3%A3o_Tezza    # generica
++ Luiz Ruffato |  |  |  | e | https://pt.wikipedia.org/wiki/Luiz_Ruffato    # generica
++ Patrícia Melo |  |  |  | e | https://pt.wikipedia.org/wiki/Patr%C3%ADcia_Melo    # generica
++ Bernardo Carvalho |  |  |  | e | https://pt.wikipedia.org/wiki/Bernardo_Carvalho    # generica
++ Guilherme de Almeida |  |  |  | l | https://pt.wikipedia.org/wiki/Guilherme_de_Almeida    # profunda
++ Menotti Del Picchia |  |  |  | l | https://pt.wikipedia.org/wiki/Menotti_Del_Picchia    # profunda
++ Cassiano Ricardo |  |  |  | l | https://pt.wikipedia.org/wiki/Cassiano_Ricardo    # profunda
++ Raul Bopp |  |  |  | l | https://pt.wikipedia.org/wiki/Raul_Bopp    # profunda
++ Murilo Rubião |  |  |  | l | https://pt.wikipedia.org/wiki/Murilo_Rubi%C3%A3o    # profunda
++ Osman Lins |  |  |  | l | https://pt.wikipedia.org/wiki/Osman_Lins    # profunda
++ Cornélio Penna |  |  |  | l | https://pt.wikipedia.org/wiki/Corn%C3%A9lio_Penna    # profunda
++ Franklin Távora |  |  |  | l | https://pt.wikipedia.org/wiki/Franklin_T%C3%A1vora    # profunda
++ Inglês de Sousa |  |  |  | l | https://pt.wikipedia.org/wiki/Ingl%C3%AAs_de_Sousa    # profunda
++ Afonso Arinos |  |  |  | l | https://pt.wikipedia.org/wiki/Afonso_Arinos    # profunda
++ Graça Aranha |  |  |  | l | https://pt.wikipedia.org/wiki/Gra%C3%A7a_Aranha    # profunda
++ Adolfo Caminha |  |  |  | l | https://pt.wikipedia.org/wiki/Adolfo_Caminha    # profunda
++ Júlio Ribeiro |  |  |  | l | https://pt.wikipedia.org/wiki/J%C3%BAlio_Ribeiro    # profunda
++ Sousândrade |  |  |  | l | https://pt.wikipedia.org/wiki/Sous%C3%A2ndrade    # profunda
++ Vicente de Carvalho |  |  |  | l | https://pt.wikipedia.org/wiki/Vicente_de_Carvalho    # profunda
++ Alberto de Oliveira |  |  |  | l | https://pt.wikipedia.org/wiki/Alberto_de_Oliveira    # profunda
++ Emílio de Menezes |  |  |  | l | https://pt.wikipedia.org/wiki/Em%C3%ADlio_de_Menezes    # profunda
++ Mário Faustino |  |  |  | l | https://pt.wikipedia.org/wiki/M%C3%A1rio_Faustino    # profunda
++ Décio Pignatari |  |  |  | l | https://pt.wikipedia.org/wiki/D%C3%A9cio_Pignatari    # profunda
++ Carlos Nejar |  |  |  | l | https://pt.wikipedia.org/wiki/Carlos_Nejar    # profunda
++ Torquato Neto |  |  |  | l | https://pt.wikipedia.org/wiki/Torquato_Neto    # profunda
++ Ana Cristina Cesar |  |  |  | l | https://pt.wikipedia.org/wiki/Ana_Cristina_Cesar    # profunda
++ Solano Trindade |  |  |  | l | https://pt.wikipedia.org/wiki/Solano_Trindade    # profunda
++ Auta de Souza |  |  |  | l | https://pt.wikipedia.org/wiki/Auta_de_Souza    # profunda
++ Nísia Floresta |  |  |  | l | https://pt.wikipedia.org/wiki/N%C3%ADsia_Floresta    # profunda
++ Júlia Lopes de Almeida |  |  |  | l | https://pt.wikipedia.org/wiki/J%C3%BAlia_Lopes_de_Almeida    # profunda
++ Campos de Carvalho |  |  |  | l | https://pt.wikipedia.org/wiki/Campos_de_Carvalho    # profunda
++ Rodolfo Teófilo |  |  |  | l | https://pt.wikipedia.org/wiki/Rodolfo_Te%C3%B3filo    # profunda
++ Domingos Olímpio |  |  |  | l | https://pt.wikipedia.org/wiki/Domingos_Ol%C3%ADmpio    # profunda
++ Cyro dos Anjos |  |  |  | l | https://pt.wikipedia.org/wiki/Cyro_dos_Anjos    # profunda
++ Otto Lara Resende |  |  |  | l | https://pt.wikipedia.org/wiki/Otto_Lara_Resende    # profunda
++ Paulo Mendes Campos |  |  |  | l | https://pt.wikipedia.org/wiki/Paulo_Mendes_Campos    # profunda
++ Carlos Heitor Cony |  |  |  | l | https://pt.wikipedia.org/wiki/Carlos_Heitor_Cony    # profunda
++ Marçal Aquino |  |  |  | l | https://pt.wikipedia.org/wiki/Mar%C3%A7al_Aquino    # profunda
++ Lourenço Mutarelli |  |  |  | l | https://pt.wikipedia.org/wiki/Louren%C3%A7o_Mutarelli    # profunda
++ Jeferson Tenório |  |  |  | l | https://pt.wikipedia.org/wiki/Jeferson_Ten%C3%B3rio    # profunda
++ Ana Paula Maia |  |  |  | l | https://pt.wikipedia.org/wiki/Ana_Paula_Maia    # profunda
++ Narcisa Amália |  |  |  | l | https://pt.wikipedia.org/wiki/Narcisa_Am%C3%A1lia    # profunda
++ Francisca Júlia |  |  |  | l | https://pt.wikipedia.org/wiki/Francisca_J%C3%BAlia    # profunda
++ Ledo Ivo |  |  |  | l | https://pt.wikipedia.org/wiki/Ledo_Ivo    # profunda
++ Affonso Romano de Sant'Anna |  |  |  | l | https://pt.wikipedia.org/wiki/Affonso_Romano_de_Sant'Anna    # profunda
++ Sérgio Porto | Stanislaw Ponte Preta |  |  | e | https://pt.wikipedia.org/wiki/S%C3%A9rgio_Porto    # profunda
++ Patrícia Galvão | Pagu |  |  | e | https://pt.wikipedia.org/wiki/Patr%C3%ADcia_Galv%C3%A3o    # profunda
+
+== lpt-obras-brasileiras    # Cite uma obra da literatura brasileira
++ Sítio do Picapau Amarelo | O Sítio do Picapau Amarelo |  |  | c | https://pt.wikipedia.org/wiki/S%C3%ADtio_do_Picapau_Amarelo    # generica — CORR: tirei Sítio (genérica)
++ Perto do Coração Selvagem |  |  |  | i | https://pt.wikipedia.org/wiki/Perto_do_Cora%C3%A7%C3%A3o_Selvagem    # generica
++ A Maçã no Escuro |  |  |  | r | https://pt.wikipedia.org/wiki/A_Ma%C3%A7%C3%A3_no_Escuro    # generica
++ O Homem que Calculava |  |  |  | i | https://pt.wikipedia.org/wiki/O_Homem_que_Calculava    # generica
++ O Coronel e o Lobisomem |  |  |  | r | https://pt.wikipedia.org/wiki/O_Coronel_e_o_Lobisomem    # generica
++ Viva o Povo Brasileiro |  |  |  | r | https://pt.wikipedia.org/wiki/Viva_o_Povo_Brasileiro    # generica
++ Dois Irmãos |  |  |  | r | https://pt.wikipedia.org/wiki/Dois_Irm%C3%A3os_(romance)    # generica
++ Primeiras Estórias |  |  |  | r | https://pt.wikipedia.org/wiki/Primeiras_Est%C3%B3rias    # generica
++ Corpo de Baile |  |  |  | r | https://pt.wikipedia.org/wiki/Corpo_de_Baile    # generica
++ Memórias do Cárcere |  |  |  | r | https://pt.wikipedia.org/wiki/Mem%C3%B3rias_do_C%C3%A1rcere    # generica
++ Angústia |  |  |  | r | https://pt.wikipedia.org/wiki/Ang%C3%BAstia_(romance)    # generica
++ Úrsula |  |  |  | r | https://pt.wikipedia.org/wiki/%C3%9Arsula_(romance)    # generica
++ Bom-Crioulo |  |  |  | r | https://pt.wikipedia.org/wiki/Bom-Crioulo    # generica
++ Til |  |  |  | e | https://pt.wikipedia.org/wiki/Til_(romance)    # generica
++ O Sertanejo |  |  |  | e | https://pt.wikipedia.org/wiki/O_Sertanejo    # generica
++ A Viuvinha |  |  |  | e | https://pt.wikipedia.org/wiki/A_Viuvinha    # generica
++ Cinco Minutos |  |  |  | e | https://pt.wikipedia.org/wiki/Cinco_Minutos    # generica
++ O Cabeleira |  |  |  | e | https://pt.wikipedia.org/wiki/O_Cabeleira    # generica
++ A Normalista |  |  |  | e | https://pt.wikipedia.org/wiki/A_Normalista    # generica
++ Canaã |  |  |  | e | https://pt.wikipedia.org/wiki/Cana%C3%A3_(romance)    # generica
++ Pauliceia Desvairada |  |  |  | r | https://pt.wikipedia.org/wiki/Pauliceia_Desvairada    # generica
++ Amar, Verbo Intransitivo |  |  |  | r | https://pt.wikipedia.org/wiki/Amar%2C_Verbo_Intransitivo    # generica
++ Memórias Sentimentais de João Miramar |  |  |  | e | https://pt.wikipedia.org/wiki/Mem%C3%B3rias_Sentimentais_de_Jo%C3%A3o_Miramar    # generica
++ Serafim Ponte Grande |  |  |  | e | https://pt.wikipedia.org/wiki/Serafim_Ponte_Grande    # generica
++ O Rei da Vela |  |  |  | e | https://pt.wikipedia.org/wiki/O_Rei_da_Vela    # generica
++ Manifesto Antropófago |  |  |  | e | https://pt.wikipedia.org/wiki/Manifesto_Antrop%C3%B3fago    # generica
++ Claro Enigma |  |  |  | e | https://pt.wikipedia.org/wiki/Claro_Enigma    # generica
++ Romanceiro da Inconfidência |  |  |  | e | https://pt.wikipedia.org/wiki/Romanceiro_da_Inconfid%C3%AAncia    # generica
++ A Educação pela Pedra |  |  |  | e | https://pt.wikipedia.org/wiki/A_Educa%C3%A7%C3%A3o_pela_Pedra    # generica
++ Espumas Flutuantes |  |  |  | e | https://pt.wikipedia.org/wiki/Espumas_Flutuantes    # generica
++ Os Timbiras |  |  |  | l | https://pt.wikipedia.org/wiki/Os_Timbiras    # generica
++ O Beijo no Asfalto |  |  |  | r | https://pt.wikipedia.org/wiki/O_Beijo_no_Asfalto    # generica
++ Toda Nudez Será Castigada |  |  |  | r | https://pt.wikipedia.org/wiki/Toda_Nudez_Ser%C3%A1_Castigada    # generica
++ A Vida Como Ela É |  |  |  | r | https://pt.wikipedia.org/wiki/A_Vida_Como_Ela_%C3%89...    # generica
++ Navalha na Carne |  |  |  | r | https://pt.wikipedia.org/wiki/Navalha_na_Carne    # generica
++ Gota d'Água |  |  |  | r | https://pt.wikipedia.org/wiki/Gota_d'%C3%81gua    # generica — CORR: tirei Gota Dágua (só pontuação)
++ Ópera do Malandro |  |  |  | r | https://pt.wikipedia.org/wiki/%C3%93pera_do_Malandro    # generica
++ Uma Mulher Vestida de Sol |  |  |  | l | https://pt.wikipedia.org/wiki/Uma_Mulher_Vestida_de_Sol    # generica
++ O Santo e a Porca |  |  |  | e | https://pt.wikipedia.org/wiki/O_Santo_e_a_Porca    # generica
++ Tereza Batista Cansada de Guerra |  |  |  | r | https://pt.wikipedia.org/wiki/Tereza_Batista_Cansada_de_Guerra    # generica
++ Cacau |  |  |  | e | https://pt.wikipedia.org/wiki/Cacau_(romance)    # generica
++ O Gato Malhado e a Andorinha Sinhá |  |  |  | e | https://pt.wikipedia.org/wiki/O_Gato_Malhado_e_a_Andorinha_Sinh%C3%A1    # generica
++ Emília no País da Gramática |  |  |  | e | https://pt.wikipedia.org/wiki/Em%C3%ADlia_no_Pa%C3%ADs_da_Gram%C3%A1tica    # generica
++ Caçadas de Pedrinho |  |  |  | r | https://pt.wikipedia.org/wiki/Ca%C3%A7adas_de_Pedrinho    # generica
++ Memórias da Emília |  |  |  | e | https://pt.wikipedia.org/wiki/Mem%C3%B3rias_da_Em%C3%ADlia    # generica
++ A Menina do Narizinho Arrebitado |  |  |  | r | https://pt.wikipedia.org/wiki/A_Menina_do_Narizinho_Arrebitado    # generica
++ Flicts |  |  |  | r | https://pt.wikipedia.org/wiki/Flicts    # generica
++ Uma Professora Muito Maluquinha |  |  |  | r | https://pt.wikipedia.org/wiki/Uma_Professora_Muito_Maluquinha    # generica
++ Bisa Bia, Bisa Bel |  |  |  | e | https://pt.wikipedia.org/wiki/Bisa_Bia%2C_Bisa_Bel    # generica
++ Viagem ao Céu |  |  |  | e | https://pt.wikipedia.org/wiki/Viagem_ao_C%C3%A9u    # generica
++ A Cartomante |  |  |  | i | https://pt.wikipedia.org/wiki/A_Cartomante    # generica
++ Missa do Galo |  |  |  | i | https://pt.wikipedia.org/wiki/Missa_do_Galo    # generica
++ Pai Contra Mãe |  |  |  | e | https://pt.wikipedia.org/wiki/Pai_contra_M%C3%A3e    # generica
++ Iaiá Garcia |  |  |  | e | https://pt.wikipedia.org/wiki/Iai%C3%A1_Garcia    # generica
++ Papéis Avulsos |  |  |  | e | https://pt.wikipedia.org/wiki/Pap%C3%A9is_Avulsos    # generica
++ Relíquias de Casa Velha |  |  |  | l | https://pt.wikipedia.org/wiki/Rel%C3%ADquias_de_Casa_Velha    # generica
++ A Grande Arte |  |  |  | e | https://pt.wikipedia.org/wiki/A_Grande_Arte    # generica
++ Zero |  |  |  | e | https://pt.wikipedia.org/wiki/Zero_(romance)    # generica
++ Sargento Getúlio |  |  |  | e | https://pt.wikipedia.org/wiki/Sargento_Get%C3%BAlio    # generica
++ Clarissa |  |  |  | e | https://pt.wikipedia.org/wiki/Clarissa_(romance)    # generica
++ Música ao Longe |  |  |  | l | https://pt.wikipedia.org/wiki/M%C3%BAsica_ao_Longe    # generica
++ Pedra Bonita |  |  |  | l | https://pt.wikipedia.org/wiki/Pedra_Bonita_(romance)    # generica
++ Doidinho |  |  |  | l | https://pt.wikipedia.org/wiki/Doidinho    # generica
++ Banguê |  |  |  | l | https://pt.wikipedia.org/wiki/Bangu%C3%AA    # generica
++ A Cidade Sitiada |  |  |  | l | https://pt.wikipedia.org/wiki/A_Cidade_Sitiada    # generica
++ Uma Aprendizagem ou O Livro dos Prazeres |  |  |  | l | https://pt.wikipedia.org/wiki/Uma_Aprendizagem_ou_O_Livro_dos_Prazeres    # generica
++ A Legião Estrangeira |  |  |  | l | https://pt.wikipedia.org/wiki/A_Legi%C3%A3o_Estrangeira    # generica
+
+== lpt-coletivos    # Cite um substantivo coletivo
++ Legião |  |  |  | i | https://pt.wikipedia.org/wiki/Substantivo_coletivo    # generica
++ Armada |  |  |  | i | https://pt.wikipedia.org/wiki/Substantivo_coletivo    # generica
++ Falange |  |  |  | r | https://pt.wikipedia.org/wiki/Substantivo_coletivo    # generica
++ Década |  |  |  | i | https://pt.wikipedia.org/wiki/Substantivo_coletivo    # generica
++ Século |  |  |  | i | https://pt.wikipedia.org/wiki/Substantivo_coletivo    # generica
++ Milênio |  |  |  | i | https://pt.wikipedia.org/wiki/Substantivo_coletivo    # generica
++ Povo |  |  |  | i | https://pt.wikipedia.org/wiki/Substantivo_coletivo    # generica
++ População |  |  |  | i | https://pt.wikipedia.org/wiki/Substantivo_coletivo    # generica
++ Classe |  |  |  | i | https://pt.wikipedia.org/wiki/Substantivo_coletivo    # generica
++ Serra |  |  |  | i | https://pt.wikipedia.org/wiki/Substantivo_coletivo    # generica
++ Alfabeto |  |  |  | i | https://pt.wikipedia.org/wiki/Substantivo_coletivo    # generica
++ Panapaná |  |  |  | e | https://pt.wikipedia.org/wiki/Substantivo_coletivo    # generica
++ Comitiva |  |  |  | i | https://www.normaculta.com.br/substantivos-coletivos/    # generica
++ Galera |  |  |  | i | https://www.normaculta.com.br/substantivos-coletivos/    # generica
++ Companhia |  |  |  | i | https://www.normaculta.com.br/substantivos-coletivos/    # generica
++ Horda |  |  |  | r | https://www.normaculta.com.br/substantivos-coletivos/    # generica
++ Cavalaria |  |  |  | r | https://www.normaculta.com.br/substantivos-coletivos/    # generica
++ Colônia |  |  |  | r | https://www.normaculta.com.br/substantivos-coletivos/    # generica
++ Pinhal |  |  |  | r | https://www.normaculta.com.br/substantivos-coletivos/    # generica
++ Fardo |  |  |  | r | https://www.normaculta.com.br/substantivos-coletivos/    # generica
++ Banca |  |  |  | r | https://www.normaculta.com.br/substantivos-coletivos/    # generica
++ Bancada |  |  |  | r | https://www.normaculta.com.br/substantivos-coletivos/    # generica
++ Comunidade |  |  |  | r | https://www.normaculta.com.br/substantivos-coletivos/    # generica
++ Fornada |  |  |  | r | https://www.normaculta.com.br/substantivos-coletivos/    # generica
++ Repertório |  |  |  | r | https://www.normaculta.com.br/substantivos-coletivos/    # generica
++ Seleta |  |  |  | r | https://www.normaculta.com.br/substantivos-coletivos/    # generica
++ Chusma |  |  |  | e | https://pt.wikipedia.org/wiki/Substantivo_coletivo    # generica
++ Choldra |  |  |  | e | https://pt.wikipedia.org/wiki/Substantivo_coletivo    # generica
++ Conclave |  |  |  | e | https://pt.wikipedia.org/wiki/Substantivo_coletivo    # generica
++ Concílio |  |  |  | e | https://www.normaculta.com.br/substantivos-coletivos/    # generica
++ Congregação |  |  |  | e | https://pt.wikipedia.org/wiki/Substantivo_coletivo    # generica
++ Cavalgada |  |  |  | e | https://www.normaculta.com.br/substantivos-coletivos/    # generica
++ Renque |  |  |  | e | https://www.normaculta.com.br/substantivos-coletivos/    # generica
++ Magote |  |  |  | e | https://www.normaculta.com.br/substantivos-coletivos/    # generica
++ Saraivada |  |  |  | e | https://www.normaculta.com.br/substantivos-coletivos/    # generica
++ Novena |  |  |  | e | https://pt.wikipedia.org/wiki/Substantivo_coletivo    # generica
++ Praga |  |  |  | e | https://www.normaculta.com.br/substantivos-coletivos/    # generica
++ Cabido |  |  |  | l | https://www.normaculta.com.br/substantivos-coletivos/    # generica
+- Companha |  |  |  | l | https://www.normaculta.com.br/substantivos-coletivos/    # REJ: a 1 letra de Companhia (colisão por tolerância); forma rara
++ Farândola |  |  |  | l | https://www.normaculta.com.br/substantivos-coletivos/    # generica
++ Grosa |  |  |  | l | https://www.normaculta.com.br/substantivos-coletivos/    # generica
++ Gataria |  |  |  | l | https://pt.wikipedia.org/wiki/Substantivo_coletivo    # generica
++ Burricada |  |  |  | l | https://pt.wikipedia.org/wiki/Substantivo_coletivo    # generica
++ Baleal |  |  |  | l | https://pt.wikipedia.org/wiki/Substantivo_coletivo    # generica
++ Olival |  |  |  | l | https://pt.wikipedia.org/wiki/Substantivo_coletivo    # generica
++ Carvalhal |  |  |  | l | https://pt.wikipedia.org/wiki/Substantivo_coletivo    # generica
++ Herbário |  |  |  | l | https://pt.wikipedia.org/wiki/Substantivo_coletivo    # generica
++ Consistório |  |  |  | l | https://pt.wikipedia.org/wiki/Substantivo_coletivo    # generica
++ Camerata |  |  |  | l | https://pt.wikipedia.org/wiki/Substantivo_coletivo    # generica
++ Tertúlia |  |  |  | l | https://pt.wikipedia.org/wiki/Substantivo_coletivo    # generica
++ Abecedário |  |  |  | l | https://pt.wikipedia.org/wiki/Substantivo_coletivo    # generica
++ Alameda |  |  |  | l | https://pt.wikipedia.org/wiki/Substantivo_coletivo    # generica
++ Lustro |  |  |  | l | https://pt.wikipedia.org/wiki/Substantivo_coletivo    # generica
++ Biênio |  |  |  | l | https://pt.wikipedia.org/wiki/Substantivo_coletivo    # generica
++ Triênio |  |  |  | l | https://pt.wikipedia.org/wiki/Substantivo_coletivo    # generica
++ Quinquênio |  |  |  | l | https://pt.wikipedia.org/wiki/Substantivo_coletivo    # generica
++ Semestre |  |  |  | e | https://pt.wikipedia.org/wiki/Substantivo_coletivo    # generica
++ Trimestre |  |  |  | e | https://pt.wikipedia.org/wiki/Substantivo_coletivo    # generica
++ Bimestre |  |  |  | e | https://pt.wikipedia.org/wiki/Substantivo_coletivo    # generica
++ Quinzena |  |  |  | e | https://pt.wikipedia.org/wiki/Substantivo_coletivo    # generica
+
+== lpt-escritores-lusofonos    # Cite um(a) escritor(a) de língua portuguesa nascido(a) fora do Brasil
++ Almada Negreiros |  |  |  | r | https://pt.wikipedia.org/wiki/Almada_Negreiros    # profunda
++ António Nobre |  |  |  | r | https://pt.wikipedia.org/wiki/Ant%C3%B3nio_Nobre    # profunda
++ Miguel Esteves Cardoso |  |  |  | r | https://pt.wikipedia.org/wiki/Miguel_Esteves_Cardoso    # profunda
++ Bernardim Ribeiro |  |  |  | r | https://pt.wikipedia.org/wiki/Bernardim_Ribeiro    # profunda
++ José Craveirinha |  |  |  | r | https://pt.wikipedia.org/wiki/Jos%C3%A9_Craveirinha    # profunda
++ Mário Cesariny |  |  |  | e | https://pt.wikipedia.org/wiki/M%C3%A1rio_Cesariny    # profunda
++ Raul Brandão |  |  |  | e | https://pt.wikipedia.org/wiki/Raul_Brand%C3%A3o    # profunda
++ Aquilino Ribeiro |  |  |  | e | https://pt.wikipedia.org/wiki/Aquilino_Ribeiro    # profunda
++ Fernando Namora |  |  |  | e | https://pt.wikipedia.org/wiki/Fernando_Namora    # profunda
++ José Cardoso Pires |  |  |  | e | https://pt.wikipedia.org/wiki/Jos%C3%A9_Cardoso_Pires    # profunda
++ Miguel Sousa Tavares |  |  |  | e | https://pt.wikipedia.org/wiki/Miguel_Sousa_Tavares    # profunda
++ Dulce Maria Cardoso |  |  |  | e | https://pt.wikipedia.org/wiki/Dulce_Maria_Cardoso    # profunda
++ Ramalho Ortigão |  |  |  | e | https://pt.wikipedia.org/wiki/Ramalho_Ortig%C3%A3o    # profunda
++ Guerra Junqueiro |  |  |  | e | https://pt.wikipedia.org/wiki/Guerra_Junqueiro    # profunda
++ Sá de Miranda |  |  |  | e | https://pt.wikipedia.org/wiki/Francisco_de_S%C3%A1_de_Miranda    # profunda
++ Gomes Leal |  |  |  | l | https://pt.wikipedia.org/wiki/Gomes_Leal    # profunda
++ Natália Correia |  |  |  | e | https://pt.wikipedia.org/wiki/Nat%C3%A1lia_Correia    # profunda
++ Vitorino Nemésio |  |  |  | e | https://pt.wikipedia.org/wiki/Vitorino_Nem%C3%A9sio    # profunda
++ Jorge de Sena |  |  |  | e | https://pt.wikipedia.org/wiki/Jorge_de_Sena    # profunda
++ José Gomes Ferreira |  |  |  | l | https://pt.wikipedia.org/wiki/Jos%C3%A9_Gomes_Ferreira    # profunda
++ Alves Redol |  |  |  | l | https://pt.wikipedia.org/wiki/Alves_Redol    # profunda
++ Soeiro Pereira Gomes |  |  |  | l | https://pt.wikipedia.org/wiki/Soeiro_Pereira_Gomes    # profunda
++ Manuel da Fonseca |  |  |  | l | https://pt.wikipedia.org/wiki/Manuel_da_Fonseca    # profunda
+- Carlos de Oliveira |  |  |  | l | https://pt.wikipedia.org/wiki/Carlos_de_Oliveira    # REJ: nasceu em Belém do Pará (Brasil)
++ Almeida Faria |  |  |  | l | https://pt.wikipedia.org/wiki/Almeida_Faria    # profunda
++ Mário de Carvalho |  |  |  | l | https://pt.wikipedia.org/wiki/M%C3%A1rio_de_Carvalho    # profunda
++ Camilo Pessanha |  |  |  | e | https://pt.wikipedia.org/wiki/Camilo_Pessanha    # profunda
++ Damião de Góis |  |  |  | l | https://pt.wikipedia.org/wiki/Dami%C3%A3o_de_G%C3%B3is    # profunda
++ Garcia de Resende |  |  |  | l | https://pt.wikipedia.org/wiki/Garcia_de_Resende    # profunda
++ Francisco Manuel de Melo |  |  |  | l | https://pt.wikipedia.org/wiki/Francisco_Manuel_de_Melo    # profunda
++ Fialho de Almeida |  |  |  | l | https://pt.wikipedia.org/wiki/Fialho_de_Almeida    # profunda
++ Luís Bernardo Honwana |  |  |  | e | https://pt.wikipedia.org/wiki/Lu%C3%ADs_Bernardo_Honwana    # profunda
++ Noémia de Sousa |  |  |  | e | https://pt.wikipedia.org/wiki/No%C3%A9mia_de_Sousa    # profunda
++ Eduardo White |  |  |  | l | https://pt.wikipedia.org/wiki/Eduardo_White    # profunda
++ Ungulani Ba Ka Khosa |  |  |  | l | https://pt.wikipedia.org/wiki/Ungulani_Ba_Ka_Khosa    # profunda
++ Manuel Rui |  |  |  | e | https://pt.wikipedia.org/wiki/Manuel_Rui    # profunda
++ Ruy Duarte de Carvalho |  |  |  | l | https://pt.wikipedia.org/wiki/Ruy_Duarte_de_Carvalho    # profunda
++ Ana Paula Tavares |  |  |  | e | https://pt.wikipedia.org/wiki/Ana_Paula_Tavares    # profunda
++ Boaventura Cardoso |  |  |  | l | https://pt.wikipedia.org/wiki/Boaventura_Cardoso    # profunda
++ Uanhenga Xitu |  |  |  | l | https://pt.wikipedia.org/wiki/Uanhenga_Xitu    # profunda
++ Mário Pinto de Andrade |  |  |  | l | https://pt.wikipedia.org/wiki/M%C3%A1rio_Pinto_de_Andrade    # profunda
++ Viriato da Cruz |  |  |  | l | https://pt.wikipedia.org/wiki/Viriato_da_Cruz    # profunda
++ Alda Lara |  |  |  | l | https://pt.wikipedia.org/wiki/Alda_Lara    # profunda
++ Manuel Lopes |  |  |  | l | https://pt.wikipedia.org/wiki/Manuel_Lopes    # profunda
++ Jorge Barbosa |  |  |  | l | https://pt.wikipedia.org/wiki/Jorge_Barbosa    # profunda
++ Orlanda Amarílis |  |  |  | l | https://pt.wikipedia.org/wiki/Orlanda_Amar%C3%ADlis    # profunda
++ Francisco José Tenreiro |  |  |  | l | https://pt.wikipedia.org/wiki/Francisco_Jos%C3%A9_Tenreiro    # profunda
++ Conceição Lima |  |  |  | l | https://pt.wikipedia.org/wiki/Concei%C3%A7%C3%A3o_Lima    # profunda
++ Alda Espírito Santo |  |  |  | l | https://pt.wikipedia.org/wiki/Alda_do_Esp%C3%ADrito_Santo    # profunda
++ Orlando da Costa |  |  |  | l | https://pt.wikipedia.org/wiki/Orlando_da_Costa    # profunda
+~ Luís de Camões | Luís Vaz de Camões | https://pt.wikipedia.org/wiki/Lu%C3%ADs_de_Cam%C3%B5es    # profunda — CORR: tirei Luiz Vaz de Camões (só z/s)

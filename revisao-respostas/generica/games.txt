@@ -1,0 +1,99 @@
+== gam-consoles
+~ Mega Drive | Megadrive;Sega Mega Drive;Genesis | https://en.wikipedia.org/wiki/Sega_Genesis
+~ Super Nintendo | Super Famicom;Supernintendo | https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System
+~ Game Boy | Gameboy;Nintendo Game Boy | https://en.wikipedia.org/wiki/Game_Boy
+~ Game Boy Color | Gameboy Color | https://en.wikipedia.org/wiki/Game_Boy_Color
+~ Game Boy Advance | Gameboy Advance | https://en.wikipedia.org/wiki/Game_Boy_Advance
+~ Nintendo Switch | Nintendo Switch OLED;Switch OLED | https://en.wikipedia.org/wiki/Nintendo_Switch
+~ PlayStation 4 | PlayStation 4 Pro;PS4 Pro | https://en.wikipedia.org/wiki/PlayStation_4
+~ PlayStation 5 | PlayStation 5 Pro;PS5 Pro | https://en.wikipedia.org/wiki/PlayStation_5
+~ Xbox One | Xbox One S;Xbox One X | https://en.wikipedia.org/wiki/Xbox_One
+~ Nintendo 3DS | Nintendo 2DS;2DS | https://en.wikipedia.org/wiki/Nintendo_3DS
+~ Xbox Series X | Xbox Series X/S;Xbox Series XS | https://en.wikipedia.org/wiki/Xbox_Series_X_and_Series_S
++ Game & Watch | Game and Watch | | | i | https://en.wikipedia.org/wiki/Game_%26_Watch
++ Atari 5200 | | | | r | https://en.wikipedia.org/wiki/Atari_5200
++ Sega 32X | 32X | | | r | https://en.wikipedia.org/wiki/32X
+== gam-personagens-mario
+~ Princesa Peach | Princess Peach | https://en.wikipedia.org/wiki/Princess_Peach
+~ Princesa Daisy | Princess Daisy | https://en.wikipedia.org/wiki/Princess_Daisy
+~ Bowser | Rei Koopa;King Koopa | https://en.wikipedia.org/wiki/Bowser_(character)
++ Spiny | | | | i | https://www.mariowiki.com/Spiny
++ Koopa Paratroopa | Paratroopa | | | i | https://www.mariowiki.com/Koopa_Paratroopa
++ Luma | Lumas | | | i | https://www.mariowiki.com/Luma
++ Donkey Kong Jr. | Donkey Kong Junior | | | i | https://en.wikipedia.org/wiki/Donkey_Kong_Jr._(character)
++ King K. Rool | K. Rool | | | i | https://en.wikipedia.org/wiki/King_K._Rool
++ Tiny Kong | | | | r | https://www.mariowiki.com/Tiny_Kong
++ Candy Kong | | | | r | https://www.mariowiki.com/Candy_Kong
++ Buzzy Beetle | | | | r | https://www.mariowiki.com/Buzzy_Beetle
++ Pokey | | | | r | https://www.mariowiki.com/Pokey
++ Poochy | | | | r | https://www.mariowiki.com/Poochy
++ Baby Peach | Bebê Peach | | | r | https://www.mariowiki.com/Baby_Peach
+== gam-street-fighter
+~ Chun-Li | Chunli | https://en.wikipedia.org/wiki/Chun-Li
+~ Dee Jay | Deejay | https://en.wikipedia.org/wiki/Dee_Jay_(Street_Fighter)
+~ Sakura | Sakura Kasugano | https://en.wikipedia.org/wiki/Sakura_Kasugano
+~ Cammy | Cammy White | https://en.wikipedia.org/wiki/Cammy
+~ Juri | Juri Han | https://en.wikipedia.org/wiki/Juri_(Street_Fighter)
++ Gouken | | | | r | https://en.wikipedia.org/wiki/Gouken
++ Evil Ryu | | | | i | https://en.wikipedia.org/wiki/Evil_Ryu
++ Violent Ken | | | | e | https://en.wikipedia.org/wiki/List_of_Street_Fighter_characters
++ Remy | | | | e | https://en.wikipedia.org/wiki/List_of_Street_Fighter_characters
++ Q | | | | e | https://en.wikipedia.org/wiki/List_of_Street_Fighter_characters
++ Twelve | | | | e | https://en.wikipedia.org/wiki/List_of_Street_Fighter_characters
+== gam-tabuleiro-cartas
+~ Imagem & Ação | Imagem e Ação | https://pt.wikipedia.org/wiki/Imagem_%26_A%C3%A7%C3%A3o
+~ Gamão | Backgammon | https://pt.wikipedia.org/wiki/Gam%C3%A3o
+~ Copas | Hearts | https://en.wikipedia.org/wiki/Hearts_(card_game)
+~ Damas chinesas | Xadrez chinês;Chinese checkers | https://en.wikipedia.org/wiki/Chinese_checkers
++ Bisca | | | | i | https://pt.wikipedia.org/wiki/Bisca
++ Biriba | | | | i | https://pt.wikipedia.org/wiki/Biriba
++ Jogo da Memória | | Memory | | c | https://pt.wikipedia.org/wiki/Jogo_da_mem%C3%B3ria
++ Trivial Pursuit | | | | i | https://en.wikipedia.org/wiki/Trivial_Pursuit
++ Pictionary | | | | i | https://en.wikipedia.org/wiki/Pictionary
++ Cranium | | | | r | https://en.wikipedia.org/wiki/Cranium_(board_game)
++ Dobble | | | | r | https://en.wikipedia.org/wiki/Dobble
++ Mancala | | | | r | https://en.wikipedia.org/wiki/Mancala
++ Baccarat | Bacará | | | r | https://en.wikipedia.org/wiki/Baccarat
++ Sete e Meio | | | | r | https://pt.wikipedia.org/wiki/Sete_e_meio
+== gam-minecraft-mobs
+~ Zumbi | Zombie | https://minecraft.wiki/w/Zombie
+~ Esqueleto | Skeleton | https://minecraft.wiki/w/Skeleton
+~ Aranha | Spider | https://minecraft.wiki/w/Spider
+~ Porco | Pig | https://minecraft.wiki/w/Pig
+~ Vaca | Cow | https://minecraft.wiki/w/Cow
+~ Ovelha | Sheep | https://minecraft.wiki/w/Sheep
+~ Galinha | Chicken | https://minecraft.wiki/w/Chicken
+~ Bruxa | Witch | https://minecraft.wiki/w/Witch
+~ Aldeão | Villager | https://minecraft.wiki/w/Villager
+~ Lobo | Wolf | https://minecraft.wiki/w/Wolf
+~ Gato | Cat | https://minecraft.wiki/w/Cat
+~ Cavalo | Horse | https://minecraft.wiki/w/Horse
+~ Golem de Ferro | Iron Golem | https://minecraft.wiki/w/Iron_Golem
+~ Golem de Neve | Snow Golem;Boneco de Neve | https://minecraft.wiki/w/Snow_Golem
+~ Cubo de Magma | Magma Cube | https://minecraft.wiki/w/Magma_Cube
+~ Afogado | Drowned | https://minecraft.wiki/w/Drowned
+~ Abelha | Bee | https://minecraft.wiki/w/Bee
+~ Coelho | Rabbit | https://minecraft.wiki/w/Rabbit
+~ Raposa | Fox | https://minecraft.wiki/w/Fox
+~ Tartaruga | Turtle | https://minecraft.wiki/w/Turtle
+~ Golfinho | Dolphin | https://minecraft.wiki/w/Dolphin
+~ Lula | Squid | https://minecraft.wiki/w/Squid
+~ Cabra | Goat | https://minecraft.wiki/w/Goat
+~ Sapo | Frog | https://minecraft.wiki/w/Frog
+~ Guardião | Guardian | https://minecraft.wiki/w/Guardian
+~ Traça | Silverfish | https://minecraft.wiki/w/Silverfish
+~ Evocador | Evoker | https://minecraft.wiki/w/Evoker
+~ Vingador | Vindicator | https://minecraft.wiki/w/Vindicator
+~ Saqueador | Pillager | https://minecraft.wiki/w/Pillager
+~ Devastador | Ravager | https://minecraft.wiki/w/Ravager
+~ Morcego | Bat | https://minecraft.wiki/w/Bat
+~ Papagaio | Parrot | https://minecraft.wiki/w/Parrot
+~ Lhama | Llama | https://minecraft.wiki/w/Llama
+~ Burro | Donkey | https://minecraft.wiki/w/Donkey
+~ Mula | Mule | https://minecraft.wiki/w/Mule
+~ Axolote | Axolotl | https://minecraft.wiki/w/Axolotl
+~ Urso-polar | Polar Bear | https://minecraft.wiki/w/Polar_Bear
+~ Jaguatirica | Ocelote;Ocelot | https://minecraft.wiki/w/Ocelot
++ Aranha da caverna | Aranha de caverna;Cave Spider | | | i | https://minecraft.wiki/w/Cave_Spider
++ Cavalo esqueleto | Skeleton Horse | | | r | https://minecraft.wiki/w/Skeleton_Horse
++ Cavalo zumbi | Zombie Horse | | | r | https://minecraft.wiki/w/Zombie_Horse

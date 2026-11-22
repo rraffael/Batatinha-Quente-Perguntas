@@ -20,6 +20,7 @@ Endereço: batata.tiffion.com.
 - `src/shared/` — regras, protocolo, normalização, filtro de palavrões.
 - `src/server/jogo.ts` — motor puro (testável); `sala.ts` — Durable Object; `casamento.ts` — reconhecimento de respostas.
 - `src/client/` — telas Preact; `design/` — tokens, SVGs e protótipo.
+- `docs/banco/PROCESSO.md` — processo de incremento do banco (lotes, agentes, backups em `backups/banco/`, scripts em `scripts/banco/`); progresso em `ROADMAP.md`.
 - `docs/PASSO-A-PASSO.md` — o que o Raffael executa (contas, git, npm install, painéis).
 
 ## Validações

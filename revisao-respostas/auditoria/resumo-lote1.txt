@@ -1,0 +1,5 @@
+exterior: 79 aprovadas, 7 rejeitadas, 1 corrigidas — variantes redundantes (tolerância de digitação), SuperSonics não é time atual, WayV virou variante de NCT
+musica-internacional: 546 aprovadas, 8 rejeitadas, 2 corrigidas — fora da categoria (Hozier/Jack Johnson não são pop; DJ Khaled/Afrika Bambaataa são DJs), palavrão (Ol' Dirty Bastard), variantes redundantes, grafia Dizzee Rascal
+musica-br: 333 aprovadas, 10 rejeitadas, 10 corrigidas — variantes redundantes ou ambíguas (Marisa~Marina, Raça~Raça Negra, Viola~viola de arco, Baixão~Baixo), Timbau≠Tímpano, Os Avassaladores não verificável; Rock brasileiro/Rap nacional rejeitados por não serem gêneros de origem brasileira (decisão humana)
+novelas-tv-br: 163 aprovadas, 0 rejeitadas, 0 corrigidas — todas as novelas conferidas como da Globo; variantes e apelidos corretos (obs.: o banco já tem aceita redundante 'Sílvio Santos')
+cinema-tv: 241 aprovadas, 2 rejeitadas, 5 corrigidas — variantes redundantes/ambíguas (Obiwan, Wiggum), sequência de Bernardo e Bianca virou variante (@nota), nomes da tradução brasileira (Ana Abbott, Grampo)

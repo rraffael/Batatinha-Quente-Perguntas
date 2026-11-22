@@ -129,7 +129,9 @@
         {
           "id": "tim-maia",
           "canonica": "Tim Maia",
-          "aceitas": [],
+          "aceitas": [
+            "Síndico"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
@@ -191,7 +193,9 @@
         {
           "id": "elba-ramalho",
           "canonica": "Elba Ramalho",
-          "aceitas": [],
+          "aceitas": [
+            "Elba"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
@@ -200,7 +204,7 @@
           "canonica": "Lenine",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "adriana-calcanhotto",
@@ -209,7 +213,7 @@
             "Calcanhotto"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "zelia-duncan",
@@ -223,14 +227,14 @@
           "canonica": "Ana Carolina",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "seu-jorge",
           "canonica": "Seu Jorge",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "maria-gadu",
@@ -244,35 +248,41 @@
         {
           "id": "vanessa-da-mata",
           "canonica": "Vanessa da Mata",
-          "aceitas": [],
+          "aceitas": [
+            "Vanessa"
+          ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "maria-rita",
           "canonica": "Maria Rita",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "simone",
           "canonica": "Simone",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "fafa-de-belem",
           "canonica": "Fafá de Belém",
-          "aceitas": [],
+          "aceitas": [
+            "Fafá"
+          ],
           "traducoes": {},
           "raridadeInicial": "incomum"
         },
         {
           "id": "nana-caymmi",
           "canonica": "Nana Caymmi",
-          "aceitas": [],
+          "aceitas": [
+            "Nana"
+          ],
           "traducoes": {},
           "raridadeInicial": "incomum"
         },
@@ -304,12 +314,14 @@
           "canonica": "Toquinho",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "nara-leao",
           "canonica": "Nara Leão",
-          "aceitas": [],
+          "aceitas": [
+            "Nara"
+          ],
           "traducoes": {},
           "raridadeInicial": "incomum"
         },
@@ -339,28 +351,30 @@
           "canonica": "Oswaldo Montenegro",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "guilherme-arantes",
           "canonica": "Guilherme Arantes",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "moraes-moreira",
           "canonica": "Moraes Moreira",
-          "aceitas": [],
+          "aceitas": [
+            "Moraes"
+          ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "tom-ze",
           "canonica": "Tom Zé",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "jards-macale",
@@ -372,30 +386,34 @@
         {
           "id": "luiz-melodia",
           "canonica": "Luiz Melodia",
-          "aceitas": [],
+          "aceitas": [
+            "Melodia"
+          ],
           "traducoes": {},
           "raridadeInicial": "raro"
         },
         {
           "id": "arnaldo-antunes",
           "canonica": "Arnaldo Antunes",
-          "aceitas": [],
+          "aceitas": [
+            "Arnaldo"
+          ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "tiago-iorc",
           "canonica": "Tiago Iorc",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "chico-cesar",
           "canonica": "Chico César",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "ceu",
@@ -409,7 +427,7 @@
           "canonica": "Liniker",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "silva",
@@ -428,9 +446,11 @@
         {
           "id": "johnny-hooker",
           "canonica": "Johnny Hooker",
-          "aceitas": [],
+          "aceitas": [
+            "Hooker"
+          ],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "baby-do-brasil",
@@ -439,14 +459,16 @@
             "Baby Consuelo"
           ],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "pepeu-gomes",
           "canonica": "Pepeu Gomes",
-          "aceitas": [],
+          "aceitas": [
+            "Pepeu"
+          ],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "sa-guarabyra",
@@ -455,7 +477,7 @@
             "Sá e Guarabyra"
           ],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "sergio-ricardo",
@@ -469,7 +491,7 @@
           "canonica": "Taiguara",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "joyce-moreno",
@@ -478,56 +500,56 @@
             "Joyce"
           ],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "leila-pinheiro",
           "canonica": "Leila Pinheiro",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "danilo-caymmi",
           "canonica": "Danilo Caymmi",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "ednardo",
           "canonica": "Ednardo",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "fernanda-takai",
           "canonica": "Fernanda Takai",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "mart-nalia",
           "canonica": "Mart'nália",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "roberta-sa",
           "canonica": "Roberta Sá",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "monica-salmaso",
           "canonica": "Mônica Salmaso",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "luiz-gonzaga",
@@ -537,14 +559,16 @@
             "Rei do Baião"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "gonzaguinha",
           "canonica": "Gonzaguinha",
-          "aceitas": [],
+          "aceitas": [
+            "Luiz Gonzaga Júnior"
+          ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "raul-seixas",
@@ -552,6 +576,418 @@
           "aceitas": [
             "Raulzito"
           ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cassia-eller",
+          "canonica": "Cássia Eller",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "zeca-baleiro",
+          "canonica": "Zeca Baleiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "nando-reis",
+          "canonica": "Nando Reis",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "jorge-vercillo",
+          "canonica": "Jorge Vercillo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "emilio-santiago",
+          "canonica": "Emílio Santiago",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ed-motta",
+          "canonica": "Ed Motta",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "sandra-de-sa",
+          "canonica": "Sandra de Sá",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "wilson-simonal",
+          "canonica": "Wilson Simonal",
+          "aceitas": [
+            "Simonal"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "jair-rodrigues",
+          "canonica": "Jair Rodrigues",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "elizeth-cardoso",
+          "canonica": "Elizeth Cardoso",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "maysa",
+          "canonica": "Maysa",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "dolores-duran",
+          "canonica": "Dolores Duran",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "sergio-mendes",
+          "canonica": "Sérgio Mendes",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "hermeto-pascoal",
+          "canonica": "Hermeto Pascoal",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "baden-powell",
+          "canonica": "Baden Powell",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "carlos-lyra",
+          "canonica": "Carlos Lyra",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "roberto-menescal",
+          "canonica": "Roberto Menescal",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "marcos-valle",
+          "canonica": "Marcos Valle",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "marina-lima",
+          "canonica": "Marina Lima",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "zizi-possi",
+          "canonica": "Zizi Possi",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "angela-ro-ro",
+          "canonica": "Ângela Ro Ro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "renato-teixeira",
+          "canonica": "Renato Teixeira",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "almir-sater",
+          "canonica": "Almir Sater",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "paulinho-moska",
+          "canonica": "Paulinho Moska",
+          "aceitas": [
+            "Moska"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "vitor-ramil",
+          "canonica": "Vitor Ramil",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "kleiton-kledir",
+          "canonica": "Kleiton & Kledir",
+          "aceitas": [
+            "Kleiton e Kledir"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "elomar",
+          "canonica": "Elomar",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "dominguinhos",
+          "canonica": "Dominguinhos",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "sivuca",
+          "canonica": "Sivuca",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "jackson-do-pandeiro",
+          "canonica": "Jackson do Pandeiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ze-geraldo",
+          "canonica": "Zé Geraldo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "tulipa-ruiz",
+          "canonica": "Tulipa Ruiz",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "mallu-magalhaes",
+          "canonica": "Mallu Magalhães",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "marcelo-jeneci",
+          "canonica": "Marcelo Jeneci",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "anavitoria",
+          "canonica": "Anavitória",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "duda-beat",
+          "canonica": "Duda Beat",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "marina-sena",
+          "canonica": "Marina Sena",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "luedji-luna",
+          "canonica": "Luedji Luna",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "margareth-menezes",
+          "canonica": "Margareth Menezes",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "rosa-passos",
+          "canonica": "Rosa Passos",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "ana-canas",
+          "canonica": "Ana Cañas",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "joao-donato",
+          "canonica": "João Donato",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "bebel-gilberto",
+          "canonica": "Bebel Gilberto",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "miucha",
+          "canonica": "Miúcha",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "itamar-assumpcao",
+          "canonica": "Itamar Assumpção",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "sergio-sampaio",
+          "canonica": "Sérgio Sampaio",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "egberto-gismonti",
+          "canonica": "Egberto Gismonti",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "francis-hime",
+          "canonica": "Francis Hime",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "amelinha",
+          "canonica": "Amelinha",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "vander-lee",
+          "canonica": "Vander Lee",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "criolo",
+          "canonica": "Criolo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "rita-lee",
+          "canonica": "Rita Lee",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "cazuza",
+          "canonica": "Cazuza",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "roberto-carlos",
+          "canonica": "Roberto Carlos",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "erasmo-carlos",
+          "canonica": "Erasmo Carlos",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "elza-soares",
+          "canonica": "Elza Soares",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "clara-nunes",
+          "canonica": "Clara Nunes",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "paulinho-da-viola",
+          "canonica": "Paulinho da Viola",
+          "aceitas": [],
           "traducoes": {},
           "raridadeInicial": "incomum"
         }
@@ -570,14 +1006,18 @@
         {
           "id": "legiao-urbana",
           "canonica": "Legião Urbana",
-          "aceitas": [],
+          "aceitas": [
+            "Legião"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
         {
           "id": "titas",
           "canonica": "Titãs",
-          "aceitas": [],
+          "aceitas": [
+            "Os Titãs"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
@@ -594,14 +1034,18 @@
         {
           "id": "barao-vermelho",
           "canonica": "Barão Vermelho",
-          "aceitas": [],
+          "aceitas": [
+            "Barão"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
         {
           "id": "capital-inicial",
           "canonica": "Capital Inicial",
-          "aceitas": [],
+          "aceitas": [
+            "Capital"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
@@ -675,7 +1119,9 @@
         {
           "id": "kid-abelha",
           "canonica": "Kid Abelha",
-          "aceitas": [],
+          "aceitas": [
+            "Kid Abelha e os Abóboras Selvagens"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
@@ -728,9 +1174,11 @@
         {
           "id": "blitz",
           "canonica": "Blitz",
-          "aceitas": [],
+          "aceitas": [
+            "A Blitz"
+          ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "cpm-22",
@@ -739,14 +1187,14 @@
             "CPM"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "nx-zero",
           "canonica": "NX Zero",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "detonautas",
@@ -755,28 +1203,28 @@
             "Detonautas Roque Clube"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "fresno",
           "canonica": "Fresno",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "sepultura",
           "canonica": "Sepultura",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "angra",
           "canonica": "Angra",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "nacao-zumbi",
@@ -786,112 +1234,112 @@
             "Chico Science e Nação Zumbi"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "planet-hemp",
           "canonica": "Planet Hemp",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "camisa-de-venus",
           "canonica": "Camisa de Vênus",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "plebe-rude",
           "canonica": "Plebe Rude",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "restart",
           "canonica": "Restart",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "pitty",
           "canonica": "Pitty",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "tihuana",
           "canonica": "Tihuana",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "hanoi-hanoi",
           "canonica": "Hanói-Hanói",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "ratos-de-porao",
           "canonica": "Ratos de Porão",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "inocentes",
           "canonica": "Inocentes",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "velhas-virgens",
           "canonica": "Velhas Virgens",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "dead-fish",
           "canonica": "Dead Fish",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "matanza",
           "canonica": "Matanza",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "vanguart",
           "canonica": "Vanguart",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "scalene",
           "canonica": "Scalene",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "supercombo",
           "canonica": "Supercombo",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "forfun",
@@ -905,63 +1353,63 @@
           "canonica": "Hateen",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "garotos-podres",
           "canonica": "Garotos Podres",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "colera",
           "canonica": "Cólera",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "viper",
           "canonica": "Viper",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "korzus",
           "canonica": "Korzus",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "krisiun",
           "canonica": "Krisiun",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "shaman",
           "canonica": "Shaman",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "oficina-g3",
           "canonica": "Oficina G3",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "rosa-de-saron",
           "canonica": "Rosa de Saron",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "novos-baianos",
@@ -984,14 +1432,14 @@
           "canonica": "Cachorro Grande",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "bide-ou-balde",
           "canonica": "Bidê ou Balde",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "nenhum-de-nos",
@@ -1005,28 +1453,28 @@
           "canonica": "Golpe de Estado",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "uns-e-outros",
           "canonica": "Uns e Outros",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "strike",
           "canonica": "Strike",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "gloria",
           "canonica": "Gloria",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "malta",
@@ -1040,14 +1488,392 @@
           "canonica": "Dr. Sin",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "tianastacia",
           "canonica": "Tianastácia",
           "aceitas": [],
           "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "radio-taxi",
+          "canonica": "Rádio Táxi",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cansei-de-ser-sexy",
+          "canonica": "Cansei de Ser Sexy",
+          "aceitas": [
+            "CSS"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "moveis-coloniais-de-acaju",
+          "canonica": "Móveis Coloniais de Acaju",
+          "aceitas": [
+            "Móveis Coloniais"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "roupa-nova",
+          "canonica": "Roupa Nova",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "14-bis",
+          "canonica": "14 Bis",
+          "aceitas": [
+            "Quatorze Bis"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "os-incriveis",
+          "canonica": "Os Incríveis",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "renato-e-seus-blue-caps",
+          "canonica": "Renato e Seus Blue Caps",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "the-fevers",
+          "canonica": "The Fevers",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "made-in-brazil",
+          "canonica": "Made in Brazil",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "o-terco",
+          "canonica": "O Terço",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "casa-das-maquinas",
+          "canonica": "Casa das Máquinas",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "joelho-de-porco",
+          "canonica": "Joelho de Porco",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "metro",
+          "canonica": "Metrô",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "zero",
+          "canonica": "Zero",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "joao-penca-e-seus-miquinhos-amestrados",
+          "canonica": "João Penca e Seus Miquinhos Amestrados",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "picassos-falsos",
+          "canonica": "Picassos Falsos",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "defalla",
+          "canonica": "Defalla",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "os-replicantes",
+          "canonica": "Os Replicantes",
+          "aceitas": [
+            "Replicantes"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "tnt",
+          "canonica": "TNT",
+          "aceitas": [],
+          "traducoes": {},
           "raridadeInicial": "epico"
+        },
+        {
+          "id": "os-cascavelletes",
+          "canonica": "Os Cascavelletes",
+          "aceitas": [
+            "Cascavelletes"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "papas-da-lingua",
+          "canonica": "Papas da Língua",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "graforreia-xilarmonica",
+          "canonica": "Graforreia Xilarmônica",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "acusticos-valvulados",
+          "canonica": "Acústicos & Valvulados",
+          "aceitas": [
+            "Acústicos e Valvulados"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "virguloides",
+          "canonica": "Virgulóides",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "mombojo",
+          "canonica": "Mombojó",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "moptop",
+          "canonica": "Moptop",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "hevo84",
+          "canonica": "Hevo84",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "fake-number",
+          "canonica": "Fake Number",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "cine",
+          "canonica": "Cine",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "massacration",
+          "canonica": "Massacration",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "dorsal-atlantica",
+          "canonica": "Dorsal Atlântica",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "sarcofago",
+          "canonica": "Sarcófago",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "torture-squad",
+          "canonica": "Torture Squad",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "nervosa",
+          "canonica": "Nervosa",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "almah",
+          "canonica": "Almah",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "violeta-de-outono",
+          "canonica": "Violeta de Outono",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "tequila-baby",
+          "canonica": "Tequila Baby",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "ultramen",
+          "canonica": "Ultramen",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "fellini",
+          "canonica": "Fellini",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "a-cor-do-som",
+          "canonica": "A Cor do Som",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "catedral",
+          "canonica": "Catedral",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "herois-da-resistencia",
+          "canonica": "Heróis da Resistência",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "comunidade-nin-jitsu",
+          "canonica": "Comunidade Nin-Jitsu",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "autoramas",
+          "canonica": "Autoramas",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "gang-90-e-as-absurdettes",
+          "canonica": "Gang 90 e as Absurdettes",
+          "aceitas": [
+            "Gang 90"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "hangar",
+          "canonica": "Hangar",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "maglore",
+          "canonica": "Maglore",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "o-terno",
+          "canonica": "O Terno",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "boogarins",
+          "canonica": "Boogarins",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "selvagens-a-procura-de-lei",
+          "canonica": "Selvagens à Procura de Lei",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "black-pantera",
+          "canonica": "Black Pantera",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "ego-kill-talent",
+          "canonica": "Ego Kill Talent",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
         }
       ]
     },
@@ -1175,7 +2001,8 @@
           "id": "milionario-jose-rico",
           "canonica": "Milionário & José Rico",
           "aceitas": [
-            "Milionário e José Rico"
+            "Milionário e José Rico",
+            "Milionário e Zé Rico"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -1196,7 +2023,7 @@
             "Tião Carreiro e Pardinho"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "fernando-sorocaba",
@@ -1223,7 +2050,7 @@
             "João Bosco e Vinícius"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "israel-rodolffo",
@@ -1232,7 +2059,7 @@
             "Israel e Rodolffo"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "gian-giovani",
@@ -1241,7 +2068,7 @@
             "Gian e Giovani"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "rionegro-solimoes",
@@ -1250,7 +2077,7 @@
             "Rionegro e Solimões"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "edson-hudson",
@@ -1259,7 +2086,7 @@
             "Edson e Hudson"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "chrystian-ralf",
@@ -1349,7 +2176,7 @@
             "Jads e Jadson"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "rick-renner",
@@ -1358,7 +2185,7 @@
             "Rick e Renner"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "teodoro-sampaio",
@@ -1367,7 +2194,7 @@
             "Teodoro e Sampaio"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "matogrosso-mathias",
@@ -1376,7 +2203,7 @@
             "Matogrosso e Mathias"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "gino-geno",
@@ -1385,7 +2212,7 @@
             "Gino e Geno"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "pena-branca-xavantinho",
@@ -1448,7 +2275,7 @@
             "Guilherme e Santiago"
           ],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "humberto-ronaldo",
@@ -1457,7 +2284,7 @@
             "Humberto e Ronaldo"
           ],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "hugo-pena-gabriel",
@@ -1466,7 +2293,7 @@
             "Hugo Pena e Gabriel"
           ],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "clayton-romario",
@@ -1475,7 +2302,7 @@
             "Clayton e Romário"
           ],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "alan-aladim",
@@ -1493,7 +2320,7 @@
             "Liu e Léu"
           ],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "pedro-bento-ze-da-estrada",
@@ -1502,7 +2329,7 @@
             "Pedro Bento e Zé da Estrada"
           ],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "zico-zeca",
@@ -1511,7 +2338,7 @@
             "Zico e Zeca"
           ],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "irmas-galvao",
@@ -1520,7 +2347,7 @@
             "As Galvão"
           ],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "maria-cecilia-rodolfo",
@@ -1529,7 +2356,230 @@
             "Maria Cecília e Rodolfo"
           ],
           "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "fred-gustavo",
+          "canonica": "Fred & Gustavo",
+          "aceitas": [
+            "Fred e Gustavo"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "ze-ricardo-thiago",
+          "canonica": "Zé Ricardo & Thiago",
+          "aceitas": [
+            "Zé Ricardo e Thiago"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "joao-mineiro-marciano",
+          "canonica": "João Mineiro & Marciano",
+          "aceitas": [
+            "João Mineiro e Marciano"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "chico-rey-parana",
+          "canonica": "Chico Rey & Paraná",
+          "aceitas": [
+            "Chico Rey e Paraná"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "gilberto-gilmar",
+          "canonica": "Gilberto & Gilmar",
+          "aceitas": [
+            "Gilberto e Gilmar"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "di-paullo-paulino",
+          "canonica": "Di Paullo & Paulino",
+          "aceitas": [
+            "Di Paullo e Paulino"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cezar-paulinho",
+          "canonica": "Cezar & Paulinho",
+          "aceitas": [
+            "Cezar e Paulinho"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "belmonte-amarai",
+          "canonica": "Belmonte & Amaraí",
+          "aceitas": [
+            "Belmonte e Amaraí"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "lourenco-lourival",
+          "canonica": "Lourenço & Lourival",
+          "aceitas": [
+            "Lourenço e Lourival"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "duduca-dalvan",
+          "canonica": "Duduca & Dalvan",
+          "aceitas": [
+            "Duduca e Dalvan"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ze-mulato-cassiano",
+          "canonica": "Zé Mulato & Cassiano",
+          "aceitas": [
+            "Zé Mulato e Cassiano"
+          ],
+          "traducoes": {},
           "raridadeInicial": "epico"
+        },
+        {
+          "id": "tibagi-miltinho",
+          "canonica": "Tibagi & Miltinho",
+          "aceitas": [
+            "Tibagi e Miltinho"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "craveiro-cravinho",
+          "canonica": "Craveiro & Cravinho",
+          "aceitas": [
+            "Craveiro e Cravinho"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "vieira-vieirinha",
+          "canonica": "Vieira & Vieirinha",
+          "aceitas": [
+            "Vieira e Vieirinha"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "alvarenga-ranchinho",
+          "canonica": "Alvarenga & Ranchinho",
+          "aceitas": [
+            "Alvarenga e Ranchinho"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "ze-carreiro-carreirinho",
+          "canonica": "Zé Carreiro & Carreirinho",
+          "aceitas": [
+            "Zé Carreiro e Carreirinho"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "irmas-castro",
+          "canonica": "Irmãs Castro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "bruninho-davi",
+          "canonica": "Bruninho & Davi",
+          "aceitas": [
+            "Bruninho e Davi"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "icaro-gilmar",
+          "canonica": "Ícaro & Gilmar",
+          "aceitas": [
+            "Ícaro e Gilmar"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "mayck-lyan",
+          "canonica": "Mayck & Lyan",
+          "aceitas": [
+            "Mayck e Lyan"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "conrado-aleksandro",
+          "canonica": "Conrado & Aleksandro",
+          "aceitas": [
+            "Conrado e Aleksandro"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "hugo-tiago",
+          "canonica": "Hugo & Tiago",
+          "aceitas": [
+            "Hugo e Tiago"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "cleber-cauan",
+          "canonica": "Cleber & Cauan",
+          "aceitas": [
+            "Cleber e Cauan"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "day-lara",
+          "canonica": "Day & Lara",
+          "aceitas": [
+            "Day e Lara"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "joao-carreiro-capataz",
+          "canonica": "João Carreiro & Capataz",
+          "aceitas": [
+            "João Carreiro e Capataz"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
         }
       ]
     },
@@ -1555,14 +2605,18 @@
         {
           "id": "martinho-da-vila",
           "canonica": "Martinho da Vila",
-          "aceitas": [],
+          "aceitas": [
+            "Martinho"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
         {
           "id": "beth-carvalho",
           "canonica": "Beth Carvalho",
-          "aceitas": [],
+          "aceitas": [
+            "Beth"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
@@ -1592,7 +2646,9 @@
         {
           "id": "noel-rosa",
           "canonica": "Noel Rosa",
-          "aceitas": [],
+          "aceitas": [
+            "Noel"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
@@ -1608,14 +2664,18 @@
         {
           "id": "clara-nunes",
           "canonica": "Clara Nunes",
-          "aceitas": [],
+          "aceitas": [
+            "Clara"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
         {
           "id": "elza-soares",
           "canonica": "Elza Soares",
-          "aceitas": [],
+          "aceitas": [
+            "Elza"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
@@ -1624,21 +2684,23 @@
           "canonica": "Jorge Aragão",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "arlindo-cruz",
           "canonica": "Arlindo Cruz",
-          "aceitas": [],
+          "aceitas": [
+            "Arlindo"
+          ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "diogo-nogueira",
           "canonica": "Diogo Nogueira",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "joao-nogueira",
@@ -1650,9 +2712,11 @@
         {
           "id": "fundo-de-quintal",
           "canonica": "Fundo de Quintal",
-          "aceitas": [],
+          "aceitas": [
+            "Grupo Fundo de Quintal"
+          ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "exaltasamba",
@@ -1726,7 +2790,7 @@
           "canonica": "Art Popular",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "katinguele",
@@ -1738,7 +2802,9 @@
         {
           "id": "sorriso-maroto",
           "canonica": "Sorriso Maroto",
-          "aceitas": [],
+          "aceitas": [
+            "Sorriso"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
@@ -1747,28 +2813,28 @@
           "canonica": "Turma do Pagode",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "ferrugem",
           "canonica": "Ferrugem",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "dilsinho",
           "canonica": "Dilsinho",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "mumuzinho",
           "canonica": "Mumuzinho",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "pixote",
@@ -1784,7 +2850,7 @@
             "Grupo Menos é Mais"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "pique-novo",
@@ -1807,70 +2873,80 @@
             "Originais do Samba"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "demonios-da-garoa",
           "canonica": "Demônios da Garoa",
-          "aceitas": [],
+          "aceitas": [
+            "Os Demônios da Garoa"
+          ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "bezerra-da-silva",
           "canonica": "Bezerra da Silva",
-          "aceitas": [],
+          "aceitas": [
+            "Bezerra"
+          ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "dudu-nobre",
           "canonica": "Dudu Nobre",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "leci-brandao",
           "canonica": "Leci Brandão",
-          "aceitas": [],
+          "aceitas": [
+            "Leci"
+          ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "dona-ivone-lara",
           "canonica": "Dona Ivone Lara",
-          "aceitas": [],
+          "aceitas": [
+            "Dona Ivone"
+          ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "jovelina-perola-negra",
           "canonica": "Jovelina Pérola Negra",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "almir-guineto",
           "canonica": "Almir Guineto",
-          "aceitas": [],
+          "aceitas": [
+            "Guineto"
+          ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "ataulfo-alves",
           "canonica": "Ataulfo Alves",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "nelson-cavaquinho",
           "canonica": "Nelson Cavaquinho",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "candeia",
@@ -1884,21 +2960,23 @@
           "canonica": "Monarco",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "xande-de-pilares",
           "canonica": "Xande de Pilares",
-          "aceitas": [],
+          "aceitas": [
+            "Xande"
+          ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "harmonia-do-samba",
           "canonica": "Harmonia do Samba",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "grupo-clareou",
@@ -1914,35 +2992,35 @@
           "canonica": "Roberta Sá",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "teresa-cristina",
           "canonica": "Teresa Cristina",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "wilson-moreira",
           "canonica": "Wilson Moreira",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "nei-lopes",
           "canonica": "Nei Lopes",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "delcio-carvalho",
           "canonica": "Délcio Carvalho",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "reinaldo",
@@ -1951,14 +3029,14 @@
             "O Príncipe do Pagode"
           ],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "sombrinha",
           "canonica": "Sombrinha",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "grupo-bom-gosto",
@@ -1967,7 +3045,7 @@
             "Bom Gosto"
           ],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "os-travessos",
@@ -1976,14 +3054,14 @@
             "Travessos"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "inimigos-da-hp",
           "canonica": "Inimigos da HP",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "swing-simpatia",
@@ -1992,14 +3070,335 @@
             "Swing e Simpatia"
           ],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "kiloucura",
           "canonica": "Kiloucura",
           "aceitas": [],
           "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "alexandre-pires",
+          "canonica": "Alexandre Pires",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "netinho-de-paula",
+          "canonica": "Netinho de Paula",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "rodriguinho",
+          "canonica": "Rodriguinho",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "salgadinho",
+          "canonica": "Salgadinho",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "leandro-lehart",
+          "canonica": "Leandro Lehart",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "karametade",
+          "canonica": "Karametade",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "os-morenos",
+          "canonica": "Os Morenos",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "imaginasamba",
+          "canonica": "Imaginasamba",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "pixinguinha",
+          "canonica": "Pixinguinha",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ze-keti",
+          "canonica": "Zé Kéti",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "clementina-de-jesus",
+          "canonica": "Clementina de Jesus",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ismael-silva",
+          "canonica": "Ismael Silva",
+          "aceitas": [],
+          "traducoes": {},
           "raridadeInicial": "epico"
+        },
+        {
+          "id": "wilson-batista",
+          "canonica": "Wilson Batista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "geraldo-pereira",
+          "canonica": "Geraldo Pereira",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "lupicinio-rodrigues",
+          "canonica": "Lupicínio Rodrigues",
+          "aceitas": [
+            "Lupicínio"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "carmen-miranda",
+          "canonica": "Carmen Miranda",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "jamelao",
+          "canonica": "Jamelão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "neguinho-da-beija-flor",
+          "canonica": "Neguinho da Beija-Flor",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "agepe",
+          "canonica": "Agepê",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "luiz-carlos-da-vila",
+          "canonica": "Luiz Carlos da Vila",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "benito-di-paula",
+          "canonica": "Benito di Paula",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "nelson-sargento",
+          "canonica": "Nelson Sargento",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "elton-medeiros",
+          "canonica": "Elton Medeiros",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "roberto-ribeiro",
+          "canonica": "Roberto Ribeiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "luiz-ayrao",
+          "canonica": "Luiz Ayrão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "mart-nalia",
+          "canonica": "Mart'nália",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "psirico",
+          "canonica": "Psirico",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "e-o-tchan",
+          "canonica": "É o Tchan!",
+          "aceitas": [
+            "Gera Samba"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "parangole",
+          "canonica": "Parangolé",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "marvvila",
+          "canonica": "Marvvila",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "moacyr-luz",
+          "canonica": "Moacyr Luz",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "aracy-de-almeida",
+          "canonica": "Aracy de Almeida",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "ciro-monteiro",
+          "canonica": "Ciro Monteiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "noca-da-portela",
+          "canonica": "Noca da Portela",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "fabiana-cozza",
+          "canonica": "Fabiana Cozza",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "grupo-raca",
+          "canonica": "Grupo Raça",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "chrigor",
+          "canonica": "Chrigor",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "sensacao",
+          "canonica": "Sensação",
+          "aceitas": [
+            "Grupo Sensação"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "leandro-sapucahy",
+          "canonica": "Leandro Sapucahy",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "moreira-da-silva",
+          "canonica": "Moreira da Silva",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "velha-guarda-da-portela",
+          "canonica": "Velha Guarda da Portela",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "sinho",
+          "canonica": "Sinhô",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "germano-mathias",
+          "canonica": "Germano Mathias",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "paulo-vanzolini",
+          "canonica": "Paulo Vanzolini",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "marquinhos-de-oswaldo-cruz",
+          "canonica": "Marquinhos de Oswaldo Cruz",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
         }
       ]
     },
@@ -2024,7 +3423,8 @@
           "id": "ludmilla",
           "canonica": "Ludmilla",
           "aceitas": [
-            "MC Beyoncé"
+            "MC Beyoncé",
+            "MC Ludmilla"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -2133,7 +3533,9 @@
         {
           "id": "bonde-do-tigrao",
           "canonica": "Bonde do Tigrão",
-          "aceitas": [],
+          "aceitas": [
+            "Tigrão"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
@@ -2156,7 +3558,9 @@
         {
           "id": "mc-carol",
           "canonica": "MC Carol",
-          "aceitas": [],
+          "aceitas": [
+            "Carol"
+          ],
           "traducoes": {},
           "raridadeInicial": "incomum"
         },
@@ -2205,7 +3609,8 @@
           "id": "mr-catra",
           "canonica": "Mr. Catra",
           "aceitas": [
-            "Catra"
+            "Catra",
+            "Mister Catra"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -2233,7 +3638,8 @@
           "canonica": "MC Poze do Rodo",
           "aceitas": [
             "Poze",
-            "Poze do Rodo"
+            "Poze do Rodo",
+            "MC Poze"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -2243,7 +3649,7 @@
           "canonica": "MC Daniel",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "mc-pedrinho",
@@ -2271,14 +3677,14 @@
             "MC Pocahontas"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "lexa",
           "canonica": "Lexa",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "mc-mirella",
@@ -2287,19 +3693,23 @@
             "Mirella"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "kevin-o-chris",
           "canonica": "Kevin o Chris",
-          "aceitas": [],
+          "aceitas": [
+            "MC Kevin o Chris"
+          ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "mc-wm",
           "canonica": "MC WM",
-          "aceitas": [],
+          "aceitas": [
+            "WM"
+          ],
           "traducoes": {},
           "raridadeInicial": "raro"
         },
@@ -2319,7 +3729,7 @@
             "Dennis"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "mc-fioti",
@@ -2356,7 +3766,9 @@
         {
           "id": "gaiola-das-popozudas",
           "canonica": "Gaiola das Popozudas",
-          "aceitas": [],
+          "aceitas": [
+            "Gaiola"
+          ],
           "traducoes": {},
           "raridadeInicial": "raro"
         },
@@ -2376,7 +3788,7 @@
             "Pipokinha"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "mc-ig",
@@ -2390,14 +3802,14 @@
           "canonica": "MC Paiva",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "mc-davi",
           "canonica": "MC Davi",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "mc-brinquedo",
@@ -2427,7 +3839,7 @@
           "canonica": "Furacão 2000",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "mc-marcelly",
@@ -2441,7 +3853,7 @@
           "canonica": "Os Hawaianos",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "lendario"
         },
         {
           "id": "mc-dricka",
@@ -2472,6 +3884,165 @@
           ],
           "traducoes": {},
           "raridadeInicial": "lendario"
+        },
+        {
+          "id": "pedro-sampaio",
+          "canonica": "Pedro Sampaio",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "mc-kevin",
+          "canonica": "MC Kevin",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "nego-do-borel",
+          "canonica": "Nego do Borel",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "jojo-todynho",
+          "canonica": "Jojo Todynho",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "mc-rebecca",
+          "canonica": "MC Rebecca",
+          "aceitas": [
+            "Rebecca"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tati-zaqui",
+          "canonica": "Tati Zaqui",
+          "aceitas": [
+            "MC Tati Zaqui"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "mc-melody",
+          "canonica": "MC Melody",
+          "aceitas": [
+            "Melody"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "mc-serginho",
+          "canonica": "MC Serginho",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "rennan-da-penha",
+          "canonica": "Rennan da Penha",
+          "aceitas": [
+            "DJ Rennan da Penha"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "mc-koringa",
+          "canonica": "MC Koringa",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "mc-smith",
+          "canonica": "MC Smith",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "bonde-das-maravilhas",
+          "canonica": "Bonde das Maravilhas",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "mc-bob-rum",
+          "canonica": "MC Bob Rum",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "mc-duduzinho",
+          "canonica": "MC Duduzinho",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "mc-delano",
+          "canonica": "MC Delano",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "mc-lon",
+          "canonica": "MC Lon",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "mc-gw",
+          "canonica": "MC GW",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "mc-neguinho-do-kaxeta",
+          "canonica": "MC Neguinho do Kaxeta",
+          "aceitas": [
+            "Neguinho do Kaxeta"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "bonde-do-role",
+          "canonica": "Bonde do Rolê",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "mc-biel",
+          "canonica": "MC Biel",
+          "aceitas": [
+            "Biel"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "mc-g15",
+          "canonica": "MC G15",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
         }
       ]
     },
@@ -2488,14 +4059,18 @@
         {
           "id": "samba",
           "canonica": "Samba",
-          "aceitas": [],
+          "aceitas": [
+            "Samba de raiz"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
         {
           "id": "bossa-nova",
           "canonica": "Bossa nova",
-          "aceitas": [],
+          "aceitas": [
+            "Bossa"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
@@ -2511,7 +4086,9 @@
         {
           "id": "forro",
           "canonica": "Forró",
-          "aceitas": [],
+          "aceitas": [
+            "Forró pé de serra"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
@@ -2538,7 +4115,9 @@
         {
           "id": "pagode",
           "canonica": "Pagode",
-          "aceitas": [],
+          "aceitas": [
+            "Pagode romântico"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
@@ -2632,7 +4211,7 @@
           "canonica": "Arrocha",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "piseiro",
@@ -2641,31 +4220,34 @@
             "Pisadinha"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "sertanejo-universitario",
           "canonica": "Sertanejo universitário",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "musica-caipira",
           "canonica": "Música caipira",
           "aceitas": [
             "Moda de viola",
-            "Sertanejo raiz"
+            "Sertanejo raiz",
+            "Moda caipira"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "samba-enredo",
           "canonica": "Samba-enredo",
-          "aceitas": [],
+          "aceitas": [
+            "Samba de enredo"
+          ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "samba-rock",
@@ -2692,7 +4274,8 @@
           "id": "pagodao",
           "canonica": "Pagodão",
           "aceitas": [
-            "Pagode baiano"
+            "Pagode baiano",
+            "Swingueira"
           ],
           "traducoes": {},
           "raridadeInicial": "incomum"
@@ -2709,7 +4292,7 @@
           "canonica": "Samba de breque",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "coco",
@@ -2759,28 +4342,28 @@
           "canonica": "Lundu",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "modinha",
           "canonica": "Modinha",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "maxixe",
           "canonica": "Maxixe",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "embolada",
           "canonica": "Embolada",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "repente",
@@ -2796,7 +4379,7 @@
           "canonica": "Ciranda",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "afoxe",
@@ -2817,7 +4400,7 @@
           "canonica": "Brega funk",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "funk-ostentacao",
@@ -2833,7 +4416,7 @@
             "Marchinha de carnaval"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "vanerao",
@@ -2843,14 +4426,14 @@
             "Vaneira"
           ],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "calypso",
           "canonica": "Calypso",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "guitarrada",
@@ -2871,14 +4454,14 @@
           "canonica": "Xamego",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "rasqueado",
           "canonica": "Rasqueado",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "catira",
@@ -2887,32 +4470,193 @@
             "Cateretê"
           ],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "siria",
           "canonica": "Siriá",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "fandango-caicara",
           "canonica": "Fandango caiçara",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "bumba-meu-boi",
           "canonica": "Bumba meu boi",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "forro-universitario",
           "canonica": "Forró universitário",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "samba-exaltacao",
+          "canonica": "Samba exaltação",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "samba-cancao",
+          "canonica": "Samba-canção",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "samba-de-gafieira",
+          "canonica": "Samba de gafieira",
+          "aceitas": [
+            "Gafieira"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "jongo",
+          "canonica": "Jongo",
+          "aceitas": [
+            "Caxambu"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "congada",
+          "canonica": "Congada",
+          "aceitas": [
+            "Congado"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "folia-de-reis",
+          "canonica": "Folia de Reis",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "batuque",
+          "canonica": "Batuque",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "arrasta-pe",
+          "canonica": "Arrasta-pé",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "funk-melody",
+          "canonica": "Funk melody",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "proibidao",
+          "canonica": "Proibidão",
+          "aceitas": [
+            "Funk proibidão"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "forro-eletronico",
+          "canonica": "Forró eletrônico",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "seresta",
+          "canonica": "Seresta",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "sambalanco",
+          "canonica": "Sambalanço",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "lambadao",
+          "canonica": "Lambadão",
+          "aceitas": [
+            "Lambadão cuiabano"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "musica-armorial",
+          "canonica": "Música armorial",
+          "aceitas": [
+            "Movimento Armorial"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "bugio",
+          "canonica": "Bugio",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "siriri",
+          "canonica": "Siriri",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "cururu",
+          "canonica": "Cururu",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "caboclinho",
+          "canonica": "Caboclinho",
+          "aceitas": [
+            "Caboclinhos"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "marcha-rancho",
+          "canonica": "Marcha-rancho",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "tche-music",
+          "canonica": "Tchê music",
           "aceitas": [],
           "traducoes": {},
           "raridadeInicial": "epico"
@@ -2931,7 +4675,10 @@
         {
           "id": "violao",
           "canonica": "Violão",
-          "aceitas": [],
+          "aceitas": [
+            "Violão de sete cordas",
+            "Violão de 7 cordas"
+          ],
           "traducoes": {
             "en": [
               "Acoustic guitar"
@@ -2961,14 +4708,19 @@
         {
           "id": "piano",
           "canonica": "Piano",
-          "aceitas": [],
+          "aceitas": [
+            "Pianoforte",
+            "Piano de cauda"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
         {
           "id": "bateria",
           "canonica": "Bateria",
-          "aceitas": [],
+          "aceitas": [
+            "Bateria eletrônica"
+          ],
           "traducoes": {
             "en": [
               "Drums",
@@ -2982,7 +4734,9 @@
           "canonica": "Contrabaixo",
           "aceitas": [
             "Baixo",
-            "Baixo elétrico"
+            "Baixo elétrico",
+            "Contrabaixo acústico",
+            "Baixo acústico"
           ],
           "traducoes": {
             "en": [
@@ -3041,7 +4795,9 @@
         {
           "id": "trompete",
           "canonica": "Trompete",
-          "aceitas": [],
+          "aceitas": [
+            "Trombeta"
+          ],
           "traducoes": {
             "en": [
               "Trumpet"
@@ -3117,7 +4873,8 @@
           "id": "violoncelo",
           "canonica": "Violoncelo",
           "aceitas": [
-            "Cello"
+            "Cello",
+            "Celo"
           ],
           "traducoes": {
             "en": [
@@ -3179,7 +4936,7 @@
           "canonica": "Oboé",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "fagote",
@@ -3193,13 +4950,14 @@
               "Fagot"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "gaita",
           "canonica": "Gaita",
           "aceitas": [
-            "Harmônica"
+            "Harmônica",
+            "Gaita de boca"
           ],
           "traducoes": {
             "en": [
@@ -3216,42 +4974,42 @@
           "canonica": "Berimbau",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "atabaque",
           "canonica": "Atabaque",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "surdo",
           "canonica": "Surdo",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "tamborim",
           "canonica": "Tamborim",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "cuica",
           "canonica": "Cuíca",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "agogo",
           "canonica": "Agogô",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "triangulo",
@@ -3262,21 +5020,21 @@
               "Triangle"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "zabumba",
           "canonica": "Zabumba",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "reco-reco",
           "canonica": "Reco-reco",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "ganza",
@@ -3289,7 +5047,7 @@
               "Shaker"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "xilofone",
@@ -3303,7 +5061,7 @@
               "Xilófono"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "marimba",
@@ -3315,7 +5073,9 @@
         {
           "id": "orgao",
           "canonica": "Órgão",
-          "aceitas": [],
+          "aceitas": [
+            "Órgão de tubos"
+          ],
           "traducoes": {
             "en": [
               "Organ"
@@ -3324,14 +5084,14 @@
               "Órgano"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "ukulele",
           "canonica": "Ukulele",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "bandolim",
@@ -3361,7 +5121,7 @@
             "Viola clássica"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "trompa",
@@ -3373,7 +5133,7 @@
               "Horn"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "flautim",
@@ -3386,7 +5146,7 @@
               "Piccolo"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "flauta-doce",
@@ -3423,7 +5183,7 @@
             "Cítara"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "timpano",
@@ -3437,7 +5197,7 @@
               "Timbal"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "castanholas",
@@ -3451,7 +5211,7 @@
               "Castañuelas"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "maracas",
@@ -3460,14 +5220,14 @@
             "Maracá"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "bongo",
           "canonica": "Bongô",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "conga",
@@ -3476,21 +5236,21 @@
             "Tumbadora"
           ],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "cajon",
           "canonica": "Cajón",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "didgeridoo",
           "canonica": "Didgeridoo",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "teremim",
@@ -3503,7 +5263,7 @@
               "Theremin"
             ]
           },
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "sintetizador",
@@ -3514,13 +5274,14 @@
               "Synthesizer"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "prato",
           "canonica": "Prato",
           "aceitas": [
-            "Pratos"
+            "Pratos",
+            "Chimbal"
           ],
           "traducoes": {
             "en": [
@@ -3530,7 +5291,7 @@
               "Platillo"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "caixa",
@@ -3546,21 +5307,21 @@
               "Caja"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "rabeca",
           "canonica": "Rabeca",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "alfaia",
           "canonica": "Alfaia",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "bumbo",
@@ -3576,7 +5337,7 @@
               "Bombo"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "corneta",
@@ -3587,14 +5348,14 @@
               "Cornet"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "kalimba",
           "canonica": "Kalimba",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "escaleta",
@@ -3605,7 +5366,7 @@
               "Melodica"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "gongo",
@@ -3618,7 +5379,7 @@
               "Gong"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "lira",
@@ -3629,7 +5390,7 @@
               "Lyre"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "alaude",
@@ -3643,7 +5404,7 @@
               "Laúd"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "balalaica",
@@ -3654,7 +5415,7 @@
               "Balalaika"
             ]
           },
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "cravo",
@@ -3668,12 +5429,570 @@
               "Clavecín"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "shamisen",
           "canonica": "Shamisen",
           "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "tambor",
+          "canonica": "Tambor",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Drum"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "vibrafone",
+          "canonica": "Vibrafone",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Vibraphone"
+            ],
+            "es": [
+              "Vibráfono"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "glockenspiel",
+          "canonica": "Glockenspiel",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "celesta",
+          "canonica": "Celesta",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "sino",
+          "canonica": "Sino",
+          "aceitas": [
+            "Sinos tubulares"
+          ],
+          "traducoes": {
+            "en": [
+              "Bell",
+              "Tubular bells"
+            ],
+            "es": [
+              "Campana"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "carrilhao",
+          "canonica": "Carrilhão",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Carillon"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "matraca",
+          "canonica": "Matraca",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Ratchet"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "caxixi",
+          "canonica": "Caxixi",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "xequere",
+          "canonica": "Xequerê",
+          "aceitas": [
+            "Agbê",
+            "Abê",
+            "Xekerê"
+          ],
+          "traducoes": {
+            "en": [
+              "Shekere"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "afoxe",
+          "canonica": "Afoxé",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "pau-de-chuva",
+          "canonica": "Pau de chuva",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Rainstick"
+            ],
+            "es": [
+              "Palo de lluvia"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "tambor-de-aco",
+          "canonica": "Tambor de aço",
+          "aceitas": [
+            "Steel drum",
+            "Steelpan"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "handpan",
+          "canonica": "Handpan",
+          "aceitas": [
+            "Hang"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "tanta",
+          "canonica": "Tantã",
+          "aceitas": [
+            "Tan-tan",
+            "Tantan"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "repique",
+          "canonica": "Repique",
+          "aceitas": [
+            "Repinique"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "djembe",
+          "canonica": "Djembê",
+          "aceitas": [
+            "Jembê"
+          ],
+          "traducoes": {
+            "es": [
+              "Yembé"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tabla",
+          "canonica": "Tabla",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "pifaro",
+          "canonica": "Pífaro",
+          "aceitas": [
+            "Pífano",
+            "Pife"
+          ],
+          "traducoes": {
+            "en": [
+              "Fife"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "flauta-de-pa",
+          "canonica": "Flauta de Pã",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Pan flute"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ocarina",
+          "canonica": "Ocarina",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "corne-ingles",
+          "canonica": "Corne inglês",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cor anglais",
+              "English horn"
+            ],
+            "es": [
+              "Corno inglés"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "clarone",
+          "canonica": "Clarone",
+          "aceitas": [
+            "Clarinete baixo"
+          ],
+          "traducoes": {
+            "en": [
+              "Bass clarinet"
+            ],
+            "es": [
+              "Clarinete bajo"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "contrafagote",
+          "canonica": "Contrafagote",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Contrabassoon"
+            ],
+            "es": [
+              "Contrafagot"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "bombardino",
+          "canonica": "Bombardino",
+          "aceitas": [
+            "Eufônio"
+          ],
+          "traducoes": {
+            "en": [
+              "Euphonium"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "sousafone",
+          "canonica": "Sousafone",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Sousaphone"
+            ],
+            "es": [
+              "Sousáfono"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "fliscorne",
+          "canonica": "Fliscorne",
+          "aceitas": [
+            "Flugelhorn"
+          ],
+          "traducoes": {
+            "es": [
+              "Fliscorno"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "clarim",
+          "canonica": "Clarim",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Bugle"
+            ],
+            "es": [
+              "Clarín"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "berrante",
+          "canonica": "Berrante",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "apito",
+          "canonica": "Apito",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Whistle"
+            ],
+            "es": [
+              "Silbato"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "kazoo",
+          "canonica": "Kazoo",
+          "aceitas": [
+            "Mirlitão"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "concertina",
+          "canonica": "Concertina",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "bandoneon",
+          "canonica": "Bandoneón",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "harmonio",
+          "canonica": "Harmônio",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Harmonium"
+            ],
+            "es": [
+              "Armonio"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "clavicordio",
+          "canonica": "Clavicórdio",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Clavichord"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "viola-de-cocho",
+          "canonica": "Viola de cocho",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "guitarra-baiana",
+          "canonica": "Guitarra baiana",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "guitarra-portuguesa",
+          "canonica": "Guitarra portuguesa",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Portuguese guitar"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "charango",
+          "canonica": "Charango",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "bouzouki",
+          "canonica": "Bouzouki",
+          "aceitas": [],
+          "traducoes": {
+            "es": [
+              "Buzuki"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "koto",
+          "canonica": "Koto",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "erhu",
+          "canonica": "Erhu",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "salterio",
+          "canonica": "Saltério",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Psaltery"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "viola-da-gamba",
+          "canonica": "Viola da gamba",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Viol"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "quena",
+          "canonica": "Quena",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "cora",
+          "canonica": "Corá",
+          "aceitas": [
+            "Kora"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "pandeireta",
+          "canonica": "Pandeireta",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tom-tom",
+          "canonica": "Tom-tom",
+          "aceitas": [
+            "Tom"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tarol",
+          "canonica": "Tarol",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "darbuka",
+          "canonica": "Darbuka",
+          "aceitas": [
+            "Darbuca",
+            "Derbak"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "taiko",
+          "canonica": "Taiko",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "realejo",
+          "canonica": "Realejo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Barrel organ"
+            ],
+            "es": [
+              "Organillo"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "berimbau-de-boca",
+          "canonica": "Berimbau de boca",
+          "aceitas": [
+            "Berimbau de índio",
+            "Harpa de boca"
+          ],
+          "traducoes": {
+            "en": [
+              "Jaw harp"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "requinta",
+          "canonica": "Requinta",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "adufe",
+          "canonica": "Adufe",
+          "aceitas": [
+            "Pandeiro quadrado"
+          ],
           "traducoes": {},
           "raridadeInicial": "lendario"
         }

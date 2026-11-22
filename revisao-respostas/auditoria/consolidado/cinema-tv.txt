@@ -1,0 +1,254 @@
+== cin-animacoes-disney-pixar    # Cite um longa de animação da Disney ou da Pixar
++ Ursinho Pooh | Pooh;Winnie the Pooh;As Aventuras do Ursinho Pooh |  |  | c | https://en.wikipedia.org/wiki/Winnie_the_Pooh_(franchise)    # generica
++ Alô, Amigos | Saludos Amigos |  |  | r | https://en.wikipedia.org/wiki/Saludos_Amigos    # profunda
++ Você Já Foi à Bahia? | Os Três Cavaleiros | The Three Caballeros | Los tres caballeros | r | https://en.wikipedia.org/wiki/The_Three_Caballeros    # profunda
++ Bernardo e Bianca na Terra dos Cangurus |  | The Rescuers Down Under |  | e | https://en.wikipedia.org/wiki/The_Rescuers_Down_Under    # profunda
++ As Aventuras de Ichabod e Sr. Sapo | Ichabod e Sr. Sapo | The Adventures of Ichabod and Mr. Toad |  | e | https://en.wikipedia.org/wiki/The_Adventures_of_Ichabod_and_Mr._Toad    # profunda
++ Tempo de Melodia | Melody Time |  |  | l | https://en.wikipedia.org/wiki/Melody_Time    # profunda
++ Música, Maestro! | Make Mine Music |  |  | l | https://en.wikipedia.org/wiki/Make_Mine_Music    # profunda
+~ Mogli: O Menino Lobo | O Livro da Selva;Livro da Selva | https://en.wikipedia.org/wiki/The_Jungle_Book_(1967_film)    # generica
+~ Aristogatas | Os Aristogatas | https://en.wikipedia.org/wiki/The_Aristocats    # generica
+~ Fantasia | Fantasia 2000 | https://en.wikipedia.org/wiki/Fantasia_2000    # generica
+~ Lilo & Stitch | Stitch | https://en.wikipedia.org/wiki/Lilo_%26_Stitch    # generica
+
+== cin-personagens-marvel    # Cite um personagem da Marvel (herói ou vilão)
++ Kingpin | Rei do Crime;Wilson Fisk |  |  | c | https://en.wikipedia.org/wiki/Kingpin_(character)    # generica
++ Namor | Príncipe Namor |  |  | i | https://en.wikipedia.org/wiki/Namor    # generica
++ Máquina de Combate | War Machine;James Rhodes;Rhodey |  |  | i | https://en.wikipedia.org/wiki/War_Machine    # generica
++ Pepper Potts | Virginia Potts |  |  | i | https://en.wikipedia.org/wiki/Pepper_Potts    # generica
++ Odin |  |  |  | i | https://en.wikipedia.org/wiki/Odin_(Marvel_Comics)    # generica
++ Wong |  |  |  | i | https://en.wikipedia.org/wiki/Wong_(comics)    # generica
++ Shuri |  |  |  | i | https://en.wikipedia.org/wiki/Shuri_(comics)    # generica
++ Okoye |  |  |  | r | https://en.wikipedia.org/wiki/Okoye_(Marvel_Comics)    # generica
++ Killmonger | Erik Killmonger |  |  | i | https://en.wikipedia.org/wiki/Killmonger    # generica
++ Yondu | Yondu Udonta |  |  | i | https://en.wikipedia.org/wiki/Yondu    # generica
++ Ronan | Ronan, o Acusador | Ronan the Accuser |  | r | https://en.wikipedia.org/wiki/Ronan_the_Accuser    # generica
++ Morbius |  |  |  | i | https://en.wikipedia.org/wiki/Morbius_(character)    # generica
++ Gata Negra | Felicia Hardy | Black Cat |  | i | https://en.wikipedia.org/wiki/Black_Cat_(Marvel_Comics)    # generica
++ Madame Teia |  | Madame Web |  | r | https://en.wikipedia.org/wiki/Madame_Web    # generica
++ Abominável | Abomination;Emil Blonsky |  |  | r | https://en.wikipedia.org/wiki/Abomination_(character)    # generica
++ Taskmaster | Treinador |  |  | r | https://en.wikipedia.org/wiki/Taskmaster_(character)    # generica
++ Zemo | Barão Zemo;Helmut Zemo | Baron Zemo |  | r | https://en.wikipedia.org/wiki/Baron_Zemo    # generica
++ Heimdall |  |  |  | r | https://en.wikipedia.org/wiki/Heimdall_(Marvel_Comics)    # generica
++ Sif |  |  |  | r | https://en.wikipedia.org/wiki/Sif_(comics)    # generica
++ Korg |  |  |  | r | https://en.wikipedia.org/wiki/Korg_(Marvel_Comics)    # generica
++ Mephisto |  |  |  | r | https://en.wikipedia.org/wiki/Mephisto_(comics)    # generica
++ Lince Negra | Kitty Pryde | Shadowcat |  | r | https://en.wikipedia.org/wiki/Shadowcat    # generica
++ Jubileu |  | Jubilee |  | r | https://en.wikipedia.org/wiki/Jubilee_(comics)    # generica
++ Bishop |  |  |  | r | https://en.wikipedia.org/wiki/Bishop_(comics)    # generica
++ Arnim Zola | Zola |  |  | e | https://en.wikipedia.org/wiki/Arnim_Zola    # profunda
++ Ossos Cruzados | Crossbones |  |  | e | https://en.wikipedia.org/wiki/Crossbones_(character)    # profunda
++ Maria Hill |  |  |  | r | https://en.wikipedia.org/wiki/Maria_Hill    # profunda
++ Phil Coulson | Agente Coulson;Coulson |  |  | r | https://en.wikipedia.org/wiki/Phil_Coulson    # profunda
++ Peggy Carter | Agente Carter |  |  | r | https://en.wikipedia.org/wiki/Peggy_Carter    # profunda
++ Ego | Ego, o Planeta Vivo | Ego the Living Planet |  | r | https://en.wikipedia.org/wiki/Ego_the_Living_Planet    # profunda
++ Adam Warlock |  |  |  | e | https://en.wikipedia.org/wiki/Adam_Warlock    # profunda
++ Surtur |  |  |  | e | https://en.wikipedia.org/wiki/Surtur    # profunda
++ Líder | O Líder | The Leader |  | e | https://en.wikipedia.org/wiki/Leader_(comics)    # profunda
+~ Homem de Ferro | Ironman | https://en.wikipedia.org/wiki/Iron_Man    # generica
+~ Doutor Estranho | Dr. Estranho | https://en.wikipedia.org/wiki/Doctor_Strange    # generica
+~ Homem-Formiga | Antman | https://en.wikipedia.org/wiki/Ant-Man    # generica
+~ Fera | Hank McCoy | https://en.wikipedia.org/wiki/Beast_(comics)    # generica
+~ Doutor Destino | Dr. Destino | https://en.wikipedia.org/wiki/Doctor_Doom    # generica
+~ Duende Verde | Duende | https://en.wikipedia.org/wiki/Green_Goblin    # generica
+~ Lagarto | Curt Connors | https://en.wikipedia.org/wiki/Lizard_(Marvel_Comics)    # generica
+~ Coisa | Thing | https://en.wikipedia.org/wiki/Thing_(comics)    # generica
+~ Senhor Fantástico | Mr. Fantastic | https://en.wikipedia.org/wiki/Mister_Fantastic    # generica
+
+== cin-harry-potter    # Cite um personagem do universo Harry Potter
++ Padma Patil | Padma |  |  | r | https://harrypotter.fandom.com/wiki/Padma_Patil    # generica
++ Parvati Patil | Parvati |  |  | r | https://harrypotter.fandom.com/wiki/Parvati_Patil    # generica
++ Pansy Parkinson | Pansy |  |  | i | https://harrypotter.fandom.com/wiki/Pansy_Parkinson    # generica
++ Blaise Zabini | Blaise |  |  | r | https://harrypotter.fandom.com/wiki/Blaise_Zabini    # generica
++ Barão Sangrento | Bloody Baron |  |  | r | https://harrypotter.fandom.com/wiki/Bloody_Baron    # generica
++ Frei Gorducho | Fat Friar |  |  | r | https://harrypotter.fandom.com/wiki/Fat_Friar    # generica
++ Dama Cinzenta | Grey Lady;Helena Ravenclaw |  |  | r | https://harrypotter.fandom.com/wiki/Helena_Ravenclaw    # generica
++ Igor Karkaroff | Karkaroff |  |  | r | https://harrypotter.fandom.com/wiki/Igor_Karkaroff    # generica
++ Madame Maxime | Olympe Maxime |  |  | r | https://harrypotter.fandom.com/wiki/Olympe_Maxime    # generica
++ Madame Hooch | Rolanda Hooch |  |  | r | https://harrypotter.fandom.com/wiki/Rolanda_Hooch    # generica
++ Firenze |  |  |  | r | https://harrypotter.fandom.com/wiki/Firenze    # generica
++ Nicolau Flamel | Nicolas Flamel |  |  | r | https://harrypotter.fandom.com/wiki/Nicolas_Flamel    # generica
++ Teddy Lupin | Teddy |  |  | r | https://harrypotter.fandom.com/wiki/Teddy_Lupin    # generica
++ Tina Goldstein | Tina |  |  | r | https://harrypotter.fandom.com/wiki/Porpentina_Goldstein    # generica
++ Queenie Goldstein | Queenie |  |  | r | https://harrypotter.fandom.com/wiki/Queenie_Goldstein    # generica
++ Jacob Kowalski | Jacob |  |  | r | https://harrypotter.fandom.com/wiki/Jacob_Kowalski    # generica
++ Credence Barebone | Credence |  |  | r | https://harrypotter.fandom.com/wiki/Credence_Barebone    # generica
++ Ludo Bagman | Bagman |  |  | l | https://harrypotter.fandom.com/wiki/Ludo_Bagman    # profunda
++ Oliver Wood | Olívio Wood |  |  | r | https://harrypotter.fandom.com/wiki/Oliver_Wood    # profunda
++ Angelina Johnson |  |  |  | l | https://harrypotter.fandom.com/wiki/Angelina_Johnson    # profunda
++ Katie Bell |  |  |  | l | https://harrypotter.fandom.com/wiki/Katie_Bell    # profunda
++ Marcus Flint |  |  |  | l | https://harrypotter.fandom.com/wiki/Marcus_Flint    # profunda
++ Hannah Abbott |  |  |  | l | https://harrypotter.fandom.com/wiki/Hannah_Abbott    # profunda
++ Susan Bones |  |  |  | l | https://harrypotter.fandom.com/wiki/Susan_Bones    # profunda
++ Justin Finch-Fletchley |  |  |  | l | https://harrypotter.fandom.com/wiki/Justin_Finch-Fletchley    # profunda
++ Cormac McLaggen |  |  |  | l | https://harrypotter.fandom.com/wiki/Cormac_McLaggen    # profunda
++ Marietta Edgecombe |  |  |  | l | https://harrypotter.fandom.com/wiki/Marietta_Edgecombe    # profunda
++ Bathilda Bagshot | Batilda Bagshot |  |  | l | https://harrypotter.fandom.com/wiki/Bathilda_Bagshot    # profunda
++ Griphook |  |  |  | r | https://harrypotter.fandom.com/wiki/Griphook    # profunda
++ Fang | Canino |  |  | r | https://harrypotter.fandom.com/wiki/Fang    # profunda
++ Rose Weasley | Rosa Weasley |  |  | l | https://harrypotter.fandom.com/wiki/Rose_Granger-Weasley    # profunda
++ Hugo Weasley |  |  |  | l | https://harrypotter.fandom.com/wiki/Hugo_Granger-Weasley    # profunda
++ Tiago Sirius Potter | James Sirius Potter |  |  | l | https://harrypotter.fandom.com/wiki/James_Sirius_Potter    # profunda
++ Lílian Luna Potter | Lily Luna Potter |  |  | l | https://harrypotter.fandom.com/wiki/Lily_Luna_Potter    # profunda
+
+== cin-star-wars    # Cite um personagem de Star Wars
++ Capitão Rex | Rex;Captain Rex |  |  | i | https://starwars.fandom.com/wiki/CT-7567    # generica
++ Kit Fisto |  |  |  | r | https://en.wikipedia.org/wiki/List_of_Star_Wars_characters    # generica
++ Plo Koon |  |  |  | r | https://en.wikipedia.org/wiki/List_of_Star_Wars_characters    # generica
++ Aayla Secura |  |  |  | r | https://en.wikipedia.org/wiki/List_of_Star_Wars_characters    # generica
++ Ki-Adi-Mundi |  |  |  | r | https://en.wikipedia.org/wiki/List_of_Star_Wars_characters    # generica
++ Asajj Ventress | Ventress |  |  | r | https://en.wikipedia.org/wiki/List_of_Star_Wars_characters    # generica
++ Nute Gunray |  |  |  | r | https://en.wikipedia.org/wiki/List_of_Star_Wars_characters    # generica
++ Darth Plagueis | Plagueis |  |  | r | https://en.wikipedia.org/wiki/Darth_Plagueis    # generica
++ Bossk |  |  |  | r | https://en.wikipedia.org/wiki/List_of_Star_Wars_characters    # generica
++ Porgs | Porg |  |  | i | https://en.wikipedia.org/wiki/Porg    # generica
++ Wampa |  |  |  | i | https://en.wikipedia.org/wiki/Wampa    # generica
++ Rancor |  |  |  | i | https://en.wikipedia.org/wiki/Rancor_(Star_Wars)    # generica
++ Cara Dune |  |  |  | r | https://en.wikipedia.org/wiki/Cara_Dune    # generica
++ Greef Karga |  |  |  | r | https://en.wikipedia.org/wiki/Greef_Karga    # generica
++ Fennec Shand |  |  |  | r | https://en.wikipedia.org/wiki/Fennec_Shand    # generica
++ IG-11 |  |  |  | r | https://en.wikipedia.org/wiki/IG-11    # generica
++ Luthen Rael |  |  |  | r | https://en.wikipedia.org/wiki/Andor_(TV_series)    # generica
++ Dengar |  |  |  | e | https://en.wikipedia.org/wiki/List_of_Star_Wars_characters    # generica
++ IG-88 |  |  |  | e | https://en.wikipedia.org/wiki/List_of_Star_Wars_characters    # generica
++ Zeb Orrelios | Zeb |  |  | r | https://en.wikipedia.org/wiki/Star_Wars_Rebels    # generica
++ Grande Inquisidor | Grand Inquisitor |  |  | r | https://en.wikipedia.org/wiki/Star_Wars_Rebels    # generica
++ Yaddle |  |  |  | e | https://en.wikipedia.org/wiki/Yoda    # profunda
++ Luminara Unduli |  |  |  | e | https://en.wikipedia.org/wiki/List_of_Star_Wars_characters    # profunda
++ Shaak Ti |  |  |  | e | https://en.wikipedia.org/wiki/List_of_Star_Wars_characters    # profunda
++ Darth Bane |  |  |  | e | https://en.wikipedia.org/wiki/Darth_Bane    # profunda
++ Darth Revan | Revan |  |  | e | https://en.wikipedia.org/wiki/Darth_Revan    # profunda
++ Comandante Cody | Cody | Commander Cody |  | r | https://en.wikipedia.org/wiki/List_of_Star_Wars_characters    # profunda
++ Echo |  |  |  | e | https://en.wikipedia.org/wiki/Star_Wars:_The_Clone_Wars    # profunda
++ Fives |  |  |  | e | https://en.wikipedia.org/wiki/Star_Wars:_The_Clone_Wars    # profunda
++ Lobot |  |  |  | e | https://en.wikipedia.org/wiki/Lobot    # profunda
++ Almirante Piett | Piett | Admiral Piett |  | e | https://en.wikipedia.org/wiki/List_of_Star_Wars_characters    # profunda
++ General Veers | Veers |  |  | e | https://en.wikipedia.org/wiki/List_of_Star_Wars_characters    # profunda
++ Bib Fortuna |  |  |  | e | https://en.wikipedia.org/wiki/List_of_Star_Wars_characters    # profunda
++ Salacious Crumb |  |  |  | l | https://en.wikipedia.org/wiki/List_of_Star_Wars_characters    # profunda
++ Max Rebo |  |  |  | l | https://en.wikipedia.org/wiki/List_of_Star_Wars_characters    # profunda
++ Lor San Tekka |  |  |  | l | https://en.wikipedia.org/wiki/List_of_Star_Wars_characters    # profunda
++ Unkar Plutt |  |  |  | l | https://en.wikipedia.org/wiki/List_of_Star_Wars_characters    # profunda
++ Zorii Bliss |  |  |  | l | https://en.wikipedia.org/wiki/List_of_Star_Wars_characters    # profunda
++ Vice-Almirante Holdo | Holdo | Amilyn Holdo |  | e | https://en.wikipedia.org/wiki/List_of_Star_Wars_characters    # profunda
++ Dryden Vos |  |  |  | l | https://en.wikipedia.org/wiki/Solo:_A_Star_Wars_Story    # profunda
++ Tobias Beckett | Beckett |  |  | l | https://en.wikipedia.org/wiki/Solo:_A_Star_Wars_Story    # profunda
++ L3-37 | L3 |  |  | l | https://en.wikipedia.org/wiki/Solo:_A_Star_Wars_Story    # profunda
++ Kuiil |  |  |  | r | https://en.wikipedia.org/wiki/The_Mandalorian    # profunda
++ A Armeira | The Armorer |  |  | l | https://en.wikipedia.org/wiki/The_Mandalorian    # profunda
++ Babu Frik |  |  |  | e | https://en.wikipedia.org/wiki/Star_Wars:_The_Rise_of_Skywalker    # profunda
++ Reva | Terceira Irmã | Third Sister |  | e | https://en.wikipedia.org/wiki/Obi-Wan_Kenobi_(TV_series)    # profunda
++ Agente Kallus | Kallus | Agent Kallus |  | e | https://en.wikipedia.org/wiki/Star_Wars_Rebels    # profunda
++ Chopper | C1-10P |  |  | e | https://en.wikipedia.org/wiki/Star_Wars_Rebels    # profunda
+~ Obi-Wan Kenobi | Obiwan;Obiwan Kenobi | https://en.wikipedia.org/wiki/Obi-Wan_Kenobi    # generica
+~ Mace Windu | Mestre Windu;Windu | https://en.wikipedia.org/wiki/Mace_Windu    # generica
+
+== cin-simpsons    # Cite um personagem de Os Simpsons
++ Prefeito Quimby | Joe Quimby;Mayor Quimby |  |  | i | https://en.wikipedia.org/wiki/Mayor_Quimby    # generica
++ Rainier Wolfcastle | McBain;Wolfcastle |  |  | i | https://en.wikipedia.org/wiki/Rainier_Wolfcastle    # generica
++ Jasper Beardly | Jasper |  |  | r | https://en.wikipedia.org/wiki/Jasper_Beardly    # generica
++ Superintendente Chalmers | Chalmers | Superintendent Chalmers |  | r | https://en.wikipedia.org/wiki/Superintendent_Chalmers    # generica
++ Lou |  |  |  | r | https://en.wikipedia.org/wiki/Eddie_and_Lou    # generica
++ Eddie |  |  |  | r | https://en.wikipedia.org/wiki/Eddie_and_Lou    # generica
++ Jacqueline Bouvier | Jacqueline |  |  | r | https://en.wikipedia.org/wiki/Marge_Simpson    # generica
++ Poochie |  |  |  | r | https://en.wikipedia.org/wiki/The_Itchy_%26_Scratchy_%26_Poochie_Show    # generica
++ Artie Ziff |  |  |  | l | https://en.wikipedia.org/wiki/Artie_Ziff    # profunda
++ Dr. Marvin Monroe | Marvin Monroe |  |  | l | https://en.wikipedia.org/wiki/Marvin_Monroe    # profunda
++ Ruth Powers |  |  |  | l | https://en.wikipedia.org/wiki/List_of_The_Simpsons_characters    # profunda
++ Sr. Largo | Mr. Largo |  |  | l | https://en.wikipedia.org/wiki/List_of_The_Simpsons_characters    # profunda
++ Homem Radioativo | Radioactive Man |  |  | r | https://en.wikipedia.org/wiki/Radioactive_Man_(comics)    # profunda
++ Louca dos Gatos | Mulher dos Gatos | Crazy Cat Lady |  | r | https://en.wikipedia.org/wiki/List_of_The_Simpsons_characters    # profunda
++ Hyman Krustofski | Rabino Krustofski |  |  | l | https://en.wikipedia.org/wiki/List_of_The_Simpsons_characters    # profunda
++ Cecil Terwilliger | Cecil |  |  | l | https://en.wikipedia.org/wiki/Sideshow_Bob    # profunda
++ Mel | Sideshow Mel |  |  | l | https://en.wikipedia.org/wiki/List_of_The_Simpsons_characters    # profunda
+~ Sr. Burns | Mister Burns | https://en.wikipedia.org/wiki/Mr._Burns    # generica
+~ Vovô Simpson | Grampa | https://en.wikipedia.org/wiki/Grampa_Simpson    # generica
+~ Chefe Wiggum | Wiggum | https://en.wikipedia.org/wiki/Chief_Wiggum    # generica
+~ Edna Krabappel | Professora Edna;Edna | https://en.wikipedia.org/wiki/Edna_Krabappel    # generica
+
+== cin-series-internacionais    # Cite uma série de televisão estrangeira
++ Os Simpsons | Simpsons | The Simpsons | Los Simpson | c | https://en.wikipedia.org/wiki/The_Simpsons    # generica
++ The Vampire Diaries | Diários de um Vampiro |  |  | c | https://en.wikipedia.org/wiki/The_Vampire_Diaries    # generica
++ Pretty Little Liars |  |  |  | c | https://en.wikipedia.org/wiki/Pretty_Little_Liars    # generica
++ Teen Wolf |  |  |  | i | https://en.wikipedia.org/wiki/Teen_Wolf_(2011_TV_series)    # generica
++ Orange Is the New Black |  |  |  | i | https://en.wikipedia.org/wiki/Orange_Is_the_New_Black    # generica
++ House of Cards |  |  |  | i | https://en.wikipedia.org/wiki/House_of_Cards_(American_TV_series)    # generica
++ Ozark |  |  |  | i | https://en.wikipedia.org/wiki/Ozark_(TV_series)    # generica
++ Cobra Kai |  |  |  | c | https://en.wikipedia.org/wiki/Cobra_Kai    # generica
++ Mr. Bean |  |  |  | c | https://en.wikipedia.org/wiki/Mr._Bean    # generica
++ Scrubs |  |  |  | i | https://en.wikipedia.org/wiki/Scrubs_(TV_series)    # generica
++ Brooklyn Nine-Nine |  |  |  | i | https://en.wikipedia.org/wiki/Brooklyn_Nine-Nine    # generica
++ Malcolm | Malcolm in the Middle;Malcolm, o do Meio |  |  | i | https://en.wikipedia.org/wiki/Malcolm_in_the_Middle    # generica
++ Criminal Minds | Mentes Criminosas |  |  | i | https://en.wikipedia.org/wiki/Criminal_Minds    # generica
++ CSI | CSI: Investigação Criminal | CSI: Crime Scene Investigation |  | i | https://en.wikipedia.org/wiki/CSI:_Crime_Scene_Investigation    # generica
++ Charmed |  |  |  | i | https://en.wikipedia.org/wiki/Charmed    # generica
++ Buffy, a Caça-Vampiros | Buffy | Buffy the Vampire Slayer |  | i | https://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer_(TV_series)    # generica
++ The Flash |  |  |  | i | https://en.wikipedia.org/wiki/The_Flash_(2014_TV_series)    # generica
++ Arrow |  |  |  | i | https://en.wikipedia.org/wiki/Arrow_(TV_series)    # generica
++ Rick and Morty | Rick e Morty |  |  | i | https://en.wikipedia.org/wiki/Rick_and_Morty    # generica
++ South Park |  |  |  | i | https://en.wikipedia.org/wiki/South_Park    # generica
++ Family Guy | Uma Família da Pesada |  |  | i | https://en.wikipedia.org/wiki/Family_Guy    # generica
++ Emily in Paris | Emily em Paris |  |  | i | https://en.wikipedia.org/wiki/Emily_in_Paris    # generica
++ Sex Education |  |  |  | i | https://en.wikipedia.org/wiki/Sex_Education_(TV_series)    # generica
++ The Umbrella Academy |  |  |  | i | https://en.wikipedia.org/wiki/The_Umbrella_Academy_(TV_series)    # generica
++ Lupin |  |  |  | i | https://en.wikipedia.org/wiki/Lupin_(TV_series)    # generica
++ WandaVision |  |  |  | i | https://en.wikipedia.org/wiki/WandaVision    # generica
++ Loki |  |  |  | i | https://en.wikipedia.org/wiki/Loki_(TV_series)    # generica
++ O Conto da Aia | The Handmaid's Tale |  |  | i | https://en.wikipedia.org/wiki/The_Handmaid%27s_Tale_(TV_series)    # generica
++ Westworld |  |  |  | i | https://en.wikipedia.org/wiki/Westworld_(TV_series)    # generica
++ Chernobyl |  |  |  | i | https://en.wikipedia.org/wiki/Chernobyl_(miniseries)    # generica
++ Band of Brothers | Irmãos de Guerra |  |  | i | https://en.wikipedia.org/wiki/Band_of_Brothers_(miniseries)    # generica
++ True Detective |  |  |  | i | https://en.wikipedia.org/wiki/True_Detective    # generica
++ Fargo |  |  |  | r | https://en.wikipedia.org/wiki/Fargo_(TV_series)    # generica
++ O Show dos Anos 70 | That '70s Show |  |  | i | https://en.wikipedia.org/wiki/That_%2770s_Show    # generica
++ Parks and Recreation |  |  |  | r | https://en.wikipedia.org/wiki/Parks_and_Recreation    # generica
++ Community |  |  |  | r | https://en.wikipedia.org/wiki/Community_(TV_series)    # generica
++ New Girl |  |  |  | i | https://en.wikipedia.org/wiki/New_Girl    # generica
++ Cheers |  |  |  | r | https://en.wikipedia.org/wiki/Cheers    # generica
++ Frasier |  |  |  | i | https://en.wikipedia.org/wiki/Frasier    # generica
++ SOS Malibu | Baywatch |  |  | i | https://en.wikipedia.org/wiki/Baywatch    # generica
++ MacGyver |  |  |  | i | https://en.wikipedia.org/wiki/MacGyver_(1985_TV_series)    # generica
++ A Super Máquina | Knight Rider |  |  | i | https://en.wikipedia.org/wiki/Knight_Rider_(1982_TV_series)    # generica
++ Esquadrão Classe A | The A-Team |  |  | i | https://en.wikipedia.org/wiki/The_A-Team    # generica
++ Miami Vice |  |  |  | r | https://en.wikipedia.org/wiki/Miami_Vice    # generica
++ Dallas |  |  |  | r | https://en.wikipedia.org/wiki/Dallas_(1978_TV_series)    # generica
++ NCIS |  |  |  | i | https://en.wikipedia.org/wiki/NCIS_(TV_series)    # generica
++ Monk |  |  |  | i | https://en.wikipedia.org/wiki/Monk_(TV_series)    # generica
++ The Mentalist |  |  |  | i | https://en.wikipedia.org/wiki/The_Mentalist    # generica
++ Once Upon a Time | Era Uma Vez |  |  | i | https://en.wikipedia.org/wiki/Once_Upon_a_Time_(TV_series)    # generica
++ Grimm |  |  |  | r | https://en.wikipedia.org/wiki/Grimm_(TV_series)    # generica
++ Chuck |  |  |  | r | https://en.wikipedia.org/wiki/Chuck_(TV_series)    # generica
++ Shameless |  |  |  | r | https://en.wikipedia.org/wiki/Shameless_(American_TV_series)    # generica
++ Mr. Robot |  |  |  | r | https://en.wikipedia.org/wiki/Mr._Robot    # profunda
++ Fringe |  |  |  | r | https://en.wikipedia.org/wiki/Fringe_(TV_series)    # profunda
++ Homeland |  |  |  | r | https://en.wikipedia.org/wiki/Homeland_(TV_series)    # profunda
++ The Wire |  |  |  | r | https://en.wikipedia.org/wiki/The_Wire    # profunda
++ Boardwalk Empire |  |  |  | r | https://en.wikipedia.org/wiki/Boardwalk_Empire    # profunda
++ Six Feet Under | A Sete Palmos |  |  | r | https://en.wikipedia.org/wiki/Six_Feet_Under_(TV_series)    # profunda
++ The West Wing |  |  |  | e | https://en.wikipedia.org/wiki/The_West_Wing    # profunda
++ Battlestar Galactica |  |  |  | r | https://en.wikipedia.org/wiki/Battlestar_Galactica_(2004_TV_series)    # profunda
++ Firefly |  |  |  | e | https://en.wikipedia.org/wiki/Firefly_(TV_series)    # profunda
++ Star Trek | Jornada nas Estrelas |  |  | i | https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series    # profunda
++ Stargate SG-1 | Stargate |  |  | e | https://en.wikipedia.org/wiki/Stargate_SG-1    # profunda
++ The Expanse |  |  |  | r | https://en.wikipedia.org/wiki/The_Expanse_(TV_series)    # profunda
++ Andor |  |  |  | r | https://en.wikipedia.org/wiki/Andor_(TV_series)    # profunda
++ Fallout |  |  |  | r | https://en.wikipedia.org/wiki/Fallout_(TV_series)    # profunda
++ Shogun |  |  |  | r | https://en.wikipedia.org/wiki/Sh%C5%8Dgun_(2024_TV_series)    # profunda
++ Reacher |  |  |  | r | https://en.wikipedia.org/wiki/Reacher_(TV_series)    # profunda
++ Yellowstone |  |  |  | r | https://en.wikipedia.org/wiki/Yellowstone_(American_TV_series)    # profunda
++ Mindhunter |  |  |  | r | https://en.wikipedia.org/wiki/Mindhunter_(TV_series)    # profunda
++ The Leftovers |  |  |  | e | https://en.wikipedia.org/wiki/The_Leftovers_(TV_series)    # profunda
++ Fleabag |  |  |  | r | https://en.wikipedia.org/wiki/Fleabag    # profunda
++ Downton Abbey |  |  |  | r | https://en.wikipedia.org/wiki/Downton_Abbey    # profunda
++ Black Sails |  |  |  | e | https://en.wikipedia.org/wiki/Black_Sails    # profunda
++ Spartacus |  |  |  | r | https://en.wikipedia.org/wiki/Spartacus_(TV_series)    # profunda
++ Roma | Rome |  |  | r | https://en.wikipedia.org/wiki/Rome_(TV_series)    # profunda
++ Merlin |  |  |  | r | https://en.wikipedia.org/wiki/Merlin_(TV_series)    # profunda
++ Skins |  |  |  | r | https://en.wikipedia.org/wiki/Skins_(British_TV_series)    # profunda
++ The IT Crowd |  |  |  | e | https://en.wikipedia.org/wiki/The_IT_Crowd    # profunda
++ Fawlty Towers |  |  |  | e | https://en.wikipedia.org/wiki/Fawlty_Towers    # profunda
++ Monty Python's Flying Circus | Monty Python |  |  | e | https://en.wikipedia.org/wiki/Monty_Python%27s_Flying_Circus    # profunda
++ Blackadder |  |  |  | e | https://en.wikipedia.org/wiki/Blackadder    # profunda
++ Babylon 5 |  |  |  | e | https://en.wikipedia.org/wiki/Babylon_5    # profunda
++ Farscape |  |  |  | l | https://en.wikipedia.org/wiki/Farscape    # profunda
++ Deadwood |  |  |  | e | https://en.wikipedia.org/wiki/Deadwood_(TV_series)    # profunda

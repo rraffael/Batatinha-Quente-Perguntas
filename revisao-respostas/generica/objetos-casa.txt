@@ -1,0 +1,24 @@
+== obj-utensilios-cozinha
+~ Colher | Colher de sopa;Colher de chá;Colher de sobremesa | https://pt.wikipedia.org/wiki/Colher
+~ Faca | Faca de cozinha;Faca de pão;Faca de mesa | https://pt.wikipedia.org/wiki/Faca
+~ Prato | Prato fundo;Prato raso | https://pt.wikipedia.org/wiki/Prato_(lou%C3%A7a)
+== obj-moveis
+~ Escrivaninha | Mesa de escritório;Mesa de estudo | https://pt.wikipedia.org/wiki/Escrivaninha
+~ Estante | Estante de livros | https://pt.wikipedia.org/wiki/Estante
+~ Rack | Móvel de TV;Rack de TV | https://pt.wikipedia.org/wiki/Rack
+~ Armário | Armário embutido | https://pt.wikipedia.org/wiki/Arm%C3%A1rio
+== obj-eletrodomesticos
+~ Máquina de lavar | Lava-roupas;Máquina de lavar roupas | https://pt.wikipedia.org/wiki/M%C3%A1quina_de_lavar_roupa
+~ Ar-condicionado | Split;Ar split;Ar-condicionado split | https://pt.wikipedia.org/wiki/Ar-condicionado
+~ Fogão | Fogão a gás;Fogão elétrico | https://pt.wikipedia.org/wiki/Fog%C3%A3o
+== obj-ferramentas
+~ Carrinho de mão | Carriola | https://pt.wikipedia.org/wiki/Carrinho_de_m%C3%A3o
+~ Serra | Serra elétrica;Serra manual | https://pt.wikipedia.org/wiki/Serra_(ferramenta)
+~ Pistola de cola quente | Pistola de silicone;Pistola de cola | https://pt.wikipedia.org/wiki/Pistola_de_cola_quente
+== obj-comodos
+~ Quarto | Quarto de casal;Quarto de solteiro;Quarto de bebê | https://pt.wikipedia.org/wiki/Quarto_(c%C3%B4modo)
+== obj-material-escolar
+~ Cola bastão | Cola em bastão | https://pt.wikipedia.org/wiki/Cola
+== obj-higiene-banheiro
+~ Toalha | Toalha de banho;Toalha de rosto | https://pt.wikipedia.org/wiki/Toalha
+~ Sabonete | Sabonete em barra | https://pt.wikipedia.org/wiki/Sabonete

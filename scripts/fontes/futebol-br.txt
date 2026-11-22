@@ -4,24 +4,24 @@ nome: Futebol
 == fut-clubes-brasileiros | Cite um clube de futebol brasileiro | facil | clubes;brasil | https://pt.wikipedia.org/wiki/Lista_de_clubes_de_futebol_do_Brasil
 @nota Clubes profissionais de futebol do Brasil.
 Flamengo | Mengão;Fla;Mengo | | | c
-Corinthians | Timão;Coringão | | | c
+Corinthians | Timão;Coringão;Time do Povo |  |  | c
 Palmeiras | Verdão;Porco | | | c
 São Paulo | SPFC | | | c
 Santos | Peixe | | | c
-Vasco da Gama | Vasco;Gigante da Colina | | | c
+Vasco da Gama | Vasco;Gigante da Colina;Cruz-Maltino |  |  | c
 Fluminense | Flu;Nense | | | c
-Botafogo | Fogão | | | c
-Grêmio | | | | c
+Botafogo | Fogão;Glorioso |  |  | c
+Grêmio | Imortal |  |  | c
 Internacional | Inter;Colorado | | | c
-Cruzeiro | Raposa | | | c
+Cruzeiro | Raposa;Cabuloso |  |  | c
 Atlético Mineiro | Atlético-MG;Galo | | | c
 Bahia | Esquadrão de Aço | | | c
-Vitória | | | | i
+Vitória | Leão da Barra |  |  | i
 Sport | Sport Recife | | | i
-Fortaleza | | | | i
+Fortaleza | Leão do Pici |  |  | i
 Ceará | Vozão | | | i
-Athletico Paranaense | Athletico-PR;Atlético Paranaense;Furacão | | | i
-Coritiba | Coxa | | | i
+Athletico Paranaense | Athletico-PR;Atlético Paranaense;Furacão;Athletico |  |  | i
+Coritiba | Coxa;Coxa-Branca |  |  | i
 Goiás | | | | i
 Red Bull Bragantino | Bragantino;Massa Bruta | | | i
 Ponte Preta | Macaca | | | i
@@ -82,22 +82,83 @@ Icasa | | | | l
 Ypiranga-RS | Ypiranga de Erechim | | | l
 Sergipe | Club Sportivo Sergipe | | | l
 Rio Branco-AC | | | | l
+Amazonas | Amazonas FC | i
+Brusque | Brusque FC | r
+São Bernardo | São Bernardo FC | r
+Athletic | Athletic Club;Athletic-MG | r
+Água Santa | r
+Retrô | Retrô FC | r
+Maringá | Maringá FC | r
+Floresta | Floresta-CE | r
+Itabaiana | r
+Anápolis | Anápolis FC | r
+Nova Iguaçu | e
+Boavista | Boavista-RJ | e
+Aparecidense | e
+Altos | e
+Azuriz | l
+Barra-SC | l
+Capital-DF | l
+Ceilândia | e
+Central | e
+Cianorte | l
+FC Cascavel | l
+Goianésia | l
+Goiânia | l
+Goiatuba | l
+Guarany de Bagé | l
+Horizonte | l
+Iguatu | l
+Imperatriz | l
+Independência | l
+Itabirito | l
+Juazeirense | l
+Lagarto | l
+Luverdense | e
+Manaus | e
+Maranhão | l
+Marcílio Dias | e
+Maricá | l
+Mixto | e
+Monte Azul | l
+Operário-MS | l
+Parnahyba | l
+Penedense | l
+Porto Vitória | l
+Pouso Alegre | l
+Rio Branco-ES | l
+São José-RS | l
+São Luiz | l
+Sousa | l
+Tocantinópolis | l
+Uberlândia | l
+União-TO | l
+ASA | e
+Águia de Marabá | l
+Santa Cruz de Natal | l
+Barcelona de Ilhéus | l
+Jequié | l
+Humaitá | l
+Manauara | l
+Gazin Porto Velho | l
+GAS | l
+Trem | l
 
 == fut-estadios-brasil | Cite um estádio de futebol brasileiro | media | estádios;brasil | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil
 Maracanã | Estádio Jornalista Mário Filho;Mário Filho | | | c
 Mineirão | Estádio Governador Magalhães Pinto | | | c
 Morumbi | MorumBIS;Estádio Cícero Pompeu de Toledo | | | c
 Pacaembu | Estádio Paulo Machado de Carvalho | | | c
-Neo Química Arena | Arena Corinthians;Itaquerão;Arena de Itaquera | | | c
-Allianz Parque | Arena Palmeiras;Palestra Itália | | | c
+Neo Química Arena | Arena Corinthians;Itaquerão;Arena de Itaquera;Itaquera |  |  | c
+Allianz Parque | Arena Palmeiras;Palestra Itália;Nubank Parque |  |  | c
 Vila Belmiro | Estádio Urbano Caldeira | | | c
 São Januário | | | | c
 Beira-Rio | Estádio Beira-Rio;Gigante da Beira-Rio | | | c
 Arena do Grêmio | | | | i
-Nilton Santos | Engenhão;Estádio Olímpico Nilton Santos | | | i
+Nilton Santos | Engenhão;Estádio Olímpico Nilton Santos;Estádio Nilton Santos |  |  | i
 Fonte Nova | Arena Fonte Nova;Itaipava Arena Fonte Nova | | | i
 Castelão | Arena Castelão | | | i
-Mané Garrincha | Estádio Nacional Mané Garrincha | | | i
+Mané Garrincha | Estádio Nacional Mané Garrincha;Arena BRB;Arena BRB Mané Garrincha |  |  | i
 Ligga Arena | Arena da Baixada;Joaquim Américo | | | i
 Couto Pereira | | | | i
 Arena Pernambuco | | | | i
@@ -139,6 +200,75 @@ Arena Fonte Luminosa | Fonte Luminosa | | | l
 Presidente Vargas | PV | | | l
 Machadão | | | | l
 Antônio Accioly | | | | l
+Pituaçu | Estádio de Pituaçu | i
+Parque do Sabiá | Estádio Parque do Sabiá | i
+Pinheirão | r
+Estádio do Café | r
+Prudentão | r
+Teixeirão | r
+Frasqueirão | r
+Willie Davids | r
+Anacleto Campanella | r
+Palma Travassos | e
+Caio Martins | e
+Curuzu | e
+Parque São Jorge | e
+Ipatingão | e
+Amigão | e
+Helenão | e
+Douradão | e
+Santa Cruz | Estádio Santa Cruz | e
+Boca do Jacaré | l
+Irmão Gino Maria Rossi | l
+Colosso da Lagoa | l
+Antônio Otoni Filho | l
+Vail Chaves | l
+Lacerdão | l
+Alfredão | l
+Arena do Jacaré | l
+Barão da Serra Negra | l
+Major Levy Sobrinho | l
+Luthero Lopes | l
+Arena Romeirão | l
+Felipão | l
+Arena Cruzeiro | l
+Silvio Salles | l
+Décio Vitta | l
+Jóia da Princesa | l
+Herminio Ometto | l
+Gilbertão | l
+Primeiro de Maio | l
+Boca do Lobo | l
+Melão | l
+Uberabão | l
+Bento de Abreu | l
+Arena Acreana | Arena da Floresta | l
+Arapucão | l
+Moacyrzão | l
+Giulite Coutinho | l
+Vermelhão da Serra | l
+Torquato Pontes | l
+Bruno José Daniel | l
+Jayme Cintra | l
+Walter Ribeiro | l
+Zezinho Magalhães | l
+Serrinha | l
+Fumeirão | l
+Marizão | l
+Mirandão | l
+Lomantão | l
+Nhozinho Santos | l
+Adhermazão | l
+Rua Bariri | l
+Jonas Duarte | l
+Germano Krüger | l
+Estádio do Trabalhador | Trabalhador | l
+Carneirão | l
+Grito da República | l
+Arena do Calçado | l
+Florestão | l
+Ítalo del Cima | l
+Olímpico da USP | l
 
 == fut-campeoes-libertadores | Cite um clube campeão da Copa Libertadores da América | dificil | libertadores;clubes;américa do sul | https://pt.wikipedia.org/wiki/Lista_de_campe%C3%B5es_da_Copa_Libertadores_da_Am%C3%A9rica
 @atualizadoEm 2026-11
@@ -157,7 +287,7 @@ Fluminense | Flu | | | i
 Botafogo | Fogão | | | i
 Boca Juniors | Boca | | | c
 River Plate | River | | | c
-Independiente | | | | i
+Independiente | Independiente de Avellaneda |  |  | i
 Peñarol | Penarol | | | i
 Nacional | Nacional do Uruguai;Nacional de Montevidéu | | | r
 Estudiantes | Estudiantes de La Plata | | | r
@@ -169,13 +299,13 @@ Argentinos Juniors | Argentinos | | | e
 Colo-Colo | | | | e
 Once Caldas | | | | e
 LDU Quito | LDU;Liga de Quito | | | e
-San Lorenzo | | | | e
+San Lorenzo | San Lorenzo de Almagro |  |  | e
 
 == fut-pentacampeoes | Cite um jogador convocado em uma Copa do Mundo vencida pelo Brasil (1958, 1962, 1970, 1994 ou 2002) | dificil | seleção brasileira;copa do mundo | https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Futebol
 @nota Qualquer jogador convocado para as Copas de 1958, 1962, 1970, 1994 ou 2002, mesmo sem entrar em campo.
-Pelé | Edson Arantes do Nascimento | | | c
+Pelé | Edson Arantes do Nascimento;Rei Pelé |  |  | c
 Garrincha | Mané Garrincha | | | c
-Romário | | | | c
+Romário | Baixinho |  |  | c
 Ronaldo Fenômeno | Ronaldo;R9 | | | c
 Ronaldinho Gaúcho | Ronaldinho | | | c
 Rivaldo | | | | c
@@ -186,7 +316,7 @@ Kaká | | | | c
 Taffarel | | | | c
 Dunga | | | | c
 Marcos | São Marcos | | | i
-Rogério Ceni | | | | i
+Rogério Ceni | Ceni |  |  | i
 Dida | | | | i
 Lúcio | | | | i
 Roque Júnior | | | | i
@@ -239,10 +369,10 @@ Paulo Cézar Caju | Paulo Cézar | | | e
 Roberto Miranda | | | | l
 Dadá Maravilha | Dario | | | e
 Edu | | | | l
-Zagallo | Zagalo | | | i
+Zagallo | Zagalo;Velho Lobo |  |  | i
 Didi | | | | r
 Vavá | | | | r
-Nilton Santos | | | | r
+Nilton Santos | Enciclopédia |  |  | r
 Djalma Santos | | | | r
 Bellini | | | | r
 Gilmar | Gilmar dos Santos Neves | | | r
@@ -270,9 +400,9 @@ Mengálvio | | | | l
 == fut-bola-de-ouro | Cite um jogador vencedor da Bola de Ouro (Ballon d'Or) | dificil | prêmios;futebol internacional | https://pt.wikipedia.org/wiki/Ballon_d%27Or
 @atualizadoEm 2026-11
 @nota Bola de Ouro masculina da France Football (inclui o FIFA Ballon d'Or, da FIFA, a Federação Internacional de Futebol, de 2010 a 2015), até 2025.
-Lionel Messi | Messi | | | c
+Lionel Messi | Messi;Leo Messi |  |  | c
 Cristiano Ronaldo | Cristiano;CR7 | | | c
-Ronaldo Fenômeno | Ronaldo;R9 | | | c
+Ronaldo Fenômeno | Ronaldo;R9;Ronaldo Nazário |  |  | c
 Ronaldinho Gaúcho | Ronaldinho | | | c
 Kaká | | | | c
 Rivaldo | | | | i
@@ -283,12 +413,12 @@ Rodri | Rodrigo Hernández | | | i
 Ousmane Dembélé | Dembélé | | | i
 Luís Figo | Figo | | | i
 Fabio Cannavaro | Cannavaro | | | r
-Andriy Shevchenko | Shevchenko | | | r
+Andriy Shevchenko | Shevchenko;Sheva |  |  | r
 Pavel Nedvěd | Nedved | | | e
 Michael Owen | Owen | | | r
 Matthias Sammer | Sammer | | | l
 George Weah | Weah | | | r
-Hristo Stoichkov | Stoichkov | | | r
+Hristo Stoichkov | Stoichkov;Stoitchkov |  |  | r
 Roberto Baggio | Baggio | | | r
 Jean-Pierre Papin | Papin | | | e
 Lothar Matthäus | Matthäus;Matthaus | | | r
@@ -301,14 +431,14 @@ Karl-Heinz Rummenigge | Rummenigge | | | e
 Kevin Keegan | Keegan | | | e
 Allan Simonsen | Simonsen | | | l
 Oleg Blokhin | Blokhin | | | l
-Franz Beckenbauer | Beckenbauer | | | r
-Johan Cruyff | Cruyff | | | r
+Franz Beckenbauer | Beckenbauer;Kaiser |  |  | r
+Johan Cruyff | Cruyff;Cruijff |  |  | r
 Gerd Müller | | | | e
 Gianni Rivera | | | | e
 George Best | | | | e
 Flórián Albert | | | | l
 Bobby Charlton | Charlton | | | e
-Eusébio | | | | r
+Eusébio | Pantera Negra |  |  | r
 Denis Law | | | | l
 Lev Yashin | Yashin;Iashin | | | e
 Josef Masopust | Masopust | | | l
@@ -320,30 +450,30 @@ Stanley Matthews | | | | l
 
 == fut-clubes-europeus | Cite um clube de futebol europeu | facil | clubes;europa | https://pt.wikipedia.org/wiki/Futebol_na_Europa
 Real Madrid | | | | c
-Barcelona | Barça | | | c
-Manchester United | Man United | | | c
+Barcelona | Barça;FC Barcelona |  |  | c
+Manchester United | Man United;Man U |  |  | c
 Manchester City | Man City | | | c
 Liverpool | | | | c
 Chelsea | | | | c
 Arsenal | | | | c
 Juventus | Juve | | | c
 Milan | AC Milan | | | c
-Inter de Milão | Internazionale;Inter Milan | Inter Milan | Inter de Milán | c
+Inter de Milão | Internazionale;Inter Milan;Inter | Inter Milan | Inter de Milán | c
 Bayern de Munique | Bayern | Bayern Munich | Bayern de Múnich | c
 Paris Saint-Germain | PSG | | | c
-Borussia Dortmund | Dortmund | | | i
+Borussia Dortmund | Dortmund;BVB |  |  | i
 Atlético de Madrid | Atlético;Atleti | | | i
 Tottenham | Tottenham Hotspur;Spurs | | | i
 Roma | | | | i
 Napoli | Nápoles | | Nápoles | i
 Lazio | | | | i
-Benfica | | | | i
-Porto | | | | i
-Sporting | Sporting de Lisboa | | | i
+Benfica | SL Benfica |  |  | i
+Porto | FC Porto |  |  | i
+Sporting | Sporting de Lisboa;Sporting CP |  |  | i
 Ajax | | | | i
 Sevilla | Sevilha | | | i
 Valencia | Valência | | | i
-Olympique de Marseille | Marseille;Marselha | | | i
+Olympique de Marseille | Marseille;Marselha;OM |  |  | i
 Lyon | Olympique Lyonnais | | | r
 Monaco | Mônaco | | | r
 Newcastle | Newcastle United | | | i

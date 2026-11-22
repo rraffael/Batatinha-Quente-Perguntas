@@ -5,12 +5,12 @@ nome: Música Internacional
 The Beatles | Beatles | | Los Beatles | c
 The Rolling Stones | Rolling Stones;Stones | | | c
 Queen | | | | c
-Led Zeppelin | | | | c
+Led Zeppelin | Led Zep |  |  | c
 Pink Floyd | | | | c
 AC/DC | ACDC | | | c
 Metallica | | | | c
 Nirvana | | | | c
-Guns N' Roses | Guns and Roses;Guns | | | c
+Guns N' Roses | Guns and Roses;Guns;GNR;GN'R |  |  | c
 U2 | | | | c
 Coldplay | | | | c
 Linkin Park | | | | c
@@ -19,8 +19,8 @@ Red Hot Chili Peppers | RHCP;Chili Peppers | | | c
 Bon Jovi | | | | c
 Foo Fighters | | | | i
 Aerosmith | | | | i
-Iron Maiden | | | | i
-Black Sabbath | | | | i
+Iron Maiden | Maiden |  |  | i
+Black Sabbath | Sabbath |  |  | i
 Kiss | | | | i
 The Doors | Doors | | | i
 The Who | | | | i
@@ -36,20 +36,20 @@ Scorpions | | | | i
 Van Halen | | | | r
 Def Leppard | | | | r
 Journey | | | | r
-Eagles | | | | r
+Eagles | The Eagles |  |  | r
 Dire Straits | | | | r
-The Police | | | | r
-The Cure | | | | r
-The Clash | | | | r
-Ramones | | | | i
+The Police | Police |  |  | r
+The Cure | Cure |  |  | r
+The Clash | Clash |  |  | r
+Ramones | The Ramones |  |  | i
 Sex Pistols | | | | r
 Blink-182 | Blink | | | i
 The Offspring | Offspring | | | r
 Evanescence | | | | i
-System of a Down | SOAD | | | r
+System of a Down | SOAD;System |  |  | r
 Slipknot | | | | r
 Megadeth | | | | r
-Rage Against the Machine | RATM | | | r
+Rage Against the Machine | RATM;Rage |  |  | r
 Creedence Clearwater Revival | Creedence;CCR | | | r
 Lynyrd Skynyrd | | | | e
 ZZ Top | | | | e
@@ -64,7 +64,7 @@ Franz Ferdinand | | | | e
 Paramore | | | | r
 My Chemical Romance | MCR | | | r
 Simple Plan | | | | r
-Avenged Sevenfold | | | | e
+Avenged Sevenfold | A7X |  |  | e
 Pantera | | | | e
 Motörhead | | | | e
 Judas Priest | | | | e
@@ -91,36 +91,141 @@ INXS | | | | e
 The Cranberries | Cranberries | | | r
 Placebo | | | | e
 Queens of the Stone Age | QOTSA | | | e
+Maroon 5 | Maroon Five | c
+Roxette | i
+Skillet | i
+OneRepublic | One Republic | i
+Breaking Benjamin | r
+Seether | r
+Staind | r
+Counting Crows | r
+Matchbox Twenty | Matchbox 20 | r
+Cheap Trick | e
+Bad Company | e
+Alter Bridge | e
+The Cult | Cult | e
+Rammstein | i
+The Smiths | Smiths | r
+Blur | r
+Korn | r
+Limp Bizkit | r
+Fall Out Boy | r
+Sum 41 | r
+Good Charlotte | r
+Weezer | r
+The Beach Boys | Beach Boys | r
+Europe | r
+Supertramp | r
+Twenty One Pilots | r
+Panic! at the Disco | r
+No Doubt | r
+The Kinks | Kinks | e
+Slayer | e
+Mötley Crüe | e
+Whitesnake | e
+Twisted Sister | e
+Skid Row | e
+Poison | e
+Foreigner | e
+Thin Lizzy | e
+Dio | e
+Tool | e
+Deftones | e
+Papa Roach | e
+Three Days Grace | e
+Hoobastank | e
+3 Doors Down | e
+Goo Goo Dolls | e
+Tame Impala | e
+The 1975 | e
+Arcade Fire | e
+Keane | e
+Snow Patrol | e
+The Verve | e
+Joy Division | e
+The Animals | e
+Grateful Dead | e
+Garbage | e
+Faith No More | e
+Disturbed | e
+Bring Me the Horizon | e
+Ghost | e
+Nightwish | e
+Helloween | e
+Dream Theater | e
+Gorillaz | e
+Santana | e
+Greta Van Fleet | e
+Electric Light Orchestra | ELO | e
+Survivor | e
+Mr. Big | e
+Joan Jett & the Blackhearts | Joan Jett | e
+The Byrds | l
+Jefferson Airplane | l
+The Stooges | l
+Dead Kennedys | l
+Bad Religion | l
+NOFX | l
+Misfits | l
+Rancid | l
+Stone Temple Pilots | l
+Sonic Youth | l
+Jane's Addiction | l
+Incubus | l
+Pulp | l
+Travis | l
+Kaiser Chiefs | l
+The Pretenders | Pretenders | l
+Heart | l
+T. Rex | l
+Status Quo | l
+Uriah Heep | l
+Steppenwolf | l
+Chicago | l
+King Crimson | l
+Emerson, Lake & Palmer | ELP | l
+The Allman Brothers Band | Allman Brothers | l
+Anthrax | l
+Testament | l
+Sabaton | l
+Manowar | l
+Lamb of God | l
+Bullet for My Valentine | l
+The Darkness | l
+Wolfmother | l
+Kasabian | l
+The Hives | l
+Interpol | l
 
 == mint-cantores-pop | Cite um(a) cantor(a) pop internacional | facil | pop;cantores | https://pt.wikipedia.org/wiki/M%C3%BAsica_pop
-Michael Jackson | | | | c
-Madonna | | | | c
+Michael Jackson | MJ;Rei do Pop |  |  | c
+Madonna | Rainha do Pop |  |  | c
 Britney Spears | Britney | | | c
 Beyoncé | | | | c
 Rihanna | | | | c
-Lady Gaga | Gaga | | | c
-Taylor Swift | | | | c
-Katy Perry | | | | c
+Lady Gaga | Gaga;Stefani Germanotta |  |  | c
+Taylor Swift | Swift |  |  | c
+Katy Perry | Katy |  |  | c
 Justin Bieber | Bieber | | | c
-Ariana Grande | | | | c
-Billie Eilish | | | | c
-Dua Lipa | | | | c
+Ariana Grande | Ariana |  |  | c
+Billie Eilish | Billie |  |  | c
+Dua Lipa | Dua |  |  | c
 Ed Sheeran | | | | c
 Bruno Mars | | | | c
 The Weeknd | Weeknd | | | c
 Shakira | | | | c
 Adele | | | | c
-Miley Cyrus | | | | i
+Miley Cyrus | Miley |  |  | i
 Selena Gomez | | | | i
 Shawn Mendes | | | | i
 Harry Styles | | | | i
 Olivia Rodrigo | | | | i
 Sabrina Carpenter | | | | i
-Christina Aguilera | | | | i
-Mariah Carey | | | | i
-Whitney Houston | | | | i
+Christina Aguilera | Aguilera |  |  | i
+Mariah Carey | Mariah |  |  | i
+Whitney Houston | Whitney |  |  | i
 Celine Dion | | | | i
-Elton John | | | | i
+Elton John | Elton |  |  | i
 George Michael | | | | i
 Prince | | | | r
 Janet Jackson | | | | r
@@ -165,6 +270,87 @@ Hilary Duff | | | | r
 Paula Abdul | | | | e
 Cyndi Lauper | | | | r
 Rick Astley | | | | e
+Elvis Presley | Elvis;Rei do Rock | c
+Frank Sinatra | Sinatra | i
+Tom Jones | r
+Adam Levine | r
+John Mayer | r
+Dido | r
+Anne-Marie | e
+Stevie Wonder | i
+Usher | i
+Chris Brown | i
+Alicia Keys | i
+Tina Turner | i
+Amy Winehouse | i
+David Bowie | Bowie | r
+Diana Ross | r
+Donna Summer | r
+Gloria Estefan | r
+Marc Anthony | r
+Luis Fonsi | r
+Luis Miguel | r
+Laura Pausini | r
+Thalía | r
+Michael Bublé | r
+Sting | r
+Bryan Adams | r
+Rod Stewart | r
+Billy Joel | r
+Bonnie Tyler | r
+Olivia Newton-John | r
+Kelly Clarkson | r
+James Blunt | r
+John Legend | r
+Pharrell Williams | Pharrell | r
+Jason Derulo | r
+Ne-Yo | r
+Zayn Malik | Zayn | r
+Nick Jonas | r
+Gloria Gaynor | r
+Karol G | r
+Anahí | e
+Dulce María | e
+Paulina Rubio | e
+Alejandro Sanz | e
+Eros Ramazzotti | e
+Björk | e
+Annie Lennox | e
+Seal | e
+Boy George | e
+Michael Bolton | e
+Toni Braxton | e
+Leona Lewis | e
+Jessica Simpson | e
+Mandy Moore | e
+Lily Allen | e
+Natasha Bedingfield | e
+James Arthur | e
+Ava Max | e
+Bebe Rexha | e
+Rita Ora | e
+Becky G | e
+Niall Horan | e
+Louis Tomlinson | e
+Liam Payne | e
+Mika | e
+Jason Mraz | e
+Teddy Swims | e
+Ciara | e
+Nicole Scherzinger | e
+Kelly Rowland | e
+Aaliyah | e
+Khalid | e
+Gracie Abrams | e
+Shania Twain | e
+Robin Thicke | e
+Richard Marx | l
+Belinda Carlisle | l
+Tiziano Ferro | l
+Duffy | l
+Madison Beer | l
+Conan Gray | l
+Lauv | l
 
 == mint-musicas-beatles | Cite uma música gravada pelos Beatles | dificil | beatles;rock;canções | https://pt.wikipedia.org/wiki/Lista_de_can%C3%A7%C3%B5es_gravadas_pelos_Beatles
 @nota Vale qualquer gravação oficial dos Beatles, inclusive covers.
@@ -186,7 +372,7 @@ Michelle | | | | i
 Eleanor Rigby | | | | i
 Penny Lane | | | | i
 Strawberry Fields Forever | Strawberry Fields | | | i
-A Hard Day's Night | | | | i
+A Hard Day's Night | Hard Day's Night |  |  | i
 Can't Buy Me Love | | | | i
 All My Loving | | | | i
 Ticket to Ride | | | | i
@@ -198,23 +384,23 @@ Day Tripper | | | | r
 We Can Work It Out | | | | r
 Paperback Writer | | | | r
 Nowhere Man | | | | r
-Norwegian Wood | | | | r
+Norwegian Wood | Norwegian Wood (This Bird Has Flown) |  |  | r
 Drive My Car | | | | r
 Girl | | | | r
-With a Little Help from My Friends | | | | r
+With a Little Help from My Friends | With a Little Help |  |  | r
 Sgt. Pepper's Lonely Hearts Club Band | Sgt. Pepper's;Sgt Pepper | | | r
 A Day in the Life | | | | r
 When I'm Sixty-Four | When I'm 64 | | | r
 Lady Madonna | | | | r
 Revolution | | | | r
 Back in the U.S.S.R. | Back in the USSR | | | r
-While My Guitar Gently Weeps | | | | r
+While My Guitar Gently Weeps | While My Guitar |  |  | r
 Ob-La-Di, Ob-La-Da | Obladi Oblada | | | r
 Helter Skelter | | | | r
 Don't Let Me Down | | | | r
 Octopus's Garden | | | | r
 Across the Universe | | | | r
-The Long and Winding Road | | | | r
+The Long and Winding Road | Long and Winding Road |  |  | r
 I Saw Her Standing There | | | | r
 And I Love Her | | | | r
 Eight Days a Week | | | | r
@@ -266,11 +452,125 @@ The Word | | | | l
 Roll Over Beethoven | | | | l
 Rock and Roll Music | | | | l
 Money (That's What I Want) | | | | l
+I Will | e
+Glass Onion | e
+Mother Nature's Son | e
+Sexy Sadie | e
+Martha My Dear | e
+Revolution 9 | e
+I'm So Tired | l
+Piggies | l
+Savoy Truffle | l
+Cry Baby Cry | l
+Honey Pie | l
+Yer Blues | l
+Why Don't We Do It in the Road? | l
+The Continuing Story of Bungalow Bill | Bungalow Bill | l
+Good Night | l
+Don't Pass Me By | l
+Long, Long, Long | l
+You Won't See Me | l
+I'm Looking Through You | l
+If I Needed Someone | l
+Run for Your Life | l
+What Goes On | l
+Wait | l
+I'm Only Sleeping | e
+For No One | e
+She Said She Said | l
+And Your Bird Can Sing | l
+Doctor Robert | l
+I Want to Tell You | l
+Love You To | l
+I've Just Seen a Face | e
+The Night Before | l
+Another Girl | l
+You're Going to Lose That Girl | l
+I Need You | l
+Act Naturally | l
+It's Only Love | l
+Dizzy Miss Lizzy | l
+Things We Said Today | e
+I'll Be Back | l
+Tell Me Why | l
+Any Time at All | l
+I'll Cry Instead | l
+You Can't Do That | l
+I'm Happy Just to Dance with You | l
+Baby's in Black | l
+I'll Follow the Sun | e
+Mr. Moonlight | l
+Kansas City | Kansas City/Hey-Hey-Hey-Hey! | l
+Words of Love | l
+Honey Don't | l
+Every Little Thing | l
+P.S. I Love You | PS I Love You | e
+Do You Want to Know a Secret | e
+Misery | l
+Anna (Go to Him) | Anna | l
+Chains | l
+Boys | l
+Ask Me Why | l
+Baby It's You | l
+A Taste of Honey | l
+There's a Place | l
+It Won't Be Long | l
+All I've Got to Do | l
+Don't Bother Me | l
+Little Child | l
+Till There Was You | e
+Please Mr. Postman | Please Mister Postman | e
+Hold Me Tight | l
+You Really Got a Hold on Me | l
+I Wanna Be Your Man | l
+Devil in Her Heart | l
+Not a Second Time | l
+Sun King | l
+Mean Mr. Mustard | l
+Polythene Pam | l
+She Came In Through the Bathroom Window | l
+You Never Give Me Your Money | e
+Her Majesty | e
+I've Got a Feeling | e
+One After 909 | e
+Dig It | l
+I Me Mine | l
+For You Blue | l
+Maggie Mae | l
+Blue Jay Way | l
+Your Mother Should Know | l
+Flying | l
+Only a Northern Song | l
+All Together Now | l
+It's All Too Much | l
+Good Morning Good Morning | l
+I'm Down | e
+Yes It Is | l
+This Boy | l
+She's a Woman | l
+Thank You Girl | l
+I'll Get You | l
+Old Brown Shoe | l
+The Inner Light | l
+You Know My Name (Look Up the Number) | You Know My Name | l
+Long Tall Sally | e
+Matchbox | l
+Slow Down | l
+I Call Your Name | l
+Bad Boy | l
+Everybody's Trying to Be My Baby | l
+I Don't Want to Spoil the Party | l
+What You're Doing | l
+When I Get Home | l
+Wild Honey Pie | l
+Everybody's Got Something to Hide Except Me and My Monkey | l
+Tell Me What You See | l
+You Like Me Too Much | l
 
 == mint-musicas-queen | Cite uma música do Queen | dificil | queen;rock;canções | https://pt.wikipedia.org/wiki/Discografia_de_Queen
 Bohemian Rhapsody | | | | c
 We Will Rock You | | | | c
-We Are the Champions | | | | c
+We Are the Champions | Champions |  |  | c
 Another One Bites the Dust | | | | c
 Don't Stop Me Now | | | | c
 Love of My Life | | | | c
@@ -281,7 +581,7 @@ Radio Ga Ga | | | | i
 The Show Must Go On | | | | i
 Killer Queen | | | | i
 Who Wants to Live Forever | | | | i
-A Kind of Magic | | | | i
+A Kind of Magic | Kind of Magic |  |  | i
 Crazy Little Thing Called Love | | | | i
 Bicycle Race | | | | r
 Fat Bottomed Girls | | | | r
@@ -326,20 +626,76 @@ Thank God It's Christmas | | | | l
 Let Me Live | | | | l
 You Don't Fool Me | | | | l
 Doing All Right | | | | l
+I Was Born to Love You | r
+Scandal | e
+The Invisible Man | e
+One Year of Love | e
+Gimme the Prize | e
+Is This the World We Created...? | e
+Teo Torriatte (Let Us Cling Together) | Teo Torriatte | e
+Death on Two Legs | e
+Lazing on a Sunday Afternoon | e
+I'm in Love with My Car | e
+Get Down, Make Love | e
+Back Chat | e
+No-One but You (Only the Good Die Young) | No-One but You | e
+Seaside Rendezvous | l
+Good Company | l
+Sweet Lady | l
+God Save the Queen | l
+Flick of the Wrist | l
+Lily of the Valley | l
+In the Lap of the Gods | l
+Bring Back That Leroy Brown | l
+Father to Son | l
+White Queen (As It Began) | White Queen | l
+The Fairy Feller's Master-Stroke | l
+Nevermore | l
+The March of the Black Queen | l
+Great King Rat | l
+My Fairy King | l
+Long Away | l
+The Millionaire Waltz | l
+All Dead, All Dead | l
+It's Late | l
+Jealousy | l
+Let Me Entertain You | l
+Dead on Time | l
+Sail Away Sweet Sister | l
+Need Your Loving Tonight | l
+Staying Power | l
+Calling All Girls | l
+Tear It Up | l
+Machines (or 'Back to Humans') | Machines | l
+Pain Is So Close to Pleasure | l
+Don't Lose Your Head | l
+Rain Must Fall | l
+Was It All Worth It | l
+Party | l
+Ride the Wild Wind | l
+All God's People | l
+Delilah | l
+The Hitman | l
+Bijou | l
+It's a Beautiful Day | l
+My Life Has Been Saved | l
+A Winter's Tale | l
+The Hero | l
+Face It Alone | l
 
 == mint-rappers | Cite um(a) rapper ou grupo de rap internacional | media | rap;hip hop | https://pt.wikipedia.org/wiki/Hip_hop
 Eminem | Slim Shady;Marshall Mathers | | | c
 Tupac | 2Pac;Tupac Shakur | | | c
 The Notorious B.I.G. | Notorious BIG;Biggie;Biggie Smalls | | | i
 Jay-Z | Jay Z | | | c
-Kanye West | Kanye | | | c
+Kanye West | Kanye;Ye |  |  | c
 Drake | | | | c
 Kendrick Lamar | Kendrick | | | i
 Snoop Dogg | Snoop | | | c
 Dr. Dre | Dre | | | c
 50 Cent | Fifty Cent | | | c
-Lil Wayne | | | | i
-Nicki Minaj | | | | c
+Lil Wayne | Weezy |  |  | i
+Nicki Minaj | Nicki |  |  | c
 Cardi B | | | | i
 Travis Scott | | | | i
 Nas | | | | r
@@ -356,7 +712,7 @@ Vanilla Ice | | | | r
 Coolio | | | | r
 Pitbull | | | | i
 Flo Rida | | | | r
-Lil Nas X | | | | r
+Lil Nas X | Lil Nas |  |  | r
 Future | | | | r
 Lil Uzi Vert | | | | e
 J. Cole | J Cole | | | r
@@ -369,7 +725,7 @@ XXXTentacion | | | | e
 Mac Miller | | | | e
 Logic | | | | e
 Chance the Rapper | | | | e
-Childish Gambino | | | | e
+Childish Gambino | Donald Glover |  |  | e
 Wiz Khalifa | | | | i
 Nelly | | | | r
 Ludacris | | | | r
@@ -396,10 +752,87 @@ Fugees | | | | e
 Cypress Hill | | | | e
 House of Pain | | | | l
 Mobb Deep | | | | l
-Black Eyed Peas | | | | r
+Black Eyed Peas | BEP |  |  | r
 Post Malone | | | | i
 Akon | | | | r
 Doja Cat | | | | r
+Tyga | r
+Machine Gun Kelly | MGK | r
+Fetty Wap | e
+Lil Peep | e
+Saweetie | e
+Gunna | e
+Trippie Redd | e
+Lil Tecca | e
+Diddy | Puff Daddy;P. Diddy;Sean Combs | r
+DMX | r
+Rick Ross | r
+Migos | r
+Soulja Boy | r
+Tekashi 6ix9ine | 6ix9ine | r
+Grandmaster Flash | r
+Meek Mill | e
+Big Sean | e
+Common | e
+Fat Joe | e
+Ja Rule | e
+Xzibit | e
+Warren G | e
+Nate Dogg | e
+The Game | e
+Bone Thugs-N-Harmony | e
+Gucci Mane | e
+Eve | e
+Stormzy | e
+Central Cee | e
+MC Solaar | e
+Gims | Maître Gims | e
+Residente | e
+Calle 13 | e
+G-Eazy | e
+Lil Pump | e
+Jack Harlow | e
+Quavo | e
+Offset | e
+Kodak Black | e
+NF | e
+Bow Wow | e
+Lil Yachty | e
+Young Thug | e
+DaBaby | e
+A Tribe Called Quest | e
+The Roots | e
+Kris Kross | e
+Sugarhill Gang | The Sugarhill Gang | e
+Doechii | e
+Rae Sremmurd | e
+Rakim | Eric B. & Rakim | l
+KRS-One | l
+Slick Rick | l
+Big Pun | Big Punisher | l
+Big L | l
+Mos Def | Yasiin Bey | l
+Ghostface Killah | l
+Raekwon | l
+Pusha T | l
+Three 6 Mafia | l
+Master P | l
+Juvenile | l
+De La Soul | l
+Gang Starr | l
+Naughty by Nature | l
+Geto Boys | l
+Dizzee Rascal | Dizzy Rascal | l
+Skepta | l
+Lil Durk | l
+Roddy Ricch | l
+Polo G | l
+Latto | l
+GloRilla | l
+Tech N9ne | l
+Twista | l
+Booba | l
+Canserbero | l
 
 == mint-generos | Cite um gênero musical de origem estrangeira (não brasileiro) | facil | gêneros;estilos | https://pt.wikipedia.org/wiki/Lista_de_g%C3%AAneros_musicais
 @nota Gêneros surgidos fora do Brasil.
@@ -410,14 +843,14 @@ Blues | | | | c
 Reggae | | | | c
 Rap | Hip hop;Hip-hop | | | c
 Música eletrônica | Eletrônica;EDM;Eletrônico | Electronic music | Música electrónica | c
-Música clássica | Erudita | Classical music | Música clásica | c
+Música clássica | Erudita;Clássica;Música erudita | Classical music | Música clásica | c
 Heavy metal | Metal | | | c
 Punk | Punk rock | | | i
 Reggaeton | Reggaetón | | | c
 K-pop | | | | c
 Country | Country music | | | i
-Soul | | | | i
-R&B | Rhythm and blues | | | i
+Soul | Soul music |  |  | i
+R&B | Rhythm and blues;RnB;R and B |  |  | i
 Disco | | | | i
 Gospel | | | | i
 Ópera | | Opera | | i
@@ -429,8 +862,8 @@ House | | | | i
 Trance | | | | r
 Grunge | | | | r
 Funk americano | Funk norte-americano | | | r
-Indie | Indie rock | | | r
-Folk | | | | r
+Indie | Indie rock;Indie pop |  |  | r
+Folk | Música folk |  |  | r
 Bachata | | | | r
 Merengue | | | | r
 Cumbia | | | | r
@@ -466,3 +899,73 @@ Kuduro | | | | e
 Semba | | | | l
 Cha-cha-chá | | | | e
 Rumba | | | | e
+Electro house | r
+Tropical house | r
+Hyperpop | e
+Neo soul | r
+Post-rock | e
+Southern rock | e
+Blues rock | e
+Folk rock | e
+Country rock | e
+Latin pop | Pop latino | r
+Chillout | Chill out | r
+Vaporwave | e
+Phonk | e
+Hard rock | i
+Rock progressivo | Progressivo;Prog rock | Progressive rock | Rock progresivo | e
+Rock psicodélico | Psicodelia | Psychedelic rock | e
+Glam rock | e
+Rock alternativo | Alternativo | Alternative rock | r
+Pop rock | r
+Pop punk | e
+Post-punk | l
+Britpop | e
+Rock gótico | Gótico | Gothic rock | e
+Surf rock | l
+Garage rock | l
+Thrash metal | e
+Death metal | e
+Black metal | e
+Nu metal | e
+Power metal | l
+Metal sinfônico |  | Symphonic metal | l
+Glam metal | Hair metal | l
+Metalcore | l
+Industrial | Música industrial | Industrial music | l
+Doo-wop | l
+Twist | e
+Charleston | l
+Big band | l
+Dixieland | l
+Jazz fusion | Fusion | l
+Gangsta rap | e
+Drill | e
+Eurodance | e
+Deep house | l
+Psytrance | Trance psicodélico | e
+Ambient | Música ambiente | Ambient music | l
+Trip hop | l
+Dub | l
+Jungle | l
+New age | l
+Calipso |  | Calypso | l
+Son cubano | l
+Chamamé | e
+Milonga | l
+Vallenato | l
+Pasodoble | Paso doble | l
+Morna | e
+Funaná | l
+Amapiano | l
+Bhangra | l
+City pop | l
+Canto gregoriano | Gregoriano | Gregorian chant | e
+Opereta |  | Operetta | l
+Chanson | Chanson française | l
+Klezmer | l
+Música celta | Celta | Celtic music | e
+Soft rock | l
+Dance | Dance music | r
+Electropop | l
+Spiritual | l

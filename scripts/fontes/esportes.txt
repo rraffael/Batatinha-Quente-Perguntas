@@ -5,14 +5,14 @@ nome: Esportes
 @nota Vale o esporte ou uma disciplina/prova do programa olímpico de Paris 2024.
 Futebol | | Football;Soccer | Fútbol | c
 Vôlei | Voleibol | Volleyball | Voleibol | c
-Vôlei de praia | | Beach volleyball | Vóley playa | c
+Vôlei de praia | Voleibol de praia | Beach volleyball | Vóley playa | c
 Basquete | Basquetebol | Basketball | Baloncesto;Básquetbol | c
 Basquete 3x3 | 3x3 | 3x3 basketball | Baloncesto 3x3 | r
 Natação | | Swimming | Natación | c
 Atletismo | | Athletics;Track and field | | c
 Ginástica artística | | Artistic gymnastics | Gimnasia artística | c
 Ginástica rítmica | | Rhythmic gymnastics | Gimnasia rítmica | i
-Ginástica de trampolim | Trampolim acrobático | Trampoline | Gimnasia en trampolín | e
+Ginástica de trampolim | Trampolim acrobático;Cama elástica;Trampolim | Trampoline | Gimnasia en trampolín | e
 Judô | Judo | Judo | Judo | c
 Boxe | Boxe olímpico | Boxing | Boxeo | c
 Handebol | Andebol | Handball | Balonmano | c
@@ -20,11 +20,11 @@ Tênis | | Tennis | Tenis | c
 Tênis de mesa | Pingue-pongue;Ping-pong | Table tennis | Tenis de mesa | i
 Surfe | Surf | Surfing | Surf | c
 Skate | Skateboard | Skateboarding | Skateboarding | c
-Canoagem | Canoagem velocidade;Canoagem slalom | Canoeing | Piragüismo | i
+Canoagem | Canoagem velocidade;Canoagem slalom;Caiaque;Canoa | Canoeing | Piragüismo | i
 Remo | | Rowing | | i
 Vela | Iatismo | Sailing | | i
 Ciclismo | Ciclismo de estrada;Ciclismo de pista | Cycling | | i
-BMX | | | | r
+BMX | BMX freestyle;BMX racing |  |  | r
 Mountain bike | MTB | | | r
 Esgrima | | Fencing | | i
 Hipismo | Equitação;Adestramento | Equestrian | Hípica | i
@@ -38,12 +38,12 @@ Triatlo | Triathlon | Triathlon | Triatlón | i
 Pentatlo moderno | Pentatlo | Modern pentathlon | Pentatlón moderno | e
 Golfe | | Golf | | i
 Rugby | Rugby sevens;Rúgbi | Rugby | | i
-Hóquei sobre grama | Hóquei | Field hockey | Hockey sobre césped | r
+Hóquei sobre grama | Hóquei;Hockey;Hóquei na grama | Field hockey | Hockey sobre césped | r
 Badminton | | | Bádminton | i
 Polo aquático | | Water polo | Waterpolo | r
 Saltos ornamentais | | Diving | Saltos | r
 Nado artístico | Nado sincronizado | Artistic swimming | Natación artística | r
-Maratona aquática | | Marathon swimming;Open water swimming | Aguas abiertas | e
+Maratona aquática | Águas abertas;Natação em águas abertas | Marathon swimming;Open water swimming | Aguas abiertas | e
 Breaking | Breakdance | | | r
 Escalada esportiva | Escalada | Sport climbing | Escalada deportiva | r
 Maratona | | Marathon | Maratón | i
@@ -53,19 +53,31 @@ Heptatlo | | Heptathlon | Heptatlón | e
 Salto com vara | | Pole vault | Salto con pértiga | r
 Salto em distância | | Long jump | Salto de longitud | r
 Salto triplo | | Triple jump | Triple salto | r
+Salto em altura |  | High jump | Salto de altura | r
+100 metros rasos | 100 metros;Corrida de 100 metros | 100 metres;100m | 100 metros lisos | r
+Arremesso de peso | Lançamento de peso | Shot put | Lanzamiento de peso | r
+Lançamento de dardo | Dardo | Javelin throw | Lanzamiento de jabalina | r
+Lançamento de disco | Disco | Discus throw | Lanzamiento de disco | r
+Lançamento de martelo | Martelo | Hammer throw | Lanzamiento de martillo | e
+Revezamento | Revezamento 4x100;Revezamento 4x400 | Relay | Relevos | r
+Corrida com barreiras | Barreiras;110 metros com barreiras;400 metros com barreiras | Hurdles | Vallas | e
+Nado livre | Crawl | Freestyle | Estilo libre | r
+Nado borboleta | Borboleta | Butterfly | Mariposa | r
+Nado de costas | Costas;Nado costas | Backstroke | Espalda | r
+Nado peito | Peito;Nado de peito | Breaststroke | Pecho | r
 
 == esp-com-bola | Cite um esporte jogado com bola | facil | bola;esportes coletivos | https://pt.wikipedia.org/wiki/Lista_de_desportos
-Futebol | | Football;Soccer | Fútbol | c
+Futebol | Futebol de campo | Football;Soccer | Fútbol | c
 Vôlei | Voleibol | Volleyball | Voleibol | c
-Basquete | Basquetebol | Basketball | Baloncesto | c
+Basquete | Basquetebol;Basket | Basketball | Baloncesto | c
 Handebol | Andebol | Handball | Balonmano | c
 Tênis | | Tennis | Tenis | c
 Futsal | Futebol de salão | | Fútbol sala | c
-Futebol americano | | American football | Fútbol americano | c
+Futebol americano | Football americano | American football | Fútbol americano | c
 Vôlei de praia | | Beach volleyball | Vóley playa | c
 Tênis de mesa | Pingue-pongue;Ping-pong | Table tennis | | c
 Golfe | | Golf | | c
-Beisebol | Baseball | Baseball | Béisbol | c
+Beisebol | Baseball;Basebol | Baseball | Béisbol | c
 Rugby | Rúgbi | | | i
 Futevôlei | | Footvolley | Futvóley | i
 Beach tennis | Tênis de praia | | | i
@@ -76,11 +88,11 @@ Polo aquático | | Water polo | Waterpolo | i
 Futebol de areia | Beach soccer | Beach soccer | Fútbol playa | i
 Queimada | Queimado;Caçador | Dodgeball | Quemados | i
 Críquete | | Cricket | Críquet | r
-Hóquei sobre grama | | Field hockey | | r
+Hóquei sobre grama | Hóquei na grama | Field hockey |  | r
 Squash | | | | r
 Padel | Padel tênis | | Pádel | i
 Softbol | | Softball | Sóftbol | r
-Pelota basca | | Basque pelota | Pelota vasca | e
+Pelota basca | Jai alai;Pelota | Basque pelota | Pelota vasca | e
 Polo | Polo equestre | | | r
 Frescobol | | | | i
 Bocha | Bocce | Bocce;Boccia | Bochas | r
@@ -96,6 +108,15 @@ Futebol gaélico | | Gaelic football | Fútbol gaélico | l
 Hurling | | | | l
 Tchoukball | | | | l
 Rugby league | | | | l
+Pickleball | Picklebol | i
+Raquetebol | Racquetball |  | Raquetbol | r
+Vôlei sentado | Voleibol sentado | Sitting volleyball | r
+Handebol de praia | Andebol de praia | Beach handball | Balonmano playa | r
+Basquete em cadeira de rodas | Basquetebol em cadeira de rodas | Wheelchair basketball | Baloncesto en silla de ruedas | r
+Hóquei em patins |  | Roller hockey;Rink hockey | Hockey sobre patines | r
+Petanca | Pétanque;Bocha provençal | Boules | e
+Kin-ball | Kinball | l
+Futebol de cinco | Futebol de 5;Futebol para cegos | Blind football;5-a-side football | Fútbol para ciegos | e
 
 == esp-campeoes-f1 | Cite um piloto campeão mundial de Fórmula 1 | dificil | fórmula 1;automobilismo | https://pt.wikipedia.org/wiki/Lista_de_campe%C3%B5es_mundiais_de_pilotos_de_F%C3%B3rmula_1
 @atualizadoEm 2026-11
@@ -140,13 +161,13 @@ Giuseppe Farina | Nino Farina;Farina | | | l
 @atualizadoEm 2026-11
 @nota Inclui integrantes de equipes campeãs (vôlei, futebol, vela, vôlei de praia) até Paris 2024.
 Rebeca Andrade | Rebeca | | | c
-Neymar | Neymar Jr | | | c
+Neymar | Neymar Jr;Neymar Junior |  |  | c
 César Cielo | Cielo | | | c
 Rafaela Silva | | | | c
 Ítalo Ferreira | | | | c
 Isaquias Queiroz | Isaquias | | | i
 Arthur Zanetti | Zanetti | | | i
-Thiago Braz | | | | i
+Thiago Braz | Thiago Braz da Silva |  |  | i
 Maurren Maggi | Maurren | | | i
 Robert Scheidt | Scheidt | | | i
 Torben Grael | Torben | | | i
@@ -157,7 +178,7 @@ Robson Conceição | | | | r
 Hebert Conceição | | | | r
 Ana Marcela Cunha | Ana Marcela | | | i
 Beatriz Souza | Bia Souza | | | r
-Ana Patrícia | | | | r
+Ana Patrícia | Ana Patrícia Ramos |  |  | r
 Duda Lisboa | Duda | | | r
 Giba | Gilberto Godoy Filho | | | i
 Serginho | Escadinha | | | r
@@ -172,7 +193,7 @@ Mari | Marianne Steinbrecher | | | e
 Dani Lins | | | | e
 Fernanda Garay | | | | e
 Natália Pereira | | | | e
-Tandara | | | | e
+Tandara | Tandara Caixeta |  |  | e
 Bruninho | Bruno Rezende | | | r
 Lucão | | | | e
 Wallace | Wallace de Souza | | | e
@@ -190,7 +211,7 @@ Ricardo Santos | | | | r
 Emanuel Rego | Emanuel | | | r
 Alison Cerutti | Alison;Mamute | | | r
 Bruno Schmidt | | | | e
-Jacqueline Silva | | | | e
+Jacqueline Silva | Jackie Silva |  |  | e
 Sandra Pires | | | | e
 Rodrigo Pessoa | | | | r
 Marcelo Ferreira | | | | e
@@ -212,3 +233,54 @@ Malcom | | | | e
 Antony | | | | r
 Douglas Luiz | | | | e
 Claudinho | | | | e
+Matheus Henrique | e
+Gabriel Martinelli | Martinelli | i
+Gabriel Menino | Menino | r
+Guilherme Arana | Arana | r
+Diego Carlos | r
+Paulinho | r
+Reinier | r
+Ricardo Graça | l
+Nino | l
+Abner | Abner Vinícius | r
+Bruno Fuchs | l
+Brenno | l
+Aderbar Santos | l
+Rodrigo Caio | r
+Felipe Anderson | r
+Rafinha | Rafinha Alcântara | r
+Thiago Maia | r
+Douglas Santos | r
+Rodrigo Dourado | l
+Walace | l
+Luan | e
+Zeca | l
+Uílson | l
+Douglas Souza | e
+Maurício Souza | e
+Lipe Fonteles | Lipe | e
+Éder Carbonera | Éder | e
+Evandro Guerra | Evandro | e
+William Arjona | Arjona | e
+Maurício Borges | e
+Carol Albuquerque | Carol | l
+Walewska | Walewska Oliveira | r
+Valeskinha | Valeska Menezes | e
+Sassá | Sassá Gonzaga | l
+Adenízia | e
+Fernandinha | Fernanda Ferreira | e
+Anderson Rodrigues | e
+André Heller | Heller | r
+André Nascimento | e
+Rodrigão | Rodrigo Santana | e
+Alexandre Welter | l
+Lars Björkström | l
+Eduardo Penido | l
+Marcos Soares | l
+Douglas Chiarotti | Chiarotti | l
+Amauri Ribeiro | Amauri | l
+André Pampa | Pampa | l
+Janelson Carvalho | Janelson | l
+Jorge Edson | l
+Paulão | Paulão Jukoski | l
+Talmo de Oliveira | Talmo | l

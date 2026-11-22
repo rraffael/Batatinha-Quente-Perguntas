@@ -1,0 +1,93 @@
+== mint-kpop    # Cite um grupo de K-pop
++ TVXQ | DBSK;Dong Bang Shin Ki |  |  | r | https://pt.wikipedia.org/wiki/TVXQ    # profunda
++ Shinhwa |  |  |  | e | https://pt.wikipedia.org/wiki/Shinhwa    # profunda
++ H.O.T. | HOT |  |  | e | https://pt.wikipedia.org/wiki/H.O.T.    # profunda
++ g.o.d | god |  |  | l | https://en.wikipedia.org/wiki/G.o.d    # profunda
++ S.E.S. | SES |  |  | l | https://en.wikipedia.org/wiki/S.E.S._(group)    # profunda
++ Fin.K.L | Fin.KL;Pinkl |  |  | l | https://en.wikipedia.org/wiki/Fin.K.L    # profunda
++ SS501 |  |  |  | e | https://pt.wikipedia.org/wiki/SS501    # profunda
++ Highlight | Beast;B2ST |  |  | e | https://en.wikipedia.org/wiki/Highlight_(band)    # profunda
++ Teen Top |  |  |  | e | https://pt.wikipedia.org/wiki/Teen_Top    # profunda
++ Block B |  |  |  | e | https://pt.wikipedia.org/wiki/Block_B    # profunda
++ B.A.P | BAP |  |  | e | https://en.wikipedia.org/wiki/B.A.P_(South_Korean_band)    # profunda
++ VIXX |  |  |  | e | https://pt.wikipedia.org/wiki/VIXX    # profunda
++ Pentagon |  |  |  | e | https://en.wikipedia.org/wiki/Pentagon_(South_Korean_band)    # profunda
++ Astro |  |  |  | e | https://en.wikipedia.org/wiki/Astro_(South_Korean_band)    # profunda
++ CNBLUE | CN Blue |  |  | e | https://pt.wikipedia.org/wiki/CNBLUE    # profunda
++ FT Island |  |  |  | e | https://en.wikipedia.org/wiki/F.T._Island    # profunda
++ Everglow |  |  |  | e | https://pt.wikipedia.org/wiki/Everglow    # profunda
++ STAYC |  |  |  | e | https://pt.wikipedia.org/wiki/STAYC    # profunda
++ Kep1er |  |  |  | e | https://pt.wikipedia.org/wiki/Kep1er    # profunda
++ NMIXX |  |  |  | e | https://en.wikipedia.org/wiki/Nmixx    # profunda
++ WJSN | Cosmic Girls |  |  | e | https://pt.wikipedia.org/wiki/WJSN    # profunda
++ AOA |  |  |  | e | https://en.wikipedia.org/wiki/AOA_(group)    # profunda
++ Girl's Day |  |  |  | e | https://pt.wikipedia.org/wiki/Girl's_Day    # profunda
++ After School |  |  |  | e | https://en.wikipedia.org/wiki/After_School_(group)    # profunda
++ Fifty Fifty |  |  |  | e | https://en.wikipedia.org/wiki/Fifty_Fifty_(group)    # profunda
++ tripleS |  |  |  | e | https://en.wikipedia.org/wiki/TripleS    # profunda
+~ NCT | WayV | https://pt.wikipedia.org/wiki/WayV    # profunda CORR: WayV é unidade do NCT, virou variante
++ SuperM |  |  |  | e | https://pt.wikipedia.org/wiki/SuperM    # profunda
++ KARD |  |  |  | e | https://en.wikipedia.org/wiki/Kard_(group)    # profunda
++ MBLAQ |  |  |  | l | https://pt.wikipedia.org/wiki/MBLAQ    # profunda
++ 2AM |  |  |  | l | https://en.wikipedia.org/wiki/2AM_(band)    # profunda
++ U-KISS |  |  |  | l | https://en.wikipedia.org/wiki/U-KISS    # profunda
++ SF9 |  |  |  | l | https://en.wikipedia.org/wiki/SF9_(band)    # profunda
++ fromis_9 |  |  |  | l | https://en.wikipedia.org/wiki/Fromis_9    # profunda
++ Lovelyz |  |  |  | l | https://pt.wikipedia.org/wiki/Lovelyz    # profunda
++ Brown Eyed Girls |  |  |  | l | https://pt.wikipedia.org/wiki/Brown_Eyed_Girls    # profunda
++ Secret |  |  |  | l | https://en.wikipedia.org/wiki/Secret_(South_Korean_band)    # profunda
++ CLC |  |  |  | l | https://en.wikipedia.org/wiki/CLC_(group)    # profunda
++ Weki Meki |  |  |  | l | https://pt.wikipedia.org/wiki/Weki_Meki    # profunda
++ Oneus |  |  |  | l | https://pt.wikipedia.org/wiki/Oneus    # profunda
++ AB6IX |  |  |  | l | https://pt.wikipedia.org/wiki/AB6IX    # profunda
++ Cravity |  |  |  | l | https://pt.wikipedia.org/wiki/Cravity    # profunda
++ Xdinary Heroes |  |  |  | l | https://pt.wikipedia.org/wiki/Xdinary_Heroes    # profunda
++ N.Flying |  |  |  | l | https://pt.wikipedia.org/wiki/N.Flying    # profunda
++ The Rose |  |  |  | l | https://en.wikipedia.org/wiki/The_Rose_(band)    # profunda
++ Hearts2Hearts |  |  |  | l | https://pt.wikipedia.org/wiki/Hearts2Hearts    # profunda
++ Meovv |  |  |  | l | https://pt.wikipedia.org/wiki/Meovv    # profunda
++ Victon |  |  |  | l | https://pt.wikipedia.org/wiki/Victon    # profunda
++ Golden Child |  |  |  | l | https://en.wikipedia.org/wiki/Golden_Child_(band)    # profunda
+- NewJeans | New Jeans | https://pt.wikipedia.org/wiki/NewJeans    # generica # REJ: redundante (o jogo já tolera espaço/erro de digitação)
+~ Stray Kids | SKZ | https://pt.wikipedia.org/wiki/Stray_Kids    # generica
+~ Seventeen | SVT | https://pt.wikipedia.org/wiki/Seventeen_(banda)    # generica
+~ Girls' Generation | Shoujo Jidai | https://pt.wikipedia.org/wiki/Girls'_Generation    # generica
+- BoyNextDoor | Boy Next Door | https://pt.wikipedia.org/wiki/BoyNextDoor    # generica # REJ: redundante (o jogo já tolera espaço/erro de digitação)
+- Zerobaseone | Zero Base One | https://pt.wikipedia.org/wiki/Zerobaseone    # generica # REJ: redundante (o jogo já tolera espaço/erro de digitação)
+- Babymonster | Baby Monster | https://pt.wikipedia.org/wiki/Babymonster    # generica # REJ: redundante (o jogo já tolera espaço/erro de digitação)
+- GFriend | G-Friend | https://pt.wikipedia.org/wiki/GFriend    # generica # REJ: redundante (o jogo já tolera espaço/erro de digitação)
+- Big Bang | BigBang | https://pt.wikipedia.org/wiki/Big_Bang_(banda)    # generica # REJ: redundante (o jogo já tolera espaço/erro de digitação)
+
+== esp-times-nba    # Cite um time da NBA (National Basketball Association, a liga de basquete dos Estados Unidos)
+~ Los Angeles Lakers | LA Lakers | https://pt.wikipedia.org/wiki/Los_Angeles_Lakers    # generica
+~ New York Knicks | NY Knicks | https://pt.wikipedia.org/wiki/New_York_Knicks    # generica
+~ Philadelphia 76ers | Philadelphia Sixers | https://pt.wikipedia.org/wiki/Philadelphia_76ers    # generica
+- Oklahoma City Thunder | Seattle SuperSonics;SuperSonics;Sonics | https://pt.wikipedia.org/wiki/Oklahoma_City_Thunder    # generica # REJ: SuperSonics não é time atual; nome e história ficaram com Seattle (provável franquia de expansão)
+~ Portland Trail Blazers | Portland Blazers | https://pt.wikipedia.org/wiki/Portland_Trail_Blazers    # generica
+~ Brooklyn Nets | New Jersey Nets | https://en.wikipedia.org/wiki/Brooklyn_Nets    # profunda
+~ Golden State Warriors | Golden State | https://en.wikipedia.org/wiki/Golden_State_Warriors    # profunda
+
+== esp-times-nfl    # Cite um time da NFL (National Football League, a liga de futebol americano)
+~ Jacksonville Jaguars | Jags | https://pt.wikipedia.org/wiki/Jacksonville_Jaguars    # generica
+~ Los Angeles Rams | LA Rams;St. Louis Rams | https://pt.wikipedia.org/wiki/Los_Angeles_Rams https://en.wikipedia.org/wiki/Los_Angeles_Rams    # generica,profunda
+~ Los Angeles Chargers | LA Chargers;San Diego Chargers | https://pt.wikipedia.org/wiki/Los_Angeles_Chargers https://en.wikipedia.org/wiki/Los_Angeles_Chargers    # generica,profunda
+~ New York Giants | NY Giants | https://pt.wikipedia.org/wiki/New_York_Giants    # generica
+~ New York Jets | NY Jets | https://pt.wikipedia.org/wiki/New_York_Jets    # generica
+~ Washington Commanders | Washington Football Team | https://en.wikipedia.org/wiki/Washington_Commanders    # profunda
+~ Tennessee Titans | Houston Oilers | https://en.wikipedia.org/wiki/Tennessee_Titans    # profunda
+
+== his-presidentes-eua    # Cite um presidente dos Estados Unidos
+~ John F. Kennedy | John Kennedy;John Fitzgerald Kennedy | https://pt.wikipedia.org/wiki/John_F._Kennedy    # generica
+~ Franklin D. Roosevelt | Franklin Delano Roosevelt | https://pt.wikipedia.org/wiki/Franklin_D._Roosevelt    # generica
+~ Bill Clinton | William Clinton;William Jefferson Clinton | https://pt.wikipedia.org/wiki/Bill_Clinton    # generica
+~ George W. Bush | George Bush Jr;Bush Jr;George Bush Filho | https://pt.wikipedia.org/wiki/George_W._Bush    # generica
+~ George H. W. Bush | George Bush Sr;Bush Sr;George Bush Pai | https://pt.wikipedia.org/wiki/George_H._W._Bush    # generica
+~ Harry Truman | Harry S. Truman | https://pt.wikipedia.org/wiki/Harry_S._Truman    # generica
+~ Dwight Eisenhower | Dwight D. Eisenhower | https://pt.wikipedia.org/wiki/Dwight_D._Eisenhower    # generica
+~ Gerald Ford | Gerald R. Ford | https://pt.wikipedia.org/wiki/Gerald_Ford    # generica
+~ Rutherford Hayes | Rutherford B. Hayes | https://pt.wikipedia.org/wiki/Rutherford_B._Hayes    # generica
+~ Warren Harding | Warren G. Harding | https://pt.wikipedia.org/wiki/Warren_G._Harding    # generica
+~ Chester Arthur | Chester A. Arthur | https://pt.wikipedia.org/wiki/Chester_A._Arthur    # generica
+~ James Polk | James K. Polk | https://pt.wikipedia.org/wiki/James_K._Polk    # generica
+~ William Howard Taft | William Taft | https://pt.wikipedia.org/wiki/William_Howard_Taft    # generica
+~ Donald Trump | Donald J. Trump | https://pt.wikipedia.org/wiki/Donald_Trump    # generica

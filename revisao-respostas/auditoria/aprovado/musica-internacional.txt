@@ -1,0 +1,565 @@
+== mint-bandas-rock    # Cite uma banda de rock internacional
++ Maroon 5 | Maroon Five |  |  | c | https://en.wikipedia.org/wiki/Maroon_5    # generica
++ Roxette |  |  |  | i | https://en.wikipedia.org/wiki/Roxette    # generica
++ Skillet |  |  |  | i | https://en.wikipedia.org/wiki/Skillet_(band)    # generica
++ OneRepublic | One Republic |  |  | i | https://en.wikipedia.org/wiki/OneRepublic    # generica
++ Breaking Benjamin |  |  |  | r | https://en.wikipedia.org/wiki/Breaking_Benjamin    # generica
++ Seether |  |  |  | r | https://en.wikipedia.org/wiki/Seether    # generica
++ Staind |  |  |  | r | https://en.wikipedia.org/wiki/Staind    # generica
++ Counting Crows |  |  |  | r | https://en.wikipedia.org/wiki/Counting_Crows    # generica
++ Matchbox Twenty | Matchbox 20 |  |  | r | https://en.wikipedia.org/wiki/Matchbox_Twenty    # generica
++ Cheap Trick |  |  |  | e | https://en.wikipedia.org/wiki/Cheap_Trick    # generica
++ Bad Company |  |  |  | e | https://en.wikipedia.org/wiki/Bad_Company    # generica
++ Alter Bridge |  |  |  | e | https://en.wikipedia.org/wiki/Alter_Bridge    # generica
++ The Cult | Cult |  |  | e | https://en.wikipedia.org/wiki/The_Cult    # generica
++ Rammstein |  |  |  | i | https://pt.wikipedia.org/wiki/Rammstein    # profunda
++ The Smiths | Smiths |  |  | r | https://pt.wikipedia.org/wiki/The_Smiths    # profunda
++ Blur |  |  |  | r | https://pt.wikipedia.org/wiki/Blur_(banda)    # profunda
++ Korn |  |  |  | r | https://pt.wikipedia.org/wiki/Korn    # profunda
++ Limp Bizkit |  |  |  | r | https://pt.wikipedia.org/wiki/Limp_Bizkit    # profunda
++ Fall Out Boy |  |  |  | r | https://pt.wikipedia.org/wiki/Fall_Out_Boy    # profunda
++ Sum 41 |  |  |  | r | https://pt.wikipedia.org/wiki/Sum_41    # profunda
++ Good Charlotte |  |  |  | r | https://pt.wikipedia.org/wiki/Good_Charlotte    # profunda
++ Weezer |  |  |  | r | https://pt.wikipedia.org/wiki/Weezer    # profunda
++ The Beach Boys | Beach Boys |  |  | r | https://pt.wikipedia.org/wiki/The_Beach_Boys    # profunda
++ Europe |  |  |  | r | https://en.wikipedia.org/wiki/Europe_(band)    # profunda
++ Supertramp |  |  |  | r | https://pt.wikipedia.org/wiki/Supertramp    # profunda
++ Twenty One Pilots |  |  |  | r | https://pt.wikipedia.org/wiki/Twenty_One_Pilots    # profunda
++ Panic! at the Disco |  |  |  | r | https://pt.wikipedia.org/wiki/Panic!_at_the_Disco    # profunda
++ No Doubt |  |  |  | r | https://pt.wikipedia.org/wiki/No_Doubt    # profunda
++ The Kinks | Kinks |  |  | e | https://pt.wikipedia.org/wiki/The_Kinks    # profunda
++ Slayer |  |  |  | e | https://pt.wikipedia.org/wiki/Slayer    # profunda
++ Mötley Crüe |  |  |  | e | https://pt.wikipedia.org/wiki/M%C3%B6tley_Cr%C3%BCe    # profunda
++ Whitesnake |  |  |  | e | https://pt.wikipedia.org/wiki/Whitesnake    # profunda
++ Twisted Sister |  |  |  | e | https://pt.wikipedia.org/wiki/Twisted_Sister    # profunda
++ Skid Row |  |  |  | e | https://pt.wikipedia.org/wiki/Skid_Row_(banda)    # profunda
++ Poison |  |  |  | e | https://pt.wikipedia.org/wiki/Poison_(banda)    # profunda
++ Foreigner |  |  |  | e | https://pt.wikipedia.org/wiki/Foreigner_(banda)    # profunda
++ Thin Lizzy |  |  |  | e | https://pt.wikipedia.org/wiki/Thin_Lizzy    # profunda
++ Dio |  |  |  | e | https://pt.wikipedia.org/wiki/Dio_(banda)    # profunda
++ Tool |  |  |  | e | https://pt.wikipedia.org/wiki/Tool_(banda)    # profunda
++ Deftones |  |  |  | e | https://pt.wikipedia.org/wiki/Deftones    # profunda
++ Papa Roach |  |  |  | e | https://pt.wikipedia.org/wiki/Papa_Roach    # profunda
++ Three Days Grace |  |  |  | e | https://pt.wikipedia.org/wiki/Three_Days_Grace    # profunda
++ Hoobastank |  |  |  | e | https://pt.wikipedia.org/wiki/Hoobastank    # profunda
++ 3 Doors Down |  |  |  | e | https://pt.wikipedia.org/wiki/3_Doors_Down    # profunda
++ Goo Goo Dolls |  |  |  | e | https://pt.wikipedia.org/wiki/Goo_Goo_Dolls    # profunda
++ Tame Impala |  |  |  | e | https://pt.wikipedia.org/wiki/Tame_Impala    # profunda
++ The 1975 |  |  |  | e | https://pt.wikipedia.org/wiki/The_1975    # profunda
++ Arcade Fire |  |  |  | e | https://pt.wikipedia.org/wiki/Arcade_Fire    # profunda
++ Keane |  |  |  | e | https://en.wikipedia.org/wiki/Keane_(band)    # profunda
++ Snow Patrol |  |  |  | e | https://pt.wikipedia.org/wiki/Snow_Patrol    # profunda
++ The Verve |  |  |  | e | https://pt.wikipedia.org/wiki/The_Verve    # profunda
++ Joy Division |  |  |  | e | https://pt.wikipedia.org/wiki/Joy_Division    # profunda
++ The Animals |  |  |  | e | https://pt.wikipedia.org/wiki/The_Animals    # profunda
++ Grateful Dead |  |  |  | e | https://pt.wikipedia.org/wiki/Grateful_Dead    # profunda
++ Garbage |  |  |  | e | https://pt.wikipedia.org/wiki/Garbage_(banda)    # profunda
++ Faith No More |  |  |  | e | https://pt.wikipedia.org/wiki/Faith_No_More    # profunda
++ Disturbed |  |  |  | e | https://en.wikipedia.org/wiki/Disturbed_(band)    # profunda
++ Bring Me the Horizon |  |  |  | e | https://pt.wikipedia.org/wiki/Bring_Me_the_Horizon    # profunda
++ Ghost |  |  |  | e | https://en.wikipedia.org/wiki/Ghost_(Swedish_band)    # profunda
++ Nightwish |  |  |  | e | https://pt.wikipedia.org/wiki/Nightwish    # profunda
++ Helloween |  |  |  | e | https://pt.wikipedia.org/wiki/Helloween    # profunda
++ Dream Theater |  |  |  | e | https://pt.wikipedia.org/wiki/Dream_Theater    # profunda
++ Gorillaz |  |  |  | e | https://pt.wikipedia.org/wiki/Gorillaz    # profunda
++ Santana |  |  |  | e | https://pt.wikipedia.org/wiki/Santana_(banda)    # profunda
++ Greta Van Fleet |  |  |  | e | https://pt.wikipedia.org/wiki/Greta_Van_Fleet    # profunda
++ Electric Light Orchestra | ELO |  |  | e | https://pt.wikipedia.org/wiki/Electric_Light_Orchestra    # profunda
++ Survivor |  |  |  | e | https://pt.wikipedia.org/wiki/Survivor_(banda)    # profunda
++ Mr. Big |  |  |  | e | https://pt.wikipedia.org/wiki/Mr._Big_(banda)    # profunda
++ Joan Jett & the Blackhearts | Joan Jett |  |  | e | https://pt.wikipedia.org/wiki/Joan_Jett_%26_the_Blackhearts    # profunda
++ The Byrds |  |  |  | l | https://pt.wikipedia.org/wiki/The_Byrds    # profunda
++ Jefferson Airplane |  |  |  | l | https://pt.wikipedia.org/wiki/Jefferson_Airplane    # profunda
++ The Stooges |  |  |  | l | https://pt.wikipedia.org/wiki/The_Stooges    # profunda
++ Dead Kennedys |  |  |  | l | https://pt.wikipedia.org/wiki/Dead_Kennedys    # profunda
++ Bad Religion |  |  |  | l | https://pt.wikipedia.org/wiki/Bad_Religion    # profunda
++ NOFX |  |  |  | l | https://pt.wikipedia.org/wiki/NOFX    # profunda
++ Misfits |  |  |  | l | https://pt.wikipedia.org/wiki/Misfits_(banda)    # profunda
++ Rancid |  |  |  | l | https://pt.wikipedia.org/wiki/Rancid    # profunda
++ Stone Temple Pilots |  |  |  | l | https://pt.wikipedia.org/wiki/Stone_Temple_Pilots    # profunda
++ Sonic Youth |  |  |  | l | https://pt.wikipedia.org/wiki/Sonic_Youth    # profunda
++ Jane's Addiction |  |  |  | l | https://pt.wikipedia.org/wiki/Jane's_Addiction    # profunda
++ Incubus |  |  |  | l | https://pt.wikipedia.org/wiki/Incubus_(banda)    # profunda
++ Pulp |  |  |  | l | https://pt.wikipedia.org/wiki/Pulp_(banda)    # profunda
++ Travis |  |  |  | l | https://pt.wikipedia.org/wiki/Travis_(banda)    # profunda
++ Kaiser Chiefs |  |  |  | l | https://pt.wikipedia.org/wiki/Kaiser_Chiefs    # profunda
++ The Pretenders | Pretenders |  |  | l | https://pt.wikipedia.org/wiki/The_Pretenders    # profunda
++ Heart |  |  |  | l | https://pt.wikipedia.org/wiki/Heart_(banda)    # profunda
++ T. Rex |  |  |  | l | https://pt.wikipedia.org/wiki/T._Rex_(banda)    # profunda
++ Status Quo |  |  |  | l | https://pt.wikipedia.org/wiki/Status_Quo_(banda)    # profunda
++ Uriah Heep |  |  |  | l | https://pt.wikipedia.org/wiki/Uriah_Heep    # profunda
++ Steppenwolf |  |  |  | l | https://pt.wikipedia.org/wiki/Steppenwolf_(banda)    # profunda
++ Chicago |  |  |  | l | https://pt.wikipedia.org/wiki/Chicago_(banda)    # profunda
++ King Crimson |  |  |  | l | https://pt.wikipedia.org/wiki/King_Crimson    # profunda
++ Emerson, Lake & Palmer | ELP |  |  | l | https://pt.wikipedia.org/wiki/Emerson,_Lake_%26_Palmer    # profunda
++ The Allman Brothers Band | Allman Brothers |  |  | l | https://pt.wikipedia.org/wiki/The_Allman_Brothers_Band    # profunda
++ Anthrax |  |  |  | l | https://pt.wikipedia.org/wiki/Anthrax_(banda)    # profunda
++ Testament |  |  |  | l | https://en.wikipedia.org/wiki/Testament_(band)    # profunda
++ Sabaton |  |  |  | l | https://pt.wikipedia.org/wiki/Sabaton    # profunda
++ Manowar |  |  |  | l | https://pt.wikipedia.org/wiki/Manowar    # profunda
++ Lamb of God |  |  |  | l | https://pt.wikipedia.org/wiki/Lamb_of_God_(banda)    # profunda
++ Bullet for My Valentine |  |  |  | l | https://pt.wikipedia.org/wiki/Bullet_for_My_Valentine    # profunda
++ The Darkness |  |  |  | l | https://pt.wikipedia.org/wiki/The_Darkness_(banda)    # profunda
++ Wolfmother |  |  |  | l | https://pt.wikipedia.org/wiki/Wolfmother    # profunda
++ Kasabian |  |  |  | l | https://pt.wikipedia.org/wiki/Kasabian    # profunda
++ The Hives |  |  |  | l | https://pt.wikipedia.org/wiki/The_Hives    # profunda
++ Interpol |  |  |  | l | https://pt.wikipedia.org/wiki/Interpol_(banda)    # profunda
+~ Guns N' Roses | GNR;GN'R | https://pt.wikipedia.org/wiki/Guns_N'_Roses    # generica
+~ Led Zeppelin | Led Zep | https://pt.wikipedia.org/wiki/Led_Zeppelin    # generica
+~ Black Sabbath | Sabbath | https://pt.wikipedia.org/wiki/Black_Sabbath    # generica
+~ Iron Maiden | Maiden | https://pt.wikipedia.org/wiki/Iron_Maiden    # generica
+~ Ramones | The Ramones | https://pt.wikipedia.org/wiki/Ramones    # generica
+~ Eagles | The Eagles | https://pt.wikipedia.org/wiki/Eagles_(banda)    # generica
+~ The Police | Police | https://pt.wikipedia.org/wiki/The_Police    # generica
+~ The Cure | Cure | https://pt.wikipedia.org/wiki/The_Cure    # generica
+~ The Clash | Clash | https://pt.wikipedia.org/wiki/The_Clash    # generica
+~ Avenged Sevenfold | A7X | https://pt.wikipedia.org/wiki/Avenged_Sevenfold    # generica
+~ Rage Against the Machine | Rage | https://pt.wikipedia.org/wiki/Rage_Against_the_Machine    # generica
+~ System of a Down | System | https://pt.wikipedia.org/wiki/System_of_a_Down    # generica
+
+== mint-cantores-pop    # Cite um(a) cantor(a) pop internacional
++ Elvis Presley | Elvis;Rei do Rock |  |  | c | https://pt.wikipedia.org/wiki/Elvis_Presley    # generica
++ Frank Sinatra | Sinatra |  |  | i | https://pt.wikipedia.org/wiki/Frank_Sinatra    # generica
++ Tom Jones |  |  |  | r | https://pt.wikipedia.org/wiki/Tom_Jones    # generica
++ Adam Levine |  |  |  | r | https://pt.wikipedia.org/wiki/Adam_Levine    # generica
++ John Mayer |  |  |  | r | https://pt.wikipedia.org/wiki/John_Mayer    # generica
+- Jack Johnson |  |  |  | r | https://en.wikipedia.org/wiki/Jack_Johnson_(musician)    # generica # REJ: não é cantor pop (soft rock/folk acústico)
++ Dido |  |  |  | r | https://pt.wikipedia.org/wiki/Dido_(cantora)    # generica
++ Anne-Marie |  |  |  | e | https://en.wikipedia.org/wiki/Anne-Marie_(singer)    # generica
++ Stevie Wonder |  |  |  | i | https://pt.wikipedia.org/wiki/Stevie_Wonder    # profunda
++ Usher |  |  |  | i | https://en.wikipedia.org/wiki/Usher_(musician)    # profunda
++ Chris Brown |  |  |  | i | https://pt.wikipedia.org/wiki/Chris_Brown    # profunda
++ Alicia Keys |  |  |  | i | https://pt.wikipedia.org/wiki/Alicia_Keys    # profunda
++ Tina Turner |  |  |  | i | https://pt.wikipedia.org/wiki/Tina_Turner    # profunda
++ Amy Winehouse |  |  |  | i | https://pt.wikipedia.org/wiki/Amy_Winehouse    # profunda
++ David Bowie | Bowie |  |  | r | https://pt.wikipedia.org/wiki/David_Bowie    # profunda
++ Diana Ross |  |  |  | r | https://pt.wikipedia.org/wiki/Diana_Ross    # profunda
++ Donna Summer |  |  |  | r | https://pt.wikipedia.org/wiki/Donna_Summer    # profunda
++ Gloria Estefan |  |  |  | r | https://pt.wikipedia.org/wiki/Gloria_Estefan    # profunda
++ Marc Anthony |  |  |  | r | https://pt.wikipedia.org/wiki/Marc_Anthony    # profunda
++ Luis Fonsi |  |  |  | r | https://pt.wikipedia.org/wiki/Luis_Fonsi    # profunda
++ Luis Miguel |  |  |  | r | https://pt.wikipedia.org/wiki/Luis_Miguel    # profunda
++ Laura Pausini |  |  |  | r | https://pt.wikipedia.org/wiki/Laura_Pausini    # profunda
++ Thalía |  |  |  | r | https://pt.wikipedia.org/wiki/Thal%C3%ADa    # profunda
++ Michael Bublé |  |  |  | r | https://pt.wikipedia.org/wiki/Michael_Bubl%C3%A9    # profunda
++ Sting |  |  |  | r | https://pt.wikipedia.org/wiki/Sting_(m%C3%BAsico)    # profunda
++ Bryan Adams |  |  |  | r | https://pt.wikipedia.org/wiki/Bryan_Adams    # profunda
++ Rod Stewart |  |  |  | r | https://pt.wikipedia.org/wiki/Rod_Stewart    # profunda
++ Billy Joel |  |  |  | r | https://pt.wikipedia.org/wiki/Billy_Joel    # profunda
++ Bonnie Tyler |  |  |  | r | https://pt.wikipedia.org/wiki/Bonnie_Tyler    # profunda
++ Olivia Newton-John |  |  |  | r | https://pt.wikipedia.org/wiki/Olivia_Newton-John    # profunda
++ Kelly Clarkson |  |  |  | r | https://pt.wikipedia.org/wiki/Kelly_Clarkson    # profunda
++ James Blunt |  |  |  | r | https://pt.wikipedia.org/wiki/James_Blunt    # profunda
++ John Legend |  |  |  | r | https://pt.wikipedia.org/wiki/John_Legend    # profunda
++ Pharrell Williams | Pharrell |  |  | r | https://pt.wikipedia.org/wiki/Pharrell_Williams    # profunda
++ Jason Derulo |  |  |  | r | https://pt.wikipedia.org/wiki/Jason_Derulo    # profunda
++ Ne-Yo |  |  |  | r | https://pt.wikipedia.org/wiki/Ne-Yo    # profunda
++ Zayn Malik | Zayn |  |  | r | https://pt.wikipedia.org/wiki/Zayn_Malik    # profunda
++ Nick Jonas |  |  |  | r | https://pt.wikipedia.org/wiki/Nick_Jonas    # profunda
++ Gloria Gaynor |  |  |  | r | https://pt.wikipedia.org/wiki/Gloria_Gaynor    # profunda
++ Karol G |  |  |  | r | https://pt.wikipedia.org/wiki/Karol_G    # profunda
++ Anahí |  |  |  | e | https://pt.wikipedia.org/wiki/Anah%C3%AD    # profunda
++ Dulce María |  |  |  | e | https://pt.wikipedia.org/wiki/Dulce_Mar%C3%ADa    # profunda
++ Paulina Rubio |  |  |  | e | https://pt.wikipedia.org/wiki/Paulina_Rubio    # profunda
++ Alejandro Sanz |  |  |  | e | https://pt.wikipedia.org/wiki/Alejandro_Sanz    # profunda
++ Eros Ramazzotti |  |  |  | e | https://pt.wikipedia.org/wiki/Eros_Ramazzotti    # profunda
++ Björk |  |  |  | e | https://pt.wikipedia.org/wiki/Bj%C3%B6rk    # profunda
++ Annie Lennox |  |  |  | e | https://pt.wikipedia.org/wiki/Annie_Lennox    # profunda
++ Seal |  |  |  | e | https://pt.wikipedia.org/wiki/Seal_(cantor)    # profunda
++ Boy George |  |  |  | e | https://pt.wikipedia.org/wiki/Boy_George    # profunda
++ Michael Bolton |  |  |  | e | https://pt.wikipedia.org/wiki/Michael_Bolton    # profunda
++ Toni Braxton |  |  |  | e | https://pt.wikipedia.org/wiki/Toni_Braxton    # profunda
++ Leona Lewis |  |  |  | e | https://pt.wikipedia.org/wiki/Leona_Lewis    # profunda
++ Jessica Simpson |  |  |  | e | https://pt.wikipedia.org/wiki/Jessica_Simpson    # profunda
++ Mandy Moore |  |  |  | e | https://pt.wikipedia.org/wiki/Mandy_Moore    # profunda
++ Lily Allen |  |  |  | e | https://pt.wikipedia.org/wiki/Lily_Allen    # profunda
++ Natasha Bedingfield |  |  |  | e | https://pt.wikipedia.org/wiki/Natasha_Bedingfield    # profunda
++ James Arthur |  |  |  | e | https://pt.wikipedia.org/wiki/James_Arthur    # profunda
++ Ava Max |  |  |  | e | https://pt.wikipedia.org/wiki/Ava_Max    # profunda
++ Bebe Rexha |  |  |  | e | https://pt.wikipedia.org/wiki/Bebe_Rexha    # profunda
++ Rita Ora |  |  |  | e | https://pt.wikipedia.org/wiki/Rita_Ora    # profunda
++ Becky G |  |  |  | e | https://pt.wikipedia.org/wiki/Becky_G    # profunda
++ Niall Horan |  |  |  | e | https://pt.wikipedia.org/wiki/Niall_Horan    # profunda
++ Louis Tomlinson |  |  |  | e | https://pt.wikipedia.org/wiki/Louis_Tomlinson    # profunda
++ Liam Payne |  |  |  | e | https://pt.wikipedia.org/wiki/Liam_Payne    # profunda
++ Mika |  |  |  | e | https://pt.wikipedia.org/wiki/Mika_(cantor)    # profunda
++ Jason Mraz |  |  |  | e | https://pt.wikipedia.org/wiki/Jason_Mraz    # profunda
+- Hozier |  |  |  | e | https://en.wikipedia.org/wiki/Hozier_(musician)    # profunda # REJ: não é cantor pop (soul/blues/indie rock/folk)
++ Teddy Swims |  |  |  | e | https://pt.wikipedia.org/wiki/Teddy_Swims    # profunda
++ Ciara |  |  |  | e | https://pt.wikipedia.org/wiki/Ciara    # profunda
++ Nicole Scherzinger |  |  |  | e | https://pt.wikipedia.org/wiki/Nicole_Scherzinger    # profunda
++ Kelly Rowland |  |  |  | e | https://pt.wikipedia.org/wiki/Kelly_Rowland    # profunda
++ Aaliyah |  |  |  | e | https://pt.wikipedia.org/wiki/Aaliyah    # profunda
++ Khalid |  |  |  | e | https://en.wikipedia.org/wiki/Khalid_(singer)    # profunda
++ Gracie Abrams |  |  |  | e | https://pt.wikipedia.org/wiki/Gracie_Abrams    # profunda
++ Shania Twain |  |  |  | e | https://pt.wikipedia.org/wiki/Shania_Twain    # profunda
++ Robin Thicke |  |  |  | e | https://pt.wikipedia.org/wiki/Robin_Thicke    # profunda
++ Richard Marx |  |  |  | l | https://pt.wikipedia.org/wiki/Richard_Marx    # profunda
++ Belinda Carlisle |  |  |  | l | https://pt.wikipedia.org/wiki/Belinda_Carlisle    # profunda
++ Tiziano Ferro |  |  |  | l | https://pt.wikipedia.org/wiki/Tiziano_Ferro    # profunda
++ Duffy |  |  |  | l | https://en.wikipedia.org/wiki/Duffy_(singer)    # profunda
++ Madison Beer |  |  |  | l | https://pt.wikipedia.org/wiki/Madison_Beer    # profunda
++ Conan Gray |  |  |  | l | https://pt.wikipedia.org/wiki/Conan_Gray    # profunda
++ Lauv |  |  |  | l | https://pt.wikipedia.org/wiki/Lauv    # profunda
+~ Michael Jackson | MJ;Rei do Pop | https://pt.wikipedia.org/wiki/Michael_Jackson    # generica
+~ Madonna | Rainha do Pop | https://pt.wikipedia.org/wiki/Madonna_(cantora)    # generica
+~ Christina Aguilera | Aguilera | https://pt.wikipedia.org/wiki/Christina_Aguilera    # generica
+~ Taylor Swift | Swift | https://pt.wikipedia.org/wiki/Taylor_Swift    # generica
+~ Ariana Grande | Ariana | https://pt.wikipedia.org/wiki/Ariana_Grande    # generica
+~ Billie Eilish | Billie | https://pt.wikipedia.org/wiki/Billie_Eilish    # generica
+~ Dua Lipa | Dua | https://pt.wikipedia.org/wiki/Dua_Lipa    # generica
+~ Miley Cyrus | Miley | https://pt.wikipedia.org/wiki/Miley_Cyrus    # generica
+~ Katy Perry | Katy | https://pt.wikipedia.org/wiki/Katy_Perry    # generica
+~ Mariah Carey | Mariah | https://pt.wikipedia.org/wiki/Mariah_Carey    # generica
+~ Whitney Houston | Whitney | https://pt.wikipedia.org/wiki/Whitney_Houston    # generica
+~ Elton John | Elton | https://pt.wikipedia.org/wiki/Elton_John    # generica
+~ Lady Gaga | Stefani Germanotta | https://pt.wikipedia.org/wiki/Lady_Gaga    # generica
+
+== mint-musicas-beatles    # Cite uma música gravada pelos Beatles
++ I Will |  |  |  | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Glass Onion |  |  |  | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Mother Nature's Son |  |  |  | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Sexy Sadie |  |  |  | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Martha My Dear |  |  |  | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Revolution 9 |  |  |  | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ I'm So Tired |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Piggies |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Savoy Truffle |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Cry Baby Cry |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Honey Pie |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Yer Blues |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Why Don't We Do It in the Road? |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ The Continuing Story of Bungalow Bill | Bungalow Bill |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Good Night |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Don't Pass Me By |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Long, Long, Long |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ You Won't See Me |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ I'm Looking Through You |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ If I Needed Someone |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Run for Your Life |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ What Goes On |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Wait |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ I'm Only Sleeping |  |  |  | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ For No One |  |  |  | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ She Said She Said |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ And Your Bird Can Sing |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Doctor Robert |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ I Want to Tell You |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Love You To |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ I've Just Seen a Face |  |  |  | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ The Night Before |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Another Girl |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ You're Going to Lose That Girl |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ I Need You |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Act Naturally |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ It's Only Love |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Dizzy Miss Lizzy |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Things We Said Today |  |  |  | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ I'll Be Back |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Tell Me Why |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Any Time at All |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ I'll Cry Instead |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ You Can't Do That |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ I'm Happy Just to Dance with You |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Baby's in Black |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ I'll Follow the Sun |  |  |  | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Mr. Moonlight |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Kansas City | Kansas City/Hey-Hey-Hey-Hey! |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Words of Love |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Honey Don't |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Every Little Thing |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ P.S. I Love You | PS I Love You |  |  | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Do You Want to Know a Secret |  |  |  | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Misery |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Anna (Go to Him) | Anna |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Chains |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Boys |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Ask Me Why |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Baby It's You |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ A Taste of Honey |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ There's a Place |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ It Won't Be Long |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ All I've Got to Do |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Don't Bother Me |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Little Child |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Till There Was You |  |  |  | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Please Mr. Postman | Please Mister Postman |  |  | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Hold Me Tight |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ You Really Got a Hold on Me |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ I Wanna Be Your Man |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Devil in Her Heart |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Not a Second Time |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Sun King |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Mean Mr. Mustard |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Polythene Pam |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ She Came In Through the Bathroom Window |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ You Never Give Me Your Money |  |  |  | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Her Majesty |  |  |  | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ I've Got a Feeling |  |  |  | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ One After 909 |  |  |  | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Dig It |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ I Me Mine |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ For You Blue |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Maggie Mae |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Blue Jay Way |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Your Mother Should Know |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Flying |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Only a Northern Song |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ All Together Now |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ It's All Too Much |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Good Morning Good Morning |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ I'm Down |  |  |  | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Yes It Is |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ This Boy |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ She's a Woman |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Thank You Girl |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ I'll Get You |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Old Brown Shoe |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ The Inner Light |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ You Know My Name (Look Up the Number) | You Know My Name |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Long Tall Sally |  |  |  | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Matchbox |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Slow Down |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ I Call Your Name |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Bad Boy |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Everybody's Trying to Be My Baby |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ I Don't Want to Spoil the Party |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ What You're Doing |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ When I Get Home |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Wild Honey Pie |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Everybody's Got Something to Hide Except Me and My Monkey |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ Tell Me What You See |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
++ You Like Me Too Much |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_the_Beatles    # profunda
+~ With a Little Help from My Friends | With a Little Help | https://pt.wikipedia.org/wiki/With_a_Little_Help_from_My_Friends    # generica
+~ A Hard Day's Night | Hard Day's Night | https://pt.wikipedia.org/wiki/A_Hard_Day's_Night_(can%C3%A7%C3%A3o)    # generica
+- Octopus's Garden | Octopus Garden | https://pt.wikipedia.org/wiki/Octopus's_Garden    # generica # REJ: redundante (o jogo já tolera erro de digitação)
+~ The Long and Winding Road | Long and Winding Road | https://pt.wikipedia.org/wiki/The_Long_and_Winding_Road    # generica
+~ Norwegian Wood | Norwegian Wood (This Bird Has Flown) | https://pt.wikipedia.org/wiki/Norwegian_Wood_(This_Bird_Has_Flown)    # generica
+~ While My Guitar Gently Weeps | While My Guitar | https://pt.wikipedia.org/wiki/While_My_Guitar_Gently_Weeps    # generica
+
+== mint-musicas-queen    # Cite uma música do Queen
++ I Was Born to Love You |  |  |  | r | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ Scandal |  |  |  | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ The Invisible Man |  |  |  | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ One Year of Love |  |  |  | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ Gimme the Prize |  |  |  | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ Is This the World We Created...? |  |  |  | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ Teo Torriatte (Let Us Cling Together) | Teo Torriatte |  |  | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ Death on Two Legs |  |  |  | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ Lazing on a Sunday Afternoon |  |  |  | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ I'm in Love with My Car |  |  |  | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ Get Down, Make Love |  |  |  | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ Back Chat |  |  |  | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ No-One but You (Only the Good Die Young) | No-One but You |  |  | e | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ Seaside Rendezvous |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ Good Company |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ Sweet Lady |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ God Save the Queen |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ Flick of the Wrist |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ Lily of the Valley |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ In the Lap of the Gods |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ Bring Back That Leroy Brown |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ Father to Son |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ White Queen (As It Began) | White Queen |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ The Fairy Feller's Master-Stroke |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ Nevermore |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ The March of the Black Queen |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ Great King Rat |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ My Fairy King |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ Long Away |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ The Millionaire Waltz |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ All Dead, All Dead |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ It's Late |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ Jealousy |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ Let Me Entertain You |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ Dead on Time |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ Sail Away Sweet Sister |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ Need Your Loving Tonight |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ Staying Power |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ Calling All Girls |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ Tear It Up |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ Machines (or 'Back to Humans') | Machines |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ Pain Is So Close to Pleasure |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ Don't Lose Your Head |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ Rain Must Fall |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ Was It All Worth It |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ Party |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ Ride the Wild Wind |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ All God's People |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ Delilah |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ The Hitman |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ Bijou |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ It's a Beautiful Day |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ My Life Has Been Saved |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ A Winter's Tale |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ The Hero |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
++ Face It Alone |  |  |  | l | https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Queen    # profunda
+- Radio Ga Ga | Radio Gaga | https://pt.wikipedia.org/wiki/Radio_Ga_Ga    # generica # REJ: redundante (o jogo já tolera espaço/erro de digitação)
+~ We Are the Champions | Champions | https://pt.wikipedia.org/wiki/We_Are_the_Champions    # generica
+~ A Kind of Magic | Kind of Magic | https://pt.wikipedia.org/wiki/A_Kind_of_Magic    # generica
+
+== mint-rappers    # Cite um(a) rapper ou grupo de rap internacional
+- DJ Khaled |  |  |  | i | https://pt.wikipedia.org/wiki/DJ_Khaled    # generica # REJ: é DJ/produtor, não rapper
++ Tyga |  |  |  | r | https://pt.wikipedia.org/wiki/Tyga    # generica
++ Machine Gun Kelly | MGK |  |  | r | https://pt.wikipedia.org/wiki/Machine_Gun_Kelly    # generica
++ Fetty Wap |  |  |  | e | https://pt.wikipedia.org/wiki/Fetty_Wap    # generica
++ Lil Peep |  |  |  | e | https://pt.wikipedia.org/wiki/Lil_Peep    # generica
++ Saweetie |  |  |  | e | https://pt.wikipedia.org/wiki/Saweetie    # generica
++ Gunna |  |  |  | e | https://pt.wikipedia.org/wiki/Gunna    # generica
++ Trippie Redd |  |  |  | e | https://pt.wikipedia.org/wiki/Trippie_Redd    # generica
++ Lil Tecca |  |  |  | e | https://pt.wikipedia.org/wiki/Lil_Tecca    # generica
++ Diddy | Puff Daddy;P. Diddy;Sean Combs |  |  | r | https://pt.wikipedia.org/wiki/Diddy    # profunda
++ DMX |  |  |  | r | https://pt.wikipedia.org/wiki/DMX_(rapper)    # profunda
++ Rick Ross |  |  |  | r | https://pt.wikipedia.org/wiki/Rick_Ross    # profunda
++ Migos |  |  |  | r | https://pt.wikipedia.org/wiki/Migos    # profunda
++ Soulja Boy |  |  |  | r | https://pt.wikipedia.org/wiki/Soulja_Boy    # profunda
++ Tekashi 6ix9ine | 6ix9ine |  |  | r | https://en.wikipedia.org/wiki/6ix9ine    # profunda
++ Grandmaster Flash |  |  |  | r | https://pt.wikipedia.org/wiki/Grandmaster_Flash    # profunda
++ Meek Mill |  |  |  | e | https://pt.wikipedia.org/wiki/Meek_Mill    # profunda
++ Big Sean |  |  |  | e | https://pt.wikipedia.org/wiki/Big_Sean    # profunda
++ Common |  |  |  | e | https://pt.wikipedia.org/wiki/Common_(rapper)    # profunda
++ Fat Joe |  |  |  | e | https://pt.wikipedia.org/wiki/Fat_Joe    # profunda
++ Ja Rule |  |  |  | e | https://pt.wikipedia.org/wiki/Ja_Rule    # profunda
+- Ol' Dirty Bastard |  |  |  | e | https://pt.wikipedia.org/wiki/Ol'_Dirty_Bastard    # profunda # REJ: nome com palavrão em inglês
++ Xzibit |  |  |  | e | https://pt.wikipedia.org/wiki/Xzibit    # profunda
++ Warren G |  |  |  | e | https://pt.wikipedia.org/wiki/Warren_G    # profunda
++ Nate Dogg |  |  |  | e | https://pt.wikipedia.org/wiki/Nate_Dogg    # profunda
++ The Game |  |  |  | e | https://pt.wikipedia.org/wiki/The_Game_(rapper)    # profunda
++ Bone Thugs-N-Harmony |  |  |  | e | https://pt.wikipedia.org/wiki/Bone_Thugs-N-Harmony    # profunda
++ Gucci Mane |  |  |  | e | https://pt.wikipedia.org/wiki/Gucci_Mane    # profunda
++ Eve |  |  |  | e | https://pt.wikipedia.org/wiki/Eve_(rapper)    # profunda
++ Stormzy |  |  |  | e | https://pt.wikipedia.org/wiki/Stormzy    # profunda
++ Central Cee |  |  |  | e | https://pt.wikipedia.org/wiki/Central_Cee    # profunda
++ MC Solaar |  |  |  | e | https://pt.wikipedia.org/wiki/MC_Solaar    # profunda
++ Gims | Maître Gims |  |  | e | https://en.wikipedia.org/wiki/Gims    # profunda
++ Residente |  |  |  | e | https://en.wikipedia.org/wiki/Residente    # profunda
++ Calle 13 |  |  |  | e | https://en.wikipedia.org/wiki/Calle_13_(band)    # profunda
++ G-Eazy |  |  |  | e | https://pt.wikipedia.org/wiki/G-Eazy    # profunda
++ Lil Pump |  |  |  | e | https://pt.wikipedia.org/wiki/Lil_Pump    # profunda
++ Jack Harlow |  |  |  | e | https://pt.wikipedia.org/wiki/Jack_Harlow    # profunda
++ Quavo |  |  |  | e | https://pt.wikipedia.org/wiki/Quavo    # profunda
++ Offset |  |  |  | e | https://pt.wikipedia.org/wiki/Offset_(rapper)    # profunda
++ Kodak Black |  |  |  | e | https://pt.wikipedia.org/wiki/Kodak_Black    # profunda
++ NF |  |  |  | e | https://pt.wikipedia.org/wiki/NF_(rapper)    # profunda
++ Bow Wow |  |  |  | e | https://en.wikipedia.org/wiki/Bow_Wow_(rapper)    # profunda
++ Lil Yachty |  |  |  | e | https://pt.wikipedia.org/wiki/Lil_Yachty    # profunda
++ Young Thug |  |  |  | e | https://pt.wikipedia.org/wiki/Young_Thug    # profunda
++ DaBaby |  |  |  | e | https://pt.wikipedia.org/wiki/DaBaby    # profunda
++ A Tribe Called Quest |  |  |  | e | https://pt.wikipedia.org/wiki/A_Tribe_Called_Quest    # profunda
++ The Roots |  |  |  | e | https://pt.wikipedia.org/wiki/The_Roots    # profunda
++ Kris Kross |  |  |  | e | https://pt.wikipedia.org/wiki/Kris_Kross    # profunda
++ Sugarhill Gang | The Sugarhill Gang |  |  | e | https://pt.wikipedia.org/wiki/Sugarhill_Gang    # profunda
++ Doechii |  |  |  | e | https://pt.wikipedia.org/wiki/Doechii    # profunda
++ Rae Sremmurd |  |  |  | e | https://pt.wikipedia.org/wiki/Rae_Sremmurd    # profunda
+- Afrika Bambaataa |  |  |  | l | https://pt.wikipedia.org/wiki/Afrika_Bambaataa    # profunda # REJ: é DJ/produtor, não rapper
++ Rakim | Eric B. & Rakim |  |  | l | https://pt.wikipedia.org/wiki/Rakim    # profunda
++ KRS-One |  |  |  | l | https://pt.wikipedia.org/wiki/KRS-One    # profunda
++ Slick Rick |  |  |  | l | https://pt.wikipedia.org/wiki/Slick_Rick    # profunda
++ Big Pun | Big Punisher |  |  | l | https://pt.wikipedia.org/wiki/Big_Pun    # profunda
++ Big L |  |  |  | l | https://pt.wikipedia.org/wiki/Big_L    # profunda
++ Mos Def | Yasiin Bey |  |  | l | https://pt.wikipedia.org/wiki/Mos_Def    # profunda
++ Ghostface Killah |  |  |  | l | https://pt.wikipedia.org/wiki/Ghostface_Killah    # profunda
++ Raekwon |  |  |  | l | https://pt.wikipedia.org/wiki/Raekwon    # profunda
++ Pusha T |  |  |  | l | https://pt.wikipedia.org/wiki/Pusha_T    # profunda
++ Three 6 Mafia |  |  |  | l | https://pt.wikipedia.org/wiki/Three_6_Mafia    # profunda
++ Master P |  |  |  | l | https://pt.wikipedia.org/wiki/Master_P    # profunda
++ Juvenile |  |  |  | l | https://pt.wikipedia.org/wiki/Juvenile_(rapper)    # profunda
++ De La Soul |  |  |  | l | https://pt.wikipedia.org/wiki/De_La_Soul    # profunda
++ Gang Starr |  |  |  | l | https://pt.wikipedia.org/wiki/Gang_Starr    # profunda
++ Naughty by Nature |  |  |  | l | https://pt.wikipedia.org/wiki/Naughty_by_Nature    # profunda
++ Geto Boys |  |  |  | l | https://pt.wikipedia.org/wiki/Geto_Boys    # profunda
++ Dizzee Rascal | Dizzy Rascal |  |  | l | https://pt.wikipedia.org/wiki/Dizzee_Rascal    # profunda CORR: grafia da canônica
++ Skepta |  |  |  | l | https://pt.wikipedia.org/wiki/Skepta    # profunda
++ Lil Durk |  |  |  | l | https://pt.wikipedia.org/wiki/Lil_Durk    # profunda
++ Roddy Ricch |  |  |  | l | https://pt.wikipedia.org/wiki/Roddy_Ricch    # profunda
++ Polo G |  |  |  | l | https://pt.wikipedia.org/wiki/Polo_G    # profunda
++ Latto |  |  |  | l | https://pt.wikipedia.org/wiki/Latto    # profunda
++ GloRilla |  |  |  | l | https://pt.wikipedia.org/wiki/GloRilla    # profunda
++ Tech N9ne |  |  |  | l | https://pt.wikipedia.org/wiki/Tech_N9ne    # profunda
++ Twista |  |  |  | l | https://pt.wikipedia.org/wiki/Twista    # profunda
++ Booba |  |  |  | l | https://pt.wikipedia.org/wiki/Booba    # profunda
++ Canserbero |  |  |  | l | https://en.wikipedia.org/wiki/Canserbero    # profunda
+~ Kanye West | Ye | https://pt.wikipedia.org/wiki/Kanye_West    # generica
+~ Nicki Minaj | Nicki | https://pt.wikipedia.org/wiki/Nicki_Minaj    # generica
+~ Lil Nas X | Lil Nas | https://pt.wikipedia.org/wiki/Lil_Nas_X    # generica
+- XXXTentacion | XXX Tentacion | https://pt.wikipedia.org/wiki/XXXTentacion    # generica # REJ: redundante (o jogo já tolera espaço/erro de digitação)
+~ Childish Gambino | Donald Glover | https://pt.wikipedia.org/wiki/Childish_Gambino    # generica
+~ Lil Wayne | Weezy | https://pt.wikipedia.org/wiki/Lil_Wayne    # generica
+~ Black Eyed Peas | BEP | https://pt.wikipedia.org/wiki/Black_Eyed_Peas    # generica
+
+== mint-generos    # Cite um gênero musical de origem estrangeira (não brasileiro)
++ Electro house |  |  |  | r | https://en.wikipedia.org/wiki/Electro_house    # generica
++ Tropical house |  |  |  | r | https://en.wikipedia.org/wiki/Tropical_house    # generica
++ Hyperpop |  |  |  | e | https://en.wikipedia.org/wiki/Hyperpop    # generica
++ Neo soul |  |  |  | r | https://en.wikipedia.org/wiki/Neo_soul    # generica
++ Post-rock |  |  |  | e | https://en.wikipedia.org/wiki/Post-rock    # generica
++ Southern rock |  |  |  | e | https://en.wikipedia.org/wiki/Southern_rock    # generica
++ Blues rock |  |  |  | e | https://en.wikipedia.org/wiki/Blues_rock    # generica
++ Folk rock |  |  |  | e | https://en.wikipedia.org/wiki/Folk_rock    # generica
++ Country rock |  |  |  | e | https://en.wikipedia.org/wiki/Country_rock    # generica
++ Latin pop | Pop latino |  |  | r | https://en.wikipedia.org/wiki/Latin_pop    # generica
++ Chillout | Chill out |  |  | r | https://en.wikipedia.org/wiki/Chill-out_music    # generica
++ Vaporwave |  |  |  | e | https://en.wikipedia.org/wiki/Vaporwave    # generica
++ Phonk |  |  |  | e | https://en.wikipedia.org/wiki/Phonk    # generica
++ Hard rock |  |  |  | i | https://pt.wikipedia.org/wiki/Hard_rock    # profunda
++ Rock progressivo | Progressivo;Prog rock | Progressive rock | Rock progresivo | e | https://pt.wikipedia.org/wiki/Rock_progressivo    # profunda
++ Rock psicodélico | Psicodelia | Psychedelic rock |  | e | https://pt.wikipedia.org/wiki/Rock_psicod%C3%A9lico    # profunda
++ Glam rock |  |  |  | e | https://pt.wikipedia.org/wiki/Glam_rock    # profunda
++ Rock alternativo | Alternativo | Alternative rock |  | r | https://pt.wikipedia.org/wiki/Rock_alternativo    # profunda
++ Pop rock |  |  |  | r | https://pt.wikipedia.org/wiki/Pop_rock    # profunda
++ Pop punk |  |  |  | e | https://pt.wikipedia.org/wiki/Pop_punk    # profunda
++ Post-punk |  |  |  | l | https://pt.wikipedia.org/wiki/Post-punk    # profunda
++ Britpop |  |  |  | e | https://pt.wikipedia.org/wiki/Britpop    # profunda
++ Rock gótico | Gótico | Gothic rock |  | e | https://pt.wikipedia.org/wiki/Rock_g%C3%B3tico    # profunda
++ Surf rock |  |  |  | l | https://pt.wikipedia.org/wiki/Surf_music    # profunda
++ Garage rock |  |  |  | l | https://pt.wikipedia.org/wiki/Garage_rock    # profunda
++ Thrash metal |  |  |  | e | https://pt.wikipedia.org/wiki/Thrash_metal    # profunda
++ Death metal |  |  |  | e | https://pt.wikipedia.org/wiki/Death_metal    # profunda
++ Black metal |  |  |  | e | https://pt.wikipedia.org/wiki/Black_metal    # profunda
++ Nu metal |  |  |  | e | https://pt.wikipedia.org/wiki/Nu_metal    # profunda
++ Power metal |  |  |  | l | https://pt.wikipedia.org/wiki/Power_metal    # profunda
++ Metal sinfônico |  | Symphonic metal |  | l | https://pt.wikipedia.org/wiki/Metal_sinf%C3%B4nico    # profunda
++ Glam metal | Hair metal |  |  | l | https://pt.wikipedia.org/wiki/Glam_metal    # profunda
++ Metalcore |  |  |  | l | https://pt.wikipedia.org/wiki/Metalcore    # profunda
++ Industrial | Música industrial | Industrial music |  | l | https://pt.wikipedia.org/wiki/M%C3%BAsica_industrial    # profunda
++ Doo-wop |  |  |  | l | https://pt.wikipedia.org/wiki/Doo-wop    # profunda
++ Twist |  |  |  | e | https://en.wikipedia.org/wiki/Twist_(dance)    # profunda
++ Charleston |  |  |  | l | https://pt.wikipedia.org/wiki/Charleston_(dan%C3%A7a)    # profunda
++ Big band |  |  |  | l | https://pt.wikipedia.org/wiki/Big_band    # profunda
++ Dixieland |  |  |  | l | https://pt.wikipedia.org/wiki/Dixieland    # profunda
++ Jazz fusion | Fusion |  |  | l | https://pt.wikipedia.org/wiki/Jazz_fusion    # profunda
++ Gangsta rap |  |  |  | e | https://pt.wikipedia.org/wiki/Gangsta_rap    # profunda
++ Drill |  |  |  | e | https://en.wikipedia.org/wiki/Drill_music    # profunda
++ Eurodance |  |  |  | e | https://pt.wikipedia.org/wiki/Eurodance    # profunda
++ Deep house |  |  |  | l | https://pt.wikipedia.org/wiki/Deep_house    # profunda
++ Psytrance | Trance psicodélico |  |  | e | https://pt.wikipedia.org/wiki/Psytrance    # profunda
++ Ambient | Música ambiente | Ambient music |  | l | https://pt.wikipedia.org/wiki/M%C3%BAsica_ambiente    # profunda
++ Trip hop |  |  |  | l | https://pt.wikipedia.org/wiki/Trip_hop    # profunda
++ Dub |  |  |  | l | https://en.wikipedia.org/wiki/Dub_music    # profunda
++ Jungle |  |  |  | l | https://en.wikipedia.org/wiki/Jungle_music    # profunda
++ New age |  |  |  | l | https://pt.wikipedia.org/wiki/New_age_(m%C3%BAsica)    # profunda
++ Calipso |  | Calypso |  | l | https://pt.wikipedia.org/wiki/Calipso_(g%C3%AAnero_musical)    # profunda
++ Son cubano |  |  |  | l | https://pt.wikipedia.org/wiki/Son_cubano    # profunda
++ Chamamé |  |  |  | e | https://pt.wikipedia.org/wiki/Chamam%C3%A9    # profunda
++ Milonga |  |  |  | l | https://en.wikipedia.org/wiki/Milonga_(music)    # profunda
++ Vallenato |  |  |  | l | https://pt.wikipedia.org/wiki/Vallenato    # profunda
++ Pasodoble | Paso doble |  |  | l | https://pt.wikipedia.org/wiki/Pasodoble    # profunda
++ Morna |  |  |  | e | https://en.wikipedia.org/wiki/Morna_(music)    # profunda
++ Funaná |  |  |  | l | https://pt.wikipedia.org/wiki/Funan%C3%A1    # profunda
++ Amapiano |  |  |  | l | https://pt.wikipedia.org/wiki/Amapiano    # profunda
++ Bhangra |  |  |  | l | https://en.wikipedia.org/wiki/Bhangra_(music)    # profunda
++ City pop |  |  |  | l | https://pt.wikipedia.org/wiki/City_pop    # profunda
++ Canto gregoriano | Gregoriano | Gregorian chant |  | e | https://pt.wikipedia.org/wiki/Canto_gregoriano    # profunda
++ Opereta |  | Operetta |  | l | https://pt.wikipedia.org/wiki/Opereta    # profunda
++ Chanson | Chanson française |  |  | l | https://pt.wikipedia.org/wiki/Chanson    # profunda
++ Klezmer |  |  |  | l | https://pt.wikipedia.org/wiki/Klezmer    # profunda
++ Música celta | Celta | Celtic music |  | e | https://pt.wikipedia.org/wiki/M%C3%BAsica_celta    # profunda
++ Soft rock |  |  |  | l | https://pt.wikipedia.org/wiki/Soft_rock    # profunda
++ Dance | Dance music |  |  | r | https://pt.wikipedia.org/wiki/Dance_music    # profunda
++ Electropop |  |  |  | l | https://pt.wikipedia.org/wiki/Electropop    # profunda
++ Spiritual |  |  |  | l | https://pt.wikipedia.org/wiki/Spiritual    # profunda CORR: tirada aceita "Negro spiritual" (termo datado/sensível)
+~ Soul | Soul music | https://pt.wikipedia.org/wiki/Soul    # generica
+~ R&B | RnB;R and B | https://pt.wikipedia.org/wiki/R%26B    # generica
+~ Folk | Música folk | https://pt.wikipedia.org/wiki/M%C3%BAsica_folk    # generica
+~ Indie | Indie pop | https://pt.wikipedia.org/wiki/Indie_pop    # generica
+~ Música clássica | Clássica;Música erudita | https://pt.wikipedia.org/wiki/M%C3%BAsica_cl%C3%A1ssica    # generica

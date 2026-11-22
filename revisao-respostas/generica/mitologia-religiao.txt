@@ -1,0 +1,110 @@
+== mit-deuses-gregos
+~ Hades | Plutão | https://pt.wikipedia.org/wiki/Hades
+
+== mit-deuses-romanos
++ Esculápio | | Aesculapius | Esculapio | r | https://pt.wikipedia.org/wiki/Asclepius
++ Cibele | Magna Mater | Cybele | Cibeles | r | https://pt.wikipedia.org/wiki/Cibele
+~ Cupido | Amor | https://pt.wikipedia.org/wiki/Cupido
+
+== mit-nordica
++ Aesir | Ases;Æsir;Aesires | Aesir | Ases | i | https://pt.wikipedia.org/wiki/Aesir
++ Vanir | Vanes | Vanir | Vanir | r | https://pt.wikipedia.org/wiki/Vanir
++ Draugr | Draugar | Draugr | Draugr | r | https://pt.wikipedia.org/wiki/Draugr
++ Fafnir | Fáfnir | Fafnir | Fafnir | r | https://pt.wikipedia.org/wiki/Fafnir
++ Magni | | Magni | | e | https://pt.wikipedia.org/wiki/Magni_e_M%C3%B3%C3%B0i
++ Modi | Móði | Modi | | e | https://pt.wikipedia.org/wiki/Magni_e_M%C3%B3%C3%B0i
++ Garm | Garmr | Garm | | e | https://pt.wikipedia.org/wiki/Garm
++ Angrboda | Angrboða | Angrboda | | e | https://pt.wikipedia.org/wiki/Angrboda
+~ Huginn | Hugin | https://pt.wikipedia.org/wiki/Huginn_e_Muninn
+~ Muninn | Munin | https://pt.wikipedia.org/wiki/Huginn_e_Muninn
+~ Heimdall | Heimdallr | https://pt.wikipedia.org/wiki/Heimdall
+~ Freyr | Frey | https://pt.wikipedia.org/wiki/Freyr
+~ Idun | Iðunn;Idunn | https://pt.wikipedia.org/wiki/Idun
+~ Skadi | Skaði | https://pt.wikipedia.org/wiki/Skadi
+~ Ratatoskr | Ratatosk | https://pt.wikipedia.org/wiki/Ratatoskr
+~ Gigantes de gelo | Jotun;Jötunn;Gigantes de Jotunheim | https://pt.wikipedia.org/wiki/J%C3%B6tunn
+
+== mit-livros-biblia
+~ Mateus | Evangelho de Mateus;Evangelho segundo Mateus | https://pt.wikipedia.org/wiki/Evangelho_de_Mateus
+~ Marcos | Evangelho de Marcos;Evangelho segundo Marcos | https://pt.wikipedia.org/wiki/Evangelho_de_Marcos
+~ Lucas | Evangelho de Lucas;Evangelho segundo Lucas | https://pt.wikipedia.org/wiki/Evangelho_de_Lucas
+~ Apocalipse | Apocalipse de João;Revelação;Revelações | https://pt.wikipedia.org/wiki/Apocalipse_de_Jo%C3%A3o
+~ Salmos | Salmo;Livro dos Salmos | https://pt.wikipedia.org/wiki/Livro_dos_Salmos
+~ Cântico dos Cânticos | Cantar dos Cantares;Cântico de Salomão;Cantares de Salomão | https://pt.wikipedia.org/wiki/C%C3%A2ntico_dos_C%C3%A2nticos
+~ Lamentações | Lamentações de Jeremias | https://pt.wikipedia.org/wiki/Livro_das_Lamenta%C3%A7%C3%B5es
+~ Romanos | Carta aos Romanos;Epístola aos Romanos | https://pt.wikipedia.org/wiki/Ep%C3%ADstola_aos_Romanos
+~ Gálatas | Carta aos Gálatas;Epístola aos Gálatas | https://pt.wikipedia.org/wiki/Ep%C3%ADstola_aos_G%C3%A1latas
+~ Efésios | Carta aos Efésios;Epístola aos Efésios | https://pt.wikipedia.org/wiki/Ep%C3%ADstola_aos_Ef%C3%A9sios
+~ Filipenses | Carta aos Filipenses;Epístola aos Filipenses | https://pt.wikipedia.org/wiki/Ep%C3%ADstola_aos_Filipenses
+~ Colossenses | Carta aos Colossenses;Epístola aos Colossenses | https://pt.wikipedia.org/wiki/Ep%C3%ADstola_aos_Colossenses
+~ Hebreus | Carta aos Hebreus;Epístola aos Hebreus | https://pt.wikipedia.org/wiki/Ep%C3%ADstola_aos_Hebreus
+~ Filemom | Carta a Filemom;Epístola a Filemom | https://pt.wikipedia.org/wiki/Ep%C3%ADstola_a_Filemom
+~ Tito | Carta a Tito;Epístola a Tito | https://pt.wikipedia.org/wiki/Ep%C3%ADstola_a_Tito
+~ 1 Coríntios | Primeira Carta aos Coríntios;Primeira Epístola aos Coríntios | https://pt.wikipedia.org/wiki/Primeira_Ep%C3%ADstola_aos_Cor%C3%ADntios
+~ 2 Coríntios | Segunda Carta aos Coríntios;Segunda Epístola aos Coríntios | https://pt.wikipedia.org/wiki/Segunda_Ep%C3%ADstola_aos_Cor%C3%ADntios
+~ 1 Tessalonicenses | Primeira Carta aos Tessalonicenses;Primeira Epístola aos Tessalonicenses | https://pt.wikipedia.org/wiki/Primeira_Ep%C3%ADstola_aos_Tessalonicenses
+~ 2 Tessalonicenses | Segunda Carta aos Tessalonicenses;Segunda Epístola aos Tessalonicenses | https://pt.wikipedia.org/wiki/Segunda_Ep%C3%ADstola_aos_Tessalonicenses
+~ 1 Timóteo | Primeira Carta a Timóteo;Primeira Epístola a Timóteo | https://pt.wikipedia.org/wiki/Primeira_Ep%C3%ADstola_a_Tim%C3%B3teo
+~ 2 Timóteo | Segunda Carta a Timóteo;Segunda Epístola a Timóteo | https://pt.wikipedia.org/wiki/Segunda_Ep%C3%ADstola_a_Tim%C3%B3teo
+~ Tiago | Carta de Tiago;Epístola de Tiago | https://pt.wikipedia.org/wiki/Ep%C3%ADstola_de_Tiago
+~ 1 Pedro | Primeira Carta de Pedro;Primeira Epístola de Pedro | https://pt.wikipedia.org/wiki/Primeira_Ep%C3%ADstola_de_Pedro
+~ 2 Pedro | Segunda Carta de Pedro;Segunda Epístola de Pedro | https://pt.wikipedia.org/wiki/Segunda_Ep%C3%ADstola_de_Pedro
+~ 1 João | Primeira Carta de João;Primeira Epístola de João | https://pt.wikipedia.org/wiki/Primeira_Ep%C3%ADstola_de_Jo%C3%A3o
+~ Judas | Carta de Judas;Epístola de Judas | https://pt.wikipedia.org/wiki/Ep%C3%ADstola_de_Judas
+~ Sabedoria | Sabedoria de Salomão | https://pt.wikipedia.org/wiki/Livro_da_Sabedoria
+
+== mit-personagens-biblicos
++ Ismael | | Ishmael | Ismael | i | https://pt.wikipedia.org/wiki/Ismael
++ Rainha de Sabá | Rainha de Sheba | Queen of Sheba | Reina de Saba | i | https://pt.wikipedia.org/wiki/Rainha_de_Sab%C3%A1
++ Miriã | Míriam;Miriam | Miriam | Miriam | r | https://pt.wikipedia.org/wiki/Miri%C3%A3
++ José de Arimateia | | Joseph of Arimathea | José de Arimatea | r | https://pt.wikipedia.org/wiki/Jos%C3%A9_de_Arimateia
++ Arcanjo Rafael | Rafael;São Rafael | Raphael | Rafael | r | https://pt.wikipedia.org/wiki/Rafael_(arcanjo)
++ Agar | | Hagar | Agar | r | https://pt.wikipedia.org/wiki/Agar
++ Calebe | | Caleb | Caleb | r | https://pt.wikipedia.org/wiki/Calebe
++ Jessé | | Jesse | Isaí | r | https://pt.wikipedia.org/wiki/Jess%C3%A9
++ Jônatas | | Jonathan | Jonatán | r | https://pt.wikipedia.org/wiki/J%C3%B4natas
++ Jetro | | Jethro | Jetro | r | https://pt.wikipedia.org/wiki/Jetro
++ Mardoqueu | | Mordecai | Mardoqueo | r | https://pt.wikipedia.org/wiki/Mardoqueu
++ Herodias | | Herodias | | r | https://pt.wikipedia.org/wiki/Herod%C3%ADades
++ Barnabé | | Barnabas | Bernabé | r | https://pt.wikipedia.org/wiki/Barnab%C3%A9
++ Matias | | Matthias | Matías | e | https://pt.wikipedia.org/wiki/Matias_(ap%C3%B3stolo)
++ Judas Tadeu | Tadeu;São Judas Tadeu | Jude Thaddaeus;Thaddaeus | Judas Tadeo | r | https://pt.wikipedia.org/wiki/Judas_Tadeu
++ Simão Zelote | Simão, o Zelote | Simon the Zealot | Simón el Zelote | e | https://pt.wikipedia.org/wiki/Sim%C3%A3o_(ap%C3%B3stolo)
++ Silas | | Silas | | e | https://pt.wikipedia.org/wiki/Silas_(Novo_Testamento)
++ Priscila | | Priscilla | Priscila | e | https://pt.wikipedia.org/wiki/Priscila_e_%C3%81quila
++ Áquila | | Aquila | Aquila | e | https://pt.wikipedia.org/wiki/Priscila_e_%C3%81quila
++ Lídia | | Lydia | Lidia | e | https://pt.wikipedia.org/wiki/L%C3%ADdia_(B%C3%ADblia)
++ Cornélio | | Cornelius | Cornelio | e | https://pt.wikipedia.org/wiki/Corn%C3%A9lio_(centuri%C3%A3o)
++ Ananias | | Ananias | | e | https://pt.wikipedia.org/wiki/Ananias
++ Simão de Cirene | Cirineu;Simão Cirineu | Simon of Cyrene | Simón de Cirene | r | https://pt.wikipedia.org/wiki/Sim%C3%A3o_de_Cirene
+~ Jesus | Jesus de Nazaré | https://pt.wikipedia.org/wiki/Jesus
+~ Maria | Maria de Nazaré;Mãe de Jesus | https://pt.wikipedia.org/wiki/Maria_(m%C3%A3e_de_Jesus)
+~ Abraão | Abrão | https://pt.wikipedia.org/wiki/Abra%C3%A3o
+~ Jacó | Israel | https://pt.wikipedia.org/wiki/Jac%C3%B3
+~ Davi | Rei Davi | https://pt.wikipedia.org/wiki/Davi
+~ Salomão | Rei Salomão | https://pt.wikipedia.org/wiki/Salom%C3%A3o
+~ Paulo | Saulo;Saulo de Tarso | https://pt.wikipedia.org/wiki/Paulo_de_Tarso
+~ Herodes | Herodes Antipas;Herodes Magno;Herodes, o Grande | https://pt.wikipedia.org/wiki/Herodes
+~ Bartolomeu | Natanael;Nataniel | https://pt.wikipedia.org/wiki/Bartolomeu_(ap%C3%B3stolo)
+
+== mit-criaturas
++ Saci | Saci-Pererê | | | c | https://pt.wikipedia.org/wiki/Saci
++ Curupira | | | | c | https://pt.wikipedia.org/wiki/Curupira
++ Iara | Uiara;Mãe d'Água | | | c | https://pt.wikipedia.org/wiki/Iara
++ Boitatá | | | | i | https://pt.wikipedia.org/wiki/Boitat%C3%A1
++ Mula sem cabeça | | | | i | https://pt.wikipedia.org/wiki/Mula_sem_cabe%C3%A7a
++ Goblin | Goblins | Goblin | | i | https://pt.wikipedia.org/wiki/Goblin
++ Dríade | | Dryad | Dríada | i | https://pt.wikipedia.org/wiki/Dr%C3%ADade
++ Náiade | | Naiad | Náyade | i | https://pt.wikipedia.org/wiki/N%C3%A1iade
++ Hipocampo | | Hippocampus | | r | https://pt.wikipedia.org/wiki/Hipocampo_(mitologia)
+~ Pé-grande | Sasquatch | https://pt.wikipedia.org/wiki/P%C3%A9-grande
+
+== mit-folclore-brasileiro
++ Capelobo | | | | r | https://pt.wikipedia.org/wiki/Capelobo
++ Jurupari | | | | r | https://pt.wikipedia.org/wiki/Jurupari
++ Pedro Malasartes | Malasartes;Pedro Malazartes | | | r | https://pt.wikipedia.org/wiki/Pedro_Malasartes
++ Pé-de-garrafa | Pé de Garrafa | | | r | https://pt.wikipedia.org/wiki/P%C3%A9-de-garrafa
++ Teiniaguá | | | | l | https://pt.wikipedia.org/wiki/Teiniagu%C3%A1
+~ Boitatá | Mbaê-Tata;Mboitatá;Baitatá;Batatão;Biatatá;Bitatá;Boi-tatá | https://pt.wikipedia.org/wiki/Boitat%C3%A1
+~ Caipora | Caapora | https://pt.wikipedia.org/wiki/Caipora
+~ Cobra Grande | Cobra Norato;Cobra-grande | https://pt.wikipedia.org/wiki/Cobra-grande

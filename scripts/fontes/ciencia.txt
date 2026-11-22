@@ -2,7 +2,7 @@ tema: ciencia
 nome: Ciência
 
 == cie-elementos-quimicos | Cite um elemento químico | media | química;tabela periódica | https://pt.wikipedia.org/wiki/Lista_de_elementos_qu%C3%ADmicos
-@nota Vale o nome ou o símbolo (ex.: Fe).
+@nota Vale o nome ou o símbolo químico.
 Oxigênio | O;Oxigénio | Oxygen | Oxígeno | c
 Hidrogênio | H;Hidrogénio | Hydrogen | Hidrógeno | c
 Carbono | C | Carbon | | c
@@ -43,7 +43,7 @@ Boro | B | Boron | | i
 Berílio | Be | Beryllium | Berilio | i
 Bromo | Br | Bromine | | i
 Arsênio | As;Arsénio | Arsenic | Arsénico | i
-Tungstênio | W;Volfrâmio;Tungsténio | Tungsten | Wolframio | i
+Tungstênio | W;Volfrâmio;Tungsténio;Wolfram | Tungsten | Wolframio | i
 Criptônio | Kr;Crípton | Krypton | Kriptón | i
 Xenônio | Xe;Xénon | Xenon | Xenón | r
 Radônio | Rn;Rádon | Radon | Radón | r
@@ -109,20 +109,20 @@ Laurêncio | Lr | Lawrencium | Lawrencio | l
 Rutherfórdio | Rf | Rutherfordium | Rutherfordio | l
 Dúbnio | Db | Dubnium | Dubnio | l
 Seabórgio | Sg | Seaborgium | Seaborgio | l
-Bóhrio | Bh | Bohrium | Bohrio | l
+Bóhrio | Bh;Bório | Bohrium | Bohrio | l
 Hássio | Hs | Hassium | Hasio | l
 Meitnério | Mt | Meitnerium | Meitnerio | l
-Darmstádio | Ds | Darmstadtium | Darmstatio | l
+Darmstádio | Ds;Darmstácio | Darmstadtium | Darmstatio | l
 Roentgênio | Rg | Roentgenium | Roentgenio | l
 Copernício | Cn | Copernicium | Copernicio | l
-Nihônio | Nh | Nihonium | Nihonio | l
+Nihônio | Nh;Nipónio | Nihonium | Nihonio | l
 Fleróvio | Fl | Flerovium | Flerovio | l
 Moscóvio | Mc | Moscovium | Moscovio | l
 Livermório | Lv | Livermorium | Livermorio | l
-Tenesso | Ts | Tennessine | Teneso | l
+Tenesso | Ts;Tenessino | Tennessine | Teneso | l
 Oganessônio | Og | Oganesson | Oganesón | l
 
-== cie-sistema-solar | Cite um corpo celeste do Sistema Solar (planeta, planeta-anão, lua, asteroide ou cometa) | media | astronomia;planetas | https://pt.wikipedia.org/wiki/Sistema_Solar
+== cie-sistema-solar | Cite um astro do Sistema Solar (planeta, planeta-anão, satélite natural, asteroide ou cometa) | media | astronomia;planetas | https://pt.wikipedia.org/wiki/Sistema_Solar
 Sol | | Sun | | c
 Terra | | Earth | Tierra | c
 Lua | | Moon | Luna | c
@@ -134,7 +134,7 @@ Vênus | Vénus | Venus | | c
 Urano | | Uranus | | c
 Netuno | | Neptune | Neptuno | c
 Plutão | | Pluto | Plutón | c
-Cometa Halley | Halley | Halley's Comet | | i
+Cometa Halley | Halley;Cometa de Halley | Halley's Comet |  | i
 Ceres | | | | i
 Europa | | | | i
 Titã | | Titan | Titán | i
@@ -181,14 +181,154 @@ Apófis | | Apophis | | l
 Eros | | | | e
 Cometa Hale-Bopp | Hale-Bopp | | | r
 Cometa Shoemaker-Levy 9 | Shoemaker-Levy | | | l
+Higia | 10 Hygiea | Hygiea | l
+Psiquê | 16 Psyche;Psyche | e
+Ida | 243 Ida | l
+Gaspra | 951 Gaspra | l
+Itokawa | 25143 Itokawa | l
+Ryugu | 162173 Ryugu | l
+Lutécia | 21 Lutetia | Lutetia | l
+Dimorphos | Dimorfo | e
+Didymos | 65803 Didymos |  | Dídimo | l
+Cometa Encke | Encke | l
+Cometa Tempel 1 | Tempel 1 | l
+Cometa Churyumov-Gerasimenko | Churyumov-Gerasimenko;67P | e
+Cometa Hyakutake | Hyakutake | e
+Cometa Swift-Tuttle | Swift-Tuttle | e
+Cometa NEOWISE | NEOWISE | e
+Puck | l
+Jano |  | Janus | e
+Epimeteu |  | Epimetheus | Epimeteo | e
+Pã |  | Pan | l
+Dafne |  | Daphnis | Dafnis | l
+Telesto | l
+Calipso |  | Calypso | l
+Helena |  | Helene | l
+Atlas | l
+Metis | l
+Adrasteia |  | Adrastea | l
+Tebe |  | Thebe | l
+Himalia | l
+Elara | l
+Larissa |  |  | Larisa | l
+Galateia |  | Galatea | l
+Despina | l
+Náiade |  | Naiad | Náyade | l
+Talassa |  | Thalassa | Talasa | l
+Cordélia | l
+Ofélia |  | Ophelia | l
+Julieta |  | Juliet | l
+Pórcia |  | Portia | l
+Desdêmona | l
+Calibã |  | Caliban | l
+Sicorax |  | Sycorax | l
+Estige |  | Styx | Estigia | l
+Cérbero |  | Kerberos | l
+Gonggong | e
+Varuna | l
+Íxion | l
+Bianca | l
+Créssida | l
+Rosalinda | l
+Cupido | l
+Belinda | l
+Perdita | l
+Mab | l
+Francisco | l
+Estefano | l
+Trínculo | l
+Margarida | l
+Próspero | l
+Setebos | l
+Ferdinando | l
+Leda | l
+Lisiteia |  | Lysithea | l
+Ananke | Ananque | l
+Carme | l
+Pasife | Pasífae | Pasiphae | l
+Sinope | l
+Temisto |  | Themisto | l
+Carpo | l
+Valetudo | l
+Caliroe | Calírroe | Callirrhoe | l
+Megaclite | l
+Euridome | l
+Dia | l
+Euporia | l
+Ortósia | l
+Metone | l
+Anteia | Anthe | l
+Palene |  | Pallene | l
+Polideuces | l
+Aegaeon | l
+Kiviuq | l
+Ijiraq | l
+Paaliaq | l
+Skathi | l
+Albiorix | l
+Bebhionn | l
+Erriapo | Erriapus | l
+Siarnaq | l
+Tarvos | l
+Tarqeq | l
+Greip | l
+Hyrrokkin | l
+Mundilfari | l
+Járnsaxa | l
+Narvi | l
+Bergelmir | l
+Suttungr | l
+Hati | l
+Farbauti | l
+Thrymr | l
+Kari | l
+Fenrir | l
+Surtur | l
+Ymir | l
+Loge | l
+Fornjot | l
+Hipocampo |  | Hippocamp | l
+Halimede | l
+Sao | l
+Laomedeia | l
+Psámata | Psamate | l
+Neso | l
+Cometa Kohoutek | Kohoutek | Comet Kohoutek | e
+Cometa McNaught | McNaught | Comet McNaught | e
+Cometa ISON | ISON | Comet ISON | e
+Cometa Tsuchinshan-ATLAS | Tsuchinshan-ATLAS | Comet Tsuchinshan-ATLAS | e
+Cometa Ikeya-Seki | Ikeya-Seki | l
+Cometa Lovejoy | Lovejoy | Comet Lovejoy | l
+Cometa Wild 2 | Wild 2 | l
+Cometa Tempel-Tuttle | Tempel-Tuttle | l
+Cometa Borrelly | Borrelly | l
+Cometa Giacobini-Zinner | Giacobini-Zinner | l
+Cometa Biela | Biela | l
+Cometa Holmes | Holmes | l
+Cometa Lulin | Lulin | l
+Mathilde | 253 Mathilde | l
+Dáctilo | Dactyl | l
+Quíron | Chiron;2060 Chiron | l
+Cáriclo | Chariklo;10199 Chariklo | l
+Faetonte | Phaethon;3200 Phaethon | l
+Toutatis | 4179 Toutatis | l
+Cruithne | 3753 Cruithne | l
+Eunomia | 15 Eunomia | l
+Davida | 511 Davida | l
+Interamnia | 704 Interamnia | l
+Hiʻiaka | Hiiaka | l
+Namaka | l
+Vanth | l
+Weywot | l
+Salácia | l
 
 == cie-constelacoes | Cite uma das 88 constelações oficiais | dificil | astronomia;constelações | https://pt.wikipedia.org/wiki/Lista_de_constela%C3%A7%C3%B5es
 @nota Vale o nome em português ou o nome oficial em latim.
-Cruzeiro do Sul | Crux | Southern Cross | Cruz del Sur | c
+Cruzeiro do Sul | Crux;Cruz do Sul;Cruzeiro | Southern Cross | Cruz del Sur | c
 Órion | Orion;Três Marias | | | c
 Escorpião | Scorpius | | Escorpio | c
-Ursa Maior | Ursa Major | Great Bear | Osa Mayor | c
-Ursa Menor | Ursa Minor | Little Bear | Osa Menor | c
+Ursa Maior | Ursa Major;Grande Ursa | Great Bear | Osa Mayor | c
+Ursa Menor | Ursa Minor;Pequena Ursa | Little Bear | Osa Menor | c
 Áries | Carneiro | | | c
 Touro | Taurus | | Tauro | c
 Gêmeos | Gemini | | Géminis | c
@@ -208,8 +348,8 @@ Dragão | Draco | | | i
 Hércules | Hercules | | | i
 Perseu | Perseus | | | i
 Fênix | Phoenix | | | i
-Cão Maior | Canis Major | | Can Mayor | i
-Cão Menor | Canis Minor | | Can Menor | i
+Cão Maior | Canis Major;Grande Cão |  | Can Mayor | i
+Cão Menor | Canis Minor;Pequeno Cão |  | Can Menor | i
 Lira | Lyra | | | i
 Cisne | Cygnus | | | i
 Águia | Aquila | | | i
@@ -219,7 +359,7 @@ Pavão | Pavo | | | r
 Lobo | Lupus | | | r
 Lebre | Lepus | | | r
 Corvo | Corvus | | | r
-Pomba | Columba | | | r
+Pomba | Columba;Pomba de Noé |  |  | r
 Baleia | Cetus | | | r
 Golfinho | Delphinus | | | r
 Coroa Boreal | Corona Borealis | | | r
@@ -229,7 +369,7 @@ Triângulo Austral | Triangulum Australe | | | e
 Camaleão | Chamaeleon | | | e
 Lince | Lynx | | | e
 Lagarto | Lacerta | | | e
-Raposa | Vulpecula | | | e
+Raposa | Vulpecula;Raposinha |  |  | e
 Unicórnio | Monoceros | | | e
 Girafa | Camelopardalis | | | e
 Cocheiro | Auriga | | | e
@@ -240,7 +380,7 @@ Serpente | Serpens | | | e
 Erídano | Eridanus | | | e
 Leão Menor | Leo Minor | | | e
 Cães de Caça | Canes Venatici | | | l
-Cabeleira de Berenice | Coma Berenices | | | e
+Cabeleira de Berenice | Coma Berenices;Cabelo de Berenice |  |  | e
 Taça | Crater | | | e
 Grou | Grus | | | l
 Índio | Indus | | | l
@@ -255,7 +395,7 @@ Bússola | Pyxis | | | l
 Altar | Ara | | | l
 Ave do Paraíso | Apus | | | l
 Compasso | Circinus | | | l
-Escudo | Scutum | | | l
+Escudo | Scutum;Escudo de Sobieski |  |  | l
 Sextante | Sextans | | | l
 Telescópio | Telescopium | | | l
 Microscópio | Microscopium | | | l
@@ -263,10 +403,10 @@ Relógio | Horologium | | | l
 Retículo | Reticulum | | | l
 Escultor | Sculptor | | | l
 Fornalha | Fornax | | | l
-Buril | Caelum | | | l
-Pintor | Pictor | | | l
+Buril | Caelum;Cinzel |  |  | l
+Pintor | Pictor;Cavalete do Pintor |  |  | l
 Régua | Norma;Esquadro | | | l
-Oitante | Octans | | | l
+Oitante | Octans;Octante |  |  | l
 Mesa | Mensa | | | l
 Máquina Pneumática | Antlia | | | l
 Hidra Macho | Hydrus;Hidra Austral | | | l
@@ -275,15 +415,15 @@ Flecha | Sagitta | | | e
 
 == cie-cientistas | Cite um(a) cientista famoso(a) | facil | cientistas;história da ciência | https://pt.wikipedia.org/wiki/Lista_de_cientistas
 Albert Einstein | Einstein | | | c
-Isaac Newton | Newton | | | c
+Isaac Newton | Newton;Sir Isaac Newton |  |  | c
 Galileu Galilei | Galileu;Galilei | Galileo Galilei;Galileo | | c
 Charles Darwin | Darwin | | | c
-Marie Curie | Madame Curie | | | c
+Marie Curie | Madame Curie;Marie Skłodowska-Curie;Marie Sklodowska Curie |  |  | c
 Nikola Tesla | Tesla | | | c
-Thomas Edison | Edison | | | c
+Thomas Edison | Edison;Thomas Alva Edison |  |  | c
 Stephen Hawking | Hawking | | | c
 Louis Pasteur | Pasteur | | | c
-Alexander Fleming | Fleming | | | c
+Alexander Fleming | Fleming;Alexandre Fleming |  |  | c
 Santos Dumont | Alberto Santos-Dumont | | | c
 Oswaldo Cruz | | | | c
 Aristóteles | | Aristotle | | i
@@ -295,13 +435,13 @@ Arquimedes | | Archimedes | Arquímedes | i
 Pitágoras | | Pythagoras | | i
 Leonardo da Vinci | Da Vinci | | | i
 Carlos Chagas | | | | i
-Alexander Graham Bell | Graham Bell | | | i
+Alexander Graham Bell | Graham Bell;Alexandre Graham Bell |  |  | i
 Michael Faraday | Faraday | | | i
 Niels Bohr | Bohr | | | i
 Max Planck | Planck | | | i
 Werner Heisenberg | Heisenberg | | | i
 Erwin Schrödinger | Schrödinger | | | i
-Robert Oppenheimer | Oppenheimer | | | i
+Robert Oppenheimer | Oppenheimer;J. Robert Oppenheimer;Julius Robert Oppenheimer |  |  | i
 Dmitri Mendeleiev | Mendeleiev;Mendeleev | Dmitri Mendeleev | Dmitri Mendeléyev | i
 Antoine Lavoisier | Lavoisier | | | i
 Carl Sagan | Sagan | | | i
@@ -335,7 +475,7 @@ Guglielmo Marconi | Marconi | | | r
 Pierre Curie | | | | r
 Euclides | | Euclid | | r
 James Watt | | | | r
-Adolpho Lutz | | | | e
+Adolpho Lutz | Adolfo Lutz |  |  | e
 Galeno | | Galen | | e
 Gottfried Leibniz | Leibniz | | | e
 Lineu | Carl Linnaeus;Carlos Lineu | Carl Linnaeus | Carlos Linneo | e
@@ -355,6 +495,98 @@ Johanna Döbereiner | | | | l
 Mário Schenberg | | | | l
 Bertha Lutz | | | | l
 Katalin Karikó | Karikó | | | l
+Charles Babbage | Babbage | i
+Michio Kaku | Kaku | r
+Anders Celsius | Celsius | i
+Daniel Gabriel Fahrenheit | Daniel Fahrenheit;Fahrenheit | i
+William Herschel | Herschel | r
+Ludwig Boltzmann | Boltzmann | r
+Roger Penrose | Penrose | r
+Anthony Fauci | Fauci | r
+Mary Anning | r
+Emmanuelle Charpentier | Charpentier | r
+Átila Iamarino | r
+Natalia Pasternak | r
+Ricardo Galvão | Galvão | e
+Benoît Mandelbrot | Mandelbrot | e
+Pierre de Fermat | Fermat | r
+Evangelista Torricelli | Torricelli | r
+Charles-Augustin de Coulomb | Coulomb | r
+Hans Christian Ørsted | Ørsted;Oersted;Hans Christian Oersted | e
+Joseph-Louis Lagrange | Lagrange | r
+Pierre-Simon Laplace | Laplace | r
+Otto Hahn | Hahn | e
+Svante Arrhenius | Arrhenius | e
+Robert Bunsen | Bunsen | e
+August Kekulé | Kekulé | e
+Frederick Banting | Banting | e
+William Harvey | Harvey | e
+Andreas Vesalius | Vesálio;Andreas Vesálio | e
+Paracelso |  | Paracelsus | e
+Christiaan Barnard | Barnard | r
+Averróis | Ibn Rushd | Averroes | e
+Ptolomeu | Cláudio Ptolomeu | r
+Tales de Mileto | Tales | r
+Eratóstenes | e
+Demócrito | e
+Avicena | e
+Al-Khwarizmi | e
+Francis Bacon | r
+Robert Hooke | Hooke | e
+Antonie van Leeuwenhoek | Leeuwenhoek | e
+Edmond Halley | Halley | e
+Carl Friedrich Gauss | Gauss | e
+Leonhard Euler | Euler | e
+Jean-Baptiste de Lamarck | Lamarck | e
+Alexander von Humboldt | Humboldt | e
+Alfred Russel Wallace | Wallace | e
+Joseph Lister | Lister | e
+Ignaz Semmelweis | Semmelweis | e
+Santiago Ramón y Cajal | Ramón y Cajal | e
+Ivan Pavlov | Pavlov | r
+Wilhelm Röntgen | Röntgen | e
+Henri Becquerel | Becquerel | e
+Paul Dirac | Dirac | e
+Wolfgang Pauli | Pauli | e
+Louis de Broglie | De Broglie | e
+Lord Kelvin | Kelvin;William Thomson | e
+James Prescott Joule | Joule | e
+Henry Cavendish | Cavendish | e
+Emmy Noether | Noether | e
+Srinivasa Ramanujan | Ramanujan | e
+Kurt Gödel | Gödel | e
+John von Neumann | Von Neumann | e
+Claude Shannon | Shannon | e
+Tim Berners-Lee | Berners-Lee | e
+Grace Hopper | e
+Katherine Johnson | e
+Neil deGrasse Tyson | r
+Richard Dawkins | Dawkins | r
+Jean Piaget | Piaget | e
+Carl Jung | Jung | e
+Jacques Cousteau | Cousteau | r
+Jennifer Doudna | Doudna | e
+Wernher von Braun | Von Braun | e
+Konrad Lorenz | l
+Rachel Carson | l
+Vera Rubin | l
+Barbara McClintock | l
+Dorothy Hodgkin | l
+Fritz Haber | l
+Joseph Priestley | l
+Humphry Davy | l
+Emílio Ribas | e
+Landell de Moura | Padre Landell | e
+Nise da Silveira | e
+Jaqueline Goes de Jesus | e
+Mayana Zatz | l
+Artur Avila | e
+Bartolomeu de Gusmão | Padre voador | l
+Aziz Ab'Sáber | l
+Carlos Nobre | l
+Duília de Mello | l
+Manoel de Abreu | l
+Euryclides de Jesus Zerbini | Zerbini | l
 
 == cie-unidades-medida | Cite uma unidade de medida | media | física;medidas;si | https://pt.wikipedia.org/wiki/Sistema_Internacional_de_Unidades
 Metro | | Meter;Metre | | c
@@ -439,6 +671,108 @@ Micrômetro | Mícron | Micrometer | | e
 Decilitro | | Deciliter | | l
 Sievert | | | | l
 Radiano | | Radian | Radián | e
+Decímetro | dm | Decimetre | e
+Decâmetro | dam | Decametre | l
+Hectômetro | hm | Hectometre | l
+Centilitro | cl | Centilitre | e
+Hectolitro | hl | Hectolitre | l
+Picômetro | pm | Picometre | l
+Angstrom | e
+Micrograma |  | Microgram | Microgramo | e
+Barril |  | Barrel | r
+Grau | Grau de arco | Degree | Grado | r
+Grau Rankine | Rankine | l
+Grau Réaumur | Réaumur | l
+BTU | Unidade térmica britânica | British thermal unit | e
+Quilowatt | kW | Kilowatt | Kilovatio | r
+Megawatt | MW |  | Megavatio | e
+Siemens | e
+Gray | e
+Elétron-volt | eV;Electronvolt |  | Electronvoltio | e
+Gauss | e
+PSI | Libra por polegada quadrada | Pound per square inch | e
+Quilograma-força | kgf | Kilogram-force | Kilogramo-fuerza | e
+Rotação por minuto | RPM | Revolutions per minute | Revoluciones por minuto | e
+Quilômetro por hora | km/h | Kilometres per hour | Kilómetro por hora | r
+Metro por segundo | m/s | Metre per second | e
+Número de Mach | Mach | Mach number | Número Mach | e
+Dioptria |  | Dioptre | e
+Esterradiano |  | Steradian | Estereorradián | l
+Dina |  | Dyne | l
+Erg |  |  | Ergio | l
+Curie |  |  | Curio | l
+Röntgen | Roentgen | l
+Milissegundo | ms | Millisecond | Milisegundo | e
+Nanossegundo | ns | Nanosecond | Nanosegundo | l
+Petabyte | PB | e
+Bimestre | e
+Trimestre |  | Quarter | e
+Semestre |  | Semester | e
+Quinzena |  | Fortnight | Quincena | e
+Lustro |  | Lustrum | l
+Are | l
+Côvado |  | Cubit | Codo | l
+Quintal | l
+Grão |  | Grain | Grano | l
+Quartilho | l
+Saca |  | Sack | Saco | l
+Quilojoule | kJ | Kilojoule | Kilojulio | i
+Megahertz | MHz |  | Megahercio | i
+Gigahertz | GHz |  | Gigahercio | i
+Quilohertz | kHz | Kilohertz | Kilohercio | r
+Gigawatt | GW |  | Gigavatio | r
+Terawatt | TW |  | Teravatio | r
+Watt-hora | Wh | Watt-hour | Vatio-hora | i
+Ampère-hora | Ah | Ampere-hour | Amperio-hora | r
+Miliampère-hora | mAh | Milliampere-hour | Miliamperio-hora | i
+Miliampère | mA | Milliampere | Miliamperio | r
+Quilovolt | kV | Kilovolt | Kilovoltio | r
+Volt-ampère | VA |  | Voltiamperio | i
+Quilopascal | kPa | Kilopascal | r
+Hectopascal | hPa | r
+Milibar | mbar | Millibar | r
+Milha por hora | mph | Miles per hour | Milla por hora | i
+Quilômetro por litro | km/l | Kilometers per liter | r
+Exabyte | EB | e
+Zettabyte | ZB | e
+Yottabyte | YB | l
+Biênio | i
+Triênio | r
+Quadriênio | r
+Quinquênio | r
+Decênio | r
+Katal | kat | l
+Dalton | Unidade de massa atômica | e
+Bel | e
+Neper | Np | l
+Rad | e
+Rem | e
+Gal | l
+Maxwell | Mx | l
+Oersted | Ørsted | l
+Poise | l
+Stokes | St | l
+Femtômetro | fm;Fermi | Femtometer | e
+Vara | e
+Pedra |  | Stone | e
+Onça fluida | Onça líquida | Fluid ounce | Onza líquida | e
+Almude | l
+Arrátel | l
+Rutherford | l
+Barn | l
+Fot | Phot | l
+Minuto de arco | Arcminuto | Arcminute | e
+Segundo de arco | Arcsegundo | Arcsecond | e
+Massa solar |  | Solar mass | e
+Ano sideral | l
+Partes por milhão | ppm | Parts per million | i
+Newton-metro | N·m | Newton-meter | r
+Torr | l
+Quilômetro quadrado |  | Square kilometer | Kilómetro cuadrado | i
+Centímetro cúbico | cc | Cubic centimeter | i
+Centímetro quadrado |  | Square centimeter | Centímetro cuadrado | r
+Megabit | r
+Gigabit | r
 
 == cie-estudos-logia | Cite um ramo de estudo cujo nome termina em "-logia" | media | ciência;palavras | https://pt.wikipedia.org/wiki/-logia
 @nota Áreas acadêmicas, científicas ou médicas reconhecidas (pseudociências não valem).
@@ -528,3 +862,52 @@ Angiologia | | Angiology | | l
 Hepatologia | | Hepatology | | l
 Terminologia | | Terminology | | l
 Cinesiologia | | Kinesiology | | l
+Etologia |  | Ethology | e
+Etnologia |  | Ethnology | e
+Petrologia |  | Petrology | e
+Pedologia |  | Pedology;Edaphology | Edafología | e
+Geomorfologia |  | Geomorphology | e
+Hidrogeologia |  | Hydrogeology | l
+Limnologia |  | Limnology | l
+Metrologia |  | Metrology | e
+Cronologia |  | Chronology | e
+Genealogia |  | Genealogy | e
+Gemologia |  | Gemology | e
+Metodologia |  | Methodology | e
+Psicopatologia |  | Psychopathology | e
+Fenomenologia |  | Phenomenology | e
+Teleologia |  | Teleology | l
+Gnosiologia |  | Gnoseology | Gnoseología | l
+Sexologia |  | Sexology | e
+Andrologia |  | Andrology | e
+Alergologia |  | Allergology | e
+Nutrologia |  | Nutrology | e
+Coloproctologia |  | Coloproctology | e
+Cancerologia |  | Cancerology | e
+Flebologia |  | Phlebology | l
+Estomatologia |  | Stomatology | l
+Tisiologia |  | Phthisiology | l
+Dialetologia |  | Dialectology | Dialectología | l
+Fraseologia |  | Phraseology | l
+Iconologia |  | Iconology | l
+Assiriologia |  | Assyriology | Asiriología | l
+Sinologia |  | Sinology | l
+Papirologia |  | Papyrology | l
+Politologia |  | Political science | l
+Vitimologia |  | Victimology | Victimología | l
+Protozoologia |  | Protozoology | l
+Helmintologia |  | Helminthology | l
+Malacologia |  | Malacology | l
+Mastozoologia |  | Mammalogy | l
+Aracnologia |  | Arachnology | l
+Cetologia |  | Cetology | l
+Oologia |  | Oology | l
+Carcinologia |  | Carcinology | l
+Briologia |  | Bryology | l
+Ficologia |  | Phycology | l
+Dendrologia |  | Dendrology | l
+Palinologia |  | Palynology | l
+Fitopatologia |  | Plant pathology | l
+Bromatologia |  | Food science | l
+Pomologia |  | Pomology | l
+Biotecnologia |  | Biotechnology | e

@@ -1,0 +1,34 @@
+== esp-modalidades-paris-2024
++ Salto em altura |  | High jump | Salto de altura | r | https://pt.wikipedia.org/wiki/Atletismo_nos_Jogos_Ol%C3%ADmpicos_de_Ver%C3%A3o_de_2024
++ 100 metros rasos | 100 metros;Corrida de 100 metros | 100 metres;100m | 100 metros lisos | r | https://pt.wikipedia.org/wiki/Atletismo_nos_Jogos_Ol%C3%ADmpicos_de_Ver%C3%A3o_de_2024
++ Arremesso de peso | Lançamento de peso | Shot put | Lanzamiento de peso | r | https://pt.wikipedia.org/wiki/Atletismo_nos_Jogos_Ol%C3%ADmpicos_de_Ver%C3%A3o_de_2024
++ Lançamento de dardo | Dardo | Javelin throw | Lanzamiento de jabalina | r | https://pt.wikipedia.org/wiki/Atletismo_nos_Jogos_Ol%C3%ADmpicos_de_Ver%C3%A3o_de_2024
++ Lançamento de disco | Disco | Discus throw | Lanzamiento de disco | r | https://pt.wikipedia.org/wiki/Atletismo_nos_Jogos_Ol%C3%ADmpicos_de_Ver%C3%A3o_de_2024
++ Lançamento de martelo | Martelo | Hammer throw | Lanzamiento de martillo | e | https://pt.wikipedia.org/wiki/Atletismo_nos_Jogos_Ol%C3%ADmpicos_de_Ver%C3%A3o_de_2024
++ Revezamento | Revezamento 4x100;Revezamento 4x400 | Relay | Relevos | r | https://pt.wikipedia.org/wiki/Atletismo_nos_Jogos_Ol%C3%ADmpicos_de_Ver%C3%A3o_de_2024
++ Corrida com barreiras | Barreiras;110 metros com barreiras;400 metros com barreiras | Hurdles | Vallas | e | https://pt.wikipedia.org/wiki/Atletismo_nos_Jogos_Ol%C3%ADmpicos_de_Ver%C3%A3o_de_2024
++ Nado livre | Livre;Crawl | Freestyle | Estilo libre | r | https://pt.wikipedia.org/wiki/Nata%C3%A7%C3%A3o_nos_Jogos_Ol%C3%ADmpicos_de_Ver%C3%A3o_de_2024
++ Nado borboleta | Borboleta | Butterfly | Mariposa | r | https://pt.wikipedia.org/wiki/Nata%C3%A7%C3%A3o_nos_Jogos_Ol%C3%ADmpicos_de_Ver%C3%A3o_de_2024
++ Nado de costas | Costas;Nado costas | Backstroke | Espalda | r | https://pt.wikipedia.org/wiki/Nata%C3%A7%C3%A3o_nos_Jogos_Ol%C3%ADmpicos_de_Ver%C3%A3o_de_2024
++ Nado peito | Peito;Nado de peito | Breaststroke | Pecho | r | https://pt.wikipedia.org/wiki/Nata%C3%A7%C3%A3o_nos_Jogos_Ol%C3%ADmpicos_de_Ver%C3%A3o_de_2024
+~ Vôlei de praia | Voleibol de praia | https://pt.wikipedia.org/wiki/Voleibol_de_praia
+~ Ginástica de trampolim | Cama elástica;Trampolim | https://pt.wikipedia.org/wiki/Gin%C3%A1stica_de_trampolim
+~ Hóquei sobre grama | Hockey;Hóquei na grama | https://pt.wikipedia.org/wiki/H%C3%B3quei_sobre_a_relva
+~ Canoagem | Caiaque;Canoa | https://pt.wikipedia.org/wiki/Canoagem
+~ Maratona aquática | Águas abertas;Natação em águas abertas | https://pt.wikipedia.org/wiki/Maratona_aqu%C3%A1tica
+~ Saltos ornamentais | Salto ornamental | https://pt.wikipedia.org/wiki/Saltos_ornamentais
+~ Hipismo | Salto (hipismo) | https://pt.wikipedia.org/wiki/Hipismo
+~ BMX | BMX freestyle;BMX racing | https://pt.wikipedia.org/wiki/Ciclismo_BMX
+== esp-com-bola
++ Pickleball | Picklebol | Pickleball | Pickleball | i | https://pt.wikipedia.org/wiki/Pickleball
++ Raquetebol | Racquetball | Racquetball | Raquetbol | r | https://pt.wikipedia.org/wiki/Raquetebol
++ Vôlei sentado | Voleibol sentado | Sitting volleyball | Voleibol sentado | r | https://pt.wikipedia.org/wiki/Voleibol_sentado
++ Handebol de praia | Andebol de praia | Beach handball | Balonmano playa | r | https://pt.wikipedia.org/wiki/Handebol_de_praia
++ Basquete em cadeira de rodas | Basquetebol em cadeira de rodas | Wheelchair basketball | Baloncesto en silla de ruedas | r | https://pt.wikipedia.org/wiki/Basquetebol_em_cadeira_de_rodas
++ Hóquei em patins |  | Roller hockey;Rink hockey | Hockey sobre patines | r | https://pt.wikipedia.org/wiki/H%C3%B3quei_em_patins
+~ Beisebol | Basebol | https://pt.wikipedia.org/wiki/Beisebol
+~ Futebol | Futebol de campo | https://pt.wikipedia.org/wiki/Futebol
+~ Futebol americano | Football americano | https://pt.wikipedia.org/wiki/Futebol_americano
+~ Basquete | Basket | https://pt.wikipedia.org/wiki/Basquetebol
+~ Hóquei sobre grama | Hockey;Hóquei na grama | https://pt.wikipedia.org/wiki/H%C3%B3quei_sobre_a_relva
+~ Pelota basca | Jai alai;Pelota | https://pt.wikipedia.org/wiki/Pelota_basca

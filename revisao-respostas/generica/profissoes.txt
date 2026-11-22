@@ -1,0 +1,192 @@
+== pro-profissoes
++ Político | Política | Politician | Político | c | https://pt.wikipedia.org/wiki/Pol%C3%ADtico
++ Artista | | Artist | Artista | c | https://www.dicio.com.br/artista/
++ Churrasqueiro | Churrasqueira | Barbecue cook;Grill master | Parrillero | i | https://www.dicio.com.br/churrasqueiro/
++ Confeiteiro | Confeiteira | Pastry chef;Confectioner | Confitero;Pastelero | i | https://www.dicio.com.br/confeiteiro/
++ Pedicure | Pedicura | Pedicurist | Pedicuro | i | https://www.dicio.com.br/pedicure/
++ Poeta | Poetisa | Poet | Poeta | i | https://www.dicio.com.br/poeta/
++ Estatístico | Estatística | Statistician | Estadístico | i | https://www.dicio.com.br/estatistico/
++ Diretor | Diretora | Director | Director | i | https://www.dicio.com.br/diretor/
++ Produtor | Produtora | Producer | Productor | i | https://www.dicio.com.br/produtor/
++ Editor | Editora | Editor | Editor | i | https://www.dicio.com.br/editor/
++ Instrutor | Instrutora | Instructor | Instructor | i | https://www.dicio.com.br/instrutor/
++ Cardiologista | | Cardiologist | Cardiólogo | i | https://www.dicio.com.br/cardiologista/
++ Dermatologista | | Dermatologist | Dermatólogo | i | https://www.dicio.com.br/dermatologista/
++ Ginecologista | | Gynecologist | Ginecólogo | i | https://www.dicio.com.br/ginecologista/
++ Oftalmologista | | Ophthalmologist | Oftalmólogo | i | https://www.dicio.com.br/oftalmologista/
++ Ortopedista | | Orthopedist | Ortopedista | i | https://www.dicio.com.br/ortopedista/
++ Anestesista | Anestesiologista | Anesthesiologist | Anestesista | i | https://www.dicio.com.br/anestesista/
++ Neurologista | | Neurologist | Neurólogo | i | https://www.dicio.com.br/neurologista/
++ Oncologista | | Oncologist | Oncólogo | i | https://www.dicio.com.br/oncologista/
++ Urologista | | Urologist | Urólogo | i | https://www.dicio.com.br/urologista/
++ Pianista | | Pianist | Pianista | i | https://www.dicio.com.br/pianista/
++ Guitarrista | | Guitarist | Guitarrista | i | https://www.dicio.com.br/guitarrista/
++ Baterista | | Drummer | Baterista | i | https://www.dicio.com.br/baterista/
++ Violinista | | Violinist | Violinista | i | https://www.dicio.com.br/violinista/
++ Tenista | | Tennis player | Tenista | i | https://www.dicio.com.br/tenista/
++ Nadador | Nadadora | Swimmer | Nadador | i | https://www.dicio.com.br/nadador/
++ Ciclista | | Cyclist | Ciclista | i | https://www.dicio.com.br/ciclista/
++ Jogador de vôlei | Voleibolista | Volleyball player | Jugador de voleibol | i | https://www.dicio.com.br/voleibolista/
++ Jogador de basquete | Basquetebolista | Basketball player | Jugador de baloncesto | i | https://www.dicio.com.br/basquetebolista/
++ Florista | | Florist | Florista | i | https://www.dicio.com.br/florista/
++ Analista | Analista de sistemas | Analyst | Analista | i | https://www.dicio.com.br/analista/
++ Balconista | | Counter clerk | Dependiente | i | https://www.dicio.com.br/balconista/
++ Massagista | | Masseur;Masseuse | Masajista | i | https://www.dicio.com.br/massagista/
++ Esteticista | | Beautician | Esteticista | i | https://www.dicio.com.br/esteticista/
++ Paisagista | | Landscape designer | Paisajista | i | https://www.dicio.com.br/paisagista/
++ Telefonista | | Telephone operator | Telefonista | r | https://www.dicio.com.br/telefonista/
++ Streamer | | Streamer | Streamer | i | https://pt.wikipedia.org/wiki/Streamer
++ Blogueiro | Blogueira;Blogger | Blogger | Bloguero | i | https://www.dicio.com.br/blogueiro/
++ Auxiliar administrativo | Assistente administrativo | Administrative assistant | Auxiliar administrativo | i | https://www.dicio.com.br/administrativo/
++ Auxiliar de cozinha | Ajudante de cozinha | Kitchen assistant | Ayudante de cocina | i | https://www.dicio.com.br/cozinha/
++ Office boy | Contínuo | Office boy | | r | https://www.dicio.com.br/office-boy/
++ Rabino | | Rabbi | Rabino | r | https://www.dicio.com.br/rabino/
++ Monge | Monja | Monk | Monje | r | https://www.dicio.com.br/monge/
++ Bispo | | Bishop | Obispo | r | https://www.dicio.com.br/bispo/
++ Missionário | Missionária | Missionary | Misionero | r | https://www.dicio.com.br/missionario/
++ Jurista | | Jurist | Jurista | r | https://www.dicio.com.br/jurista/
++ Desembargador | Desembargadora | Appellate judge | | r | https://pt.wikipedia.org/wiki/Desembargador
++ Procurador | Procuradora | Attorney | Procurador | r | https://pt.wikipedia.org/wiki/Procurador
++ Defensor público | Defensora pública | Public defender | Defensor público | r | https://pt.wikipedia.org/wiki/Defensoria_p%C3%BAblica
++ Oficial de justiça | | Bailiff | | r | https://pt.wikipedia.org/wiki/Oficial_de_justi%C3%A7a
++ Fazendeiro | Fazendeira | Farmer;Rancher | Hacendado | i | https://www.dicio.com.br/fazendeiro/
++ Pecuarista | | Rancher | Ganadero | i | https://www.dicio.com.br/pecuarista/
++ Banqueiro | Banqueira | Banker | Banquero | i | https://www.dicio.com.br/banqueiro/
++ Parteira | Parteiro | Midwife | Partera | i | https://www.dicio.com.br/parteira/
++ Lavadeira | | Laundress | Lavandera | i | https://www.dicio.com.br/lavadeira/
++ Merendeira | | School cook | | i | https://www.dicio.com.br/merendeira/
++ Pipoqueiro | Pipoqueira | Popcorn vendor | | i | https://www.dicio.com.br/pipoqueiro/
++ Sorveteiro | Sorveteira | Ice cream vendor | Heladero | i | https://www.dicio.com.br/sorveteiro/
++ Peixeiro | Peixeira | Fishmonger | Pescadero | i | https://www.dicio.com.br/peixeiro/
++ Livreiro | Livreira | Bookseller | Librero | r | https://www.dicio.com.br/livreiro/
++ Tesoureiro | Tesoureira | Treasurer | Tesorero | r | https://www.dicio.com.br/tesoureiro/
++ Empilhadeirista | Operador de empilhadeira | Forklift operator | Operador de montacargas | r | https://www.dicio.com.br/empilhadeirista/
++ Estofador | Estofadora | Upholsterer | Tapicero | r | https://www.dicio.com.br/estofador/
++ Maqueiro | Maqueira | Stretcher bearer | Camillero | r | https://www.dicio.com.br/maqueiro/
++ Chapeiro | Chapeira | Short-order cook | | r | https://www.dicio.com.br/chapeiro/
++ Panfleteiro | Panfleteira | Flyer distributor | | r | https://www.dicio.com.br/panfleteiro/
++ Pamonheiro | Pamonheira | | | r | https://www.dicio.com.br/pamonheiro/
++ Sacoleiro | Sacoleira | | | r | https://www.dicio.com.br/sacoleiro/
+~ Juiz | Magistrado;Magistrada | https://pt.wikipedia.org/wiki/Magistrado
+~ Motorista | Chofer;Condutor;Motorista de ônibus;Motorista de aplicativo | https://www.dicio.com.br/chofer/
+~ Marinheiro | Marujo | https://www.dicio.com.br/marujo/
+~ Professor | Docente;Educador | https://www.dicio.com.br/docente/
+~ Atleta | Esportista;Desportista | https://www.dicio.com.br/esportista/
+~ Agricultor | Produtor rural;Camponês | https://www.dicio.com.br/campones/
+~ Dentista | Cirurgião-dentista;Odontólogo | https://pt.wikipedia.org/wiki/Cirurgi%C3%A3o-dentista
+~ Contador | Contabilista | https://www.dicio.com.br/contabilista/
+~ Piloto | Aviador | https://www.dicio.com.br/aviador/
+~ Faxineiro | Auxiliar de limpeza;Servente de limpeza | https://www.dicio.com.br/faxineiro/
+~ Engenheiro | Engenheiro mecânico;Engenheiro elétrico;Engenheiro de software;Engenheiro químico | https://pt.wikipedia.org/wiki/Engenheiro
+~ Pintor | Pintor de paredes;Pintor de obras | https://www.dicio.com.br/pintor/
+~ Bombeiro | Bombeiro militar | https://pt.wikipedia.org/wiki/Bombeiro
+~ Músico | Instrumentista | https://www.dicio.com.br/instrumentista/
+~ Escritor | Autor;Autora | https://www.dicio.com.br/autor/
+
+== pro-terminadas-ista
++ Capoeirista | | Capoeirista | Capoeirista | i | https://www.dicio.com.br/capoeirista/
++ Jurista | | Jurist | Jurista | r | https://www.dicio.com.br/jurista/
++ Violista | | Violist | Violista | r | https://www.dicio.com.br/violista/
++ Cavaquinista | | | | r | https://www.dicio.com.br/cavaquinista/
++ Voleibolista | | Volleyball player | Voleibolista | r | https://www.dicio.com.br/voleibolista/
++ Basquetebolista | | Basketball player | | r | https://www.dicio.com.br/basquetebolista/
++ Handebolista | | Handball player | | r | https://www.dicio.com.br/handebolista/
++ Beisebolista | | Baseball player | | r | https://www.dicio.com.br/beisebolista/
++ Rugbista | | Rugby player | | r | https://www.dicio.com.br/rugbista/
++ Mastologista | | Mastologist | | r | https://www.dicio.com.br/mastologista/
++ Angiologista | | Angiologist | | r | https://www.dicio.com.br/angiologista/
++ Hepatologista | | Hepatologist | | r | https://www.dicio.com.br/hepatologista/
++ Neonatologista | | Neonatologist | | r | https://www.dicio.com.br/neonatologista/
++ Intensivista | | Intensivist | Intensivista | r | https://www.dicio.com.br/intensivista/
++ Traumatologista | | Traumatologist | | r | https://www.dicio.com.br/traumatologista/
++ Imunologista | | Immunologist | | r | https://www.dicio.com.br/imunologista/
++ Flebologista | | Phlebologist | | e | https://www.dicio.com.br/flebologista/
++ Timpanista | | Timpanist | | e | https://www.dicio.com.br/timpanista/
++ Cornetista | | Cornetist | Cornetista | e | https://www.dicio.com.br/cornetista/
++ Trompista | | Horn player | Trompista | e | https://www.dicio.com.br/trompista/
++ Vibrafonista | | Vibraphonist | Vibrafonista | e | https://www.dicio.com.br/vibrafonista/
++ Harmonicista | | Harmonica player | | e | https://www.dicio.com.br/harmonicista/
++ Gruísta | | Crane operator | Gruista | e | https://www.dicio.com.br/gruista/
++ Empilhadeirista | | Forklift operator | | e | https://www.dicio.com.br/empilhadeirista/
++ Orçamentista | | Estimator | | e | https://www.dicio.com.br/orcamentista/
++ Perfumista | | Perfumer | Perfumista | e | https://www.dicio.com.br/perfumista/
+
+== pro-terminadas-eiro
++ Maqueiro | Maqueira | Stretcher bearer | Camillero | r | https://www.dicio.com.br/maqueiro/
++ Chapeiro | Chapeira | Short-order cook | | r | https://www.dicio.com.br/chapeiro/
++ Panfleteiro | Panfleteira | Flyer distributor | | r | https://www.dicio.com.br/panfleteiro/
++ Pamonheiro | Pamonheira | | | r | https://www.dicio.com.br/pamonheiro/
++ Sacoleiro | Sacoleira | | | r | https://www.dicio.com.br/sacoleiro/
++ Tapioqueira | Tapioqueiro | | | r | https://www.dicio.com.br/tapioqueira/
++ Cantineiro | Cantineira | Canteen worker | | r | https://www.dicio.com.br/cantineiro/
++ Arqueiro | Arqueira | Archer | Arquero | i | https://www.dicio.com.br/arqueiro/
+~ Marceneiro | Marceneira | https://www.dicio.com.br/marceneira/
+~ Sapateiro | Sapateira | https://www.dicio.com.br/sapateira/
+~ Joalheiro | Joalheira | https://www.dicio.com.br/joalheiro/
+~ Relojoeiro | Relojoeira | https://www.dicio.com.br/relojoeiro/
+~ Pipoqueiro | Pipoqueira | https://www.dicio.com.br/pipoqueiro/
+~ Sorveteiro | Sorveteira | https://www.dicio.com.br/sorveteiro/
+~ Verdureiro | Verdureira | https://www.dicio.com.br/verdureiro/
+~ Leiteiro | Leiteira | https://www.dicio.com.br/leiteiro/
+~ Peixeiro | Peixeira | https://www.dicio.com.br/peixeiro/
+~ Churrasqueiro | Churrasqueira | https://www.dicio.com.br/churrasqueiro/
+~ Cervejeiro | Cervejeira | https://www.dicio.com.br/cervejeiro/
+~ Vaqueiro | Vaqueira | https://www.dicio.com.br/vaqueiro/
+~ Mensageiro | Mensageira | https://www.dicio.com.br/mensageiro/
+~ Livreiro | Livreira | https://www.dicio.com.br/livreiro/
+~ Pasteleiro | Pasteleira | https://www.dicio.com.br/pasteleiro/
+~ Quitandeiro | Quitandeira | https://www.dicio.com.br/quitandeiro/
+~ Bilheteiro | Bilheteira | https://www.dicio.com.br/bilheteiro/
+~ Carcereiro | Carcereira | https://www.dicio.com.br/carcereiro/
+~ Barqueiro | Barqueira | https://www.dicio.com.br/barqueiro/
+~ Hoteleiro | Hoteleira | https://www.dicio.com.br/hoteleiro/
+~ Tropeiro | Tropeira | https://www.dicio.com.br/tropeiro/
+~ Jornaleiro | Jornaleira | https://www.dicio.com.br/jornaleiro/
+~ Lavadeira | Lavadeiro | https://www.dicio.com.br/lavadeira/
+~ Passadeira | Passadeiro | https://www.dicio.com.br/passadeira/
+~ Arrumadeira | Arrumadeiro | https://www.dicio.com.br/arrumadeira/
+~ Bordadeira | Bordadeiro | https://www.dicio.com.br/bordadeira/
+~ Quituteira | Quituteiro | https://www.dicio.com.br/quituteira/
+~ Parteira | Parteiro | https://www.dicio.com.br/parteira/
+
+== pro-cursos-graduacao
++ Engenharia | | Engineering | Ingeniería | c | https://emec.mec.gov.br/
++ Ciência Política | Ciências Políticas | Political science | Ciencia política | i | https://emec.mec.gov.br/
++ Ciências Aeronáuticas | Aeronáutica | Aeronautical sciences | Ciencias aeronáuticas | r | https://emec.mec.gov.br/
++ Engenharia Eletrônica | | Electronic engineering | Ingeniería electrónica | r | https://emec.mec.gov.br/
++ Letras-Libras | Libras | Brazilian Sign Language | Lengua de señas brasileña | r | https://emec.mec.gov.br/
+~ Administração | Administração de Empresas | https://emec.mec.gov.br/
+~ Ciência da Computação | Ciências da Computação;Informática | https://emec.mec.gov.br/
+~ Letras | Língua Portuguesa;Letras Português | https://emec.mec.gov.br/
+
+== pro-cargos-publicos
++ Servidor público | Funcionário público | Civil servant | Funcionario público | c | https://pt.wikipedia.org/wiki/Servidor_p%C3%BAblico
++ Deputado | Deputada | Congressman;Representative | Diputado | c | https://pt.wikipedia.org/wiki/Deputado
++ Secretário | Secretária | Secretary | Secretario | i | https://pt.wikipedia.org/wiki/Secret%C3%A1rio_(pol%C3%ADtica)
++ Presidente do STF | Presidente do Supremo;Presidente do Supremo Tribunal Federal | Chief Justice | | r | https://pt.wikipedia.org/wiki/Presidente_do_Supremo_Tribunal_Federal
++ Presidente do TSE | Presidente do Tribunal Superior Eleitoral | | | e | https://pt.wikipedia.org/wiki/Tribunal_Superior_Eleitoral
++ Deputado distrital | Deputada distrital | | Diputado distrital | r | https://pt.wikipedia.org/wiki/Deputado_distrital
++ Chefe de gabinete | | Chief of staff | Jefe de gabinete | r | https://pt.wikipedia.org/wiki/Chefe_de_gabinete
+~ Presidente da República | Presidenta;Presidenta da República | https://pt.wikipedia.org/wiki/Presidente_do_Brasil
+~ Vice-presidente | Vice-presidente da República;Vice-presidenta | https://pt.wikipedia.org/wiki/Vice-presidente_do_Brasil
+~ Vice-governador | Vice-governadora | https://pt.wikipedia.org/wiki/Vice-governador
+~ Vice-prefeito | Vice-prefeita | https://pt.wikipedia.org/wiki/Vice-prefeito
+~ Secretário municipal | Secretária municipal | https://pt.wikipedia.org/wiki/Secret%C3%A1rio_municipal
+~ Secretário estadual | Secretária estadual;Secretária de Estado | https://pt.wikipedia.org/wiki/Secret%C3%A1rio_estadual
+~ Ministro do STF | Ministra do STF;Ministro do Supremo Tribunal Federal;Ministra do Supremo | https://pt.wikipedia.org/wiki/Supremo_Tribunal_Federal
+~ Ministro do STJ | Ministra do STJ;Ministro do Superior Tribunal de Justiça | https://pt.wikipedia.org/wiki/Superior_Tribunal_de_Justi%C3%A7a
+~ Ministro do TCU | Ministra do TCU | https://pt.wikipedia.org/wiki/Tribunal_de_Contas_da_Uni%C3%A3o
+~ Promotor de Justiça | Promotora de Justiça;Promotora | https://pt.wikipedia.org/wiki/Promotor_de_justi%C3%A7a
+~ Procurador | Procuradora;Procurador de Justiça;Procurador do Estado | https://pt.wikipedia.org/wiki/Procurador
+~ Procurador-Geral da República | Procuradora-Geral da República | https://pt.wikipedia.org/wiki/Procurador-Geral_da_Rep%C3%BAblica
+~ Delegado de polícia | Delegada de polícia;Delegada | https://pt.wikipedia.org/wiki/Delegado_de_pol%C3%ADcia
+~ Cônsul | Cônsula;Cônsul-geral | https://pt.wikipedia.org/wiki/C%C3%B4nsul
+~ Presidente do Senado | Presidente do Senado Federal | https://pt.wikipedia.org/wiki/Presidente_do_Senado_Federal_do_Brasil
+~ Auditor fiscal | Auditora fiscal;Auditor-fiscal | https://pt.wikipedia.org/wiki/Auditor-fiscal
+~ Conselheiro tutelar | Conselheira tutelar | https://pt.wikipedia.org/wiki/Conselho_tutelar
+~ Juiz de paz | Juíza de paz | https://pt.wikipedia.org/wiki/Juiz_de_paz
+~ Tabelião | Tabeliã | https://pt.wikipedia.org/wiki/Tabeli%C3%A3o
+~ Subprefeito | Subprefeita | https://pt.wikipedia.org/wiki/Subprefeitura
+~ Escrivão de polícia | Escrivã de polícia | https://pt.wikipedia.org/wiki/Escriv%C3%A3o_de_pol%C3%ADcia
+~ Chefe da Casa Civil | Ministro-Chefe da Casa Civil;Ministra da Casa Civil | https://pt.wikipedia.org/wiki/Casa_Civil_da_Presid%C3%AAncia_da_Rep%C3%BAblica
+~ Advogado-Geral da União | Advogada-Geral da União | https://pt.wikipedia.org/wiki/Advogado-Geral_da_Uni%C3%A3o

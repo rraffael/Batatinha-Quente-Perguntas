@@ -3,12 +3,12 @@ nome: História
 
 == his-presidentes-brasil | Cite um presidente do Brasil | media | brasil;política;presidentes | https://pt.wikipedia.org/wiki/Lista_de_presidentes_do_Brasil
 @atualizadoEm 2026-11
-@nota Inclui interinos que assumiram o cargo e Tancredo Neves (reconhecido por lei). Não vale Júlio Prestes, eleito mas não empossado.
-Lula | Luiz Inácio Lula da Silva | | | c
-Jair Bolsonaro | Bolsonaro | | | c
+@nota Inclui interinos que assumiram o cargo e o presidente eleito que morreu antes da posse (reconhecido por lei). Não vale Júlio Prestes, eleito mas não empossado.
+Lula | Luiz Inácio Lula da Silva;Lula da Silva;Luiz Inácio |  |  | c
+Jair Bolsonaro | Bolsonaro;Jair Messias Bolsonaro |  |  | c
 Dilma Rousseff | Dilma | | | c
 Michel Temer | Temer | | | c
-Fernando Henrique Cardoso | FHC | | | c
+Fernando Henrique Cardoso | FHC;Fernando Henrique |  |  | c
 Fernando Collor | Collor;Fernando Collor de Mello | | | c
 Getúlio Vargas | Getúlio;Vargas | | | c
 Juscelino Kubitschek | JK;Juscelino | | | c
@@ -18,38 +18,39 @@ Deodoro da Fonseca | Marechal Deodoro;Deodoro | | | c
 João Goulart | Jango | | | i
 Jânio Quadros | Jânio | | | i
 Tancredo Neves | Tancredo | | | i
-Floriano Peixoto | Floriano | | | i
-Eurico Gaspar Dutra | Dutra | | | i
-Castelo Branco | Humberto de Alencar Castelo Branco | | | i
-Costa e Silva | Artur da Costa e Silva | | | i
+Floriano Peixoto | Floriano;Marechal Floriano |  |  | i
+Eurico Gaspar Dutra | Dutra;Eurico Dutra;Marechal Dutra |  |  | i
+Castelo Branco | Humberto de Alencar Castelo Branco;Humberto Castelo Branco;Marechal Castelo Branco |  |  | i
+Costa e Silva | Artur da Costa e Silva;Marechal Costa e Silva |  |  | i
 Emílio Médici | Médici;Emílio Garrastazu Médici | | | i
 Ernesto Geisel | Geisel | | | i
-João Figueiredo | Figueiredo | | | i
-Prudente de Morais | | | | r
+João Figueiredo | Figueiredo;João Baptista Figueiredo |  |  | i
+Prudente de Morais | Prudente |  |  | r
 Campos Sales | | | | r
 Rodrigues Alves | | | | r
 Washington Luís | | | | r
-Café Filho | | | | r
+Café Filho | João Café Filho |  |  | r
 Afonso Pena | | | | r
-Hermes da Fonseca | | | | r
+Hermes da Fonseca | Marechal Hermes |  |  | r
 Nilo Peçanha | | | | e
 Venceslau Brás | Wenceslau Braz | | | e
-Epitácio Pessoa | | | | e
+Epitácio Pessoa | Epitácio |  |  | e
 Artur Bernardes | | | | e
 Delfim Moreira | | | | l
 José Linhares | | | | l
 Carlos Luz | | | | l
 Nereu Ramos | | | | l
-Ranieri Mazzilli | | | | l
+Ranieri Mazzilli | Mazzilli |  |  | l
 
 == his-imperadores-romanos | Cite um imperador romano | dificil | roma;antiguidade | https://pt.wikipedia.org/wiki/Lista_de_imperadores_romanos
+@nota Imperadores de mesmo nome contam como uma resposta só; vale digitar com ou sem o número.
 Nero | | | Nerón | c
-Calígula | | Caligula | | c
+Calígula | Caio Calígula | Caligula |  | c
 Augusto | Otaviano;César Augusto;Otávio | Augustus | | c
-Constantino | Constantino, o Grande;Constantino I | Constantine | | c
+Constantino | Constantino, o Grande;Constantino I;Constantino II | Constantine;Constantine II | c
 Marco Aurélio | | Marcus Aurelius | | c
 Tibério | | Tiberius | Tiberio | i
-Cláudio | | Claudius | Claudio | i
+Cláudio | Cláudio I;Tibério Cláudio;Cláudio Gótico;Cláudio II | Claudius;Claudius Gothicus | i
 Trajano | | Trajan | | i
 Adriano | | Hadrian | | i
 Cômodo | | Commodus | Cómodo | i
@@ -71,63 +72,92 @@ Geta | | | | e
 Macrino | | Macrinus | | l
 Heliogábalo | Elagábalo | Elagabalus | | e
 Alexandre Severo | | Severus Alexander | | e
-Maximino Trácio | | Maximinus Thrax | | l
-Gordiano III | | Gordian III | | l
-Filipe, o Árabe | | Philip the Arab | Filipo el Árabe | l
+Maximino | Maximino Trácio;Maximino I;Maximino Daia;Maximino Daya;Maximino II | Maximinus;Maximinus Thrax;Maximinus Daza | l
+Gordiano | Gordiano III;Gordiano I;Gordiano II | Gordian;Gordian III;Gordian I;Gordian II | l
+Filipe | Filipe, o Árabe;Filipe I;Filipe II | Philip;Philip the Arab;Philip I;Philip II | Filipo el Árabe | l
 Décio | | Decius | Decio | l
 Valeriano | | Valerian | | e
 Galiano | | Gallienus | | l
-Cláudio Gótico | Cláudio II | Claudius Gothicus | | l
 Aureliano | | Aurelian | | e
 Probo | | Probus | | l
 Maximiano | | Maximian | | l
 Galério | | Galerius | | l
-Constâncio Cloro | | Constantius Chlorus | | l
-Constâncio II | | Constantius II | | l
+Constâncio | Constâncio Cloro;Constâncio I;Constâncio II;Constâncio III | Constantius;Constantius Chlorus;Constantius I;Constantius II;Constantius III | l
 Juliano, o Apóstata | Juliano | Julian the Apostate | Juliano el Apóstata | e
 Joviano | | Jovian | | l
-Valentiniano I | | Valentinian I | | l
+Valentiniano | Valentiniano I;Valentiniano II;Valentiniano III | Valentinian;Valentinian I;Valentinian II;Valentinian III | e
 Valente | | Valens | | l
 Graciano | | Gratian | | l
-Teodósio I | Teodósio;Teodósio, o Grande | Theodosius I | Teodosio I | r
+Teodósio | Teodósio I;Teodósio, o Grande;Teodósio II | Theodosius;Theodosius I;Theodosius II | r
 Honório | | Honorius | Honorio | l
 Arcádio | | Arcadius | | l
 Rômulo Augusto | Rômulo Augústulo | Romulus Augustulus | Rómulo Augústulo | e
+Maxêncio | Magêncio | Maxentius | Majencio | e
+Licínio | Licínio I | Licinius | e
+Constante | Constante I | Constans | e
+Treboniano Galo |  | Trebonianus Gallus | e
+Emiliano |  | Aemilian | l
+Hostiliano |  | Hostilian | l
+Volusiano |  | Volusianus | l
+Quintilo |  | Quintillus | l
+Tácito |  | Tacitus | l
+Floriano |  | Florianus | l
+Caro |  | Carus | l
+Carino |  | Carinus | l
+Numeriano |  | Numerian | l
+Severo II | Valério Severo | Severus II | l
+Pupieno |  | Pupienus | l
+Balbino |  | Balbinus | l
+Petrônio Máximo |  | Petronius Maximus | l
+Avito |  | Avitus | l
+Majoriano |  | Majorian | Mayoriano | l
+Líbio Severo | Severo III | Libius Severus | l
+Antêmio |  | Anthemius | l
+Olíbrio |  | Olybrius | l
+Glicério |  | Glycerius | l
+Júlio Nepos |  | Julius Nepos | Julio Nepote | l
+Marciano |  | Marcian | l
+Leão | Leão I;Leão II | Leo;Leo I;Leo II | León;León I;León II | l
+Zenão | Zeno |  | Zenón | l
+Basilisco |  | Basiliscus | l
+Diadumeniano |  | Diadumenian | l
+Herênio Etrusco |  | Herennius Etruscus | l
+Saloniano |  | Saloninus | l
 
 == his-guerras | Cite uma guerra, revolta ou conflito armado da história | media | guerras;conflitos | https://pt.wikipedia.org/wiki/Lista_de_guerras
-Segunda Guerra Mundial | 2ª Guerra Mundial;II Guerra Mundial | World War II;WWII;Second World War | Segunda Guerra Mundial | c
-Primeira Guerra Mundial | 1ª Guerra Mundial;I Guerra Mundial;Grande Guerra | WWI;First World War | Primera Guerra Mundial | c
+Segunda Guerra Mundial | 2ª Guerra Mundial;II Guerra Mundial;Segunda Guerra;2ª Guerra | World War II;WWII;Second World War | Segunda Guerra Mundial | c
+Primeira Guerra Mundial | 1ª Guerra Mundial;I Guerra Mundial;Grande Guerra;Primeira Guerra;1ª Guerra | WWI;First World War | Primera Guerra Mundial | c
 Guerra Fria | | Cold War | Guerra Fría | c
 Guerra do Vietnã | Guerra do Vietname | Vietnam War | Guerra de Vietnam | c
 Guerra do Paraguai | Guerra da Tríplice Aliança | Paraguayan War | Guerra del Paraguay | c
-Guerra de Canudos | Canudos | | | c
-Guerra dos Farrapos | Revolução Farroupilha | | | c
+Guerra de Canudos | Canudos;Revolta de Canudos;Campanha de Canudos |  |  | c
+Guerra dos Farrapos | Revolução Farroupilha;Farroupilha |  |  | c
 Guerra da Coreia | | Korean War | Guerra de Corea | i
-Guerra do Golfo | | Gulf War | | i
-Guerra do Iraque | | Iraq War | | i
+Guerra do Golfo | Primeira Guerra do Golfo;Operação Tempestade no Deserto | Gulf War |  | i
+Guerra do Iraque | Segunda Guerra do Golfo;Invasão do Iraque | Iraq War |  | i
 Guerra do Afeganistão | | War in Afghanistan | | i
-Guerra Civil Americana | Guerra de Secessão | American Civil War | Guerra de Secesión | i
+Guerra Civil Americana | Guerra de Secessão;Guerra Civil dos EUA;Guerra Civil dos Estados Unidos | American Civil War | Guerra de Secesión | i
 Guerra das Malvinas | | Falklands War | | i
 Guerra Civil Espanhola | | Spanish Civil War | Guerra civil española | i
-Guerra Rússia-Ucrânia | Guerra da Ucrânia;Invasão da Ucrânia | Russo-Ukrainian War | | i
+Guerra Rússia-Ucrânia | Guerra da Ucrânia;Invasão da Ucrânia;Guerra Russo-Ucraniana | Russo-Ukrainian War |  | i
 Cruzadas | | Crusades | | i
 Guerras Napoleônicas | | Napoleonic Wars | Guerras napoleónicas | i
-Guerra dos Cem Anos | | Hundred Years' War | | i
+Guerra dos Cem Anos | Guerra dos 100 Anos | Hundred Years' War |  | i
 Guerras Púnicas | | Punic Wars | | r
-Revolução Constitucionalista de 1932 | Revolução de 32;Revolução Constitucionalista | | | i
+Revolução Constitucionalista de 1932 | Revolução de 32;Revolução Constitucionalista;Revolução de 1932;Guerra Paulista |  |  | i
 Guerra do Contestado | Contestado | | | r
-Guerra dos Seis Dias | | Six-Day War | | r
-Guerra do Yom Kippur | | Yom Kippur War | | r
-Guerra dos Trinta Anos | | Thirty Years' War | | r
-Guerra dos Sete Anos | | Seven Years' War | | e
-Guerra da Independência dos Estados Unidos | Revolução Americana | American Revolutionary War | | r
+Guerra dos Seis Dias | Guerra dos 6 Dias | Six-Day War |  | r
+Guerra do Yom Kippur | Guerra de Outubro | Yom Kippur War |  | r
+Guerra dos Trinta Anos | Guerra dos 30 Anos | Thirty Years' War |  | r
+Guerra dos Sete Anos | Guerra dos 7 Anos | Seven Years' War |  | e
+Guerra da Independência dos Estados Unidos | Revolução Americana;Guerra da Independência Americana | American Revolutionary War |  | r
 Guerra Irã-Iraque | | Iran-Iraq War | | r
 Guerra da Bósnia | | Bosnian War | | r
 Guerra do Kosovo | | Kosovo War | | e
 Guerra da Crimeia | | Crimean War | | r
 Guerra Russo-Japonesa | | Russo-Japanese War | | e
 Guerra do Ópio | Guerras do Ópio | Opium Wars | | r
-Guerras Médicas | Guerras Greco-Persas | Greco-Persian Wars | | e
+Guerras Médicas | Guerras Greco-Persas;Guerras Persas | Greco-Persian Wars |  | e
 Guerra do Peloponeso | | Peloponnesian War | | e
 Guerra das Rosas | Guerra das Duas Rosas | Wars of the Roses | | r
 Guerra da Cisplatina | | Cisplatine War | | e
@@ -156,36 +186,99 @@ Guerra Anglo-Zanzibari | | Anglo-Zanzibar War | | l
 Revolução Russa | | Russian Revolution | | i
 Revolução Mexicana | | Mexican Revolution | | l
 Guerra de Independência do Brasil | Independência da Bahia | | | e
+Revolta dos Boxers | Guerra dos Boxers;Rebelião Boxer | Boxer Rebellion | Rebelión de los bóxers | r
+Guerra Soviético-Afegã | Invasão soviética do Afeganistão | Soviet-Afghan War | Guerra soviético-afgana | r
+Intifada | Primeira Intifada;Segunda Intifada | r
+Guerra dos Oitenta Anos | Guerra dos 80 Anos;Revolta Holandesa | Eighty Years War | Guerra de los Ochenta Años | e
+Invasões Holandesas | Guerra Luso-Holandesa | Dutch invasions of Brazil | i
+Conflito da Irlanda do Norte | The Troubles;Troubles |  | Conflicto de Irlanda del Norte | r
+Guerra Anglo-Zulu | Guerra Zulu | Anglo-Zulu War | e
+Guerra do Donbass |  | War in Donbas | Guerra del Donbás | r
+Revolução Liberal de 1842 | Revolta Liberal de 1842 | e
+Conflito Armado Colombiano | Guerra Civil Colombiana;Conflito na Colômbia | Colombian conflict | Conflicto armado colombiano | r
+Guerra Civil Grega |  | Greek Civil War | Guerra civil griega | e
+Guerra Russo-Turca | Guerras Russo-Turcas | Russo-Turkish War | Guerra ruso-turca | e
+Guerra Civil Irlandesa |  | Irish Civil War | e
+Rebelião Taiping | Revolta Taiping | Taiping Rebellion | Rebelión Taiping | e
+Guerra Peninsular |  | Peninsular War | Guerra de la Independencia Española | e
+Revolução Francesa |  | French Revolution | Revolución francesa | r
+Revolução de 1930 |  | Revolution of 1930 | Revolución de 1930 | r
+Revolta dos Malês |  | Malê revolt | Revuelta de los Malês | e
+Revolução Praieira | Praieira | Praieira revolt | Revolución Praieira | e
+Revolução Federalista |  | Federalist Revolution | Revolución Federalista | e
+Revolta dos 18 do Forte | Revolta do Forte de Copacabana;Os 18 do Forte | Copacabana Fort revolt | Revuelta del Fuerte de Copacabana | e
+Coluna Prestes |  | Prestes Column | Columna Prestes | e
+Intentona Comunista | Levante Comunista | Communist Uprising of 1935 | e
+Guerrilha do Araguaia |  | Araguaia Guerrilla War | Guerrilla de Araguaia | e
+Guerra Guaranítica |  | Guarani War | e
+Insurreição Pernambucana |  | Pernambucan Insurrection | Insurrección Pernambucana | e
+Revolta de Beckman |  | Beckman Revolt | Revuelta de Beckman | l
+Revolta de Filipe dos Santos | Revolta de Vila Rica | Vila Rica Revolt | l
+Guerra dos Bárbaros | Confederação dos Cariris | Barbarian War | Guerra de los Bárbaros | l
+Cabanada | l
+Revolta dos Muckers | Muckers | Mucker revolt | l
+Revolta do Quebra-Quilos | Quebra-Quilos | Quebra-Quilos revolt | l
+Guerra do Prata | Guerra contra Oribe e Rosas | Platine War | l
+Guerra Franco-Prussiana |  | Franco-Prussian War | Guerra franco-prusiana | e
+Guerras Balcânicas |  | Balkan Wars | Guerras de los Balcanes | e
+Guerra Civil Inglesa | Revolução Inglesa | English Civil War | e
+Guerras Gálicas | Guerra das Gálias | Gallic Wars | Guerra de las Galias | e
+Guerra Anglo-Americana de 1812 | Guerra de 1812 | War of 1812 | Guerra anglo-estadounidense de 1812 | e
+Guerra Mexicano-Americana |  | Mexican–American War | Intervención estadounidense en México | e
+Guerra de Inverno | Guerra Russo-Finlandesa | Winter War | Guerra de Invierno | e
+Guerra Civil Chinesa | Revolução Chinesa | Chinese Civil War | Guerra civil china | e
+Revolução Cubana |  | Cuban Revolution | Revolución cubana | r
+Guerra Israel-Hamas | Guerra de Gaza;Guerra em Gaza | Gaza war | r
+Guerra da Chechênia | Guerras da Chechênia;Guerra da Tchetchênia | Chechen wars | Guerras chechenas | e
+Guerra Civil de Ruanda | Guerra Civil Ruandesa | Rwandan Civil War | Guerra civil ruandesa | e
+Guerra Civil Angolana |  | Angolan Civil War | Guerra civil angoleña | e
+Guerra Civil Moçambicana |  | Mozambican Civil War | Guerra civil mozambiqueña | l
+Guerra de Biafra | Guerra Civil Nigeriana | Nigerian Civil War | e
+Guerra Árabe-Israelense de 1948 | Guerra da Independência de Israel | 1948 Arab–Israeli War | Guerra árabe-israelí de 1948 | e
+Crise de Suez | Guerra de Suez | Suez Crisis | Crisis de Suez | e
+Guerras Iugoslavas | Guerras da Iugoslávia | Yugoslav Wars | Guerras yugoslavas | e
+Guerra de Nagorno-Karabakh | Guerra do Alto Carabaque | Nagorno-Karabakh war | Guerra del Alto Karabaj | e
+Guerra Russo-Georgiana | Guerra da Geórgia | Russo-Georgian War | Guerra de Osetia del Sur | e
+Revolução Haitiana |  | Haitian Revolution | Revolución haitiana | e
+Reconquista | e
+Guerra da Sucessão Espanhola |  | War of the Spanish Succession | Guerra de sucesión española | l
+Guerra da Sucessão Austríaca |  | War of the Austrian Succession | Guerra de sucesión austríaca | l
+Guerra Austro-Prussiana | Guerra das Sete Semanas | Austro-Prussian War | Guerra austro-prusiana | l
+Guerra do Futebol | Guerra das Cem Horas | Football War | Guerra del Fútbol | l
+Guerra Civil do Iêmen |  | Yemeni Civil War | Guerra civil yemení | e
+Guerra Civil Líbia | Guerra da Líbia | Libyan Civil War | e
+Guerra ao Terror | Guerra contra o terrorismo | War on terror | Guerra contra el terrorismo | e
+Guerra Ítalo-Etíope | Guerra da Etiópia | Second Italo-Ethiopian War | Segunda guerra ítalo-etíope | l
 
 == his-civilizacoes-antigas | Cite uma civilização ou povo da Antiguidade (ou das Américas pré-colombianas) | media | antiguidade;civilizações | https://pt.wikipedia.org/wiki/Civiliza%C3%A7%C3%A3o
-Egípcios | Egito Antigo;Antigo Egito | Ancient Egyptians | Egipcios | c
-Romanos | Roma Antiga;Império Romano | Romans | | c
-Gregos | Grécia Antiga | Greeks | Griegos | c
+Egípcios | Egito Antigo;Antigo Egito;Egito | Ancient Egyptians | Egipcios | c
+Romanos | Roma Antiga;Império Romano;Roma | Romans |  | c
+Gregos | Grécia Antiga;Grécia;Helenos | Greeks | Griegos | c
 Maias | Maia | Maya;Mayans | Mayas | c
-Astecas | Asteca;Mexicas | Aztecs | Aztecas | c
+Astecas | Asteca;Mexicas;Azteca | Aztecs | Aztecas | c
 Incas | Inca | | | c
-Persas | Império Persa | Persians | | i
-Fenícios | | Phoenicians | Fenicios | i
+Persas | Império Persa;Pérsia | Persians |  | i
+Fenícios | Fenícia | Phoenicians | Fenicios | i
 Mesopotâmicos | Mesopotâmia | Mesopotamians | | i
-Sumérios | | Sumerians | Sumerios | i
+Sumérios | Suméria | Sumerians | Sumerios | i
 Babilônios | Babilônia | Babylonians | Babilonios | i
 Hebreus | Israelitas | Hebrews | Hebreos | i
-Chineses antigos | China Antiga | Ancient Chinese | | i
+Chineses antigos | China Antiga;Chineses | Ancient Chinese |  | i
 Celtas | | Celts | | i
-Assírios | | Assyrians | Asirios | r
+Assírios | Assíria | Assyrians | Asirios | r
 Cartagineses | Cartago | Carthaginians | | r
-Etruscos | | Etruscans | | r
+Etruscos | Etrúria | Etruscans |  | r
 Hititas | | Hittites | | r
 Olmecas | | Olmecs | | r
 Espartanos | Esparta | Spartans | | i
 Macedônios | Macedônia Antiga | Macedonians | | r
 Acádios | Império Acádio | Akkadians | | e
-Civilização do Vale do Indo | Harappa;Harappianos | Indus Valley Civilization | | e
-Minoicos | Civilização minoica | Minoans | Minoicos | e
-Micênicos | | Mycenaeans | Micénicos | e
+Civilização do Vale do Indo | Harappa;Harappianos;Vale do Indo;Civilização Indiana;Índia Antiga | Indus Valley Civilization |  | e
+Minoicos | Civilização minoica;Cretenses;Creta Minoica;Minoica | Minoans | Minoicos | e
+Micênicos | Micenas;Civilização Micênica | Mycenaeans | Micénicos | e
 Nabateus | | Nabataeans | | l
-Núbios | Cuxitas;Reino de Cuxe | Nubians;Kushites | | e
-Axumitas | Reino de Axum | Aksumites | | l
+Núbios | Cuxitas;Reino de Cuxe;Núbia | Nubians;Kushites |  | e
+Axumitas | Reino de Axum;Axum | Aksumites |  | l
 Partos | | Parthians | | l
 Citas | | Scythians | Escitas | l
 Hunos | | Huns | | r
@@ -211,36 +304,130 @@ Bretões | | Britons | | e
 Germânicos | Povos germânicos | Germanic peoples | | r
 Iberos | | Iberians | | e
 Lusitanos | | Lusitanians | | e
+Caral | Civilização Caral;Caral-Supe;Norte Chico | e
+Chachapoyas |  | Chachapoya | e
+Aruaques | Arawaks | Arawak | Arahuacos | r
+Celtiberos |  | Celtiberians | e
+Tartessos | Tartéssios |  | Tartesos | e
+Lombardos | Longobardos | Lombards | e
+Alanos |  | Alans | e
+Burgúndios |  | Burgundians | e
+Cimérios |  | Cimmerians | l
+Tebanos |  | Thebans | e
+Arameus |  | Arameans | Arameos | e
+Cananeus |  | Canaanites | Cananeos | e
+Caldeus |  | Chaldeans | Caldeos | e
+Frígios |  | Phrygians | e
+Aqueus |  | Achaeans | Aqueos | e
+Atenienses | Atenas | Athenians | e
+Trácios |  | Thracians | e
+Dácios |  | Dacians | e
+Ilírios |  | Illyrians | e
+Sabinos |  | Sabines | e
+Latinos |  | Latins | e
+Samnitas |  | Samnites | l
+Pictos |  | Picts | l
+Sármatas |  | Sarmatians | l
+Vândalos |  | Vandals | e
+Francos |  | Franks | e
+Saxões |  | Saxons | Sajones | e
+Suevos |  | Suebi | e
+Berberes |  | Berbers | Bereberes | e
+Númidas | Numídia | Numidians | e
+Garamantes | l
+Sassânidas | Império Sassânida | Sasanians | Sasánidas | e
+Mixtecas |  | Mixtecs | Mixtecos | e
+Chimus | Cultura Chimú | e
+Paracas | e
+Muíscas | Chibchas | Muisca | e
+Taínos |  | Taíno | e
+Anasazi | Pueblos ancestrais | Ancestral Puebloans | e
+Tupis | Tupi;Tupis-guaranis |  | Tupíes | r
+Guaranis |  |  | Guaraníes | r
+Tupinambás | e
+Cultura Tapajônica | Tapajós;Tapajônicos | Santarém culture | Cultura santarém | l
+Caribes | Caraíbas | Caribs | e
+Huari | Wari | l
+Purépechas | Tarascos | Purépecha | l
+Totonacas |  | Totonac | l
+Império Máuria | Máurias;Império Maurya | Maurya Empire | l
+Cultura Nok | Nok | Nok culture | l
 
 == his-faraos | Cite um faraó do Egito Antigo | dificil | egito;antiguidade | https://pt.wikipedia.org/wiki/Lista_de_fara%C3%B3s
-@nota Números importam: Ramsés II e Tutmés III são as formas aceitas para as linhagens mais famosas.
+@nota Faraós de mesmo nome contam como uma resposta só; vale digitar com ou sem o número. Valem também as dinastias estrangeiras.
 Tutancâmon | Tutankhamon;Tutancamon;Rei Tut | Tutankhamun | Tutankamón | c
-Ramsés II | Ramsés;Ramsés, o Grande | Ramesses II;Ramses II | Ramsés II | c
+Ramsés | Ramsés II;Ramsés, o Grande;Ramsés III;Ramessés III;Ramsés I;Ramessés I;Ramsés IV;Ramessés IV;Ramsés V;Ramessés V;Ramsés VI;Ramessés VI;Ramsés VII;Ramessés VII;Ramsés VIII;Ramessés VIII;Ramsés IX;Ramessés IX;Ramsés X;Ramessés X;Ramsés XI;Ramessés XI | Ramesses;Ramesses II | c
 Cleópatra VII | Cleópatra | Cleopatra | Cleopatra | c
 Quéops | Khufu | Khufu;Cheops | Keops | c
-Quéfren | Khafre | Khafre;Chephren | Kefrén | i
-Miquerinos | Menkaure | Menkaure;Mycerinus | Micerino | r
-Akhenaton | Amenófis IV;Aquenáton | Akhenaten | Akenatón | i
+Quéfren | Khafre;Chefren | Khafre;Chephren | Kefrén | i
+Miquerinos | Menkaure;Mikerinos;Micerinos | Menkaure;Mycerinus | Micerino | r
+Akhenaton | Amenófis IV;Amenhotep IV;Aquenáton | Akhenaten | Akenatón | i
 Hatshepsut | | | | i
 Djoser | Zoser | | | r
-Tutmés III | Tutmósis III | Thutmose III | Tutmosis III | r
-Amenófis III | Amenhotep III | Amenhotep III | Amenofis III | e
-Seti I | Seti | | | r
+Tutmés | Tutmés III;Tutmósis III;Tutmés I;Tutmósis I;Tutemés I;Tutmés II;Tutmósis II;Tutemés II;Tutmés IV;Tutmósis IV;Tutemés IV | Thutmose;Thutmose III;Thutmose I;Thutmose II;Thutmose IV | Tutmosis | r
+Amenófis | Amenófis III;Amenhotep III;Amenófis I;Amenhotep I;Amenófis II;Amenhotep II | Amenhotep | e
+Seti | Seti I;Seti II | r
 Narmer | | | | r
 Snefru | Seneferu | Sneferu | | e
-Pepi II | | | | l
-Mentuhotep II | | | | l
-Amenemés I | Amenemhat I | Amenemhat I | | l
-Sesóstris III | Senusret III | Senusret III | | l
-Amósis I | Ahmose I | Ahmose I | | e
+Pepi | Pepi II;Pepi I | l
+Mentuhotep | Mentuhotep I;Mentuhotep II;Mentuhotep III;Mentuhotep IV | l
+Amenemés | Amenemés I;Amenemhat I;Amenemés III;Amenemhat III;Amenemés II;Amenemés IV | Amenemhat;Amenemhat II;Amenemhat IV | l
+Sesóstris | Sesóstris III;Senusret III;Sesóstris I;Senusret I;Sesóstris II | Senusret;Senusret II | l
+Amósis I | Amósis;Ahmose I | Ahmose I | | e
 Ay | | | | l
 Horemheb | | | | e
 Merneptá | Merneptah | Merneptah | | e
-Psamético I | | Psamtik I | | l
-Necao II | | Necho II | | l
+Psamético | Psamético I;Psamético II;Psamético III | Psamtik;Psamtik I;Psamtik II;Psamtik III | l
+Necao | Necao I;Necao II | Necho;Necho I;Necho II | l
 Taharqa | | | | l
-Ptolomeu I Sóter | Ptolomeu I | Ptolemy I Soter | Ptolomeo I | e
+Ptolomeu | Ptolomeu I Sóter;Ptolomeu I;Ptolomeu II;Ptolomeu II Filadelfo;Ptolemeu II;Ptolomeu XIII;Ptolomeu III;Ptolomeu III Evérgeta;Ptolemeu III;Ptolomeu IV;Ptolomeu IV Filopátor;Ptolemeu IV;Ptolomeu V;Ptolomeu V Epifânio;Ptolemeu V;Ptolomeu VI;Ptolomeu VI Filométor;Ptolemeu VI;Ptolomeu VIII;Ptolomeu VIII Fiscão;Ptolemeu VIII;Ptolomeu IX;Ptolomeu IX Látiro;Ptolemeu IX;Ptolomeu XII;Ptolomeu XII Auleta;Ptolemeu XII;Ptolomeu XIV;Ptolemeu XIV;Ptolomeu VII;Ptolomeu X;Ptolomeu XI | Ptolemy;Ptolemy I Soter;Ptolemy II Philadelphus;Ptolemy XIII;Ptolemy III;Ptolemy IV;Ptolemy V;Ptolemy VI;Ptolemy VIII;Ptolemy IX;Ptolemy XII;Ptolemy XIV | Ptolomeo;Ptolomeo I;Ptolomeo II;Ptolomeo XIII;Ptolomeo III;Ptolomeo IV;Ptolomeo V;Ptolomeo VI;Ptolomeo VIII;Ptolomeo IX;Ptolomeo XII;Ptolomeo XIV | e
 Smenkhkare | | | | l
 Sobekneferu | | | | l
 Hor-Aha | | | | l
 Khasekhemui | | | | l
+Cesarião | Ptolomeu XV | Caesarion | Cesarión | e
+Unas | l
+Teti | l
+Userkaf | Userquerés | l
+Sahure | Sefrés |  | Sahura | l
+Djedefré | Radjedef |  | Dyedefra | l
+Shepseskaf | Seberquerés | l
+Djet |  |  | Dyet | l
+Kamose | l
+Seqenenré Tao | Seqenenre |  | Seqenenra Taa | l
+Nectanebo | Nectanebo II;Nectanebo I | l
+Amásis II | Amásis;Ahmose II | l
+Piye | Piankhi;Piiê | l
+Shabaka | Xabaca | l
+Sheshonq | Sheshonq I;Sisaque;Sisaque I | Shoshenq;Shoshenq I | l
+Alexandre, o Grande | Alexandre Magno;Alexandre III da Macedônia | Alexander the Great | Alejandro Magno | e
+Cambises II | Cambises | Cambyses II | l
+Dario | Dario I;Dario, o Grande;Dario II;Dario III | Darius;Darius I;Darius II;Darius III | l
+Apófis | Apepi;Apepi I | Apophis | e
+Khyan | l
+Amenmesse | l
+Siptah | l
+Tausert |  | Twosret;Tausret | l
+Setnakht |  | Setnakhte | l
+Smendes | l
+Psusennes | Psusennes I;Psusennes II | l
+Amenemope | l
+Osorkon | Osorkon I;Osorkon II;Osorkon III;Osorkon IV | l
+Shebitku | l
+Tanutamani |  | Tantamani | l
+Apriés | l
+Acoris |  | Hakor | l
+Neferirkare Kakai | l
+Nyuserre Ini | l
+Djedkare Isesi | l
+Menkauhor |  | Menkauhor Kaiu | l
+Merenré |  | Merenre Nemtyemsaf I | l
+Sekhemkhet | l
+Huni | l
+Sanakht | l
+Djer | l
+Den | l
+Hotepsekhemwy | l
+Peribsen | l
+Neferhotep | Neferhotep I | l
+Sobekhotep | Sobekhotep IV | l

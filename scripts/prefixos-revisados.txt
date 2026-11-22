@@ -1,0 +1,20 @@
+# Pares de prefixo (forma curta cobre >= 80% da longa) revisados e aceitos de propósito.
+# São palavras distintas e válidas; a forma exata sempre vence no casamento.
+# Formato: <id-da-pergunta> | <forma curta> | <forma longa>   (acentos e caixa são ignorados)
+ani-insetos | Pulga | Pulgão
+cin-star-wars | Reva | Revan
+com-frutas | Lima | Limão
+com-pratos-brasileiros | Empada | Empadão
+com-bebidas-alcoolicas | Raki | Rakia
+fut-clubes-brasileiros | Athletic | Athletico
+geo-rios-brasil | Acará | Acaraú
+geo-rios-brasil | Rio Jacuí | Rio Jacuípe
+geo-rios-brasil | Rio Pará | Rio Paraná
+mit-nordica | Frey | Freya
+mit-personagens-biblicos | Judá | Judas
+mit-personagens-biblicos | Saul | Saulo
+mbr-funk | MC Kevin | MC Kevinho
+mbr-generos-brasileiros | Lambada | Lambadão
+obj-moveis | Cadeira | Cadeirão
+obj-ferramentas | Enxada | Enxadão
+pro-profissoes | Soldado | Soldador

@@ -11,7 +11,7 @@
         "europa"
       ],
       "fonte": "https://pt.wikipedia.org/wiki/Lista_de_pa%C3%ADses_da_Europa",
-      "nota": "Valem países transcontinentais (Rússia, Turquia, Cazaquistão, Cáucaso), Chipre, Kosovo e as nações do Reino Unido.",
+      "nota": "Valem países transcontinentais, os do Cáucaso, membros da União Europeia, países de reconhecimento parcial e as quatro nações britânicas.",
       "respostas": [
         {
           "id": "franca",
@@ -143,7 +143,8 @@
           "id": "irlanda",
           "canonica": "Irlanda",
           "aceitas": [
-            "Eire"
+            "Eire",
+            "República da Irlanda"
           ],
           "traducoes": {
             "en": [
@@ -1296,7 +1297,7 @@
         "ásia"
       ],
       "fonte": "https://pt.wikipedia.org/wiki/Lista_de_pa%C3%ADses_da_%C3%81sia",
-      "nota": "Valem transcontinentais (Rússia, Turquia, Cazaquistão, Cáucaso), Palestina e Taiwan.",
+      "nota": "Valem países transcontinentais, os do Cáucaso e países de reconhecimento parcial.",
       "respostas": [
         {
           "id": "china",
@@ -1748,7 +1749,9 @@
         {
           "id": "brunei",
           "canonica": "Brunei",
-          "aceitas": [],
+          "aceitas": [
+            "Brunei Darussalam"
+          ],
           "traducoes": {},
           "raridadeInicial": "epico"
         },
@@ -1896,7 +1899,7 @@
         "américas"
       ],
       "fonte": "https://pt.wikipedia.org/wiki/Am%C3%A9rica",
-      "nota": "Só países independentes (35). Territórios como Porto Rico e Guiana Francesa não valem.",
+      "nota": "Só países independentes (35); territórios dependentes não valem.",
       "respostas": [
         {
           "id": "brasil",
@@ -2202,7 +2205,9 @@
           "id": "sao-vicente-e-granadinas",
           "canonica": "São Vicente e Granadinas",
           "aceitas": [
-            "São Vicente"
+            "São Vicente",
+            "Saint Vincent e Granadinas",
+            "Saint Vincent"
           ],
           "traducoes": {
             "en": [
@@ -2219,7 +2224,9 @@
           "canonica": "São Cristóvão e Névis",
           "aceitas": [
             "São Cristóvão e Neves",
-            "São Cristóvão"
+            "São Cristóvão",
+            "Saint Kitts e Nevis",
+            "Saint Kitts"
           ],
           "traducoes": {
             "en": [
@@ -2235,14 +2242,13 @@
     },
     {
       "id": "geo-uf-brasil",
-      "texto": "Cite um estado brasileiro (ou o Distrito Federal)",
+      "texto": "Cite uma das 27 unidades federativas do Brasil",
       "dificuldade": "facil",
       "tags": [
         "brasil",
         "estados"
       ],
       "fonte": "https://pt.wikipedia.org/wiki/Unidades_federativas_do_Brasil",
-      "nota": "26 estados + Distrito Federal.",
       "respostas": [
         {
           "id": "sao-paulo",
@@ -2266,7 +2272,8 @@
           "id": "minas-gerais",
           "canonica": "Minas Gerais",
           "aceitas": [
-            "MG"
+            "MG",
+            "Minas"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -2709,7 +2716,7 @@
         "europa"
       ],
       "fonte": "https://pt.wikipedia.org/wiki/Lista_de_capitais_nacionais",
-      "nota": "Capitais dos países da pergunta \"país da Europa\", incluindo Edimburgo, Cardiff e Belfast.",
+      "nota": "Capitais dos países da pergunta \"país da Europa\", incluindo as das quatro nações britânicas.",
       "respostas": [
         {
           "id": "paris",
@@ -3114,7 +3121,9 @@
         {
           "id": "vilnius",
           "canonica": "Vilnius",
-          "aceitas": [],
+          "aceitas": [
+            "Vilna"
+          ],
           "traducoes": {},
           "raridadeInicial": "raro"
         },
@@ -3270,7 +3279,9 @@
         {
           "id": "astana",
           "canonica": "Astana",
-          "aceitas": [],
+          "aceitas": [
+            "Nur-Sultan"
+          ],
           "traducoes": {},
           "raridadeInicial": "lendario"
         }
@@ -3462,7 +3473,7 @@
             "Rio Parnaíba"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "jequitinhonha",
@@ -3471,7 +3482,7 @@
             "Rio Jequitinhonha"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "grande",
@@ -3480,7 +3491,7 @@
             "Rio Grande"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "paranapanema",
@@ -3489,7 +3500,7 @@
             "Rio Paranapanema"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "purus",
@@ -3498,7 +3509,7 @@
             "Rio Purus"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "jurua",
@@ -3507,7 +3518,7 @@
             "Rio Juruá"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "trombetas",
@@ -3534,7 +3545,7 @@
             "Rio Branco"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "japura",
@@ -3588,7 +3599,7 @@
             "Rio Juruena"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "jaguaribe",
@@ -3597,7 +3608,7 @@
             "Rio Jaguaribe"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "piracicaba",
@@ -3606,7 +3617,7 @@
             "Rio Piracicaba"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "mogi-guacu",
@@ -3616,7 +3627,7 @@
             "Moji-Guaçu"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "ribeira-de-iguape",
@@ -3626,7 +3637,7 @@
             "Ribeira"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "itajai-acu",
@@ -3636,7 +3647,7 @@
             "Itajaí"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "jacui",
@@ -3645,7 +3656,7 @@
             "Rio Jacuí"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "taquari",
@@ -3654,7 +3665,7 @@
             "Rio Taquari"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "cuiaba",
@@ -3663,7 +3674,7 @@
             "Rio Cuiabá"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "poti",
@@ -3672,7 +3683,7 @@
             "Rio Poti"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "beberibe",
@@ -3681,7 +3692,7 @@
             "Rio Beberibe"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "paraguacu",
@@ -3690,7 +3701,7 @@
             "Rio Paraguaçu"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "rio-de-contas",
@@ -3699,7 +3710,7 @@
             "Contas"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "vaza-barris",
@@ -3723,10 +3734,11 @@
           "id": "rio-das-velhas",
           "canonica": "Rio das Velhas",
           "aceitas": [
-            "Velhas"
+            "Velhas",
+            "Das Velhas"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "paraopeba",
@@ -3735,7 +3747,7 @@
             "Rio Paraopeba"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "sapucai",
@@ -3753,7 +3765,7 @@
             "Rio Pardo"
           ],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "oiapoque",
@@ -3762,7 +3774,7 @@
             "Rio Oiapoque"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "iriri",
@@ -3836,6 +3848,790 @@
           ],
           "traducoes": {},
           "raridadeInicial": "lendario"
+        },
+        {
+          "id": "ivai",
+          "canonica": "Ivaí",
+          "aceitas": [
+            "Rio Ivaí"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "tibagi",
+          "canonica": "Tibagi",
+          "aceitas": [
+            "Rio Tibagi"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "paranaiba",
+          "canonica": "Paranaíba",
+          "aceitas": [
+            "Rio Paranaíba"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "rio-das-mortes",
+          "canonica": "Rio das Mortes",
+          "aceitas": [
+            "Das Mortes"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "aquidauana",
+          "canonica": "Aquidauana",
+          "aceitas": [
+            "Rio Aquidauana"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "miranda",
+          "canonica": "Miranda",
+          "aceitas": [
+            "Rio Miranda"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "sao-lourenco",
+          "canonica": "São Lourenço",
+          "aceitas": [
+            "Rio São Lourenço"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "paraiba",
+          "canonica": "Paraíba",
+          "aceitas": [
+            "Rio Paraíba",
+            "Paraíba do Norte"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "potengi",
+          "canonica": "Potengi",
+          "aceitas": [
+            "Rio Potengi"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "piranhas-acu",
+          "canonica": "Piranhas-Açu",
+          "aceitas": [
+            "Rio Piranhas-Açu",
+            "Piranhas",
+            "Piranhas-Assu"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "ipojuca",
+          "canonica": "Ipojuca",
+          "aceitas": [
+            "Rio Ipojuca"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "sao-mateus",
+          "canonica": "São Mateus",
+          "aceitas": [
+            "Rio São Mateus"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "itapemirim",
+          "canonica": "Itapemirim",
+          "aceitas": [
+            "Rio Itapemirim"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "pomba",
+          "canonica": "Pomba",
+          "aceitas": [
+            "Rio Pomba"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "muriae",
+          "canonica": "Muriaé",
+          "aceitas": [
+            "Rio Muriaé"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "atibaia",
+          "canonica": "Atibaia",
+          "aceitas": [
+            "Rio Atibaia"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "jundiai",
+          "canonica": "Jundiaí",
+          "aceitas": [
+            "Rio Jundiaí"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "tamanduatei",
+          "canonica": "Tamanduateí",
+          "aceitas": [
+            "Rio Tamanduateí"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "sorocaba",
+          "canonica": "Sorocaba",
+          "aceitas": [
+            "Rio Sorocaba"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "rio-dos-sinos",
+          "canonica": "Rio dos Sinos",
+          "aceitas": [
+            "Sinos",
+            "Dos Sinos"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "gravatai",
+          "canonica": "Gravataí",
+          "aceitas": [
+            "Rio Gravataí"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "camaqua",
+          "canonica": "Camaquã",
+          "aceitas": [
+            "Rio Camaquã"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ibicui",
+          "canonica": "Ibicuí",
+          "aceitas": [
+            "Rio Ibicuí"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "pelotas",
+          "canonica": "Pelotas",
+          "aceitas": [
+            "Rio Pelotas"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "canoas",
+          "canonica": "Canoas",
+          "aceitas": [
+            "Rio Canoas"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "chapeco",
+          "canonica": "Chapecó",
+          "aceitas": [
+            "Rio Chapecó"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "tubarao",
+          "canonica": "Tubarão",
+          "aceitas": [
+            "Rio Tubarão"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "piquiri",
+          "canonica": "Piquiri",
+          "aceitas": [
+            "Rio Piquiri"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "apa",
+          "canonica": "Apa",
+          "aceitas": [
+            "Rio Apa"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "uaupes",
+          "canonica": "Uaupés",
+          "aceitas": [
+            "Rio Uaupés"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "tefe",
+          "canonica": "Tefé",
+          "aceitas": [
+            "Rio Tefé"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "nhamunda",
+          "canonica": "Nhamundá",
+          "aceitas": [
+            "Rio Nhamundá"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "jamari",
+          "canonica": "Jamari",
+          "aceitas": [
+            "Rio Jamari"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ji-parana",
+          "canonica": "Ji-Paraná",
+          "aceitas": [
+            "Rio Ji-Paraná",
+            "Machado"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "roosevelt",
+          "canonica": "Roosevelt",
+          "aceitas": [
+            "Rio Roosevelt",
+            "Rio da Dúvida"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "acre",
+          "canonica": "Acre",
+          "aceitas": [
+            "Rio Acre"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tarauaca",
+          "canonica": "Tarauacá",
+          "aceitas": [
+            "Rio Tarauacá"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "abuna",
+          "canonica": "Abunã",
+          "aceitas": [
+            "Rio Abunã"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "guama",
+          "canonica": "Guamá",
+          "aceitas": [
+            "Rio Guamá"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "capim",
+          "canonica": "Capim",
+          "aceitas": [
+            "Rio Capim"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "moju",
+          "canonica": "Moju",
+          "aceitas": [
+            "Rio Moju"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "acara",
+          "canonica": "Acará",
+          "aceitas": [
+            "Rio Acará"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "para",
+          "canonica": "Pará",
+          "aceitas": [
+            "Rio Pará"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "araguari",
+          "canonica": "Araguari",
+          "aceitas": [
+            "Rio Araguari"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "uraricoera",
+          "canonica": "Uraricoera",
+          "aceitas": [
+            "Rio Uraricoera"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "tacutu",
+          "canonica": "Tacutu",
+          "aceitas": [
+            "Rio Tacutu"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "mucajai",
+          "canonica": "Mucajaí",
+          "aceitas": [
+            "Rio Mucajaí"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "pindare",
+          "canonica": "Pindaré",
+          "aceitas": [
+            "Rio Pindaré"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "grajau",
+          "canonica": "Grajaú",
+          "aceitas": [
+            "Rio Grajaú"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "munim",
+          "canonica": "Munim",
+          "aceitas": [
+            "Rio Munim"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "gurgueia",
+          "canonica": "Gurgueia",
+          "aceitas": [
+            "Rio Gurgueia"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "caninde",
+          "canonica": "Canindé",
+          "aceitas": [
+            "Rio Canindé"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "banabuiu",
+          "canonica": "Banabuiú",
+          "aceitas": [
+            "Rio Banabuiú"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "apodi-mossoro",
+          "canonica": "Apodi-Mossoró",
+          "aceitas": [
+            "Rio Apodi-Mossoró",
+            "Rio Apodi",
+            "Rio Mossoró",
+            "Apodi",
+            "Mossoró"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "goiana",
+          "canonica": "Goiana",
+          "aceitas": [
+            "Rio Goiana"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "mundau",
+          "canonica": "Mundaú",
+          "aceitas": [
+            "Rio Mundaú"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "sergipe",
+          "canonica": "Sergipe",
+          "aceitas": [
+            "Rio Sergipe"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "real",
+          "canonica": "Real",
+          "aceitas": [
+            "Rio Real"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "itapicuru",
+          "canonica": "Itapicuru",
+          "aceitas": [
+            "Rio Itapicuru"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "jacuipe",
+          "canonica": "Jacuípe",
+          "aceitas": [
+            "Rio Jacuípe"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "cachoeira",
+          "canonica": "Cachoeira",
+          "aceitas": [
+            "Rio Cachoeira"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "corrente",
+          "canonica": "Corrente",
+          "aceitas": [
+            "Rio Corrente"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "paracatu",
+          "canonica": "Paracatu",
+          "aceitas": [
+            "Rio Paracatu"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "urucuia",
+          "canonica": "Urucuia",
+          "aceitas": [
+            "Rio Urucuia"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "manhuacu",
+          "canonica": "Manhuaçu",
+          "aceitas": [
+            "Rio Manhuaçu"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "culuene",
+          "canonica": "Culuene",
+          "aceitas": [
+            "Rio Culuene"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "corumba",
+          "canonica": "Corumbá",
+          "aceitas": [
+            "Rio Corumbá"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "meia-ponte",
+          "canonica": "Meia Ponte",
+          "aceitas": [
+            "Rio Meia Ponte"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "rio-do-sono",
+          "canonica": "Rio do Sono",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "guandu",
+          "canonica": "Guandu",
+          "aceitas": [
+            "Rio Guandu"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "macae",
+          "canonica": "Macaé",
+          "aceitas": [
+            "Rio Macaé"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "carioca",
+          "canonica": "Carioca",
+          "aceitas": [
+            "Rio Carioca"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "cai",
+          "canonica": "Caí",
+          "aceitas": [
+            "Rio Caí"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "quarai",
+          "canonica": "Quaraí",
+          "aceitas": [
+            "Rio Quaraí"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "jaguarao",
+          "canonica": "Jaguarão",
+          "aceitas": [
+            "Rio Jaguarão"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "paraibuna",
+          "canonica": "Paraibuna",
+          "aceitas": [
+            "Rio Paraibuna"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "juquia",
+          "canonica": "Juquiá",
+          "aceitas": [
+            "Rio Juquiá"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "belem",
+          "canonica": "Belém",
+          "aceitas": [
+            "Rio Belém"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "capivari",
+          "canonica": "Capivari",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "acarau",
+          "canonica": "Acaraú",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "preguicas",
+          "canonica": "Preguiças",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "rio-das-antas",
+          "canonica": "Rio das Antas",
+          "aceitas": [
+            "Das Antas",
+            "Antas"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "envira",
+          "canonica": "Envira",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "descoberto",
+          "canonica": "Descoberto",
+          "aceitas": [
+            "Rio Descoberto"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "sucuriu",
+          "canonica": "Sucuriú",
+          "aceitas": [
+            "Rio Sucuriú"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "apore",
+          "canonica": "Aporé",
+          "aceitas": [
+            "Rio Aporé"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "itajai-mirim",
+          "canonica": "Itajaí-Mirim",
+          "aceitas": [
+            "Rio Itajaí-Mirim"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
         }
       ]
     }

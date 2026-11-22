@@ -1,0 +1,102 @@
+== mint-bandas-rock
++ Maroon 5 | Maroon Five | | | c | https://en.wikipedia.org/wiki/Maroon_5
++ Roxette | | | | i | https://en.wikipedia.org/wiki/Roxette
++ Skillet | | | | i | https://en.wikipedia.org/wiki/Skillet_(band)
++ OneRepublic | One Republic | | | i | https://en.wikipedia.org/wiki/OneRepublic
++ Breaking Benjamin | | | | r | https://en.wikipedia.org/wiki/Breaking_Benjamin
++ Seether | | | | r | https://en.wikipedia.org/wiki/Seether
++ Staind | | | | r | https://en.wikipedia.org/wiki/Staind
++ Counting Crows | | | | r | https://en.wikipedia.org/wiki/Counting_Crows
++ Matchbox Twenty | Matchbox 20 | | | r | https://en.wikipedia.org/wiki/Matchbox_Twenty
++ Cheap Trick | | | | e | https://en.wikipedia.org/wiki/Cheap_Trick
++ Bad Company | | | | e | https://en.wikipedia.org/wiki/Bad_Company
++ Alter Bridge | | | | e | https://en.wikipedia.org/wiki/Alter_Bridge
++ The Cult | Cult | | | e | https://en.wikipedia.org/wiki/The_Cult
+~ Guns N' Roses | GNR;GN'R | https://pt.wikipedia.org/wiki/Guns_N'_Roses
+~ Led Zeppelin | Led Zep | https://pt.wikipedia.org/wiki/Led_Zeppelin
+~ Black Sabbath | Sabbath | https://pt.wikipedia.org/wiki/Black_Sabbath
+~ Iron Maiden | Maiden | https://pt.wikipedia.org/wiki/Iron_Maiden
+~ Ramones | The Ramones | https://pt.wikipedia.org/wiki/Ramones
+~ Eagles | The Eagles | https://pt.wikipedia.org/wiki/Eagles_(banda)
+~ The Police | Police | https://pt.wikipedia.org/wiki/The_Police
+~ The Cure | Cure | https://pt.wikipedia.org/wiki/The_Cure
+~ The Clash | Clash | https://pt.wikipedia.org/wiki/The_Clash
+~ Avenged Sevenfold | A7X | https://pt.wikipedia.org/wiki/Avenged_Sevenfold
+~ Rage Against the Machine | Rage | https://pt.wikipedia.org/wiki/Rage_Against_the_Machine
+~ System of a Down | System | https://pt.wikipedia.org/wiki/System_of_a_Down
+
+== mint-cantores-pop
++ Elvis Presley | Elvis;Rei do Rock | | | c | https://pt.wikipedia.org/wiki/Elvis_Presley
++ Frank Sinatra | Sinatra | | | i | https://pt.wikipedia.org/wiki/Frank_Sinatra
++ Tom Jones | | | | r | https://pt.wikipedia.org/wiki/Tom_Jones
++ Adam Levine | | | | r | https://pt.wikipedia.org/wiki/Adam_Levine
++ John Mayer | | | | r | https://pt.wikipedia.org/wiki/John_Mayer
++ Jack Johnson | | | | r | https://en.wikipedia.org/wiki/Jack_Johnson_(musician)
++ Dido | | | | r | https://pt.wikipedia.org/wiki/Dido_(cantora)
++ Anne-Marie | Anne Marie | | | e | https://en.wikipedia.org/wiki/Anne-Marie_(singer)
+~ Michael Jackson | MJ;Rei do Pop | https://pt.wikipedia.org/wiki/Michael_Jackson
+~ Madonna | Rainha do Pop | https://pt.wikipedia.org/wiki/Madonna_(cantora)
+~ Christina Aguilera | Aguilera | https://pt.wikipedia.org/wiki/Christina_Aguilera
+~ Taylor Swift | Swift | https://pt.wikipedia.org/wiki/Taylor_Swift
+~ Ariana Grande | Ariana | https://pt.wikipedia.org/wiki/Ariana_Grande
+~ Billie Eilish | Billie | https://pt.wikipedia.org/wiki/Billie_Eilish
+~ Dua Lipa | Dua | https://pt.wikipedia.org/wiki/Dua_Lipa
+~ Miley Cyrus | Miley | https://pt.wikipedia.org/wiki/Miley_Cyrus
+~ Katy Perry | Katy | https://pt.wikipedia.org/wiki/Katy_Perry
+~ Mariah Carey | Mariah | https://pt.wikipedia.org/wiki/Mariah_Carey
+~ Whitney Houston | Whitney | https://pt.wikipedia.org/wiki/Whitney_Houston
+~ Elton John | Elton | https://pt.wikipedia.org/wiki/Elton_John
+~ Celine Dion | Céline Dion | https://pt.wikipedia.org/wiki/C%C3%A9line_Dion
+~ Lady Gaga | Stefani Germanotta | https://pt.wikipedia.org/wiki/Lady_Gaga
+
+== mint-musicas-queen
+~ Radio Ga Ga | Radio Gaga | https://pt.wikipedia.org/wiki/Radio_Ga_Ga
+~ We Are the Champions | Champions | https://pt.wikipedia.org/wiki/We_Are_the_Champions
+~ A Kind of Magic | Kind of Magic | https://pt.wikipedia.org/wiki/A_Kind_of_Magic
+
+== mint-musicas-beatles
+~ With a Little Help from My Friends | With a Little Help | https://pt.wikipedia.org/wiki/With_a_Little_Help_from_My_Friends
+~ A Hard Day's Night | Hard Day's Night | https://pt.wikipedia.org/wiki/A_Hard_Day's_Night_(can%C3%A7%C3%A3o)
+~ Octopus's Garden | Octopus Garden | https://pt.wikipedia.org/wiki/Octopus's_Garden
+~ The Long and Winding Road | Long and Winding Road | https://pt.wikipedia.org/wiki/The_Long_and_Winding_Road
+~ Norwegian Wood | Norwegian Wood (This Bird Has Flown) | https://pt.wikipedia.org/wiki/Norwegian_Wood_(This_Bird_Has_Flown)
+~ While My Guitar Gently Weeps | While My Guitar | https://pt.wikipedia.org/wiki/While_My_Guitar_Gently_Weeps
+
+== mint-rappers
++ DJ Khaled | | | | i | https://pt.wikipedia.org/wiki/DJ_Khaled
++ Tyga | | | | r | https://pt.wikipedia.org/wiki/Tyga
++ Machine Gun Kelly | MGK | | | r | https://pt.wikipedia.org/wiki/Machine_Gun_Kelly
++ Fetty Wap | | | | e | https://pt.wikipedia.org/wiki/Fetty_Wap
++ Lil Peep | | | | e | https://pt.wikipedia.org/wiki/Lil_Peep
++ Saweetie | | | | e | https://pt.wikipedia.org/wiki/Saweetie
++ Gunna | | | | e | https://pt.wikipedia.org/wiki/Gunna
++ Trippie Redd | | | | e | https://pt.wikipedia.org/wiki/Trippie_Redd
++ Lil Tecca | | | | e | https://pt.wikipedia.org/wiki/Lil_Tecca
+~ Kanye West | Ye | https://pt.wikipedia.org/wiki/Kanye_West
+~ Nicki Minaj | Nicki | https://pt.wikipedia.org/wiki/Nicki_Minaj
+~ Lil Nas X | Lil Nas | https://pt.wikipedia.org/wiki/Lil_Nas_X
+~ XXXTentacion | XXX Tentacion | https://pt.wikipedia.org/wiki/XXXTentacion
+~ Childish Gambino | Donald Glover | https://pt.wikipedia.org/wiki/Childish_Gambino
+~ Lil Wayne | Weezy | https://pt.wikipedia.org/wiki/Lil_Wayne
+~ Black Eyed Peas | BEP | https://pt.wikipedia.org/wiki/Black_Eyed_Peas
+
+== mint-generos
++ Electro house | | | | r | https://en.wikipedia.org/wiki/Electro_house
++ Tropical house | | | | r | https://en.wikipedia.org/wiki/Tropical_house
++ Hyperpop | | | | e | https://en.wikipedia.org/wiki/Hyperpop
++ Neo soul | Neo-soul | | | r | https://en.wikipedia.org/wiki/Neo_soul
++ Post-rock | | | | e | https://en.wikipedia.org/wiki/Post-rock
++ Southern rock | | | | e | https://en.wikipedia.org/wiki/Southern_rock
++ Blues rock | | | | e | https://en.wikipedia.org/wiki/Blues_rock
++ Folk rock | | | | e | https://en.wikipedia.org/wiki/Folk_rock
++ Country rock | | | | e | https://en.wikipedia.org/wiki/Country_rock
++ Latin pop | Pop latino | | | r | https://en.wikipedia.org/wiki/Latin_pop
++ Chillout | Chill out | | | r | https://en.wikipedia.org/wiki/Chill-out_music
++ Vaporwave | | | | e | https://en.wikipedia.org/wiki/Vaporwave
++ Phonk | | | | e | https://en.wikipedia.org/wiki/Phonk
+~ Soul | Soul music | https://pt.wikipedia.org/wiki/Soul
+~ R&B | RnB;R and B | https://pt.wikipedia.org/wiki/R%26B
+~ Rock gótico | Gothic rock;Goth rock | https://pt.wikipedia.org/wiki/Rock_g%C3%B3tico
+~ Folk | Música folk | https://pt.wikipedia.org/wiki/M%C3%BAsica_folk
+~ Indie | Indie pop | https://pt.wikipedia.org/wiki/Indie_pop
+~ Música clássica | Clássica;Música erudita | https://pt.wikipedia.org/wiki/M%C3%BAsica_cl%C3%A1ssica

@@ -1,0 +1,10 @@
+== geo-paises-africa
+~ Burkina Faso | Burquina Faso | https://pt.wikipedia.org/wiki/Burquina_Fasso
+
+== geo-paises-americas
+~ São Cristóvão e Névis | Saint Kitts e Nevis;Saint Kitts | https://pt.wikipedia.org/wiki/S%C3%A3o_Crist%C3%B3v%C3%A3o_e_N%C3%A9vis
+~ São Vicente e Granadinas | Saint Vincent e Granadinas;Saint Vincent | https://pt.wikipedia.org/wiki/S%C3%A3o_Vicente_e_Granadinas
+~ Santa Lúcia | Saint Lucia | https://pt.wikipedia.org/wiki/Santa_L%C3%BAcia
+
+== geo-paises-asia
+~ Brunei | Brunei Darussalam | https://pt.wikipedia.org/wiki/Brunei

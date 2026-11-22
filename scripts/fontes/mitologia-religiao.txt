@@ -64,19 +64,62 @@ Harmonia | | | | l
 Momo | | Momus | | l
 Tique | | Tyche | | l
 Pluto | Pluto | Plutus | | l
+Métis | e
+Teia | Theia |  | Tía | l
+Éter |  | Aether | l
+Hemera | l
+Pontos | Ponto | Pontus | l
+Ananque |  | Ananke | l
+Zéfiro |  | Zephyrus | Céfiro | e
+Bóreas | e
+Cratos |  | Kratos | e
+Bia | l
+Zelo |  | Zelus | l
+Cloto |  | Clotho | e
+Láquesis |  | Lachesis | e
+Átropos | e
+Aglaia |  | Aglaea | l
+Eufrosine |  | Euphrosyne | l
+Tália |  | Thalia | e
+Calíope |  | Calliope | e
+Clio | e
+Érato | l
+Euterpe | l
+Melpômene | l
+Polímnia |  | Polyhymnia | l
+Terpsícore |  | Terpsichore | l
+Urânia | l
+Ilítia |  | Eileithyia | l
+Hímen | Himeneu | Hymen | Himeneo | l
+Higeia | Hígia | Hygieia | e
+Panaceia |  | Panacea | l
+Priapo |  | Priapus | e
+Oneiros | l
+Estige |  | Styx | Estigia | l
+Glauco |  | Glaucus | l
+Aqueloo |  | Achelous | l
+Aristeu |  | Aristaeus | l
+Dione | l
+Ceto | l
+Fórcis |  | Phorcys | l
+Menécio | Menoécio | Menoetius | l
+Astéria | l
+Astreu |  | Astraeus | l
+Palas |  | Pallas | l
+Perses | l
 
 == mit-deuses-romanos | Cite um deus ou deusa da mitologia romana | media | mitologia;roma | https://pt.wikipedia.org/wiki/Mitologia_romana
-Júpiter | | Jupiter | | c
+Júpiter | Jove | Jupiter |  | c
 Juno | | | | c
 Netuno | | Neptune | Neptuno | c
-Plutão | | Pluto | Plutón | c
+Plutão | Dis Pater | Pluto | Plutón | c
 Minerva | | | | c
 Vênus | | Venus | | c
 Marte | | Mars | | c
 Mercúrio | | Mercury | Mercurio | c
 Apolo | | Apollo | | c
 Diana | | | | c
-Cupido | | Cupid | | c
+Cupido | Amor | Cupid |  | c
 Baco | | Bacchus | | c
 Vulcano | | Vulcan | | i
 Ceres | | | | i
@@ -107,6 +150,22 @@ Penates | | | | e
 Vertumno | | Vertumnus | | l
 Somnus | Sono | | | l
 Pax | Paz | | | l
+Esculápio |  | Aesculapius | r
+Cibele | Magna Mater | Cybele | Cibeles | r
+Ops | Ópis | e
+Juventas | Juventa | l
+Bona Dea | Boa Deusa | e
+Salus | l
+Fides | l
+Spes | Esperança | l
+Libitina | l
+Carna | l
+Consus | l
+Robigus | l
+Honos | Honor | l
+Virtus | l
+Discórdia | e
+Nox | Noite | e
 
 == mit-nordica | Cite um deus ou ser da mitologia nórdica | media | mitologia;nórdica;vikings | https://pt.wikipedia.org/wiki/Mitologia_n%C3%B3rdica
 Odin | Odim;Wotan | | | c
@@ -114,7 +173,7 @@ Thor | Tor | | | c
 Loki | | | | c
 Freya | Freia;Freyja | | | i
 Frigga | Frigg | | | i
-Heimdall | | | | i
+Heimdall | Heimdallr |  |  | i
 Balder | Baldur;Baldr | | | i
 Tyr | | | | i
 Hel | Hela | | | i
@@ -122,16 +181,16 @@ Fenrir | Fenris | | | i
 Valquírias | Valquíria | Valkyries;Valkyrie | Valquirias | c
 Sleipnir | | | | i
 Jörmungandr | Serpente de Midgard | Midgard Serpent | | r
-Ymir | | | | r
-Freyr | r
+Ymir | Aurgelmir |  |  | r
+Freyr | Frey | r
 Njord | Njörd | | | r
 Sif | | | | r
-Idun | Iduna | | | r
+Idun | Iduna;Iðunn;Idunn |  |  | r
 Bragi | | | | r
 Vidar | | | | e
 Vali | | | | e
 Hod | Hodur;Höðr | | | e
-Skadi | | | | e
+Skadi | Skaði |  |  | e
 Ull | Ullr | | | e
 Forseti | | | | l
 Hermod | | | | l
@@ -143,19 +202,49 @@ Sigyn | | | | e
 Jord | Jörð | | | l
 Kvasir | | | | l
 Surtr | Surt | | | e
-Huginn | | | | e
-Muninn | | | | e
-Ratatoskr | | | | l
+Huginn | Hugin |  |  | e
+Muninn | Munin |  |  | e
+Ratatoskr | Ratatosk |  |  | l
 Nidhogg | Níðhöggr | | | e
 Hati | | | | l
 Skoll | Sköll | | | l
 Gerd | | | | l
 Gefjon | | | | l
 Eir | | | | l
-Gigantes de gelo | Jotuns;Jötnar | Frost giants;Jotnar | | r
-Elfos | | Elves | | r
-Anões | | Dwarves | Enanos | r
+Gigantes de gelo | Jotuns;Jötnar;Jotun;Gigantes de Jotunheim | Frost giants;Jotnar |  | r
+Elfos | Alfar | Elves |  | r
+Anões | Dvergar | Dwarves | Enanos | r
 Norns | Nornas | | | e
+Aesir | Ases | i
+Vanir | Vanes | r
+Draugr | r
+Fafnir | r
+Magni | e
+Modi | e
+Garm | Garmr | e
+Angrboda | Angrboða | e
+Skuld | e
+Urd | Urdr;Urðr | e
+Verdandi | Verðandi | e
+Buri | l
+Bor | Borr | l
+Bestla | l
+Vili | l
+Ve | l
+Audhumbla | Audhumla;Auðumbla | l
+Thrud | Þrúðr;Thrudr | l
+Gullveig | l
+Hrungnir | l
+Thrym | Þrymr;Trym | l
+Svadilfari | Svaðilfari | l
+Gullinbursti | l
+Fulla | l
+Hoenir | Hœnir;Hönir | l
+Sol | l
+Mani | l
+Nott | l
+Thjazi | Þjazi;Tiazi | l
+Hraesvelg | Hræsvelgr | Hraesvelgr | l
 
 == mit-livros-biblia | Cite um livro da Bíblia | media | bíblia;religião | https://pt.wikipedia.org/wiki/Livros_da_B%C3%ADblia
 @nota Vale o cânon católico (73 livros), que inclui os 66 do cânon protestante.
@@ -171,19 +260,19 @@ Rute | | Ruth | Rut | i
 2 Samuel | II Samuel;Segundo Samuel | | | r
 1 Reis | I Reis;Primeiro Reis | 1 Kings | 1 Reyes | r
 2 Reis | II Reis;Segundo Reis | 2 Kings | 2 Reyes | r
-1 Crônicas | I Crônicas;Primeiro Crônicas | 1 Chronicles | 1 Crónicas | r
-2 Crônicas | II Crônicas;Segundo Crônicas | 2 Chronicles | 2 Crónicas | e
+1 Crônicas | I Crônicas;Primeiro Crônicas;Primeiro Paralipômenos;1 Paralipômenos | 1 Chronicles | 1 Crónicas | r
+2 Crônicas | II Crônicas;Segundo Crônicas;Segundo Paralipômenos;2 Paralipômenos | 2 Chronicles | 2 Crónicas | e
 Esdras | | Ezra | | r
 Neemias | | Nehemiah | Nehemías | r
 Ester | | Esther | | i
 Jó | | Job | | c
-Salmos | | Psalms | Salmos | c
+Salmos | Livro dos Salmos | Psalms | Salmos | c
 Provérbios | | Proverbs | Proverbios | c
-Eclesiastes | | Ecclesiastes | | i
-Cântico dos Cânticos | Cantares;Cânticos | Song of Songs | Cantar de los Cantares | r
+Eclesiastes | Coélet;Qohélet | Ecclesiastes |  | i
+Cântico dos Cânticos | Cantares;Cânticos;Cantar dos Cantares;Cântico de Salomão;Cantares de Salomão | Song of Songs | Cantar de los Cantares | r
 Isaías | | Isaiah | Isaías | i
 Jeremias | | Jeremiah | Jeremías | i
-Lamentações | | Lamentations | Lamentaciones | r
+Lamentações | Lamentações de Jeremias | Lamentations | Lamentaciones | r
 Ezequiel | | Ezekiel | | r
 Daniel | | | | i
 Oseias | | Hosea | Oseas | e
@@ -198,71 +287,71 @@ Sofonias | | Zephaniah | Sofonías | l
 Ageu | | Haggai | Hageo | l
 Zacarias | | Zechariah | Zacarías | e
 Malaquias | | Malachi | Malaquías | e
-Mateus | | Matthew | Mateo | c
-Marcos | | Mark | | c
-Lucas | | Luke | | c
+Mateus | Evangelho de Mateus;Evangelho segundo Mateus | Matthew | Mateo | c
+Marcos | Evangelho de Marcos;Evangelho segundo Marcos | Mark |  | c
+Lucas | Evangelho de Lucas;Evangelho segundo Lucas | Luke |  | c
 João | Evangelho de João | John | Juan | c
 Atos dos Apóstolos | Atos | Acts | Hechos | i
-Romanos | | Romans | | i
-1 Coríntios | I Coríntios;Primeira Coríntios | 1 Corinthians | 1 Corintios | i
-2 Coríntios | II Coríntios;Segunda Coríntios | 2 Corinthians | 2 Corintios | r
-Gálatas | | Galatians | | r
-Efésios | | Ephesians | Efesios | r
-Filipenses | | Philippians | | r
-Colossenses | | Colossians | | r
-1 Tessalonicenses | I Tessalonicenses | 1 Thessalonians | 1 Tesalonicenses | e
-2 Tessalonicenses | II Tessalonicenses | 2 Thessalonians | 2 Tesalonicenses | e
-1 Timóteo | I Timóteo | 1 Timothy | 1 Timoteo | e
-2 Timóteo | II Timóteo | 2 Timothy | 2 Timoteo | e
-Tito | | Titus | | e
-Filemom | | Philemon | Filemón | l
-Hebreus | | Hebrews | Hebreos | r
-Tiago | | James | Santiago | r
-1 Pedro | I Pedro;Primeira Pedro | 1 Peter | | r
-2 Pedro | II Pedro;Segunda Pedro | 2 Peter | | e
-1 João | I João;Primeira João | 1 John | 1 Juan | r
+Romanos | Carta aos Romanos;Epístola aos Romanos | Romans |  | i
+1 Coríntios | I Coríntios;Primeira Coríntios;Primeira Carta aos Coríntios;Primeira Epístola aos Coríntios | 1 Corinthians | 1 Corintios | i
+2 Coríntios | II Coríntios;Segunda Coríntios;Segunda Carta aos Coríntios;Segunda Epístola aos Coríntios | 2 Corinthians | 2 Corintios | r
+Gálatas | Carta aos Gálatas;Epístola aos Gálatas | Galatians |  | r
+Efésios | Carta aos Efésios;Epístola aos Efésios | Ephesians | Efesios | r
+Filipenses | Carta aos Filipenses;Epístola aos Filipenses | Philippians |  | r
+Colossenses | Carta aos Colossenses;Epístola aos Colossenses | Colossians |  | r
+1 Tessalonicenses | I Tessalonicenses;Primeira Carta aos Tessalonicenses;Primeira Epístola aos Tessalonicenses | 1 Thessalonians | 1 Tesalonicenses | e
+2 Tessalonicenses | II Tessalonicenses;Segunda Carta aos Tessalonicenses;Segunda Epístola aos Tessalonicenses | 2 Thessalonians | 2 Tesalonicenses | e
+1 Timóteo | I Timóteo;Primeira Carta a Timóteo;Primeira Epístola a Timóteo | 1 Timothy | 1 Timoteo | e
+2 Timóteo | II Timóteo;Segunda Carta a Timóteo;Segunda Epístola a Timóteo | 2 Timothy | 2 Timoteo | e
+Tito | Carta a Tito;Epístola a Tito | Titus |  | e
+Filemom | Carta a Filemom;Epístola a Filemom | Philemon | Filemón | l
+Hebreus | Carta aos Hebreus;Epístola aos Hebreus | Hebrews | Hebreos | r
+Tiago | Carta de Tiago;Epístola de Tiago | James | Santiago | r
+1 Pedro | I Pedro;Primeira Pedro;Primeira Carta de Pedro;Primeira Epístola de Pedro | 1 Peter |  | r
+2 Pedro | II Pedro;Segunda Pedro;Segunda Carta de Pedro;Segunda Epístola de Pedro | 2 Peter |  | e
+1 João | I João;Primeira João;Primeira Carta de João;Primeira Epístola de João | 1 John | 1 Juan | r
 2 João | II João;Segunda João | 2 John | 2 Juan | l
 3 João | III João;Terceira João | 3 John | 3 Juan | l
-Judas | | Jude | Judas | e
-Apocalipse | | Revelation | Apocalipsis | c
+Judas | Carta de Judas;Epístola de Judas | Jude | Judas | e
+Apocalipse | Apocalipse de João;Revelação;Revelações | Revelation | Apocalipsis | c
 Tobias | | Tobit | Tobías | e
 Judite | | Judith | | e
 1 Macabeus | I Macabeus | 1 Maccabees | 1 Macabeos | e
 2 Macabeus | II Macabeus | 2 Maccabees | 2 Macabeos | l
-Sabedoria | Livro da Sabedoria | Wisdom | Sabiduría | e
-Eclesiástico | Sirácida | Sirach;Ecclesiasticus | Eclesiástico | l
+Sabedoria | Livro da Sabedoria;Sabedoria de Salomão | Wisdom | Sabiduría | e
+Eclesiástico | Sirácida;Ben Sira;Sabedoria de Ben Sirá;Livro de Ben Sirá | Sirach;Ecclesiasticus | Eclesiástico | l
 Baruque | | Baruch | Baruc | l
 
 == mit-personagens-biblicos | Cite um personagem bíblico | facil | bíblia;religião | https://pt.wikipedia.org/wiki/Lista_de_personagens_b%C3%ADblicos
-Jesus | Jesus Cristo;Cristo | Jesus Christ | Jesucristo | c
-Maria | Virgem Maria;Nossa Senhora | Mary | María | c
+Jesus | Jesus Cristo;Cristo;Jesus de Nazaré | Jesus Christ | Jesucristo | c
+Maria | Virgem Maria;Nossa Senhora;Maria de Nazaré;Mãe de Jesus | Mary | María | c
 Adão | | Adam | Adán | c
 Eva | | Eve | | c
 Noé | | Noah | | c
 Moisés | | Moses | | c
-Abraão | | Abraham | Abraham | c
-Davi | | David | David | c
+Abraão | Abrão | Abraham | Abraham | c
+Davi | Rei Davi | David | David | c
 Golias | | Goliath | Goliat | c
 Caim | | Cain | Caín | c
 Abel | | | | c
 Pedro | Simão Pedro;São Pedro | Peter | | c
 Judas Iscariotes | Judas | Judas Iscariot | | c
-Salomão | | Solomon | Salomón | c
+Salomão | Rei Salomão | Solomon | Salomón | c
 Sansão | | Samson | Sansón | c
 José de Nazaré | São José | Joseph of Nazareth | José de Nazaret | i
 José do Egito | | Joseph | | i
-Paulo | São Paulo;Paulo de Tarso | | Pablo | c
+Paulo | São Paulo;Paulo de Tarso;Saulo;Saulo de Tarso |  | Pablo | c
 João Batista | São João Batista | John the Baptist | Juan el Bautista | i
 Maria Madalena | Madalena | Mary Magdalene | María Magdalena | i
 Jonas | | Jonah | Jonás | i
 Daniel | | | | i
 Isaque | | Isaac | | i
-Jacó | | Jacob | | i
+Jacó | Israel | Jacob |  | i
 Esaú | | Esau | | r
 Dalila | | Delilah | | i
 Lázaro | | Lazarus | | i
 Pôncio Pilatos | Pilatos | Pontius Pilate | Poncio Pilato | i
-Herodes | | Herod | | i
+Herodes | Herodes Antipas;Herodes, o Grande;Herodes Magno | Herod |  | i
 Elias | | Elijah | Elías | i
 Jó | | Job | | i
 Ester | | Esther | | r
@@ -281,7 +370,7 @@ André | Santo André | Andrew | Andrés | r
 Mateus | São Mateus | Matthew | Mateo | r
 Tomé | São Tomé | Thomas | Tomás | r
 Filipe | | Philip | Felipe | e
-Bartolomeu | | Bartholomew | Bartolomé | e
+Bartolomeu | Natanael;Nataniel | Bartholomew | Bartolomé | e
 Marcos | | Mark | | r
 Lucas | | Luke | | r
 Marta | | Martha | | r
@@ -325,6 +414,75 @@ Eliseu | | Elisha | Eliseo | e
 Caifás | | Caiaphas | | e
 Salomé | | Salome | | e
 Três Reis Magos | Reis Magos;Magos | Three Wise Men;Magi | Reyes Magos | i
+Ismael |  | Ishmael | i
+Rainha de Sabá | Rainha de Sheba | Queen of Sheba | Reina de Saba | i
+Miriã | Míriam | r
+José de Arimateia |  | Joseph of Arimathea | José de Arimatea | r
+Arcanjo Rafael | Rafael;São Rafael | Raphael | r
+Agar |  | Hagar | r
+Calebe |  | Caleb | r
+Jessé |  |  | Isaí | r
+Jônatas |  | Jonathan | Jonatán | r
+Jetro |  | Jethro | r
+Mardoqueu |  | Mordecai | Mardoqueo | r
+Herodias | r
+Barnabé |  | Barnabas | Bernabé | r
+Matias |  | Matthias | e
+Judas Tadeu | Tadeu;São Judas Tadeu | Jude Thaddaeus;Thaddaeus | Judas Tadeo | r
+Simão Zelote | Simão, o Zelote | Simon the Zealot | Simón el Zelote | e
+Silas | e
+Priscila |  | Priscilla | e
+Áquila | e
+Lídia |  | Lydia | e
+Cornélio |  | Cornelius | e
+Ananias | e
+Simão de Cirene | Cirineu;Simão Cirineu | Simon of Cyrene | Simón de Cirene | r
+Sadraque |  | Shadrach | Sadrac | e
+Mesaque |  | Meshach | Mesac | e
+Abede-Nego | Abednego |  | Abed-nego | e
+Zípora |  | Zipporah | Séfora | l
+Balaão |  | Balaam | l
+Raabe |  | Rahab | e
+Jael | l
+Jefté |  | Jephthah | l
+Eli | e
+Abner | l
+Joabe |  | Joab | l
+Mical |  | Michal | l
+Abigail | l
+Roboão |  | Rehoboam | Roboam | l
+Jeroboão |  | Jeroboam | l
+Naamã |  | Naaman | l
+Ezequias |  | Hezekiah | e
+Josias |  | Josiah | e
+Zorobabel |  | Zerubbabel | l
+Ciro | Ciro, o Grande | Cyrus | e
+Dario |  | Darius | e
+Assuero | Xerxes | Ahasuerus | Asuero | l
+Vasti |  | Vashti | l
+Hamã | Amã | Haman | Amán | l
+Susana |  | Susanna | l
+Holofernes | l
+Judas Macabeu | Judas Macabeus | Judas Maccabeus | Judas Macabeo | l
+Cam |  | Ham | e
+Sem |  | Shem | e
+Jafé |  | Japheth | Jafet | e
+Efraim |  | Ephraim | l
+Manassés |  | Manasseh | Manasés | l
+Potifar |  | Potiphar | Putifar | l
+Labão |  | Laban | l
+Dina |  | Dinah | l
+Judá |  | Judah | e
+Safira |  | Sapphira | l
+Bartimeu |  | Bartimaeus | Bartimeo | l
+Jairo |  | Jairus | l
+Anás |  | Annas | l
+Onésimo |  | Onesimus | l
+Apolo |  | Apollos | l
+Febe |  | Phoebe | l
+Epafras |  | Epaphras | l
+Zebedeu |  | Zebedee | l
+Cleopas | Cléofas | l
 
 == mit-criaturas | Cite uma criatura mitológica ou lendária | facil | mitologia;criaturas;fantasia | https://pt.wikipedia.org/wiki/Lista_de_criaturas_lend%C3%A1rias
 Dragão | | Dragon | Dragón | c
@@ -363,7 +521,7 @@ Behemoth | Beemote | | | e
 Mantícora | | Manticore | Mantícora | e
 Hipogrifo | | Hippogriff | | r
 Yeti | Abominável Homem das Neves | Abominable Snowman | | r
-Pé-grande | | Bigfoot | Pie Grande | r
+Pé-grande | Sasquatch | Bigfoot | Pie Grande | r
 Chupa-cabra | | Chupacabra | Chupacabras | i
 Valquíria | | Valkyrie | Valquiria | r
 Gênio | Djinn;Jinn | Genie;Djinn | Genio | r
@@ -394,17 +552,45 @@ Pixie | | | | l
 Argos | Argos Panoptes | Argus | | l
 Equidna | | Echidna | | l
 Bunyip | | | | l
+Saci | Saci-Pererê | c
+Curupira | c
+Iara | Uiara;Mãe d'Água | c
+Boitatá | i
+Mula sem cabeça | i
+Goblin | i
+Dríade |  | Dryad | Dríada | i
+Náiade |  | Naiad | Náyade | i
+Hipocampo |  | Hippocampus | r
+Fúrias | Erínias;Eumênides | Furies;Erinyes | r
+Oréade |  | Oread | l
+Nereida |  | Nereid | r
+Simurgue | Simurg | Simurgh | l
+Garuda | l
+Ave Roca | Roca;Pássaro Roca | Roc | e
+Selkie | l
+Oni | e
+Qilin | Kirin | l
+Mothman | Homem-mariposa | l
+Ladon | l
+Píton | Pitão | Python | l
+Esteno |  | Stheno | l
+Euríale |  | Euryale | l
+Ortro | Orto | Orthrus | l
+Leão de Neméia |  | Nemean Lion | León de Nemea | e
+Javali de Erimanto |  | Erymanthian Boar | l
+Touro de Creta |  | Cretan Bull | l
+Ave de Estínfalo | Aves de Estínfalo | Stymphalian Birds | l
 
 == mit-folclore-brasileiro | Cite um personagem ou lenda do folclore brasileiro | facil | folclore;brasil;lendas | https://pt.wikipedia.org/wiki/Folclore_do_Brasil
 Saci | Saci-Pererê | | | c
 Curupira | | | | c
 Iara | Mãe d'Água;Uiara | | | c
-Boitatá | | | | c
+Boitatá | Mbaê-Tata;Mboitatá;Baitatá;Batatão;Biatatá;Bitatá |  |  | c
 Mula sem cabeça | | | | c
 Lobisomem | | | | c
 Boto cor-de-rosa | Boto | | | c
 Cuca | | | | c
-Caipora | | | | i
+Caipora | Caapora |  |  | i
 Mapinguari | | | | i
 Negrinho do Pastoreio | | | | i
 Bicho-papão | | | | i
@@ -422,7 +608,7 @@ Ipupiara | | | | l
 Labatut | | | | l
 Homem do Saco | Velho do Saco | | | i
 Loira do Banheiro | | | | i
-Cobra Grande | Boiúna | | | r
+Cobra Grande | Boiúna;Cobra Norato |  |  | r
 Uirapuru | Lenda do uirapuru | | | r
 Lenda do Guaraná | Guaraná | | | r
 Lenda da Mandioca | Mani | | | e
@@ -436,3 +622,8 @@ Cumacanga | | | | l
 Mão de Cabelo | | | | l
 Bradador | | | | l
 Porca dos Sete Leitões | | | | l
+Capelobo | r
+Jurupari | r
+Pedro Malasartes | Malasartes;Pedro Malazartes | r
+Pé-de-garrafa | r
+Teiniaguá | l

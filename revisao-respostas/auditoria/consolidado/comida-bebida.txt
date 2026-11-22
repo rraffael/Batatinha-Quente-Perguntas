@@ -1,0 +1,334 @@
+== com-frutas    # Cite uma fruta
++ Toranja | Grapefruit;Pomelo |  |  | i | https://pt.wikipedia.org/wiki/Toranja    # profunda,listas
++ Marmelo |  | Quince | Membrillo | i | https://pt.wikipedia.org/wiki/Marmelo https://pt.wikipedia.org/wiki/Marmeleiro    # profunda,listas
++ Tâmara |  | Date | Dátil | i | https://pt.wikipedia.org/wiki/T%C3%A2mara https://pt.wikipedia.org/wiki/Tamareira    # profunda,listas
++ Cidra |  | Citron |  | e | https://en.wikipedia.org/wiki/Citron    # profunda
++ Pupunha |  | Peach palm | Chontaduro | r | https://pt.wikipedia.org/wiki/Pupunha    # profunda,listas
++ Bacaba |  |  |  | e | https://pt.wikipedia.org/wiki/Bacaba    # profunda,listas
++ Tucumã |  |  |  | r | https://pt.wikipedia.org/wiki/Tucum%C3%A3    # profunda,listas
++ Camu-camu |  |  |  | r | https://pt.wikipedia.org/wiki/Camu-camu    # profunda,listas
++ Abiu |  |  | Caimito | r | https://pt.wikipedia.org/wiki/Abiu https://pt.wikipedia.org/wiki/Abieiro    # profunda,listas
++ Biribá |  |  |  | e | https://pt.wikipedia.org/wiki/Birib%C3%A1    # profunda,listas
++ Cajarana | Cajá-manga;Cajamanga | Ambarella | Jobo de la India | r | https://pt.wikipedia.org/wiki/Cajarana https://pt.wikipedia.org/wiki/Caj%C3%A1-manga    # profunda,listas
++ Jatobá |  |  |  | r | https://pt.wikipedia.org/wiki/Jatob%C3%A1    # profunda,listas
++ Jambolão | Jamelão;Azeitona-roxa;Jalão | Java plum | Jambolán | r | https://pt.wikipedia.org/wiki/Jambol%C3%A3o https://pt.wikipedia.org/wiki/Jamel%C3%A3o    # profunda,listas
++ Araticum |  |  |  | e | https://pt.wikipedia.org/wiki/Araticum    # profunda,listas
++ Gabiroba | Guabiroba |  |  | e | https://pt.wikipedia.org/wiki/Gabiroba https://pt.wikipedia.org/wiki/Campomanesia_pubescens    # profunda,listas
++ Pitomba |  |  |  | r | https://pt.wikipedia.org/wiki/Pitomba    # profunda,listas
++ Ingá |  | Ice-cream bean | Guaba | r | https://en.wikipedia.org/wiki/Inga_edulis https://pt.wikipedia.org/wiki/Ing%C3%A1    # profunda,listas
++ Juá |  |  |  | e | https://pt.wikipedia.org/wiki/Juazeiro    # profunda
++ Sapota |  | Mamey sapote | Mamey | e | https://pt.wikipedia.org/wiki/Pouteria_sapota    # profunda
++ Fruta-pão |  | Breadfruit | Árbol del pan;Fruta de pan | r | https://pt.wikipedia.org/wiki/Fruta-p%C3%A3o https://pt.wikipedia.org/wiki/%C3%81rvore-do-p%C3%A3o    # profunda,listas
++ Noni |  |  |  | e | https://pt.wikipedia.org/wiki/Morinda_citrifolia https://pt.wikipedia.org/wiki/Noni    # profunda,listas
++ Durião | Durian |  |  | e | https://pt.wikipedia.org/wiki/Duri%C3%A3o    # profunda,listas
++ Feijoa | Goiaba-serrana |  |  | e | https://pt.wikipedia.org/wiki/Feijoa    # profunda,listas
++ Longan | Olho-de-dragão |  |  | e | https://pt.wikipedia.org/wiki/Longan    # profunda,listas
++ Cherimoia |  | Cherimoya | Chirimoya | e | https://pt.wikipedia.org/wiki/Cherimoia https://pt.wikipedia.org/wiki/Annona_cherimola    # profunda,listas
++ Butiá |  | Jelly palm |  | r | https://pt.wikipedia.org/wiki/Buti%C3%A1    # profunda,listas
++ Goji | Goji berry |  |  | r | https://pt.wikipedia.org/wiki/Goji https://pt.wikipedia.org/wiki/G%C3%B3ji    # profunda,listas
++ Uxi |  |  |  | l | https://pt.wikipedia.org/wiki/Uxi    # profunda
++ Cambucá |  |  |  | l | https://pt.wikipedia.org/wiki/Cambuc%C3%A1    # profunda
++ Bacupari |  |  |  | l | https://pt.wikipedia.org/wiki/Bacupari    # profunda
++ Cagaita |  |  |  | e | https://pt.wikipedia.org/wiki/Cagaita https://pt.wikipedia.org/wiki/Cagaiteira    # profunda,listas
++ Macaúba |  |  |  | l | https://pt.wikipedia.org/wiki/Maca%C3%BAba    # profunda
++ Salak |  |  |  | l | https://pt.wikipedia.org/wiki/Salak    # profunda
++ Azeitona |  | Olive | Aceituna | r | https://pt.wikipedia.org/wiki/Azeitona    # listas
++ Nashi | Pera-asiática | Nashi pear;Asian pear |  | e | https://pt.wikipedia.org/wiki/Nashi    # listas
++ Baru |  |  |  | e | https://pt.wikipedia.org/wiki/Baru    # listas
++ Licuri | Ouricuri |  |  | e | https://pt.wikipedia.org/wiki/Syagrus_coronata    # listas
++ Cereja-do-rio-grande |  |  |  | l | https://pt.wikipedia.org/wiki/Eugenia_involucrata    # listas
++ Cabeludinha |  |  |  | l | https://pt.wikipedia.org/wiki/Plinia_glomerata    # listas
++ Bilimbi | Biri-biri |  |  | l | https://pt.wikipedia.org/wiki/Bilimbi    # listas
+~ Banana | Banana-prata;Banana-nanica;Banana-maçã;Banana-da-terra | https://pt.wikipedia.org/wiki/Banana    # generica
+~ Limão | Limão-siciliano;Limão-taiti;Limão-galego | https://pt.wikipedia.org/wiki/Lim%C3%A3o    # generica
+~ Lima-da-pérsia | Lima | https://pt.wikipedia.org/wiki/Lima-da-p%C3%A9rsia    # generica
+~ Physalis | Fisális;Camapu;Tomate-capucho | https://pt.wikipedia.org/wiki/Physalis    # generica
+~ Tangerina | Poncã;Mixirica;Murcote;Tangerina-murcote | https://pt.wikipedia.org/wiki/Tangerina    # listas
+~ Laranja | Laranja-lima;Laranja-pera;Laranja-baía | https://pt.wikipedia.org/wiki/Lima_(fruto)    # listas
+~ Mamão | Mamão-papaia | https://pt.wikipedia.org/wiki/Mam%C3%A3o    # listas
+~ Açaí | Juçara;Içara | https://pt.wikipedia.org/wiki/I%C3%A7ara_(palmeira)    # listas
+
+== com-hortalicas    # Cite uma hortaliça (legume, verdura, raiz ou tubérculo)
++ Ruibarbo |  | Rhubarb |  | r | https://pt.wikipedia.org/wiki/Ruibarbo    # generica
++ Chalota | Echalote;Chalote | Shallot |  | e | https://pt.wikipedia.org/wiki/Chalota    # profunda
++ Couve-chinesa | Acelga-chinesa;Pak choi;Bok choy | Napa cabbage | Col china | r | https://en.wikipedia.org/wiki/Bok_choy https://pt.wikipedia.org/wiki/Couve-china    # profunda,listas
++ Radicchio | Chicória-vermelha |  | Achicoria roja | e | https://pt.wikipedia.org/wiki/Radicchio https://pt.wikipedia.org/wiki/Cichorium_intybus    # profunda,listas
++ Beldroega |  | Purslane | Verdolaga | e | https://pt.wikipedia.org/wiki/Beldroega    # profunda
++ Serralha |  | Sow thistle | Cerraja | e | https://pt.wikipedia.org/wiki/Serralha    # profunda,listas
++ Caruru | Bredo;Amaranto | Amaranth | Bledo | r | https://pt.wikipedia.org/wiki/Amaranthus_viridis https://pt.wikipedia.org/wiki/Caruru    # profunda,listas
++ Fava |  | Broad bean | Haba | e | https://pt.wikipedia.org/wiki/Fava    # profunda
++ Yacon | Batata-yacon |  |  | r | https://pt.wikipedia.org/wiki/Yacon    # profunda,listas
++ Araruta |  | Arrowroot | Arrurruz | e | https://pt.wikipedia.org/wiki/Araruta    # profunda
++ Bardana | Gobo | Burdock |  | l | https://pt.wikipedia.org/wiki/Bardana    # profunda
++ Couve-rábano |  | Kohlrabi | Colinabo | e | https://pt.wikipedia.org/wiki/Couve-r%C3%A1bano    # profunda,listas
++ Jambu |  | Paracress |  | r | https://pt.wikipedia.org/wiki/Jambu https://pt.wikipedia.org/wiki/Acmella_oleracea    # profunda,listas
++ Vinagreira | Azedinha;Hibisco;Azeda | Roselle;Sorrel | Rosa de Jamaica;Acedera | e | https://pt.wikipedia.org/wiki/Hibiscus_sabdariffa https://pt.wikipedia.org/wiki/Rumex_acetosa    # profunda,listas
++ Broto de feijão | Moyashi | Bean sprouts;Bean sprout | Brotes de soja;Brote de soja | r | https://pt.wikipedia.org/wiki/Broto_de_feij%C3%A3o https://pt.wikipedia.org/wiki/Moyashi    # profunda,listas
++ Broto de bambu |  | Bamboo shoot | Brote de bambú | e | https://pt.wikipedia.org/wiki/Broto_de_bambu    # profunda
++ Manjericão | Alfavaca;Basílico | Basil | Albahaca | c | https://pt.wikipedia.org/wiki/Ocimum_basilicum https://pt.wikipedia.org/wiki/Manjeric%C3%A3o-de-folha-larga    # profunda,listas
++ Hortelã | Menta | Mint | Hierbabuena | c | https://pt.wikipedia.org/wiki/Hortel%C3%A3 https://pt.wikipedia.org/wiki/Mentha    # profunda,listas
++ Alecrim |  | Rosemary | Romero | r | https://pt.wikipedia.org/wiki/Alecrim    # profunda
++ Tomilho |  | Thyme | Tomillo | e | https://pt.wikipedia.org/wiki/Tomilho    # profunda
++ Orégano |  |  |  | e | https://pt.wikipedia.org/wiki/Or%C3%A9gano    # profunda
++ Sálvia |  | Sage |  | e | https://pt.wikipedia.org/wiki/S%C3%A1lvia    # profunda
++ Endro | Dill |  | Eneldo | e | https://pt.wikipedia.org/wiki/Endro    # profunda
++ Pimenta | Pimenta-malagueta;Pimenta-de-cheiro | Chili pepper | Chile;Ají | i | https://pt.wikipedia.org/wiki/Capsicum https://pt.wikipedia.org/wiki/Capsicum_frutescens    # profunda,listas
++ Cúrcuma | Açafrão-da-terra | Turmeric |  | e | https://pt.wikipedia.org/wiki/C%C3%BArcuma    # profunda
++ Tupinambo | Alcachofra-de-jerusalém | Jerusalem artichoke |  | e | https://pt.wikipedia.org/wiki/Helianthus_tuberosus    # listas
++ Capuchinha | Chagas | Nasturtium | Capuchina | e | https://pt.wikipedia.org/wiki/Tropaeolum_majus    # listas
++ Nirá | Cebolinha-chinesa | Garlic chives |  | e | https://pt.wikipedia.org/wiki/Allium_tuberosum    # listas
++ Dente-de-leão |  | Dandelion | Diente de león | e | https://pt.wikipedia.org/wiki/Dente-de-le%C3%A3o    # listas
+~ Alface | Alface-americana;Alface-crespa;Alface-roxa;Alface-lisa | https://pt.wikipedia.org/wiki/Alface    # generica
+~ Abobrinha | Abobrinha-italiana;Abobrinha-verde | https://pt.wikipedia.org/wiki/Abobrinha    # generica
+~ Pimentão | Pimentão-verde;Pimentão-vermelho;Pimentão-amarelo | https://pt.wikipedia.org/wiki/Piment%C3%A3o    # generica
+~ Cebola | Cebola-roxa;Cebola-branca | https://pt.wikipedia.org/wiki/Cebola    # generica
+~ Inhame | Taro | https://pt.wikipedia.org/wiki/Taro    # generica
+~ Escarola | Endívia;Endibia | https://pt.wikipedia.org/wiki/End%C3%ADvia    # profunda,listas
+~ Abóbora | Moranga;Cabotiá;Abóbora-cabotiá;Abóbora-moranga;Abóbora-japonesa | https://pt.wikipedia.org/wiki/Ab%C3%B3bora    # profunda,listas
+~ Repolho | Repolho roxo | https://pt.wikipedia.org/wiki/Repolho    # listas
+~ Tomate | Tomate-cereja | https://pt.wikipedia.org/wiki/Tomate    # listas
+~ Vagem | Feijão-verde | https://www.dicio.com.br/vagem/    # listas
+~ Ervilha | Ervilha-torta | https://www.dicio.com.br/ervilha/    # listas
+
+== com-pratos-brasileiros    # Cite um prato típico da culinária brasileira
++ Salpicão | Salada de salpicão;Salpicão de frango |  | Ensalada de salpicón | i | https://pt.wikipedia.org/wiki/Salpic%C3%A3o_(salada)    # generica
++ Pirarucu de casaca |  |  |  | e | https://pt.wikipedia.org/wiki/Culin%C3%A1ria_do_Amazonas    # profunda
++ X-caboquinho |  |  |  | l | https://pt.wikipedia.org/wiki/Culin%C3%A1ria_do_Amazonas    # profunda
++ Arroz Maria Isabel | Maria Isabel;Arroz de pinicado |  |  | r | https://pt.wikipedia.org/wiki/Arroz_Maria_Isabel https://pt.wikipedia.org/wiki/Maria-isabel    # profunda,listas
++ Torta capixaba |  |  |  | r | https://pt.wikipedia.org/wiki/Torta_capixaba    # profunda,listas
++ Angu |  |  |  | r | https://pt.wikipedia.org/wiki/Angu    # profunda
++ Canjiquinha | Canjiquinha com costelinha |  |  | e | https://pt.wikipedia.org/wiki/Canjiquinha    # profunda
++ Leitão à pururuca | Pururuca |  |  | e | https://pt.wikipedia.org/wiki/Pururuca    # profunda
++ Pastel de angu |  |  |  | l | https://pt.wikipedia.org/wiki/Pastel_de_angu    # profunda
++ Rabada |  | Oxtail;Oxtail stew | Rabo de toro | i | https://pt.wikipedia.org/wiki/Rabada    # profunda,listas
++ Efó |  |  |  | l | https://pt.wikipedia.org/wiki/Culin%C3%A1ria_da_Bahia    # profunda
++ Casquinha de siri |  |  |  | i | https://pt.wikipedia.org/wiki/Casquinha_de_siri    # profunda,listas
++ Peixada cearense | Peixada |  |  | e | https://pt.wikipedia.org/wiki/Culin%C3%A1ria_do_Cear%C3%A1    # profunda
++ Panelada |  |  |  | e | https://pt.wikipedia.org/wiki/Culin%C3%A1ria_do_Cear%C3%A1    # profunda
++ Arrumadinho |  |  |  | r | https://pt.wikipedia.org/wiki/Arrumadinho    # profunda,listas
++ Arroz de hauçá |  |  |  | e | https://pt.wikipedia.org/wiki/Culin%C3%A1ria_da_Bahia https://pt.wikipedia.org/wiki/Arroz_de_hau%C3%A7%C3%A1    # profunda,listas
++ Acaçá |  |  |  | l | https://pt.wikipedia.org/wiki/Culin%C3%A1ria_da_Bahia    # profunda
++ Sopa paraguaia |  |  | Sopa paraguaya | e | https://pt.wikipedia.org/wiki/Sopa_paraguaia    # profunda,listas
++ Paçoca de pinhão | Pinhão cozido |  |  | l | https://pt.wikipedia.org/wiki/Pinh%C3%A3o    # profunda
++ Prato feito | PF;Prato comercial |  |  | i | https://pt.wikipedia.org/wiki/Prato_comercial    # listas
++ Biscoito de polvilho | Avoador;Biscoito de goma;Peta |  |  | i | https://pt.wikipedia.org/wiki/Avoador    # listas
++ Misto-quente | Misto | Ham and cheese sandwich | Mixto | i | https://pt.wikipedia.org/wiki/Misto-quente    # listas
++ Cozido | Cozido à brasileira |  | Cocido | i | https://pt.wikipedia.org/wiki/Cozido    # listas
++ Filé à Oswaldo Aranha | Filé Oswaldo Aranha |  |  | r | https://pt.wikipedia.org/wiki/Fil%C3%A9_%C3%A0_Oswaldo_Aranha    # listas
++ Carne de onça |  |  |  | r | https://pt.wikipedia.org/wiki/Culin%C3%A1ria_do_Paran%C3%A1    # listas
+~ Feijoada | Feijoada completa | https://pt.wikipedia.org/wiki/Feijoada    # generica
+~ Churrasco | Churrasquinho;Espetinho | https://pt.wikipedia.org/wiki/Churrasco    # generica
+~ Pato no tucupi | Pato ao tucupi | https://pt.wikipedia.org/wiki/Pato_no_tucupi    # generica
+~ Virado à paulista | Virado paulista | https://pt.wikipedia.org/wiki/Virado_%C3%A0_paulista    # generica
+~ Moqueca | Moqueca de peixe;Moqueca de camarão | https://pt.wikipedia.org/wiki/Moqueca    # generica
+~ Empadão goiano | Empadão | https://pt.wikipedia.org/wiki/Empad%C3%A3o_goiano    # generica
+~ Baião de dois | Baião | https://pt.wikipedia.org/wiki/Bai%C3%A3o_de_dois    # listas
+
+== com-doces-brasileiros    # Cite um doce ou sobremesa típico do Brasil
++ Rabanada | Fatia dourada | French toast | Torrija | i | https://pt.wikipedia.org/wiki/Rabanada    # generica
++ Doce de mamão | Doce de mamão verde |  | Dulce de papaya | r | https://www.receiteria.com.br/receita/doce-de-mamao-verde-em-pedacos-cristalizado/ https://pt.wikipedia.org/wiki/Doce_de_mam%C3%A3o    # profunda,listas
++ Marmelada | Marmelada de Santa Luzia |  |  | r | https://pt.wikipedia.org/wiki/Marmelada    # profunda
++ Mané pelado |  |  |  | e | https://pt.wikipedia.org/wiki/Man%C3%A9_pelado    # profunda,listas
++ Bala de banana |  |  |  | e | https://jovempan.com.br/entretenimento/cultura/doces-tipicos-do-litoral-paulista-que-voce-precisa-provar.html    # profunda
++ Cuca |  |  |  | e | https://pt.wikipedia.org/wiki/Cuca_(bolo)    # profunda
++ Furrundu |  |  |  | l | https://pt.wikipedia.org/wiki/Furrundu    # profunda
++ Alfenim |  |  | Alfeñique | e | https://pt.wikipedia.org/wiki/Alfenim    # profunda,listas
++ Tareco |  |  |  | e | https://pt.wikipedia.org/wiki/Tareco    # profunda
++ Mariola | Tijolinho |  |  | e | https://pt.wikipedia.org/wiki/Mariola_(doce)    # profunda
++ Sequilho |  |  |  | e | https://pt.wikipedia.org/wiki/Sequilho    # profunda
++ Papo de anjo |  |  |  | e | https://en.wikipedia.org/wiki/List_of_Brazilian_sweets_and_desserts    # profunda
++ Pão de mel |  |  |  | r | https://en.wikipedia.org/wiki/List_of_Brazilian_sweets_and_desserts    # profunda
++ Palha italiana |  |  |  | i | https://en.wikipedia.org/wiki/List_of_Brazilian_sweets_and_desserts https://pt.wikipedia.org/wiki/Palha_italiana    # profunda,listas
++ Creme de papaia | Creme de papaya;Papaya com cassis | Papaya cream | Crema de papaya | r | https://en.wikipedia.org/wiki/List_of_Brazilian_sweets_and_desserts    # profunda
++ Carolina |  |  |  | e | https://en.wikipedia.org/wiki/List_of_Brazilian_sweets_and_desserts    # profunda
++ Broinha de coco |  |  |  | e | https://en.wikipedia.org/wiki/List_of_Brazilian_sweets_and_desserts    # profunda
++ Torta alemã |  |  |  | r | https://en.wikipedia.org/wiki/List_of_Brazilian_sweets_and_desserts    # profunda
++ Nhá Benta |  |  |  | e | https://en.wikipedia.org/wiki/List_of_Brazilian_sweets_and_desserts    # profunda
++ Amanteigado |  |  |  | e | https://en.wikipedia.org/wiki/List_of_Brazilian_sweets_and_desserts    # profunda
++ Umbuzada |  |  |  | e | https://en.wikipedia.org/wiki/List_of_Brazilian_sweets_and_desserts    # profunda
++ Pastel de Santa Clara |  |  |  | l | https://en.wikipedia.org/wiki/List_of_Brazilian_sweets_and_desserts    # profunda
++ Chuvisco |  |  |  | l | https://en.wikipedia.org/wiki/List_of_Brazilian_sweets_and_desserts    # profunda
++ Bijajica |  |  |  | l | https://en.wikipedia.org/wiki/List_of_Brazilian_sweets_and_desserts    # profunda
++ Cupulate |  |  |  | l | https://en.wikipedia.org/wiki/List_of_Brazilian_sweets_and_desserts    # profunda
++ Bolinho de chuva |  |  |  | c | https://pt.wikipedia.org/wiki/Bolinho_de_chuva    # listas
++ Sacolé | Geladinho;Dindin;Chup-chup;Flau;Gelinho |  |  | i | https://pt.wikipedia.org/wiki/Sacol%C3%A9    # listas
++ Broa de fubá | Broa;Broa de milho |  |  | r | https://pt.wikipedia.org/wiki/Broa_de_fub%C3%A1    # listas
++ Nego bom |  |  |  | r | https://pt.wikipedia.org/wiki/Nego_bom    # listas
++ Chimia | Schmier |  |  | e | https://pt.wikipedia.org/wiki/Chimia    # listas
+~ Pudim | Pudim de leite condensado | https://pt.wikipedia.org/wiki/Pudim    # generica
+~ Bem-casado | Casadinho | https://pt.wikipedia.org/wiki/Bem-casado    # profunda
+~ Goiabada | Goiabada cascão;Doce de goiaba | https://pt.wikipedia.org/wiki/Goiabada    # profunda,listas
+~ Cocada | Cocada preta;Cocada branca;Cocada morena;Cocada queimada | https://en.wikipedia.org/wiki/List_of_Brazilian_sweets_and_desserts https://pt.wikipedia.org/wiki/Cocada    # profunda,listas
+~ Paçoca | Paçoquinha | https://pt.wikipedia.org/wiki/Pa%C3%A7oca    # listas
+~ Sagu | Sagu de vinho | https://pt.wikipedia.org/wiki/Sagu    # listas
+~ Quindim | Quindão | https://pt.wikipedia.org/wiki/Quindim    # listas
+~ Doce de leite | Doce de leite de cortar | https://pt.wikipedia.org/wiki/Doce_de_leite    # listas
+~ Pavê | Pavê de chocolate | https://pt.wikipedia.org/wiki/Pav%C3%AA    # listas
+
+== com-temperos    # Cite um tempero, erva aromática ou especiaria
++ Pimenta |  | Pepper;Chili | Pimienta;Chile | c | https://pt.wikipedia.org/wiki/Pimenta    # generica
++ Vinagre |  | Vinegar |  | i | https://pt.wikipedia.org/wiki/Vinagre    # generica,listas
++ Erva-cidreira | Melissa | Lemon balm | Melisa | e | https://pt.wikipedia.org/wiki/Melissa_officinalis    # profunda
++ Poejo |  | Pennyroyal | Poleo | l | https://pt.wikipedia.org/wiki/Poejo    # profunda
++ Cerefólio |  | Chervil | Perifollo | l | https://pt.wikipedia.org/wiki/Ceref%C3%B3lio    # profunda
++ Segurelha |  | Savory | Ajedrea | e | https://pt.wikipedia.org/wiki/Segurelha https://pt.wikipedia.org/wiki/Satureja    # profunda,listas
++ Levístico |  | Lovage |  | l | https://pt.wikipedia.org/wiki/Lev%C3%ADstico    # profunda
++ Alcarávia | Cominho-armênio;Kümmel | Caraway | Alcaravea | l | https://pt.wikipedia.org/wiki/Alcar%C3%A1via    # profunda
++ Nigela | Cominho-preto | Nigella | Neguilla | l | https://en.wikipedia.org/wiki/Nigella_sativa    # profunda
++ Semente de papoula | Papoula | Poppy seed | Semilla de amapola | l | https://pt.wikipedia.org/wiki/Semente_de_papoula    # profunda
++ Za'atar | Zaatar |  | Zatar | e | https://pt.wikipedia.org/wiki/Za'atar https://pt.wikipedia.org/wiki/Za%27atar    # profunda,listas
++ Ras el hanout |  |  |  | l | https://pt.wikipedia.org/wiki/Ras_el_hanout    # profunda,listas
++ Cinco especiarias chinesas |  | Five-spice powder | Cinco especias | l | https://en.wikipedia.org/wiki/Five-spice_powder    # profunda
++ Glutamato monossódico | Glutamato;Ajinomoto | Monosodium glutamate;MSG | Glutamato monosódico | r | https://pt.wikipedia.org/wiki/Glutamato_monoss%C3%B3dico    # profunda,listas
++ Macis | Mácide | Mace |  | e | https://pt.wikipedia.org/wiki/Noz-moscada https://pt.wikipedia.org/wiki/Macis    # profunda,listas
++ Pimenta-longa |  | Long pepper | Pimienta larga | l | https://pt.wikipedia.org/wiki/Pimenta-longa    # profunda,listas
++ Pimenta-de-sichuan |  | Sichuan pepper | Pimienta de Sichuan | l | https://pt.wikipedia.org/wiki/Pimenta-de-sichuan    # profunda
++ Pimenta-branca |  | White pepper | Pimienta blanca | e | https://en.wikipedia.org/wiki/White_pepper    # profunda
++ Jalapeño | Pimenta jalapeño;Jalapenho;Pimenta-jalapenho |  |  | r | https://pt.wikipedia.org/wiki/Jalape%C3%B1o https://pt.wikipedia.org/wiki/Pimenta-jalapenho    # profunda,listas
++ Pimenta-habanero | Habanero;Pimenta-lampião |  |  | r | https://en.wikipedia.org/wiki/Habanero https://pt.wikipedia.org/wiki/Pimento_Lampi%C3%A3o    # profunda,listas
++ Alcaçuz |  | Liquorice | Regaliz | e | https://pt.wikipedia.org/wiki/Alca%C3%A7uz    # profunda
++ Galanga | Galangal |  |  | l | https://pt.wikipedia.org/wiki/Galanga    # profunda,listas
++ Folha de limão kaffir | Kaffir | Kaffir lime | Lima kaffir | l | https://en.wikipedia.org/wiki/Kaffir_lime    # profunda
++ Ervas de Provence |  | Herbes de Provence | Hierbas provenzales | e | https://en.wikipedia.org/wiki/Herbes_de_Provence    # profunda
++ Cebola |  | Onion | Cebolla | r | https://pt.wikipedia.org/wiki/Cebola    # profunda
++ Shoyu | Molho de soja;Molho shoyu | Soy sauce | Salsa de soja | i | https://pt.wikipedia.org/wiki/Molho_de_soja    # listas
++ Molho inglês | Worcestershire | Worcestershire sauce | Salsa inglesa | r | https://pt.wikipedia.org/wiki/Molho_Worcestershire    # listas
++ Pimenta-murupi | Murupi |  |  | e | https://pt.wikipedia.org/wiki/Capsicum_chinense    # listas
++ Harissa |  |  |  | e | https://pt.wikipedia.org/wiki/Harissa    # listas
++ Assa-fétida |  | Asafoetida | Asafétida | l | https://pt.wikipedia.org/wiki/Ferula_assafoetida    # listas
+~ Cúrcuma | Açafrão-da-índia;Açafroeira-da-índia | https://pt.wikipedia.org/wiki/C%C3%BArcuma    # generica
+~ Endro | Aneto | https://pt.wikipedia.org/wiki/Endro    # generica
+~ Manjericão | Alfavaca;Basílico | https://pt.wikipedia.org/wiki/Ocimum_gratissimum https://pt.wikipedia.org/wiki/Manjeric%C3%A3o-de-folha-larga    # profunda,listas
+~ Pimenta-do-reino | Pimenta-preta;Pimenta-negra | https://pt.wikipedia.org/wiki/Pimenta-do-reino    # profunda,listas
+~ Sal | Sal grosso;Flor de sal;Sal rosa;Sal marinho | https://pt.wikipedia.org/wiki/Sal_de_cozinha    # profunda,listas
+~ Pimenta caiena | Pimenta-de-caiena | https://pt.wikipedia.org/wiki/Pimenta-de-caiena    # listas
+~ Cebolinha | Cebolinha-francesa;Ciboulette | https://pt.wikipedia.org/wiki/Allium_schoenoprasum    # listas
+~ Páprica | Páprica defumada;Páprica doce;Páprica picante | https://pt.wikipedia.org/wiki/P%C3%A1prica    # listas
+~ Coentro | Semente de coentro | https://pt.wikipedia.org/wiki/Coentro    # listas
+~ Pimenta-da-jamaica | Bahar;Baharat | https://pt.wikipedia.org/wiki/Pimenta_s%C3%ADria    # listas
+
+== com-bebidas-alcoolicas    # Cite uma bebida alcoólica (tipo ou drinque)
++ Old Fashioned |  |  |  | r | https://en.wikipedia.org/wiki/Old_fashioned_(cocktail) https://pt.wikipedia.org/wiki/Old_fashioned    # profunda,listas
++ Manhattan |  |  |  | r | https://en.wikipedia.org/wiki/Manhattan_(cocktail) https://pt.wikipedia.org/wiki/Manhattan_(coquetel)    # profunda,listas
++ Mai Tai |  |  |  | e | https://en.wikipedia.org/wiki/Mai_Tai https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails    # profunda,listas
++ Tom Collins |  |  |  | e | https://en.wikipedia.org/wiki/Tom_Collins    # profunda
++ Whisky sour | Uísque sour | Whiskey sour |  | r | https://en.wikipedia.org/wiki/Whiskey_sour https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails    # profunda,listas
++ Pisco sour |  |  |  | r | https://en.wikipedia.org/wiki/Pisco_sour https://pt.wikipedia.org/wiki/Pisco_sour    # profunda,listas
++ Bellini |  |  |  | r | https://en.wikipedia.org/wiki/Bellini_(cocktail) https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails    # profunda,listas
++ Mimosa |  |  |  | r | https://en.wikipedia.org/wiki/Mimosa_(cocktail) https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails    # profunda,listas
++ Long Island Iced Tea | Long Island |  |  | r | https://en.wikipedia.org/wiki/Long_Island_iced_tea https://pt.wikipedia.org/wiki/Long_Island_Iced_Tea    # profunda,listas
++ Blue Lagoon | Lagoa azul |  |  | e | https://en.wikipedia.org/wiki/Blue_Lagoon_(cocktail)    # profunda
++ Black Russian | Russo negro |  | Ruso negro | e | https://en.wikipedia.org/wiki/Black_Russian https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails    # profunda,listas
++ White Russian |  |  | Ruso blanco | e | https://en.wikipedia.org/wiki/White_Russian_(cocktail)    # profunda
++ Irish coffee | Café irlandês |  |  | r | https://en.wikipedia.org/wiki/Irish_coffee https://pt.wikipedia.org/wiki/Irish_coffee    # profunda,listas
++ Bourbon |  |  |  | i | https://en.wikipedia.org/wiki/Bourbon_whiskey https://pt.wikipedia.org/wiki/Bourbon_(u%C3%ADsque)    # profunda,listas
++ Raki | Rakı |  |  | e | https://en.wikipedia.org/wiki/Rak%C4%B1 https://pt.wikipedia.org/wiki/Rak%C4%B1    # profunda,listas
++ Sambuca |  |  |  | e | https://pt.wikipedia.org/wiki/Sambuca    # profunda,listas
++ Limoncello |  |  |  | r | https://pt.wikipedia.org/wiki/Limoncello    # profunda,listas
++ Amaretto |  |  |  | r | https://pt.wikipedia.org/wiki/Amaretto    # profunda,listas
++ Pastis |  |  |  | e | https://pt.wikipedia.org/wiki/Pastis    # profunda,listas
++ Schnapps |  |  |  | l | https://en.wikipedia.org/wiki/Schnapps    # profunda
++ Kirsch |  | Kirschwasser |  | l | https://en.wikipedia.org/wiki/Kirschwasser    # profunda
++ Baijiu |  |  |  | l | https://en.wikipedia.org/wiki/Baijiu https://pt.wikipedia.org/wiki/Baijiu    # profunda,listas
++ Makgeolli |  |  |  | l | https://en.wikipedia.org/wiki/Makgeolli https://pt.wikipedia.org/wiki/Makgeolli    # profunda,listas
++ Pulque |  |  |  | e | https://pt.wikipedia.org/wiki/Pulque    # profunda,listas
++ Chicha |  |  |  | e | https://pt.wikipedia.org/wiki/Chicha    # profunda,listas
++ Cauim |  |  |  | e | https://pt.wikipedia.org/wiki/Cauim    # profunda,listas
++ Prosecco |  |  |  | i | https://pt.wikipedia.org/wiki/Prosecco    # profunda,listas
++ Cava |  |  |  | l | https://en.wikipedia.org/wiki/Cava_(Spanish_wine)    # profunda
++ Moscatel |  | Muscat |  | r | https://pt.wikipedia.org/wiki/Moscatel    # profunda,listas
++ Vinho da Madeira | Madeira | Madeira wine | Vino de Madeira | e | https://pt.wikipedia.org/wiki/Vinho_da_Madeira    # profunda,listas
++ Marsala | Vinho Marsala | Marsala wine |  | e | https://en.wikipedia.org/wiki/Marsala_wine https://pt.wikipedia.org/wiki/Vinho_Marsala    # profunda,listas
++ Curaçau | Blue curaçao;Curaçao |  | Curazao | r | https://en.wikipedia.org/wiki/Cura%C3%A7ao_(liqueur) https://pt.wikipedia.org/wiki/Cura%C3%A7ao_(licor)    # profunda,listas
++ Ponche |  | Punch |  | e | https://en.wikipedia.org/wiki/Punch_(drink)    # profunda
++ Armagnac | Armanhaque |  | Armañac | e | https://pt.wikipedia.org/wiki/Armagnac    # profunda,listas
++ Vinho verde |  |  | Vino verde | r | https://pt.wikipedia.org/wiki/Vinho_verde    # listas
++ Lambrusco |  |  |  | r | https://pt.wikipedia.org/wiki/Lambrusco    # listas
++ Anisete |  | Anisette |  | e | https://pt.wikipedia.org/wiki/Anisete    # listas
++ Leite de onça |  |  |  | r | https://pt.wikipedia.org/wiki/Leite_de_on%C3%A7a    # listas
++ Slivovitz |  |  |  | l | https://pt.wikipedia.org/wiki/Slivovitz    # listas
++ Espresso martini |  |  |  | r | https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails    # listas
++ Tequila sunrise |  |  |  | r | https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails    # listas
++ Mint julep |  |  |  | e | https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails    # listas
++ Sidecar |  |  |  | e | https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails    # listas
++ Gin fizz |  |  |  | e | https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails    # listas
++ Alexander | Brandy Alexander |  |  | e | https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails    # listas
++ Zombie |  |  |  | e | https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails    # listas
++ Paloma |  |  |  | e | https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails    # listas
++ French 75 |  |  |  | l | https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails    # listas
++ Rusty Nail |  |  |  | l | https://en.wikipedia.org/wiki/List_of_IBA_official_cocktails    # listas
+~ Cerveja | Pilsen;IPA;Stout;Lager;Ale;Weiss;Cerveja artesanal | https://pt.wikipedia.org/wiki/Cerveja    # profunda,listas
+~ Vinho | Vinho tinto;Vinho branco;Vinho rosé | https://pt.wikipedia.org/wiki/Vinho    # listas
+~ Batida | Batida de coco;Batidinha | https://pt.wikipedia.org/wiki/Batida_(bebida)    # listas
+~ Hi-fi | Screwdriver | https://en.wikipedia.org/wiki/Screwdriver_(cocktail)    # listas
+~ Caipiroska | Caipivodka | https://pt.wikipedia.org/wiki/Caipiroska    # listas
+
+== com-massas    # Cite um tipo de massa (macarrão)
++ Mafalda | Mafaldine;Mafalde |  |  | e | https://en.wikipedia.org/wiki/Mafaldine https://en.wikipedia.org/wiki/List_of_pasta    # profunda,listas
++ Casarecce |  |  |  | l | https://en.wikipedia.org/wiki/Casarecce https://en.wikipedia.org/wiki/List_of_pasta    # profunda,listas
++ Strozzapreti |  |  |  | l | https://en.wikipedia.org/wiki/Strozzapreti https://en.wikipedia.org/wiki/List_of_pasta    # profunda,listas
++ Garganelli |  |  |  | l | https://en.wikipedia.org/wiki/Garganelli https://pt.wikipedia.org/wiki/Garganelli    # profunda,listas
++ Maltagliati |  |  |  | l | https://en.wikipedia.org/wiki/Maltagliati https://en.wikipedia.org/wiki/List_of_pasta    # profunda,listas
++ Pici |  |  |  | l | https://en.wikipedia.org/wiki/Pici    # profunda
++ Anelli | Argolinha;Anelini |  |  | e | https://en.wikipedia.org/wiki/Anelli https://en.wikipedia.org/wiki/List_of_pasta    # profunda,listas
++ Manicotti |  |  |  | l | https://en.wikipedia.org/wiki/Manicotti    # profunda
++ Tortelloni |  |  |  | e | https://en.wikipedia.org/wiki/Tortellini    # profunda
++ Fagottini | Trouxinha |  |  | l | https://en.wikipedia.org/wiki/Fagottini    # profunda
++ Cuscuz marroquino | Couscous;Cuscuz de sêmola |  | Cuscús | e | https://en.wikipedia.org/wiki/Couscous    # profunda
++ Somen |  |  |  | l | https://en.wikipedia.org/wiki/S%C5%8Dmen    # profunda
++ Harusame | Macarrão de vidro;Bifum de feijão | Cellophane noodles | Fideos de celofán | l | https://en.wikipedia.org/wiki/Cellophane_noodles    # profunda
++ Cavatelli |  |  |  | e | https://en.wikipedia.org/wiki/Cavatelli https://en.wikipedia.org/wiki/List_of_pasta    # profunda,listas
++ Calamarata |  |  |  | l | https://en.wikipedia.org/wiki/Paccheri    # profunda
++ Spätzle | Spaetzle |  |  | e | https://en.wikipedia.org/wiki/Sp%C3%A4tzle https://pt.wikipedia.org/wiki/Sp%C3%A4tzle    # profunda,listas
++ Bavette |  |  |  | r | https://en.wikipedia.org/wiki/Bavette https://en.wikipedia.org/wiki/List_of_pasta    # profunda,listas
++ Trenette |  |  |  | l | https://en.wikipedia.org/wiki/Trenette    # profunda
++ Rotelle | Ruote;Rodinha | Wagon wheels |  | e | https://en.wikipedia.org/wiki/List_of_pasta    # listas
++ Campanelle |  |  |  | e | https://en.wikipedia.org/wiki/List_of_pasta    # listas
++ Gramigna |  |  |  | l | https://en.wikipedia.org/wiki/List_of_pasta    # listas
+~ Linguine | Linguini | https://pt.wikipedia.org/wiki/Linguine    # generica
+~ Fettuccine | Fettuccini;Fettucine | https://pt.wikipedia.org/wiki/Fettuccine    # generica
+~ Penne | Penne rigate | https://en.wikipedia.org/wiki/List_of_pasta    # listas
+~ Parafuso | Macarrão parafuso | https://en.wikipedia.org/wiki/List_of_pasta    # listas
+~ Gravatinha | Gravata;Borboleta | https://en.wikipedia.org/wiki/List_of_pasta    # listas
+~ Cotovelo | Cotovelinho | https://en.wikipedia.org/wiki/List_of_pasta    # listas
+~ Bifum | Macarrão de arroz | https://en.wikipedia.org/wiki/List_of_pasta    # listas
+
+== com-queijos    # Cite um tipo de queijo
++ Queijo de cabra | Chèvre | Goat cheese | Queso de cabra | i | https://pt.wikipedia.org/wiki/Queijo_de_cabra    # profunda,listas
++ Queijo Serra da Estrela | Serra da Estrela;Queijo da serra |  | Queso Serra da Estrela | r | https://pt.wikipedia.org/wiki/Queijo_Serra_da_Estrela    # profunda,listas
++ Queijo de Azeitão | Azeitão |  |  | l | https://pt.wikipedia.org/wiki/Queijo_de_Azeit%C3%A3o    # profunda
++ Queijo São Jorge | São Jorge;Queijo da ilha |  |  | l | https://pt.wikipedia.org/wiki/Queijo_S%C3%A3o_Jorge    # profunda
++ Queijo do Marajó | Marajó;Queijo marajoara |  |  | r | https://pt.wikipedia.org/wiki/Queijo_do_Maraj%C3%B3    # profunda,listas
++ Fontina |  |  |  | e | https://pt.wikipedia.org/wiki/Fontina    # profunda,listas
++ Scamorza |  |  |  | e | https://en.wikipedia.org/wiki/Scamorza    # profunda,listas
++ Stracciatella |  |  |  | e | https://en.wikipedia.org/wiki/Stracciatella_(cheese) https://pt.wikipedia.org/wiki/Stracciatella_(queijo)    # profunda,listas
++ Caciocavallo |  |  |  | l | https://en.wikipedia.org/wiki/Caciocavallo    # profunda,listas
++ Havarti |  |  |  | e | https://en.wikipedia.org/wiki/Havarti    # profunda,listas
++ Monterey Jack |  |  |  | e | https://en.wikipedia.org/wiki/Monterey_Jack https://pt.wikipedia.org/wiki/Monterey_Jack    # profunda,listas
++ Paneer |  |  |  | e | https://en.wikipedia.org/wiki/Paneer https://pt.wikipedia.org/wiki/Paneer    # profunda,listas
++ Comté |  |  |  | e | https://en.wikipedia.org/wiki/Comt%C3%A9_cheese https://pt.wikipedia.org/wiki/Comt%C3%A9    # profunda,listas
++ Reblochon |  |  |  | l | https://en.wikipedia.org/wiki/Reblochon    # profunda,listas
++ Munster |  |  |  | e | https://en.wikipedia.org/wiki/Munster_cheese https://pt.wikipedia.org/wiki/Munster_(queijo)    # profunda,listas
++ Morbier |  |  |  | l | https://en.wikipedia.org/wiki/Morbier_cheese    # profunda
++ Cantal |  |  |  | l | https://en.wikipedia.org/wiki/Cantal_cheese    # profunda
++ Leerdammer |  |  |  | l | https://en.wikipedia.org/wiki/Leerdammer    # profunda
++ Limburger |  |  |  | l | https://en.wikipedia.org/wiki/Limburger    # profunda,listas
++ Jarlsberg |  |  |  | l | https://en.wikipedia.org/wiki/Jarlsberg_cheese https://pt.wikipedia.org/wiki/Jarlsberg    # profunda,listas
++ Brunost | Gjetost |  |  | l | https://en.wikipedia.org/wiki/Brunost    # profunda
++ Wensleydale |  |  |  | l | https://en.wikipedia.org/wiki/Wensleydale_cheese    # profunda
++ Appenzeller |  |  |  | l | https://en.wikipedia.org/wiki/Appenzeller_cheese    # profunda,listas
++ Queso Oaxaca | Oaxaca | Oaxaca cheese |  | l | https://en.wikipedia.org/wiki/Oaxaca_cheese    # profunda
++ Cotija |  |  |  | l | https://en.wikipedia.org/wiki/Cotija_cheese    # profunda
++ Neufchâtel |  |  |  | l | https://en.wikipedia.org/wiki/Neufch%C3%A2tel_cheese    # profunda
++ Danablu | Danish blue |  |  | l | https://en.wikipedia.org/wiki/Danish_Blue_cheese    # profunda
++ Queijo serrano |  |  |  | e | https://pt.wikipedia.org/wiki/Queijo_serrano    # listas
++ Labneh | Coalhada seca |  |  | e | https://pt.wikipedia.org/wiki/Labneh    # listas
++ Cabrales |  |  |  | l | https://pt.wikipedia.org/wiki/Cabrales    # listas
+~ Coalho | Queijo de coalho | https://pt.wikipedia.org/wiki/Queijo_coalho    # generica
+~ Minas padrão | Minas curado;Queijo minas curado;Queijo minas padrão | https://pt.wikipedia.org/wiki/Queijo_minas    # generica
+~ Minas frescal | Minas;Queijo minas;Queijo branco;Queijo fresco | https://pt.wikipedia.org/wiki/Queijo_minas    # listas
+~ Muçarela | Mozarela;Muzarela;Queijo muçarela;Queijo mussarela | https://pt.wikipedia.org/wiki/Mu%C3%A7arela    # listas
+~ Emmental | Queijo suíço;Suíço;Emmentaler | https://pt.wikipedia.org/wiki/Emmentaler_(queijo)    # listas
+~ Queijo serro | Queijo do serro | https://pt.wikipedia.org/wiki/Queijo_do_Serro    # listas
+~ Queijo do reino | Queijo reino | https://pt.wikipedia.org/wiki/Queijo_do_reino    # listas
+~ Pecorino | Pecorino romano | https://pt.wikipedia.org/wiki/Pecorino_romano    # listas

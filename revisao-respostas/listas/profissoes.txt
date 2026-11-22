@@ -268,3 +268,12 @@
 + Ministro do TST | Ministro do Tribunal Superior do Trabalho | | | e | https://pt.wikipedia.org/wiki/Tribunal_Superior_do_Trabalho
 + Ministro do STM | Ministro do Superior Tribunal Militar | | | l | https://pt.wikipedia.org/wiki/Superior_Tribunal_Militar
 + Conselheiro do Tribunal de Contas | Conselheiro do TCE | | | l | https://pt.wikipedia.org/wiki/Tribunais_de_contas_do_Brasil
+
+== pro-patentes-militares
++ Taifeiro de Primeira Classe | Taifeiro primeira classe;Taifeiro de 1ª classe | | | l | https://pt.wikipedia.org/wiki/Hierarquia_militar_do_Brasil
++ Taifeiro de Segunda Classe | Taifeiro segunda classe;Taifeiro de 2ª classe | | | l | https://pt.wikipedia.org/wiki/Hierarquia_militar_do_Brasil
++ Soldado de Primeira Classe | Soldado primeira classe;Soldado de 1ª classe | | | l | https://pt.wikipedia.org/wiki/Hierarquia_militar_do_Brasil
++ Soldado de Segunda Classe | Soldado segunda classe;Soldado de 2ª classe | | | l | https://pt.wikipedia.org/wiki/Hierarquia_militar_do_Brasil
++ Aprendiz-Marinheiro | Aprendiz de marinheiro | | | l | https://pt.wikipedia.org/wiki/Hierarquia_militar_do_Brasil
+~ Tenente-Brigadeiro | Tenente-Brigadeiro do Ar | https://pt.wikipedia.org/wiki/Hierarquia_militar_do_Brasil
+~ Major-Brigadeiro | Major-Brigadeiro do Ar | https://pt.wikipedia.org/wiki/Hierarquia_militar_do_Brasil

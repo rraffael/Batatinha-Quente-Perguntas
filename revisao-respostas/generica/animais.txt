@@ -1,0 +1,26 @@
+== ani-mamiferos
+~ Orca | Baleia-assassina | https://pt.wikipedia.org/wiki/Orca
++ Pônei | Poney;Pony | Pony | Poni | i | https://pt.wikipedia.org/wiki/P%C3%B4nei
++ Zebu | Boi-zebu;Gado-zebu | Zebu | Cebú | i | https://www.ufmg.br/online/arquivos/015961.shtml
++ Pantera | Pantera-negra | Panther;Black panther | Pantera | i | https://pt.wikipedia.org/wiki/Pantera
+== ani-aves
++ Papagaio-do-mar | Fratercula | Puffin;Atlantic puffin | Frailecillo | r | https://pt.wikipedia.org/wiki/Papagaio-do-mar
+~ Pombo | Pombo-correio | https://pt.wikipedia.org/wiki/Pombo-correio
+== ani-peixes
++ Peixe-zebra | Paulistinha;Danio-zebra;Bandeirinha | Zebrafish | Pez cebra | r | https://pt.wikipedia.org/wiki/Peixe-zebra
++ Peixe-vela | Agulhão-vela | Sailfish | Pez vela | r | https://fish-commercial-names.ec.europa.eu/fish-names/species/istiophorus-platypterus_pt
+~ Acará | Escalar | https://pt.wikipedia.org/wiki/Pterophyllum_scalare
+== ani-insetos
+~ Louva-a-deus | Louva-deus | https://pt.wikipedia.org/wiki/Louva-a-deus
+~ Bicho-da-seda | Bicho-de-seda | https://pt.wikipedia.org/wiki/Bicho-da-seda
+~ Mosca-das-frutas | Mosca-da-fruta | https://pt.wikipedia.org/wiki/Drosophila_melanogaster
+~ Gafanhoto | Locusta | https://pt.wikipedia.org/wiki/Gafanhoto
+== ani-repteis
+~ Naja | Cobra-naja | https://pt.wikipedia.org/wiki/Naja
+== ani-fauna-brasileira
++ Arara | | Macaw | Guacamayo | c | https://pt.wikipedia.org/wiki/Arara
++ Beija-flor | Colibri | Hummingbird | Colibrí | c | https://pt.wikipedia.org/wiki/Beija-flor
++ Macaco | | Monkey | Mono | c | https://pt.wikipedia.org/wiki/Macaco
++ Gavião | | Hawk | Gavilán | i | https://pt.wikipedia.org/wiki/Gavi%C3%A3o
++ Pica-pau | | Woodpecker | Pájaro carpintero | i | https://pt.wikipedia.org/wiki/Pica-pau
++ Veado | | Deer | Venado | i | https://pt.wikipedia.org/wiki/Veado

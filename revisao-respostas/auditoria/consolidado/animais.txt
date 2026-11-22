@@ -1,0 +1,394 @@
+== ani-mamiferos    # Cite um mamífero
++ Pônei | Poney;Pony |  | Poni | i | https://pt.wikipedia.org/wiki/P%C3%B4nei    # generica
++ Zebu | Boi-zebu;Gado-zebu |  | Cebú | i | https://www.ufmg.br/online/arquivos/015961.shtml    # generica
++ Pantera | Pantera-negra | Panther;Black panther |  | i | https://pt.wikipedia.org/wiki/Pantera    # generica
++ Ser humano | Humano;Homem;Homo sapiens | Human |  | r | https://pt.wikipedia.org/wiki/Ser_humano https://pt.wikipedia.org/wiki/Humano    # profunda,listas
++ Mamute |  | Mammoth | Mamut | r | https://pt.wikipedia.org/wiki/Mamute    # profunda,listas
++ Cachalote |  | Sperm whale |  | i | https://pt.wikipedia.org/wiki/Cachalote    # profunda,listas
++ Narval |  | Narwhal |  | r | https://pt.wikipedia.org/wiki/Narval    # profunda,listas
++ Beluga | Baleia-branca |  |  | r | https://en.wikipedia.org/wiki/Beluga_whale https://pt.wikipedia.org/wiki/Beluga    # profunda,listas
++ Elefante-marinho |  | Elephant seal | Elefante marino | r | https://pt.wikipedia.org/wiki/Elefante-marinho    # profunda,listas
++ Babuíno |  | Baboon |  | i | https://pt.wikipedia.org/wiki/Babu%C3%ADno    # profunda,listas
++ Mandril |  | Mandrill |  | r | https://pt.wikipedia.org/wiki/Mandril    # profunda,listas
++ Gibão |  | Gibbon | Gibón | r | https://pt.wikipedia.org/wiki/Gib%C3%A3o    # profunda,listas
++ Bonobo |  |  |  | r | https://pt.wikipedia.org/wiki/Bonobo    # profunda,listas
++ Macaco-prego |  | Capuchin monkey | Capuchino | i | https://pt.wikipedia.org/wiki/Macaco-prego    # profunda,listas
++ Diabo-da-tasmânia |  | Tasmanian devil | Demonio de Tasmania | r | https://pt.wikipedia.org/wiki/Diabo-da-tasm%C3%A2nia    # profunda,listas
++ Vombate | Wombat |  |  | e | https://pt.wikipedia.org/wiki/Vombate    # profunda,listas
++ Pangolim |  | Pangolin |  | r | https://pt.wikipedia.org/wiki/Pangolim    # profunda,listas
++ Porco-formigueiro | Oricteropo;Aardvark |  | Cerdo hormiguero | e | https://pt.wikipedia.org/wiki/Oricteropo https://pt.wikipedia.org/wiki/Porco-formigueiro    # profunda,listas
++ Gamo |  | Fallow deer |  | e | https://pt.wikipedia.org/wiki/Gamo    # profunda
++ Íbex | Cabra-montês |  | Íbice | e | https://pt.wikipedia.org/wiki/%C3%8Dbex    # profunda,listas
++ Boi-almiscarado |  | Muskox | Buey almizclero | e | https://pt.wikipedia.org/wiki/Boi-almiscarado    # profunda,listas
++ Vicunha |  | Vicuña |  | e | https://pt.wikipedia.org/wiki/Vicunha    # profunda,listas
++ Guanaco |  |  |  | e | https://pt.wikipedia.org/wiki/Guanaco    # profunda,listas
++ Queixada | Porco-do-mato | White-lipped peccary | Pecarí labiado | r | https://pt.wikipedia.org/wiki/Queixada    # profunda,listas
++ Cateto | Caititu | Collared peccary | Pecarí de collar | r | https://pt.wikipedia.org/wiki/Cateto    # profunda
++ Feneco | Raposa-do-deserto | Fennec fox | Fenec | r | https://pt.wikipedia.org/wiki/Feneco    # profunda,listas
++ Dingo |  |  |  | r | https://pt.wikipedia.org/wiki/Dingo    # profunda,listas
++ Panda-vermelho |  | Red panda | Panda rojo | r | https://pt.wikipedia.org/wiki/Panda-vermelho    # profunda,listas
++ Arminho |  | Stoat;Ermine | Armiño | e | https://pt.wikipedia.org/wiki/Arminho    # profunda
++ Marta |  | Marten |  | l | https://pt.wikipedia.org/wiki/Marta_(animal)    # profunda
++ Vison | Visom | Mink |  | e | https://pt.wikipedia.org/wiki/Vison    # profunda,listas
++ Glutão | Carcaju | Wolverine | Glotón | l | https://pt.wikipedia.org/wiki/Glut%C3%A3o    # profunda
++ Cangambá | Jaritataca;Zorrilho;Gambá-listrado | Skunk | Mofeta;Zorrillo | r | https://en.wikipedia.org/wiki/Skunk https://pt.wikipedia.org/wiki/Jaritataca    # profunda,listas
++ Caracal |  |  |  | e | https://pt.wikipedia.org/wiki/Caracal https://pt.wikipedia.org/wiki/Caracal_caracal    # profunda,listas
++ Serval |  |  |  | e | https://pt.wikipedia.org/wiki/Serval    # profunda,listas
++ Gato-do-mato | Gato-do-mato-pequeno | Oncilla | Tigrillo | r | https://pt.wikipedia.org/wiki/Gato-do-mato-pequeno    # profunda,listas
++ Gato-maracajá | Maracajá | Margay |  | e | https://pt.wikipedia.org/wiki/Gato-maracaj%C3%A1    # profunda
++ Irara |  | Tayra | Taira | e | https://pt.wikipedia.org/wiki/Irara    # profunda
++ Mão-pelada |  | Crab-eating raccoon | Mapache cangrejero | e | https://pt.wikipedia.org/wiki/M%C3%A3o-pelada    # profunda
++ Cachorro-do-mato |  | Crab-eating fox | Zorro cangrejero | r | https://pt.wikipedia.org/wiki/Cachorro-do-mato    # profunda
++ Muriqui | Mono-carvoeiro |  |  | e | https://pt.wikipedia.org/wiki/Muriqui    # profunda,listas
++ Uacari | Cacajao | Uakari |  | e | https://pt.wikipedia.org/wiki/Uacari https://pt.wikipedia.org/wiki/Cacajao    # profunda,listas
++ Mocó |  | Rock cavy |  | e | https://pt.wikipedia.org/wiki/Moc%C3%B3    # profunda,listas
++ Gerbil | Gerbilo |  | Jerbo | e | https://en.wikipedia.org/wiki/Gerbil    # profunda
++ Leopardo-das-neves |  | Snow leopard | Leopardo de las nieves | r | https://pt.wikipedia.org/wiki/Leopardo-das-neves    # profunda,listas
++ Tamanduá-mirim |  | Southern tamandua | Oso melero | e | https://pt.wikipedia.org/wiki/Tamandu%C3%A1-mirim    # profunda
++ Tatu-bola |  | Three-banded armadillo |  | r | https://pt.wikipedia.org/wiki/Tatu-bola    # profunda
++ Társio | Tarsius | Tarsier | Tarsero | e | https://pt.wikipedia.org/wiki/Tarsiidae https://pt.wikipedia.org/wiki/Tarsius    # profunda,listas
++ Baleia-jubarte | Jubarte | Humpback whale | Ballena jorobada | i | https://pt.wikipedia.org/wiki/Baleia-jubarte    # listas
++ Baleia-azul |  | Blue whale | Ballena azul | i | https://pt.wikipedia.org/wiki/Baleia-azul    # listas
++ Lobo-marinho |  | Fur seal | Lobo marino | r | https://pt.wikipedia.org/wiki/Lobo-marinho    # listas
++ Urso-pardo | Urso-cinzento;Grizzly | Brown bear;Grizzly bear | Oso pardo | r | https://pt.wikipedia.org/wiki/Urso-pardo    # listas
++ Raposa-do-ártico | Raposa-polar | Arctic fox | Zorro ártico | r | https://pt.wikipedia.org/wiki/Raposa-do-%C3%A1rtico    # listas
++ Macaco-aranha | Coatá | Spider monkey | Mono araña | r | https://pt.wikipedia.org/wiki/Macaco-aranha    # listas
++ Ualabi | Wallaby |  |  | e | https://pt.wikipedia.org/wiki/Ualabi    # listas
++ Órix | Oryx |  | Órice | e | https://pt.wikipedia.org/wiki/Oryx    # listas
++ Lóris |  |  |  | e | https://pt.wikipedia.org/wiki/Loris    # listas
++ Muflão |  | Mouflon | Muflón | l | https://pt.wikipedia.org/wiki/Mufl%C3%A3o    # listas
+~ Orca | Baleia-assassina | https://pt.wikipedia.org/wiki/Orca    # generica
+~ Panda | Urso-panda | https://pt.wikipedia.org/wiki/Panda-gigante    # listas
+
+== ani-aves    # Cite uma ave
++ Papagaio-do-mar | Fratercula | Puffin;Atlantic puffin | Frailecillo | r | https://pt.wikipedia.org/wiki/Papagaio-do-mar    # generica
++ Galinha-d'angola | Angolinha;Galinha-da-guiné;Capote;Tô-fraco;Guiné | Guineafowl | Pintada;Gallina de Guinea | i | https://pt.wikipedia.org/wiki/Galinha-d'angola https://pt.wikipedia.org/wiki/Galinha-d%27angola    # profunda,listas
++ Atobá |  | Booby | Piquero | r | https://pt.wikipedia.org/wiki/Atob%C3%A1 https://pt.wikipedia.org/wiki/Sul%C3%ADdeos    # profunda,listas
++ Gralha-azul | Gralha | Azure jay | Urraca azul | r | https://pt.wikipedia.org/wiki/Gralha-azul    # profunda,listas
++ Jaçanã |  |  |  | e | https://pt.wikipedia.org/wiki/Ja%C3%A7an%C3%A3    # profunda,listas
++ Colhereiro |  | Roseate spoonbill | Espátula rosada | e | https://pt.wikipedia.org/wiki/Colhereiro    # profunda,listas
++ Mergulhão |  | Grebe | Somormujo | e | https://pt.wikipedia.org/wiki/Podicipedidae    # profunda
++ Tesourão | Fragata | Frigatebird |  | l | https://pt.wikipedia.org/wiki/Fregata    # profunda
++ Inhambu | Inambu;Nambu | Tinamou | Tinamú | e | https://pt.wikipedia.org/wiki/Inhambu https://pt.wikipedia.org/wiki/Tinamiformes    # profunda,listas
++ Perdiz |  | Partridge |  | r | https://pt.wikipedia.org/wiki/Perdiz    # profunda,listas
++ Macuco |  | Solitary tinamou | Tinamú macuco | e | https://pt.wikipedia.org/wiki/Macuco    # profunda,listas
++ Jacutinga |  | Black-fronted piping guan |  | e | https://pt.wikipedia.org/wiki/Jacutinga    # profunda
++ Jandaia |  | Conure |  | e | https://pt.wikipedia.org/wiki/Jandaia    # profunda
++ Ararajuba | Guaruba | Golden parakeet |  | e | https://pt.wikipedia.org/wiki/Ararajuba    # profunda
++ Cardeal | Cardeal-do-nordeste;Galo-de-campina | Cardinal;Red-cowled cardinal | Cardenal | r | https://pt.wikipedia.org/wiki/Cardeal_(ave) https://pt.wikipedia.org/wiki/Cardeal-do-nordeste    # profunda,listas
++ Galo-da-campina |  | Red-cowled cardinal |  | e | https://pt.wikipedia.org/wiki/Galo-da-campina    # profunda
++ Graúna | Pássaro-preto | Chopi blackbird |  | r | https://pt.wikipedia.org/wiki/Gnorimopsar_chopi    # profunda
++ Chupim | Vira-bosta | Shiny cowbird | Tordo renegrido | e | https://pt.wikipedia.org/wiki/Chupim    # profunda
++ Coleirinho | Coleiro | Seedeater |  | r | https://pt.wikipedia.org/wiki/Coleirinho    # profunda
++ Tiziu |  | Blue-black grassquit |  | r | https://pt.wikipedia.org/wiki/Tiziu    # profunda,listas
++ Sanhaço | Sanhaçu;Saíra;Dançarino | Tanager | Tangara | r | https://pt.wikipedia.org/wiki/Sanha%C3%A7u-cinzento https://pt.wikipedia.org/wiki/Sa%C3%ADra https://pt.wikipedia.org/wiki/Sanha%C3%A7o https://pt.wikipedia.org/wiki/Tangar%C3%A1    # profunda,listas
++ Gaturamo |  | Euphonia |  | e | https://pt.wikipedia.org/wiki/Gaturamo    # profunda
++ Cambacica |  | Bananaquit | Reinita | e | https://pt.wikipedia.org/wiki/Cambacica    # profunda
++ Corruíra | Cambaxirra;Garrincha;Curruíra | House wren | Ratona;Chochín | r | https://pt.wikipedia.org/wiki/Corru%C3%ADra https://pt.wikipedia.org/wiki/Curru%C3%ADra    # profunda,listas
++ Lavadeira | Lavadeira-mascarada | Masked water tyrant |  | e | https://pt.wikipedia.org/wiki/Lavadeira-mascarada    # profunda
++ Anu | Anu-preto;Anu-branco;Anum | Ani;Smooth-billed ani | Garrapatero | r | https://pt.wikipedia.org/wiki/Anu-preto    # profunda,listas
++ Alma-de-gato |  | Squirrel cuckoo | Cuco ardilla | e | https://pt.wikipedia.org/wiki/Alma-de-gato    # profunda
++ Urutau | Mãe-da-lua | Potoo | Nictibio | r | https://pt.wikipedia.org/wiki/Urutau    # profunda,listas
++ Bacurau | Curiango | Nightjar | Chotacabras | e | https://pt.wikipedia.org/wiki/Bacurau https://pt.wikipedia.org/wiki/Caprimulg%C3%ADdeos    # profunda,listas
++ Urubu-rei |  | King vulture | Zopilote rey | r | https://pt.wikipedia.org/wiki/Urubu-rei    # profunda,listas
++ Araçari |  |  | Arasarí | r | https://pt.wikipedia.org/wiki/Ara%C3%A7ari    # profunda,listas
++ Agapornis | Inseparável;Love bird;Pássaro-do-amor | Lovebird | Inseparable | r | https://pt.wikipedia.org/wiki/Agapornis https://pt.wikipedia.org/wiki/Ag%C3%A1p%C3%B3rnis    # profunda,listas
++ Mandarim | Diamante-mandarim | Zebra finch | Diamante mandarín | r | https://en.wikipedia.org/wiki/Zebra_finch    # profunda
++ Casuar |  | Cassowary | Casuario | r | https://pt.wikipedia.org/wiki/Casuar    # profunda,listas
++ Tentilhão |  | Chaffinch | Pinzón | e | https://pt.wikipedia.org/wiki/Tentilh%C3%A3o    # profunda
++ Estorninho |  | Starling | Estornino | e | https://pt.wikipedia.org/wiki/Estorninho https://pt.wikipedia.org/wiki/Esturn%C3%ADdeos    # profunda,listas
++ Pega |  | Magpie | Urraca | e | https://pt.wikipedia.org/wiki/Pega_(ave)    # profunda
++ Chapim |  | Tit | Carbonero | l | https://pt.wikipedia.org/wiki/Chapim-real    # profunda
++ Pisco-de-peito-ruivo | Pisco | Robin | Petirrojo | e | https://pt.wikipedia.org/wiki/Pisco-de-peito-ruivo    # profunda
++ Cuco |  | Cuckoo |  | r | https://en.wikipedia.org/wiki/Common_cuckoo https://pt.wikipedia.org/wiki/Cucul%C3%ADdeos    # profunda,listas
++ Poupa |  | Hoopoe | Abubilla | e | https://en.wikipedia.org/wiki/Hoopoe    # profunda
++ Íbis |  |  |  | r | https://pt.wikipedia.org/wiki/%C3%8Dbis    # profunda,listas
++ Grou |  | Crane | Grulla | e | https://pt.wikipedia.org/wiki/Grou    # profunda
++ Papa-léguas |  | Roadrunner | Correcaminos | e | https://pt.wikipedia.org/wiki/Geococcyx    # profunda
++ Dodô |  |  |  | r | https://pt.wikipedia.org/wiki/Dod%C3%B4    # profunda,listas
++ Ave-do-paraíso |  | Bird-of-paradise | Ave del paraíso | e | https://pt.wikipedia.org/wiki/Paradisaeidae    # profunda
++ Quetzal |  |  |  | e | https://pt.wikipedia.org/wiki/Quetzal    # profunda
++ Galo-da-serra |  | Andean cock-of-the-rock;Guianan cock-of-the-rock | Gallito de las rocas | e | https://pt.wikipedia.org/wiki/Galo-da-serra    # profunda
++ Patativa |  |  |  | e | https://pt.wikipedia.org/wiki/Patativa    # profunda
++ Bico-de-lacre |  | Common waxbill | Pico de coral | e | https://pt.wikipedia.org/wiki/Bico-de-lacre    # profunda
++ Coruja-buraqueira | Buraqueira | Burrowing owl | Mochuelo de madriguera | i | https://pt.wikipedia.org/wiki/Coruja-buraqueira    # profunda,listas
++ Petrel |  |  |  | l | https://pt.wikipedia.org/wiki/Procellariidae    # profunda
++ Trinta-réis | Andorinha-do-mar | Tern | Charrán | l | https://pt.wikipedia.org/wiki/Sternidae    # profunda
++ Arara-canindé | Arara-de-barriga-amarela | Blue-and-yellow macaw | Guacamayo azulamarillo | i | https://pt.wikipedia.org/wiki/Arara-can%C3%ADnd%C3%A9    # listas
++ Periquito-australiano |  | Budgerigar |  | i | https://pt.wikipedia.org/wiki/Periquito-australiano    # listas
++ Águia-careca | Águia-de-cabeça-branca;Águia-americana | Bald eagle | Águila calva | i | https://pt.wikipedia.org/wiki/%C3%81guia-de-cabe%C3%A7a-branca    # listas
++ Falcão-peregrino |  | Peregrine falcon | Halcón peregrino | r | https://pt.wikipedia.org/wiki/Falc%C3%A3o-peregrino    # listas
++ Águia-real |  | Golden eagle | Águila real | r | https://pt.wikipedia.org/wiki/%C3%81guia-real    # listas
++ Canário-da-terra |  | Saffron finch | Jilguero dorado | r | https://pt.wikipedia.org/wiki/Can%C3%A1rio-da-terra-verdadeiro    # listas
++ Manon |  | Society finch |  | e | https://pt.wikipedia.org/wiki/Manon    # listas
++ Caburé |  | Pygmy owl | Mochuelo | e | https://pt.wikipedia.org/wiki/Cabur%C3%A9    # listas
++ Suindara | Coruja-das-torres;Rasga-mortalha | Barn owl | Lechuza común | r | https://pt.wikipedia.org/wiki/Coruja-das-torres    # listas
+~ Pombo | Pombo-correio | https://pt.wikipedia.org/wiki/Pombo-correio    # generica
+~ Corvo | Jay;Grajilla | https://pt.wikipedia.org/wiki/Gralha    # profunda
+~ Garça | Socó | https://pt.wikipedia.org/wiki/Soc%C3%B3    # profunda
+
+== ani-peixes    # Cite um peixe
++ Peixe-zebra | Paulistinha;Danio-zebra;Bandeirinha | Zebrafish | Pez cebra | r | https://pt.wikipedia.org/wiki/Peixe-zebra    # generica
++ Peixe-vela | Agulhão-vela | Sailfish | Pez vela | r | https://fish-commercial-names.ec.europa.eu/fish-names/species/istiophorus-platypterus_pt    # generica
++ Peixe-serra |  | Sawfish | Pez sierra | e | https://pt.wikipedia.org/wiki/Peixe-serra    # profunda
++ Olho-de-boi |  | Greater amberjack;Amberjack | Medregal;Pez limón | e | https://pt.wikipedia.org/wiki/Olho-de-boi https://pt.wikipedia.org/wiki/Olho_de_boi    # profunda,listas
++ Sororoca |  | Serra Spanish mackerel |  | e | https://pt.wikipedia.org/wiki/Sororoca    # profunda,listas
++ Bonito |  |  |  | e | https://en.wikipedia.org/wiki/Bonito    # profunda
++ Peixe-galo | Galo | John Dory | Pez de San Pedro | e | https://pt.wikipedia.org/wiki/Peixe-galo https://pt.wikipedia.org/wiki/Zeiformes    # profunda,listas
++ Pampo |  | Pompano | Pámpano | e | https://en.wikipedia.org/wiki/Pompano    # profunda
++ Carapau |  | Horse mackerel | Jurel | e | https://pt.wikipedia.org/wiki/Carapau    # profunda
++ Mandi |  |  |  | r | https://pt.wikipedia.org/wiki/Mandi    # profunda,listas
++ Jaú |  | Gilded catfish |  | r | https://pt.wikipedia.org/wiki/Ja%C3%BA_(peixe)    # profunda,listas
++ Piraíba | Filhote | Piraíba catfish |  | r | https://pt.wikipedia.org/wiki/Pira%C3%ADba https://pt.wikipedia.org/wiki/Brachyplatystoma_filamentosum    # profunda,listas
++ Piraputanga |  |  |  | e | https://pt.wikipedia.org/wiki/Piraputanga    # profunda,listas
++ Curimbatá | Curimba;Curimatã |  | Sábalo | r | https://pt.wikipedia.org/wiki/Curimbat%C3%A1    # profunda,listas
++ Jundiá |  | South American catfish |  | r | https://pt.wikipedia.org/wiki/Jundi%C3%A1    # profunda,listas
++ Cascudo | Acari | Pleco | Coroncoro | i | https://pt.wikipedia.org/wiki/Cascudo_(peixe) https://pt.wikipedia.org/wiki/Cascudo    # profunda,listas
++ Poraquê | Peixe-elétrico;Enguia-elétrica | Electric eel | Anguila eléctrica | r | https://pt.wikipedia.org/wiki/Poraqu%C3%AA    # profunda,listas
++ Candiru |  |  |  | r | https://pt.wikipedia.org/wiki/Candiru    # profunda,listas
++ Aruanã |  | Arowana | Arawana | r | https://pt.wikipedia.org/wiki/Aruan%C3%A3    # profunda,listas
++ Oscar | Apaiari |  |  | e | https://pt.wikipedia.org/wiki/Astronotus_ocellatus    # profunda,listas
++ Neon | Tetra-neon | Neon tetra |  | r | https://pt.wikipedia.org/wiki/Paracheirodon_innesi    # profunda
++ Peixe-anjo |  | Angelfish | Pez ángel | r | https://pt.wikipedia.org/wiki/Peixe-anjo https://pt.wikipedia.org/wiki/Pomacant%C3%ADdeos    # profunda,listas
++ Molinésia |  | Molly |  | e | https://pt.wikipedia.org/wiki/Poecilia_sphenops https://pt.wikipedia.org/wiki/Poecilia    # profunda,listas
++ Esturjão |  | Sturgeon | Esturión | r | https://pt.wikipedia.org/wiki/Esturj%C3%A3o    # profunda,listas
++ Perca |  | Perch |  | e | https://pt.wikipedia.org/wiki/Perca    # profunda
++ Lúcio |  | Pike |  | l | https://pt.wikipedia.org/wiki/L%C3%BAcio_(peixe)    # profunda
++ Hadoque | Eglefim;Arinca | Haddock | Eglefino | e | https://pt.wikipedia.org/wiki/Arinca https://pt.wikipedia.org/wiki/Melanogrammus_aeglefinus    # profunda,listas
++ Abrótea |  |  |  | l | https://pt.wikipedia.org/wiki/Abr%C3%B3tea    # profunda
++ Congro |  | Conger eel | Congrio | l | https://pt.wikipedia.org/wiki/Congro    # profunda
++ Peixe-pedra |  | Stonefish | Pez piedra | e | https://pt.wikipedia.org/wiki/Peixe-pedra    # profunda
++ Peixe-cirurgião | Cirurgião-patela;Cirurgião;Dory | Surgeonfish;Blue tang | Pez cirujano | r | https://pt.wikipedia.org/wiki/Acanthuridae https://pt.wikipedia.org/wiki/Peixe-cirurgi%C3%A3o    # profunda,listas
++ Peixe-borboleta |  | Butterflyfish | Pez mariposa | e | https://pt.wikipedia.org/wiki/Chaetodontidae    # profunda
++ Peixe-papagaio | Budião | Parrotfish | Pez loro | e | https://pt.wikipedia.org/wiki/Peixe-papagaio    # profunda
++ Mero |  | Atlantic goliath grouper;Goliath grouper | Mero guasa | r | https://en.wikipedia.org/wiki/Atlantic_goliath_grouper https://pt.wikipedia.org/wiki/Mero    # profunda,listas
++ Peixe-agulha |  | Needlefish | Pez aguja | e | https://pt.wikipedia.org/wiki/Peixe-agulha    # profunda
++ Celacanto |  | Coelacanth |  | e | https://pt.wikipedia.org/wiki/Celacanto    # profunda,listas
++ Piramboia |  | South American lungfish | Pez pulmonado | e | https://pt.wikipedia.org/wiki/Lepidosiren_paradoxa https://pt.wikipedia.org/wiki/Piramboia    # profunda,listas
++ Bicuda |  |  |  | e | https://pt.wikipedia.org/wiki/Sphyraena    # profunda
++ Saramunete | Trilha | Red mullet | Salmonete | e | https://en.wikipedia.org/wiki/Red_mullet    # profunda
++ Peixe-rei |  | Silverside | Pejerrey | e | https://pt.wikipedia.org/wiki/Peixe-rei    # profunda
++ Piaba | Piabinha |  |  | r | https://pt.wikipedia.org/wiki/Piaba    # profunda
++ Caranha |  | Cubera snapper |  | e | https://pt.wikipedia.org/wiki/Caranha    # profunda
++ Tubarão-baleia |  | Whale shark | Tiburón ballena | i | https://pt.wikipedia.org/wiki/Tubar%C3%A3o-baleia    # profunda,listas
++ Tubarão-martelo |  | Hammerhead shark | Tiburón martillo | i | https://pt.wikipedia.org/wiki/Tubar%C3%A3o-martelo    # listas
++ Tubarão-branco |  | Great white shark | Tiburón blanco | i | https://pt.wikipedia.org/wiki/Tubar%C3%A3o-branco    # listas
++ Tubarão-tigre |  | Tiger shark | Tiburón tigre | r | https://pt.wikipedia.org/wiki/Tubar%C3%A3o-tigre    # listas
++ Pirarara |  | Redtail catfish |  | r | https://pt.wikipedia.org/wiki/Pirarara    # listas
++ Lampreia |  | Lamprey | Lamprea | r | https://pt.wikipedia.org/wiki/Lampreia    # listas
++ Platy |  |  |  | e | https://pt.wikipedia.org/wiki/Xiphophorus_maculatus    # listas
++ Tamboril |  | Monkfish | Rape | e | https://pt.wikipedia.org/wiki/Tamboril    # listas
++ Rêmora |  |  |  | e | https://pt.wikipedia.org/wiki/R%C3%AAmora    # listas
++ Cachara |  |  |  | e | https://pt.wikipedia.org/wiki/Cachara    # listas
++ Sargo |  |  |  | e | https://pt.wikipedia.org/wiki/Sargo    # listas
+~ Acará | Escalar | https://pt.wikipedia.org/wiki/Pterophyllum_scalare    # generica
+~ Peixe-espada | Espadarte;Meca | https://pt.wikipedia.org/wiki/Espadarte    # profunda,listas
+~ Anchova | Manjuba | https://pt.wikipedia.org/wiki/Manjuba https://pt.wikipedia.org/wiki/Anchoviella    # profunda,listas
+~ Linguado | Solha;Plaice;Platija | https://pt.wikipedia.org/wiki/Solha https://pt.wikipedia.org/wiki/Soleidae    # profunda,listas
+~ Bagre | Peixe-gato;Pez gato | https://pt.wikipedia.org/wiki/Siluriformes    # profunda,listas
+~ Peixe-dourado | Japonês | https://pt.wikipedia.org/wiki/Peixe-dourado    # profunda
+~ Carpa | Koi;Carpa koi | https://pt.wikipedia.org/wiki/Carpa    # profunda
+~ Tubarão | Cação | https://pt.wikipedia.org/wiki/Tubar%C3%A3o    # profunda,listas
+~ Cavala | Cavalinha | https://pt.wikipedia.org/wiki/Cavalinha    # listas
+
+== ani-insetos    # Cite um inseto
++ Pulgão | Afídeo;Afídio | Aphid | Pulgón | r | https://pt.wikipedia.org/wiki/Af%C3%ADdeo https://pt.wikipedia.org/wiki/Af%C3%ADdio    # profunda,listas
++ Mosca tsé-tsé | Tsé-tsé | Tsetse fly | Mosca tsetsé | r | https://pt.wikipedia.org/wiki/Mosca_ts%C3%A9-ts%C3%A9 https://pt.wikipedia.org/wiki/Mosca-ts%C3%A9-ts%C3%A9    # profunda,listas
++ Paquinha | Grilo-toupeira | Mole cricket | Grillotopo;Grillotalpa | r | https://pt.wikipedia.org/wiki/Gryllotalpidae https://pt.wikipedia.org/wiki/Gryllotalpa_gryllotalpa    # profunda,listas
++ Mosquito-palha | Birigui;Flebotomíneo | Sandfly | Flebótomo | r | https://pt.wikipedia.org/wiki/Phlebotominae https://pt.wikipedia.org/wiki/Flebotom%C3%ADneos    # profunda,listas
++ Maruim | Mosquito-pólvora;Mosquitinho-do-mangue | Biting midge | Jején | r | https://pt.wikipedia.org/wiki/Ceratopogonidae https://pt.wikipedia.org/wiki/Maruim    # profunda,listas
++ Barata-d'água |  | Giant water bug | Chinche gigante de agua | e | https://pt.wikipedia.org/wiki/Belostomatidae    # profunda
++ Besouro-hércules |  | Hercules beetle | Escarabajo hércules | e | https://pt.wikipedia.org/wiki/Dynastes_hercules    # profunda
++ Serra-pau |  | Longhorn beetle |  | e | https://pt.wikipedia.org/wiki/Cerambycidae    # profunda
++ Bicho-folha |  | Leaf insect | Insecto hoja | e | https://pt.wikipedia.org/wiki/Phylliidae    # profunda
++ Efemérida | Efêmera;Siriruia;Efeméride | Mayfly | Efímera | l | https://pt.wikipedia.org/wiki/Ephemeroptera https://pt.wikipedia.org/wiki/Efemer%C3%B3pteros    # profunda,listas
++ Formiga-leão |  | Antlion | Hormiga león | e | https://pt.wikipedia.org/wiki/Myrmeleontidae    # profunda
++ Jataí | Abelha jataí;Jataí-amarela |  |  | r | https://pt.wikipedia.org/wiki/Tetragonisca_angustula https://pt.wikipedia.org/wiki/Jata%C3%AD-amarela    # profunda,listas
++ Mandaçaia |  |  |  | l | https://pt.wikipedia.org/wiki/Melipona_quadrifasciata    # profunda
++ Abelha-sem-ferrão | Meliponíneo | Stingless bee | Abeja sin aguijón | e | https://pt.wikipedia.org/wiki/Meliponini    # profunda
++ Bicho-lixeiro |  | Green lacewing | Crisopa | l | https://pt.wikipedia.org/wiki/Chrysopidae    # profunda
++ Mosquito-prego | Anopheles |  |  | e | https://pt.wikipedia.org/wiki/Anopheles    # profunda
++ Cigarrinha |  | Leafhopper;Spittlebug | Chicharrita | e | https://pt.wikipedia.org/wiki/Cicadellidae    # profunda
++ Rola-bosta | Vira-bosta | Dung beetle | Escarabajo pelotero | i | https://pt.wikipedia.org/wiki/Rola-bosta    # listas
++ Uruçu | Iruçu |  |  | e | https://pt.wikipedia.org/wiki/Uru%C3%A7u    # listas
++ Besouro-rinoceronte |  | Rhinoceros beetle | Escarabajo rinoceronte | r | https://pt.wikipedia.org/wiki/Dinast%C3%ADneos    # listas
++ Bicudo | Bicudo-do-algodoeiro | Boll weevil | Picudo | e | https://pt.wikipedia.org/wiki/Bicudo-do-algodoeiro    # listas
++ Borboleta-monarca | Monarca | Monarch butterfly | Mariposa monarca | r | https://pt.wikipedia.org/wiki/Borboleta-monarca    # listas
++ Morfo | Borboleta-azul;Morpho |  |  | e | https://pt.wikipedia.org/wiki/Morpho_(g%C3%A9nero)    # listas
++ Potó | Besouro-potó | Rove beetle |  | e | https://pt.wikipedia.org/wiki/Pot%C3%B3    # listas
+~ Louva-a-deus | Louva-deus | https://pt.wikipedia.org/wiki/Louva-a-deus    # generica
+~ Bicho-da-seda | Bicho-de-seda | https://pt.wikipedia.org/wiki/Bicho-da-seda    # generica
+~ Mosca-das-frutas | Mosca-da-fruta | https://pt.wikipedia.org/wiki/Drosophila_melanogaster    # generica
+~ Gafanhoto | Locusta | https://pt.wikipedia.org/wiki/Gafanhoto    # generica
+~ Percevejo | Maria-fedida;Fede-fede;Chinche apestosa;Percevejo-de-cama | https://pt.wikipedia.org/wiki/Pentatomidae https://pt.wikipedia.org/wiki/Nezara_viridula    # profunda,listas
+~ Lagarta | Taturana;Lagarta-de-fogo;Maranduvá | https://pt.wikipedia.org/wiki/Taturana https://pt.wikipedia.org/wiki/Maranduv%C3%A1    # profunda,listas
+~ Cupim | Siriri;Aleluia;Sarará | https://pt.wikipedia.org/wiki/Cupim https://pt.wikipedia.org/wiki/Siriri_(inseto)    # profunda,listas
+~ Mosquito | Muriçoca;Carapanã | https://pt.wikipedia.org/wiki/Culic%C3%ADdeos    # listas
+~ Abelha | Zangão;Abelhão | https://pt.wikipedia.org/wiki/Zang%C3%A3o    # listas
+~ Formiga | Içá | https://pt.wikipedia.org/wiki/Sa%C3%BAva    # listas
+~ Bicho-de-pé | Tunga | https://pt.wikipedia.org/wiki/Bicho-de-p%C3%A9    # listas
+
+== ani-repteis    # Cite um réptil
++ Cobra-cipó |  | Vine snake | Bejuquilla | r | https://pt.wikipedia.org/wiki/Chironius https://pt.wikipedia.org/wiki/Cobra-cip%C3%B3    # profunda,listas
++ Urutu | Urutu-cruzeiro |  |  | r | https://pt.wikipedia.org/wiki/Bothrops_alternatus https://pt.wikipedia.org/wiki/Urutu    # profunda,listas
++ Mussurana | Muçurana;Cobra-preta |  |  | e | https://en.wikipedia.org/wiki/Clelia_clelia https://pt.wikipedia.org/wiki/Mu%C3%A7urana    # profunda,listas
++ Jararacuçu |  |  |  | r | https://pt.wikipedia.org/wiki/Jararacu%C3%A7u    # profunda,listas
++ Taipan |  |  |  | e | https://pt.wikipedia.org/wiki/Oxyuranus https://pt.wikipedia.org/wiki/Taipan    # profunda,listas
++ Varano | Lagarto-monitor | Monitor lizard |  | r | https://pt.wikipedia.org/wiki/Varano https://pt.wikipedia.org/wiki/Varan%C3%ADdeos    # profunda,listas
++ Clamidossauro | Lagarto-de-gola | Frilled lizard | Clamidosaurio | e | https://pt.wikipedia.org/wiki/Chlamydosaurus_kingii    # profunda
++ Diabo-espinhoso | Moloch;Lagarto-espinhoso | Thorny devil | Diablo espinoso | l | https://pt.wikipedia.org/wiki/Moloch_horridus https://pt.wikipedia.org/wiki/Diabo-espinhoso    # profunda,listas
++ Tartaruga-de-couro |  | Leatherback sea turtle;Leatherback turtle | Tortuga laúd | r | https://pt.wikipedia.org/wiki/Tartaruga-de-couro    # profunda,listas
++ Tartaruga-verde | Aruanã | Green sea turtle | Tortuga verde | r | https://pt.wikipedia.org/wiki/Tartaruga-verde    # profunda,listas
++ Tartaruga-cabeçuda |  | Loggerhead sea turtle | Tortuga boba | l | https://pt.wikipedia.org/wiki/Tartaruga-cabe%C3%A7uda    # profunda
++ Tartaruga-de-pente |  | Hawksbill sea turtle;Hawksbill turtle | Tortuga carey | e | https://pt.wikipedia.org/wiki/Tartaruga-de-pente    # profunda,listas
++ Tartaruga-da-amazônia |  | Giant South American turtle | Tortuga arrau | e | https://pt.wikipedia.org/wiki/Tartaruga-da-amaz%C3%B4nia    # profunda
++ Tigre-d'água |  | Red-eared slider | Tortuga de orejas rojas | e | https://pt.wikipedia.org/wiki/Trachemys    # profunda
++ Jacaré-açu |  | Black caiman | Caimán negro | r | https://pt.wikipedia.org/wiki/Jacar%C3%A9-a%C3%A7u    # profunda,listas
++ Jacaré-de-papo-amarelo |  | Broad-snouted caiman | Yacaré overo | r | https://pt.wikipedia.org/wiki/Jacar%C3%A9-de-papo-amarelo    # profunda,listas
++ Lagarto-de-chifres | Frinossoma | Horned lizard | Lagarto cornudo | l | https://en.wikipedia.org/wiki/Horned_lizard    # profunda
++ Cobra-verde |  |  |  | e | https://pt.wikipedia.org/wiki/Philodryas_olfersii    # profunda
++ Periquitamboia | Cobra-papagaio;Jiboia-verde | Emerald tree boa | Boa esmeralda | e | https://pt.wikipedia.org/wiki/Periquitamboia    # listas
++ Boipeva |  |  |  | e | https://pt.wikipedia.org/wiki/Boipeva    # listas
++ Cobra-de-vidro |  | Glass lizard | Lagarto de cristal | l | https://pt.wikipedia.org/wiki/Angu%C3%ADdeos    # listas
+~ Naja | Cobra-naja | https://pt.wikipedia.org/wiki/Naja    # generica
+~ Lagartixa | Geco;Lagartixa-leopardo | https://pt.wikipedia.org/wiki/Gekkonidae    # profunda
+~ Teiú | Teju | https://pt.wikipedia.org/wiki/Tei%C3%BA    # listas
+
+== ani-fauna-brasileira    # Cite um animal nativo da fauna brasileira
++ Arara |  | Macaw | Guacamayo | c | https://pt.wikipedia.org/wiki/Arara    # generica
++ Beija-flor | Colibri | Hummingbird |  | c | https://pt.wikipedia.org/wiki/Beija-flor    # generica
++ Macaco |  | Monkey | Mono | c | https://pt.wikipedia.org/wiki/Macaco    # generica
++ Gavião |  | Hawk | Gavilán | i | https://pt.wikipedia.org/wiki/Gavi%C3%A3o    # generica
++ Pica-pau |  | Woodpecker | Pájaro carpintero | i | https://pt.wikipedia.org/wiki/Pica-pau    # generica
++ Veado |  | Deer | Venado | i | https://pt.wikipedia.org/wiki/Veado    # generica
++ Arara-canindé |  | Blue-and-yellow macaw | Guacamayo azulamarillo | i | https://pt.wikipedia.org/wiki/Arara-canind%C3%A9 https://pt.wikipedia.org/wiki/Arara-can%C3%ADnd%C3%A9    # profunda,listas
++ Gralha-azul |  | Azure jay | Urraca azul | r | https://pt.wikipedia.org/wiki/Gralha-azul    # profunda,listas
++ Carcará | Caracará | Crested caracara;Southern caracara | Carancho | i | https://pt.wikipedia.org/wiki/Carcar%C3%A1    # profunda,listas
++ Urubu | Urubu-de-cabeça-preta | Black vulture | Zopilote | r | https://pt.wikipedia.org/wiki/Urubu-de-cabe%C3%A7a-preta    # profunda
++ Coruja-buraqueira | Buraqueira | Burrowing owl | Mochuelo de madriguera | r | https://pt.wikipedia.org/wiki/Coruja-buraqueira    # profunda,listas
++ Galo-da-serra |  | Guianan cock-of-the-rock | Gallito de las rocas | e | https://pt.wikipedia.org/wiki/Galo-da-serra    # profunda
++ Guará | Guará-vermelho | Scarlet ibis | Corocoro rojo | r | https://pt.wikipedia.org/wiki/Guar%C3%A1_(ave) https://pt.wikipedia.org/wiki/Guar%C3%A1    # profunda,listas
++ Colhereiro |  | Roseate spoonbill | Espátula rosada | e | https://pt.wikipedia.org/wiki/Colhereiro    # profunda
++ Araponga |  | Bare-throated bellbird |  | e | https://pt.wikipedia.org/wiki/Araponga    # profunda
++ Curió | Papa-arroz | Chestnut-bellied seed finch |  | r | https://pt.wikipedia.org/wiki/Curi%C3%B3    # profunda,listas
++ Canário-da-terra |  | Saffron finch | Jilguero dorado | r | https://pt.wikipedia.org/wiki/Can%C3%A1rio-da-terra    # profunda
++ Jacu |  | Guan | Pava | e | https://pt.wikipedia.org/wiki/Penelope    # profunda
++ Macuco |  | Solitary tinamou |  | e | https://pt.wikipedia.org/wiki/Macuco    # profunda,listas
++ Maritaca | Maitaca |  |  | i | https://pt.wikipedia.org/wiki/Maritaca https://pt.wikipedia.org/wiki/Maitaca    # profunda,listas
++ Tamanduá-mirim |  | Southern tamandua | Oso melero | e | https://pt.wikipedia.org/wiki/Tamandu%C3%A1-mirim    # profunda
++ Macaco-prego |  | Capuchin monkey | Capuchino | c | https://pt.wikipedia.org/wiki/Macaco-prego    # profunda,listas
++ Mico-leão-preto |  | Black lion tamarin | Tití león negro | e | https://pt.wikipedia.org/wiki/Mico-le%C3%A3o-preto    # profunda,listas
++ Macaco-aranha | Coatá | Spider monkey | Mono araña | r | https://pt.wikipedia.org/wiki/Ateles https://pt.wikipedia.org/wiki/Macaco-aranha    # profunda,listas
++ Sauim-de-coleira |  | Pied tamarin |  | l | https://pt.wikipedia.org/wiki/Sauim-de-coleira    # profunda
++ Cachorro-vinagre |  | Bush dog | Perro de monte | e | https://pt.wikipedia.org/wiki/Cachorro-vinagre    # profunda,listas
++ Gato-do-mato | Gato-do-mato-pequeno | Oncilla | Tigrillo | r | https://pt.wikipedia.org/wiki/Gato-do-mato-pequeno    # profunda,listas
++ Preá |  | Brazilian guinea pig | Cuy;Cuis | r | https://pt.wikipedia.org/wiki/Pre%C3%A1    # profunda,listas
++ Tapiti |  |  | Tapetí | l | https://pt.wikipedia.org/wiki/Tapiti    # profunda
++ Morcego-vampiro | Vampiro | Vampire bat |  | e | https://pt.wikipedia.org/wiki/Morcego-vampiro    # profunda
++ Boto-cinza | Tucuxi | Guiana dolphin | Delfín de Guayana | e | https://pt.wikipedia.org/wiki/Boto-cinza https://pt.wikipedia.org/wiki/Sotalia    # profunda,listas
++ Tucuxi |  |  |  | e | https://pt.wikipedia.org/wiki/Tucuxi    # profunda
++ Toninha |  | La Plata dolphin | Franciscana | l | https://pt.wikipedia.org/wiki/Pontoporia_blainvillei    # profunda
++ Baleia-franca | Baleia-franca-austral | Southern right whale | Ballena franca austral | e | https://pt.wikipedia.org/wiki/Baleia-franca-austral    # profunda,listas
++ Jacaré-açu |  | Black caiman | Caimán negro | r | https://pt.wikipedia.org/wiki/Jacar%C3%A9-a%C3%A7u    # profunda,listas
++ Teiú | Teju | Tegu |  | r | https://pt.wikipedia.org/wiki/Tei%C3%BA    # profunda,listas
++ Iguana |  | Green iguana |  | r | https://pt.wikipedia.org/wiki/Iguana_iguana    # profunda
++ Cascavel |  | Rattlesnake | Cascabel | i | https://pt.wikipedia.org/wiki/Crotalus_durissus https://pt.wikipedia.org/wiki/Cascavel    # profunda,listas
++ Surucucu |  | Bushmaster | Cascabel muda | r | https://pt.wikipedia.org/wiki/Lachesis_muta https://pt.wikipedia.org/wiki/Surucucu    # profunda,listas
++ Cobra-coral | Coral | Coral snake | Coralillo | r | https://pt.wikipedia.org/wiki/Micrurus    # profunda
++ Tartaruga-marinha |  | Sea turtle | Tortuga marina | r | https://pt.wikipedia.org/wiki/Tartaruga-marinha    # profunda
++ Tracajá |  | Yellow-spotted river turtle | Terecay;Taricaya | e | https://pt.wikipedia.org/wiki/Podocnemis_unifilis https://pt.wikipedia.org/wiki/Tracaj%C3%A1    # profunda,listas
++ Perereca |  | Tree frog | Rana arborícola | r | https://pt.wikipedia.org/wiki/Hylidae    # profunda
++ Tucunaré |  | Peacock bass |  | i | https://pt.wikipedia.org/wiki/Tucunar%C3%A9    # profunda,listas
++ Dourado |  | Golden dorado | Dorado | r | https://pt.wikipedia.org/wiki/Dourado_(peixe)    # profunda
++ Pintado | Surubim | Spotted sorubim | Surubí | r | https://pt.wikipedia.org/wiki/Pseudoplatystoma_corruscans    # profunda,listas
++ Pacu |  |  |  | r | https://pt.wikipedia.org/wiki/Pacu    # profunda
++ Aruanã |  | Silver arowana;Arowana | Arawana | e | https://pt.wikipedia.org/wiki/Aruan%C3%A3    # profunda,listas
++ Poraquê | Peixe-elétrico | Electric eel | Anguila eléctrica | r | https://pt.wikipedia.org/wiki/Poraqu%C3%AA    # profunda,listas
++ Candiru |  |  |  | e | https://pt.wikipedia.org/wiki/Candiru    # profunda,listas
++ Mero |  | Atlantic goliath grouper | Mero guasa | e | https://en.wikipedia.org/wiki/Atlantic_goliath_grouper    # profunda
++ Aranha-armadeira | Armadeira | Brazilian wandering spider | Araña del banano | e | https://pt.wikipedia.org/wiki/Phoneutria    # profunda
++ Caranguejo-uçá |  | Mangrove crab | Cangrejo de manglar | e | https://en.wikipedia.org/wiki/Ucides_cordatus    # profunda
++ Guaiamum | Guaiamu | Blue land crab |  | e | https://pt.wikipedia.org/wiki/Cardisoma_guanhumi    # profunda
++ Escorpião-amarelo |  | Brazilian yellow scorpion | Escorpión amarillo | e | https://pt.wikipedia.org/wiki/Tityus_serrulatus    # profunda
++ Tocandira | Tucandeira;Formiga-bala | Bullet ant | Hormiga bala | e | https://pt.wikipedia.org/wiki/Paraponera_clavata    # profunda
++ Gralha-picaça |  | Curl-crested jay |  | l | https://pt.wikipedia.org/wiki/Cyanocorax_cristatellus    # profunda
++ Ararajuba | Guaruba | Golden parakeet |  | e | https://pt.wikipedia.org/wiki/Ararajuba    # profunda
++ Jabuti-piranga |  | Red-footed tortoise | Morrocoy | e | https://pt.wikipedia.org/wiki/Chelonoidis_carbonaria    # profunda
++ Jacaré-de-papo-amarelo |  | Broad-snouted caiman | Yacaré overo | i | https://pt.wikipedia.org/wiki/Jacar%C3%A9-de-papo-amarelo    # listas
++ Pirarara |  | Redtail catfish |  | e | https://pt.wikipedia.org/wiki/Pirarara    # listas
++ Tatu-galinha |  | Nine-banded armadillo | Armadillo de nueve bandas | r | https://pt.wikipedia.org/wiki/Tatu-galinha    # listas
++ Mocó |  |  |  | e | https://pt.wikipedia.org/wiki/Moc%C3%B3    # listas
++ Raposa-do-campo |  | Hoary fox | Zorro de campo | e | https://pt.wikipedia.org/wiki/Raposa-do-campo    # listas
++ Mico-leão-de-cara-dourada |  | Golden-headed lion tamarin |  | e | https://pt.wikipedia.org/wiki/Mico-le%C3%A3o-de-cara-dourada    # listas
++ Preguiça-de-coleira |  | Maned sloth | Perezoso de collar | e | https://pt.wikipedia.org/wiki/Pregui%C3%A7a-de-coleira    # listas
++ Urubu-rei |  | King vulture | Zopilote rey | r | https://pt.wikipedia.org/wiki/Urubu-rei    # listas
++ Trinca-ferro |  |  |  | r | https://pt.wikipedia.org/wiki/Trinca-ferro    # listas
++ Tiê-sangue |  | Brazilian tanager |  | e | https://pt.wikipedia.org/wiki/Ti%C3%AA-sangue    # listas
++ Saíra-sete-cores |  | Green-headed tanager |  | e | https://pt.wikipedia.org/wiki/Sa%C3%ADra-sete-cores    # listas
++ Pássaro-preto | Graúna;Chopim;Chupim |  |  | r | https://pt.wikipedia.org/wiki/Sargento-chopi    # listas
++ Anu-preto | Anu;Anum | Smooth-billed ani | Garrapatero | r | https://pt.wikipedia.org/wiki/Anu-preto    # listas
++ Curicaca |  | Buff-necked ibis | Bandurria | e | https://pt.wikipedia.org/wiki/Curicaca    # listas
++ Jacutinga |  | Black-fronted piping guan |  | e | https://pt.wikipedia.org/wiki/Jacutinga    # listas
++ Urutau | Mãe-da-lua | Potoo |  | e | https://pt.wikipedia.org/wiki/Urutau    # listas
+~ Jacaré | Jacaré-do-pantanal;Yacare caiman | https://pt.wikipedia.org/wiki/Jacar%C3%A9-do-pantanal    # profunda
+~ Tucano | Tucano-toco;Tucanuçu | https://pt.wikipedia.org/wiki/Tucanu%C3%A7u    # listas
+~ Peixe-boi | Peixe-boi-da-amazônia | https://pt.wikipedia.org/wiki/Peixe-boi-da-amaz%C3%B4nia    # listas
+
+== ani-racas-cachorro    # Cite uma raça de cachorro
++ Boston terrier |  |  |  | r | https://pt.wikipedia.org/wiki/Boston_terrier    # profunda,listas
++ Dogo argentino |  |  |  | r | https://pt.wikipedia.org/wiki/Dogo_argentino    # profunda,listas
++ Pastor-branco-suíço | Pastor suíço | White Swiss Shepherd Dog;White Swiss Shepherd | Pastor blanco suizo | r | https://pt.wikipedia.org/wiki/Pastor-branco-su%C3%AD%C3%A7o    # profunda,listas
++ Bullmastiff | Bulmastife |  |  | r | https://pt.wikipedia.org/wiki/Bullmastiff https://pt.wikipedia.org/wiki/Bulmastife    # profunda,listas
++ Dogue de Bordeaux | Dogue-de-bordéus |  | Dogo de Burdeos | r | https://pt.wikipedia.org/wiki/Dogue_de_Bordeaux https://pt.wikipedia.org/wiki/Dogue-de-bord%C3%A9us    # profunda,listas
++ Mastim napolitano | Mastino napoletano | Neapolitan Mastiff | Mastín napolitano | r | https://pt.wikipedia.org/wiki/Mastim_napolitano    # profunda,listas
++ Mastim tibetano |  | Tibetan Mastiff | Mastín tibetano | r | https://pt.wikipedia.org/wiki/Mastim_tibetano    # profunda,listas
++ Leonberger |  |  |  | l | https://pt.wikipedia.org/wiki/Leonberger    # profunda,listas
++ Fox terrier |  |  |  | r | https://pt.wikipedia.org/wiki/Fox_terrier    # profunda,listas
++ Airedale terrier |  |  |  | e | https://pt.wikipedia.org/wiki/Airedale_terrier    # profunda,listas
++ Scottish terrier |  |  | Terrier escocés | e | https://pt.wikipedia.org/wiki/Scottish_terrier https://pt.wikipedia.org/wiki/Terrier_escoc%C3%AAs    # profunda,listas
++ American Staffordshire terrier | Amstaff |  |  | r | https://en.wikipedia.org/wiki/American_Staffordshire_Terrier https://pt.wikipedia.org/wiki/American_staffordshire_terrier    # profunda,listas
++ Havanês | Bichon havanês | Havanese | Bichón habanero | e | https://en.wikipedia.org/wiki/Havanese_dog    # profunda
++ Cão-de-crista-chinês | Chinese crested;Crista chinês | Chinese Crested Dog | Crestado chino | e | https://en.wikipedia.org/wiki/Chinese_Crested_Dog https://pt.wikipedia.org/wiki/C%C3%A3o_de_crista_chin%C3%AAs    # profunda,listas
++ Xoloitzcuintle | Pelado mexicano |  |  | e | https://en.wikipedia.org/wiki/Xoloitzcuintle    # profunda
++ Galgo italiano | Lebrel italiano | Italian Greyhound |  | e | https://en.wikipedia.org/wiki/Italian_Greyhound    # profunda
++ Saluki |  |  |  | l | https://pt.wikipedia.org/wiki/Saluki    # profunda,listas
++ Borzoi |  |  |  | e | https://pt.wikipedia.org/wiki/Borzoi    # profunda,listas
++ Lébrel irlandês | Wolfhound irlandês | Irish Wolfhound |  | l | https://pt.wikipedia.org/wiki/L%C3%A9brel_irland%C3%AAs    # profunda
++ Springer spaniel inglês | Springer spaniel | English Springer Spaniel |  | e | https://pt.wikipedia.org/wiki/Springer_spaniel_ingl%C3%AAs    # profunda,listas
++ Braco alemão | Pointer alemão;Braco alemão de pelo curto | German Shorthaired Pointer | Braco alemán | e | https://en.wikipedia.org/wiki/German_Shorthaired_Pointer https://pt.wikipedia.org/wiki/Braco_alem%C3%A3o_de_pelo_curto    # profunda,listas
++ Vizsla | Braco húngaro |  |  | e | https://en.wikipedia.org/wiki/Vizsla    # profunda
++ Setter inglês |  | English Setter |  | e | https://pt.wikipedia.org/wiki/Setter_ingl%C3%AAs    # profunda,listas
++ Cão-d'água-português | Cão d'água;Cão de água português | Portuguese Water Dog | Perro de agua portugués | e | https://en.wikipedia.org/wiki/Portuguese_Water_Dog https://pt.wikipedia.org/wiki/C%C3%A3o_de_%C3%A1gua_portugu%C3%AAs    # profunda,listas
++ Tosa inu | Tosa |  |  | e | https://pt.wikipedia.org/wiki/Tosa_inu https://pt.wikipedia.org/wiki/Tosa_(ra%C3%A7a)    # profunda,listas
++ Foxhound |  |  |  | l | https://pt.wikipedia.org/wiki/Foxhound_ingl%C3%AAs    # profunda
++ Cão da Serra da Estrela | Serra da Estrela | Estrela Mountain Dog | Perro de la sierra de la Estrella | e | https://pt.wikipedia.org/wiki/C%C3%A3o_da_Serra_da_Estrela    # profunda
++ Rafeiro do Alentejo |  |  |  | l | https://pt.wikipedia.org/wiki/Rafeiro_do_Alentejo    # profunda,listas
++ Podengo português |  | Portuguese Podengo | Podenco portugués | l | https://pt.wikipedia.org/wiki/Podengo_portugu%C3%AAs https://pt.wikipedia.org/wiki/Podengo-portugu%C3%AAs    # profunda,listas
++ Ovelheiro gaúcho |  |  |  | l | https://pt.wikipedia.org/wiki/Ovelheiro_ga%C3%BAcho https://pt.wikipedia.org/wiki/Ovelheiro-ga%C3%BAcho    # profunda,listas
++ Boiadeiro australiano | Blue heeler;Red heeler;Cattle dog | Australian Cattle Dog | Pastor ganadero australiano;Boyero australiano | r | https://pt.wikipedia.org/wiki/Boiadeiro_australiano https://pt.wikipedia.org/wiki/Boiadeiro-australiano    # profunda,listas
++ Bobtail | Old English sheepdog;Antigo cão de pastor inglês |  | Antiguo perro pastor inglés | e | https://en.wikipedia.org/wiki/Old_English_Sheepdog https://pt.wikipedia.org/wiki/Old_english_sheepdog    # profunda,listas
++ Bearded collie |  |  |  | l | https://pt.wikipedia.org/wiki/Bearded_collie    # profunda
++ Pastor-do-cáucaso |  | Caucasian Shepherd Dog | Pastor del Cáucaso | e | https://pt.wikipedia.org/wiki/Pastor-do-c%C3%A1ucaso    # profunda,listas
++ Pastor-maremano-abruzês | Maremano;Pastor maremano | Maremma Sheepdog | Pastor de Maremma | e | https://pt.wikipedia.org/wiki/Pastor-maremano-abruz%C3%AAs    # profunda,listas
++ Pastor holandês |  | Dutch Shepherd |  | l | https://pt.wikipedia.org/wiki/Pastor_holand%C3%AAs    # profunda
++ Cairn terrier |  |  |  | l | https://pt.wikipedia.org/wiki/Cairn_terrier    # profunda
++ Spitz japonês |  | Japanese Spitz |  | e | https://pt.wikipedia.org/wiki/Spitz_japon%C3%AAs    # profunda,listas
++ Bolonhês | Bichon bolonhês | Bolognese | Boloñés | l | https://en.wikipedia.org/wiki/Bolognese_dog    # profunda
++ Coton de Tulear |  |  |  | e | https://pt.wikipedia.org/wiki/Coton_de_Tulear    # profunda,listas
++ Keeshond | Spitz-lobo |  |  | l | https://pt.wikipedia.org/wiki/Keeshond    # profunda
++ Kelpie australiano | Kelpie | Australian Kelpie |  | l | https://pt.wikipedia.org/wiki/Kelpie_australiano    # profunda
++ Pastor-de-beauce | Beauceron |  |  | l | https://pt.wikipedia.org/wiki/Pastor-de-beauce    # profunda
++ Dogue brasileiro |  |  |  | l | https://pt.wikipedia.org/wiki/Dogue_brasileiro    # profunda
++ Rastreador brasileiro |  | Brazilian Tracker | Rastreador brasileño | l | https://pt.wikipedia.org/wiki/Rastreador_brasileiro    # profunda
++ Pastor-da-mantiqueira | Policialzinho |  |  | l | https://pt.wikipedia.org/wiki/Pastor-da-mantiqueira    # profunda
++ Buldogue americano | Bulldog americano | American Bulldog |  | r | https://pt.wikipedia.org/wiki/Buldogue-americano    # listas
++ Akita americano |  | American Akita |  | e | https://pt.wikipedia.org/wiki/Akita_americano    # listas
++ Dogue canário | Presa canário |  |  | e | https://pt.wikipedia.org/wiki/Dogue_can%C3%A1rio    # listas
++ Komondor |  |  |  | l | https://pt.wikipedia.org/wiki/Komondor    # listas
++ Puli |  |  |  | l | https://pt.wikipedia.org/wiki/Puli    # listas
++ Cão-pelado-peruano | Pelado peruano | Peruvian Hairless Dog | Perro sin pelo del Perú | l | https://pt.wikipedia.org/wiki/C%C3%A3o-pelado-peruano    # listas
+~ Shih-tzu | Shitzu | https://pt.wikipedia.org/wiki/Shih-tzu    # listas
+~ Yorkshire | Yorkie | https://pt.wikipedia.org/wiki/Yorkshire_terrier    # listas
+~ Akita | Akita inu | https://pt.wikipedia.org/wiki/Akita_inu    # listas
+~ Dachshund | Salsichinha | https://pt.wikipedia.org/wiki/Dachshund    # listas
+~ Spitz alemão | Lulu | https://pt.wikipedia.org/wiki/Spitz_alem%C3%A3o    # listas

@@ -1,0 +1,356 @@
+== mbr-artistas-mpb    # Cite um(a) cantor(a) ou compositor(a) da MPB (Música Popular Brasileira)
++ Cássia Eller |  |  |  | c | https://pt.wikipedia.org/wiki/C%C3%A1ssia_Eller    # profunda,listas
++ Zeca Baleiro |  |  |  | i | https://pt.wikipedia.org/wiki/Zeca_Baleiro    # profunda,listas
++ Nando Reis |  |  |  | i | https://pt.wikipedia.org/wiki/Nando_Reis    # profunda
++ Jorge Vercillo |  |  |  | i | https://pt.wikipedia.org/wiki/Jorge_Vercillo    # profunda,listas CORR: tirada aceita redundante (erro de digitação)
++ Emílio Santiago |  |  |  | r | https://pt.wikipedia.org/wiki/Em%C3%ADlio_Santiago    # profunda,listas
++ Ed Motta |  |  |  | r | https://pt.wikipedia.org/wiki/Ed_Motta    # profunda,listas
++ Sandra de Sá |  |  |  | r | https://pt.wikipedia.org/wiki/Sandra_de_S%C3%A1    # profunda
++ Wilson Simonal | Simonal |  |  | r | https://pt.wikipedia.org/wiki/Wilson_Simonal    # profunda,listas
++ Jair Rodrigues |  |  |  | r | https://pt.wikipedia.org/wiki/Jair_Rodrigues    # profunda
++ Elizeth Cardoso |  |  |  | r | https://pt.wikipedia.org/wiki/Elizeth_Cardoso    # profunda,listas
++ Maysa |  |  |  | e | https://pt.wikipedia.org/wiki/Maysa    # profunda
++ Dolores Duran |  |  |  | l | https://pt.wikipedia.org/wiki/Dolores_Duran    # profunda
++ Sérgio Mendes |  |  |  | e | https://pt.wikipedia.org/wiki/S%C3%A9rgio_Mendes    # profunda
++ Hermeto Pascoal |  |  |  | r | https://pt.wikipedia.org/wiki/Hermeto_Pascoal    # profunda,listas
++ Baden Powell |  |  |  | e | https://pt.wikipedia.org/wiki/Baden_Powell_(m%C3%BAsico)    # profunda
++ Carlos Lyra |  |  |  | l | https://pt.wikipedia.org/wiki/Carlos_Lyra    # profunda
++ Roberto Menescal |  |  |  | l | https://pt.wikipedia.org/wiki/Roberto_Menescal    # profunda
++ Marcos Valle |  |  |  | l | https://pt.wikipedia.org/wiki/Marcos_Valle    # profunda
++ Marina Lima |  |  |  | r | https://pt.wikipedia.org/wiki/Marina_Lima    # profunda,listas
++ Zizi Possi |  |  |  | i | https://pt.wikipedia.org/wiki/Zizi_Possi    # profunda,listas
++ Ângela Ro Ro |  |  |  | r | https://pt.wikipedia.org/wiki/%C3%82ngela_Ro_Ro https://pt.wikipedia.org/wiki/Angela_Ro_Ro    # profunda,listas
++ Renato Teixeira |  |  |  | r | https://pt.wikipedia.org/wiki/Renato_Teixeira    # profunda,listas
++ Almir Sater |  |  |  | r | https://pt.wikipedia.org/wiki/Almir_Sater    # profunda,listas
++ Paulinho Moska | Moska |  |  | r | https://pt.wikipedia.org/wiki/Paulinho_Moska    # profunda,listas
++ Vitor Ramil |  |  |  | l | https://pt.wikipedia.org/wiki/Vitor_Ramil    # profunda
++ Kleiton & Kledir |  |  |  | l | https://pt.wikipedia.org/wiki/Kleiton_%26_Kledir    # profunda
++ Elomar |  |  |  | l | https://pt.wikipedia.org/wiki/Elomar    # profunda
++ Dominguinhos |  |  |  | r | https://pt.wikipedia.org/wiki/Dominguinhos    # profunda,listas
++ Sivuca |  |  |  | e | https://pt.wikipedia.org/wiki/Sivuca    # profunda
++ Jackson do Pandeiro |  |  |  | r | https://pt.wikipedia.org/wiki/Jackson_do_Pandeiro    # profunda
++ Zé Geraldo |  |  |  | l | https://pt.wikipedia.org/wiki/Z%C3%A9_Geraldo    # profunda
++ Tulipa Ruiz |  |  |  | e | https://pt.wikipedia.org/wiki/Tulipa_Ruiz    # profunda
++ Mallu Magalhães |  |  |  | e | https://pt.wikipedia.org/wiki/Mallu_Magalh%C3%A3es    # profunda
++ Marcelo Jeneci |  |  |  | l | https://pt.wikipedia.org/wiki/Marcelo_Jeneci    # profunda
++ Anavitória |  |  |  | r | https://pt.wikipedia.org/wiki/Anavit%C3%B3ria    # profunda,listas
++ Duda Beat |  |  |  | e | https://pt.wikipedia.org/wiki/Duda_Beat    # profunda
++ Marina Sena |  |  |  | e | https://pt.wikipedia.org/wiki/Marina_Sena    # profunda
++ Luedji Luna |  |  |  | l | https://pt.wikipedia.org/wiki/Luedji_Luna    # profunda
++ Margareth Menezes |  |  |  | e | https://pt.wikipedia.org/wiki/Margareth_Menezes    # profunda
++ Rosa Passos |  |  |  | l | https://pt.wikipedia.org/wiki/Rosa_Passos    # profunda
++ Ana Cañas |  |  |  | l | https://pt.wikipedia.org/wiki/Ana_Ca%C3%B1as    # profunda
++ João Donato |  |  |  | e | https://pt.wikipedia.org/wiki/Jo%C3%A3o_Donato    # profunda
++ Bebel Gilberto |  |  |  | e | https://pt.wikipedia.org/wiki/Bebel_Gilberto    # profunda
++ Miúcha |  |  |  | l | https://pt.wikipedia.org/wiki/Mi%C3%BAcha    # profunda
++ Itamar Assumpção |  |  |  | l | https://pt.wikipedia.org/wiki/Itamar_Assump%C3%A7%C3%A3o    # profunda
++ Sérgio Sampaio |  |  |  | l | https://pt.wikipedia.org/wiki/S%C3%A9rgio_Sampaio    # profunda
++ Egberto Gismonti |  |  |  | l | https://pt.wikipedia.org/wiki/Egberto_Gismonti    # profunda
++ Francis Hime |  |  |  | l | https://pt.wikipedia.org/wiki/Francis_Hime    # profunda
++ Amelinha |  |  |  | l | https://pt.wikipedia.org/wiki/Amelinha    # profunda
++ Vander Lee |  |  |  | l | https://pt.wikipedia.org/wiki/Vander_Lee    # profunda
++ Criolo |  |  |  | e | https://pt.wikipedia.org/wiki/Criolo    # profunda
++ Rita Lee |  |  |  | c | https://pt.wikipedia.org/wiki/Rita_Lee    # listas
++ Cazuza |  |  |  | c | https://pt.wikipedia.org/wiki/Cazuza    # listas
++ Roberto Carlos |  |  |  | c | https://pt.wikipedia.org/wiki/Roberto_Carlos    # listas
++ Erasmo Carlos |  |  |  | i | https://pt.wikipedia.org/wiki/Erasmo_Carlos    # listas
++ Elza Soares |  |  |  | i | https://pt.wikipedia.org/wiki/Elza_Soares    # listas
++ Clara Nunes |  |  |  | i | https://pt.wikipedia.org/wiki/Clara_Nunes    # listas
++ Paulinho da Viola |  |  |  | i | https://pt.wikipedia.org/wiki/Paulinho_da_Viola    # listas
+~ Gonzaguinha | Luiz Gonzaga Júnior | https://pt.wikipedia.org/wiki/Gonzaguinha    # generica
+~ Elba Ramalho | Elba | https://pt.wikipedia.org/wiki/Elba_Ramalho    # generica
+~ Fafá de Belém | Fafá | https://pt.wikipedia.org/wiki/Faf%C3%A1_de_Bel%C3%A9m    # generica
+~ Nana Caymmi | Nana | https://pt.wikipedia.org/wiki/Nana_Caymmi    # generica
+~ Nara Leão | Nara | https://pt.wikipedia.org/wiki/Nara_Le%C3%A3o    # generica
+~ Moraes Moreira | Moraes | https://pt.wikipedia.org/wiki/Moraes_Moreira    # generica
+~ Johnny Hooker | Hooker | https://pt.wikipedia.org/wiki/Johnny_Hooker    # generica
+- Marisa Monte | Marisa | https://pt.wikipedia.org/wiki/Marisa_Monte    # generica # REJ: "Marisa" fica a 1 letra de "Marina" (Marina Lima/Marina Sena) e roubaria essas respostas
+~ Vanessa da Mata | Vanessa | https://pt.wikipedia.org/wiki/Vanessa_da_Mata    # generica
+~ Arnaldo Antunes | Arnaldo | https://pt.wikipedia.org/wiki/Arnaldo_Antunes    # generica
+~ Pepeu Gomes | Pepeu | https://pt.wikipedia.org/wiki/Pepeu_Gomes    # generica
+~ Luiz Melodia | Melodia | https://pt.wikipedia.org/wiki/Luiz_Melodia    # generica
+~ Tim Maia | Síndico | https://pt.wikipedia.org/wiki/Tim_Maia    # generica
+
+== mbr-bandas-rock    # Cite uma banda de rock brasileira
++ Rádio Táxi |  |  |  | r | https://pt.wikipedia.org/wiki/R%C3%A1dio_T%C3%A1xi    # generica
++ Cansei de Ser Sexy | CSS |  |  | r | https://pt.wikipedia.org/wiki/Cansei_de_Ser_Sexy    # generica
++ Móveis Coloniais de Acaju | Móveis Coloniais |  |  | e | https://pt.wikipedia.org/wiki/M%C3%B3veis_Coloniais_de_Acaju    # generica
++ Roupa Nova |  |  |  | i | https://pt.wikipedia.org/wiki/Roupa_Nova    # profunda,listas
++ 14 Bis | Quatorze Bis |  |  | r | https://pt.wikipedia.org/wiki/14_Bis_(banda) https://pt.wikipedia.org/wiki/14-bis    # profunda,listas
++ Os Incríveis |  |  |  | e | https://pt.wikipedia.org/wiki/Os_Incr%C3%ADveis_(banda)    # profunda
++ Renato e Seus Blue Caps |  |  |  | e | https://pt.wikipedia.org/wiki/Renato_e_Seus_Blue_Caps    # profunda
++ The Fevers |  |  |  | e | https://pt.wikipedia.org/wiki/The_Fevers    # profunda
++ Made in Brazil |  |  |  | e | https://pt.wikipedia.org/wiki/Made_in_Brazil_(banda)    # profunda,listas
++ O Terço |  |  |  | e | https://pt.wikipedia.org/wiki/O_Ter%C3%A7o    # profunda,listas
++ Casa das Máquinas |  |  |  | e | https://pt.wikipedia.org/wiki/Casa_das_M%C3%A1quinas    # profunda,listas
++ Joelho de Porco |  |  |  | e | https://pt.wikipedia.org/wiki/Joelho_de_Porco    # profunda,listas
++ Metrô |  |  |  | r | https://pt.wikipedia.org/wiki/Metr%C3%B4_(banda)    # profunda,listas
++ Zero |  |  |  | l | https://pt.wikipedia.org/wiki/Zero_(banda)    # profunda
++ João Penca e Seus Miquinhos Amestrados |  |  |  | l | https://pt.wikipedia.org/wiki/Jo%C3%A3o_Penca_e_Seus_Miquinhos_Amestrados    # profunda
++ Picassos Falsos |  |  |  | l | https://pt.wikipedia.org/wiki/Picassos_Falsos    # profunda,listas
++ Defalla |  |  |  | l | https://pt.wikipedia.org/wiki/Defalla    # profunda
++ Os Replicantes | Replicantes |  |  | e | https://pt.wikipedia.org/wiki/Os_Replicantes    # profunda,listas
++ TNT |  |  |  | l | https://pt.wikipedia.org/wiki/TNT_(banda)    # profunda
++ Os Cascavelletes | Cascavelletes |  |  | l | https://pt.wikipedia.org/wiki/Os_Cascavelletes    # profunda
++ Papas da Língua |  |  |  | r | https://pt.wikipedia.org/wiki/Papas_da_L%C3%ADngua    # profunda,listas
++ Graforreia Xilarmônica |  |  |  | l | https://pt.wikipedia.org/wiki/Graforreia_Xilarm%C3%B4nica    # profunda
++ Acústicos & Valvulados |  |  |  | l | https://pt.wikipedia.org/wiki/Ac%C3%BAsticos_%26_Valvulados    # profunda
++ Virgulóides |  |  |  | e | https://pt.wikipedia.org/wiki/Virgul%C3%B3ides    # profunda
++ Mombojó |  |  |  | l | https://pt.wikipedia.org/wiki/Momboj%C3%B3    # profunda
++ Moptop |  |  |  | l | https://pt.wikipedia.org/wiki/Moptop    # profunda
++ Hevo84 |  |  |  | l | https://pt.wikipedia.org/wiki/Hevo84    # profunda
++ Fake Number |  |  |  | l | https://pt.wikipedia.org/wiki/Fake_Number    # profunda
++ Cine |  |  |  | e | https://pt.wikipedia.org/wiki/Cine_(banda)    # profunda
++ Massacration |  |  |  | e | https://pt.wikipedia.org/wiki/Massacration    # profunda
++ Dorsal Atlântica |  |  |  | l | https://pt.wikipedia.org/wiki/Dorsal_Atl%C3%A2ntica_(banda)    # profunda
++ Sarcófago |  |  |  | l | https://pt.wikipedia.org/wiki/Sarc%C3%B3fago_(banda)    # profunda,listas
++ Torture Squad |  |  |  | l | https://pt.wikipedia.org/wiki/Torture_Squad    # profunda,listas
++ Nervosa |  |  |  | l | https://pt.wikipedia.org/wiki/Nervosa    # profunda
++ Almah |  |  |  | l | https://pt.wikipedia.org/wiki/Almah_(banda)    # profunda
++ Violeta de Outono |  |  |  | l | https://pt.wikipedia.org/wiki/Violeta_de_Outono    # profunda,listas
++ Tequila Baby |  |  |  | l | https://pt.wikipedia.org/wiki/Tequila_Baby    # profunda
++ Ultramen |  |  |  | l | https://pt.wikipedia.org/wiki/Ultramen    # profunda
++ Fellini |  |  |  | l | https://pt.wikipedia.org/wiki/Fellini_(banda)    # profunda
++ A Cor do Som |  |  |  | r | https://pt.wikipedia.org/wiki/A_Cor_do_Som    # listas
++ Catedral |  |  |  | r | https://pt.wikipedia.org/wiki/Catedral_(banda)    # listas
++ Heróis da Resistência |  |  |  | e | https://pt.wikipedia.org/wiki/Her%C3%B3is_da_Resist%C3%AAncia    # listas
++ Comunidade Nin-Jitsu |  |  |  | e | https://pt.wikipedia.org/wiki/Comunidade_Nin-Jitsu    # listas
++ Autoramas |  |  |  | e | https://pt.wikipedia.org/wiki/Autoramas    # listas
++ Gang 90 e as Absurdettes | Gang 90 |  |  | l | https://pt.wikipedia.org/wiki/Gang_90_e_as_Absurdettes    # listas
++ Hangar |  |  |  | l | https://pt.wikipedia.org/wiki/Hangar_(banda)    # listas
++ Maglore |  |  |  | e | https://pt.wikipedia.org/wiki/Maglore    # listas
++ O Terno |  |  |  | e | https://pt.wikipedia.org/wiki/O_Terno    # listas
++ Boogarins |  |  |  | l | https://pt.wikipedia.org/wiki/Boogarins    # listas
++ Selvagens à Procura de Lei |  |  |  | l | https://pt.wikipedia.org/wiki/Selvagens_%C3%A0_Procura_de_Lei    # listas
++ Black Pantera |  |  |  | l | https://pt.wikipedia.org/wiki/Black_Pantera    # listas
++ Ego Kill Talent |  |  |  | l | https://pt.wikipedia.org/wiki/Ego_Kill_Talent    # listas
+~ Legião Urbana | Legião | https://pt.wikipedia.org/wiki/Legi%C3%A3o_Urbana    # generica
+~ Barão Vermelho | Barão | https://pt.wikipedia.org/wiki/Bar%C3%A3o_Vermelho    # generica
+~ Capital Inicial | Capital | https://pt.wikipedia.org/wiki/Capital_Inicial    # generica
+~ Titãs | Os Titãs | https://pt.wikipedia.org/wiki/Tit%C3%A3s    # generica
+~ Kid Abelha | Kid Abelha e os Abóboras Selvagens | https://pt.wikipedia.org/wiki/Kid_Abelha    # generica
+- NX Zero | NXZero | https://pt.wikipedia.org/wiki/NX_Zero    # generica # REJ: redundante (o jogo já tolera espaço/erro de digitação)
+~ Blitz | A Blitz | https://pt.wikipedia.org/wiki/Blitz_(banda)    # generica
+
+== mbr-duplas-sertanejas    # Cite uma dupla sertaneja
++ Fred & Gustavo |  |  |  | i | https://pt.wikipedia.org/wiki/Fred_%26_Gustavo    # generica
++ Zé Ricardo & Thiago |  |  |  | r | https://pt.wikipedia.org/wiki/Z%C3%A9_Ricardo_%26_Thiago    # generica
++ João Mineiro & Marciano |  |  |  | r | https://pt.wikipedia.org/wiki/Jo%C3%A3o_Mineiro_%26_Marciano    # profunda
++ Chico Rey & Paraná |  |  |  | e | https://pt.wikipedia.org/wiki/Chico_Rey_%26_Paran%C3%A1    # profunda
++ Gilberto & Gilmar |  |  |  | e | https://pt.wikipedia.org/wiki/Gilberto_%26_Gilmar    # profunda
++ Di Paullo & Paulino |  |  |  | r | https://pt.wikipedia.org/wiki/Di_Paullo_%26_Paulino    # profunda
++ Cezar & Paulinho |  |  |  | r | https://pt.wikipedia.org/wiki/Cezar_%26_Paulinho    # profunda,listas
++ Belmonte & Amaraí |  |  |  | e | https://pt.wikipedia.org/wiki/Belmonte_%26_Amara%C3%AD    # profunda,listas
++ Lourenço & Lourival |  |  |  | e | https://pt.wikipedia.org/wiki/Louren%C3%A7o_%26_Lourival    # profunda,listas
++ Duduca & Dalvan |  |  |  | e | https://pt.wikipedia.org/wiki/Duduca_%26_Dalvan    # profunda,listas
++ Zé Mulato & Cassiano |  |  |  | e | https://pt.wikipedia.org/wiki/Z%C3%A9_Mulato_%26_Cassiano    # profunda,listas
++ Tibagi & Miltinho |  |  |  | l | https://pt.wikipedia.org/wiki/Tibagi_%26_Miltinho    # profunda
++ Craveiro & Cravinho |  |  |  | l | https://pt.wikipedia.org/wiki/Craveiro_%26_Cravinho    # profunda,listas
++ Vieira & Vieirinha |  |  |  | l | https://pt.wikipedia.org/wiki/Vieira_%26_Vieirinha    # profunda,listas
++ Alvarenga & Ranchinho |  |  |  | l | https://pt.wikipedia.org/wiki/Alvarenga_%26_Ranchinho    # profunda
++ Zé Carreiro & Carreirinho |  |  |  | l | https://pt.wikipedia.org/wiki/Z%C3%A9_Carreiro_%26_Carreirinho    # profunda
++ Irmãs Castro |  |  |  | l | https://pt.wikipedia.org/wiki/Irm%C3%A3s_Castro    # profunda
++ Bruninho & Davi |  |  |  | r | https://pt.wikipedia.org/wiki/Bruninho_%26_Davi    # profunda,listas
++ Ícaro & Gilmar |  |  |  | e | https://pt.wikipedia.org/wiki/%C3%8Dcaro_%26_Gilmar    # profunda
++ Mayck & Lyan |  |  |  | r | https://pt.wikipedia.org/wiki/Mayck_%26_Lyan    # profunda,listas
++ Conrado & Aleksandro |  |  |  | e | https://pt.wikipedia.org/wiki/Conrado_%26_Aleksandro    # profunda
++ Hugo & Tiago |  |  |  | e | https://www.letras.com.br/hugo-e-tiago/biografia    # listas CORR: raridade e fonte (sem página na pt.wikipedia)
++ Cleber & Cauan |  |  |  | r | https://pt.wikipedia.org/wiki/Cleber_%26_Cauan    # listas
++ Day & Lara |  |  |  | r | https://pt.wikipedia.org/wiki/Day_%26_Lara    # listas
++ João Carreiro & Capataz |  |  |  | r | https://pt.wikipedia.org/wiki/Jo%C3%A3o_Carreiro_%26_Capataz    # listas
+~ Milionário & José Rico | Milionário e Zé Rico | https://pt.wikipedia.org/wiki/Milion%C3%A1rio_%26_Jos%C3%A9_Rico    # generica
+- Chrystian & Ralf | Christian e Ralf | https://pt.wikipedia.org/wiki/Chrystian_%26_Ralf    # generica # REJ: redundante (o jogo já tolera erro de digitação)
+
+== mbr-samba-pagode    # Cite um artista ou grupo de samba ou pagode
++ Alexandre Pires |  |  |  | i | https://pt.wikipedia.org/wiki/Alexandre_Pires    # profunda,listas
++ Netinho de Paula |  |  |  | r | https://pt.wikipedia.org/wiki/Netinho_de_Paula    # profunda,listas
++ Rodriguinho |  |  |  | r | https://pt.wikipedia.org/wiki/Rodriguinho    # profunda,listas
++ Salgadinho |  |  |  | r | https://pt.wikipedia.org/wiki/Salgadinho_(cantor)    # profunda,listas
++ Leandro Lehart |  |  |  | e | https://pt.wikipedia.org/wiki/Leandro_Lehart    # profunda
++ Karametade |  |  |  | r | https://pt.wikipedia.org/wiki/Karametade    # profunda
++ Os Morenos |  |  |  | r | https://pt.wikipedia.org/wiki/Os_Morenos    # profunda,listas
++ Imaginasamba |  |  |  | e | https://pt.wikipedia.org/wiki/Imaginasamba    # profunda
++ Pixinguinha |  |  |  | r | https://pt.wikipedia.org/wiki/Pixinguinha    # profunda
++ Zé Kéti |  |  |  | e | https://pt.wikipedia.org/wiki/Z%C3%A9_K%C3%A9ti https://pt.wikipedia.org/wiki/Z%C3%A9_Keti    # profunda,listas
++ Clementina de Jesus |  |  |  | e | https://pt.wikipedia.org/wiki/Clementina_de_Jesus    # profunda,listas
++ Ismael Silva |  |  |  | l | https://pt.wikipedia.org/wiki/Ismael_Silva    # profunda,listas
++ Wilson Batista |  |  |  | l | https://pt.wikipedia.org/wiki/Wilson_Batista    # profunda,listas
++ Geraldo Pereira |  |  |  | l | https://pt.wikipedia.org/wiki/Geraldo_Pereira    # profunda,listas
++ Lupicínio Rodrigues | Lupicínio |  |  | e | https://pt.wikipedia.org/wiki/Lupic%C3%ADnio_Rodrigues    # profunda,listas
++ Carmen Miranda |  |  |  | r | https://pt.wikipedia.org/wiki/Carmen_Miranda    # profunda
++ Jamelão |  |  |  | r | https://pt.wikipedia.org/wiki/Jamel%C3%A3o    # profunda
++ Neguinho da Beija-Flor |  |  |  | r | https://pt.wikipedia.org/wiki/Neguinho_da_Beija-Flor    # profunda,listas
++ Agepê |  |  |  | r | https://pt.wikipedia.org/wiki/Agep%C3%AA    # profunda,listas
++ Luiz Carlos da Vila |  |  |  | l | https://pt.wikipedia.org/wiki/Luiz_Carlos_da_Vila    # profunda,listas
++ Benito di Paula |  |  |  | r | https://pt.wikipedia.org/wiki/Benito_di_Paula    # profunda,listas
++ Nelson Sargento |  |  |  | e | https://pt.wikipedia.org/wiki/Nelson_Sargento    # profunda,listas
++ Elton Medeiros |  |  |  | l | https://pt.wikipedia.org/wiki/Elton_Medeiros    # profunda,listas
++ Roberto Ribeiro |  |  |  | l | https://pt.wikipedia.org/wiki/Roberto_Ribeiro    # profunda
++ Luiz Ayrão |  |  |  | e | https://pt.wikipedia.org/wiki/Luiz_Ayr%C3%A3o    # profunda,listas
++ Mart'nália |  |  |  | e | https://pt.wikipedia.org/wiki/Mart'n%C3%A1lia    # profunda
++ Psirico |  |  |  | r | https://pt.wikipedia.org/wiki/Psirico    # profunda
++ É o Tchan! | Gera Samba |  |  | i | https://pt.wikipedia.org/wiki/%C3%89_o_Tchan!    # profunda
++ Parangolé |  |  |  | e | https://pt.wikipedia.org/wiki/Parangol%C3%A9_(banda)    # profunda
++ Marvvila |  |  |  | e | https://pt.wikipedia.org/wiki/Marvvila    # profunda
++ Moacyr Luz |  |  |  | l | https://pt.wikipedia.org/wiki/Moacyr_Luz    # profunda
++ Aracy de Almeida |  |  |  | l | https://pt.wikipedia.org/wiki/Aracy_de_Almeida    # profunda
++ Ciro Monteiro |  |  |  | l | https://pt.wikipedia.org/wiki/Ciro_Monteiro    # profunda
++ Noca da Portela |  |  |  | l | https://pt.wikipedia.org/wiki/Noca_da_Portela    # profunda
++ Fabiana Cozza |  |  |  | l | https://pt.wikipedia.org/wiki/Fabiana_Cozza    # profunda
++ Grupo Raça |  |  |  | r | https://pt.wikipedia.org/wiki/Grupo_Ra%C3%A7a    # listas CORR: tirada aceita "Raça" (confunde com Raça Negra)
++ Chrigor |  |  |  | r | https://pt.wikipedia.org/wiki/Chrigor    # listas
++ Sensação | Grupo Sensação |  |  | e | https://pt.wikipedia.org/wiki/Sensa%C3%A7%C3%A3o_(banda)    # listas
++ Leandro Sapucahy |  |  |  | e | https://pt.wikipedia.org/wiki/Leandro_Sapucahy    # listas
++ Moreira da Silva |  |  |  | e | https://pt.wikipedia.org/wiki/Moreira_da_Silva    # listas
++ Velha Guarda da Portela |  |  |  | e | https://pt.wikipedia.org/wiki/Velha_Guarda_da_Portela    # listas
++ Sinhô |  |  |  | l | https://pt.wikipedia.org/wiki/Sinh%C3%B4    # listas
++ Germano Mathias |  |  |  | l | https://pt.wikipedia.org/wiki/Germano_Mathias    # listas
++ Paulo Vanzolini |  |  |  | l | https://pt.wikipedia.org/wiki/Paulo_Vanzolini    # listas
++ Marquinhos de Oswaldo Cruz |  |  |  | l | https://pt.wikipedia.org/wiki/Marquinhos_de_Oswaldo_Cruz    # listas CORR: tirada aceita redundante (erro de digitação)
+- Exaltasamba | Exalta Samba | https://pt.wikipedia.org/wiki/Exaltasamba    # generica # REJ: redundante (o jogo já tolera espaço/erro de digitação)
+~ Fundo de Quintal | Grupo Fundo de Quintal | https://pt.wikipedia.org/wiki/Fundo_de_Quintal    # generica
+~ Martinho da Vila | Martinho | https://pt.wikipedia.org/wiki/Martinho_da_Vila    # generica
+~ Beth Carvalho | Beth | https://pt.wikipedia.org/wiki/Beth_Carvalho    # generica
+~ Dona Ivone Lara | Dona Ivone | https://pt.wikipedia.org/wiki/Dona_Ivone_Lara    # generica
+~ Clara Nunes | Clara | https://pt.wikipedia.org/wiki/Clara_Nunes    # generica
+~ Elza Soares | Elza | https://pt.wikipedia.org/wiki/Elza_Soares    # generica
+~ Noel Rosa | Noel | https://pt.wikipedia.org/wiki/Noel_Rosa    # generica
+~ Bezerra da Silva | Bezerra | https://pt.wikipedia.org/wiki/Bezerra_da_Silva    # generica
+~ Arlindo Cruz | Arlindo | https://pt.wikipedia.org/wiki/Arlindo_Cruz    # generica
+~ Sorriso Maroto | Sorriso | https://pt.wikipedia.org/wiki/Sorriso_Maroto    # generica
+~ Demônios da Garoa | Os Demônios da Garoa | https://pt.wikipedia.org/wiki/Dem%C3%B4nios_da_Garoa    # generica
+~ Almir Guineto | Guineto | https://pt.wikipedia.org/wiki/Almir_Guineto    # generica
+~ Leci Brandão | Leci | https://pt.wikipedia.org/wiki/Leci_Brand%C3%A3o    # generica
+~ Xande de Pilares | Xande | https://pt.wikipedia.org/wiki/Xande_de_Pilares    # generica
+
+== mbr-funk    # Cite um artista de funk brasileiro
++ Pedro Sampaio |  |  |  | i | https://pt.wikipedia.org/wiki/Pedro_Sampaio    # generica
++ MC Kevin |  |  |  | i | https://pt.wikipedia.org/wiki/MC_Kevin    # profunda
++ Nego do Borel |  |  |  | i | https://pt.wikipedia.org/wiki/Nego_do_Borel    # profunda,listas
++ Jojo Todynho |  |  |  | r | https://pt.wikipedia.org/wiki/Jojo_Todynho    # profunda
++ MC Rebecca | Rebecca |  |  | r | https://pt.wikipedia.org/wiki/MC_Rebecca https://pt.wikipedia.org/wiki/Rebecca_(cantora)    # profunda,listas
++ Tati Zaqui | MC Tati Zaqui |  |  | r | https://pt.wikipedia.org/wiki/Tati_Zaqui    # profunda,listas
++ MC Melody | Melody |  |  | r | https://pt.wikipedia.org/wiki/MC_Melody    # profunda
++ MC Serginho |  |  |  | r | https://pt.wikipedia.org/wiki/MC_Serginho    # profunda
++ Rennan da Penha | DJ Rennan da Penha |  |  | r | https://pt.wikipedia.org/wiki/Rennan_da_Penha    # profunda,listas
++ MC Koringa |  |  |  | r | https://pt.wikipedia.org/wiki/MC_Koringa    # profunda,listas
++ MC Smith |  |  |  | r | https://pt.wikipedia.org/wiki/MC_Smith    # profunda,listas
++ Bonde das Maravilhas |  |  |  | e | https://pt.wikipedia.org/wiki/Bonde_das_Maravilhas    # profunda,listas
++ MC Bob Rum |  |  |  | r | https://pt.wikipedia.org/wiki/MC_Bob_Rum    # profunda,listas
++ MC Duduzinho |  |  |  | e | https://pt.wikipedia.org/wiki/MC_Duduzinho    # profunda,listas
++ MC Delano |  |  |  | e | https://pt.wikipedia.org/wiki/MC_Delano    # profunda
++ MC Lon |  |  |  | r | https://pt.wikipedia.org/wiki/MC_Lon    # profunda,listas
++ MC GW |  |  |  | e | https://pt.wikipedia.org/wiki/MC_GW    # profunda
++ MC Neguinho do Kaxeta | Neguinho do Kaxeta |  |  | e | https://pt.wikipedia.org/wiki/MC_Neguinho_do_Kaxeta    # profunda,listas
++ Bonde do Rolê |  |  |  | l | https://pt.wikipedia.org/wiki/Bonde_do_Rol%C3%AA    # profunda
++ MC Biel | Biel |  |  | r | https://pt.wikipedia.org/wiki/Biel_(cantor)    # profunda
++ MC G15 |  |  |  | r | https://pt.wikipedia.org/wiki/MC_G15    # listas
+- Os Avassaladores |  |  |  | e | https://pt.wikipedia.org/wiki/Os_Avassaladores    # listas # REJ: não verificável (sem fonte confiável; repertório explícito)
+~ Kevin o Chris | MC Kevin o Chris | https://pt.wikipedia.org/wiki/MC_Kevin_o_Chris    # generica
+~ MC WM | WM | https://pt.wikipedia.org/wiki/MC_WM    # generica
+~ Bonde do Tigrão | Tigrão | https://pt.wikipedia.org/wiki/Bonde_do_Tigr%C3%A3o    # generica
+~ Gaiola das Popozudas | Gaiola | https://pt.wikipedia.org/wiki/Gaiola_das_Popozudas    # generica
+~ Mr. Catra | Mister Catra | https://pt.wikipedia.org/wiki/Mr._Catra    # generica
+~ MC Carol | Carol | https://pt.wikipedia.org/wiki/MC_Carol    # generica
+~ Ludmilla | MC Ludmilla | https://pt.wikipedia.org/wiki/Ludmilla    # listas
+~ MC Poze do Rodo | MC Poze | https://pt.wikipedia.org/wiki/MC_Poze_do_Rodo    # listas
+
+== mbr-generos-brasileiros    # Cite um gênero ou ritmo musical brasileiro
+- Rock brasileiro | BRock;Rock nacional;Rock BR |  |  | c | https://pt.wikipedia.org/wiki/Rock_brasileiro    # generica # REJ: rock é gênero estrangeiro; "rock brasileiro" é cena, não gênero brasileiro (decisão humana)
++ Samba exaltação |  |  |  | e | https://pt.wikipedia.org/wiki/Samba-exalta%C3%A7%C3%A3o    # generica
++ Samba-canção |  |  |  | r | https://pt.wikipedia.org/wiki/Samba-can%C3%A7%C3%A3o    # profunda,listas
++ Samba de gafieira | Gafieira |  |  | e | https://pt.wikipedia.org/wiki/Samba_de_gafieira    # profunda
++ Jongo | Caxambu |  |  | i | https://pt.wikipedia.org/wiki/Jongo    # profunda,listas
++ Congada | Congado |  |  | r | https://pt.wikipedia.org/wiki/Congada    # profunda,listas
++ Folia de Reis |  |  |  | l | https://pt.wikipedia.org/wiki/Folia_de_Reis    # profunda
++ Batuque |  |  |  | l | https://pt.wikipedia.org/wiki/Batuque_(m%C3%BAsica)    # profunda
++ Arrasta-pé |  |  |  | e | https://pt.wikipedia.org/wiki/Arrasta-p%C3%A9    # profunda
++ Funk melody |  |  |  | e | https://pt.wikipedia.org/wiki/Funk_melody    # profunda
++ Proibidão | Funk proibidão |  |  | e | https://pt.wikipedia.org/wiki/Proibid%C3%A3o    # profunda
++ Forró eletrônico |  |  |  | e | https://pt.wikipedia.org/wiki/Forr%C3%B3_eletr%C3%B4nico    # profunda
++ Seresta |  |  |  | i | https://pt.wikipedia.org/wiki/Seresta    # profunda,listas
++ Sambalanço |  |  |  | l | https://pt.wikipedia.org/wiki/Sambalan%C3%A7o    # profunda
++ Lambadão | Lambadão cuiabano |  |  | e | https://pt.wikipedia.org/wiki/Lambad%C3%A3o https://pt.wikipedia.org/wiki/Lambad%C3%A3o_cuiabano    # profunda,listas
++ Música armorial | Movimento Armorial |  |  | l | https://pt.wikipedia.org/wiki/Movimento_Armorial    # profunda
++ Bugio |  |  |  | l | https://pt.wikipedia.org/wiki/Bugio_(dan%C3%A7a)    # profunda
++ Siriri |  |  |  | l | https://pt.wikipedia.org/wiki/Siriri_(dan%C3%A7a)    # profunda
++ Cururu |  |  |  | l | https://pt.wikipedia.org/wiki/Cururu_(dan%C3%A7a)    # profunda
++ Caboclinho | Caboclinhos |  |  | l | https://pt.wikipedia.org/wiki/Caboclinho    # profunda
+- Rap nacional | Hip hop brasileiro |  |  | r | https://pt.wikipedia.org/wiki/Hip_hop_no_Brasil    # profunda # REJ: rap/hip hop é gênero estrangeiro; "rap nacional" é cena, não gênero brasileiro (decisão humana)
++ Marcha-rancho |  |  |  | e | https://pt.wikipedia.org/wiki/Marcha-rancho    # listas
++ Tchê music |  |  |  | e | https://pt.wikipedia.org/wiki/Tch%C3%AA_music    # listas CORR: tirada aceita redundante (erro de digitação)
+~ Samba | Samba de raiz | https://pt.wikipedia.org/wiki/Samba    # generica
+~ Bossa nova | Bossa | https://pt.wikipedia.org/wiki/Bossa_nova    # generica
+~ Samba-enredo | Samba de enredo | https://pt.wikipedia.org/wiki/Samba-enredo    # generica
+~ Forró | Forró pé de serra | https://pt.wikipedia.org/wiki/Forr%C3%B3    # generica,profunda
+~ Pagodão | Swingueira | https://pt.wikipedia.org/wiki/Pagode_baiano    # profunda,listas CORR: tirada "Quebradeira" (não confirmada como nome do gênero)
+~ Pagode | Pagode romântico | https://pt.wikipedia.org/wiki/Pagode    # profunda
+~ Música caipira | Moda caipira | https://pt.wikipedia.org/wiki/Moda_de_viola    # listas
+
+== mbr-instrumentos    # Cite um instrumento musical
++ Tambor |  | Drum |  | c | https://pt.wikipedia.org/wiki/Tambor    # profunda,listas
++ Vibrafone |  | Vibraphone | Vibráfono | e | https://pt.wikipedia.org/wiki/Vibrafone    # profunda,listas
++ Glockenspiel |  |  |  | e | https://pt.wikipedia.org/wiki/Glockenspiel    # profunda,listas CORR: tirados Metalofone/Metallophone (categoria genérica, inclui vibrafone)
++ Celesta |  |  |  | l | https://pt.wikipedia.org/wiki/Celesta    # profunda,listas
++ Sino | Sinos tubulares | Bell;Tubular bells | Campana | r | https://pt.wikipedia.org/wiki/Sino    # profunda,listas CORR: tirado plural trivial
++ Carrilhão |  | Carillon |  | e | https://pt.wikipedia.org/wiki/Carrilh%C3%A3o    # profunda,listas
++ Matraca |  | Ratchet |  | e | https://pt.wikipedia.org/wiki/Matraca    # profunda,listas
++ Caxixi |  |  |  | r | https://pt.wikipedia.org/wiki/Caxixi    # profunda,listas
++ Xequerê | Agbê;Abê;Xekerê | Shekere |  | e | https://pt.wikipedia.org/wiki/Xequer%C3%AA    # profunda,listas
++ Afoxé |  |  |  | r | https://pt.wikipedia.org/wiki/Afox%C3%A9_(instrumento)    # profunda,listas
++ Pau de chuva |  | Rainstick | Palo de lluvia | e | https://pt.wikipedia.org/wiki/Pau-de-chuva    # profunda
++ Tambor de aço | Steel drum;Steelpan |  |  | l | https://pt.wikipedia.org/wiki/Tambor_de_a%C3%A7o    # profunda
++ Handpan | Hang |  |  | l | https://pt.wikipedia.org/wiki/Handpan    # profunda
++ Tantã | Tan-tan;Tantan |  |  | r | https://pt.wikipedia.org/wiki/Tant%C3%A3    # profunda,listas
++ Repique | Repinique |  |  | r | https://pt.wikipedia.org/wiki/Repique https://pt.wikipedia.org/wiki/Repinique    # profunda,listas
++ Djembê | Jembê |  | Yembé | r | https://pt.wikipedia.org/wiki/Djemb%C3%AA https://pt.wikipedia.org/wiki/Jemb%C3%AA    # profunda,listas
++ Tabla |  |  |  | l | https://pt.wikipedia.org/wiki/Tabla    # profunda,listas
++ Pífaro | Pífano;Pife | Fife |  | r | https://pt.wikipedia.org/wiki/P%C3%ADfaro https://pt.wikipedia.org/wiki/P%C3%ADfano    # profunda,listas
++ Flauta de Pã |  | Pan flute |  | r | https://pt.wikipedia.org/wiki/Flauta_de_P%C3%A3    # profunda,listas CORR: tirada aceita redundante (erro de digitação)
++ Ocarina |  |  |  | r | https://pt.wikipedia.org/wiki/Ocarina    # profunda,listas
++ Corne inglês |  | Cor anglais;English horn | Corno inglés | l | https://pt.wikipedia.org/wiki/Corne_ingl%C3%AAs    # profunda,listas
++ Clarone | Clarinete baixo | Bass clarinet | Clarinete bajo | l | https://pt.wikipedia.org/wiki/Clarone https://pt.wikipedia.org/wiki/Clarinete_baixo    # profunda,listas
++ Contrafagote |  | Contrabassoon | Contrafagot | l | https://pt.wikipedia.org/wiki/Contrafagote    # profunda,listas CORR: tirada "Baixão" (não confirmado e a 1 letra de "Baixo")
++ Bombardino | Eufônio | Euphonium |  | e | https://pt.wikipedia.org/wiki/Bombardino https://pt.wikipedia.org/wiki/Euf%C3%B4nio    # profunda,listas
++ Sousafone |  | Sousaphone | Sousáfono | e | https://pt.wikipedia.org/wiki/Sousafone    # profunda,listas
++ Fliscorne | Flugelhorn |  | Fliscorno | l | https://pt.wikipedia.org/wiki/Fliscorne    # profunda,listas
++ Clarim |  | Bugle | Clarín | e | https://pt.wikipedia.org/wiki/Clarim    # profunda,listas
++ Berrante |  |  |  | r | https://pt.wikipedia.org/wiki/Berrante    # profunda
++ Apito |  | Whistle | Silbato | r | https://pt.wikipedia.org/wiki/Apito    # profunda,listas
++ Kazoo | Mirlitão |  |  | r | https://pt.wikipedia.org/wiki/Kazoo    # profunda,listas
++ Concertina |  |  |  | e | https://pt.wikipedia.org/wiki/Concertina    # profunda,listas
++ Bandoneón |  |  |  | e | https://pt.wikipedia.org/wiki/Bandone%C3%B3n https://pt.wikipedia.org/wiki/Bandoneon    # profunda,listas
++ Harmônio |  | Harmonium | Armonio | l | https://pt.wikipedia.org/wiki/Harm%C3%B4nio    # profunda
++ Clavicórdio |  | Clavichord |  | l | https://pt.wikipedia.org/wiki/Clavic%C3%B3rdio    # profunda,listas
++ Viola de cocho |  |  |  | l | https://pt.wikipedia.org/wiki/Viola_de_cocho    # profunda,listas
++ Guitarra baiana |  |  |  | e | https://pt.wikipedia.org/wiki/Guitarra_baiana    # profunda,listas
++ Guitarra portuguesa |  | Portuguese guitar |  | e | https://pt.wikipedia.org/wiki/Guitarra_portuguesa    # profunda
++ Charango |  |  |  | e | https://pt.wikipedia.org/wiki/Charango    # profunda,listas
++ Bouzouki |  |  | Buzuki | l | https://pt.wikipedia.org/wiki/Bouzouki    # profunda
++ Koto |  |  |  | l | https://pt.wikipedia.org/wiki/Koto    # profunda,listas
++ Erhu |  |  |  | l | https://pt.wikipedia.org/wiki/Erhu    # profunda
++ Saltério |  | Psaltery |  | l | https://pt.wikipedia.org/wiki/Salt%C3%A9rio    # profunda
++ Viola da gamba |  | Viol |  | l | https://pt.wikipedia.org/wiki/Viola_da_gamba    # profunda,listas
++ Quena |  |  |  | l | https://pt.wikipedia.org/wiki/Quena    # profunda,listas
++ Corá | Kora |  |  | l | https://pt.wikipedia.org/wiki/Cor%C3%A1    # profunda
++ Pandeireta |  |  |  | r | https://www.dicio.com.br/instrumentos-musicais/    # listas
++ Tom-tom | Tom |  |  | r | https://pt.wikipedia.org/wiki/Tom-tom    # listas
++ Tarol |  |  |  | e | https://pt.wikipedia.org/wiki/Tarol    # listas
++ Darbuka | Darbuca;Derbak |  |  | e | https://pt.wikipedia.org/wiki/Darbuka    # listas
++ Taiko |  |  |  | e | https://pt.wikipedia.org/wiki/Taiko    # listas
++ Realejo |  | Barrel organ | Organillo | e | https://pt.wikipedia.org/wiki/Realejo    # listas
++ Berimbau de boca | Berimbau de índio;Harpa de boca | Jaw harp |  | l | https://pt.wikipedia.org/wiki/Berimbau_de_boca    # listas
++ Requinta |  |  |  | l | https://pt.wikipedia.org/wiki/Requinta    # listas
++ Adufe | Pandeiro quadrado |  |  | l | https://pt.wikipedia.org/wiki/Adufe    # listas
+~ Gaita | Gaita de boca | https://pt.wikipedia.org/wiki/Gaita_de_boca    # generica
+~ Violoncelo | Celo | https://pt.wikipedia.org/wiki/Violoncelo    # generica
+~ Piano | Pianoforte;Piano de cauda | https://pt.wikipedia.org/wiki/Piano    # generica,profunda
+~ Contrabaixo | Contrabaixo acústico;Baixo acústico | https://pt.wikipedia.org/wiki/Contrabaixo    # generica
+- Caixa | Redoblante | https://pt.wikipedia.org/wiki/Tarol    # profunda # REJ: "Redoblante" é termo espanhol, pouco usado no Brasil
+- Tímpano | Timbau | https://pt.wikipedia.org/wiki/Timbal    # profunda # REJ: timbau é outro instrumento (tambor de mão brasileiro), não o tímpano
+~ Violão | Violão de sete cordas;Violão de 7 cordas | https://pt.wikipedia.org/wiki/Viol%C3%A3o_de_sete_cordas_brasileiro    # profunda
+~ Órgão | Órgão de tubos | https://pt.wikipedia.org/wiki/%C3%93rg%C3%A3o_de_tubos    # profunda
+~ Bateria | Bateria eletrônica | https://pt.wikipedia.org/wiki/Bateria_eletr%C3%B4nica    # profunda
+~ Prato | Chimbal | https://pt.wikipedia.org/wiki/Prato_(instrumento_musical)    # profunda
+- Viola caipira | Viola | https://pt.wikipedia.org/wiki/Viola_caipira    # listas # REJ: "Viola" sozinha também é a viola de arco (orquestral), já no banco; ambígua (decisão humana)
+~ Trompete | Trombeta | https://pt.wikipedia.org/wiki/Trompete    # listas

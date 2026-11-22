@@ -38,7 +38,9 @@
         {
           "id": "stray-kids",
           "canonica": "Stray Kids",
-          "aceitas": [],
+          "aceitas": [
+            "SKZ"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
@@ -60,7 +62,8 @@
           "id": "girls-generation",
           "canonica": "Girls' Generation",
           "aceitas": [
-            "SNSD"
+            "SNSD",
+            "Shoujo Jidai"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -82,7 +85,9 @@
         {
           "id": "seventeen",
           "canonica": "Seventeen",
-          "aceitas": [],
+          "aceitas": [
+            "SVT"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
@@ -91,7 +96,8 @@
           "canonica": "NCT",
           "aceitas": [
             "NCT 127",
-            "NCT Dream"
+            "NCT Dream",
+            "WayV"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -148,21 +154,21 @@
           "canonica": "IVE",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "enhypen",
           "canonica": "Enhypen",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "super-junior",
           "canonica": "Super Junior",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "shinee",
@@ -330,28 +336,28 @@
           "canonica": "Oh My Girl",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "gfriend",
           "canonica": "GFriend",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "loona",
           "canonica": "Loona",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "exid",
           "canonica": "EXID",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "momoland",
@@ -365,7 +371,7 @@
           "canonica": "Dreamcatcher",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "illit",
@@ -379,7 +385,7 @@
           "canonica": "Riize",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "zerobaseone",
@@ -388,32 +394,389 @@
             "ZB1"
           ],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "boynextdoor",
           "canonica": "BoyNextDoor",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "tws",
           "canonica": "TWS",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "kiss-of-life",
           "canonica": "Kiss of Life",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "p1harmony",
           "canonica": "P1Harmony",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "tvxq",
+          "canonica": "TVXQ",
+          "aceitas": [
+            "DBSK",
+            "Dong Bang Shin Ki"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "shinhwa",
+          "canonica": "Shinhwa",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "h-o-t",
+          "canonica": "H.O.T.",
+          "aceitas": [
+            "HOT"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "g-o-d",
+          "canonica": "g.o.d",
+          "aceitas": [
+            "god"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "s-e-s",
+          "canonica": "S.E.S.",
+          "aceitas": [
+            "SES"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "fin-k-l",
+          "canonica": "Fin.K.L",
+          "aceitas": [
+            "Fin.KL",
+            "Pinkl"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "ss501",
+          "canonica": "SS501",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "highlight",
+          "canonica": "Highlight",
+          "aceitas": [
+            "Beast",
+            "B2ST"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "teen-top",
+          "canonica": "Teen Top",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "block-b",
+          "canonica": "Block B",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "b-a-p",
+          "canonica": "B.A.P",
+          "aceitas": [
+            "BAP"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "vixx",
+          "canonica": "VIXX",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "pentagon",
+          "canonica": "Pentagon",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "astro",
+          "canonica": "Astro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cnblue",
+          "canonica": "CNBLUE",
+          "aceitas": [
+            "CN Blue"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ft-island",
+          "canonica": "FT Island",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "everglow",
+          "canonica": "Everglow",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "stayc",
+          "canonica": "STAYC",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "kep1er",
+          "canonica": "Kep1er",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "nmixx",
+          "canonica": "NMIXX",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "wjsn",
+          "canonica": "WJSN",
+          "aceitas": [
+            "Cosmic Girls"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "aoa",
+          "canonica": "AOA",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "girl-s-day",
+          "canonica": "Girl's Day",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "after-school",
+          "canonica": "After School",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "fifty-fifty",
+          "canonica": "Fifty Fifty",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "triples",
+          "canonica": "tripleS",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "superm",
+          "canonica": "SuperM",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "kard",
+          "canonica": "KARD",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "mblaq",
+          "canonica": "MBLAQ",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "2am",
+          "canonica": "2AM",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "u-kiss",
+          "canonica": "U-KISS",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "sf9",
+          "canonica": "SF9",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "fromis-9",
+          "canonica": "fromis_9",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "lovelyz",
+          "canonica": "Lovelyz",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "brown-eyed-girls",
+          "canonica": "Brown Eyed Girls",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "secret",
+          "canonica": "Secret",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "clc",
+          "canonica": "CLC",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "weki-meki",
+          "canonica": "Weki Meki",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "oneus",
+          "canonica": "Oneus",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "ab6ix",
+          "canonica": "AB6IX",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "cravity",
+          "canonica": "Cravity",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "xdinary-heroes",
+          "canonica": "Xdinary Heroes",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "n-flying",
+          "canonica": "N.Flying",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "the-rose",
+          "canonica": "The Rose",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "hearts2hearts",
+          "canonica": "Hearts2Hearts",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "meovv",
+          "canonica": "Meovv",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "victon",
+          "canonica": "Victon",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "golden-child",
+          "canonica": "Golden Child",
           "aceitas": [],
           "traducoes": {},
           "raridadeInicial": "lendario"
@@ -436,7 +799,8 @@
           "id": "los-angeles-lakers",
           "canonica": "Los Angeles Lakers",
           "aceitas": [
-            "Lakers"
+            "Lakers",
+            "LA Lakers"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -463,7 +827,8 @@
           "id": "golden-state-warriors",
           "canonica": "Golden State Warriors",
           "aceitas": [
-            "Warriors"
+            "Warriors",
+            "Golden State"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -481,7 +846,8 @@
           "id": "new-york-knicks",
           "canonica": "New York Knicks",
           "aceitas": [
-            "Knicks"
+            "Knicks",
+            "NY Knicks"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -509,7 +875,8 @@
           "id": "brooklyn-nets",
           "canonica": "Brooklyn Nets",
           "aceitas": [
-            "Nets"
+            "Nets",
+            "New Jersey Nets"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -538,7 +905,8 @@
           "canonica": "Philadelphia 76ers",
           "aceitas": [
             "76ers",
-            "Sixers"
+            "Sixers",
+            "Philadelphia Sixers"
           ],
           "traducoes": {},
           "raridadeInicial": "incomum"
@@ -658,7 +1026,8 @@
           "canonica": "Portland Trail Blazers",
           "aceitas": [
             "Trail Blazers",
-            "Blazers"
+            "Blazers",
+            "Portland Blazers"
           ],
           "traducoes": {},
           "raridadeInicial": "epico"
@@ -811,7 +1180,8 @@
           "id": "new-york-giants",
           "canonica": "New York Giants",
           "aceitas": [
-            "Giants"
+            "Giants",
+            "NY Giants"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -875,7 +1245,8 @@
           "id": "new-york-jets",
           "canonica": "New York Jets",
           "aceitas": [
-            "Jets"
+            "Jets",
+            "NY Jets"
           ],
           "traducoes": {},
           "raridadeInicial": "incomum"
@@ -902,7 +1273,9 @@
           "id": "los-angeles-rams",
           "canonica": "Los Angeles Rams",
           "aceitas": [
-            "Rams"
+            "Rams",
+            "LA Rams",
+            "St. Louis Rams"
           ],
           "traducoes": {},
           "raridadeInicial": "raro"
@@ -947,7 +1320,9 @@
           "id": "los-angeles-chargers",
           "canonica": "Los Angeles Chargers",
           "aceitas": [
-            "Chargers"
+            "Chargers",
+            "LA Chargers",
+            "San Diego Chargers"
           ],
           "traducoes": {},
           "raridadeInicial": "raro"
@@ -992,7 +1367,8 @@
           "id": "jacksonville-jaguars",
           "canonica": "Jacksonville Jaguars",
           "aceitas": [
-            "Jaguars"
+            "Jaguars",
+            "Jags"
           ],
           "traducoes": {},
           "raridadeInicial": "lendario"
@@ -1001,7 +1377,8 @@
           "id": "tennessee-titans",
           "canonica": "Tennessee Titans",
           "aceitas": [
-            "Titans"
+            "Titans",
+            "Houston Oilers"
           ],
           "traducoes": {},
           "raridadeInicial": "lendario"
@@ -1010,7 +1387,8 @@
           "id": "washington-commanders",
           "canonica": "Washington Commanders",
           "aceitas": [
-            "Commanders"
+            "Commanders",
+            "Washington Football Team"
           ],
           "traducoes": {},
           "raridadeInicial": "lendario"
@@ -1052,7 +1430,8 @@
           "id": "donald-trump",
           "canonica": "Donald Trump",
           "aceitas": [
-            "Trump"
+            "Trump",
+            "Donald J. Trump"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -1080,7 +1459,9 @@
           "canonica": "John F. Kennedy",
           "aceitas": [
             "Kennedy",
-            "JFK"
+            "JFK",
+            "John Kennedy",
+            "John Fitzgerald Kennedy"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -1089,7 +1470,9 @@
           "id": "bill-clinton",
           "canonica": "Bill Clinton",
           "aceitas": [
-            "Clinton"
+            "Clinton",
+            "William Clinton",
+            "William Jefferson Clinton"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -1098,7 +1481,10 @@
           "id": "george-w-bush",
           "canonica": "George W. Bush",
           "aceitas": [
-            "Bush filho"
+            "Bush filho",
+            "George Bush Jr",
+            "Bush Jr",
+            "George Bush Filho"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -1107,7 +1493,10 @@
           "id": "george-h-w-bush",
           "canonica": "George H. W. Bush",
           "aceitas": [
-            "Bush pai"
+            "Bush pai",
+            "George Bush Sr",
+            "Bush Sr",
+            "George Bush Pai"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -1135,7 +1524,8 @@
           "canonica": "Franklin D. Roosevelt",
           "aceitas": [
             "FDR",
-            "Franklin Roosevelt"
+            "Franklin Roosevelt",
+            "Franklin Delano Roosevelt"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -1171,7 +1561,8 @@
           "id": "harry-truman",
           "canonica": "Harry Truman",
           "aceitas": [
-            "Truman"
+            "Truman",
+            "Harry S. Truman"
           ],
           "traducoes": {},
           "raridadeInicial": "incomum"
@@ -1181,7 +1572,8 @@
           "canonica": "Dwight Eisenhower",
           "aceitas": [
             "Eisenhower",
-            "Ike"
+            "Ike",
+            "Dwight D. Eisenhower"
           ],
           "traducoes": {},
           "raridadeInicial": "incomum"
@@ -1189,7 +1581,9 @@
         {
           "id": "gerald-ford",
           "canonica": "Gerald Ford",
-          "aceitas": [],
+          "aceitas": [
+            "Gerald R. Ford"
+          ],
           "traducoes": {},
           "raridadeInicial": "incomum"
         },
@@ -1291,7 +1685,8 @@
           "id": "william-howard-taft",
           "canonica": "William Howard Taft",
           "aceitas": [
-            "Taft"
+            "Taft",
+            "William Taft"
           ],
           "traducoes": {},
           "raridadeInicial": "raro"
@@ -1309,7 +1704,8 @@
           "id": "warren-harding",
           "canonica": "Warren Harding",
           "aceitas": [
-            "Harding"
+            "Harding",
+            "Warren G. Harding"
           ],
           "traducoes": {},
           "raridadeInicial": "raro"
@@ -1327,7 +1723,8 @@
           "id": "james-polk",
           "canonica": "James Polk",
           "aceitas": [
-            "Polk"
+            "Polk",
+            "James K. Polk"
           ],
           "traducoes": {},
           "raridadeInicial": "raro"
@@ -1404,7 +1801,8 @@
           "id": "rutherford-hayes",
           "canonica": "Rutherford Hayes",
           "aceitas": [
-            "Hayes"
+            "Hayes",
+            "Rutherford B. Hayes"
           ],
           "traducoes": {},
           "raridadeInicial": "lendario"
@@ -1421,7 +1819,9 @@
         {
           "id": "chester-arthur",
           "canonica": "Chester Arthur",
-          "aceitas": [],
+          "aceitas": [
+            "Chester A. Arthur"
+          ],
           "traducoes": {},
           "raridadeInicial": "lendario"
         }

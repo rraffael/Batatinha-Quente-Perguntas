@@ -1,10 +1,10 @@
 tema: corpo-saude
 nome: Corpo Humano e Saúde
 
-== cor-ossos | Cite um osso do corpo humano | media | anatomia;ossos | https://pt.wikipedia.org/wiki/Lista_de_ossos_do_esqueleto_humano
+== cor-ossos | Cite um osso do esqueleto humano | media | anatomia;ossos | https://pt.wikipedia.org/wiki/Lista_de_ossos_do_esqueleto_humano
 Fêmur | | Femur | Fémur | c
-Crânio | | Skull;Cranium | Cráneo | c
-Costela | | Rib | Costilla | c
+Crânio | Caveira | Skull;Cranium | Cráneo | c
+Costela | Costela flutuante | Rib | Costilla | c
 Tíbia | | Tibia | | c
 Úmero | | Humerus | Húmero | c
 Clavícula | | Clavicle;Collarbone | | c
@@ -18,7 +18,7 @@ Escápula | Omoplata | Scapula;Shoulder blade | Omóplato | i
 Esterno | | Sternum | Esternón | i
 Falange | Falanges | Phalanx | | i
 Cóccix | | Coccyx | | i
-Bacia | Pelve;Osso do quadril;Ilíaco | Pelvis;Hip bone | Pelvis | i
+Bacia | Pelve;Osso do quadril;Ilíaco;Osso da bacia;Osso ilíaco;Coxal;Osso coxal | Pelvis;Hip bone | Pelvis | i
 Maxila | Maxilar superior | Maxilla | Maxilar | i
 Calcâneo | | Calcaneus | Calcáneo | r
 Estribo | | Stapes | | r
@@ -37,7 +37,7 @@ Temporal | Osso temporal | | | r
 Ísquio | | Ischium | Isquion | e
 Púbis | | Pubis | Pubis | e
 Hioide | Osso hioide | Hyoid | Hioides | e
-Zigomático | Malar | Zygomatic bone | Cigomático | e
+Zigomático | Malar;Osso malar | Zygomatic bone | Cigomático | e
 Nasal | Osso nasal | | | e
 Esfenoide | | Sphenoid | Esfenoides | l
 Etmoide | | Ethmoid | Etmoides | l
@@ -46,19 +46,21 @@ Vômer | | Vomer | Vómer | l
 Palatino | | Palatine | | l
 Atlas | | | | e
 Áxis | | Axis | | e
-Tálus | Astrágalo | Talus | Astrágalo | e
+Tálus | Astrágalo;Talo | Talus | Astrágalo | e
 Escafoide | | Scaphoid | Escafoides | l
-Semilunar | | Lunate | | l
-Piramidal | | Triquetrum | | l
+Semilunar | Lunato;Osso semilunar | Lunate |  | l
+Piramidal | Triquetro;Osso piramidal | Triquetrum |  | l
 Pisiforme | | Pisiform | | l
 Trapézio | | Trapezium | | l
 Trapezoide | | Trapezoid | | l
-Capitato | | Capitate | Grande | l
-Hamato | | Hamate | Ganchoso | l
+Capitato | Osso capitato | Capitate | Grande | l
+Hamato | Unciforme;Osso hamato | Hamate | Ganchoso | l
 Cuboide | | Cuboid | | l
 Navicular | | | | l
-Cuneiforme | | Cuneiform | | l
+Cuneiforme | Cuneiforme medial;Cuneiforme lateral;Cuneiforme intermédio | Cuneiform |  | l
 Concha nasal inferior | Corneto | Inferior nasal concha | | l
+Sesamoide | Osso sesamoide | Sesamoid bone | Hueso sesamoideo | e
+Ossos suturais | Ossos wormianos;Osso sutural | Wormian bones | Huesos wormianos | l
 
 == cor-orgaos | Cite um órgão do corpo humano | facil | anatomia;órgãos | https://pt.wikipedia.org/wiki/%C3%93rg%C3%A3o_(anatomia)
 Coração | | Heart | Corazón | c
@@ -66,20 +68,20 @@ Pulmão | Pulmões | Lung | Pulmón | c
 Fígado | | Liver | Hígado | c
 Rim | Rins | Kidney | Riñón | c
 Estômago | | Stomach | Estómago | c
-Cérebro | | Brain | | c
+Cérebro | Encéfalo | Brain |  | c
 Intestino delgado | | Small intestine | Intestino delgado | c
 Intestino grosso | | Large intestine | | c
 Pâncreas | | Pancreas | Páncreas | c
 Baço | | Spleen | Bazo | c
-Bexiga | | Bladder | Vejiga | c
+Bexiga | Bexiga urinária | Bladder | Vejiga | c
 Pele | | Skin | Piel | c
 Vesícula biliar | Vesícula | Gallbladder | | i
-Tireoide | Tiroide | Thyroid | Tiroides | i
+Tireoide | Tiroide;Glândula tireoide;Glândula tiroide | Thyroid | Tiroides | i
 Esôfago | | Esophagus | Esófago | i
 Laringe | | Larynx | | i
 Faringe | | Pharynx | | i
 Traqueia | | Trachea | Tráquea | i
-Útero | | Uterus;Womb | | i
+Útero | Matriz | Uterus;Womb |  | i
 Ovário | | Ovary | Ovario | i
 Testículo | | Testicle | | i
 Próstata | | Prostate | | i
@@ -87,7 +89,7 @@ Apêndice | | Appendix | Apéndice | i
 Olho | | Eye | Ojo | i
 Língua | | Tongue | Lengua | i
 Nariz | | Nose | | r
-Ouvido | | Ear | Oído | r
+Ouvido | Orelha | Ear | Oído | r
 Suprarrenal | Adrenal;Glândula suprarrenal | Adrenal gland | | r
 Hipófise | Pituitária | Pituitary gland | Hipófisis | r
 Timo | | Thymus | | e
@@ -99,9 +101,9 @@ Reto | | Rectum | Recto | e
 Uretra | | Urethra | | r
 Ureter | | | | e
 Placenta | | | | e
-Glândula mamária | Mama | Mammary gland | | e
+Glândula mamária | Mama;Seio;Seios;Mamas | Mammary gland |  | e
 Glândula salivar | Glândulas salivares | Salivary gland | | e
-Amígdala | Amígdalas | Tonsil | | r
+Amígdala | Amígdalas;Tonsila;Tonsila palatina | Tonsil |  | r
 Vagina | | | | r
 Pênis | | Penis | | r
 Epiglote | | Epiglottis | Epiglotis | l
@@ -109,26 +111,55 @@ Hipotálamo | | Hypothalamus | | l
 Pineal | Glândula pineal | Pineal gland | | l
 Paratireoide | | Parathyroid | Paratiroides | l
 Tronco encefálico | | Brainstem | Tronco del encéfalo | l
+Intestino | Tripas | Intestine;Bowel | c
+Medula óssea | Tutano | Bone marrow | Médula ósea | r
+Linfonodo | Gânglio linfático;Íngua | Lymph node | r
+Tuba uterina | Trompa de Falópio;Trompa uterina;Trompa | Fallopian tube | r
+Epidídimo |  | Epididymis | e
+Vesícula seminal | Glândula seminal | Seminal vesicle | e
+Clitóris | r
+Glândula lacrimal |  | Lacrimal gland | Glándula lagrimal | e
+Glândula sudorípara |  | Sweat gland | e
+Glândula sebácea |  | Sebaceous gland | e
+Tálamo |  | Thalamus | e
+Hipocampo |  | Hippocampus | e
+Bulbo | Medula oblonga;Bulbo raquidiano | Medulla oblongata | Bulbo raquídeo | e
+Cóclea | Caracol | Cochlea | e
+Jejuno |  | Jejunum | Yeyuno | e
+Íleo |  | Ileum | Íleon | e
+Ceco |  | Cecum | Ciego | e
+Ânus | i
+Dente | Dentes | Tooth;Teeth | Diente | i
+Boca |  | Mouth | r
+Ducto deferente | Canal deferente | Vas deferens | Conducto deferente | e
+Diafragma |  | Diaphragm | i
+Escroto | Bolsa escrotal | Scrotum | i
+Vulva | i
+Brônquio |  | Bronchus;Bronchi | r
+Nervo |  | Nerve | Nervio | r
+Mesencéfalo |  | Midbrain | e
+Mesentério |  | Mesentery | l
+Glândula bulbouretral | Glândula de Cowper | Bulbourethral gland | l
 
 == cor-partes-externas | Cite uma parte externa do corpo humano | facil | anatomia;corpo | https://pt.wikipedia.org/wiki/Corpo_humano
 Cabeça | | Head | Cabeza | c
-Cabelo | | Hair | Cabello | c
+Cabelo | Pelo;Pelos | Hair | Cabello | c
 Olho | | Eye | Ojo | c
 Nariz | | Nose | | c
 Boca | | Mouth | | c
 Orelha | | Ear | Oreja | c
 Braço | | Arm | Brazo | c
-Mão | | Hand | Mano | c
+Mão | Mãos | Hand | Mano | c
 Perna | | Leg | Pierna | c
-Pé | | Foot | Pie | c
-Dedo | | Finger;Toe | | c
+Pé | Pés | Foot | Pie | c
+Dedo | Dedo do pé;Pododáctilo | Finger;Toe |  | c
 Joelho | | Knee | Rodilla | c
 Pescoço | | Neck | Cuello | c
-Barriga | Abdômen;Abdome | Belly;Abdomen | | c
-Costas | | Back | Espalda | c
+Barriga | Abdômen;Abdome;Ventre;Pança | Belly;Abdomen |  | c
+Costas | Dorso | Back | Espalda | c
 Ombro | | Shoulder | Hombro | c
 Unha | | Nail | Uña | c
-Testa | | Forehead | | c
+Testa | Fronte | Forehead |  | c
 Lábio | Lábios | Lip | Labio | i
 Dente | | Tooth;Teeth | Diente | i
 Língua | | Tongue | Lengua | i
@@ -142,16 +173,16 @@ Peito | Tórax | Chest | Pecho | i
 Umbigo | | Navel;Belly button | Ombligo | i
 Cintura | | Waist | | i
 Quadril | Anca | Hip | Cadera | i
-Nádegas | Bunda;Bumbum;Glúteos | Buttocks | Nalgas | i
+Nádegas | Bunda;Bumbum;Glúteos;Glúteo | Buttocks | Nalgas | i
 Coxa | | Thigh | Muslo | i
 Canela | | Shin | Espinilla | i
-Panturrilha | Batata da perna | Calf | Pantorrilla | i
+Panturrilha | Batata da perna;Barriga da perna | Calf | Pantorrilla | i
 Tornozelo | | Ankle | Tobillo | i
 Calcanhar | | Heel | Talón | i
 Sobrancelha | | Eyebrow | Ceja | i
 Cílio | Cílios | Eyelash | Pestaña | i
 Axila | Sovaco | Armpit | | r
-Nuca | | Nape | | r
+Nuca | Cangote | Nape |  | r
 Têmpora | | Temple | Sien | r
 Mamilo | | Nipple | Pezón | r
 Pálpebra | | Eyelid | Párpado | r
@@ -172,15 +203,31 @@ Pupila | | Pupil | | e
 Peito do pé | | Instep | Empeine | l
 Covinha | | Dimple | Hoyuelo | l
 Pomo de adão | Gogó | Adam's apple | Nuez de Adán | e
+Pele |  | Skin | Piel | i
+Hálux | Dedão do pé | Big toe | Dedo gordo | e
+Dedo mindinho | Mindinho;Dedo mínimo;Dedinho | Little finger;Pinky | Meñique | r
+Dedo indicador | Indicador;Fura-bolo | Index finger | Índice | r
+Dedo anelar | Anelar;Seu-vizinho | Ring finger | Anular | r
+Dedo médio | Pai de todos | Middle finger | Dedo corazón | r
+Tronco |  | Torso;Trunk | i
+Maçã do rosto |  | Cheekbone | Pómulo | e
+Costeleta | Suíças | Sideburns | Patillas | e
+Buço |  | Upper lip hair | e
+Cutícula |  | Cuticle | e
+Dorso da mão | Costas da mão | Back of the hand | Dorso de la mano | e
+Pênis |  |  | Pene | r
+Vulva | e
+Ânus | e
+Busto |  | Bust | r
 
 == cor-doencas | Cite uma doença | facil | doenças;saúde | https://pt.wikipedia.org/wiki/Lista_de_doen%C3%A7as
 Gripe | Influenza | Flu;Influenza | | c
-Resfriado | | Common cold | Resfriado | c
+Resfriado | Resfriado comum | Common cold | Resfriado | c
 Dengue | | | | c
 Covid-19 | Covid;Coronavírus | | | c
-Diabetes | | | | c
-Câncer | Cancro | Cancer | Cáncer | c
-Hipertensão | Pressão alta | Hypertension | Hipertensión | c
+Diabetes | Diabetes mellitus;Diabetes tipo 1;Diabetes tipo 2 |  |  | c
+Câncer | Cancro;Câncer de pele;Câncer de mama;Câncer de pulmão;Câncer de próstata;Câncer de colo de útero | Cancer | Cáncer | c
+Hipertensão | Pressão alta;Hipertensão arterial | Hypertension | Hipertensión | c
 Asma | | Asthma | | c
 Catapora | Varicela | Chickenpox | Varicela | c
 Sarampo | | Measles | Sarampión | c
@@ -189,11 +236,11 @@ Rubéola | | Rubella | | i
 Tuberculose | | Tuberculosis | | c
 Malária | | Malaria | | c
 Febre amarela | | Yellow fever | Fiebre amarilla | i
-Hepatite | | Hepatitis | | i
+Hepatite | Hepatite A;Hepatite B;Hepatite C | Hepatitis |  | i
 Aids | HIV;Sida | AIDS | Sida | c
 Sífilis | | Syphilis | | i
 Gonorreia | | Gonorrhea | Gonorrea | i
-Herpes | | | | i
+Herpes | Herpes labial;Herpes genital |  |  | i
 Zika | | | | i
 Chikungunya | | | | i
 Pneumonia | | | Neumonía | c
@@ -213,8 +260,8 @@ Enxaqueca | | Migraine | Migraña | i
 Depressão | | Depression | Depresión | i
 Anemia | | | | i
 Leucemia | | Leukemia | | i
-AVC | Derrame;Acidente vascular cerebral | Stroke | ACV;Ictus | i
-Infarto | Ataque cardíaco | Heart attack | Infarto | i
+AVC | Derrame;Acidente vascular cerebral;Acidente vascular encefálico;AVE | Stroke | ACV;Ictus | i
+Infarto | Ataque cardíaco;Infarto do miocárdio;Enfarte | Heart attack | Infarto | i
 Artrite | | Arthritis | Artritis | r
 Artrose | Osteoartrite | Osteoarthritis | | r
 Osteoporose | | Osteoporosis | | r
@@ -262,14 +309,131 @@ Elefantíase | Filariose | Elephantiasis | | l
 Ascaridíase | Lombriga | Ascariasis | | l
 Amarelão | Ancilostomose | Hookworm disease | | l
 Tracoma | | Trachoma | | l
+Ansiedade | Transtorno de ansiedade;Transtorno de ansiedade generalizada | Anxiety;Anxiety disorder | Ansiedad;Trastorno de ansiedad | c
+Hipotensão | Pressão baixa | Hypotension;Low blood pressure | Hipotensión;Presión baja | i
+Obesidade |  | Obesity | Obesidad | c
+Hipertireoidismo |  | Hyperthyroidism | Hipertiroidismo | r
+Arritmia | Arritmia cardíaca | Arrhythmia | r
+Insuficiência cardíaca |  | Heart failure | r
+Aterosclerose | Arteriosclerose | Atherosclerosis | Aterosclerosis | r
+Trombose |  | Thrombosis | Trombosis | i
+Embolia | Embolia pulmonar | Embolism | r
+Aneurisma |  | Aneurysm | r
+Varizes | Variz | Varicose veins | Várices | i
+Hérnia | Hérnia de disco;Hérnia inguinal;Hérnia umbilical | i
+Pancreatite |  | Pancreatitis | r
+Esteatose hepática | Gordura no fígado;Esteatose | Fatty liver | Hígado graso | e
+Refluxo | Refluxo gastroesofágico;DRGE;Doença do refluxo gastroesofágico | GERD;Acid reflux | Reflujo gastroesofágico;Reflujo | i
+Gastroenterite |  | Gastroenteritis | e
+Doença de Crohn | Crohn | Crohn's disease | Enfermedad de Crohn | r
+Colite |  | Colitis | r
+Diverticulite |  | Diverticulitis | r
+Síndrome do intestino irritável | Intestino irritável | Irritable bowel syndrome | Síndrome del intestino irritable | e
+Infecção urinária | Cistite;Infecção do trato urinário;ITU | Urinary tract infection;Cystitis | Infección urinaria;Cistitis | c
+Insuficiência renal | Doença renal crônica | Kidney failure | r
+Enfisema | Enfisema pulmonar;DPOC;Doença pulmonar obstrutiva crônica | Emphysema;COPD | r
+Faringite |  | Pharyngitis | Faringitis | i
+Amigdalite |  | Tonsillitis | Amigdalitis | c
+Laringite |  | Laryngitis | Laringitis | i
+Candidíase | Sapinho;Candidíase oral;Candida | Candidiasis | i
+HPV | Papilomavírus humano;Condiloma |  | VPH | i
+Clamídia | Clamidíase | Chlamydia | r
+Tricomoníase |  | Trichomoniasis | Tricomoniasis | e
+Febre tifoide | Tifoide | Typhoid fever | Fiebre tifoidea | r
+Botulismo |  | Botulism | r
+Antraz | Carbúnculo | Anthrax | Ántrax | e
+Febre Oropouche | Oropouche | Oropouche fever | Fiebre de Oropouche | e
+Rotavirose | Rotavírus | e
+Herpes-zóster | Cobreiro;Zóster | Shingles | r
+Impetigo | e
+Erisipela |  | Erysipelas | e
+Furúnculo | Furunculose | Boil | Forúnculo | e
+Pediculose | Piolho | Head lice;Lice | Pediculosis | i
+Giardíase | Giárdia | Giardiasis | e
+Amebíase | Disenteria amebiana | Amoebiasis | Amebiasis | e
+Teníase | Solitária | Taeniasis | Teniasis | r
+Cisticercose |  | Cysticercosis | Cisticercosis | e
+Bicho-geográfico | Larva migrans | Cutaneous larva migrans | Larva migratoria | e
+Frieira | Pé de atleta;Tinea pedis | Athlete's foot | Pie de atleta | r
+Pano branco | Pitiríase versicolor | Pityriasis versicolor | Pitiriasis versicolor | e
+Doença de Lyme | Lyme | Lyme disease | Enfermedad de Lyme | e
+Febre reumática |  | Rheumatic fever | Fiebre reumática | e
+Doença de Creutzfeldt-Jakob | Doença da vaca louca;Vaca louca | Creutzfeldt–Jakob disease | Enfermedad de Creutzfeldt-Jakob | e
+Mononucleose | Doença do beijo;Mononucleose infecciosa | Mononucleosis | r
+Esquizofrenia |  | Schizophrenia | i
+Transtorno bipolar | Bipolaridade | Bipolar disorder | Trastorno bipolar | i
+Transtorno obsessivo-compulsivo | TOC | Obsessive–compulsive disorder;OCD | Trastorno obsesivo-compulsivo | r
+Síndrome do pânico | Transtorno do pânico;Transtorno de pânico | Panic disorder | Trastorno de pánico | r
+Demência |  | Dementia | r
+Distrofia muscular |  | Muscular dystrophy | r
+Doença de Huntington | Huntington;Coreia de Huntington | Huntington's disease | Enfermedad de Huntington | e
+Hidrocefalia |  | Hydrocephalus | e
+Narcolepsia |  | Narcolepsy | e
+Hemofilia |  | Haemophilia;Hemophilia | r
+Anemia falciforme | Doença falciforme;Drepanocitose | Sickle cell disease | r
+Fibrose cística | Mucoviscidose | Cystic fibrosis | Fibrosis quística | r
+Talassemia |  | Thalassemia | Talasemia | e
+Acne | Espinha | i
+Dermatite | Eczema | Dermatitis | i
+Rosácea | e
+Urticária |  | Hives | i
+Melanoma | r
+Linfoma |  | Lymphoma | r
+Raquitismo |  | Rickets | e
+Bócio | Papo | Goitre;Goiter | r
+Pelagra |  | Pellagra | l
+Miopia |  | Myopia | i
+Astigmatismo |  | Astigmatism | i
+Hipermetropia |  | Hyperopia | r
+Estrabismo |  | Strabismus | r
+Terçol | Hordéolo | Stye | Orzuelo | e
+Escoliose |  | Scoliosis | Escoliosis | r
+Tendinite |  | Tendinitis | i
+Bursite |  | Bursitis | i
+LER | Lesão por esforço repetitivo;DORT | Repetitive strain injury | Lesión por esfuerzo repetitivo | e
+Endometriose |  | Endometriosis | i
+Mioma | Mioma uterino | Uterine fibroid;Fibroid | r
+Síndrome dos ovários policísticos | Ovário policístico;SOP;Síndrome do ovário policístico | Polycystic ovary syndrome;PCOS | Síndrome de ovario poliquístico | r
+Pré-eclâmpsia |  |  | Preeclampsia | e
+Sepse | Septicemia;Infecção generalizada | Sepsis | r
+Gangrena |  | Gangrene | r
+Tifo | Tifo epidêmico | Typhus | Tifus | r
+Hantavirose |  | Hantavirus | e
+Doença de Kawasaki | Kawasaki | Kawasaki disease | Enfermedad de Kawasaki | l
+Sarcoidose |  | Sarcoidosis | l
+Brucelose |  | Brucellosis | Brucelosis | e
+Alergia |  | Allergy | c
+Cárie | Cárie dentária | Tooth decay;Caries | c
+Gengivite |  | Gingivitis | i
+Daltonismo |  | Color blindness | i
+Insônia |  | Insomnia | Insomnio | i
+Apneia do sono |  | Sleep apnea | Apnea del sueño | r
+Angina | Angina de peito |  | Angina de pecho | r
+Cálculo biliar | Pedra na vesícula;Colelitíase | Gallstone | r
+Sarcoma | e
+Mieloma múltiplo | Mieloma | Multiple myeloma | Mieloma múltiple | e
+Cancro mole | Cancroide | Chancroid | Chancroide | e
+Histoplasmose |  | Histoplasmosis | l
+Enterobíase | Oxiurose;Oxiúrus | Enterobiasis;Pinworm | e
+Nefrite |  | Nephritis | Nefritis | e
+Pielonefrite |  | Pyelonephritis | Pielonefritis | e
+Prostatite |  | Prostatitis | e
+Encefalite |  | Encephalitis | Encefalitis | e
+Síndrome de Guillain-Barré | Guillain-Barré | Guillain-Barré syndrome | e
+Miastenia grave | Miastenia gravis;Miastenia | Myasthenia gravis | l
+Salmonelose | Salmonela | Salmonellosis | Salmonelosis | r
+Disenteria |  | Dysentery | r
+Gripe aviária | Gripe das aves | Bird flu;Avian influenza | Gripe aviar | r
+Gripe suína | H1N1;Gripe A | Swine flu | Gripe porcina | r
+SARS | Síndrome respiratória aguda grave | e
 
 == cor-musculos | Cite um músculo do corpo humano | dificil | anatomia;músculos | https://pt.wikipedia.org/wiki/Lista_de_m%C3%BAsculos_do_corpo_humano
 Bíceps | Bíceps braquial | Biceps | | c
 Tríceps | Tríceps braquial | Triceps | | c
 Deltoide | | Deltoid | Deltoides | c
-Peitoral maior | Peitoral | Pectoralis major | Pectoral mayor | c
+Peitoral maior | Peitoral;Grande peitoral | Pectoralis major | Pectoral mayor | c
 Reto abdominal | Abdominal;Abdômen | Rectus abdominis | Recto abdominal | c
-Quadríceps | | Quadriceps | | c
+Quadríceps | Quadríceps femoral | Quadriceps |  | c
 Glúteo máximo | Glúteo | Gluteus maximus | Glúteo mayor | c
 Gastrocnêmio | Panturrilha;Gêmeos | Gastrocnemius;Calf | Gastrocnemio | c
 Trapézio | | Trapezius | Trapecio | i
@@ -318,26 +482,63 @@ Reto femoral | | Rectus femoris | | e
 Glúteo médio | | Gluteus medius | | r
 Pronador redondo | | Pronator teres | | l
 Supinador | | Supinator | | l
-Levantador da escápula | | Levator scapulae | | l
+Levantador da escápula | Elevador da escápula | Levator scapulae |  | l
 Escalenos | Escaleno | Scalene | | l
 Subescapular | | Subscapularis | | l
 Tensor da fáscia lata | | Tensor fasciae latae | | l
-Miocárdio | | Myocardium | | r
+Miocárdio | Músculo cardíaco | Myocardium |  | r
 Coracobraquial | | Coracobrachialis | | l
 Flexor ulnar do carpo | | Flexor carpi ulnaris | | l
+Peitoral menor | Pequeno peitoral | Pectoralis minor | Pectoral menor | r
+Redondo menor |  | Teres minor | e
+Glúteo mínimo |  | Gluteus minimus | Glúteo menor | e
+Quadrado lombar |  | Quadratus lumborum | Cuadrado lumbar | e
+Tibial posterior |  | Tibialis posterior | e
+Poplíteo |  | Popliteus | l
+Plantar |  | Plantaris | Plantar delgado | l
+Palmar longo |  | Palmaris longus | Palmar largo | l
+Pectíneo |  | Pectineus | l
+Pterigoideo | Pterigoideo lateral;Pterigoideo medial;Pterigoide lateral;Pterigoide medial | Pterygoid;Lateral pterygoid;Medial pterygoid | l
+Frontal | Occipitofrontal;Músculo frontal | Frontalis | r
+Prócero |  | Procerus | Prócer | l
+Corrugador do supercílio |  | Corrugator supercilii | Corrugador superciliar | l
+Levantador da pálpebra superior |  | Levator palpebrae superioris | Elevador del párpado superior | l
+Ancôneo |  | Anconeus | l
+Subclávio |  | Subclavius | l
+Esplênio | Esplênio da cabeça | Splenius | l
+Digástrico |  | Digastric | l
+Milo-hioideo | Milo-hioide | Mylohyoid | Milohioideo | l
+Cremaster | l
+Detrusor | l
+Interósseos |  | Interossei | Interóseos | l
+Lumbricais |  | Lumbricals | Lumbricales | l
+Mentual | Mentoniano | Mentalis | l
+Depressor do ângulo da boca | Abaixador do ângulo da boca | Depressor anguli oris | Depresor del ángulo de la boca | l
+Extensor dos dedos |  | Extensor digitorum | Extensor de los dedos | l
+Flexor superficial dos dedos | Flexor dos dedos | Flexor digitorum superficialis | Flexor superficial de los dedos | l
+Adutor longo |  | Adductor longus | Aductor largo | e
+Tríceps sural |  | Triceps surae | l
+Oblíquo interno |  | Internal oblique | Oblicuo interno | r
+Fibular curto |  | Fibularis brevis | Peroneo corto | e
+Adutor magno |  | Adductor magnus | Aductor mayor | e
+Vasto intermédio |  | Vastus intermedius | e
+Levantador do lábio superior |  | Levator labii superioris | Elevador del labio superior | l
+Zigomático menor |  | Zygomaticus minor | Cigomático menor | l
+Oponente do polegar |  | Opponens pollicis | Oponente del pulgar | l
+Obturador interno |  | Obturator internus | l
 
 == cor-especialidades-medicas | Cite uma especialidade médica | media | medicina;saúde | https://portal.cfm.org.br/
 @nota Especialidades reconhecidas pelo CFM (Conselho Federal de Medicina).
 Cardiologia | Cardiologista | Cardiology | | c
 Pediatria | Pediatra | Pediatrics | | c
-Ortopedia | Ortopedista;Ortopedia e Traumatologia | Orthopedics | | c
+Ortopedia | Ortopedista;Ortopedia e Traumatologia;Traumatologia;Traumatologista | Orthopedics |  | c
 Dermatologia | Dermatologista | Dermatology | | c
 Ginecologia e Obstetrícia | Ginecologia;Obstetrícia;Ginecologista;Obstetra | Gynecology;Obstetrics | | c
 Oftalmologia | Oftalmologista;Oculista | Ophthalmology | | c
 Psiquiatria | Psiquiatra | Psychiatry | | c
 Neurologia | Neurologista | Neurology | | c
 Urologia | Urologista | Urology | | c
-Oncologia | Oncologia Clínica;Oncologista | Oncology | | i
+Oncologia | Oncologia Clínica;Oncologista;Cancerologia;Cancerologista | Oncology |  | i
 Otorrinolaringologia | Otorrino;Otorrinolaringologista | Otolaryngology;ENT | | i
 Endocrinologia | Endocrinologia e Metabologia;Endocrinologista | Endocrinology | | i
 Gastroenterologia | Gastroenterologista;Gastro | Gastroenterology | | i
@@ -351,7 +552,7 @@ Pneumologia | Pneumologista;Pneumologia e Tisiologia | Pulmonology | | i
 Reumatologia | Reumatologista | Rheumatology | | r
 Hematologia | Hematologia e Hemoterapia;Hematologista | Hematology | | r
 Infectologia | Infectologista | Infectious diseases | | r
-Radiologia | Radiologia e Diagnóstico por Imagem;Radiologista | Radiology | | r
+Radiologia | Radiologia e Diagnóstico por Imagem;Radiologista;Diagnóstico por imagem | Radiology |  | r
 Neurocirurgia | Neurocirurgião | Neurosurgery | | r
 Mastologia | Mastologista | | | r
 Angiologia | Angiologista | Angiology | | e
@@ -360,26 +561,26 @@ Cirurgia cardiovascular | Cirurgião cardiovascular | Cardiovascular surgery | |
 Coloproctologia | Proctologia;Proctologista | Coloproctology | | e
 Patologia | Patologista | Pathology | | e
 Medicina de família e comunidade | Medicina de família;Médico de família | Family medicine | | r
-Medicina do trabalho | | Occupational medicine | | r
-Medicina esportiva | Medicina do esporte | Sports medicine | | r
+Medicina do trabalho | Médico do trabalho | Occupational medicine |  | r
+Medicina esportiva | Medicina do esporte;Médico do esporte | Sports medicine |  | r
 Medicina intensiva | Intensivista | Intensive care medicine | | r
 Medicina de emergência | Emergencista | Emergency medicine | | r
 Medicina legal e perícia médica | Medicina legal;Legista | Forensic medicine | | e
-Medicina nuclear | | Nuclear medicine | | e
-Radioterapia | | Radiotherapy | | e
+Medicina nuclear | Médico nuclear | Nuclear medicine |  | e
+Radioterapia | Radioterapeuta | Radiotherapy |  | e
 Nutrologia | Nutrólogo | | | e
-Homeopatia | | Homeopathy | | e
-Acupuntura | | Acupuncture | | e
+Homeopatia | Homeopata | Homeopathy |  | e
+Acupuntura | Acupunturista | Acupuncture |  | e
 Alergia e imunologia | Alergologia;Alergista;Imunologia | Allergy and immunology | | e
-Genética médica | | Medical genetics | | e
+Genética médica | Geneticista | Medical genetics |  | e
 Medicina física e reabilitação | Fisiatria | Physical medicine and rehabilitation | | l
-Cirurgia torácica | | Thoracic surgery | | e
-Cirurgia pediátrica | | Pediatric surgery | | e
-Cirurgia de cabeça e pescoço | | Head and neck surgery | | l
-Cirurgia do aparelho digestivo | | | | l
-Cirurgia da mão | | Hand surgery | | l
-Medicina preventiva e social | | Preventive medicine | | l
+Cirurgia torácica | Cirurgião torácico | Thoracic surgery |  | e
+Cirurgia pediátrica | Cirurgião pediátrico | Pediatric surgery |  | e
+Cirurgia de cabeça e pescoço | Cirurgião de cabeça e pescoço | Head and neck surgery |  | l
+Cirurgia do aparelho digestivo | Cirurgião do aparelho digestivo;Cirurgia digestiva |  |  | l
+Cirurgia da mão | Cirurgião da mão | Hand surgery |  | l
+Medicina preventiva e social | Sanitarista;Medicina preventiva | Preventive medicine |  | l
 Patologia clínica | Medicina laboratorial | Clinical pathology | | l
-Endoscopia | | Endoscopy | | l
-Cirurgia oncológica | | Surgical oncology | | l
+Endoscopia | Endoscopista | Endoscopy |  | l
+Cirurgia oncológica | Cirurgião oncológico | Surgical oncology |  | l
 Medicina do tráfego | | | | l

@@ -1,0 +1,171 @@
+== cie-elementos-quimicos
+~ Tungstênio | Wolfrâmio;Wolfram | https://pt.wikipedia.org/wiki/Tungst%C3%AAnio
+~ Ouro | Aurum | https://pt.wikipedia.org/wiki/Ouro
+~ Prata | Argentum | https://pt.wikipedia.org/wiki/Prata
+~ Ferro | Ferrum | https://pt.wikipedia.org/wiki/Ferro
+~ Cobre | Cuprum | https://pt.wikipedia.org/wiki/Cobre
+~ Chumbo | Plumbum | https://pt.wikipedia.org/wiki/Chumbo
+~ Estanho | Stannum | https://pt.wikipedia.org/wiki/Estanho
+~ Sódio | Natrium | https://pt.wikipedia.org/wiki/S%C3%B3dio
+~ Potássio | Kalium | https://pt.wikipedia.org/wiki/Pot%C3%A1ssio
+~ Antimônio | Stibium | https://pt.wikipedia.org/wiki/Antim%C3%B4nio
+~ Mercúrio | Hidrargírio;Hydrargyrum | https://pt.wikipedia.org/wiki/Merc%C3%BArio_(elemento_qu%C3%ADmico)
+~ Tenesso | Tenessino | https://pt.wikipedia.org/wiki/Tenesso
+~ Nihônio | Nipónio | https://pt.wikipedia.org/wiki/Nih%C3%B4nio
+~ Darmstádio | Darmstácio | https://pt.wikipedia.org/wiki/Darmst%C3%A1dio
+~ Bóhrio | Bório | https://pt.wikipedia.org/wiki/B%C3%B3hrio
+
+== cie-sistema-solar
++ Bianca | | | | l | https://pt.wikipedia.org/wiki/Luas_de_Urano
++ Créssida | | | | l | https://pt.wikipedia.org/wiki/Luas_de_Urano
++ Rosalinda | | | | l | https://pt.wikipedia.org/wiki/Luas_de_Urano
++ Cupido | | | | l | https://pt.wikipedia.org/wiki/Luas_de_Urano
++ Belinda | | | | l | https://pt.wikipedia.org/wiki/Luas_de_Urano
++ Perdita | | | | l | https://pt.wikipedia.org/wiki/Luas_de_Urano
++ Mab | | | | l | https://pt.wikipedia.org/wiki/Luas_de_Urano
++ Francisco | | | | l | https://pt.wikipedia.org/wiki/Luas_de_Urano
++ Estefano | Estéfano | | | l | https://pt.wikipedia.org/wiki/Luas_de_Urano
++ Trínculo | | | | l | https://pt.wikipedia.org/wiki/Luas_de_Urano
++ Margarida | | | | l | https://pt.wikipedia.org/wiki/Luas_de_Urano
++ Próspero | | | | l | https://pt.wikipedia.org/wiki/Luas_de_Urano
++ Setebos | | | | l | https://pt.wikipedia.org/wiki/Luas_de_Urano
++ Ferdinando | | | | l | https://pt.wikipedia.org/wiki/Luas_de_Urano
++ Leda | | | | l | https://pt.wikipedia.org/wiki/Luas_de_J%C3%BApiter
++ Lisiteia | Lisitéia | Lysithea | | l | https://pt.wikipedia.org/wiki/Luas_de_J%C3%BApiter
++ Ananke | Ananque | | | l | https://pt.wikipedia.org/wiki/Luas_de_J%C3%BApiter
++ Carme | | | | l | https://pt.wikipedia.org/wiki/Luas_de_J%C3%BApiter
++ Pasife | Pasífae | Pasiphae | | l | https://pt.wikipedia.org/wiki/Luas_de_J%C3%BApiter
++ Sinope | | | | l | https://pt.wikipedia.org/wiki/Luas_de_J%C3%BApiter
++ Temisto | | Themisto | | l | https://pt.wikipedia.org/wiki/Luas_de_J%C3%BApiter
++ Carpo | | | | l | https://pt.wikipedia.org/wiki/Luas_de_J%C3%BApiter
++ Valetudo | | | | l | https://pt.wikipedia.org/wiki/Luas_de_J%C3%BApiter
++ Caliroe | Calírroe | Callirrhoe | | l | https://pt.wikipedia.org/wiki/Luas_de_J%C3%BApiter
++ Megaclite | | | | l | https://pt.wikipedia.org/wiki/Luas_de_J%C3%BApiter
++ Euridome | | | | l | https://pt.wikipedia.org/wiki/Luas_de_J%C3%BApiter
++ Dia | | | | l | https://pt.wikipedia.org/wiki/Luas_de_J%C3%BApiter
++ Euporia | | | | l | https://pt.wikipedia.org/wiki/Luas_de_J%C3%BApiter
++ Ortósia | | | | l | https://pt.wikipedia.org/wiki/Luas_de_J%C3%BApiter
++ Metone | | | | l | https://pt.wikipedia.org/wiki/Luas_de_Saturno
++ Anteia | Anthe | | | l | https://pt.wikipedia.org/wiki/Luas_de_Saturno
++ Palene | | Pallene | | l | https://pt.wikipedia.org/wiki/Luas_de_Saturno
++ Polideuces | Pólux | | | l | https://pt.wikipedia.org/wiki/Luas_de_Saturno
++ Aegaeon | Egéon | | | l | https://pt.wikipedia.org/wiki/Luas_de_Saturno
++ Kiviuq | | | | l | https://pt.wikipedia.org/wiki/Luas_de_Saturno
++ Ijiraq | | | | l | https://pt.wikipedia.org/wiki/Luas_de_Saturno
++ Paaliaq | | | | l | https://pt.wikipedia.org/wiki/Luas_de_Saturno
++ Skathi | | | | l | https://pt.wikipedia.org/wiki/Luas_de_Saturno
++ Albiorix | | | | l | https://pt.wikipedia.org/wiki/Luas_de_Saturno
++ Bebhionn | | | | l | https://pt.wikipedia.org/wiki/Luas_de_Saturno
++ Erriapo | Erriapus | | | l | https://pt.wikipedia.org/wiki/Luas_de_Saturno
++ Siarnaq | | | | l | https://pt.wikipedia.org/wiki/Luas_de_Saturno
++ Tarvos | | | | l | https://pt.wikipedia.org/wiki/Luas_de_Saturno
++ Tarqeq | | | | l | https://pt.wikipedia.org/wiki/Luas_de_Saturno
++ Greip | | | | l | https://pt.wikipedia.org/wiki/Luas_de_Saturno
++ Hyrrokkin | | | | l | https://pt.wikipedia.org/wiki/Luas_de_Saturno
++ Mundilfari | | | | l | https://pt.wikipedia.org/wiki/Luas_de_Saturno
++ Járnsaxa | Jarnsaxa | | | l | https://pt.wikipedia.org/wiki/Luas_de_Saturno
++ Narvi | | | | l | https://pt.wikipedia.org/wiki/Luas_de_Saturno
++ Bergelmir | | | | l | https://pt.wikipedia.org/wiki/Luas_de_Saturno
++ Suttungr | | | | l | https://pt.wikipedia.org/wiki/Luas_de_Saturno
++ Hati | | | | l | https://pt.wikipedia.org/wiki/Luas_de_Saturno
++ Farbauti | | | | l | https://pt.wikipedia.org/wiki/Luas_de_Saturno
++ Thrymr | | | | l | https://pt.wikipedia.org/wiki/Luas_de_Saturno
++ Kari | | | | l | https://pt.wikipedia.org/wiki/Luas_de_Saturno
++ Fenrir | | | | l | https://pt.wikipedia.org/wiki/Luas_de_Saturno
++ Surtur | | | | l | https://pt.wikipedia.org/wiki/Luas_de_Saturno
++ Ymir | | | | l | https://pt.wikipedia.org/wiki/Luas_de_Saturno
++ Loge | | | | l | https://pt.wikipedia.org/wiki/Luas_de_Saturno
++ Fornjot | | | | l | https://pt.wikipedia.org/wiki/Luas_de_Saturno
++ Hipocampo | | Hippocamp | | l | https://pt.wikipedia.org/wiki/Luas_de_Netuno
++ Halimede | | | | l | https://pt.wikipedia.org/wiki/Luas_de_Netuno
++ Sao | | | | l | https://pt.wikipedia.org/wiki/Luas_de_Netuno
++ Laomedeia | | | | l | https://pt.wikipedia.org/wiki/Luas_de_Netuno
++ Psámata | Psamate | | | l | https://pt.wikipedia.org/wiki/Luas_de_Netuno
++ Neso | | | | l | https://pt.wikipedia.org/wiki/Luas_de_Netuno
++ Cometa Kohoutek | Kohoutek | Comet Kohoutek | | e | https://pt.wikipedia.org/wiki/Cometa_Kohoutek
++ Cometa McNaught | McNaught | Comet McNaught | | e | https://pt.wikipedia.org/wiki/Cometa_McNaught
++ Cometa ISON | ISON | Comet ISON | | e | https://pt.wikipedia.org/wiki/Cometa_ISON
++ Cometa Tsuchinshan-ATLAS | Tsuchinshan-ATLAS | Comet Tsuchinshan-ATLAS | | e | https://pt.wikipedia.org/wiki/C/2023_A3_(Tsuchinshan-ATLAS)
++ Cometa Ikeya-Seki | Ikeya-Seki | | | l | https://pt.wikipedia.org/wiki/Cometa_Ikeya-Seki
++ Cometa Lovejoy | Lovejoy | Comet Lovejoy | | l | https://pt.wikipedia.org/wiki/Cometa_Lovejoy
++ Cometa Wild 2 | Wild 2 | | | l | https://pt.wikipedia.org/wiki/81P/Wild
++ Cometa Tempel-Tuttle | Tempel-Tuttle | | | l | https://pt.wikipedia.org/wiki/55P/Tempel-Tuttle
++ Cometa Borrelly | Borrelly | | | l | https://pt.wikipedia.org/wiki/19P/Borrelly
++ Cometa Giacobini-Zinner | Giacobini-Zinner | | | l | https://pt.wikipedia.org/wiki/21P/Giacobini-Zinner
++ Cometa Biela | Biela | | | l | https://pt.wikipedia.org/wiki/Cometa_Biela
++ Cometa Holmes | Holmes | | | l | https://pt.wikipedia.org/wiki/17P/Holmes
++ Cometa Lulin | Lulin | | | l | https://pt.wikipedia.org/wiki/Cometa_Lulin
++ Mathilde | 253 Mathilde | | | l | https://pt.wikipedia.org/wiki/253_Mathilde
++ Dáctilo | Dactyl | Dactyl | | l | https://pt.wikipedia.org/wiki/Dactyl_(sat%C3%A9lite)
++ Quíron | Chiron;2060 Chiron | Chiron | | l | https://pt.wikipedia.org/wiki/2060_Chiron
++ Cáriclo | Chariklo;10199 Chariklo | Chariklo | | l | https://pt.wikipedia.org/wiki/10199_Chariklo
++ Faetonte | Phaethon;3200 Phaethon | Phaethon | | l | https://pt.wikipedia.org/wiki/3200_Phaethon
++ Toutatis | 4179 Toutatis | | | l | https://pt.wikipedia.org/wiki/4179_Toutatis
++ Cruithne | 3753 Cruithne | | | l | https://pt.wikipedia.org/wiki/3753_Cruithne
++ Eunomia | 15 Eunomia | | | l | https://pt.wikipedia.org/wiki/15_Eunomia
++ Davida | 511 Davida | | | l | https://pt.wikipedia.org/wiki/511_Davida
++ Interamnia | 704 Interamnia | | | l | https://pt.wikipedia.org/wiki/704_Interamnia
++ Hiʻiaka | Hi'iaka | | | l | https://pt.wikipedia.org/wiki/Hi%CA%BBiaka
++ Namaka | | | | l | https://pt.wikipedia.org/wiki/Namaka_(sat%C3%A9lite)
++ Vanth | | | | l | https://pt.wikipedia.org/wiki/Vanth_(sat%C3%A9lite)
++ Weywot | | | | l | https://pt.wikipedia.org/wiki/Weywot
++ Salácia | Salacia | Salacia | | l | https://pt.wikipedia.org/wiki/120347_Sal%C3%A1cia
+
+== cie-unidades-medida
++ Quilojoule | kJ | Kilojoule | Kilojulio | i | https://pt.wikipedia.org/wiki/Joule
++ Megahertz | MHz | | Megahercio | i | https://pt.wikipedia.org/wiki/Hertz
++ Gigahertz | GHz | | Gigahercio | i | https://pt.wikipedia.org/wiki/Hertz
++ Quilohertz | kHz | Kilohertz | Kilohercio | r | https://pt.wikipedia.org/wiki/Hertz
++ Gigawatt | GW | | Gigavatio | r | https://pt.wikipedia.org/wiki/Watt
++ Terawatt | TW | | Teravatio | r | https://pt.wikipedia.org/wiki/Watt
++ Watt-hora | Wh | Watt-hour | Vatio-hora | i | https://pt.wikipedia.org/wiki/Watt-hora
++ Ampère-hora | Ah | Ampere-hour | Amperio-hora | r | https://pt.wikipedia.org/wiki/Amp%C3%A8re-hora
++ Miliampère-hora | mAh | Milliampere-hour | Miliamperio-hora | i | https://pt.wikipedia.org/wiki/Miliamp%C3%A8re-hora
++ Miliampère | mA | Milliampere | Miliamperio | r | https://pt.wikipedia.org/wiki/Amp%C3%A8re
++ Quilovolt | kV | Kilovolt | Kilovoltio | r | https://pt.wikipedia.org/wiki/Volt
++ Volt-ampère | VA | Volt-ampere | Voltiamperio | i | https://pt.wikipedia.org/wiki/Volt-amp%C3%A8re
++ Quilopascal | kPa | Kilopascal | | r | https://pt.wikipedia.org/wiki/Pascal_(unidade)
++ Hectopascal | hPa | Hectopascal | | r | https://pt.wikipedia.org/wiki/Pascal_(unidade)
++ Milibar | mbar | Millibar | | r | https://pt.wikipedia.org/wiki/Bar_(unidade)
++ Quilômetro quadrado | km² | Square kilometer | Kilómetro cuadrado | i | https://pt.wikipedia.org/wiki/Quil%C3%B4metro_quadrado
++ Centímetro cúbico | cm³;cc | Cubic centimeter | Centímetro cúbico | i | https://pt.wikipedia.org/wiki/Cent%C3%ADmetro_c%C3%BAbico
++ Centímetro quadrado | cm² | Square centimeter | Centímetro cuadrado | r | https://pt.wikipedia.org/wiki/Cent%C3%ADmetro_quadrado
++ Milha por hora | mph | Miles per hour | Milla por hora | i | https://pt.wikipedia.org/wiki/Milha_por_hora
++ Quilômetro por litro | km/l | Kilometers per liter | | r | https://pt.wikipedia.org/wiki/Consumo_de_combust%C3%ADvel
++ Megabit | Mb | Megabit | Megabit | r | https://pt.wikipedia.org/wiki/Megabit
++ Gigabit | Gb | Gigabit | Gigabit | r | https://pt.wikipedia.org/wiki/Gigabit
++ Exabyte | EB | | | e | https://pt.wikipedia.org/wiki/Exabyte
++ Zettabyte | ZB | | | e | https://pt.wikipedia.org/wiki/Zettabyte
++ Yottabyte | YB | | | l | https://pt.wikipedia.org/wiki/Yottabyte
++ Biênio | | | | i | https://www.dicio.com.br/bienio/
++ Triênio | | | | r | https://www.dicio.com.br/trienio/
++ Quadriênio | | | | r | https://www.dicio.com.br/quadrienio/
++ Quinquênio | | | | r | https://www.dicio.com.br/quinquenio/
++ Decênio | | | | r | https://www.dicio.com.br/decenio/
++ Katal | kat | Katal | Katal | l | https://pt.wikipedia.org/wiki/Katal
++ Dalton | Unidade de massa atômica;u | Atomic mass unit | | e | https://pt.wikipedia.org/wiki/Unidade_de_massa_at%C3%B4mica
++ Bel | B | | | e | https://pt.wikipedia.org/wiki/Bel_(unidade)
++ Neper | Np | | | l | https://pt.wikipedia.org/wiki/Neper_(unidade)
++ Rad | | | | e | https://pt.wikipedia.org/wiki/Rad_(unidade)
++ Rem | | | | e | https://pt.wikipedia.org/wiki/Rem_(unidade)
++ Gal | | | | l | https://pt.wikipedia.org/wiki/Gal_(unidade)
++ Maxwell | Mx | | | l | https://pt.wikipedia.org/wiki/Maxwell_(unidade)
++ Oersted | Ørsted | | | l | https://pt.wikipedia.org/wiki/Oersted_(unidade)
++ Poise | P | | | l | https://pt.wikipedia.org/wiki/Poise
++ Stokes | St | | | l | https://pt.wikipedia.org/wiki/Stokes_(unidade)
++ Fermi | | | | l | https://pt.wikipedia.org/wiki/Femt%C3%B4metro
++ Femtômetro | fm | Femtometer | | e | https://pt.wikipedia.org/wiki/Femt%C3%B4metro
++ Vara | | | | e | https://pt.wikipedia.org/wiki/Vara_(unidade)
++ Pedra | | Stone | | e | https://pt.wikipedia.org/wiki/Stone_(unidade)
++ Onça fluida | Onça líquida | Fluid ounce | Onza líquida | e | https://pt.wikipedia.org/wiki/On%C3%A7a_fluida
++ Almude | | | | l | https://pt.wikipedia.org/wiki/Almude
++ Arrátel | | | | l | https://pt.wikipedia.org/wiki/Arr%C3%A1tel
++ Rutherford | | | | l | https://pt.wikipedia.org/wiki/Rutherford_(unidade)
++ Barn | | | | l | https://pt.wikipedia.org/wiki/Barn_(unidade)
++ Fot | Phot | | | l | https://pt.wikipedia.org/wiki/Fot_(unidade)
++ Minuto de arco | Arcminuto | Arcminute | | e | https://pt.wikipedia.org/wiki/Minuto_de_arco
++ Segundo de arco | Arcsegundo | Arcsecond | | e | https://pt.wikipedia.org/wiki/Segundo_de_arco
++ Massa solar | | Solar mass | | e | https://pt.wikipedia.org/wiki/Massa_solar
++ Ano sideral | | | | l | https://pt.wikipedia.org/wiki/Ano_sideral
++ Partes por milhão | ppm | Parts per million | | i | https://pt.wikipedia.org/wiki/Partes_por_milh%C3%A3o
++ Newton-metro | N·m;N.m | Newton-meter | | r | https://pt.wikipedia.org/wiki/Newton-metro

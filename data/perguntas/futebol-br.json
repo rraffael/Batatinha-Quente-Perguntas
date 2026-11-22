@@ -29,7 +29,8 @@
           "canonica": "Corinthians",
           "aceitas": [
             "Timão",
-            "Coringão"
+            "Coringão",
+            "Time do Povo"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -67,7 +68,8 @@
           "canonica": "Vasco da Gama",
           "aceitas": [
             "Vasco",
-            "Gigante da Colina"
+            "Gigante da Colina",
+            "Cruz-Maltino"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -86,7 +88,8 @@
           "id": "botafogo",
           "canonica": "Botafogo",
           "aceitas": [
-            "Fogão"
+            "Fogão",
+            "Glorioso"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -94,7 +97,9 @@
         {
           "id": "gremio",
           "canonica": "Grêmio",
-          "aceitas": [],
+          "aceitas": [
+            "Imortal"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
@@ -112,7 +117,8 @@
           "id": "cruzeiro",
           "canonica": "Cruzeiro",
           "aceitas": [
-            "Raposa"
+            "Raposa",
+            "Cabuloso"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -139,7 +145,9 @@
         {
           "id": "vitoria",
           "canonica": "Vitória",
-          "aceitas": [],
+          "aceitas": [
+            "Leão da Barra"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
@@ -155,7 +163,9 @@
         {
           "id": "fortaleza",
           "canonica": "Fortaleza",
-          "aceitas": [],
+          "aceitas": [
+            "Leão do Pici"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
@@ -174,7 +184,8 @@
           "aceitas": [
             "Athletico-PR",
             "Atlético Paranaense",
-            "Furacão"
+            "Furacão",
+            "Athletico"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -183,7 +194,8 @@
           "id": "coritiba",
           "canonica": "Coritiba",
           "aceitas": [
-            "Coxa"
+            "Coxa",
+            "Coxa-Branca"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -237,14 +249,14 @@
             "Chape"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "santa-cruz",
           "canonica": "Santa Cruz",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "nautico",
@@ -253,7 +265,7 @@
             "Timbu"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "atletico-goianiense",
@@ -263,7 +275,7 @@
             "Dragão"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "america-mineiro",
@@ -273,7 +285,7 @@
             "Coelho"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "portuguesa",
@@ -282,7 +294,7 @@
             "Lusa"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "parana-clube",
@@ -291,14 +303,14 @@
             "Paraná"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "avai",
           "canonica": "Avaí",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "figueirense",
@@ -307,7 +319,7 @@
             "Figueira"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "criciuma",
@@ -316,7 +328,7 @@
             "Tigre"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "cuiaba",
@@ -325,7 +337,7 @@
             "Dourado"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "remo",
@@ -334,7 +346,7 @@
             "Clube do Remo"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "paysandu",
@@ -343,7 +355,7 @@
             "Papão"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "crb",
@@ -352,21 +364,21 @@
             "Clube de Regatas Brasil"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "csa",
           "canonica": "CSA",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "abc",
           "canonica": "ABC",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "sampaio-correa",
@@ -375,7 +387,7 @@
             "Sampaio"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "vila-nova",
@@ -432,7 +444,7 @@
             "Nhô Quim"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "sao-caetano",
@@ -441,21 +453,21 @@
             "Azulão"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "santo-andre",
           "canonica": "Santo André",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "bangu",
           "canonica": "Bangu",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "america-rj",
@@ -464,14 +476,14 @@
             "America do Rio"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "madureira",
           "canonica": "Madureira",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "volta-redonda",
@@ -480,7 +492,7 @@
             "Voltaço"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "brasil-de-pelotas",
@@ -489,14 +501,14 @@
             "Xavante"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "caxias",
           "canonica": "Caxias",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "joinville",
@@ -505,14 +517,14 @@
             "JEC"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "londrina",
           "canonica": "Londrina",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "operario-pr",
@@ -521,35 +533,35 @@
             "Operário Ferroviário"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "treze",
           "canonica": "Treze",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "botafogo-pb",
           "canonica": "Botafogo-PB",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "campinense",
           "canonica": "Campinense",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "confianca",
           "canonica": "Confiança",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "america-rn",
@@ -558,35 +570,35 @@
             "América de Natal"
           ],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "brasiliense",
           "canonica": "Brasiliense",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "gama",
           "canonica": "Gama",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "inter-de-limeira",
           "canonica": "Inter de Limeira",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "oeste",
           "canonica": "Oeste",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "paulista-de-jundiai",
@@ -595,28 +607,28 @@
             "Paulista"
           ],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "tombense",
           "canonica": "Tombense",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "moto-club",
           "canonica": "Moto Club",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "tuna-luso",
           "canonica": "Tuna Luso",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "nacional-am",
@@ -625,7 +637,7 @@
             "Nacional de Manaus"
           ],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "river-pi",
@@ -634,7 +646,7 @@
             "River Atlético Clube"
           ],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "ferroviario",
@@ -643,14 +655,14 @@
             "Ferroviário de Fortaleza"
           ],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "icasa",
           "canonica": "Icasa",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "ypiranga-rs",
@@ -659,7 +671,7 @@
             "Ypiranga de Erechim"
           ],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "sergipe",
@@ -668,11 +680,457 @@
             "Club Sportivo Sergipe"
           ],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "rio-branco-ac",
           "canonica": "Rio Branco-AC",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "amazonas",
+          "canonica": "Amazonas",
+          "aceitas": [
+            "Amazonas FC"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "brusque",
+          "canonica": "Brusque",
+          "aceitas": [
+            "Brusque FC"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "sao-bernardo",
+          "canonica": "São Bernardo",
+          "aceitas": [
+            "São Bernardo FC"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "athletic",
+          "canonica": "Athletic",
+          "aceitas": [
+            "Athletic Club",
+            "Athletic-MG"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "agua-santa",
+          "canonica": "Água Santa",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "retro",
+          "canonica": "Retrô",
+          "aceitas": [
+            "Retrô FC"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "maringa",
+          "canonica": "Maringá",
+          "aceitas": [
+            "Maringá FC"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "floresta",
+          "canonica": "Floresta",
+          "aceitas": [
+            "Floresta-CE"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "itabaiana",
+          "canonica": "Itabaiana",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "anapolis",
+          "canonica": "Anápolis",
+          "aceitas": [
+            "Anápolis FC"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "nova-iguacu",
+          "canonica": "Nova Iguaçu",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "boavista",
+          "canonica": "Boavista",
+          "aceitas": [
+            "Boavista-RJ"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "aparecidense",
+          "canonica": "Aparecidense",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "altos",
+          "canonica": "Altos",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "azuriz",
+          "canonica": "Azuriz",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "barra-sc",
+          "canonica": "Barra-SC",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "capital-df",
+          "canonica": "Capital-DF",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ceilandia",
+          "canonica": "Ceilândia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "central",
+          "canonica": "Central",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cianorte",
+          "canonica": "Cianorte",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "fc-cascavel",
+          "canonica": "FC Cascavel",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "goianesia",
+          "canonica": "Goianésia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "goiania",
+          "canonica": "Goiânia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "goiatuba",
+          "canonica": "Goiatuba",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "guarany-de-bage",
+          "canonica": "Guarany de Bagé",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "horizonte",
+          "canonica": "Horizonte",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "iguatu",
+          "canonica": "Iguatu",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "imperatriz",
+          "canonica": "Imperatriz",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "independencia",
+          "canonica": "Independência",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "itabirito",
+          "canonica": "Itabirito",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "juazeirense",
+          "canonica": "Juazeirense",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "lagarto",
+          "canonica": "Lagarto",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "luverdense",
+          "canonica": "Luverdense",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "manaus",
+          "canonica": "Manaus",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "maranhao",
+          "canonica": "Maranhão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "marcilio-dias",
+          "canonica": "Marcílio Dias",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "marica",
+          "canonica": "Maricá",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "mixto",
+          "canonica": "Mixto",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "monte-azul",
+          "canonica": "Monte Azul",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "operario-ms",
+          "canonica": "Operário-MS",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "parnahyba",
+          "canonica": "Parnahyba",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "penedense",
+          "canonica": "Penedense",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "porto-vitoria",
+          "canonica": "Porto Vitória",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "pouso-alegre",
+          "canonica": "Pouso Alegre",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "rio-branco-es",
+          "canonica": "Rio Branco-ES",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "sao-jose-rs",
+          "canonica": "São José-RS",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "sao-luiz",
+          "canonica": "São Luiz",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "sousa",
+          "canonica": "Sousa",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "tocantinopolis",
+          "canonica": "Tocantinópolis",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "uberlandia",
+          "canonica": "Uberlândia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "uniao-to",
+          "canonica": "União-TO",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "asa",
+          "canonica": "ASA",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "aguia-de-maraba",
+          "canonica": "Águia de Marabá",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "santa-cruz-de-natal",
+          "canonica": "Santa Cruz de Natal",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "barcelona-de-ilheus",
+          "canonica": "Barcelona de Ilhéus",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "jequie",
+          "canonica": "Jequié",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "humaita",
+          "canonica": "Humaitá",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "manauara",
+          "canonica": "Manauara",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "gazin-porto-velho",
+          "canonica": "Gazin Porto Velho",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "gas",
+          "canonica": "GAS",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "trem",
+          "canonica": "Trem",
           "aceitas": [],
           "traducoes": {},
           "raridadeInicial": "lendario"
@@ -733,7 +1191,8 @@
           "aceitas": [
             "Arena Corinthians",
             "Itaquerão",
-            "Arena de Itaquera"
+            "Arena de Itaquera",
+            "Itaquera"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -743,7 +1202,8 @@
           "canonica": "Allianz Parque",
           "aceitas": [
             "Arena Palmeiras",
-            "Palestra Itália"
+            "Palestra Itália",
+            "Nubank Parque"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -786,7 +1246,8 @@
           "canonica": "Nilton Santos",
           "aceitas": [
             "Engenhão",
-            "Estádio Olímpico Nilton Santos"
+            "Estádio Olímpico Nilton Santos",
+            "Estádio Nilton Santos"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -814,7 +1275,9 @@
           "id": "mane-garrincha",
           "canonica": "Mané Garrincha",
           "aceitas": [
-            "Estádio Nacional Mané Garrincha"
+            "Estádio Nacional Mané Garrincha",
+            "Arena BRB",
+            "Arena BRB Mané Garrincha"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -848,7 +1311,7 @@
           "canonica": "Ilha do Retiro",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "arruda",
@@ -858,7 +1321,7 @@
             "José do Rego Maciel"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "aflitos",
@@ -867,7 +1330,7 @@
             "Estádio dos Aflitos"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "independencia",
@@ -876,42 +1339,42 @@
             "Estádio Independência"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "arena-mrv",
           "canonica": "Arena MRV",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "serra-dourada",
           "canonica": "Serra Dourada",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "arena-da-amazonia",
           "canonica": "Arena da Amazônia",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "arena-pantanal",
           "canonica": "Arena Pantanal",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "arena-das-dunas",
           "canonica": "Arena das Dunas",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "barradao",
@@ -920,7 +1383,7 @@
             "Manoel Barradas"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "mangueirao",
@@ -929,14 +1392,14 @@
             "Estádio Olímpico do Pará"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "almeidao",
           "canonica": "Almeidão",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "rei-pele",
@@ -945,21 +1408,21 @@
             "Trapichão"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "albertao",
           "canonica": "Albertão",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "kleber-andrade",
           "canonica": "Kleber Andrade",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "brinco-de-ouro",
@@ -968,7 +1431,7 @@
             "Brinco de Ouro da Princesa"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "moises-lucarelli",
@@ -977,7 +1440,7 @@
             "Majestoso"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "caninde",
@@ -986,35 +1449,35 @@
             "Estádio do Canindé"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "arena-barueri",
           "canonica": "Arena Barueri",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "bezerrao",
           "canonica": "Bezerrão",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "batistao",
           "canonica": "Batistão",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "ressacada",
           "canonica": "Ressacada",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "orlando-scarpelli",
@@ -1023,35 +1486,35 @@
             "Scarpelli"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "heriberto-hulse",
           "canonica": "Heriberto Hülse",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "arena-conda",
           "canonica": "Arena Condá",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "alfredo-jaconi",
           "canonica": "Alfredo Jaconi",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "baenao",
           "canonica": "Baenão",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "durival-britto",
@@ -1060,35 +1523,35 @@
             "Vila Capanema"
           ],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "raulino-de-oliveira",
           "canonica": "Raulino de Oliveira",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "bento-freitas",
           "canonica": "Bento Freitas",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "nabi-abi-chedid",
           "canonica": "Nabi Abi Chedid",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "novelli-junior",
           "canonica": "Novelli Júnior",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "maiao",
@@ -1097,7 +1560,7 @@
             "José Maria de Campos Maia"
           ],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "estadio-centenario",
@@ -1106,7 +1569,7 @@
             "Centenário"
           ],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "arena-fonte-luminosa",
@@ -1115,7 +1578,7 @@
             "Fonte Luminosa"
           ],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "presidente-vargas",
@@ -1124,18 +1587,511 @@
             "PV"
           ],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "machadao",
           "canonica": "Machadão",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "antonio-accioly",
           "canonica": "Antônio Accioly",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "pituacu",
+          "canonica": "Pituaçu",
+          "aceitas": [
+            "Estádio de Pituaçu"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "parque-do-sabia",
+          "canonica": "Parque do Sabiá",
+          "aceitas": [
+            "Estádio Parque do Sabiá"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pinheirao",
+          "canonica": "Pinheirão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "estadio-do-cafe",
+          "canonica": "Estádio do Café",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "prudentao",
+          "canonica": "Prudentão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "teixeirao",
+          "canonica": "Teixeirão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "frasqueirao",
+          "canonica": "Frasqueirão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "willie-davids",
+          "canonica": "Willie Davids",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "anacleto-campanella",
+          "canonica": "Anacleto Campanella",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "palma-travassos",
+          "canonica": "Palma Travassos",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "caio-martins",
+          "canonica": "Caio Martins",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "curuzu",
+          "canonica": "Curuzu",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "parque-sao-jorge",
+          "canonica": "Parque São Jorge",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ipatingao",
+          "canonica": "Ipatingão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "amigao",
+          "canonica": "Amigão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "helenao",
+          "canonica": "Helenão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "douradao",
+          "canonica": "Douradão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "santa-cruz",
+          "canonica": "Santa Cruz",
+          "aceitas": [
+            "Estádio Santa Cruz"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "boca-do-jacare",
+          "canonica": "Boca do Jacaré",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "irmao-gino-maria-rossi",
+          "canonica": "Irmão Gino Maria Rossi",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "colosso-da-lagoa",
+          "canonica": "Colosso da Lagoa",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "antonio-otoni-filho",
+          "canonica": "Antônio Otoni Filho",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "vail-chaves",
+          "canonica": "Vail Chaves",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "lacerdao",
+          "canonica": "Lacerdão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "alfredao",
+          "canonica": "Alfredão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "arena-do-jacare",
+          "canonica": "Arena do Jacaré",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "barao-da-serra-negra",
+          "canonica": "Barão da Serra Negra",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "major-levy-sobrinho",
+          "canonica": "Major Levy Sobrinho",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "luthero-lopes",
+          "canonica": "Luthero Lopes",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "arena-romeirao",
+          "canonica": "Arena Romeirão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "felipao",
+          "canonica": "Felipão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "arena-cruzeiro",
+          "canonica": "Arena Cruzeiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "silvio-salles",
+          "canonica": "Silvio Salles",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "decio-vitta",
+          "canonica": "Décio Vitta",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "joia-da-princesa",
+          "canonica": "Jóia da Princesa",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "herminio-ometto",
+          "canonica": "Herminio Ometto",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "gilbertao",
+          "canonica": "Gilbertão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "primeiro-de-maio",
+          "canonica": "Primeiro de Maio",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "boca-do-lobo",
+          "canonica": "Boca do Lobo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "melao",
+          "canonica": "Melão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "uberabao",
+          "canonica": "Uberabão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "bento-de-abreu",
+          "canonica": "Bento de Abreu",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "arena-acreana",
+          "canonica": "Arena Acreana",
+          "aceitas": [
+            "Arena da Floresta"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "arapucao",
+          "canonica": "Arapucão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "moacyrzao",
+          "canonica": "Moacyrzão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "giulite-coutinho",
+          "canonica": "Giulite Coutinho",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "vermelhao-da-serra",
+          "canonica": "Vermelhão da Serra",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "torquato-pontes",
+          "canonica": "Torquato Pontes",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "bruno-jose-daniel",
+          "canonica": "Bruno José Daniel",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "jayme-cintra",
+          "canonica": "Jayme Cintra",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "walter-ribeiro",
+          "canonica": "Walter Ribeiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "zezinho-magalhaes",
+          "canonica": "Zezinho Magalhães",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "serrinha",
+          "canonica": "Serrinha",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "fumeirao",
+          "canonica": "Fumeirão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "marizao",
+          "canonica": "Marizão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "mirandao",
+          "canonica": "Mirandão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "lomantao",
+          "canonica": "Lomantão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "nhozinho-santos",
+          "canonica": "Nhozinho Santos",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "adhermazao",
+          "canonica": "Adhermazão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "rua-bariri",
+          "canonica": "Rua Bariri",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "jonas-duarte",
+          "canonica": "Jonas Duarte",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "germano-kruger",
+          "canonica": "Germano Krüger",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "estadio-do-trabalhador",
+          "canonica": "Estádio do Trabalhador",
+          "aceitas": [
+            "Trabalhador"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "carneirao",
+          "canonica": "Carneirão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "grito-da-republica",
+          "canonica": "Grito da República",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "arena-do-calcado",
+          "canonica": "Arena do Calçado",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "florestao",
+          "canonica": "Florestão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "italo-del-cima",
+          "canonica": "Ítalo del Cima",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "olimpico-da-usp",
+          "canonica": "Olímpico da USP",
           "aceitas": [],
           "traducoes": {},
           "raridadeInicial": "lendario"
@@ -1284,7 +2240,9 @@
         {
           "id": "independiente",
           "canonica": "Independiente",
-          "aceitas": [],
+          "aceitas": [
+            "Independiente de Avellaneda"
+          ],
           "traducoes": {},
           "raridadeInicial": "incomum"
         },
@@ -1384,7 +2342,9 @@
         {
           "id": "san-lorenzo",
           "canonica": "San Lorenzo",
-          "aceitas": [],
+          "aceitas": [
+            "San Lorenzo de Almagro"
+          ],
           "traducoes": {},
           "raridadeInicial": "lendario"
         }
@@ -1405,7 +2365,8 @@
           "id": "pele",
           "canonica": "Pelé",
           "aceitas": [
-            "Edson Arantes do Nascimento"
+            "Edson Arantes do Nascimento",
+            "Rei Pelé"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -1422,7 +2383,9 @@
         {
           "id": "romario",
           "canonica": "Romário",
-          "aceitas": [],
+          "aceitas": [
+            "Baixinho"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
@@ -1506,7 +2469,9 @@
         {
           "id": "rogerio-ceni",
           "canonica": "Rogério Ceni",
-          "aceitas": [],
+          "aceitas": [
+            "Ceni"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
@@ -1897,7 +2862,8 @@
           "id": "zagallo",
           "canonica": "Zagallo",
           "aceitas": [
-            "Zagalo"
+            "Zagalo",
+            "Velho Lobo"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -1919,7 +2885,9 @@
         {
           "id": "nilton-santos",
           "canonica": "Nilton Santos",
-          "aceitas": [],
+          "aceitas": [
+            "Enciclopédia"
+          ],
           "traducoes": {},
           "raridadeInicial": "incomum"
         },
@@ -2106,7 +3074,8 @@
           "id": "lionel-messi",
           "canonica": "Lionel Messi",
           "aceitas": [
-            "Messi"
+            "Messi",
+            "Leo Messi"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -2126,7 +3095,8 @@
           "canonica": "Ronaldo Fenômeno",
           "aceitas": [
             "Ronaldo",
-            "R9"
+            "R9",
+            "Ronaldo Nazário"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -2222,7 +3192,8 @@
           "id": "andriy-shevchenko",
           "canonica": "Andriy Shevchenko",
           "aceitas": [
-            "Shevchenko"
+            "Shevchenko",
+            "Sheva"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -2267,7 +3238,8 @@
           "id": "hristo-stoichkov",
           "canonica": "Hristo Stoichkov",
           "aceitas": [
-            "Stoichkov"
+            "Stoichkov",
+            "Stoitchkov"
           ],
           "traducoes": {},
           "raridadeInicial": "incomum"
@@ -2382,7 +3354,8 @@
           "id": "franz-beckenbauer",
           "canonica": "Franz Beckenbauer",
           "aceitas": [
-            "Beckenbauer"
+            "Beckenbauer",
+            "Kaiser"
           ],
           "traducoes": {},
           "raridadeInicial": "incomum"
@@ -2391,7 +3364,8 @@
           "id": "johan-cruyff",
           "canonica": "Johan Cruyff",
           "aceitas": [
-            "Cruyff"
+            "Cruyff",
+            "Cruijff"
           ],
           "traducoes": {},
           "raridadeInicial": "incomum"
@@ -2436,7 +3410,9 @@
         {
           "id": "eusebio",
           "canonica": "Eusébio",
-          "aceitas": [],
+          "aceitas": [
+            "Pantera Negra"
+          ],
           "traducoes": {},
           "raridadeInicial": "incomum"
         },
@@ -2532,7 +3508,8 @@
           "id": "barcelona",
           "canonica": "Barcelona",
           "aceitas": [
-            "Barça"
+            "Barça",
+            "FC Barcelona"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -2541,7 +3518,8 @@
           "id": "manchester-united",
           "canonica": "Manchester United",
           "aceitas": [
-            "Man United"
+            "Man United",
+            "Man U"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -2599,7 +3577,8 @@
           "canonica": "Inter de Milão",
           "aceitas": [
             "Internazionale",
-            "Inter Milan"
+            "Inter Milan",
+            "Inter"
           ],
           "traducoes": {
             "en": [
@@ -2640,7 +3619,8 @@
           "id": "borussia-dortmund",
           "canonica": "Borussia Dortmund",
           "aceitas": [
-            "Dortmund"
+            "Dortmund",
+            "BVB"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -2695,14 +3675,18 @@
         {
           "id": "benfica",
           "canonica": "Benfica",
-          "aceitas": [],
+          "aceitas": [
+            "SL Benfica"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
         {
           "id": "porto",
           "canonica": "Porto",
-          "aceitas": [],
+          "aceitas": [
+            "FC Porto"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
@@ -2710,7 +3694,8 @@
           "id": "sporting",
           "canonica": "Sporting",
           "aceitas": [
-            "Sporting de Lisboa"
+            "Sporting de Lisboa",
+            "Sporting CP"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -2743,7 +3728,8 @@
           "canonica": "Olympique de Marseille",
           "aceitas": [
             "Marseille",
-            "Marselha"
+            "Marselha",
+            "OM"
           ],
           "traducoes": {},
           "raridadeInicial": "incomum"

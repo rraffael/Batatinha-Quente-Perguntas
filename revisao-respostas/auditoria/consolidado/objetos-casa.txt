@@ -1,0 +1,253 @@
+== obj-utensilios-cozinha    # Cite um utensílio de cozinha
++ Taça | Taça de vinho | Wine glass;Goblet | Copa | c | https://pt.wikipedia.org/wiki/Ta%C3%A7a https://www.dicio.com.br/taca/    # profunda,listas
++ Pires |  | Saucer | Platillo | c | https://pt.wikipedia.org/wiki/Pires https://www.dicio.com.br/pires/    # profunda,listas
++ Colher de pau |  | Wooden spoon | Cuchara de palo | c | https://pt.wikipedia.org/wiki/Colher https://pt.wikipedia.org/wiki/Utens%C3%ADlio_de_cozinha    # profunda,listas
++ Refratário | Pirex;Travessa refratária | Ovenproof dish | Fuente refractaria | i | https://pt.wiktionary.org/wiki/refrat%C3%A1rio    # profunda
++ Grelha |  | Grill;Grate | Parrilla | i | https://pt.wikipedia.org/wiki/Grelha https://www.dicio.com.br/grelha/    # profunda,listas
++ Espeto | Espeto de churrasco | Skewer | Brocheta;Pincho | r | https://pt.wikipedia.org/wiki/Espeto https://www.dicio.com.br/espeto/    # profunda,listas
++ Hashi | Pauzinhos;Palitinhos;Hashis | Chopsticks | Palillos | r | https://pt.wikipedia.org/wiki/Hashi    # profunda
++ Canudo |  | Straw | Pajita | r | https://pt.wikipedia.org/wiki/Canudo https://www.dicio.com.br/canudo/    # profunda,listas
++ Afiador de facas | Amolador;Chaira | Knife sharpener;Honing steel | Afilador | e | https://pt.wikipedia.org/wiki/Afiador_de_facas https://www.dicio.com.br/chaira/    # profunda,listas
++ Espremedor de batatas | Amassador de batatas | Potato masher | Pisapapas | e | https://pt.wikipedia.org/wiki/Espremedor_de_batatas    # profunda
++ Coqueteleira |  | Cocktail shaker | Coctelera | e | https://en.wikipedia.org/wiki/Cocktail_shaker    # profunda
++ Alguidar |  |  | Lebrillo | l | https://pt.wikipedia.org/wiki/Alguidar    # profunda
++ Terrina | Sopeira | Tureen | Sopera | e | https://pt.wikipedia.org/wiki/Terrina https://www.dicio.com.br/sopeira/    # profunda,listas
++ Rechaud |  | Chafing dish |  | e | https://pt.wikipedia.org/wiki/Rechaud https://www.dicio.com.br/rechaud/    # profunda,listas
++ Ramekin | Ramequim |  |  | l | https://pt.wikipedia.org/wiki/Ramekin    # profunda
++ Mezzaluna |  |  |  | l | https://pt.wikipedia.org/wiki/Mezzaluna    # profunda
++ Pousa-colheres | Descanso de colher | Spoon rest |  | l | https://pt.wikipedia.org/wiki/Pousa-colheres    # profunda
++ Picador de gelo |  | Ice pick | Picahielo | l | https://pt.wikipedia.org/wiki/Picador_de_gelo    # profunda
++ Fogareiro |  | Portable stove | Hornillo | e | https://pt.wikipedia.org/wiki/Fogareiro    # profunda
++ Cuia | Cuia de chimarrão | Gourd | Mate | r | https://pt.wikipedia.org/wiki/Cuia    # profunda
++ Abridor de garrafas | Abridor de cerveja;Abridor de garrafa | Bottle opener | Abrebotellas | i | https://en.wikipedia.org/wiki/Bottle_opener    # profunda
++ Tacho |  |  |  | i | https://pt.wiktionary.org/wiki/tacho https://www.dicio.com.br/tacho/    # profunda,listas
++ Caldeirão |  | Cauldron | Caldero | i | https://pt.wiktionary.org/wiki/caldeir%C3%A3o https://www.dicio.com.br/caldeirao/    # profunda,listas
++ Cafeteira italiana | Moka | Moka pot | Cafetera italiana | e | https://en.wikipedia.org/wiki/Moka_pot    # profunda
++ Prensa francesa | French press |  |  | e | https://en.wikipedia.org/wiki/French_press    # profunda
++ Faqueiro |  | Cutlery set |  | e | https://www.dicio.com.br/faqueiro/    # profunda
++ Manteigueira |  | Butter dish | Mantequera | r | https://pt.wiktionary.org/wiki/manteigueira https://www.dicio.com.br/manteigueira/    # profunda,listas
++ Molheira |  | Gravy boat | Salsera | e | https://pt.wiktionary.org/wiki/molheira https://www.dicio.com.br/molheira/    # profunda,listas
++ Saladeira |  | Salad bowl | Ensaladera | e | https://pt.wiktionary.org/wiki/saladeira    # profunda
++ Galheteiro |  | Cruet stand | Vinagrera | e | https://pt.wiktionary.org/wiki/galheteiro https://www.dicio.com.br/galheteiro/    # profunda,listas
++ Bico de confeitar | Saco de confeitar | Piping bag | Manga pastelera | e | https://en.wikipedia.org/wiki/Pastry_bag    # profunda
++ Cutelo |  | Cleaver | Cuchilla | r | https://www.dicio.com.br/cutelo/    # listas
++ Socador | Socador de caipirinha | Muddler |  | r | https://www.dicio.com.br/socador/    # listas
++ Marmita |  |  |  | r | https://www.dicio.com.br/marmita/    # listas
++ Moringa | Bilha |  |  | r | https://www.dicio.com.br/moringa/    # listas
++ Compoteira |  |  |  | e | https://www.dicio.com.br/compoteira/    # listas
++ Avental |  | Apron | Delantal | r | https://www.dicio.com.br/avental/    # listas
+~ Colher | Colher de sopa;Colher de chá;Colher de sobremesa | https://pt.wikipedia.org/wiki/Colher    # generica
+~ Faca | Faca de cozinha;Faca de pão;Faca de mesa | https://pt.wikipedia.org/wiki/Faca    # generica
+~ Prato | Prato fundo;Prato raso | https://pt.wikipedia.org/wiki/Prato_(lou%C3%A7a)    # generica
+~ Xícara | Caneca | https://pt.wikipedia.org/wiki/Caneca https://www.dicio.com.br/caneca/    # profunda,listas
+~ Descanso de panela | Trempe;Trébede | https://pt.wikipedia.org/wiki/Trempe    # profunda
+~ Pote | Tupperware;Vasilha;Vasilhame;Pote hermético | https://pt.wikipedia.org/wiki/Tupperware https://www.dicio.com.br/pote/    # profunda,listas
+~ Moedor | Moedor de café | https://pt.wikipedia.org/wiki/Moedor_de_caf%C3%A9    # profunda
+~ Cuscuzeira | Cuscuzeiro | https://pt.wikipedia.org/wiki/Cuscuzeiro https://www.dicio.com.br/cuscuzeiro/    # profunda,listas
+~ Rolo de massa | Rolo da massa;Rolo de macarrão;Rolo de abrir massa | https://pt.wikipedia.org/wiki/Rolo_da_massa https://pt.wikipedia.org/wiki/Utens%C3%ADlio_de_cozinha    # profunda,listas
+~ Luva térmica | Luva de cozinha | https://pt.wikipedia.org/wiki/Luva_de_cozinha    # profunda
+~ Coador de café | Passador;Coador de pano | https://pt.wikipedia.org/wiki/Passador    # profunda
+~ Chaleira | Chaleira elétrica | https://www.dicio.com.br/chaleira/    # listas
+
+== obj-moveis    # Cite um móvel
++ Canapé |  | Settee |  | e | https://pt.wikipedia.org/wiki/Canap%C3%A9 https://www.dicio.com.br/canape/    # profunda,listas
++ Carteira escolar | Carteira | School desk | Pupitre | r | https://pt.wikipedia.org/wiki/Carteira_escolar    # profunda
++ Mesa de canto | Mesa lateral;Mesinha | Side table;End table | Mesa auxiliar | i | https://pt.wikipedia.org/wiki/Mesa https://pt.wikipedia.org/wiki/Mobili%C3%A1rio    # profunda,listas
++ Oratório |  |  |  | l | https://pt.wiktionary.org/wiki/orat%C3%B3rio    # profunda
++ Estrado |  | Bed frame;Platform | Somier | e | https://pt.wikipedia.org/wiki/Estrado    # profunda
++ Escabelo |  | Footstool | Escabel | l | https://pt.wikipedia.org/wiki/Escabelo    # profunda
++ Gueridom | Guéridon |  | Velador | l | https://pt.wikipedia.org/wiki/Gueridom    # profunda
++ Valete de roupas | Galã de noite | Valet stand | Galán de noche | l | https://pt.wikipedia.org/wiki/Valete_de_roupas    # profunda
++ Bergère | Poltrona bergère |  |  | l | https://en.wikipedia.org/wiki/Berg%C3%A8re    # profunda
++ Gabinete de banheiro | Gabinete | Vanity cabinet | Mueble de baño | r | https://pt.wiktionary.org/wiki/gabinete    # profunda
++ Paneleiro |  |  |  | e | https://pt.wiktionary.org/wiki/paneleiro    # profunda
++ Revisteiro | Porta-revistas | Magazine rack | Revistero | e | https://www.dicio.com.br/revisteiro/    # profunda
++ Cadeirão | Cadeira de alimentação;Cadeirinha de alimentação | High chair | Trona | r | https://en.wikipedia.org/wiki/High_chair https://www.dicio.com.br/cadeirao/    # profunda,listas
++ Trocador | Cômoda trocador | Changing table | Cambiador | r | https://en.wikipedia.org/wiki/Changing_table https://www.dicio.com.br/trocador/    # profunda,listas
++ Cama de solteiro |  | Single bed | Cama individual | i | https://www.dicio.com.br/cama/    # listas
++ Cercadinho | Chiqueirinho | Playpen | Corralito | r | https://www.dicio.com.br/chiqueirinho/    # listas
++ Moisés |  | Moses basket |  | e | https://www.dicio.com.br/moises/    # listas
++ Cadeira de praia |  | Beach chair | Silla de playa | r | https://www.dicio.com.br/cadeira/    # listas
+~ Escrivaninha | Mesa de escritório;Mesa de estudo;Secretária | https://pt.wikipedia.org/wiki/Escrivaninha https://pt.wiktionary.org/wiki/secret%C3%A1ria    # generica,profunda
+~ Estante | Estante de livros | https://pt.wikipedia.org/wiki/Estante    # generica
+~ Rack | Móvel de TV;Rack de TV | https://pt.wikipedia.org/wiki/Rack    # generica
+~ Armário | Armário embutido | https://pt.wikipedia.org/wiki/Arm%C3%A1rio https://www.dicio.com.br/gabinete/    # generica,listas
+~ Puff | Otomana | https://pt.wikipedia.org/wiki/Otomana_(mob%C3%ADlia)    # profunda
+~ Baú | Arca | https://pt.wikipedia.org/wiki/Ba%C3%BA https://www.dicio.com.br/arca/    # profunda,listas
+~ Banquinho | Tamborete;Mocho | https://pt.wiktionary.org/wiki/tamborete https://www.dicio.com.br/tamborete/    # profunda,listas
+~ Cabideiro | Mancebo | https://pt.wiktionary.org/wiki/mancebo https://www.dicio.com.br/mancebo/    # profunda,listas
+~ Rede | Rede de dormir;Rede de descanso | https://pt.wikipedia.org/wiki/Rede_de_dormir    # profunda
+~ Penteadeira | Toucador | https://pt.wiktionary.org/wiki/toucador    # profunda
+
+== obj-eletrodomesticos    # Cite um eletrodoméstico ou eletroeletrônico de casa
++ Máquina de costura |  | Sewing machine | Máquina de coser | i | https://pt.wikipedia.org/wiki/M%C3%A1quina_de_costura    # profunda,listas
++ Enceradeira |  | Floor polisher | Enceradora | r | https://pt.wiktionary.org/wiki/enceradeira https://www.dicio.com.br/enceradeira/    # profunda,listas
++ Lava e seca | Lava-seca;Lavadora e secadora | Washer-dryer | Lavasecadora | i | https://pt.wikipedia.org/wiki/Lava_e_seca https://pt.wikipedia.org/wiki/M%C3%A1quina_de_lavar_roupa    # profunda,listas
++ Cafeteira de cápsula | Máquina de cápsula;Nespresso;Dolce Gusto | Capsule coffee machine | Cafetera de cápsulas | r | https://pt.wikipedia.org/wiki/Categoria:M%C3%A1quinas_de_caf%C3%A9    # profunda
++ Máquina de waffles | Waffle;Waffleira;Máquina de waffle | Waffle iron | Gofrera;Wafflera | e | https://pt.wikipedia.org/wiki/M%C3%A1quina_de_waffles https://pt.wikipedia.org/wiki/Waffle    # profunda,listas
++ Máquina de gelo |  | Ice maker | Máquina de hielo | e | https://pt.wikipedia.org/wiki/M%C3%A1quina_de_gelo    # profunda,listas
++ Lavadora de alta pressão | Lava-jato;Wap | Pressure washer | Hidrolimpiadora;Hidrolavadora | r | https://pt.wikipedia.org/wiki/Lavadora_de_alta_press%C3%A3o    # profunda,listas
++ Faca elétrica |  | Electric knife | Cuchillo eléctrico | l | https://pt.wikipedia.org/wiki/Faca_el%C3%A9trica    # profunda
++ Lençol térmico | Cobertor elétrico | Electric blanket | Manta eléctrica | l | https://pt.wikipedia.org/wiki/Len%C3%A7ol_t%C3%A9rmico    # profunda
++ Raquete elétrica | Raquete mata-mosquito | Bug zapper racket | Raqueta matamoscas | e | https://pt.wikipedia.org/wiki/Raquete_el%C3%A9trica    # profunda
++ Fogão de indução | Fogão por indução;Cooktop de indução | Induction cooker | Cocina de inducción | r | https://pt.wikipedia.org/wiki/Fog%C3%A3o_por_indu%C3%A7%C3%A3o    # profunda
++ Projetor | Data show | Projector | Proyector | r | https://pt.wikipedia.org/wiki/Projetor https://www.dicio.com.br/projetor/    # profunda,listas
++ Tablet |  |  | Tableta | i | https://pt.wikipedia.org/wiki/Tablet    # profunda,listas
++ Home theater |  |  | Cine en casa | r | https://pt.wikipedia.org/wiki/Home_theater    # profunda,listas
++ Vitrola | Toca-discos | Record player;Turntable | Tocadiscos | e | https://pt.wikipedia.org/wiki/Toca-discos    # profunda
++ Interfone |  | Intercom | Interfono | r | https://pt.wikipedia.org/wiki/Interfone https://www.dicio.com.br/interfone/    # profunda,listas
++ Depilador elétrico | Depiladora | Epilator |  | r | https://en.wikipedia.org/wiki/Epilator https://www.dicio.com.br/depilador/    # profunda,listas
++ Balança digital | Balança de banheiro | Bathroom scale | Báscula de baño | e | https://pt.wikipedia.org/wiki/Balan%C3%A7a    # profunda
++ Panela de pressão elétrica |  | Electric pressure cooker | Olla a presión eléctrica | e | https://en.wikipedia.org/wiki/Instant_Pot    # profunda
++ Sorveteira | Máquina de sorvete | Ice cream maker | Heladera | e | https://en.wikipedia.org/wiki/Ice_cream_maker https://www.dicio.com.br/sorveteira/    # profunda,listas
++ Monitor |  |  |  | r | https://www.dicio.com.br/monitor/    # listas
++ Despertador | Rádio-relógio | Alarm clock |  | r | https://www.dicio.com.br/despertador/    # listas
++ Estabilizador |  | Voltage stabilizer |  | r | https://www.dicio.com.br/estabilizador/    # listas
++ Nobreak |  | UPS | SAI | e | https://pt.wikipedia.org/wiki/Nobreak    # listas
++ Moedor de café |  | Coffee grinder | Molinillo de café | r | https://pt.wikipedia.org/wiki/Moedor_de_caf%C3%A9    # listas
++ Aquecedor de água | Boiler;Aquecedor a gás | Water heater | Calentador de agua | r | https://pt.wikipedia.org/wiki/Aquecedor_de_%C3%A1gua    # listas
+~ Máquina de lavar | Lava-roupas;Máquina de lavar roupas | https://pt.wikipedia.org/wiki/M%C3%A1quina_de_lavar_roupa    # generica
+~ Ar-condicionado | Split;Ar split;Ar-condicionado split | https://pt.wikipedia.org/wiki/Ar-condicionado    # generica
+~ Fogão | Fogão a gás;Fogão elétrico | https://pt.wikipedia.org/wiki/Fog%C3%A3o    # generica
+~ Televisão | Smart TV;Televisor portátil | https://pt.wikipedia.org/wiki/Televisor    # profunda
+~ Air fryer | Fritadeira de ar | https://pt.wikipedia.org/wiki/Fritadeira_de_ar    # profunda
+~ Purificador de água | Dispensador de água | https://pt.wikipedia.org/wiki/Dispensador_de_%C3%A1gua    # profunda
+~ Mixer | Varinha mágica | https://pt.wikipedia.org/wiki/Varinha_m%C3%A1gica_(eletrodom%C3%A9stico)    # profunda
+~ Processador de alimentos | Multiprocessador | https://pt.wikipedia.org/wiki/Processador_de_alimentos    # profunda
+~ Grill | Churrasqueira elétrica;Parrilla eléctrica | https://pt.wikipedia.org/wiki/Churrasqueira    # listas
+~ Micro-ondas | Forno micro-ondas;Forno de micro-ondas | https://pt.wikipedia.org/wiki/Forno_de_micro-ondas    # listas
+~ Ventilador | Circulador de ar | https://pt.wikipedia.org/wiki/Ventilador    # listas
+~ Panela elétrica | Panela de arroz | https://pt.wikipedia.org/wiki/Panela_el%C3%A9trica    # listas
+~ Chapinha | Prancha | https://www.dicio.com.br/chapinha/    # listas
+~ Fritadeira elétrica com óleo | Fritadeira | https://www.dicio.com.br/fritadeira/    # listas
+
+== obj-ferramentas    # Cite uma ferramenta
++ Martelete | Martelete rompedor;Martelete perfurador;Martelete pneumático | Rotary hammer | Martillo percutor | i | https://www.lojadomecanico.com.br/blog/tipos-de-martelete/    # profunda
++ Britadeira | Martelo demolidor;Martelo rompedor;Martelete;Martelete rompedor;Rompedor;Martelo pneumático | Jackhammer | Martillo neumático | i | https://pt.wikipedia.org/wiki/Britadeira    # profunda,listas
++ Chave combinada | Chave estrela-boca | Combination wrench | Llave combinada | r | https://www.quintoandar.com.br/guias/?p=476019    # profunda
++ Chave catraca | Catraca | Ratchet | Llave de carraca | r | https://www.quintoandar.com.br/guias/?p=476019    # profunda
++ Chave de teste | Caneta de teste | Voltage tester | Destornillador buscapolos | r | https://www.quintoandar.com.br/guias/?p=476019    # profunda
++ Chave de impacto | Parafusadeira de impacto | Impact wrench | Llave de impacto | e | https://pt.wikipedia.org/wiki/Chave_de_impacto    # profunda
++ Torquímetro | Chave dinamométrica | Torque wrench | Llave dinamométrica | r | https://pt.wikipedia.org/wiki/Torqu%C3%ADmetro    # profunda,listas
++ Chave Torx | Torx | Torx screwdriver |  | l | https://pt.wikipedia.org/wiki/Torx    # profunda
++ Goiva |  | Gouge | Gubia | l | https://pt.wikipedia.org/wiki/Goiva    # profunda
++ Maço | Martelo de borracha;Macete | Mallet | Mazo de goma | r | https://pt.wikipedia.org/wiki/Ma%C3%A7o    # profunda
++ Sovela |  | Awl | Lezna | l | https://pt.wikipedia.org/wiki/Sovela    # profunda
++ Trado | Verruma | Auger;Gimlet | Barrena | e | https://pt.wikipedia.org/wiki/Trado https://www.dicio.com.br/verruma/ https://www.dicio.com.br/trado/    # profunda,listas
++ Tupia |  | Router | Fresadora | r | https://pt.wikipedia.org/wiki/Tupia    # profunda,listas
++ Retífica | Micro retífica | Rotary tool | Minitorno | r | https://pt.wikipedia.org/wiki/Ret%C3%ADfica https://www.dicio.com.br/retifica/    # profunda,listas
++ Maçarico |  | Blowtorch | Soplete | r | https://pt.wikipedia.org/wiki/Ma%C3%A7arico_(ferramenta) https://www.dicio.com.br/macarico/    # profunda,listas
++ Pedra de amolar | Rebolo | Whetstone | Piedra de afilar | e | https://pt.wikipedia.org/wiki/Pedra_de_amolar    # profunda
++ Soprador de folhas | Soprador | Leaf blower | Soplador | e | https://pt.wikipedia.org/wiki/Soprador_de_folhas    # profunda
++ Lavadora de alta pressão | Lava-jato | Pressure washer | Hidrolimpiadora | e | https://pt.wikipedia.org/wiki/Lavadora_de_alta_press%C3%A3o    # profunda
++ Desentupidor |  | Plunger | Desatascador | r | https://pt.wikipedia.org/wiki/Desentupidor    # profunda
++ Broca | Brocas | Drill bit |  | i | https://pt.wikipedia.org/wiki/Fresa https://www.dicio.com.br/broca/    # profunda,listas
++ Alvião | Enxadão | Mattock | Zapapico | i | https://pt.wikipedia.org/wiki/Alvi%C3%A3o https://www.dicio.com.br/enxadao/    # profunda,listas
++ Almocafre | Sacho | Hand hoe |  | l | https://pt.wikipedia.org/wiki/Almocafre    # profunda
++ Graminho |  | Marking gauge | Gramil | l | https://pt.wikipedia.org/wiki/Graminho    # profunda
++ Compactador | Sapo compactador | Compactor | Compactadora | l | https://pt.wikipedia.org/wiki/Compactador    # profunda
++ Micrômetro |  | Micrometer |  | e | https://pt.wikipedia.org/wiki/Micr%C3%B3metro_(instrumento)    # profunda
++ Escova de aço |  | Wire brush | Cepillo de alambre | e | https://pt.wikipedia.org/wiki/Escova    # profunda
++ Canivete |  | Pocketknife | Navaja | i | https://pt.wikipedia.org/wiki/Canivete    # listas
++ Machadinha |  | Hatchet | Hachuela | i | https://www.dicio.com.br/machadinha/    # listas
++ Ponteiro |  |  |  | r | https://www.dicio.com.br/ponteiro/    # listas
++ Serra de fita | Serra-fita | Band saw | Sierra de cinta | e | https://pt.wikipedia.org/wiki/Serra_de_fita    # listas
++ Pistola de pintura |  | Spray gun |  | r | https://pt.wikipedia.org/wiki/Pistola_de_pintura    # listas
++ Tarraxa |  |  | Terraja | e | https://www.dicio.com.br/tarraxa/    # listas
++ Cossinete |  | Die |  | l | https://www.dicio.com.br/cossinete/    # listas
++ Maceta |  |  |  | e | https://www.dicio.com.br/maceta/    # listas
++ Picão |  |  |  | e | https://www.dicio.com.br/picao/    # listas
++ Podão |  | Billhook |  | e | https://www.dicio.com.br/podao/    # listas
++ Gadanha |  | Scythe | Guadaña | e | https://www.dicio.com.br/gadanha/    # listas
+~ Carrinho de mão | Carriola | https://pt.wikipedia.org/wiki/Carrinho_de_m%C3%A3o    # generica
+~ Serra | Serra elétrica;Serra manual | https://pt.wikipedia.org/wiki/Serra_(ferramenta)    # generica
+~ Pistola de cola quente | Pistola de silicone;Pistola de cola | https://pt.wikipedia.org/wiki/Pistola_de_cola_quente    # generica
+~ Formão | Cinzel;Cincel | https://pt.wikipedia.org/wiki/Cinzel    # profunda,listas
+~ Pé de cabra | Alavanca;Lever | https://pt.wikipedia.org/wiki/Alavanca https://www.dicio.com.br/alavanca/    # profunda,listas
+~ Alicate | Alicate universal;Alicate de pressão;Alicate de corte;Alicate de bico | https://pt.wikipedia.org/wiki/Categoria:Alicates    # profunda
+~ Torquês | Tenaz | https://pt.wikipedia.org/wiki/Tenaz    # profunda
+~ Esmerilhadeira | Rebarbadora;Esmeriladora;Rebarbadeira;Esmerilhadora | https://pt.wikipedia.org/wiki/Rebarbadora    # profunda,listas
+~ Grampeador | Agrafador | https://pt.wikipedia.org/wiki/Agrafador    # profunda
+~ Chave de grifo | Grifo | https://pt.wikipedia.org/wiki/Grifo_(ferramenta)    # profunda
+~ Torno | Morsa | https://pt.wikipedia.org/wiki/Torno_(ferramenta)    # profunda,listas
+~ Arco de serra | Serra para metais | https://pt.wikipedia.org/wiki/Serra_para_metais    # profunda
+~ Marreta | Malho | https://pt.wikipedia.org/wiki/Marreta    # listas
+
+== obj-comodos    # Cite um cômodo ou espaço de uma casa
++ Sala de jogos |  | Game room | Sala de juegos | r | https://en.wikipedia.org/wiki/Game_room https://www.dicio.com.br/sala/    # profunda,listas
++ Deck |  |  | Terraza de madera | r | https://en.wikipedia.org/wiki/Deck_(building) https://www.dicio.com.br/deck/    # profunda,listas
++ Área de lazer |  | Recreation area | Zona de ocio | r | https://pt.wiktionary.org/wiki/lazer https://www.dicio.com.br/lazer/    # profunda,listas
++ Gazebo | Caramanchão |  | Cenador | l | https://pt.wikipedia.org/wiki/Gazebo    # profunda
++ Pergolado | Pérgola |  |  | l | https://pt.wikipedia.org/wiki/P%C3%A9rgula    # profunda
++ Galinheiro |  | Chicken coop | Gallinero | l | https://pt.wiktionary.org/wiki/galinheiro    # profunda
++ Antessala |  | Anteroom | Antesala | l | https://pt.wiktionary.org/wiki/antessala    # profunda
+~ Quarto | Quarto de casal;Quarto de solteiro;Quarto de bebê | https://pt.wikipedia.org/wiki/Quarto_(c%C3%B4modo)    # generica
+~ Ateliê | Oficina;Workshop | https://pt.wiktionary.org/wiki/oficina    # profunda
+~ Sótão | Ático;Mansarda | https://pt.wikipedia.org/wiki/S%C3%B3t%C3%A3o    # profunda
+~ Porão | Cave;Subsolo | https://pt.wikipedia.org/wiki/Por%C3%A3o    # profunda
+~ Banheiro | WC;Toalete;Casa de banho | https://pt.wikipedia.org/wiki/Casa_de_banho https://www.dicio.com.br/toalete/    # profunda,listas
+~ Sala | Living;Sala de visitas | https://pt.wikipedia.org/wiki/Sala_de_estar    # profunda
+
+== obj-material-escolar    # Cite um item de material escolar
++ Apostila |  | Handout;Workbook | Cuadernillo | i | https://pt.wiktionary.org/wiki/apostila https://www.dicio.com.br/apostila/    # profunda,listas
++ Fita crepe |  | Masking tape | Cinta de carrocero;Cinta de papel | i | https://en.wikipedia.org/wiki/Masking_tape https://www.dicio.com.br/crepe/    # profunda,listas
++ Papel contact | Contact | Contact paper | Papel adhesivo | e | https://pt.wiktionary.org/wiki/contact    # profunda
++ Papel vegetal |  | Tracing paper |  | e | https://pt.wikipedia.org/wiki/Papel_vegetal https://www.dicio.com.br/papel/    # profunda,listas
++ Aquarela | Tinta aquarela | Watercolor | Acuarela | r | https://pt.wikipedia.org/wiki/Aquarela https://www.dicio.com.br/aquarela/    # profunda,listas
++ Nanquim | Tinta nanquim;Caneta nanquim | India ink | Tinta china | e | https://pt.wikipedia.org/wiki/Nanquim    # profunda
++ Purpurina | Glitter |  |  | i | https://pt.wikipedia.org/wiki/Purpurina https://www.dicio.com.br/purpurina/    # profunda,listas
++ Envelope |  |  | Sobre | l | https://pt.wikipedia.org/wiki/Envelope    # profunda
++ Caderno de caligrafia |  | Handwriting notebook | Cuaderno de caligrafía | r | https://pt.wikipedia.org/wiki/Caligrafia https://www.dicio.com.br/caligrafia/    # profunda,listas
++ Tachinha | Percevejo | Thumbtack | Chincheta | r | https://www.dicio.com.br/tachinha/    # listas
++ Papel camurça |  |  |  | r | https://www.dicio.com.br/camurca/    # listas
++ Papel laminado |  |  |  | e | https://www.dicio.com.br/laminado/    # listas
++ Tabuada |  | Times table | Tabla de multiplicar | r | https://www.dicio.com.br/tabuada/    # listas
++ Argila |  | Clay | Arcilla | r | https://www.dicio.com.br/argila/    # listas
++ Ábaco |  | Abacus |  | e | https://www.dicio.com.br/abaco/    # listas
+~ Cola bastão | Cola em bastão | https://pt.wikipedia.org/wiki/Cola    # generica
+~ Lápis | Lápis preto;Lápis grafite | https://pt.wikipedia.org/wiki/L%C3%A1pis    # profunda
+~ Lancheira | Merendeira | https://pt.wiktionary.org/wiki/merendeira https://www.dicio.com.br/merendeira/    # profunda,listas
+~ Livro | Livro didático | https://pt.wikipedia.org/wiki/Livro_did%C3%A1tico    # profunda
+~ Cola | Cola branca;Cola de isopor | https://pt.wikipedia.org/wiki/Cola https://www.dicio.com.br/cola/    # profunda,listas
+~ Papel quadriculado | Papel milimetrado | https://www.dicio.com.br/milimetrado/    # listas
+~ Papel sulfite | Papel;Folha;Folha de papel | https://www.dicio.com.br/sulfite/    # listas
+~ Tinta guache | Tinta | https://www.dicio.com.br/guache/    # listas
+~ Canetinha | Caneta hidrográfica;Canetinha hidrográfica | https://www.dicio.com.br/hidrografica/    # listas
+~ Pincel atômico | Pincel marcador;Marcador | https://www.dicio.com.br/marcador/    # listas
+
+== obj-higiene-banheiro    # Cite um item de higiene pessoal ou de banheiro
++ Vaso sanitário | Privada;Bacia sanitária;Vaso | Toilet | Inodoro;Váter | c | https://pt.wikipedia.org/wiki/Vaso_sanit%C3%A1rio https://www.dicio.com.br/privada/    # profunda,listas
++ Chuveiro | Ducha | Shower |  | c | https://pt.wikipedia.org/wiki/Chuveiro https://www.dicio.com.br/chuveiro/    # profunda,listas
++ Pia | Lavatório;Cuba | Sink;Washbasin | Lavabo | c | https://pt.wikipedia.org/wiki/Lavat%C3%B3rio https://www.dicio.com.br/pia/    # profunda,listas
++ Banheira |  | Bathtub | Bañera | i | https://pt.wikipedia.org/wiki/Banheira https://www.dicio.com.br/banheira/    # profunda,listas
++ Torneira |  | Faucet;Tap | Grifo | i | https://pt.wikipedia.org/wiki/Torneira    # profunda
++ Box | Box de banheiro | Shower enclosure;Shower stall | Mampara | i | https://pt.wiktionary.org/wiki/box https://www.dicio.com.br/box/    # profunda,listas
++ Bidê |  | Bidet |  | r | https://pt.wikipedia.org/wiki/Bid%C3%AA https://www.dicio.com.br/bide/    # profunda,listas
++ Ducha higiênica | Chuveirinho | Bidet shower |  | r | https://en.wikipedia.org/wiki/Bidet_shower    # profunda
++ Toalheiro | Porta-toalha | Towel rack | Toallero | r | https://www.dicio.com.br/toalheiro/    # profunda,listas
++ Desentupidor |  | Plunger | Desatascador | r | https://pt.wikipedia.org/wiki/Desentupidor https://www.dicio.com.br/desentupidor/    # profunda,listas
++ Álcool em gel | Álcool gel | Hand sanitizer | Gel hidroalcohólico | i | https://en.wikipedia.org/wiki/Hand_sanitizer https://pt.wikipedia.org/wiki/%C3%81lcool_em_gel    # profunda,listas
++ Cera depilatória |  | Depilatory wax;Wax |  | r | https://pt.wikipedia.org/wiki/Depila%C3%A7%C3%A3o https://www.dicio.com.br/depilatorio/    # profunda,listas
++ Navalha |  | Straight razor | Navaja | r | https://pt.wikipedia.org/wiki/Navalha_(instrumento_cortante) https://www.dicio.com.br/navalha/    # profunda,listas
++ Pincel de barba |  | Shaving brush | Brocha de afeitar | e | https://en.wikipedia.org/wiki/Shaving_brush https://www.dicio.com.br/pincel/    # profunda,listas
++ Protetor labial | Manteiga de cacau;Hidratante labial | Lip balm | Bálsamo labial;Protector labial | i | https://en.wikipedia.org/wiki/Lip_balm https://www.dicio.com.br/labial/    # profunda,listas
++ Repelente |  | Insect repellent;Repellent |  | r | https://pt.wikipedia.org/wiki/Repelente_de_insetos https://www.dicio.com.br/repelente/    # profunda,listas
++ Tintura de cabelo | Tinta de cabelo;Tintura | Hair dye | Tinte | r | https://en.wikipedia.org/wiki/Hair_coloring https://www.dicio.com.br/tintura/    # profunda,listas
++ Delineador | Lápis de olho | Eyeliner |  | r | https://en.wikipedia.org/wiki/Eye_liner https://www.dicio.com.br/delineador/    # profunda,listas
++ Blush |  |  | Colorete;Rubor | r | https://en.wikipedia.org/wiki/Rouge_(cosmetics) https://www.dicio.com.br/blush/    # profunda,listas
++ Pó compacto | Pó facial | Face powder | Polvo compacto | e | https://en.wikipedia.org/wiki/Face_powder    # profunda
++ Água micelar |  | Micellar water |  | l | https://en.wikipedia.org/wiki/Micellar_water    # profunda
++ Protetor diário |  | Panty liner | Salvaslip | e | https://en.wikipedia.org/wiki/Panty_liner    # profunda
++ Grampo de cabelo |  | Bobby pin | Horquilla | e | https://en.wikipedia.org/wiki/Bobby_pin    # profunda
++ Irrigador oral |  | Oral irrigator | Irrigador bucal | l | https://en.wikipedia.org/wiki/Oral_irrigator    # profunda
++ Creme depilatório |  | Depilatory cream | Crema depilatoria | r | https://www.dicio.com.br/depilatorio/    # listas
++ Porta-papel | Papeleira | Toilet paper holder | Portarrollos | e | https://www.dicio.com.br/papeleira/    # listas
++ Pente fino |  | Fine-tooth comb | Peine fino | r | https://www.dicio.com.br/pente/    # listas
++ Escova de unha |  | Nail brush | Cepillo de uñas | e | https://www.dicio.com.br/escova/    # listas
++ Sombra |  | Eyeshadow | Sombra de ojos | r | https://www.dicio.com.br/sombra/    # listas
+~ Toalha | Toalha de banho;Toalha de rosto | https://pt.wikipedia.org/wiki/Toalha    # generica
+~ Sabonete | Sabonete em barra | https://pt.wikipedia.org/wiki/Sabonete    # generica
+~ Tampão | Absorvente interno | https://pt.wikipedia.org/wiki/Tamp%C3%A3o https://www.dicio.com.br/tampao/    # profunda,listas
+~ Perfume | Colônia;Água de colônia | https://pt.wikipedia.org/wiki/%C3%81gua-de-col%C3%B4nia https://www.dicio.com.br/colonia/    # profunda,listas
+~ Bucha | Esponja de banho;Esponja | https://pt.wikipedia.org/wiki/Esponja_(objeto) https://www.dicio.com.br/bucha/    # profunda,listas
+~ Pasta de dente | Pasta dental;Dentifrício | https://www.dicio.com.br/dentifricio/    # listas

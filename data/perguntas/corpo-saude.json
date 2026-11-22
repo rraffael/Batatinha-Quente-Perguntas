@@ -4,7 +4,7 @@
   "perguntas": [
     {
       "id": "cor-ossos",
-      "texto": "Cite um osso do corpo humano",
+      "texto": "Cite um osso do esqueleto humano",
       "dificuldade": "media",
       "tags": [
         "anatomia",
@@ -22,7 +22,9 @@
         {
           "id": "cranio",
           "canonica": "Crânio",
-          "aceitas": [],
+          "aceitas": [
+            "Caveira"
+          ],
           "traducoes": {
             "en": [
               "Skull",
@@ -37,7 +39,9 @@
         {
           "id": "costela",
           "canonica": "Costela",
-          "aceitas": [],
+          "aceitas": [
+            "Costela flutuante"
+          ],
           "traducoes": {
             "en": [
               "Rib"
@@ -219,7 +223,11 @@
           "aceitas": [
             "Pelve",
             "Osso do quadril",
-            "Ilíaco"
+            "Ilíaco",
+            "Osso da bacia",
+            "Osso ilíaco",
+            "Coxal",
+            "Osso coxal"
           ],
           "traducoes": {
             "en": [
@@ -246,7 +254,7 @@
               "Maxilar"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "calcaneo",
@@ -440,13 +448,14 @@
               "Hioides"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "zigomatico",
           "canonica": "Zigomático",
           "aceitas": [
-            "Malar"
+            "Malar",
+            "Osso malar"
           ],
           "traducoes": {
             "en": [
@@ -538,7 +547,8 @@
           "id": "talus",
           "canonica": "Tálus",
           "aceitas": [
-            "Astrágalo"
+            "Astrágalo",
+            "Talo"
           ],
           "traducoes": {
             "es": [
@@ -564,7 +574,10 @@
         {
           "id": "semilunar",
           "canonica": "Semilunar",
-          "aceitas": [],
+          "aceitas": [
+            "Lunato",
+            "Osso semilunar"
+          ],
           "traducoes": {
             "en": [
               "Lunate"
@@ -575,7 +588,10 @@
         {
           "id": "piramidal",
           "canonica": "Piramidal",
-          "aceitas": [],
+          "aceitas": [
+            "Triquetro",
+            "Osso piramidal"
+          ],
           "traducoes": {
             "en": [
               "Triquetrum"
@@ -619,7 +635,9 @@
         {
           "id": "capitato",
           "canonica": "Capitato",
-          "aceitas": [],
+          "aceitas": [
+            "Osso capitato"
+          ],
           "traducoes": {
             "en": [
               "Capitate"
@@ -633,7 +651,10 @@
         {
           "id": "hamato",
           "canonica": "Hamato",
-          "aceitas": [],
+          "aceitas": [
+            "Unciforme",
+            "Osso hamato"
+          ],
           "traducoes": {
             "en": [
               "Hamate"
@@ -642,7 +663,7 @@
               "Ganchoso"
             ]
           },
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "cuboide",
@@ -665,7 +686,11 @@
         {
           "id": "cuneiforme",
           "canonica": "Cuneiforme",
-          "aceitas": [],
+          "aceitas": [
+            "Cuneiforme medial",
+            "Cuneiforme lateral",
+            "Cuneiforme intermédio"
+          ],
           "traducoes": {
             "en": [
               "Cuneiform"
@@ -682,6 +707,39 @@
           "traducoes": {
             "en": [
               "Inferior nasal concha"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "sesamoide",
+          "canonica": "Sesamoide",
+          "aceitas": [
+            "Osso sesamoide"
+          ],
+          "traducoes": {
+            "en": [
+              "Sesamoid bone"
+            ],
+            "es": [
+              "Hueso sesamoideo"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ossos-suturais",
+          "canonica": "Ossos suturais",
+          "aceitas": [
+            "Ossos wormianos",
+            "Osso sutural"
+          ],
+          "traducoes": {
+            "en": [
+              "Wormian bones"
+            ],
+            "es": [
+              "Huesos wormianos"
             ]
           },
           "raridadeInicial": "lendario"
@@ -772,7 +830,9 @@
         {
           "id": "cerebro",
           "canonica": "Cérebro",
-          "aceitas": [],
+          "aceitas": [
+            "Encéfalo"
+          ],
           "traducoes": {
             "en": [
               "Brain"
@@ -826,7 +886,9 @@
         {
           "id": "bexiga",
           "canonica": "Bexiga",
-          "aceitas": [],
+          "aceitas": [
+            "Bexiga urinária"
+          ],
           "traducoes": {
             "en": [
               "Bladder"
@@ -868,7 +930,9 @@
           "id": "tireoide",
           "canonica": "Tireoide",
           "aceitas": [
-            "Tiroide"
+            "Tiroide",
+            "Glândula tireoide",
+            "Glândula tiroide"
           ],
           "traducoes": {
             "en": [
@@ -889,7 +953,7 @@
               "Esophagus"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "laringe",
@@ -900,7 +964,7 @@
               "Larynx"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "faringe",
@@ -911,7 +975,7 @@
               "Pharynx"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "traqueia",
@@ -925,19 +989,21 @@
               "Tráquea"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "utero",
           "canonica": "Útero",
-          "aceitas": [],
+          "aceitas": [
+            "Matriz"
+          ],
           "traducoes": {
             "en": [
               "Uterus",
               "Womb"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "ovario",
@@ -948,7 +1014,7 @@
               "Ovary"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "testiculo",
@@ -959,7 +1025,7 @@
               "Testicle"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "prostata",
@@ -970,7 +1036,7 @@
               "Prostate"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "apendice",
@@ -1025,7 +1091,9 @@
         {
           "id": "ouvido",
           "canonica": "Ouvido",
-          "aceitas": [],
+          "aceitas": [
+            "Orelha"
+          ],
           "traducoes": {
             "en": [
               "Ear"
@@ -1086,7 +1154,7 @@
               "Cerebellum"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "medula-espinhal",
@@ -1100,7 +1168,7 @@
               "Médula espinal"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "duodeno",
@@ -1111,14 +1179,14 @@
               "Duodenum"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "colon",
           "canonica": "Cólon",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "reto",
@@ -1132,7 +1200,7 @@
               "Recto"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "uretra",
@@ -1143,34 +1211,37 @@
               "Urethra"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "ureter",
           "canonica": "Ureter",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "placenta",
           "canonica": "Placenta",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "glandula-mamaria",
           "canonica": "Glândula mamária",
           "aceitas": [
-            "Mama"
+            "Mama",
+            "Seio",
+            "Seios",
+            "Mamas"
           ],
           "traducoes": {
             "en": [
               "Mammary gland"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "glandula-salivar",
@@ -1183,34 +1254,36 @@
               "Salivary gland"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "amigdala",
           "canonica": "Amígdala",
           "aceitas": [
-            "Amígdalas"
+            "Amígdalas",
+            "Tonsila",
+            "Tonsila palatina"
           ],
           "traducoes": {
             "en": [
               "Tonsil"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "vagina",
           "canonica": "Vagina",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "penis",
           "canonica": "Pênis",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "epiglote",
@@ -1277,6 +1350,369 @@
             ]
           },
           "raridadeInicial": "lendario"
+        },
+        {
+          "id": "intestino",
+          "canonica": "Intestino",
+          "aceitas": [
+            "Tripas"
+          ],
+          "traducoes": {
+            "en": [
+              "Intestine",
+              "Bowel"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "medula-ossea",
+          "canonica": "Medula óssea",
+          "aceitas": [
+            "Tutano"
+          ],
+          "traducoes": {
+            "en": [
+              "Bone marrow"
+            ],
+            "es": [
+              "Médula ósea"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "linfonodo",
+          "canonica": "Linfonodo",
+          "aceitas": [
+            "Gânglio linfático",
+            "Íngua"
+          ],
+          "traducoes": {
+            "en": [
+              "Lymph node"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tuba-uterina",
+          "canonica": "Tuba uterina",
+          "aceitas": [
+            "Trompa de Falópio",
+            "Trompa uterina",
+            "Trompa"
+          ],
+          "traducoes": {
+            "en": [
+              "Fallopian tube"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "epididimo",
+          "canonica": "Epidídimo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Epididymis"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "vesicula-seminal",
+          "canonica": "Vesícula seminal",
+          "aceitas": [
+            "Glândula seminal"
+          ],
+          "traducoes": {
+            "en": [
+              "Seminal vesicle"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "clitoris",
+          "canonica": "Clitóris",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "glandula-lacrimal",
+          "canonica": "Glândula lacrimal",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Lacrimal gland"
+            ],
+            "es": [
+              "Glándula lagrimal"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "glandula-sudoripara",
+          "canonica": "Glândula sudorípara",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Sweat gland"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "glandula-sebacea",
+          "canonica": "Glândula sebácea",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Sebaceous gland"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "talamo",
+          "canonica": "Tálamo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Thalamus"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "hipocampo",
+          "canonica": "Hipocampo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Hippocampus"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "bulbo",
+          "canonica": "Bulbo",
+          "aceitas": [
+            "Medula oblonga",
+            "Bulbo raquidiano"
+          ],
+          "traducoes": {
+            "en": [
+              "Medulla oblongata"
+            ],
+            "es": [
+              "Bulbo raquídeo"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "coclea",
+          "canonica": "Cóclea",
+          "aceitas": [
+            "Caracol"
+          ],
+          "traducoes": {
+            "en": [
+              "Cochlea"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "jejuno",
+          "canonica": "Jejuno",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Jejunum"
+            ],
+            "es": [
+              "Yeyuno"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "ileo",
+          "canonica": "Íleo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Ileum"
+            ],
+            "es": [
+              "Íleon"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "ceco",
+          "canonica": "Ceco",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cecum"
+            ],
+            "es": [
+              "Ciego"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "anus",
+          "canonica": "Ânus",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "dente",
+          "canonica": "Dente",
+          "aceitas": [
+            "Dentes"
+          ],
+          "traducoes": {
+            "en": [
+              "Tooth",
+              "Teeth"
+            ],
+            "es": [
+              "Diente"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "boca",
+          "canonica": "Boca",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Mouth"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ducto-deferente",
+          "canonica": "Ducto deferente",
+          "aceitas": [
+            "Canal deferente"
+          ],
+          "traducoes": {
+            "en": [
+              "Vas deferens"
+            ],
+            "es": [
+              "Conducto deferente"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "diafragma",
+          "canonica": "Diafragma",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Diaphragm"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "escroto",
+          "canonica": "Escroto",
+          "aceitas": [
+            "Bolsa escrotal"
+          ],
+          "traducoes": {
+            "en": [
+              "Scrotum"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "vulva",
+          "canonica": "Vulva",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "bronquio",
+          "canonica": "Brônquio",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Bronchus",
+              "Bronchi"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "nervo",
+          "canonica": "Nervo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Nerve"
+            ],
+            "es": [
+              "Nervio"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "mesencefalo",
+          "canonica": "Mesencéfalo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Midbrain"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "mesenterio",
+          "canonica": "Mesentério",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Mesentery"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "glandula-bulbouretral",
+          "canonica": "Glândula bulbouretral",
+          "aceitas": [
+            "Glândula de Cowper"
+          ],
+          "traducoes": {
+            "en": [
+              "Bulbourethral gland"
+            ]
+          },
+          "raridadeInicial": "lendario"
         }
       ]
     },
@@ -1307,7 +1743,10 @@
         {
           "id": "cabelo",
           "canonica": "Cabelo",
-          "aceitas": [],
+          "aceitas": [
+            "Pelo",
+            "Pelos"
+          ],
           "traducoes": {
             "en": [
               "Hair"
@@ -1385,7 +1824,9 @@
         {
           "id": "mao",
           "canonica": "Mão",
-          "aceitas": [],
+          "aceitas": [
+            "Mãos"
+          ],
           "traducoes": {
             "en": [
               "Hand"
@@ -1413,7 +1854,9 @@
         {
           "id": "pe",
           "canonica": "Pé",
-          "aceitas": [],
+          "aceitas": [
+            "Pés"
+          ],
           "traducoes": {
             "en": [
               "Foot"
@@ -1427,7 +1870,10 @@
         {
           "id": "dedo",
           "canonica": "Dedo",
-          "aceitas": [],
+          "aceitas": [
+            "Dedo do pé",
+            "Pododáctilo"
+          ],
           "traducoes": {
             "en": [
               "Finger",
@@ -1469,7 +1915,9 @@
           "canonica": "Barriga",
           "aceitas": [
             "Abdômen",
-            "Abdome"
+            "Abdome",
+            "Ventre",
+            "Pança"
           ],
           "traducoes": {
             "en": [
@@ -1482,7 +1930,9 @@
         {
           "id": "costas",
           "canonica": "Costas",
-          "aceitas": [],
+          "aceitas": [
+            "Dorso"
+          ],
           "traducoes": {
             "en": [
               "Back"
@@ -1524,7 +1974,9 @@
         {
           "id": "testa",
           "canonica": "Testa",
-          "aceitas": [],
+          "aceitas": [
+            "Fronte"
+          ],
           "traducoes": {
             "en": [
               "Forehead"
@@ -1543,7 +1995,7 @@
               "Lip"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "dente",
@@ -1558,7 +2010,7 @@
               "Diente"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "lingua",
@@ -1572,7 +2024,7 @@
               "Lengua"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "bochecha",
@@ -1586,7 +2038,7 @@
               "Mejilla"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "queixo",
@@ -1726,7 +2178,8 @@
           "aceitas": [
             "Bunda",
             "Bumbum",
-            "Glúteos"
+            "Glúteos",
+            "Glúteo"
           ],
           "traducoes": {
             "en": [
@@ -1770,7 +2223,8 @@
           "id": "panturrilha",
           "canonica": "Panturrilha",
           "aceitas": [
-            "Batata da perna"
+            "Batata da perna",
+            "Barriga da perna"
           ],
           "traducoes": {
             "en": [
@@ -1808,7 +2262,7 @@
               "Talón"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "sobrancelha",
@@ -1822,7 +2276,7 @@
               "Ceja"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "cilio",
@@ -1838,7 +2292,7 @@
               "Pestaña"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "axila",
@@ -1851,18 +2305,20 @@
               "Armpit"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "nuca",
           "canonica": "Nuca",
-          "aceitas": [],
+          "aceitas": [
+            "Cangote"
+          ],
           "traducoes": {
             "en": [
               "Nape"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "tempora",
@@ -1876,7 +2332,7 @@
               "Sien"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "mamilo",
@@ -1890,7 +2346,7 @@
               "Pezón"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "palpebra",
@@ -1958,7 +2414,7 @@
               "Earlobe"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "sola-do-pe",
@@ -1988,7 +2444,7 @@
               "Face"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "barba",
@@ -2013,7 +2469,7 @@
               "Bigote"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "couro-cabeludo",
@@ -2040,7 +2496,7 @@
               "Jaw"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "seio",
@@ -2057,7 +2513,7 @@
               "Seno"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "garganta",
@@ -2068,14 +2524,14 @@
               "Throat"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "iris",
           "canonica": "Íris",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "pupila",
@@ -2086,7 +2542,7 @@
               "Pupil"
             ]
           },
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "peito-do-pe",
@@ -2130,7 +2586,222 @@
               "Nuez de Adán"
             ]
           },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "pele",
+          "canonica": "Pele",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Skin"
+            ],
+            "es": [
+              "Piel"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "halux",
+          "canonica": "Hálux",
+          "aceitas": [
+            "Dedão do pé"
+          ],
+          "traducoes": {
+            "en": [
+              "Big toe"
+            ],
+            "es": [
+              "Dedo gordo"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "dedo-mindinho",
+          "canonica": "Dedo mindinho",
+          "aceitas": [
+            "Mindinho",
+            "Dedo mínimo",
+            "Dedinho"
+          ],
+          "traducoes": {
+            "en": [
+              "Little finger",
+              "Pinky"
+            ],
+            "es": [
+              "Meñique"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "dedo-indicador",
+          "canonica": "Dedo indicador",
+          "aceitas": [
+            "Indicador",
+            "Fura-bolo"
+          ],
+          "traducoes": {
+            "en": [
+              "Index finger"
+            ],
+            "es": [
+              "Índice"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "dedo-anelar",
+          "canonica": "Dedo anelar",
+          "aceitas": [
+            "Anelar",
+            "Seu-vizinho"
+          ],
+          "traducoes": {
+            "en": [
+              "Ring finger"
+            ],
+            "es": [
+              "Anular"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "dedo-medio",
+          "canonica": "Dedo médio",
+          "aceitas": [
+            "Pai de todos"
+          ],
+          "traducoes": {
+            "en": [
+              "Middle finger"
+            ],
+            "es": [
+              "Dedo corazón"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "tronco",
+          "canonica": "Tronco",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Torso",
+              "Trunk"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "maca-do-rosto",
+          "canonica": "Maçã do rosto",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cheekbone"
+            ],
+            "es": [
+              "Pómulo"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "costeleta",
+          "canonica": "Costeleta",
+          "aceitas": [
+            "Suíças"
+          ],
+          "traducoes": {
+            "en": [
+              "Sideburns"
+            ],
+            "es": [
+              "Patillas"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "buco",
+          "canonica": "Buço",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Upper lip hair"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "cuticula",
+          "canonica": "Cutícula",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cuticle"
+            ]
+          },
           "raridadeInicial": "lendario"
+        },
+        {
+          "id": "dorso-da-mao",
+          "canonica": "Dorso da mão",
+          "aceitas": [
+            "Costas da mão"
+          ],
+          "traducoes": {
+            "en": [
+              "Back of the hand"
+            ],
+            "es": [
+              "Dorso de la mano"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "penis",
+          "canonica": "Pênis",
+          "aceitas": [],
+          "traducoes": {
+            "es": [
+              "Pene"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "vulva",
+          "canonica": "Vulva",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "anus",
+          "canonica": "Ânus",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "busto",
+          "canonica": "Busto",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Bust"
+            ]
+          },
+          "raridadeInicial": "raro"
         }
       ]
     },
@@ -2161,7 +2832,9 @@
         {
           "id": "resfriado",
           "canonica": "Resfriado",
-          "aceitas": [],
+          "aceitas": [
+            "Resfriado comum"
+          ],
           "traducoes": {
             "en": [
               "Common cold"
@@ -2189,7 +2862,11 @@
         {
           "id": "diabetes",
           "canonica": "Diabetes",
-          "aceitas": [],
+          "aceitas": [
+            "Diabetes mellitus",
+            "Diabetes tipo 1",
+            "Diabetes tipo 2"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
@@ -2197,7 +2874,12 @@
           "id": "cancer",
           "canonica": "Câncer",
           "aceitas": [
-            "Cancro"
+            "Cancro",
+            "Câncer de pele",
+            "Câncer de mama",
+            "Câncer de pulmão",
+            "Câncer de próstata",
+            "Câncer de colo de útero"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -2206,7 +2888,8 @@
           "id": "hipertensao",
           "canonica": "Hipertensão",
           "aceitas": [
-            "Pressão alta"
+            "Pressão alta",
+            "Hipertensão arterial"
           ],
           "traducoes": {
             "en": [
@@ -2321,7 +3004,11 @@
         {
           "id": "hepatite",
           "canonica": "Hepatite",
-          "aceitas": [],
+          "aceitas": [
+            "Hepatite A",
+            "Hepatite B",
+            "Hepatite C"
+          ],
           "traducoes": {
             "en": [
               "Hepatitis"
@@ -2371,7 +3058,10 @@
         {
           "id": "herpes",
           "canonica": "Herpes",
-          "aceitas": [],
+          "aceitas": [
+            "Herpes labial",
+            "Herpes genital"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
@@ -2459,7 +3149,7 @@
               "Conjuntivitis"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "gastrite",
@@ -2470,7 +3160,7 @@
               "Gastritis"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "ulcera",
@@ -2495,7 +3185,7 @@
               "Apendicitis"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "cirrose",
@@ -2519,7 +3209,7 @@
             "Doença de Alzheimer"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "parkinson",
@@ -2529,7 +3219,7 @@
             "Doença de Parkinson"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "epilepsia",
@@ -2540,7 +3230,7 @@
               "Epilepsy"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "enxaqueca",
@@ -2554,7 +3244,7 @@
               "Migraña"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "depressao",
@@ -2568,14 +3258,14 @@
               "Depresión"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "anemia",
           "canonica": "Anemia",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "leucemia",
@@ -2586,14 +3276,16 @@
               "Leukemia"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "avc",
           "canonica": "AVC",
           "aceitas": [
             "Derrame",
-            "Acidente vascular cerebral"
+            "Acidente vascular cerebral",
+            "Acidente vascular encefálico",
+            "AVE"
           ],
           "traducoes": {
             "en": [
@@ -2604,20 +3296,22 @@
               "Ictus"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "infarto",
           "canonica": "Infarto",
           "aceitas": [
-            "Ataque cardíaco"
+            "Ataque cardíaco",
+            "Infarto do miocárdio",
+            "Enfarte"
           ],
           "traducoes": {
             "en": [
               "Heart attack"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "artrite",
@@ -2782,7 +3476,7 @@
               "Bubonic plague"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "doenca-de-chagas",
@@ -2798,7 +3492,7 @@
               "Mal de Chagas"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "esquistossomose",
@@ -2844,7 +3538,7 @@
               "Meningitis"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "coqueluche",
@@ -2905,14 +3599,14 @@
           "canonica": "Ebola",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "lupus",
           "canonica": "Lúpus",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "psoriase",
@@ -2923,14 +3617,14 @@
               "Psoriasis"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "vitiligo",
           "canonica": "Vitiligo",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "micose",
@@ -2965,7 +3659,7 @@
               "Labyrinthitis"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "gota",
@@ -2976,7 +3670,7 @@
               "Gout"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "calculo-renal",
@@ -2989,7 +3683,7 @@
               "Kidney stone"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "hemorroida",
@@ -3002,21 +3696,21 @@
               "Hemorrhoids"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "anorexia",
           "canonica": "Anorexia",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "bulimia",
           "canonica": "Bulimia",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "esclerose-multipla",
@@ -3030,7 +3724,7 @@
               "Esclerosis múltiple"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "ela",
@@ -3043,7 +3737,7 @@
               "ALS"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "fibromialgia",
@@ -3054,7 +3748,7 @@
               "Fibromyalgia"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "hipotireoidismo",
@@ -3068,7 +3762,7 @@
               "Hipotiroidismo"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "doenca-celiaca",
@@ -3082,7 +3776,7 @@
               "Enfermedad celíaca"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "lendario"
         },
         {
           "id": "escorbuto",
@@ -3093,7 +3787,7 @@
               "Scurvy"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "lendario"
         },
         {
           "id": "beriberi",
@@ -3173,6 +3867,1588 @@
             ]
           },
           "raridadeInicial": "lendario"
+        },
+        {
+          "id": "ansiedade",
+          "canonica": "Ansiedade",
+          "aceitas": [
+            "Transtorno de ansiedade",
+            "Transtorno de ansiedade generalizada"
+          ],
+          "traducoes": {
+            "en": [
+              "Anxiety",
+              "Anxiety disorder"
+            ],
+            "es": [
+              "Ansiedad",
+              "Trastorno de ansiedad"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "hipotensao",
+          "canonica": "Hipotensão",
+          "aceitas": [
+            "Pressão baixa"
+          ],
+          "traducoes": {
+            "en": [
+              "Hypotension",
+              "Low blood pressure"
+            ],
+            "es": [
+              "Hipotensión",
+              "Presión baja"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "obesidade",
+          "canonica": "Obesidade",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Obesity"
+            ],
+            "es": [
+              "Obesidad"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "hipertireoidismo",
+          "canonica": "Hipertireoidismo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Hyperthyroidism"
+            ],
+            "es": [
+              "Hipertiroidismo"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "arritmia",
+          "canonica": "Arritmia",
+          "aceitas": [
+            "Arritmia cardíaca"
+          ],
+          "traducoes": {
+            "en": [
+              "Arrhythmia"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "insuficiencia-cardiaca",
+          "canonica": "Insuficiência cardíaca",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Heart failure"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "aterosclerose",
+          "canonica": "Aterosclerose",
+          "aceitas": [
+            "Arteriosclerose"
+          ],
+          "traducoes": {
+            "en": [
+              "Atherosclerosis"
+            ],
+            "es": [
+              "Aterosclerosis"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "trombose",
+          "canonica": "Trombose",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Thrombosis"
+            ],
+            "es": [
+              "Trombosis"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "embolia",
+          "canonica": "Embolia",
+          "aceitas": [
+            "Embolia pulmonar"
+          ],
+          "traducoes": {
+            "en": [
+              "Embolism"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "aneurisma",
+          "canonica": "Aneurisma",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Aneurysm"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "varizes",
+          "canonica": "Varizes",
+          "aceitas": [
+            "Variz"
+          ],
+          "traducoes": {
+            "en": [
+              "Varicose veins"
+            ],
+            "es": [
+              "Várices"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "hernia",
+          "canonica": "Hérnia",
+          "aceitas": [
+            "Hérnia de disco",
+            "Hérnia inguinal",
+            "Hérnia umbilical"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pancreatite",
+          "canonica": "Pancreatite",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Pancreatitis"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "esteatose-hepatica",
+          "canonica": "Esteatose hepática",
+          "aceitas": [
+            "Gordura no fígado",
+            "Esteatose"
+          ],
+          "traducoes": {
+            "en": [
+              "Fatty liver"
+            ],
+            "es": [
+              "Hígado graso"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "refluxo",
+          "canonica": "Refluxo",
+          "aceitas": [
+            "Refluxo gastroesofágico",
+            "DRGE",
+            "Doença do refluxo gastroesofágico"
+          ],
+          "traducoes": {
+            "en": [
+              "GERD",
+              "Acid reflux"
+            ],
+            "es": [
+              "Reflujo gastroesofágico",
+              "Reflujo"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "gastroenterite",
+          "canonica": "Gastroenterite",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Gastroenteritis"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "doenca-de-crohn",
+          "canonica": "Doença de Crohn",
+          "aceitas": [
+            "Crohn"
+          ],
+          "traducoes": {
+            "en": [
+              "Crohn's disease"
+            ],
+            "es": [
+              "Enfermedad de Crohn"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "colite",
+          "canonica": "Colite",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Colitis"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "diverticulite",
+          "canonica": "Diverticulite",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Diverticulitis"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "sindrome-do-intestino-irritavel",
+          "canonica": "Síndrome do intestino irritável",
+          "aceitas": [
+            "Intestino irritável"
+          ],
+          "traducoes": {
+            "en": [
+              "Irritable bowel syndrome"
+            ],
+            "es": [
+              "Síndrome del intestino irritable"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "infeccao-urinaria",
+          "canonica": "Infecção urinária",
+          "aceitas": [
+            "Cistite",
+            "Infecção do trato urinário",
+            "ITU"
+          ],
+          "traducoes": {
+            "en": [
+              "Urinary tract infection",
+              "Cystitis"
+            ],
+            "es": [
+              "Infección urinaria",
+              "Cistitis"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "insuficiencia-renal",
+          "canonica": "Insuficiência renal",
+          "aceitas": [
+            "Doença renal crônica"
+          ],
+          "traducoes": {
+            "en": [
+              "Kidney failure"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "enfisema",
+          "canonica": "Enfisema",
+          "aceitas": [
+            "Enfisema pulmonar",
+            "DPOC",
+            "Doença pulmonar obstrutiva crônica"
+          ],
+          "traducoes": {
+            "en": [
+              "Emphysema",
+              "COPD"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "faringite",
+          "canonica": "Faringite",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Pharyngitis"
+            ],
+            "es": [
+              "Faringitis"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "amigdalite",
+          "canonica": "Amigdalite",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Tonsillitis"
+            ],
+            "es": [
+              "Amigdalitis"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "laringite",
+          "canonica": "Laringite",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Laryngitis"
+            ],
+            "es": [
+              "Laringitis"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "candidiase",
+          "canonica": "Candidíase",
+          "aceitas": [
+            "Sapinho",
+            "Candidíase oral",
+            "Candida"
+          ],
+          "traducoes": {
+            "en": [
+              "Candidiasis"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "hpv",
+          "canonica": "HPV",
+          "aceitas": [
+            "Papilomavírus humano",
+            "Condiloma"
+          ],
+          "traducoes": {
+            "es": [
+              "VPH"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "clamidia",
+          "canonica": "Clamídia",
+          "aceitas": [
+            "Clamidíase"
+          ],
+          "traducoes": {
+            "en": [
+              "Chlamydia"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tricomoniase",
+          "canonica": "Tricomoníase",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Trichomoniasis"
+            ],
+            "es": [
+              "Tricomoniasis"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "febre-tifoide",
+          "canonica": "Febre tifoide",
+          "aceitas": [
+            "Tifoide"
+          ],
+          "traducoes": {
+            "en": [
+              "Typhoid fever"
+            ],
+            "es": [
+              "Fiebre tifoidea"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "botulismo",
+          "canonica": "Botulismo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Botulism"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "antraz",
+          "canonica": "Antraz",
+          "aceitas": [
+            "Carbúnculo"
+          ],
+          "traducoes": {
+            "en": [
+              "Anthrax"
+            ],
+            "es": [
+              "Ántrax"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "febre-oropouche",
+          "canonica": "Febre Oropouche",
+          "aceitas": [
+            "Oropouche"
+          ],
+          "traducoes": {
+            "en": [
+              "Oropouche fever"
+            ],
+            "es": [
+              "Fiebre de Oropouche"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "rotavirose",
+          "canonica": "Rotavirose",
+          "aceitas": [
+            "Rotavírus"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "herpes-zoster",
+          "canonica": "Herpes-zóster",
+          "aceitas": [
+            "Cobreiro",
+            "Zóster"
+          ],
+          "traducoes": {
+            "en": [
+              "Shingles"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "impetigo",
+          "canonica": "Impetigo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "erisipela",
+          "canonica": "Erisipela",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Erysipelas"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "furunculo",
+          "canonica": "Furúnculo",
+          "aceitas": [
+            "Furunculose"
+          ],
+          "traducoes": {
+            "en": [
+              "Boil"
+            ],
+            "es": [
+              "Forúnculo"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "pediculose",
+          "canonica": "Pediculose",
+          "aceitas": [
+            "Piolho"
+          ],
+          "traducoes": {
+            "en": [
+              "Head lice",
+              "Lice"
+            ],
+            "es": [
+              "Pediculosis"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "giardiase",
+          "canonica": "Giardíase",
+          "aceitas": [
+            "Giárdia"
+          ],
+          "traducoes": {
+            "en": [
+              "Giardiasis"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "amebiase",
+          "canonica": "Amebíase",
+          "aceitas": [
+            "Disenteria amebiana"
+          ],
+          "traducoes": {
+            "en": [
+              "Amoebiasis"
+            ],
+            "es": [
+              "Amebiasis"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "teniase",
+          "canonica": "Teníase",
+          "aceitas": [
+            "Solitária"
+          ],
+          "traducoes": {
+            "en": [
+              "Taeniasis"
+            ],
+            "es": [
+              "Teniasis"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cisticercose",
+          "canonica": "Cisticercose",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cysticercosis"
+            ],
+            "es": [
+              "Cisticercosis"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "bicho-geografico",
+          "canonica": "Bicho-geográfico",
+          "aceitas": [
+            "Larva migrans"
+          ],
+          "traducoes": {
+            "en": [
+              "Cutaneous larva migrans"
+            ],
+            "es": [
+              "Larva migratoria"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "frieira",
+          "canonica": "Frieira",
+          "aceitas": [
+            "Pé de atleta",
+            "Tinea pedis"
+          ],
+          "traducoes": {
+            "en": [
+              "Athlete's foot"
+            ],
+            "es": [
+              "Pie de atleta"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "pano-branco",
+          "canonica": "Pano branco",
+          "aceitas": [
+            "Pitiríase versicolor"
+          ],
+          "traducoes": {
+            "en": [
+              "Pityriasis versicolor"
+            ],
+            "es": [
+              "Pitiriasis versicolor"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "doenca-de-lyme",
+          "canonica": "Doença de Lyme",
+          "aceitas": [
+            "Lyme"
+          ],
+          "traducoes": {
+            "en": [
+              "Lyme disease"
+            ],
+            "es": [
+              "Enfermedad de Lyme"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "febre-reumatica",
+          "canonica": "Febre reumática",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Rheumatic fever"
+            ],
+            "es": [
+              "Fiebre reumática"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "doenca-de-creutzfeldt-jakob",
+          "canonica": "Doença de Creutzfeldt-Jakob",
+          "aceitas": [
+            "Doença da vaca louca",
+            "Vaca louca"
+          ],
+          "traducoes": {
+            "en": [
+              "Creutzfeldt–Jakob disease"
+            ],
+            "es": [
+              "Enfermedad de Creutzfeldt-Jakob"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "mononucleose",
+          "canonica": "Mononucleose",
+          "aceitas": [
+            "Doença do beijo",
+            "Mononucleose infecciosa"
+          ],
+          "traducoes": {
+            "en": [
+              "Mononucleosis"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "esquizofrenia",
+          "canonica": "Esquizofrenia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Schizophrenia"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "transtorno-bipolar",
+          "canonica": "Transtorno bipolar",
+          "aceitas": [
+            "Bipolaridade"
+          ],
+          "traducoes": {
+            "en": [
+              "Bipolar disorder"
+            ],
+            "es": [
+              "Trastorno bipolar"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "transtorno-obsessivo-compulsivo",
+          "canonica": "Transtorno obsessivo-compulsivo",
+          "aceitas": [
+            "TOC"
+          ],
+          "traducoes": {
+            "en": [
+              "Obsessive–compulsive disorder",
+              "OCD"
+            ],
+            "es": [
+              "Trastorno obsesivo-compulsivo"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "sindrome-do-panico",
+          "canonica": "Síndrome do pânico",
+          "aceitas": [
+            "Transtorno do pânico",
+            "Transtorno de pânico"
+          ],
+          "traducoes": {
+            "en": [
+              "Panic disorder"
+            ],
+            "es": [
+              "Trastorno de pánico"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "demencia",
+          "canonica": "Demência",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Dementia"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "distrofia-muscular",
+          "canonica": "Distrofia muscular",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Muscular dystrophy"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "doenca-de-huntington",
+          "canonica": "Doença de Huntington",
+          "aceitas": [
+            "Huntington",
+            "Coreia de Huntington"
+          ],
+          "traducoes": {
+            "en": [
+              "Huntington's disease"
+            ],
+            "es": [
+              "Enfermedad de Huntington"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "hidrocefalia",
+          "canonica": "Hidrocefalia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Hydrocephalus"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "narcolepsia",
+          "canonica": "Narcolepsia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Narcolepsy"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "hemofilia",
+          "canonica": "Hemofilia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Haemophilia",
+              "Hemophilia"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "anemia-falciforme",
+          "canonica": "Anemia falciforme",
+          "aceitas": [
+            "Doença falciforme",
+            "Drepanocitose"
+          ],
+          "traducoes": {
+            "en": [
+              "Sickle cell disease"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "fibrose-cistica",
+          "canonica": "Fibrose cística",
+          "aceitas": [
+            "Mucoviscidose"
+          ],
+          "traducoes": {
+            "en": [
+              "Cystic fibrosis"
+            ],
+            "es": [
+              "Fibrosis quística"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "talassemia",
+          "canonica": "Talassemia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Thalassemia"
+            ],
+            "es": [
+              "Talasemia"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "acne",
+          "canonica": "Acne",
+          "aceitas": [
+            "Espinha"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "dermatite",
+          "canonica": "Dermatite",
+          "aceitas": [
+            "Eczema"
+          ],
+          "traducoes": {
+            "en": [
+              "Dermatitis"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "rosacea",
+          "canonica": "Rosácea",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "urticaria",
+          "canonica": "Urticária",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Hives"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "melanoma",
+          "canonica": "Melanoma",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "linfoma",
+          "canonica": "Linfoma",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Lymphoma"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "raquitismo",
+          "canonica": "Raquitismo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Rickets"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "bocio",
+          "canonica": "Bócio",
+          "aceitas": [
+            "Papo"
+          ],
+          "traducoes": {
+            "en": [
+              "Goitre",
+              "Goiter"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "pelagra",
+          "canonica": "Pelagra",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Pellagra"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "miopia",
+          "canonica": "Miopia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Myopia"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "astigmatismo",
+          "canonica": "Astigmatismo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Astigmatism"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "hipermetropia",
+          "canonica": "Hipermetropia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Hyperopia"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "estrabismo",
+          "canonica": "Estrabismo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Strabismus"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tercol",
+          "canonica": "Terçol",
+          "aceitas": [
+            "Hordéolo"
+          ],
+          "traducoes": {
+            "en": [
+              "Stye"
+            ],
+            "es": [
+              "Orzuelo"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "escoliose",
+          "canonica": "Escoliose",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Scoliosis"
+            ],
+            "es": [
+              "Escoliosis"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tendinite",
+          "canonica": "Tendinite",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Tendinitis"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "bursite",
+          "canonica": "Bursite",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Bursitis"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ler",
+          "canonica": "LER",
+          "aceitas": [
+            "Lesão por esforço repetitivo",
+            "DORT"
+          ],
+          "traducoes": {
+            "en": [
+              "Repetitive strain injury"
+            ],
+            "es": [
+              "Lesión por esfuerzo repetitivo"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "endometriose",
+          "canonica": "Endometriose",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Endometriosis"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "mioma",
+          "canonica": "Mioma",
+          "aceitas": [
+            "Mioma uterino"
+          ],
+          "traducoes": {
+            "en": [
+              "Uterine fibroid",
+              "Fibroid"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "sindrome-dos-ovarios-policisticos",
+          "canonica": "Síndrome dos ovários policísticos",
+          "aceitas": [
+            "Ovário policístico",
+            "SOP",
+            "Síndrome do ovário policístico"
+          ],
+          "traducoes": {
+            "en": [
+              "Polycystic ovary syndrome",
+              "PCOS"
+            ],
+            "es": [
+              "Síndrome de ovario poliquístico"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "pre-eclampsia",
+          "canonica": "Pré-eclâmpsia",
+          "aceitas": [],
+          "traducoes": {
+            "es": [
+              "Preeclampsia"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "sepse",
+          "canonica": "Sepse",
+          "aceitas": [
+            "Septicemia",
+            "Infecção generalizada"
+          ],
+          "traducoes": {
+            "en": [
+              "Sepsis"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "gangrena",
+          "canonica": "Gangrena",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Gangrene"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "tifo",
+          "canonica": "Tifo",
+          "aceitas": [
+            "Tifo epidêmico"
+          ],
+          "traducoes": {
+            "en": [
+              "Typhus"
+            ],
+            "es": [
+              "Tifus"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "hantavirose",
+          "canonica": "Hantavirose",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Hantavirus"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "doenca-de-kawasaki",
+          "canonica": "Doença de Kawasaki",
+          "aceitas": [
+            "Kawasaki"
+          ],
+          "traducoes": {
+            "en": [
+              "Kawasaki disease"
+            ],
+            "es": [
+              "Enfermedad de Kawasaki"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "sarcoidose",
+          "canonica": "Sarcoidose",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Sarcoidosis"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "brucelose",
+          "canonica": "Brucelose",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Brucellosis"
+            ],
+            "es": [
+              "Brucelosis"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "alergia",
+          "canonica": "Alergia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Allergy"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "carie",
+          "canonica": "Cárie",
+          "aceitas": [
+            "Cárie dentária"
+          ],
+          "traducoes": {
+            "en": [
+              "Tooth decay",
+              "Caries"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "gengivite",
+          "canonica": "Gengivite",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Gingivitis"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "daltonismo",
+          "canonica": "Daltonismo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Color blindness"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "insonia",
+          "canonica": "Insônia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Insomnia"
+            ],
+            "es": [
+              "Insomnio"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "apneia-do-sono",
+          "canonica": "Apneia do sono",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Sleep apnea"
+            ],
+            "es": [
+              "Apnea del sueño"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "angina",
+          "canonica": "Angina",
+          "aceitas": [
+            "Angina de peito"
+          ],
+          "traducoes": {
+            "es": [
+              "Angina de pecho"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "calculo-biliar",
+          "canonica": "Cálculo biliar",
+          "aceitas": [
+            "Pedra na vesícula",
+            "Colelitíase"
+          ],
+          "traducoes": {
+            "en": [
+              "Gallstone"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "sarcoma",
+          "canonica": "Sarcoma",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "mieloma-multiplo",
+          "canonica": "Mieloma múltiplo",
+          "aceitas": [
+            "Mieloma"
+          ],
+          "traducoes": {
+            "en": [
+              "Multiple myeloma"
+            ],
+            "es": [
+              "Mieloma múltiple"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "cancro-mole",
+          "canonica": "Cancro mole",
+          "aceitas": [
+            "Cancroide"
+          ],
+          "traducoes": {
+            "en": [
+              "Chancroid"
+            ],
+            "es": [
+              "Chancroide"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "histoplasmose",
+          "canonica": "Histoplasmose",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Histoplasmosis"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "enterobiase",
+          "canonica": "Enterobíase",
+          "aceitas": [
+            "Oxiurose",
+            "Oxiúrus"
+          ],
+          "traducoes": {
+            "en": [
+              "Enterobiasis",
+              "Pinworm"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "nefrite",
+          "canonica": "Nefrite",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Nephritis"
+            ],
+            "es": [
+              "Nefritis"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "pielonefrite",
+          "canonica": "Pielonefrite",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Pyelonephritis"
+            ],
+            "es": [
+              "Pielonefritis"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "prostatite",
+          "canonica": "Prostatite",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Prostatitis"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "encefalite",
+          "canonica": "Encefalite",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Encephalitis"
+            ],
+            "es": [
+              "Encefalitis"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "sindrome-de-guillain-barre",
+          "canonica": "Síndrome de Guillain-Barré",
+          "aceitas": [
+            "Guillain-Barré"
+          ],
+          "traducoes": {
+            "en": [
+              "Guillain-Barré syndrome"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "miastenia-grave",
+          "canonica": "Miastenia grave",
+          "aceitas": [
+            "Miastenia gravis",
+            "Miastenia"
+          ],
+          "traducoes": {
+            "en": [
+              "Myasthenia gravis"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "salmonelose",
+          "canonica": "Salmonelose",
+          "aceitas": [
+            "Salmonela"
+          ],
+          "traducoes": {
+            "en": [
+              "Salmonellosis"
+            ],
+            "es": [
+              "Salmonelosis"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "disenteria",
+          "canonica": "Disenteria",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Dysentery"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "gripe-aviaria",
+          "canonica": "Gripe aviária",
+          "aceitas": [
+            "Gripe das aves"
+          ],
+          "traducoes": {
+            "en": [
+              "Bird flu",
+              "Avian influenza"
+            ],
+            "es": [
+              "Gripe aviar"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "gripe-suina",
+          "canonica": "Gripe suína",
+          "aceitas": [
+            "H1N1",
+            "Gripe A"
+          ],
+          "traducoes": {
+            "en": [
+              "Swine flu"
+            ],
+            "es": [
+              "Gripe porcina"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "sars",
+          "canonica": "SARS",
+          "aceitas": [
+            "Síndrome respiratória aguda grave"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
         }
       ]
     },
@@ -3222,7 +5498,8 @@
           "id": "peitoral-maior",
           "canonica": "Peitoral maior",
           "aceitas": [
-            "Peitoral"
+            "Peitoral",
+            "Grande peitoral"
           ],
           "traducoes": {
             "en": [
@@ -3254,7 +5531,9 @@
         {
           "id": "quadriceps",
           "canonica": "Quadríceps",
-          "aceitas": [],
+          "aceitas": [
+            "Quadríceps femoral"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
@@ -3497,7 +5776,7 @@
               "Serrato anterior"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "romboide",
@@ -3511,7 +5790,7 @@
               "Romboides"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "infraespinhal",
@@ -3583,7 +5862,7 @@
               "Psoas major"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "iliaco",
@@ -3601,7 +5880,7 @@
           "canonica": "Iliopsoas",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "piriforme",
@@ -3612,7 +5891,7 @@
               "Piriformis"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "platisma",
@@ -3623,7 +5902,7 @@
               "Platysma"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "zigomatico-maior",
@@ -3645,7 +5924,7 @@
               "Risorius"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "estapedio",
@@ -3656,7 +5935,7 @@
               "Stapedius"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "esfincter",
@@ -3667,7 +5946,7 @@
               "Sphincter"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "eretor-da-espinha",
@@ -3680,7 +5959,7 @@
               "Erector spinae"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "multifido",
@@ -3691,7 +5970,7 @@
               "Multifidus"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "transverso-do-abdome",
@@ -3704,7 +5983,7 @@
               "Transversus abdominis"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "intercostais",
@@ -3717,7 +5996,7 @@
               "Intercostals"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "fibular-longo",
@@ -3733,7 +6012,7 @@
               "Peroneo largo"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "gracil",
@@ -3744,7 +6023,7 @@
               "Gracilis"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "semitendinoso",
@@ -3755,7 +6034,7 @@
               "Semitendinosus"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "semimembranoso",
@@ -3766,7 +6045,7 @@
               "Semimembranosus"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "biceps-femoral",
@@ -3777,7 +6056,7 @@
               "Biceps femoris"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "vasto-lateral",
@@ -3788,7 +6067,7 @@
               "Vastus lateralis"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "vasto-medial",
@@ -3799,7 +6078,7 @@
               "Vastus medialis"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "reto-femoral",
@@ -3810,7 +6089,7 @@
               "Rectus femoris"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "gluteo-medio",
@@ -3821,7 +6100,7 @@
               "Gluteus medius"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "pronador-redondo",
@@ -3832,7 +6111,7 @@
               "Pronator teres"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "supinador",
@@ -3843,18 +6122,20 @@
               "Supinator"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "levantador-da-escapula",
           "canonica": "Levantador da escápula",
-          "aceitas": [],
+          "aceitas": [
+            "Elevador da escápula"
+          ],
           "traducoes": {
             "en": [
               "Levator scapulae"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "escalenos",
@@ -3867,7 +6148,7 @@
               "Scalene"
             ]
           },
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "subescapular",
@@ -3878,7 +6159,7 @@
               "Subscapularis"
             ]
           },
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "tensor-da-fascia-lata",
@@ -3889,18 +6170,20 @@
               "Tensor fasciae latae"
             ]
           },
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "miocardio",
           "canonica": "Miocárdio",
-          "aceitas": [],
+          "aceitas": [
+            "Músculo cardíaco"
+          ],
           "traducoes": {
             "en": [
               "Myocardium"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "coracobraquial",
@@ -3911,7 +6194,7 @@
               "Coracobrachialis"
             ]
           },
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "flexor-ulnar-do-carpo",
@@ -3920,6 +6203,490 @@
           "traducoes": {
             "en": [
               "Flexor carpi ulnaris"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "peitoral-menor",
+          "canonica": "Peitoral menor",
+          "aceitas": [
+            "Pequeno peitoral"
+          ],
+          "traducoes": {
+            "en": [
+              "Pectoralis minor"
+            ],
+            "es": [
+              "Pectoral menor"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "redondo-menor",
+          "canonica": "Redondo menor",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Teres minor"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "gluteo-minimo",
+          "canonica": "Glúteo mínimo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Gluteus minimus"
+            ],
+            "es": [
+              "Glúteo menor"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "quadrado-lombar",
+          "canonica": "Quadrado lombar",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Quadratus lumborum"
+            ],
+            "es": [
+              "Cuadrado lumbar"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tibial-posterior",
+          "canonica": "Tibial posterior",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Tibialis posterior"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "popliteo",
+          "canonica": "Poplíteo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Popliteus"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "plantar",
+          "canonica": "Plantar",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Plantaris"
+            ],
+            "es": [
+              "Plantar delgado"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "palmar-longo",
+          "canonica": "Palmar longo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Palmaris longus"
+            ],
+            "es": [
+              "Palmar largo"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "pectineo",
+          "canonica": "Pectíneo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Pectineus"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "pterigoideo",
+          "canonica": "Pterigoideo",
+          "aceitas": [
+            "Pterigoideo lateral",
+            "Pterigoideo medial",
+            "Pterigoide lateral",
+            "Pterigoide medial"
+          ],
+          "traducoes": {
+            "en": [
+              "Pterygoid",
+              "Lateral pterygoid",
+              "Medial pterygoid"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "frontal",
+          "canonica": "Frontal",
+          "aceitas": [
+            "Occipitofrontal",
+            "Músculo frontal"
+          ],
+          "traducoes": {
+            "en": [
+              "Frontalis"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "procero",
+          "canonica": "Prócero",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Procerus"
+            ],
+            "es": [
+              "Prócer"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "corrugador-do-supercilio",
+          "canonica": "Corrugador do supercílio",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Corrugator supercilii"
+            ],
+            "es": [
+              "Corrugador superciliar"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "levantador-da-palpebra-superior",
+          "canonica": "Levantador da pálpebra superior",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Levator palpebrae superioris"
+            ],
+            "es": [
+              "Elevador del párpado superior"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "anconeo",
+          "canonica": "Ancôneo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Anconeus"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "subclavio",
+          "canonica": "Subclávio",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Subclavius"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "esplenio",
+          "canonica": "Esplênio",
+          "aceitas": [
+            "Esplênio da cabeça"
+          ],
+          "traducoes": {
+            "en": [
+              "Splenius"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "digastrico",
+          "canonica": "Digástrico",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Digastric"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "milo-hioideo",
+          "canonica": "Milo-hioideo",
+          "aceitas": [
+            "Milo-hioide"
+          ],
+          "traducoes": {
+            "en": [
+              "Mylohyoid"
+            ],
+            "es": [
+              "Milohioideo"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "cremaster",
+          "canonica": "Cremaster",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "detrusor",
+          "canonica": "Detrusor",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "interosseos",
+          "canonica": "Interósseos",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Interossei"
+            ],
+            "es": [
+              "Interóseos"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "lumbricais",
+          "canonica": "Lumbricais",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Lumbricals"
+            ],
+            "es": [
+              "Lumbricales"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "mentual",
+          "canonica": "Mentual",
+          "aceitas": [
+            "Mentoniano"
+          ],
+          "traducoes": {
+            "en": [
+              "Mentalis"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "depressor-do-angulo-da-boca",
+          "canonica": "Depressor do ângulo da boca",
+          "aceitas": [
+            "Abaixador do ângulo da boca"
+          ],
+          "traducoes": {
+            "en": [
+              "Depressor anguli oris"
+            ],
+            "es": [
+              "Depresor del ángulo de la boca"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "extensor-dos-dedos",
+          "canonica": "Extensor dos dedos",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Extensor digitorum"
+            ],
+            "es": [
+              "Extensor de los dedos"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "flexor-superficial-dos-dedos",
+          "canonica": "Flexor superficial dos dedos",
+          "aceitas": [
+            "Flexor dos dedos"
+          ],
+          "traducoes": {
+            "en": [
+              "Flexor digitorum superficialis"
+            ],
+            "es": [
+              "Flexor superficial de los dedos"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "adutor-longo",
+          "canonica": "Adutor longo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Adductor longus"
+            ],
+            "es": [
+              "Aductor largo"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "triceps-sural",
+          "canonica": "Tríceps sural",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Triceps surae"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "obliquo-interno",
+          "canonica": "Oblíquo interno",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Internal oblique"
+            ],
+            "es": [
+              "Oblicuo interno"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "fibular-curto",
+          "canonica": "Fibular curto",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Fibularis brevis"
+            ],
+            "es": [
+              "Peroneo corto"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "adutor-magno",
+          "canonica": "Adutor magno",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Adductor magnus"
+            ],
+            "es": [
+              "Aductor mayor"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "vasto-intermedio",
+          "canonica": "Vasto intermédio",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Vastus intermedius"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "levantador-do-labio-superior",
+          "canonica": "Levantador do lábio superior",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Levator labii superioris"
+            ],
+            "es": [
+              "Elevador del labio superior"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "zigomatico-menor",
+          "canonica": "Zigomático menor",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Zygomaticus minor"
+            ],
+            "es": [
+              "Cigomático menor"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "oponente-do-polegar",
+          "canonica": "Oponente do polegar",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Opponens pollicis"
+            ],
+            "es": [
+              "Oponente del pulgar"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "obturador-interno",
+          "canonica": "Obturador interno",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Obturator internus"
             ]
           },
           "raridadeInicial": "lendario"
@@ -3968,7 +6735,9 @@
           "canonica": "Ortopedia",
           "aceitas": [
             "Ortopedista",
-            "Ortopedia e Traumatologia"
+            "Ortopedia e Traumatologia",
+            "Traumatologia",
+            "Traumatologista"
           ],
           "traducoes": {
             "en": [
@@ -4065,7 +6834,9 @@
           "canonica": "Oncologia",
           "aceitas": [
             "Oncologia Clínica",
-            "Oncologista"
+            "Oncologista",
+            "Cancerologia",
+            "Cancerologista"
           ],
           "traducoes": {
             "en": [
@@ -4262,7 +7033,8 @@
           "canonica": "Radiologia",
           "aceitas": [
             "Radiologia e Diagnóstico por Imagem",
-            "Radiologista"
+            "Radiologista",
+            "Diagnóstico por imagem"
           ],
           "traducoes": {
             "en": [
@@ -4376,7 +7148,9 @@
         {
           "id": "medicina-do-trabalho",
           "canonica": "Medicina do trabalho",
-          "aceitas": [],
+          "aceitas": [
+            "Médico do trabalho"
+          ],
           "traducoes": {
             "en": [
               "Occupational medicine"
@@ -4388,7 +7162,8 @@
           "id": "medicina-esportiva",
           "canonica": "Medicina esportiva",
           "aceitas": [
-            "Medicina do esporte"
+            "Medicina do esporte",
+            "Médico do esporte"
           ],
           "traducoes": {
             "en": [
@@ -4440,7 +7215,9 @@
         {
           "id": "medicina-nuclear",
           "canonica": "Medicina nuclear",
-          "aceitas": [],
+          "aceitas": [
+            "Médico nuclear"
+          ],
           "traducoes": {
             "en": [
               "Nuclear medicine"
@@ -4451,7 +7228,9 @@
         {
           "id": "radioterapia",
           "canonica": "Radioterapia",
-          "aceitas": [],
+          "aceitas": [
+            "Radioterapeuta"
+          ],
           "traducoes": {
             "en": [
               "Radiotherapy"
@@ -4471,7 +7250,9 @@
         {
           "id": "homeopatia",
           "canonica": "Homeopatia",
-          "aceitas": [],
+          "aceitas": [
+            "Homeopata"
+          ],
           "traducoes": {
             "en": [
               "Homeopathy"
@@ -4482,7 +7263,9 @@
         {
           "id": "acupuntura",
           "canonica": "Acupuntura",
-          "aceitas": [],
+          "aceitas": [
+            "Acupunturista"
+          ],
           "traducoes": {
             "en": [
               "Acupuncture"
@@ -4508,7 +7291,9 @@
         {
           "id": "genetica-medica",
           "canonica": "Genética médica",
-          "aceitas": [],
+          "aceitas": [
+            "Geneticista"
+          ],
           "traducoes": {
             "en": [
               "Medical genetics"
@@ -4532,7 +7317,9 @@
         {
           "id": "cirurgia-toracica",
           "canonica": "Cirurgia torácica",
-          "aceitas": [],
+          "aceitas": [
+            "Cirurgião torácico"
+          ],
           "traducoes": {
             "en": [
               "Thoracic surgery"
@@ -4543,7 +7330,9 @@
         {
           "id": "cirurgia-pediatrica",
           "canonica": "Cirurgia pediátrica",
-          "aceitas": [],
+          "aceitas": [
+            "Cirurgião pediátrico"
+          ],
           "traducoes": {
             "en": [
               "Pediatric surgery"
@@ -4554,7 +7343,9 @@
         {
           "id": "cirurgia-de-cabeca-e-pescoco",
           "canonica": "Cirurgia de cabeça e pescoço",
-          "aceitas": [],
+          "aceitas": [
+            "Cirurgião de cabeça e pescoço"
+          ],
           "traducoes": {
             "en": [
               "Head and neck surgery"
@@ -4565,14 +7356,19 @@
         {
           "id": "cirurgia-do-aparelho-digestivo",
           "canonica": "Cirurgia do aparelho digestivo",
-          "aceitas": [],
+          "aceitas": [
+            "Cirurgião do aparelho digestivo",
+            "Cirurgia digestiva"
+          ],
           "traducoes": {},
           "raridadeInicial": "epico"
         },
         {
           "id": "cirurgia-da-mao",
           "canonica": "Cirurgia da mão",
-          "aceitas": [],
+          "aceitas": [
+            "Cirurgião da mão"
+          ],
           "traducoes": {
             "en": [
               "Hand surgery"
@@ -4583,7 +7379,10 @@
         {
           "id": "medicina-preventiva-e-social",
           "canonica": "Medicina preventiva e social",
-          "aceitas": [],
+          "aceitas": [
+            "Sanitarista",
+            "Medicina preventiva"
+          ],
           "traducoes": {
             "en": [
               "Preventive medicine"
@@ -4607,7 +7406,9 @@
         {
           "id": "endoscopia",
           "canonica": "Endoscopia",
-          "aceitas": [],
+          "aceitas": [
+            "Endoscopista"
+          ],
           "traducoes": {
             "en": [
               "Endoscopy"
@@ -4618,7 +7419,9 @@
         {
           "id": "cirurgia-oncologica",
           "canonica": "Cirurgia oncológica",
-          "aceitas": [],
+          "aceitas": [
+            "Cirurgião oncológico"
+          ],
           "traducoes": {
             "en": [
               "Surgical oncology"

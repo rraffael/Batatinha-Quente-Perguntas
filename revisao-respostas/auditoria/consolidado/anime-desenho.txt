@@ -1,0 +1,176 @@
+== anm-turma-da-monica    # Cite um personagem da Turma da Mônica (Mauricio de Sousa)
++ Maria Cebolinha |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_personagens_da_Turma_da_M%C3%B4nica    # generica
++ Manezinho |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_personagens_da_Turma_da_M%C3%B4nica    # generica
++ Tonhão |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_personagens_da_Turma_da_M%C3%B4nica    # generica
++ Tia Nena |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_personagens_da_Turma_da_M%C3%B4nica    # profunda
++ Dr. Spam | Doutor Spam |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_personagens_da_Turma_da_M%C3%B4nica    # profunda
++ Sapóleo |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_personagens_da_Turma_da_M%C3%B4nica    # profunda
++ Doutor Olimpo | Dr. Olimpo |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_personagens_da_Turma_da_M%C3%B4nica    # profunda
++ Bruxa Viviane |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_personagens_da_Turma_da_M%C3%B4nica    # profunda
++ Lorde Coelhão |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_personagens_da_Turma_da_M%C3%B4nica    # profunda
+~ Cascuda | Maria Cascuda | https://pt.wikipedia.org/wiki/Lista_de_personagens_da_Turma_da_M%C3%B4nica    # generica
+~ Chico Bento | Chico | https://pt.wikipedia.org/wiki/Lista_de_personagens_da_Turma_da_M%C3%B4nica    # generica
+
+== anm-dragon-ball    # Cite um personagem de Dragon Ball
++ Androide 19 | Número 19 | Android 19 | Androide número 19 | r | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Dragon_Ball    # generica
++ Porunga |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Dragon_Ball    # generica
++ Vovó Uranai | Uranai Baba;Baba | Fortuneteller Baba |  | r | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Dragon_Ball    # generica
++ Vados |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Dragon_Ball    # generica
++ Champa |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Dragon_Ball    # generica
++ Androide 13 | Número 13 | Android 13 |  | e | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Dragon_Ball    # profunda
++ Androide 14 | Número 14 | Android 14 |  | l | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Dragon_Ball    # profunda
++ Androide 15 | Número 15 | Android 15 |  | l | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Dragon_Ball    # profunda
++ Androide 8 | Número 8 | Android 8;Eighter |  | l | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Dragon_Ball    # profunda
++ Super 17 | Super Androide 17 |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Dragon_Ball    # profunda
++ Piccolo Daimaoh | Rei Piccolo;Piccolo Daimao | King Piccolo |  | e | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Dragon_Ball    # profunda
++ Saibaman | Saibamen |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Dragon_Ball    # profunda
++ Nail |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Dragon_Ball    # profunda
++ Rikum | Recoome |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Dragon_Ball    # profunda
++ Gurdo | Guldo |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Dragon_Ball    # profunda
++ Jeese | Jeice |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Dragon_Ball    # profunda
++ Boter | Burter |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Dragon_Ball    # profunda
++ Enma Daioh | Rei Yemma;Enma Daiô | King Yemma |  | e | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Dragon_Ball    # profunda
++ Garlic Jr. | Garlic Junior |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Dragon_Ball    # profunda
++ Rei Vegeta |  | King Vegeta |  | e | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Dragon_Ball    # profunda
++ Mestre Tsuru | Tsuru |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Dragon_Ball    # profunda
++ Tambourine |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Dragon_Ball    # profunda
++ Spopovich |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Dragon_Ball    # profunda
++ Kibito |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Dragon_Ball    # profunda
++ Frost |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Dragon_Ball    # profunda
++ Gowasu |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Dragon_Ball    # profunda
++ Dr. Myu | Doutor Myu |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Dragon_Ball    # profunda
++ Paragus |  |  |  | e | https://en.wikipedia.org/wiki/List_of_Dragon_Ball_characters    # listas
++ Kale |  |  |  | l | https://en.wikipedia.org/wiki/List_of_Dragon_Ball_characters    # listas
+~ Mr. Satan | Mister Satan;Sr. Satan;Hércules | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Dragon_Ball    # generica
+~ Piccolo | Piccolo Jr.;Piccolo Junior | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Dragon_Ball    # generica
+~ Majin Boo | Kid Boo;Super Boo | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Dragon_Ball    # generica
+~ Androide 17 | Lapis;Ciborgue 17 | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Dragon_Ball    # profunda
+~ Androide 18 | Lazuli;Ciborgue 18 | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Dragon_Ball    # profunda
+~ Dr. Gero | Dr. Maki | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Dragon_Ball    # profunda
+
+== anm-naruto    # Cite um personagem de Naruto
++ Akamaru |  |  |  | i | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto    # generica
++ Shizune |  |  |  | i | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto    # generica
++ Onoki |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto    # generica
++ Shukaku |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto    # generica
++ Kimimaro Kaguya | Kimimaro |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto    # generica
++ Tayuya |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto    # generica
++ Shikadai Nara | Shikadai |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto    # generica
++ Chocho Akimichi | Chocho |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto    # generica
++ Inojin Yamanaka | Inojin |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto    # generica
++ Metal Lee |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto    # generica
++ Ibiki Morino | Ibiki |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto    # generica
++ Gamakichi |  |  |  | r | https://naruto.fandom.com/wiki/Gamakichi    # profunda
++ Pakkun |  |  |  | r | https://naruto.fandom.com/wiki/Pakkun    # profunda
++ Katsuyu |  |  |  | r | https://naruto.fandom.com/wiki/Katsuyu    # profunda
++ Manda |  |  |  | r | https://naruto.fandom.com/wiki/Manda    # profunda
++ Kidomaru |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto    # profunda
++ Jirobo |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto    # profunda
++ Sakon |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto    # profunda
++ Ukon |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto    # profunda
++ Chiyo | Anciã Chiyo |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto    # profunda
++ Rasa | Rasa Sabaku |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto    # profunda
++ Baki |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto    # profunda
++ Yugao Uzuki | Yugao |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto    # profunda
++ Darui |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto    # profunda
++ Kurotsuchi |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto    # profunda
++ Chojuro |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto    # profunda
++ Hagoromo Otsutsuki | Hagoromo;Sábio dos Seis Caminhos |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto    # profunda
++ Ashura Otsutsuki | Ashura |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto    # profunda
++ Indra Otsutsuki | Indra |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto    # profunda
++ Momoshiki Otsutsuki | Momoshiki |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto    # profunda
++ Jigen |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto    # profunda
++ Toneri Otsutsuki | Toneri |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto    # profunda
++ Hanabi Hyuga | Hanabi |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto    # profunda
++ Yugito Nii | Yugito |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto    # profunda
++ Matatabi |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto    # profunda
++ Isobu |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto    # profunda
++ Gyuki |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto    # profunda
++ Saiken |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto    # profunda
++ Kokuo |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto    # profunda
++ Han |  |  |  | l | https://en.wikipedia.org/wiki/List_of_Naruto_characters    # listas
++ Roshi |  |  |  | l | https://en.wikipedia.org/wiki/List_of_Naruto_characters    # listas
++ Utakata |  |  |  | l | https://en.wikipedia.org/wiki/List_of_Naruto_characters    # listas
++ Fuu |  |  |  | l | https://en.wikipedia.org/wiki/List_of_Naruto_characters    # listas
++ Yagura Karatachi | Yagura |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto    # listas
+~ Yamato | Tenzou;Tenzo | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto    # generica
+
+== anm-cavaleiros-zodiaco    # Cite um personagem de Os Cavaleiros do Zodíaco
++ June | June de Camaleão |  |  | e | https://en.wikipedia.org/wiki/List_of_Saint_Seiya_characters    # profunda
++ Algol | Algol de Perseu |  |  | e | https://en.wikipedia.org/wiki/List_of_Saint_Seiya_characters    # profunda
++ Orfeu | Orfeu de Lira;Orfeu de Harpa | Orpheus |  | e | https://en.wikipedia.org/wiki/List_of_Saint_Seiya_characters    # profunda
++ Mime | Mime de Benetnasch |  |  | l | https://en.wikipedia.org/wiki/List_of_Saint_Seiya_characters    # profunda
++ Thor | Thor de Phecda |  |  | l | https://en.wikipedia.org/wiki/List_of_Saint_Seiya_characters    # profunda
++ Syd | Syd de Mizar |  |  | l | https://en.wikipedia.org/wiki/List_of_Saint_Seiya_characters    # profunda
++ Bud | Bud de Alcor |  |  | l | https://en.wikipedia.org/wiki/List_of_Saint_Seiya_characters    # profunda
++ Capela | Capela de Cocheiro | Capella |  | l | https://en.wikipedia.org/wiki/List_of_Saint_Seiya_characters    # profunda
++ Dante | Dante de Cérbero |  |  | l | https://en.wikipedia.org/wiki/List_of_Saint_Seiya_characters    # profunda
++ Tremy | Tremy de Escudo |  |  | l | https://pt.wikipedia.org/wiki/Os_Cavaleiros_do_Zod%C3%ADaco    # profunda
+~ Shina | Shaina | https://en.wikipedia.org/wiki/List_of_Saint_Seiya_characters    # generica
+
+== anm-one-piece    # Cite um personagem de One Piece
++ Tashigi |  |  |  | r | https://en.wikipedia.org/wiki/List_of_One_Piece_characters    # generica
++ Nojiko |  |  |  | r | https://en.wikipedia.org/wiki/List_of_One_Piece_characters    # generica
++ Tsuru | Vice-Almirante Tsuru |  |  | e | https://en.wikipedia.org/wiki/List_of_One_Piece_characters    # generica
++ Helmeppo |  |  |  | e | https://en.wikipedia.org/wiki/List_of_One_Piece_characters    # generica
++ Zeff |  |  |  | e | https://en.wikipedia.org/wiki/List_of_One_Piece_characters    # generica
++ Laboon |  |  |  | e | https://en.wikipedia.org/wiki/List_of_One_Piece_characters    # generica
++ Bellamy |  |  |  | e | https://en.wikipedia.org/wiki/List_of_One_Piece_characters    # generica
++ Benn Beckman | Ben Beckman |  |  | e | https://en.wikipedia.org/wiki/List_of_One_Piece_characters    # generica
++ Killer |  |  |  | r | https://en.wikipedia.org/wiki/List_of_One_Piece_characters    # profunda
++ Jewelry Bonney | Bonney |  |  | r | https://en.wikipedia.org/wiki/List_of_One_Piece_characters    # profunda
++ Basil Hawkins | Hawkins |  |  | r | https://en.wikipedia.org/wiki/List_of_One_Piece_characters    # profunda
++ X Drake | Drake |  |  | r | https://en.wikipedia.org/wiki/List_of_One_Piece_characters    # profunda
++ Capone Bege | Bege |  |  | r | https://en.wikipedia.org/wiki/List_of_One_Piece_characters    # profunda
++ Scratchmen Apoo | Apoo |  |  | e | https://en.wikipedia.org/wiki/List_of_One_Piece_characters    # profunda
++ Urouge |  |  |  | e | https://en.wikipedia.org/wiki/List_of_One_Piece_characters    # profunda
++ Yasopp |  |  |  | e | https://en.wikipedia.org/wiki/List_of_One_Piece_characters    # profunda
++ Koala |  |  |  | e | https://en.wikipedia.org/wiki/List_of_One_Piece_characters    # profunda
++ Bellemere |  |  |  | e | https://en.wikipedia.org/wiki/List_of_One_Piece_characters    # profunda
++ Kureha | Dra. Kureha;Doutora Kureha |  |  | e | https://en.wikipedia.org/wiki/List_of_One_Piece_characters    # profunda
++ Dalton |  |  |  | l | https://en.wikipedia.org/wiki/List_of_One_Piece_characters    # profunda
++ Crocus |  |  |  | e | https://en.wikipedia.org/wiki/List_of_One_Piece_characters    # profunda
++ Spandam |  |  |  | e | https://en.wikipedia.org/wiki/List_of_One_Piece_characters    # profunda
++ Kaku |  |  |  | e | https://en.wikipedia.org/wiki/List_of_One_Piece_characters    # profunda
++ Kalifa |  |  |  | e | https://en.wikipedia.org/wiki/List_of_One_Piece_characters    # profunda
++ Hina |  |  |  | e | https://en.wikipedia.org/wiki/List_of_One_Piece_characters    # profunda
++ Orochi | Kurozumi Orochi |  |  | e | https://en.wikipedia.org/wiki/List_of_One_Piece_characters    # profunda
++ Tama |  |  |  | l | https://en.wikipedia.org/wiki/List_of_One_Piece_characters    # profunda
++ Vinsmoke Reiju | Reiju |  |  | l | https://en.wikipedia.org/wiki/List_of_One_Piece_characters    # profunda
++ Vinsmoke Ichiji | Ichiji |  |  | l | https://en.wikipedia.org/wiki/List_of_One_Piece_characters    # profunda
++ Vinsmoke Niji | Niji |  |  | l | https://en.wikipedia.org/wiki/List_of_One_Piece_characters    # profunda
++ Vinsmoke Yonji | Yonji |  |  | l | https://en.wikipedia.org/wiki/List_of_One_Piece_characters    # profunda
++ Vinsmoke Judge | Judge |  |  | e | https://en.wikipedia.org/wiki/List_of_One_Piece_characters    # profunda
++ Edward Weevil | Weevil |  |  | l | https://en.wikipedia.org/wiki/List_of_One_Piece_characters    # listas
++ Ryokugyu | Aramaki | Green Bull |  | l | https://en.wikipedia.org/wiki/List_of_One_Piece_characters    # listas
+
+== anm-disney-quadrinhos    # Cite um personagem clássico do universo Disney (Mickey, Pato Donald e turma)
++ Mortimer | Mortimer Mouse |  |  | r | https://en.wikipedia.org/wiki/Mortimer_Mouse    # generica
++ Gadget | Gadget Hackwrench |  |  | r | https://en.wikipedia.org/wiki/Chip_%27n%27_Dale:_Rescue_Rangers    # generica
++ Eta Beta | Eega Beeva |  |  | l | https://en.wikipedia.org/wiki/Eega_Beeva    # profunda
+
+== anm-desenhos-animados    # Cite um desenho animado (série de televisão)
++ A Casa do Mickey Mouse | Casa do Mickey Mouse;Mickey Mouse Clubhouse |  | La casa de Mickey Mouse | i | https://en.wikipedia.org/wiki/Mickey_Mouse_Clubhouse    # generica
++ Os Jovens Titãs | Jovens Titãs;Jovens Titãs em Ação;Teen Titans |  | Los Jóvenes Titanes | i | https://en.wikipedia.org/wiki/Teen_Titans_(TV_series)    # generica
++ Yu Yu Hakusho |  |  |  | i | https://en.wikipedia.org/wiki/Yu_Yu_Hakusho    # generica
++ Samurai X | Rurouni Kenshin |  |  | i | https://en.wikipedia.org/wiki/Rurouni_Kenshin    # generica
++ Beyblade |  |  |  | i | https://en.wikipedia.org/wiki/Beyblade_(anime)    # generica
++ Super Campeões | Capitão Tsubasa;Captain Tsubasa |  |  | i | https://en.wikipedia.org/wiki/Captain_Tsubasa    # generica
++ Death Note |  |  |  | i | https://en.wikipedia.org/wiki/Death_Note_(TV_series)    # generica
++ Attack on Titan | Shingeki no Kyojin;Ataque dos Titãs |  |  | i | https://en.wikipedia.org/wiki/Attack_on_Titan_(TV_series)    # generica
++ Demon Slayer | Kimetsu no Yaiba |  |  | i | https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba    # generica
++ Fullmetal Alchemist |  |  |  | i | https://en.wikipedia.org/wiki/Fullmetal_Alchemist_(2003_TV_series)    # generica
++ Hunter x Hunter |  |  |  | i | https://en.wikipedia.org/wiki/Hunter_%C3%97_Hunter_(2011_TV_series)    # generica
++ My Hero Academia | Boku no Hero Academia |  |  | i | https://en.wikipedia.org/wiki/My_Hero_Academia    # generica
++ Bleach |  |  |  | i | https://en.wikipedia.org/wiki/Bleach_(TV_series)    # generica
++ Inuyasha |  |  |  | i | https://en.wikipedia.org/wiki/Inuyasha_(TV_series)    # generica
++ Gasparzinho | Gasparzinho, o Fantasminha Camarada | Casper the Friendly Ghost |  | i | https://en.wikipedia.org/wiki/Casper_the_Friendly_Ghost    # generica
++ Alvin e os Esquilos |  | Alvin and the Chipmunks | Alvin y las Ardillas | i | https://en.wikipedia.org/wiki/Alvin_and_the_Chipmunks    # generica
++ Gravity Falls |  |  |  | i | https://en.wikipedia.org/wiki/Gravity_Falls    # generica
++ Samurai Jack |  |  |  | r | https://en.wikipedia.org/wiki/Samurai_Jack    # generica
++ Capitão Planeta | Capitão Planeta e os Planetários | Captain Planet and the Planeteers |  | r | https://en.wikipedia.org/wiki/Captain_Planet_and_the_Planeteers    # generica
++ Taz-Mania | Tazmânia |  |  | r | https://en.wikipedia.org/wiki/Taz-Mania    # generica
++ Mundo Bita |  |  |  | i | https://pt.wikipedia.org/wiki/Mundo_Bita    # generica
+~ Dragon Ball Z | Dragon Ball Super;Dragon Ball GT;Dragon Ball Kai | https://en.wikipedia.org/wiki/Dragon_Ball    # generica
+~ Looney Tunes | Turma do Pernalonga | https://en.wikipedia.org/wiki/Looney_Tunes    # generica
+~ O Laboratório de Dexter | Laboratório de Dexter | https://pt.wikipedia.org/wiki/O_Laborat%C3%B3rio_de_Dexter    # generica

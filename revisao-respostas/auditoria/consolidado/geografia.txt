@@ -1,0 +1,110 @@
+== geo-paises-europa    # Cite um país da Europa
+~ Irlanda | República da Irlanda | https://pt.wikipedia.org/wiki/Rep%C3%BAblica_da_Irlanda    # profunda
+
+== geo-paises-africa    # Cite um país da África
+~ Burkina Faso | Burquina Faso | https://pt.wikipedia.org/wiki/Burquina_Fasso    # generica
+
+== geo-paises-asia    # Cite um país da Ásia
+~ Brunei | Brunei Darussalam | https://pt.wikipedia.org/wiki/Brunei    # generica
+
+== geo-paises-americas    # Cite um país das Américas
+~ São Cristóvão e Névis | Saint Kitts e Nevis;Saint Kitts | https://pt.wikipedia.org/wiki/S%C3%A3o_Crist%C3%B3v%C3%A3o_e_N%C3%A9vis    # generica
+~ São Vicente e Granadinas | Saint Vincent e Granadinas;Saint Vincent | https://pt.wikipedia.org/wiki/S%C3%A3o_Vicente_e_Granadinas    # generica
+
+== geo-uf-brasil    # Cite um estado brasileiro (ou o Distrito Federal)
+~ Minas Gerais | Minas | https://pt.wikipedia.org/wiki/Minas_Gerais    # listas
+
+== geo-capitais-europa    # Cite a capital de um país europeu
+~ Astana | Nur-Sultan | https://pt.wikipedia.org/wiki/Astana    # profunda,listas
+~ Vilnius | Vilna | https://pt.wikipedia.org/wiki/Vilnius    # profunda,listas
+~ Tbilisi | Tiblíssi | https://pt.wikipedia.org/wiki/Tbilisi    # listas
+
+== geo-rios-brasil    # Cite um rio brasileiro
++ Ivaí | Rio Ivaí |  |  | r | https://pt.wikipedia.org/wiki/Rio_Iva%C3%AD    # profunda,listas
++ Tibagi | Rio Tibagi;Tibaji |  |  | r | https://pt.wikipedia.org/wiki/Rio_Tibagi https://pt.wikipedia.org/wiki/Rio_Tibaji    # profunda,listas
++ Paranaíba | Rio Paranaíba |  |  | i | https://pt.wikipedia.org/wiki/Rio_Parana%C3%ADba    # profunda,listas
++ Rio das Mortes | Das Mortes |  |  | r | https://pt.wikipedia.org/wiki/Rio_das_Mortes    # profunda,listas
++ Aquidauana | Rio Aquidauana |  |  | r | https://pt.wikipedia.org/wiki/Rio_Aquidauana    # profunda,listas
++ Miranda | Rio Miranda |  |  | r | https://pt.wikipedia.org/wiki/Rio_Miranda    # profunda,listas
++ São Lourenço | Rio São Lourenço |  |  | e | https://pt.wikipedia.org/wiki/Rio_S%C3%A3o_Louren%C3%A7o    # profunda
++ Paraíba | Rio Paraíba;Paraíba do Norte |  |  | r | https://pt.wikipedia.org/wiki/Rio_Para%C3%ADba    # profunda,listas
++ Potengi | Rio Potengi |  |  | r | https://pt.wikipedia.org/wiki/Rio_Potengi    # profunda,listas
++ Piranhas-Açu | Rio Piranhas-Açu;Piranhas;Açu;Piranhas-Assu |  |  | r | https://pt.wikipedia.org/wiki/Rio_Piranhas-A%C3%A7u https://pt.wikipedia.org/wiki/Rio_Piranhas%E2%80%93A%C3%A7u    # profunda,listas
++ Ipojuca | Rio Ipojuca |  |  | e | https://pt.wikipedia.org/wiki/Rio_Ipojuca    # profunda
++ São Mateus | Rio São Mateus |  |  | e | https://pt.wikipedia.org/wiki/Rio_S%C3%A3o_Mateus    # profunda
++ Itapemirim | Rio Itapemirim |  |  | e | https://pt.wikipedia.org/wiki/Rio_Itapemirim    # profunda,listas
++ Pomba | Rio Pomba |  |  | l | https://pt.wikipedia.org/wiki/Rio_Pomba    # profunda
++ Muriaé | Rio Muriaé |  |  | r | https://pt.wikipedia.org/wiki/Rio_Muria%C3%A9    # profunda,listas
++ Atibaia | Rio Atibaia |  |  | e | https://pt.wikipedia.org/wiki/Rio_Atibaia    # profunda
++ Jundiaí | Rio Jundiaí |  |  | r | https://pt.wikipedia.org/wiki/Rio_Jundia%C3%AD    # profunda,listas
++ Tamanduateí | Rio Tamanduateí |  |  | r | https://pt.wikipedia.org/wiki/Rio_Tamanduate%C3%AD    # profunda,listas
++ Sorocaba | Rio Sorocaba |  |  | e | https://pt.wikipedia.org/wiki/Rio_Sorocaba    # profunda
++ Rio dos Sinos | Sinos;Dos Sinos |  |  | r | https://pt.wikipedia.org/wiki/Rio_dos_Sinos    # profunda,listas
++ Gravataí | Rio Gravataí |  |  | e | https://pt.wikipedia.org/wiki/Rio_Gravata%C3%AD    # profunda,listas
++ Camaquã | Rio Camaquã |  |  | e | https://pt.wikipedia.org/wiki/Rio_Camaqu%C3%A3    # profunda,listas
++ Ibicuí | Rio Ibicuí |  |  | e | https://pt.wikipedia.org/wiki/Rio_Ibicu%C3%AD    # profunda,listas
++ Pelotas | Rio Pelotas |  |  | e | https://pt.wikipedia.org/wiki/Rio_Pelotas    # profunda,listas
++ Canoas | Rio Canoas |  |  | e | https://pt.wikipedia.org/wiki/Rio_Canoas_(Santa_Catarina) https://pt.wikipedia.org/wiki/Rio_Canoas    # profunda,listas
++ Chapecó | Rio Chapecó |  |  | e | https://pt.wikipedia.org/wiki/Rio_Chapec%C3%B3    # profunda
++ Tubarão | Rio Tubarão |  |  | e | https://pt.wikipedia.org/wiki/Rio_Tubar%C3%A3o    # profunda
++ Piquiri | Rio Piquiri |  |  | e | https://pt.wikipedia.org/wiki/Rio_Piquiri    # profunda,listas
++ Apa | Rio Apa |  |  | l | https://pt.wikipedia.org/wiki/Rio_Apa    # profunda
++ Uaupés | Rio Uaupés |  |  | e | https://pt.wikipedia.org/wiki/Rio_Uaup%C3%A9s    # profunda
++ Tefé | Rio Tefé |  |  | e | https://pt.wikipedia.org/wiki/Rio_Tef%C3%A9    # profunda,listas
++ Nhamundá | Rio Nhamundá |  |  | e | https://pt.wikipedia.org/wiki/Rio_Nhamund%C3%A1    # profunda,listas
++ Jamari | Rio Jamari |  |  | e | https://pt.wikipedia.org/wiki/Rio_Jamari    # profunda
++ Ji-Paraná | Rio Ji-Paraná;Machado |  |  | r | https://pt.wikipedia.org/wiki/Rio_Ji-Paran%C3%A1    # profunda,listas
++ Roosevelt | Rio Roosevelt;Rio da Dúvida |  |  | r | https://pt.wikipedia.org/wiki/Rio_Roosevelt    # profunda,listas
++ Acre | Rio Acre |  |  | r | https://pt.wikipedia.org/wiki/Rio_Acre    # profunda,listas
++ Tarauacá | Rio Tarauacá |  |  | e | https://pt.wikipedia.org/wiki/Rio_Tarauac%C3%A1    # profunda,listas
++ Abunã | Rio Abunã |  |  | e | https://pt.wikipedia.org/wiki/Rio_Abun%C3%A3    # profunda
++ Guamá | Rio Guamá |  |  | r | https://pt.wikipedia.org/wiki/Rio_Guam%C3%A1    # profunda,listas
++ Capim | Rio Capim |  |  | e | https://pt.wikipedia.org/wiki/Rio_Capim    # profunda
++ Moju | Rio Moju |  |  | e | https://pt.wikipedia.org/wiki/Rio_Moju    # profunda,listas
++ Acará | Rio Acará |  |  | e | https://pt.wikipedia.org/wiki/Rio_Acar%C3%A1    # profunda
++ Pará | Rio Pará |  |  | e | https://pt.wikipedia.org/wiki/Rio_Par%C3%A1    # profunda
++ Araguari | Rio Araguari |  |  | e | https://pt.wikipedia.org/wiki/Rio_Araguari_(Amap%C3%A1)    # profunda
++ Uraricoera | Rio Uraricoera |  |  | e | https://pt.wikipedia.org/wiki/Rio_Uraricoera    # profunda
++ Tacutu | Rio Tacutu |  |  | e | https://pt.wikipedia.org/wiki/Rio_Tacutu    # profunda
++ Mucajaí | Rio Mucajaí |  |  | e | https://pt.wikipedia.org/wiki/Rio_Mucaja%C3%AD    # profunda
++ Pindaré | Rio Pindaré |  |  | r | https://pt.wikipedia.org/wiki/Rio_Pindar%C3%A9    # profunda,listas
++ Grajaú | Rio Grajaú |  |  | e | https://pt.wikipedia.org/wiki/Rio_Graja%C3%BA_(Maranh%C3%A3o)    # profunda
++ Munim | Rio Munim |  |  | e | https://pt.wikipedia.org/wiki/Rio_Munim    # profunda
++ Gurgueia | Rio Gurgueia |  |  | e | https://pt.wikipedia.org/wiki/Rio_Gurgueia    # profunda
++ Canindé | Rio Canindé |  |  | e | https://pt.wikipedia.org/wiki/Rio_Canind%C3%A9_(Piau%C3%AD)    # profunda
++ Banabuiú | Rio Banabuiú |  |  | e | https://pt.wikipedia.org/wiki/Rio_Banabui%C3%BA    # profunda
++ Apodi-Mossoró | Rio Apodi-Mossoró;Rio Apodi;Rio Mossoró;Apodi;Mossoró |  |  | e | https://pt.wikipedia.org/wiki/Rio_Apodi    # profunda
++ Goiana | Rio Goiana |  |  | l | https://pt.wikipedia.org/wiki/Rio_Goiana    # profunda
++ Mundaú | Rio Mundaú |  |  | e | https://pt.wikipedia.org/wiki/Rio_Munda%C3%BA_(Alagoas)    # profunda
++ Sergipe | Rio Sergipe |  |  | r | https://pt.wikipedia.org/wiki/Rio_Sergipe    # profunda,listas
++ Real | Rio Real |  |  | e | https://pt.wikipedia.org/wiki/Rio_Real_(Brasil)    # profunda
++ Itapicuru | Rio Itapicuru |  |  | e | https://pt.wikipedia.org/wiki/Rio_Itapicuru    # profunda
++ Jacuípe | Rio Jacuípe |  |  | e | https://pt.wikipedia.org/wiki/Rio_Jacu%C3%ADpe_(Bahia)    # profunda
++ Cachoeira | Rio Cachoeira |  |  | e | https://pt.wikipedia.org/wiki/Rio_Cachoeira_(Bahia)    # profunda
++ Corrente | Rio Corrente |  |  | e | https://pt.wikipedia.org/wiki/Rio_Corrente_(Bahia)    # profunda
++ Paracatu | Rio Paracatu |  |  | r | https://pt.wikipedia.org/wiki/Rio_Paracatu    # profunda,listas
++ Urucuia | Rio Urucuia |  |  | r | https://pt.wikipedia.org/wiki/Rio_Urucuia    # profunda,listas
++ Manhuaçu | Rio Manhuaçu |  |  | l | https://pt.wikipedia.org/wiki/Rio_Manhua%C3%A7u    # profunda
++ Culuene | Rio Culuene |  |  | e | https://pt.wikipedia.org/wiki/Rio_Culuene    # profunda
++ Corumbá | Rio Corumbá |  |  | r | https://pt.wikipedia.org/wiki/Rio_Corumb%C3%A1    # profunda,listas
++ Meia Ponte | Rio Meia Ponte |  |  | r | https://pt.wikipedia.org/wiki/Rio_Meia_Ponte https://pt.wikipedia.org/wiki/Rio_Meia-Ponte    # profunda,listas
++ Rio do Sono |  |  |  | e | https://pt.wikipedia.org/wiki/Rio_do_Sono    # profunda
++ Guandu | Rio Guandu |  |  | r | https://pt.wikipedia.org/wiki/Rio_Guandu    # profunda,listas
++ Macaé | Rio Macaé |  |  | e | https://pt.wikipedia.org/wiki/Rio_Maca%C3%A9    # profunda
++ Carioca | Rio Carioca |  |  | e | https://pt.wikipedia.org/wiki/Rio_Carioca    # profunda,listas
++ Caí | Rio Caí |  |  | e | https://pt.wikipedia.org/wiki/Rio_Ca%C3%AD    # profunda,listas
++ Quaraí | Rio Quaraí |  |  | e | https://pt.wikipedia.org/wiki/Rio_Quara%C3%AD    # profunda,listas
++ Jaguarão | Rio Jaguarão |  |  | e | https://pt.wikipedia.org/wiki/Rio_Jaguar%C3%A3o    # profunda,listas
++ Paraibuna | Rio Paraibuna |  |  | l | https://pt.wikipedia.org/wiki/Rio_Paraibuna    # profunda
++ Juquiá | Rio Juquiá |  |  | l | https://pt.wikipedia.org/wiki/Rio_Juqui%C3%A1    # profunda
++ Belém | Rio Belém |  |  | l | https://pt.wikipedia.org/wiki/Rio_Bel%C3%A9m    # profunda
++ Capivari |  |  |  | r | https://pt.wikipedia.org/wiki/Rio_Capivari    # listas
++ Acaraú |  |  |  | e | https://pt.wikipedia.org/wiki/Rio_Acara%C3%BA    # listas
++ Preguiças |  |  |  | r | https://pt.wikipedia.org/wiki/Rio_Pregui%C3%A7as    # listas
++ Rio das Antas | Das Antas;Antas |  |  | e | https://pt.wikipedia.org/wiki/Rio_das_Antas    # listas
++ Envira |  |  |  | e | https://pt.wikipedia.org/wiki/Rio_Envira    # listas
++ Descoberto | Rio Descoberto |  |  | r | https://pt.wikipedia.org/wiki/Rio_Descoberto    # listas
++ Sucuriú | Rio Sucuriú |  |  | r | https://pt.wikipedia.org/wiki/Rio_Sucuri%C3%BA    # listas
++ Aporé | Rio Aporé |  |  | e | https://pt.wikipedia.org/wiki/Rio_Apor%C3%A9    # listas
++ Itajaí-Mirim | Rio Itajaí-Mirim |  |  | e | https://pt.wikipedia.org/wiki/Rio_Itaja%C3%AD-Mirim    # listas
+~ Rio das Velhas | Das Velhas | https://pt.wikipedia.org/wiki/Rio_das_Velhas    # listas

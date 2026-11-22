@@ -1,0 +1,96 @@
+== lpt-escritores-lusofonos
++ Almada Negreiros |  |  |  | r | https://pt.wikipedia.org/wiki/Almada_Negreiros
++ António Nobre |  |  |  | r | https://pt.wikipedia.org/wiki/Ant%C3%B3nio_Nobre
++ Miguel Esteves Cardoso |  |  |  | r | https://pt.wikipedia.org/wiki/Miguel_Esteves_Cardoso
++ Bernardim Ribeiro |  |  |  | r | https://pt.wikipedia.org/wiki/Bernardim_Ribeiro
++ José Craveirinha |  |  |  | r | https://pt.wikipedia.org/wiki/Jos%C3%A9_Craveirinha
++ Mário Cesariny |  |  |  | e | https://pt.wikipedia.org/wiki/M%C3%A1rio_Cesariny
++ Raul Brandão |  |  |  | e | https://pt.wikipedia.org/wiki/Raul_Brand%C3%A3o
++ Aquilino Ribeiro |  |  |  | e | https://pt.wikipedia.org/wiki/Aquilino_Ribeiro
++ Fernando Namora |  |  |  | e | https://pt.wikipedia.org/wiki/Fernando_Namora
++ José Cardoso Pires |  |  |  | e | https://pt.wikipedia.org/wiki/Jos%C3%A9_Cardoso_Pires
++ Miguel Sousa Tavares |  |  |  | e | https://pt.wikipedia.org/wiki/Miguel_Sousa_Tavares
++ Dulce Maria Cardoso |  |  |  | e | https://pt.wikipedia.org/wiki/Dulce_Maria_Cardoso
++ Ramalho Ortigão |  |  |  | e | https://pt.wikipedia.org/wiki/Ramalho_Ortig%C3%A3o
++ Guerra Junqueiro |  |  |  | e | https://pt.wikipedia.org/wiki/Guerra_Junqueiro
++ Sá de Miranda |  |  |  | e | https://pt.wikipedia.org/wiki/Francisco_de_S%C3%A1_de_Miranda
++ Gomes Leal |  |  |  | l | https://pt.wikipedia.org/wiki/Gomes_Leal
++ Natália Correia |  |  |  | e | https://pt.wikipedia.org/wiki/Nat%C3%A1lia_Correia
++ Vitorino Nemésio |  |  |  | e | https://pt.wikipedia.org/wiki/Vitorino_Nem%C3%A9sio
++ Jorge de Sena |  |  |  | e | https://pt.wikipedia.org/wiki/Jorge_de_Sena
++ José Gomes Ferreira |  |  |  | l | https://pt.wikipedia.org/wiki/Jos%C3%A9_Gomes_Ferreira
++ Alves Redol |  |  |  | l | https://pt.wikipedia.org/wiki/Alves_Redol
++ Soeiro Pereira Gomes |  |  |  | l | https://pt.wikipedia.org/wiki/Soeiro_Pereira_Gomes
++ Manuel da Fonseca |  |  |  | l | https://pt.wikipedia.org/wiki/Manuel_da_Fonseca
++ Carlos de Oliveira |  |  |  | l | https://pt.wikipedia.org/wiki/Carlos_de_Oliveira
++ Almeida Faria |  |  |  | l | https://pt.wikipedia.org/wiki/Almeida_Faria
++ Mário de Carvalho |  |  |  | l | https://pt.wikipedia.org/wiki/M%C3%A1rio_de_Carvalho
++ Camilo Pessanha |  |  |  | e | https://pt.wikipedia.org/wiki/Camilo_Pessanha
++ Damião de Góis |  |  |  | l | https://pt.wikipedia.org/wiki/Dami%C3%A3o_de_G%C3%B3is
++ Garcia de Resende |  |  |  | l | https://pt.wikipedia.org/wiki/Garcia_de_Resende
++ Francisco Manuel de Melo |  |  |  | l | https://pt.wikipedia.org/wiki/Francisco_Manuel_de_Melo
++ Fialho de Almeida |  |  |  | l | https://pt.wikipedia.org/wiki/Fialho_de_Almeida
++ Luís Bernardo Honwana |  |  |  | e | https://pt.wikipedia.org/wiki/Lu%C3%ADs_Bernardo_Honwana
++ Noémia de Sousa |  |  |  | e | https://pt.wikipedia.org/wiki/No%C3%A9mia_de_Sousa
++ Eduardo White |  |  |  | l | https://pt.wikipedia.org/wiki/Eduardo_White
++ Ungulani Ba Ka Khosa |  |  |  | l | https://pt.wikipedia.org/wiki/Ungulani_Ba_Ka_Khosa
++ Manuel Rui |  |  |  | e | https://pt.wikipedia.org/wiki/Manuel_Rui
++ Ruy Duarte de Carvalho |  |  |  | l | https://pt.wikipedia.org/wiki/Ruy_Duarte_de_Carvalho
++ Ana Paula Tavares |  |  |  | e | https://pt.wikipedia.org/wiki/Ana_Paula_Tavares
++ Boaventura Cardoso |  |  |  | l | https://pt.wikipedia.org/wiki/Boaventura_Cardoso
++ Uanhenga Xitu |  |  |  | l | https://pt.wikipedia.org/wiki/Uanhenga_Xitu
++ Mário Pinto de Andrade |  |  |  | l | https://pt.wikipedia.org/wiki/M%C3%A1rio_Pinto_de_Andrade
++ Viriato da Cruz |  |  |  | l | https://pt.wikipedia.org/wiki/Viriato_da_Cruz
++ Alda Lara |  |  |  | l | https://pt.wikipedia.org/wiki/Alda_Lara
++ Manuel Lopes |  |  |  | l | https://pt.wikipedia.org/wiki/Manuel_Lopes
++ Jorge Barbosa |  |  |  | l | https://pt.wikipedia.org/wiki/Jorge_Barbosa
++ Orlanda Amarílis |  |  |  | l | https://pt.wikipedia.org/wiki/Orlanda_Amar%C3%ADlis
++ Francisco José Tenreiro |  |  |  | l | https://pt.wikipedia.org/wiki/Francisco_Jos%C3%A9_Tenreiro
++ Conceição Lima |  |  |  | l | https://pt.wikipedia.org/wiki/Concei%C3%A7%C3%A3o_Lima
++ Alda Espírito Santo |  |  |  | l | https://pt.wikipedia.org/wiki/Alda_do_Esp%C3%ADrito_Santo
++ Orlando da Costa |  |  |  | l | https://pt.wikipedia.org/wiki/Orlando_da_Costa
+~ Luís de Camões | Luís Vaz de Camões;Luiz Vaz de Camões | https://pt.wikipedia.org/wiki/Lu%C3%ADs_de_Cam%C3%B5es
+== lpt-escritores-brasileiros
++ Guilherme de Almeida |  |  |  | l | https://pt.wikipedia.org/wiki/Guilherme_de_Almeida
++ Menotti Del Picchia |  |  |  | l | https://pt.wikipedia.org/wiki/Menotti_Del_Picchia
++ Cassiano Ricardo |  |  |  | l | https://pt.wikipedia.org/wiki/Cassiano_Ricardo
++ Raul Bopp |  |  |  | l | https://pt.wikipedia.org/wiki/Raul_Bopp
++ Murilo Rubião |  |  |  | l | https://pt.wikipedia.org/wiki/Murilo_Rubi%C3%A3o
++ Osman Lins |  |  |  | l | https://pt.wikipedia.org/wiki/Osman_Lins
++ Cornélio Penna |  |  |  | l | https://pt.wikipedia.org/wiki/Corn%C3%A9lio_Penna
++ Franklin Távora |  |  |  | l | https://pt.wikipedia.org/wiki/Franklin_T%C3%A1vora
++ Inglês de Sousa |  |  |  | l | https://pt.wikipedia.org/wiki/Ingl%C3%AAs_de_Sousa
++ Afonso Arinos |  |  |  | l | https://pt.wikipedia.org/wiki/Afonso_Arinos
++ Graça Aranha |  |  |  | l | https://pt.wikipedia.org/wiki/Gra%C3%A7a_Aranha
++ Adolfo Caminha |  |  |  | l | https://pt.wikipedia.org/wiki/Adolfo_Caminha
++ Júlio Ribeiro |  |  |  | l | https://pt.wikipedia.org/wiki/J%C3%BAlio_Ribeiro
++ Sousândrade |  |  |  | l | https://pt.wikipedia.org/wiki/Sous%C3%A2ndrade
++ Vicente de Carvalho |  |  |  | l | https://pt.wikipedia.org/wiki/Vicente_de_Carvalho
++ Alberto de Oliveira |  |  |  | l | https://pt.wikipedia.org/wiki/Alberto_de_Oliveira
++ Emílio de Menezes |  |  |  | l | https://pt.wikipedia.org/wiki/Em%C3%ADlio_de_Menezes
++ Mário Faustino |  |  |  | l | https://pt.wikipedia.org/wiki/M%C3%A1rio_Faustino
++ Décio Pignatari |  |  |  | l | https://pt.wikipedia.org/wiki/D%C3%A9cio_Pignatari
++ Carlos Nejar |  |  |  | l | https://pt.wikipedia.org/wiki/Carlos_Nejar
++ Torquato Neto |  |  |  | l | https://pt.wikipedia.org/wiki/Torquato_Neto
++ Ana Cristina Cesar |  |  |  | l | https://pt.wikipedia.org/wiki/Ana_Cristina_Cesar
++ Solano Trindade |  |  |  | l | https://pt.wikipedia.org/wiki/Solano_Trindade
++ Auta de Souza |  |  |  | l | https://pt.wikipedia.org/wiki/Auta_de_Souza
++ Nísia Floresta |  |  |  | l | https://pt.wikipedia.org/wiki/N%C3%ADsia_Floresta
++ Júlia Lopes de Almeida |  |  |  | l | https://pt.wikipedia.org/wiki/J%C3%BAlia_Lopes_de_Almeida
++ Campos de Carvalho |  |  |  | l | https://pt.wikipedia.org/wiki/Campos_de_Carvalho
++ Rodolfo Teófilo |  |  |  | l | https://pt.wikipedia.org/wiki/Rodolfo_Te%C3%B3filo
++ Domingos Olímpio |  |  |  | l | https://pt.wikipedia.org/wiki/Domingos_Ol%C3%ADmpio
++ Cyro dos Anjos |  |  |  | l | https://pt.wikipedia.org/wiki/Cyro_dos_Anjos
++ Otto Lara Resende |  |  |  | l | https://pt.wikipedia.org/wiki/Otto_Lara_Resende
++ Paulo Mendes Campos |  |  |  | l | https://pt.wikipedia.org/wiki/Paulo_Mendes_Campos
++ Carlos Heitor Cony |  |  |  | l | https://pt.wikipedia.org/wiki/Carlos_Heitor_Cony
++ Marçal Aquino |  |  |  | l | https://pt.wikipedia.org/wiki/Mar%C3%A7al_Aquino
++ Lourenço Mutarelli |  |  |  | l | https://pt.wikipedia.org/wiki/Louren%C3%A7o_Mutarelli
++ Jeferson Tenório |  |  |  | l | https://pt.wikipedia.org/wiki/Jeferson_Ten%C3%B3rio
++ Ana Paula Maia |  |  |  | l | https://pt.wikipedia.org/wiki/Ana_Paula_Maia
++ Narcisa Amália |  |  |  | l | https://pt.wikipedia.org/wiki/Narcisa_Am%C3%A1lia
++ Francisca Júlia |  |  |  | l | https://pt.wikipedia.org/wiki/Francisca_J%C3%BAlia
++ Ledo Ivo |  |  |  | l | https://pt.wikipedia.org/wiki/Ledo_Ivo
++ Affonso Romano de Sant'Anna |  |  |  | l | https://pt.wikipedia.org/wiki/Affonso_Romano_de_Sant'Anna
++ Sérgio Porto | Stanislaw Ponte Preta |  |  | e | https://pt.wikipedia.org/wiki/S%C3%A9rgio_Porto
++ Patrícia Galvão | Pagu |  |  | e | https://pt.wikipedia.org/wiki/Patr%C3%ADcia_Galv%C3%A3o

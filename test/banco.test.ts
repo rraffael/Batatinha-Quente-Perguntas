@@ -35,3 +35,52 @@ describe('banco de perguntas real', () => {
     expect(problemas).toEqual([]);
   });
 });
+
+// Nomes que só diferem pelo número (Ramsés I, Ramsés II) são uma resposta só, valendo com ou
+// sem número, em romano ou algarismo. Obras e produtos (filmes, séries, animes, novelas, jogos,
+// consoles) são exceção: cada número é uma resposta separada.
+describe('respostas numeradas', () => {
+  const TEMAS_OBRAS = new Set(['cinema-tv', 'anime-desenho', 'novelas-tv-br', 'games']);
+  // Pessoas que também tinham um nome numerado, mas não são do grupo com o nome sem número
+  // (Akhenaton era Amenófis IV; Cesarião era Ptolomeu XV). Para elas, só o algarismo é checado.
+  const NOME_PROPRIO = new Set(['his-faraos#akhenaton', 'his-faraos#cesariao']);
+  const ROMANO = /\s(X{0,3}(?:IX|IV|V?I{0,3}))$/;
+  const VALOR: Record<string, number> = { I: 1, V: 5, X: 10 };
+  const paraNumero = (r: string) =>
+    [...r].reduce((t, c, i) => t + (VALOR[c] < (VALOR[r[i + 1]] ?? 0) ? -VALOR[c] : VALOR[c]), 0);
+  const todas = BANCO.elegiveis({
+    temas: BANCO.temas.map((t) => t.id),
+    dificeis: true,
+    vidas: 3,
+    ritmo: 'normal',
+    maxJogadores: 8,
+    publica: false,
+  });
+
+  it('o nome sem número e a versão em algarismo caem na mesma resposta', () => {
+    const problemas: string[] = [];
+    for (const id of todas) {
+      const p = BANCO.pergunta(id)!;
+      if (TEMAS_OBRAS.has(p.tema)) continue;
+      const indice = BANCO.indice(id);
+      for (const r of p.respostas) {
+        for (const forma of [r.canonica, ...r.aceitas]) {
+          const m = forma.match(ROMANO);
+          if (!m || !m[1]) continue;
+          const base = forma.slice(0, m.index);
+          const algarismo = `${base} ${paraNumero(m[1])}`;
+          const tentativas = NOME_PROPRIO.has(`${id}#${r.id}`) ? [algarismo] : [base, algarismo];
+          for (const tentativa of tentativas) {
+            const res = casar(indice, tentativa, new Set());
+            // A base pode não existir sozinha (Amósis I não vira "Amósis" se não houver forma);
+            // o que não pode é cair em OUTRA resposta ou ficar ambígua.
+            if (res.ok ? res.id !== r.id : res.motivo === 'ambigua') {
+              problemas.push(`${id}: "${tentativa}" (de "${forma}", ${r.id}) → ${res.ok ? res.id : res.motivo}`);
+            }
+          }
+        }
+      }
+    }
+    expect(problemas).toEqual([]);
+  });
+});

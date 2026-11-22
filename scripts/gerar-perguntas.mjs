@@ -117,8 +117,45 @@ function gerarTema(arquivo) {
     atual.respostas.push({ id: slug(canonica), canonica, aceitas, traducoes, raridadeInicial: rar });
   });
 
-  for (const p of tema.perguntas) calibrar(p.respostas);
+  for (const p of tema.perguntas) {
+    comAlgarismos(p.respostas);
+    calibrar(p.respostas);
+  }
   return tema;
+}
+
+// "Ramsés II" também deve aceitar "Ramsés 2". "X" sozinho só vale quando a resposta já tem outro
+// número romano (Ramsés X); senão é letra (Professor X, Arquivo X, Xbox Series X).
+// Só entra se a forma nova não for de outra resposta.
+const ROMANO_FINAL = /\s(X{0,3}(?:IX|IV|V?I{0,3}))$/;
+const VALOR_ROMANO = { I: 1, V: 5, X: 10 };
+
+function romanoParaNumero(r) {
+  let total = 0;
+  for (let i = 0; i < r.length; i++) {
+    const v = VALOR_ROMANO[r[i]];
+    total += v < (VALOR_ROMANO[r[i + 1]] ?? 0) ? -v : v;
+  }
+  return total;
+}
+
+function comAlgarismos(respostas) {
+  const existentes = new Set(respostas.flatMap((r) => [r.canonica, ...r.aceitas].map(normalizar)));
+  const novas = new Map(); // forma normalizada -> respostas que a gerariam
+  for (const r of respostas) {
+    const formas = [r.canonica, ...r.aceitas];
+    const temSequencia = formas.some((f) => { const m = f.match(ROMANO_FINAL); return m && m[1] && m[1] !== "X"; });
+    for (const forma of formas) {
+      const m = forma.match(ROMANO_FINAL);
+      if (!m || !m[1] || (m[1] === "X" && !temSequencia)) continue;
+      const nova = forma.slice(0, m.index) + " " + romanoParaNumero(m[1]);
+      const k = normalizar(nova);
+      if (existentes.has(k)) continue;
+      const lista = novas.get(k) ?? novas.set(k, []).get(k);
+      if (!lista.some((x) => x.r === r)) lista.push({ r, nova });
+    }
+  }
+  for (const lista of novas.values()) if (lista.length === 1) lista[0].r.aceitas.push(lista[0].nova);
 }
 
 const arquivos = readdirSync(dirFontes).filter((f) => f.endsWith(".txt")).sort();

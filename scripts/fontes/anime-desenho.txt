@@ -1,12 +1,12 @@
 tema: anime-desenho
 nome: Animes, Desenhos e Quadrinhos
 
-== anm-turma-da-monica | Cite um personagem da Turma da Mônica (Mauricio de Sousa) | facil | turma da mônica;quadrinhos;brasil | https://pt.wikipedia.org/wiki/Lista_de_personagens_da_Turma_da_M%C3%B4nica
+== anm-turma-da-monica | Cite um personagem dos gibis de Mauricio de Sousa | facil | turma da mônica;quadrinhos;brasil | https://pt.wikipedia.org/wiki/Lista_de_personagens_da_Turma_da_M%C3%B4nica
 Mônica | | | | c
 Cebolinha | | | | c
 Cascão | | | | c
 Magali | | | | c
-Chico Bento | | | | c
+Chico Bento | Chico |  |  | c
 Bidu | | | | c
 Franjinha | | | | c
 Anjinho | | | | c
@@ -25,7 +25,7 @@ Dudu | | | | i
 Nimbus | | | | r
 Denise | | | | i
 Carminha Frufru | | | | r
-Cascuda | | | | r
+Cascuda | Maria Cascuda |  |  | r
 Quinzinho | | | | r
 Penadinho | | | | i
 Horácio | | | | i
@@ -62,17 +62,26 @@ Bugu | | | | l
 Manfredo | | | | l
 Mônica Jovem | | | | e
 Nhô Lau | | | | l
+Maria Cebolinha | r
+Manezinho | r
+Tonhão | r
+Tia Nena | e
+Dr. Spam | Doutor Spam | e
+Sapóleo | e
+Doutor Olimpo | Dr. Olimpo | l
+Bruxa Viviane | l
+Lorde Coelhão | l
 
 == anm-dragon-ball | Cite um personagem de Dragon Ball | media | anime;dragon ball | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Dragon_Ball
 Goku | Son Goku;Kakaroto | | | c
 Vegeta | | | | c
 Gohan | Son Gohan | | | c
-Piccolo | Picolo | | | c
+Piccolo | Picolo;Piccolo Jr.;Piccolo Junior |  |  | c
 Kuririn | Krillin | Krillin | Krilin | c
 Bulma | | | | c
 Freeza | Freezer;Frieza | Frieza | Freezer | c
 Cell | | | | c
-Majin Boo | Boo;Buu;Majin Buu | Majin Buu | | c
+Majin Boo | Boo;Buu;Majin Buu;Kid Boo;Super Boo | Majin Buu |  | c
 Trunks | | | | c
 Goten | Son Goten | | | c
 Mestre Kame | Kame;Mestre Roshi;Kame-Sennin | Master Roshi | Maestro Roshi | c
@@ -81,7 +90,7 @@ Shenlong | Shenron | Shenron | | i
 Yamcha | | | | i
 Tenshinhan | Tien | Tien | Ten Shin Han | i
 Chaos | Chiaotzu | Chiaotzu | | r
-Mr. Satan | Hercule | Hercule | | i
+Mr. Satan | Hercule;Mister Satan | Hercule |  | i
 Videl | | | | i
 Raditz | | | | i
 Nappa | | | | i
@@ -89,8 +98,8 @@ Bardock | | | | i
 Broly | | | | i
 Bills | Beerus | Beerus | | i
 Whis | | | | i
-Androide 17 | Número 17 | Android 17 | Androide número 17 | r
-Androide 18 | Número 18 | Android 18 | Androide número 18 | i
+Androide 17 | Número 17;Lapis | Android 17 | Androide número 17 | r
+Androide 18 | Número 18;Lazuli | Android 18 | Androide número 18 | i
 Androide 16 | Número 16 | Android 16 | | r
 Dr. Gero | Doutor Gero;Androide 20 | | | r
 Gotenks | | | | i
@@ -133,8 +142,37 @@ Cabba | | | | l
 Toppo | | | | l
 Granolah | | | | l
 Gamma 1 | | | | l
+Androide 19 | Número 19 | Android 19 | Androide número 19 | r
+Porunga | r
+Vovó Uranai | Uranai Baba;Baba | Fortuneteller Baba | r
+Vados | e
+Champa | e
+Androide 13 | Número 13 | Android 13 | e
+Androide 14 | Número 14 | Android 14 | l
+Androide 15 | Número 15 | Android 15 | l
+Androide 8 | Número 8 | Android 8;Eighter | l
+Super 17 | Super Androide 17 | l
+Piccolo Daimaoh | Rei Piccolo | King Piccolo | e
+Saibaman | e
+Nail | e
+Rikum | Recoome | e
+Gurdo | Guldo | e
+Jeice | Jeese;Yuz;Jheese | Jeice | e
+Boter | Burter | e
+Enma Daioh | Rei Yemma | King Yemma | e
+Garlic Jr. | Garlic Junior | e
+Rei Vegeta |  | King Vegeta | e
+Mestre Tsuru | Tsuru | l
+Tambourine | l
+Spopovich | l
+Kibito | l
+Frost | l
+Gowasu | l
+Dr. Myu | Doutor Myu | l
+Paragus | e
+Kale | l
 
-== anm-naruto | Cite um personagem de Naruto | media | anime;naruto | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto
+== anm-naruto | Cite um personagem do anime dos ninjas da Vila da Folha (Konoha) | media | anime;naruto | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto
 Naruto Uzumaki | Naruto | | | c
 Sasuke Uchiha | Sasuke | | | c
 Sakura Haruno | Sakura | | | c
@@ -177,7 +215,7 @@ Tobirama Senju | Tobirama | | | e
 Hiruzen Sarutobi | Terceiro Hokage;Hiruzen | | | r
 Danzo Shimura | Danzo | | | e
 Sai | | | | r
-Yamato | | | | e
+Yamato | Tenzou |  |  | e
 Temari | | | | r
 Kankuro | | | | e
 Zabuza Momochi | Zabuza | | | r
@@ -198,6 +236,50 @@ Anko Mitarashi | Anko | | | l
 Teuchi | | | | l
 Gamabunta | | | | e
 Mei Terumi | | | | l
+Akamaru | i
+Shizune | i
+Onoki | r
+Shukaku | r
+Kimimaro Kaguya | Kimimaro | r
+Tayuya | e
+Shikadai Nara | Shikadai | r
+Chocho Akimichi | Chocho | r
+Inojin Yamanaka | Inojin | r
+Metal Lee | r
+Ibiki Morino | Ibiki | e
+Gamakichi | r
+Pakkun | r
+Katsuyu | r
+Manda | r
+Kidomaru | e
+Jirobo | e
+Sakon | l
+Ukon | l
+Chiyo | Anciã Chiyo | e
+Rasa | Rasa Sabaku | e
+Baki | l
+Yugao Uzuki | Yugao | l
+Darui | e
+Kurotsuchi | l
+Chojuro | l
+Hagoromo Otsutsuki | Hagoromo;Sábio dos Seis Caminhos | e
+Ashura Otsutsuki | Ashura | l
+Indra Otsutsuki | Indra | l
+Momoshiki Otsutsuki | Momoshiki | e
+Jigen | l
+Toneri Otsutsuki | Toneri | l
+Hanabi Hyuga | Hanabi | l
+Yugito Nii | Yugito | e
+Matatabi | e
+Isobu | l
+Gyuki | e
+Saiken | l
+Kokuo | l
+Han | l
+Roshi | l
+Utakata | l
+Fuu | l
+Yagura Karatachi | Yagura | l
 
 == anm-cavaleiros-zodiaco | Cite um personagem de Os Cavaleiros do Zodíaco | media | anime;saint seiya;cavaleiros | https://pt.wikipedia.org/wiki/Os_Cavaleiros_do_Zod%C3%ADaco
 Seiya | Seiya de Pégaso | | | c
@@ -220,7 +302,7 @@ Camus | Camus de Aquário | | | i
 Afrodite | Afrodite de Peixes | | | i
 Kanon | | | | r
 Marin | Marin de Águia | | | r
-Shina | Shina de Cobra | | | r
+Shina | Shina de Cobra;Shaina |  |  | r
 Jabu | Jabu de Unicórnio | | | r
 Nachi | Nachi de Lobo | | | e
 Ichi | Ichi de Hidra | | | e
@@ -255,6 +337,16 @@ Isaak | | | | l
 Krishna | | | | l
 Io | | | | l
 Baian | | | | l
+June | June de Camaleão | e
+Algol | Algol de Perseu | e
+Orfeu | Orfeu de Lira | Orpheus | e
+Mime | Mime de Benetnasch | l
+Thor | Thor de Phecda | l
+Syd | Syd de Mizar | l
+Bud | Bud de Alcor | l
+Capela | Capella de Auriga | Capella | l
+Dante | Dante de Cérbero | l
+Tremy | Tremy de Flecha | l
 
 == anm-one-piece | Cite um personagem de One Piece | media | anime;one piece | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_One_Piece
 Monkey D. Luffy | Luffy | | | c
@@ -321,8 +413,42 @@ Hody Jones | | | | l
 Pell | | | | l
 Bon Clay | Mr. 2 | | | e
 Kaya | | | | l
+Tashigi | r
+Nojiko | r
+Tsuru | Vice-Almirante Tsuru | e
+Helmeppo | e
+Zeff | e
+Laboon | e
+Bellamy | e
+Benn Beckman | e
+Killer | r
+Jewelry Bonney | Bonney | r
+Basil Hawkins | Hawkins | r
+X Drake | Drake | r
+Capone Bege | Bege | r
+Scratchmen Apoo | Apoo | e
+Urouge | e
+Yasopp | e
+Koala | e
+Bellemere | e
+Kureha | Dra. Kureha;Doutora Kureha | e
+Dalton | l
+Crocus | e
+Spandam | e
+Kaku | e
+Kalifa | e
+Hina | e
+Orochi | Kurozumi Orochi | e
+Tama | l
+Vinsmoke Reiju | Reiju | l
+Vinsmoke Ichiji | Ichiji | l
+Vinsmoke Niji | Niji | l
+Vinsmoke Yonji | Yonji | l
+Vinsmoke Judge | Judge | e
+Edward Weevil | Weevil | l
+Ryokugyu | Aramaki | Green Bull | l
 
-== anm-disney-quadrinhos | Cite um personagem clássico do universo Disney (Mickey, Pato Donald e turma) | facil | disney;quadrinhos | https://pt.wikipedia.org/wiki/Lista_de_personagens_Disney
+== anm-disney-quadrinhos | Cite um personagem clássico dos quadrinhos e desenhos da Disney | facil | disney;quadrinhos | https://pt.wikipedia.org/wiki/Lista_de_personagens_Disney
 Mickey Mouse | Mickey;Mickey Mouse | | | c
 Minnie Mouse | Minnie | | | c
 Pato Donald | Donald | Donald Duck | Pato Donald | c
@@ -359,6 +485,9 @@ Chefe O'Hara | Chefe O'Hara | Chief O'Hara | | e
 Flintheart Glomgold | Pão-Duro Mac Mônei | Flintheart Glomgold | | e
 Patacôncio | | John D. Rockerduck | | e
 Urtigão | | Hard Haid Moe | | e
+Mortimer | Mortimer Mouse | r
+Gadget | Gadget Hackwrench | e
+Eta Beta | Eega Beeva | l
 
 == anm-desenhos-animados | Cite um desenho animado (série de televisão) | facil | desenhos;tv;infantil | https://pt.wikipedia.org/wiki/S%C3%A9rie_animada
 Pica-Pau | | Woody Woodpecker | El Pájaro Loco | c
@@ -368,9 +497,9 @@ Bob Esponja | Bob Esponja Calça Quadrada | SpongeBob SquarePants;SpongeBob | Bo
 Scooby-Doo | Scooby | | | c
 Os Flintstones | Flintstones | The Flintstones | Los Picapiedra | c
 Os Jetsons | Jetsons | The Jetsons | Los Supersónicos | i
-Looney Tunes | Pernalonga | | | c
+Looney Tunes | Pernalonga;Turma do Pernalonga |  |  | c
 Pokémon | | | | c
-Dragon Ball Z | Dragon Ball;DBZ | | | c
+Dragon Ball Z | Dragon Ball;DBZ;Dragon Ball Super;Dragon Ball GT;Dragon Ball Kai |  |  | c
 Os Cavaleiros do Zodíaco | Cavaleiros do Zodíaco | Saint Seiya | Los Caballeros del Zodiaco | c
 Caverna do Dragão | | Dungeons & Dragons | Calabozos y Dragones | c
 He-Man | He-Man e os Mestres do Universo | | | i
@@ -450,3 +579,24 @@ Dora, a Aventureira | Dora | Dora the Explorer | Dora, la exploradora | i
 Bob, o Construtor | | Bob the Builder | Bob el constructor | e
 Backyardigans | Os Backyardigans | | | r
 Cocoricó | | | | i
+A Casa do Mickey Mouse | Casa do Mickey Mouse;Mickey Mouse Clubhouse |  | La casa de Mickey Mouse | i
+Os Jovens Titãs | Jovens Titãs;Jovens Titãs em Ação;Teen Titans |  | Los Jóvenes Titanes | i
+Yu Yu Hakusho | i
+Samurai X | Rurouni Kenshin | i
+Beyblade | i
+Super Campeões | Capitão Tsubasa;Captain Tsubasa | i
+Death Note | i
+Attack on Titan | Shingeki no Kyojin;Ataque dos Titãs | i
+Demon Slayer | Kimetsu no Yaiba | i
+Fullmetal Alchemist | i
+Hunter x Hunter | i
+My Hero Academia | Boku no Hero Academia | i
+Bleach | i
+Inuyasha | i
+Gasparzinho | Gasparzinho, o Fantasminha Camarada | Casper the Friendly Ghost | i
+Alvin e os Esquilos |  | Alvin and the Chipmunks | Alvin y las Ardillas | i
+Gravity Falls | i
+Samurai Jack | r
+Capitão Planeta | Capitão Planeta e os Planetários | Captain Planet and the Planeteers | r
+Taz-Mania | r
+Mundo Bita | i

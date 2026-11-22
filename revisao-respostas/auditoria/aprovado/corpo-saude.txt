@@ -1,0 +1,270 @@
+== cor-ossos    # Cite um osso do corpo humano
++ Sesamoide | Osso sesamoide | Sesamoid bone | Hueso sesamoideo | e | https://pt.wikipedia.org/wiki/Osso_sesamoide    # profunda (corrigido: tirado plural)
++ Ossos suturais | Ossos wormianos;Osso sutural | Wormian bones | Huesos wormianos | l | https://en.wikipedia.org/wiki/Wormian_bones    # profunda
+~ Crânio | Caveira | https://pt.wikipedia.org/wiki/Cr%C3%A2nio    # generica
+~ Bacia | Osso da bacia;Osso ilíaco;Coxal;Osso coxal | https://pt.wikipedia.org/wiki/Osso_do_quadril https://pt.wikipedia.org/wiki/Quadril    # generica,listas
+~ Semilunar | Lunato;Osso semilunar | https://pt.wikipedia.org/wiki/Osso_semilunar    # profunda,listas
+~ Hamato | Unciforme;Osso hamato | https://pt.wikipedia.org/wiki/Osso_hamato    # profunda,listas (corrigido: tirado Uncinado, não confirmado)
+~ Capitato | Osso capitato | https://pt.wikipedia.org/wiki/Osso_capitato    # profunda,listas (corrigido: tirado Grande osso, genérico)
+~ Tálus | Talo | https://pt.wikipedia.org/wiki/T%C3%A1lus    # profunda
+~ Piramidal | Triquetro;Osso piramidal | https://pt.wikipedia.org/wiki/Osso_piramidal    # profunda
+~ Cuneiforme | Cuneiforme medial;Cuneiforme lateral;Cuneiforme intermédio | https://en.wikipedia.org/wiki/Cuneiform_bones    # profunda (corrigido: tirado plural)
+~ Costela | Costela flutuante | https://pt.wikipedia.org/wiki/Costela    # profunda (corrigido: tirado plural)
+~ Zigomático | Osso malar | https://pt.wikipedia.org/wiki/Osso_zigom%C3%A1tico    # listas
+
+== cor-orgaos    # Cite um órgão do corpo humano
++ Intestino | Tripas | Intestine;Bowel |  | c | https://pt.wikipedia.org/wiki/Intestino    # generica (corrigido: tirado plural)
++ Medula óssea | Tutano | Bone marrow | Médula ósea | r | https://pt.wikipedia.org/wiki/Medula_%C3%B3ssea https://en.wikipedia.org/wiki/List_of_organs_of_the_human_body    # profunda,listas
++ Linfonodo | Gânglio linfático;Íngua | Lymph node |  | r | https://pt.wikipedia.org/wiki/Linfonodo    # profunda,listas (corrigido: tirado plural)
++ Tuba uterina | Trompa de Falópio;Trompa uterina;Trompa | Fallopian tube |  | r | https://pt.wikipedia.org/wiki/Tuba_uterina    # profunda,listas (corrigido: tirados plurais)
++ Epidídimo |  | Epididymis |  | e | https://pt.wikipedia.org/wiki/Epid%C3%ADdimo https://en.wikipedia.org/wiki/List_of_organs_of_the_human_body    # profunda,listas
++ Vesícula seminal | Glândula seminal | Seminal vesicle |  | e | https://pt.wikipedia.org/wiki/Ves%C3%ADcula_seminal https://en.wikipedia.org/wiki/List_of_organs_of_the_human_body    # profunda,listas
++ Clitóris |  |  |  | r | https://pt.wikipedia.org/wiki/Clit%C3%B3ris https://en.wikipedia.org/wiki/List_of_organs_of_the_human_body    # profunda,listas
++ Glândula lacrimal |  | Lacrimal gland | Glándula lagrimal | e | https://pt.wikipedia.org/wiki/Gl%C3%A2ndula_lacrimal    # profunda
++ Glândula sudorípara |  | Sweat gland |  | e | https://pt.wikipedia.org/wiki/Gl%C3%A2ndula_sudor%C3%ADpara    # profunda (corrigido: tirado plural)
++ Glândula sebácea |  | Sebaceous gland |  | e | https://pt.wikipedia.org/wiki/Gl%C3%A2ndula_seb%C3%A1cea    # profunda (corrigido: tirado plural)
++ Tálamo |  | Thalamus |  | e | https://pt.wikipedia.org/wiki/T%C3%A1lamo https://en.wikipedia.org/wiki/List_of_organs_of_the_human_body    # profunda,listas
++ Hipocampo |  | Hippocampus |  | e | https://en.wikipedia.org/wiki/Hippocampus    # profunda
++ Bulbo | Medula oblonga;Bulbo raquidiano | Medulla oblongata | Bulbo raquídeo | e | https://pt.wikipedia.org/wiki/Bulbo_raquidiano https://en.wikipedia.org/wiki/List_of_organs_of_the_human_body    # profunda,listas
++ Cóclea | Caracol | Cochlea |  | e | https://pt.wikipedia.org/wiki/C%C3%B3clea    # profunda
++ Jejuno |  | Jejunum | Yeyuno | e | https://pt.wikipedia.org/wiki/Jejuno https://en.wikipedia.org/wiki/List_of_organs_of_the_human_body    # profunda,listas
++ Íleo |  | Ileum | Íleon | e | https://pt.wikipedia.org/wiki/%C3%8Dleo https://en.wikipedia.org/wiki/List_of_organs_of_the_human_body    # profunda,listas
++ Ceco |  | Cecum | Ciego | e | https://pt.wikipedia.org/wiki/Ceco https://en.wikipedia.org/wiki/List_of_organs_of_the_human_body    # profunda,listas
++ Ânus |  |  |  | i | https://pt.wikipedia.org/wiki/%C3%82nus    # profunda,listas (corrigido: tirado es Ano = 'ano' em português)
++ Dente | Dentes | Tooth;Teeth | Diente | i | https://pt.wikipedia.org/wiki/Dente https://en.wikipedia.org/wiki/List_of_organs_of_the_human_body    # profunda,listas
+- Gengiva |  | Gum | Encía | e | https://pt.wikipedia.org/wiki/Gengiva    # profunda REJ: gengiva é tecido, não órgão
++ Boca |  | Mouth |  | r | https://pt.wikipedia.org/wiki/Boca    # profunda
++ Ducto deferente | Canal deferente | Vas deferens | Conducto deferente | e | https://pt.wikipedia.org/wiki/Ducto_deferente    # profunda,listas
+~ Cérebro | Encéfalo | https://pt.wikipedia.org/wiki/Enc%C3%A9falo    # listas (corrigido: virou variante de Cérebro, resolve colisão)
++ Diafragma |  | Diaphragm |  | i | https://en.wikipedia.org/wiki/List_of_organs_of_the_human_body    # listas
++ Escroto | Bolsa escrotal | Scrotum |  | i | https://en.wikipedia.org/wiki/List_of_organs_of_the_human_body    # listas
++ Vulva |  |  |  | i | https://en.wikipedia.org/wiki/List_of_organs_of_the_human_body    # listas
++ Brônquio |  | Bronchus;Bronchi |  | r | https://en.wikipedia.org/wiki/List_of_organs_of_the_human_body    # listas (corrigido: tirado plural)
++ Nervo |  | Nerve | Nervio | r | https://en.wikipedia.org/wiki/List_of_organs_of_the_human_body    # listas (corrigido: tirado plural)
++ Mesencéfalo |  | Midbrain |  | e | https://en.wikipedia.org/wiki/List_of_organs_of_the_human_body    # listas
++ Mesentério |  | Mesentery |  | l | https://pt.wikipedia.org/wiki/Mesent%C3%A9rio    # listas
++ Glândula bulbouretral | Glândula de Cowper | Bulbourethral gland |  | l | https://pt.wikipedia.org/wiki/Gl%C3%A2ndula_bulbouretral    # listas
+~ Útero | Matriz | https://pt.wikipedia.org/wiki/%C3%9Atero    # generica
+~ Bexiga | Bexiga urinária | https://pt.wikipedia.org/wiki/Bexiga_urin%C3%A1ria    # generica
+~ Tireoide | Glândula tireoide;Glândula tiroide | https://pt.wikipedia.org/wiki/Gl%C3%A2ndula_tireoide    # generica
+~ Ouvido | Orelha | https://en.wikipedia.org/wiki/List_of_organs_of_the_human_body    # listas
+~ Glândula mamária | Seio;Seios;Mamas | https://en.wikipedia.org/wiki/List_of_organs_of_the_human_body    # listas
+~ Amígdala | Tonsila;Tonsila palatina | https://pt.wikipedia.org/wiki/Tonsila    # listas (corrigido: tirados plural e Amídala, 1 letra)
+
+== cor-partes-externas    # Cite uma parte externa do corpo humano
++ Pele |  | Skin | Piel | i | https://pt.wikipedia.org/wiki/Pele    # profunda
++ Hálux | Dedão do pé | Big toe | Dedo gordo | e | https://pt.wikipedia.org/wiki/H%C3%A1lux    # profunda
++ Dedo mindinho | Mindinho;Dedo mínimo;Dedinho | Little finger;Pinky | Meñique | r | https://pt.wikipedia.org/wiki/Dedo_m%C3%ADnimo https://www.dicio.com.br/mindinho/    # profunda,listas
++ Dedo indicador | Indicador;Fura-bolo | Index finger | Índice | r | https://pt.wikipedia.org/wiki/Dedo_indicador    # profunda
++ Dedo anelar | Anelar;Seu-vizinho | Ring finger | Anular | r | https://pt.wikipedia.org/wiki/Dedo_anelar    # profunda
++ Dedo médio | Pai de todos | Middle finger | Dedo corazón | r | https://pt.wikipedia.org/wiki/Dedo_m%C3%A9dio    # profunda
++ Tronco |  | Torso;Trunk |  | i | https://pt.wikipedia.org/wiki/Tronco_(anatomia) https://www.dicio.com.br/tronco/    # profunda,listas
++ Maçã do rosto |  | Cheekbone | Pómulo | e | https://pt.wikipedia.org/wiki/Osso_zigom%C3%A1tico    # profunda (corrigido: tirado plural)
++ Costeleta | Suíças | Sideburns | Patillas | e | https://en.wikipedia.org/wiki/Sideburns    # profunda (corrigido: tirado plural)
++ Buço |  | Upper lip hair |  | e | https://www.dicio.com.br/buco/    # profunda (corrigido: tirado es Bozo)
++ Cutícula |  | Cuticle |  | e | https://en.wikipedia.org/wiki/Cuticle_(hair)    # profunda
++ Dorso da mão | Costas da mão | Back of the hand | Dorso de la mano | e | https://en.wikipedia.org/wiki/Hand    # profunda
++ Pênis |  |  | Pene | r | https://pt.wikipedia.org/wiki/P%C3%AAnis    # profunda
++ Vulva |  |  |  | e | https://pt.wikipedia.org/wiki/Vulva    # profunda
++ Ânus |  |  |  | e | https://pt.wikipedia.org/wiki/%C3%82nus    # profunda (corrigido: tirado es Ano = 'ano' em português)
++ Busto |  | Bust |  | r | https://www.dicio.com.br/busto/    # listas
+~ Dedo | Dedo do pé;Pododáctilo | https://pt.wikipedia.org/wiki/Dedo_do_p%C3%A9    # generica (corrigido: tirados plural e espanhol)
+~ Panturrilha | Barriga da perna | https://pt.wikipedia.org/wiki/Panturrilha    # generica
+~ Cabelo | Pelo;Pelos | https://pt.wikipedia.org/wiki/Pelo    # profunda (corrigido: tirado Vello, espanhol)
+~ Testa | Fronte | https://pt.wikipedia.org/wiki/Testa https://www.dicio.com.br/fronte/    # profunda,listas
+~ Barriga | Ventre;Pança | https://pt.wikipedia.org/wiki/Abd%C3%B4men https://www.dicio.com.br/ventre/    # profunda,listas
+~ Mão | Mãos | https://www.dicio.com.br/mao/    # listas
+~ Pé | Pés | https://www.dicio.com.br/pe/    # listas
+~ Costas | Dorso | https://www.dicio.com.br/dorso/    # listas
+~ Nuca | Cangote | https://www.dicio.com.br/cangote/    # listas
+~ Nádegas | Glúteo | https://www.dicio.com.br/gluteo/    # listas (corrigido: tirado singular trivial)
+
+== cor-doencas    # Cite uma doença
++ Ansiedade | Transtorno de ansiedade;Transtorno de ansiedade generalizada | Anxiety;Anxiety disorder | Ansiedad;Trastorno de ansiedad | c | https://pt.wikipedia.org/wiki/Transtorno_de_ansiedade    # generica
++ Hipotensão | Pressão baixa | Hypotension;Low blood pressure | Hipotensión;Presión baja | i | https://pt.wikipedia.org/wiki/Hipotens%C3%A3o    # generica
++ Obesidade |  | Obesity | Obesidad | c | https://pt.wikipedia.org/wiki/Obesidade    # profunda,listas
++ Hipertireoidismo |  | Hyperthyroidism | Hipertiroidismo | r | https://pt.wikipedia.org/wiki/Hipertireoidismo https://pt.wikipedia.org/wiki/Hipertiroidismo    # profunda,listas
++ Arritmia | Arritmia cardíaca | Arrhythmia |  | r | https://pt.wikipedia.org/wiki/Arritmia_card%C3%ADaca    # profunda,listas
++ Insuficiência cardíaca |  | Heart failure |  | r | https://pt.wikipedia.org/wiki/Insufici%C3%AAncia_card%C3%ADaca    # profunda,listas
++ Aterosclerose | Arteriosclerose | Atherosclerosis | Aterosclerosis | r | https://pt.wikipedia.org/wiki/Aterosclerose    # profunda,listas
++ Trombose |  | Thrombosis | Trombosis | i | https://pt.wikipedia.org/wiki/Trombose    # profunda,listas
++ Embolia | Embolia pulmonar | Embolism |  | r | https://pt.wikipedia.org/wiki/Embolia    # profunda,listas
++ Aneurisma |  | Aneurysm |  | r | https://pt.wikipedia.org/wiki/Aneurisma    # profunda,listas
++ Varizes | Variz | Varicose veins | Várices | i | https://pt.wikipedia.org/wiki/Varizes https://pt.wikipedia.org/wiki/Variz    # profunda,listas
++ Hérnia | Hérnia de disco;Hérnia inguinal;Hérnia umbilical |  |  | i | https://pt.wikipedia.org/wiki/H%C3%A9rnia    # profunda,listas
++ Pancreatite |  | Pancreatitis |  | r | https://pt.wikipedia.org/wiki/Pancreatite    # profunda,listas
++ Esteatose hepática | Gordura no fígado;Esteatose | Fatty liver | Hígado graso | e | https://pt.wikipedia.org/wiki/Esteatose_hep%C3%A1tica    # profunda
++ Refluxo | Refluxo gastroesofágico;DRGE;Doença do refluxo gastroesofágico | GERD;Acid reflux | Reflujo gastroesofágico;Reflujo | i | https://pt.wikipedia.org/wiki/Doen%C3%A7a_do_refluxo_gastroesof%C3%A1gico https://pt.wikipedia.org/wiki/Doen%C3%A7a_de_refluxo_gastroesof%C3%A1gico    # profunda,listas
++ Gastroenterite |  | Gastroenteritis |  | e | https://pt.wikipedia.org/wiki/Gastroenterite    # profunda (corrigido: tirado Virose, genérico)
++ Doença de Crohn | Crohn | Crohn's disease | Enfermedad de Crohn | r | https://pt.wikipedia.org/wiki/Doen%C3%A7a_de_Crohn    # profunda,listas
++ Colite |  | Colitis |  | r | https://pt.wikipedia.org/wiki/Colite    # profunda,listas
++ Diverticulite |  | Diverticulitis |  | r | https://pt.wikipedia.org/wiki/Diverticulite    # profunda,listas
++ Síndrome do intestino irritável | Intestino irritável | Irritable bowel syndrome | Síndrome del intestino irritable | e | https://pt.wikipedia.org/wiki/S%C3%ADndrome_do_intestino_irrit%C3%A1vel    # profunda
++ Infecção urinária | Cistite;Infecção do trato urinário;ITU | Urinary tract infection;Cystitis | Infección urinaria;Cistitis | c | https://pt.wikipedia.org/wiki/Infec%C3%A7%C3%A3o_do_trato_urin%C3%A1rio https://pt.wikipedia.org/wiki/Cistite    # profunda,listas
++ Insuficiência renal | Doença renal crônica | Kidney failure |  | r | https://pt.wikipedia.org/wiki/Insufici%C3%AAncia_renal    # profunda,listas
++ Enfisema | Enfisema pulmonar;DPOC;Doença pulmonar obstrutiva crônica | Emphysema;COPD |  | r | https://pt.wikipedia.org/wiki/Enfisema_pulmonar https://pt.wikipedia.org/wiki/Doen%C3%A7a_pulmonar_obstrutiva_cr%C3%B3nica    # profunda,listas
++ Faringite |  | Pharyngitis | Faringitis | i | https://pt.wikipedia.org/wiki/Faringite    # profunda,listas
++ Amigdalite |  | Tonsillitis | Amigdalitis | c | https://pt.wikipedia.org/wiki/Amigdalite    # profunda,listas
++ Laringite |  | Laryngitis | Laringitis | i | https://pt.wikipedia.org/wiki/Laringite    # profunda,listas
++ Candidíase | Sapinho;Candidíase oral;Candida | Candidiasis |  | i | https://pt.wikipedia.org/wiki/Candid%C3%ADase    # profunda,listas
++ HPV | Papilomavírus humano;Condiloma |  | VPH | i | https://pt.wikipedia.org/wiki/Papilomav%C3%ADrus_humano https://pt.wikipedia.org/wiki/V%C3%ADrus_do_papiloma_humano    # profunda,listas
++ Clamídia | Clamidíase | Chlamydia |  | r | https://pt.wikipedia.org/wiki/Clam%C3%ADdia    # profunda,listas
++ Tricomoníase |  | Trichomoniasis | Tricomoniasis | e | https://pt.wikipedia.org/wiki/Tricomon%C3%ADase    # profunda,listas
++ Febre tifoide | Tifoide | Typhoid fever | Fiebre tifoidea | r | https://pt.wikipedia.org/wiki/Febre_tifoide    # profunda,listas
++ Botulismo |  | Botulism |  | r | https://pt.wikipedia.org/wiki/Botulismo    # profunda,listas
++ Antraz | Carbúnculo | Anthrax | Ántrax | e | https://pt.wikipedia.org/wiki/Antraz    # profunda
++ Febre Oropouche | Oropouche | Oropouche fever | Fiebre de Oropouche | e | https://en.wikipedia.org/wiki/Oropouche_fever    # profunda
++ Rotavirose | Rotavírus |  |  | e | https://pt.wikipedia.org/wiki/Rotav%C3%ADrus    # profunda
++ Herpes-zóster | Cobreiro;Zóster | Shingles |  | r | https://pt.wikipedia.org/wiki/Herpes-z%C3%B3ster    # profunda
++ Impetigo |  |  |  | e | https://pt.wikipedia.org/wiki/Impetigo    # profunda,listas
++ Erisipela |  | Erysipelas |  | e | https://pt.wikipedia.org/wiki/Erisipela    # profunda,listas
++ Furúnculo | Furunculose | Boil | Forúnculo | e | https://pt.wikipedia.org/wiki/Fur%C3%BAnculo    # profunda
++ Pediculose | Piolho | Head lice;Lice | Pediculosis | i | https://pt.wikipedia.org/wiki/Pediculose    # profunda,listas
++ Giardíase | Giárdia | Giardiasis |  | e | https://pt.wikipedia.org/wiki/Giard%C3%ADase    # profunda,listas
++ Amebíase | Disenteria amebiana | Amoebiasis | Amebiasis | e | https://pt.wikipedia.org/wiki/Ameb%C3%ADase    # profunda,listas
++ Teníase | Solitária | Taeniasis | Teniasis | r | https://pt.wikipedia.org/wiki/Ten%C3%ADase    # profunda,listas
++ Cisticercose |  | Cysticercosis | Cisticercosis | e | https://pt.wikipedia.org/wiki/Cisticercose    # profunda,listas
++ Bicho-geográfico | Larva migrans | Cutaneous larva migrans | Larva migratoria | e | https://pt.wikipedia.org/wiki/Larva_migrans_cut%C3%A2nea    # profunda
++ Frieira | Pé de atleta;Tinea pedis | Athlete's foot | Pie de atleta | r | https://pt.wikipedia.org/wiki/P%C3%A9_de_atleta    # profunda
++ Pano branco | Pitiríase versicolor | Pityriasis versicolor | Pitiriasis versicolor | e | https://pt.wikipedia.org/wiki/Pitir%C3%ADase_versicolor    # profunda
++ Doença de Lyme | Lyme | Lyme disease | Enfermedad de Lyme | e | https://pt.wikipedia.org/wiki/Doen%C3%A7a_de_Lyme    # profunda
++ Febre reumática |  | Rheumatic fever | Fiebre reumática | e | https://pt.wikipedia.org/wiki/Febre_reum%C3%A1tica    # profunda,listas
++ Doença de Creutzfeldt-Jakob | Doença da vaca louca;Vaca louca | Creutzfeldt–Jakob disease | Enfermedad de Creutzfeldt-Jakob | e | https://pt.wikipedia.org/wiki/Doen%C3%A7a_de_Creutzfeldt-Jakob    # profunda
++ Mononucleose | Doença do beijo;Mononucleose infecciosa | Mononucleosis |  | r | https://pt.wikipedia.org/wiki/Mononucleose_infecciosa    # profunda,listas
++ Esquizofrenia |  | Schizophrenia |  | i | https://pt.wikipedia.org/wiki/Esquizofrenia    # profunda,listas
++ Transtorno bipolar | Bipolaridade | Bipolar disorder | Trastorno bipolar | i | https://pt.wikipedia.org/wiki/Transtorno_bipolar    # profunda,listas
++ Transtorno obsessivo-compulsivo | TOC | Obsessive–compulsive disorder;OCD | Trastorno obsesivo-compulsivo | r | https://pt.wikipedia.org/wiki/Transtorno_obsessivo-compulsivo    # profunda,listas
++ Síndrome do pânico | Transtorno do pânico;Transtorno de pânico | Panic disorder | Trastorno de pánico | r | https://pt.wikipedia.org/wiki/Transtorno_do_p%C3%A2nico https://pt.wikipedia.org/wiki/Transtorno_de_p%C3%A2nico    # profunda,listas
++ Demência |  | Dementia |  | r | https://pt.wikipedia.org/wiki/Dem%C3%AAncia    # profunda,listas
++ Distrofia muscular |  | Muscular dystrophy |  | r | https://pt.wikipedia.org/wiki/Distrofia_muscular    # profunda,listas
++ Doença de Huntington | Huntington;Coreia de Huntington | Huntington's disease | Enfermedad de Huntington | e | https://pt.wikipedia.org/wiki/Doen%C3%A7a_de_Huntington    # profunda,listas
++ Hidrocefalia |  | Hydrocephalus |  | e | https://pt.wikipedia.org/wiki/Hidrocefalia    # profunda,listas
++ Narcolepsia |  | Narcolepsy |  | e | https://pt.wikipedia.org/wiki/Narcolepsia    # profunda,listas
++ Hemofilia |  | Haemophilia;Hemophilia |  | r | https://pt.wikipedia.org/wiki/Hemofilia    # profunda,listas
++ Anemia falciforme | Doença falciforme;Drepanocitose | Sickle cell disease |  | r | https://pt.wikipedia.org/wiki/Anemia_falciforme    # profunda,listas
++ Fibrose cística | Mucoviscidose | Cystic fibrosis | Fibrosis quística | r | https://pt.wikipedia.org/wiki/Fibrose_c%C3%ADstica    # profunda,listas
++ Talassemia |  | Thalassemia | Talasemia | e | https://pt.wikipedia.org/wiki/Talassemia    # profunda,listas
++ Acne | Espinha |  |  | i | https://pt.wikipedia.org/wiki/Acne    # profunda,listas
++ Dermatite | Eczema | Dermatitis |  | i | https://pt.wikipedia.org/wiki/Dermatite    # profunda,listas
++ Rosácea |  |  |  | e | https://pt.wikipedia.org/wiki/Ros%C3%A1cea    # profunda,listas
++ Urticária |  | Hives |  | i | https://pt.wikipedia.org/wiki/Urtic%C3%A1ria    # profunda,listas
++ Melanoma |  |  |  | r | https://pt.wikipedia.org/wiki/Melanoma    # profunda,listas
++ Linfoma |  | Lymphoma |  | r | https://pt.wikipedia.org/wiki/Linfoma    # profunda,listas
++ Raquitismo |  | Rickets |  | e | https://pt.wikipedia.org/wiki/Raquitismo    # profunda,listas
++ Bócio | Papo | Goitre;Goiter |  | r | https://pt.wikipedia.org/wiki/B%C3%B3cio    # profunda,listas
++ Pelagra |  | Pellagra |  | l | https://pt.wikipedia.org/wiki/Pelagra    # profunda,listas
++ Miopia |  | Myopia |  | i | https://pt.wikipedia.org/wiki/Miopia    # profunda,listas
++ Astigmatismo |  | Astigmatism |  | i | https://pt.wikipedia.org/wiki/Astigmatismo    # profunda,listas
++ Hipermetropia |  | Hyperopia |  | r | https://pt.wikipedia.org/wiki/Hipermetropia    # profunda,listas
++ Estrabismo |  | Strabismus |  | r | https://pt.wikipedia.org/wiki/Estrabismo    # profunda,listas
++ Terçol | Hordéolo | Stye | Orzuelo | e | https://pt.wikipedia.org/wiki/Hord%C3%A9olo    # profunda
++ Escoliose |  | Scoliosis | Escoliosis | r | https://pt.wikipedia.org/wiki/Escoliose    # profunda
++ Tendinite |  | Tendinitis |  | i | https://pt.wikipedia.org/wiki/Tendinite    # profunda,listas
++ Bursite |  | Bursitis |  | i | https://pt.wikipedia.org/wiki/Bursite    # profunda,listas
++ LER | Lesão por esforço repetitivo;DORT | Repetitive strain injury | Lesión por esfuerzo repetitivo | e | https://pt.wikipedia.org/wiki/Les%C3%A3o_por_esfor%C3%A7o_repetitivo    # profunda
++ Endometriose |  | Endometriosis |  | i | https://pt.wikipedia.org/wiki/Endometriose    # profunda,listas
++ Mioma | Mioma uterino | Uterine fibroid;Fibroid |  | r | https://en.wikipedia.org/wiki/Uterine_fibroid https://pt.wikipedia.org/wiki/Mioma_(doen%C3%A7a)    # profunda,listas
++ Síndrome dos ovários policísticos | Ovário policístico;SOP;Síndrome do ovário policístico | Polycystic ovary syndrome;PCOS | Síndrome de ovario poliquístico | r | https://pt.wikipedia.org/wiki/S%C3%ADndrome_dos_ov%C3%A1rios_polic%C3%ADsticos https://pt.wikipedia.org/wiki/S%C3%ADndrome_do_ov%C3%A1rio_polic%C3%ADstico    # profunda,listas
++ Pré-eclâmpsia |  |  | Preeclampsia | e | https://pt.wikipedia.org/wiki/Pr%C3%A9-ecl%C3%A2mpsia    # profunda
++ Sepse | Septicemia;Infecção generalizada | Sepsis |  | r | https://pt.wikipedia.org/wiki/Sepse    # profunda,listas
++ Gangrena |  | Gangrene |  | r | https://pt.wikipedia.org/wiki/Gangrena    # profunda,listas
++ Tifo | Tifo epidêmico | Typhus | Tifus | r | https://pt.wikipedia.org/wiki/Tifo    # profunda,listas
++ Hantavirose |  | Hantavirus |  | e | https://pt.wikipedia.org/wiki/Hantav%C3%ADrus https://pt.wikipedia.org/wiki/Hantavirose    # profunda,listas
++ Doença de Kawasaki | Kawasaki | Kawasaki disease | Enfermedad de Kawasaki | l | https://pt.wikipedia.org/wiki/Doen%C3%A7a_de_Kawasaki    # profunda
++ Sarcoidose |  | Sarcoidosis |  | l | https://pt.wikipedia.org/wiki/Sarcoidose    # profunda
++ Brucelose |  | Brucellosis | Brucelosis | e | https://pt.wikipedia.org/wiki/Brucelose    # profunda,listas
++ Alergia |  | Allergy |  | c | https://pt.wikipedia.org/wiki/Alergia    # listas
++ Cárie | Cárie dentária | Tooth decay;Caries |  | c | https://pt.wikipedia.org/wiki/C%C3%A1rie    # listas
++ Gengivite |  | Gingivitis |  | i | https://pt.wikipedia.org/wiki/Gengivite    # listas
++ Daltonismo |  | Color blindness |  | i | https://pt.wikipedia.org/wiki/Daltonismo    # listas
++ Insônia |  | Insomnia | Insomnio | i | https://pt.wikipedia.org/wiki/Ins%C3%B4nia    # listas
++ Apneia do sono |  | Sleep apnea | Apnea del sueño | r | https://pt.wikipedia.org/wiki/Apneia_do_sono    # listas
++ Angina | Angina de peito |  | Angina de pecho | r | https://pt.wikipedia.org/wiki/Angina    # listas
++ Cálculo biliar | Pedra na vesícula;Colelitíase | Gallstone |  | r | https://pt.wikipedia.org/wiki/Colelit%C3%ADase    # listas
++ Sarcoma |  |  |  | e | https://pt.wikipedia.org/wiki/Sarcoma    # listas
++ Mieloma múltiplo | Mieloma | Multiple myeloma | Mieloma múltiple | e | https://pt.wikipedia.org/wiki/Mieloma_m%C3%BAltiplo    # listas
++ Cancro mole | Cancroide | Chancroid | Chancroide | e | https://pt.wikipedia.org/wiki/Cancro_mole    # listas
++ Histoplasmose |  | Histoplasmosis |  | l | https://pt.wikipedia.org/wiki/Histoplasmose    # listas
++ Enterobíase | Oxiurose;Oxiúrus | Enterobiasis;Pinworm |  | e | https://pt.wikipedia.org/wiki/Enterob%C3%ADase    # listas
++ Nefrite |  | Nephritis | Nefritis | e | https://pt.wikipedia.org/wiki/Nefrite    # listas
++ Pielonefrite |  | Pyelonephritis | Pielonefritis | e | https://pt.wikipedia.org/wiki/Pielonefrite    # listas
++ Prostatite |  | Prostatitis |  | e | https://pt.wikipedia.org/wiki/Prostatite    # listas
++ Encefalite |  | Encephalitis | Encefalitis | e | https://pt.wikipedia.org/wiki/Encefalite    # listas
++ Síndrome de Guillain-Barré | Guillain-Barré | Guillain-Barré syndrome |  | e | https://pt.wikipedia.org/wiki/S%C3%ADndrome_de_Guillain-Barr%C3%A9    # listas
++ Miastenia grave | Miastenia gravis;Miastenia | Myasthenia gravis |  | l | https://pt.wikipedia.org/wiki/Miastenia_grave    # listas
++ Salmonelose | Salmonela | Salmonellosis | Salmonelosis | r | https://pt.wikipedia.org/wiki/Salmonelose    # listas
++ Disenteria |  | Dysentery |  | r | https://pt.wikipedia.org/wiki/Disenteria    # listas
++ Gripe aviária | Gripe das aves | Bird flu;Avian influenza | Gripe aviar | r | https://pt.wikipedia.org/wiki/Gripe_avi%C3%A1ria    # listas
++ Gripe suína | H1N1;Gripe A | Swine flu | Gripe porcina | r | https://pt.wikipedia.org/wiki/Gripe_su%C3%ADna    # listas
++ SARS | Síndrome respiratória aguda grave |  |  | e | https://pt.wikipedia.org/wiki/S%C3%ADndrome_respirat%C3%B3ria_aguda_grave    # listas (corrigido: tirado SRAG, categoria genérica no Brasil)
+~ Câncer | Câncer de pele;Câncer de mama;Câncer de pulmão;Câncer de próstata;Câncer de colo de útero | https://pt.wikipedia.org/wiki/C%C3%A2ncer    # generica
+~ Diabetes | Diabetes mellitus;Diabetes tipo 1;Diabetes tipo 2 | https://pt.wikipedia.org/wiki/Diabetes_mellitus    # generica
+~ Hepatite | Hepatite A;Hepatite B;Hepatite C | https://pt.wikipedia.org/wiki/Hepatite    # generica
+~ Hipertensão | Hipertensão arterial | https://pt.wikipedia.org/wiki/Hipertens%C3%A3o_arterial    # generica
+~ Herpes | Herpes labial;Herpes genital | https://pt.wikipedia.org/wiki/Herpes    # generica
+~ Infarto | Infarto do miocárdio;Enfarte | https://pt.wikipedia.org/wiki/Infarto_agudo_do_mioc%C3%A1rdio    # generica
+~ AVC | Acidente vascular encefálico;AVE | https://pt.wikipedia.org/wiki/Acidente_vascular_cerebral    # generica
+~ Resfriado | Resfriado comum | https://pt.wikipedia.org/wiki/Resfriado_comum    # generica
+
+== cor-musculos    # Cite um músculo do corpo humano
++ Peitoral menor | Pequeno peitoral | Pectoralis minor | Pectoral menor | r | https://pt.wikipedia.org/wiki/M%C3%BAsculo_peitoral_menor https://pt.wikipedia.org/wiki/Lista_de_m%C3%BAsculos_do_corpo_humano    # profunda,listas
++ Redondo menor |  | Teres minor |  | e | https://pt.wikipedia.org/wiki/M%C3%BAsculo_redondo_menor https://pt.wikipedia.org/wiki/Lista_de_m%C3%BAsculos_do_corpo_humano    # profunda,listas
++ Glúteo mínimo |  | Gluteus minimus | Glúteo menor | e | https://pt.wikipedia.org/wiki/M%C3%BAsculo_gl%C3%BAteo_m%C3%ADnimo https://pt.wikipedia.org/wiki/Lista_de_m%C3%BAsculos_do_corpo_humano    # profunda,listas
++ Quadrado lombar |  | Quadratus lumborum | Cuadrado lumbar | e | https://pt.wikipedia.org/wiki/M%C3%BAsculo_quadrado_lombar https://pt.wikipedia.org/wiki/Lista_de_m%C3%BAsculos_do_corpo_humano    # profunda,listas
++ Tibial posterior |  | Tibialis posterior |  | e | https://pt.wikipedia.org/wiki/M%C3%BAsculo_tibial_posterior https://pt.wikipedia.org/wiki/Lista_de_m%C3%BAsculos_do_corpo_humano    # profunda,listas
++ Poplíteo |  | Popliteus |  | l | https://pt.wikipedia.org/wiki/M%C3%BAsculo_popl%C3%ADteo https://pt.wikipedia.org/wiki/Lista_de_m%C3%BAsculos_do_corpo_humano    # profunda,listas
++ Plantar |  | Plantaris | Plantar delgado | l | https://pt.wikipedia.org/wiki/M%C3%BAsculo_plantar    # profunda
++ Palmar longo |  | Palmaris longus | Palmar largo | l | https://pt.wikipedia.org/wiki/M%C3%BAsculo_palmar_longo https://pt.wikipedia.org/wiki/Lista_de_m%C3%BAsculos_do_corpo_humano    # profunda,listas
++ Pectíneo |  | Pectineus |  | l | https://pt.wikipedia.org/wiki/M%C3%BAsculo_pect%C3%ADneo https://pt.wikipedia.org/wiki/Lista_de_m%C3%BAsculos_do_corpo_humano    # profunda,listas
++ Pterigoideo | Pterigoideo lateral;Pterigoideo medial;Pterigoide lateral;Pterigoide medial | Pterygoid;Lateral pterygoid;Medial pterygoid |  | l | https://en.wikipedia.org/wiki/Lateral_pterygoid_muscle https://pt.wikipedia.org/wiki/Lista_de_m%C3%BAsculos_do_corpo_humano    # profunda,listas
++ Frontal | Occipitofrontal;Músculo frontal | Frontalis |  | r | https://pt.wikipedia.org/wiki/M%C3%BAsculo_occipitofrontal https://pt.wikipedia.org/wiki/Lista_de_m%C3%BAsculos_do_corpo_humano    # profunda,listas
++ Prócero |  | Procerus | Prócer | l | https://pt.wikipedia.org/wiki/M%C3%BAsculo_pr%C3%B3cero https://pt.wikipedia.org/wiki/Lista_de_m%C3%BAsculos_do_corpo_humano    # profunda,listas
++ Corrugador do supercílio |  | Corrugator supercilii | Corrugador superciliar | l | https://pt.wikipedia.org/wiki/M%C3%BAsculo_corrugador_do_superc%C3%ADlio https://pt.wikipedia.org/wiki/Lista_de_m%C3%BAsculos_do_corpo_humano    # profunda,listas
++ Levantador da pálpebra superior |  | Levator palpebrae superioris | Elevador del párpado superior | l | https://pt.wikipedia.org/wiki/M%C3%BAsculo_levantador_da_p%C3%A1lpebra_superior    # profunda
++ Ancôneo |  | Anconeus |  | l | https://en.wikipedia.org/wiki/Anconeus_muscle https://pt.wikipedia.org/wiki/Lista_de_m%C3%BAsculos_do_corpo_humano    # profunda,listas
++ Subclávio |  | Subclavius |  | l | https://pt.wikipedia.org/wiki/M%C3%BAsculo_subcl%C3%A1vio    # profunda
++ Esplênio | Esplênio da cabeça | Splenius |  | l | https://pt.wikipedia.org/wiki/M%C3%BAsculo_espl%C3%AAnio_da_cabe%C3%A7a https://pt.wikipedia.org/wiki/Lista_de_m%C3%BAsculos_do_corpo_humano    # profunda,listas
++ Digástrico |  | Digastric |  | l | https://pt.wikipedia.org/wiki/M%C3%BAsculo_dig%C3%A1strico https://pt.wikipedia.org/wiki/Lista_de_m%C3%BAsculos_do_corpo_humano    # profunda,listas
++ Milo-hioideo | Milo-hioide | Mylohyoid | Milohioideo | l | https://pt.wikipedia.org/wiki/M%C3%BAsculo_milo-hioideo https://pt.wikipedia.org/wiki/Lista_de_m%C3%BAsculos_do_corpo_humano    # profunda,listas
++ Cremaster |  |  |  | l | https://pt.wikipedia.org/wiki/M%C3%BAsculo_cremaster https://pt.wikipedia.org/wiki/Lista_de_m%C3%BAsculos_do_corpo_humano    # profunda,listas
++ Detrusor |  |  |  | l | https://pt.wikipedia.org/wiki/M%C3%BAsculo_detrusor    # profunda
++ Interósseos |  | Interossei | Interóseos | l | https://en.wikipedia.org/wiki/Dorsal_interossei_of_the_hand    # profunda
++ Lumbricais |  | Lumbricals | Lumbricales | l | https://en.wikipedia.org/wiki/Lumbricals_of_the_hand    # profunda
++ Mentual | Mentoniano | Mentalis |  | l | https://pt.wikipedia.org/wiki/M%C3%BAsculo_mentual https://pt.wikipedia.org/wiki/Lista_de_m%C3%BAsculos_do_corpo_humano    # profunda,listas
++ Depressor do ângulo da boca | Abaixador do ângulo da boca | Depressor anguli oris | Depresor del ángulo de la boca | l | https://en.wikipedia.org/wiki/Depressor_anguli_oris_muscle https://pt.wikipedia.org/wiki/Lista_de_m%C3%BAsculos_do_corpo_humano    # profunda,listas
++ Extensor dos dedos |  | Extensor digitorum | Extensor de los dedos | l | https://pt.wikipedia.org/wiki/M%C3%BAsculo_extensor_dos_dedos    # profunda
++ Flexor superficial dos dedos | Flexor dos dedos | Flexor digitorum superficialis | Flexor superficial de los dedos | l | https://pt.wikipedia.org/wiki/M%C3%BAsculo_flexor_superficial_dos_dedos    # profunda
++ Adutor longo |  | Adductor longus | Aductor largo | e | https://pt.wikipedia.org/wiki/M%C3%BAsculo_adutor_longo https://pt.wikipedia.org/wiki/Lista_de_m%C3%BAsculos_do_corpo_humano    # profunda,listas
++ Tríceps sural |  | Triceps surae |  | l | https://pt.wikipedia.org/wiki/M%C3%BAsculo_tr%C3%ADceps_sural    # profunda
++ Oblíquo interno |  | Internal oblique | Oblicuo interno | r | https://pt.wikipedia.org/wiki/Lista_de_m%C3%BAsculos_do_corpo_humano    # listas
++ Fibular curto |  | Fibularis brevis | Peroneo corto | e | https://pt.wikipedia.org/wiki/Lista_de_m%C3%BAsculos_do_corpo_humano    # listas
++ Adutor magno |  | Adductor magnus | Aductor mayor | e | https://pt.wikipedia.org/wiki/Lista_de_m%C3%BAsculos_do_corpo_humano    # listas
++ Vasto intermédio |  | Vastus intermedius |  | e | https://pt.wikipedia.org/wiki/Lista_de_m%C3%BAsculos_do_corpo_humano    # listas
++ Levantador do lábio superior |  | Levator labii superioris | Elevador del labio superior | l | https://pt.wikipedia.org/wiki/Lista_de_m%C3%BAsculos_do_corpo_humano    # listas
++ Zigomático menor |  | Zygomaticus minor | Cigomático menor | l | https://pt.wikipedia.org/wiki/Lista_de_m%C3%BAsculos_do_corpo_humano    # listas
++ Oponente do polegar |  | Opponens pollicis | Oponente del pulgar | l | https://pt.wikipedia.org/wiki/Lista_de_m%C3%BAsculos_do_corpo_humano    # listas
++ Obturador interno |  | Obturator internus |  | l | https://pt.wikipedia.org/wiki/Lista_de_m%C3%BAsculos_do_corpo_humano    # listas
+~ Miocárdio | Músculo cardíaco | https://pt.wikipedia.org/wiki/M%C3%BAsculo_card%C3%ADaco https://pt.wikipedia.org/wiki/Lista_de_m%C3%BAsculos_do_corpo_humano    # profunda,listas
+~ Quadríceps | Quadríceps femoral | https://pt.wikipedia.org/wiki/Lista_de_m%C3%BAsculos_do_corpo_humano    # listas
+~ Levantador da escápula | Elevador da escápula | https://pt.wikipedia.org/wiki/Lista_de_m%C3%BAsculos_do_corpo_humano    # listas
+~ Peitoral maior | Grande peitoral | https://pt.wikipedia.org/wiki/Lista_de_m%C3%BAsculos_do_corpo_humano    # listas
+
+== cor-especialidades-medicas    # Cite uma especialidade médica
+~ Ortopedia | Traumatologia;Traumatologista | https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2026/2472_2026.pdf https://pt.wikipedia.org/wiki/Ortopedia    # profunda,listas
+~ Oncologia | Cancerologia;Cancerologista | https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2026/2472_2026.pdf    # profunda,listas (corrigido: tirado Cancrologia, 1 letra)
+~ Genética médica | Geneticista | https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2026/2472_2026.pdf    # profunda
+~ Homeopatia | Homeopata | https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2026/2472_2026.pdf    # profunda
+~ Acupuntura | Acupunturista | https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2026/2472_2026.pdf    # profunda
+~ Medicina do trabalho | Médico do trabalho | https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2026/2472_2026.pdf    # profunda
+~ Medicina esportiva | Médico do esporte | https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2026/2472_2026.pdf    # profunda
+~ Radioterapia | Radioterapeuta | https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2026/2472_2026.pdf    # profunda
+~ Endoscopia | Endoscopista | https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2026/2472_2026.pdf    # profunda
+~ Cirurgia pediátrica | Cirurgião pediátrico | https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2026/2472_2026.pdf    # profunda
+~ Cirurgia torácica | Cirurgião torácico | https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2026/2472_2026.pdf    # profunda
+~ Cirurgia oncológica | Cirurgião oncológico | https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2026/2472_2026.pdf    # profunda
+~ Cirurgia de cabeça e pescoço | Cirurgião de cabeça e pescoço | https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2026/2472_2026.pdf    # profunda
+~ Cirurgia da mão | Cirurgião da mão | https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2026/2472_2026.pdf    # profunda
+~ Cirurgia do aparelho digestivo | Cirurgião do aparelho digestivo;Cirurgia digestiva | https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2026/2472_2026.pdf    # profunda
+~ Medicina preventiva e social | Sanitarista;Medicina preventiva | https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2026/2472_2026.pdf    # profunda
+~ Medicina nuclear | Médico nuclear | https://sistemas.cfm.org.br/normas/arquivos/resolucoes/BR/2026/2472_2026.pdf    # profunda
+~ Radiologia | Diagnóstico por imagem | https://pt.wikipedia.org/wiki/Radiologia    # listas

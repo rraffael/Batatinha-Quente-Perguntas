@@ -1,0 +1,67 @@
+== anm-turma-da-monica
++ Maria Cebolinha | | | | r | https://pt.wikipedia.org/wiki/Lista_de_personagens_da_Turma_da_M%C3%B4nica
++ Manezinho | | | | r | https://pt.wikipedia.org/wiki/Lista_de_personagens_da_Turma_da_M%C3%B4nica
++ Tonhão | | | | r | https://pt.wikipedia.org/wiki/Lista_de_personagens_da_Turma_da_M%C3%B4nica
+~ Cascuda | Maria Cascuda | https://pt.wikipedia.org/wiki/Lista_de_personagens_da_Turma_da_M%C3%B4nica
+~ Chico Bento | Chico | https://pt.wikipedia.org/wiki/Lista_de_personagens_da_Turma_da_M%C3%B4nica
+== anm-dragon-ball
+~ Mr. Satan | Mister Satan;Sr. Satan;Hércules | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Dragon_Ball
+~ Piccolo | Piccolo Jr.;Piccolo Junior;Piccolo Júnior | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Dragon_Ball
+~ Majin Boo | Kid Boo;Super Boo | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Dragon_Ball
++ Androide 19 | Número 19 | Android 19 | Androide número 19 | r | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Dragon_Ball
++ Porunga | | | | r | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Dragon_Ball
++ Vovó Uranai | Uranai Baba;Baba | Fortuneteller Baba | | r | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Dragon_Ball
++ Vados | | | | e | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Dragon_Ball
++ Champa | | | | e | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Dragon_Ball
+== anm-naruto
+~ Yamato | Tenzou;Tenzo | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto
++ Akamaru | | | | i | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto
++ Shizune | | | | i | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto
++ Onoki | Ōnoki | | | r | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto
++ Shukaku | | | | r | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto
++ Kimimaro Kaguya | Kimimaro | | | r | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto
++ Tayuya | | | | e | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto
++ Shikadai Nara | Shikadai | | | r | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto
++ Chocho Akimichi | Chocho | | | r | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto
++ Inojin Yamanaka | Inojin | | | r | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto
++ Metal Lee | | | | r | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto
++ Ibiki Morino | Ibiki | | | e | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Naruto
+== anm-cavaleiros-zodiaco
+~ Shina | Shaina | https://en.wikipedia.org/wiki/List_of_Saint_Seiya_characters
+== anm-one-piece
++ Tashigi | | | | r | https://en.wikipedia.org/wiki/List_of_One_Piece_characters
++ Nojiko | | | | r | https://en.wikipedia.org/wiki/List_of_One_Piece_characters
++ Tsuru | Vice-Almirante Tsuru | | | e | https://en.wikipedia.org/wiki/List_of_One_Piece_characters
++ Helmeppo | | | | e | https://en.wikipedia.org/wiki/List_of_One_Piece_characters
++ Zeff | | | | e | https://en.wikipedia.org/wiki/List_of_One_Piece_characters
++ Laboon | | | | e | https://en.wikipedia.org/wiki/List_of_One_Piece_characters
++ Bellamy | | | | e | https://en.wikipedia.org/wiki/List_of_One_Piece_characters
++ Benn Beckman | Ben Beckman | | | e | https://en.wikipedia.org/wiki/List_of_One_Piece_characters
+== anm-disney-quadrinhos
++ Mortimer | Mortimer Mouse | Mortimer Mouse | | r | https://en.wikipedia.org/wiki/Mortimer_Mouse
++ Gadget | Gadget Hackwrench | Gadget Hackwrench | | r | https://en.wikipedia.org/wiki/Chip_%27n%27_Dale:_Rescue_Rangers
+== anm-desenhos-animados
+~ Dragon Ball Z | Dragon Ball Super;Dragon Ball GT;Dragon Ball Kai | https://en.wikipedia.org/wiki/Dragon_Ball
+~ Looney Tunes | Turma do Pernalonga | https://en.wikipedia.org/wiki/Looney_Tunes
+~ O Laboratório de Dexter | Laboratório de Dexter | https://pt.wikipedia.org/wiki/O_Laborat%C3%B3rio_de_Dexter
++ A Casa do Mickey Mouse | Casa do Mickey Mouse;Mickey Mouse Clubhouse | Mickey Mouse Clubhouse | La casa de Mickey Mouse | i | https://en.wikipedia.org/wiki/Mickey_Mouse_Clubhouse
++ Os Jovens Titãs | Jovens Titãs;Jovens Titãs em Ação;Teen Titans | Teen Titans | Los Jóvenes Titanes | i | https://en.wikipedia.org/wiki/Teen_Titans_(TV_series)
++ Yu Yu Hakusho | | | | i | https://en.wikipedia.org/wiki/Yu_Yu_Hakusho
++ Samurai X | Rurouni Kenshin | Rurouni Kenshin | | i | https://en.wikipedia.org/wiki/Rurouni_Kenshin
++ Beyblade | | | | i | https://en.wikipedia.org/wiki/Beyblade_(anime)
++ Super Campeões | Capitão Tsubasa;Captain Tsubasa | Captain Tsubasa | | i | https://en.wikipedia.org/wiki/Captain_Tsubasa
++ Death Note | | | | i | https://en.wikipedia.org/wiki/Death_Note_(TV_series)
++ Attack on Titan | Shingeki no Kyojin;Ataque dos Titãs | | | i | https://en.wikipedia.org/wiki/Attack_on_Titan_(TV_series)
++ Demon Slayer | Kimetsu no Yaiba | | | i | https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba
++ Fullmetal Alchemist | | | | i | https://en.wikipedia.org/wiki/Fullmetal_Alchemist_(2003_TV_series)
++ Hunter x Hunter | | | | i | https://en.wikipedia.org/wiki/Hunter_%C3%97_Hunter_(2011_TV_series)
++ My Hero Academia | Boku no Hero Academia | | | i | https://en.wikipedia.org/wiki/My_Hero_Academia
++ Bleach | | | | i | https://en.wikipedia.org/wiki/Bleach_(TV_series)
++ Inuyasha | | | | i | https://en.wikipedia.org/wiki/Inuyasha_(TV_series)
++ Gasparzinho | Gasparzinho, o Fantasminha Camarada | Casper the Friendly Ghost | | i | https://en.wikipedia.org/wiki/Casper_the_Friendly_Ghost
++ Alvin e os Esquilos | | Alvin and the Chipmunks | Alvin y las Ardillas | i | https://en.wikipedia.org/wiki/Alvin_and_the_Chipmunks
++ Gravity Falls | | | | i | https://en.wikipedia.org/wiki/Gravity_Falls
++ Samurai Jack | | | | r | https://en.wikipedia.org/wiki/Samurai_Jack
++ Capitão Planeta | Capitão Planeta e os Planetários | Captain Planet and the Planeteers | | r | https://en.wikipedia.org/wiki/Captain_Planet_and_the_Planeteers
++ Taz-Mania | Tazmânia | Taz-Mania | | r | https://en.wikipedia.org/wiki/Taz-Mania
++ Mundo Bita | | | | i | https://pt.wikipedia.org/wiki/Mundo_Bita

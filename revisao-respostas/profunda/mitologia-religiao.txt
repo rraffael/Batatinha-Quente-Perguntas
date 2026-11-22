@@ -1,0 +1,171 @@
+== mit-deuses-gregos
++ Métis | Metis | Metis | Metis | e | https://pt.wikipedia.org/wiki/M%C3%A9tis
++ Teia | Theia | Theia | Tía | l | https://pt.wikipedia.org/wiki/Teia_(mitologia)
++ Éter | | Aether | Éter | l | https://pt.wikipedia.org/wiki/%C3%89ter_(mitologia)
++ Hemera | | Hemera | | l | https://pt.wikipedia.org/wiki/Hemera
++ Pontos | Ponto | Pontus | Ponto | l | https://pt.wikipedia.org/wiki/Ponto_(mitologia)
++ Ananque | | Ananke | Ananké | l | https://pt.wikipedia.org/wiki/Ananque
++ Zéfiro | | Zephyrus | Céfiro | e | https://pt.wikipedia.org/wiki/Z%C3%A9firo
++ Bóreas | | Boreas | | e | https://pt.wikipedia.org/wiki/B%C3%B3reas
++ Cratos | | Kratos | | e | https://pt.wikipedia.org/wiki/Cratos
++ Bia | | Bia | | l | https://pt.wikipedia.org/wiki/Bia_(mitologia)
++ Zelo | | Zelus | | l | https://pt.wikipedia.org/wiki/Zelo_(mitologia)
++ Cloto | | Clotho | | e | https://pt.wikipedia.org/wiki/Cloto
++ Láquesis | | Lachesis | | e | https://pt.wikipedia.org/wiki/L%C3%A1quesis
++ Átropos | | Atropos | | e | https://pt.wikipedia.org/wiki/%C3%81tropos
++ Aglaia | | Aglaea | | l | https://pt.wikipedia.org/wiki/Aglaia
++ Eufrosine | | Euphrosyne | | l | https://pt.wikipedia.org/wiki/Eufrosine
++ Tália | | Thalia | | e | https://pt.wikipedia.org/wiki/T%C3%A1lia
++ Calíope | | Calliope | | e | https://pt.wikipedia.org/wiki/Cal%C3%ADope
++ Clio | | Clio | | e | https://pt.wikipedia.org/wiki/Clio
++ Érato | | Erato | | l | https://pt.wikipedia.org/wiki/%C3%89rato
++ Euterpe | | Euterpe | | l | https://pt.wikipedia.org/wiki/Euterpe
++ Melpômene | | Melpomene | | l | https://pt.wikipedia.org/wiki/Melp%C3%B4mene
++ Polímnia | | Polyhymnia | | l | https://pt.wikipedia.org/wiki/Pol%C3%ADmnia
++ Terpsícore | | Terpsichore | | l | https://pt.wikipedia.org/wiki/Terps%C3%ADcore
++ Urânia | | Urania | | l | https://pt.wikipedia.org/wiki/Ur%C3%A2nia
++ Ilítia | | Eileithyia | | l | https://pt.wikipedia.org/wiki/Il%C3%ADtia
++ Hímen | Himeneu | Hymen | Himeneo | l | https://pt.wikipedia.org/wiki/H%C3%ADmen
++ Higeia | Hígia | Hygieia | Higía | e | https://pt.wikipedia.org/wiki/Higeia
++ Panaceia | | Panacea | | l | https://pt.wikipedia.org/wiki/Panaceia_(mitologia)
++ Priapo | | Priapus | | e | https://pt.wikipedia.org/wiki/Priapo
++ Oneiros | | Oneiros | | l | https://pt.wikipedia.org/wiki/Oneiros
++ Estige | | Styx | Estigia | l | https://pt.wikipedia.org/wiki/Estige_(mitologia)
++ Glauco | | Glaucus | | l | https://pt.wikipedia.org/wiki/Glauco_(mitologia)
++ Aqueloo | | Achelous | | l | https://pt.wikipedia.org/wiki/Aqueloo
++ Aristeu | | Aristaeus | | l | https://pt.wikipedia.org/wiki/Aristeu
++ Dione | | Dione | | l | https://pt.wikipedia.org/wiki/Dione_(mitologia)
++ Ceto | | Ceto | | l | https://pt.wikipedia.org/wiki/Ceto_(mitologia)
++ Fórcis | | Phorcys | Forcis | l | https://pt.wikipedia.org/wiki/F%C3%B3rcis
+
+== mit-deuses-romanos
++ Ops | Ópis | Ops | Ops | e | https://pt.wikipedia.org/wiki/Ops
++ Juventas | Juventa | Juventas | Juventas | l | https://pt.wikipedia.org/wiki/Juventas
++ Bona Dea | Boa Deusa | Bona Dea | Bona Dea | e | https://pt.wikipedia.org/wiki/Bona_Dea
++ Salus | | Salus | | l | https://pt.wikipedia.org/wiki/Salus
++ Fides | | Fides | | l | https://pt.wikipedia.org/wiki/Fides_(mitologia)
++ Spes | Esperança | Spes | | l | https://pt.wikipedia.org/wiki/Spes
++ Libitina | | Libitina | | l | https://pt.wikipedia.org/wiki/Libitina
++ Carna | | Carna | | l | https://pt.wikipedia.org/wiki/Carna
++ Consus | | Consus | | l | https://pt.wikipedia.org/wiki/Consus
++ Robigus | | Robigus | | l | https://pt.wikipedia.org/wiki/Robigus
++ Honos | Honor | Honos | | l | https://pt.wikipedia.org/wiki/Honos
++ Virtus | | Virtus | | l | https://pt.wikipedia.org/wiki/Virtus_(mitologia)
++ Discórdia | | Discordia | | e | https://pt.wikipedia.org/wiki/Disc%C3%B3rdia
++ Nox | Noite | Nox | | e | https://pt.wikipedia.org/wiki/Nox_(mitologia)
+~ Plutão | Dis Pater | https://pt.wikipedia.org/wiki/Dis_Pater
+~ Júpiter | Jove | https://pt.wikipedia.org/wiki/J%C3%BApiter_(mitologia)
+
+== mit-nordica
++ Skuld | | | | e | https://pt.wikipedia.org/wiki/Nornas
++ Urd | Urdr;Urðr | | | e | https://pt.wikipedia.org/wiki/Nornas
++ Verdandi | Verðandi | | | e | https://pt.wikipedia.org/wiki/Nornas
++ Buri | Búri | Buri | | l | https://pt.wikipedia.org/wiki/B%C3%BAri
++ Bor | Borr | Bor | | l | https://pt.wikipedia.org/wiki/Borr
++ Bestla | | Bestla | | l | https://pt.wikipedia.org/wiki/Bestla
++ Vili | Vilir | Vili | | l | https://pt.wikipedia.org/wiki/Vili_e_V%C3%A9
++ Ve | Vé | Ve | | l | https://pt.wikipedia.org/wiki/Vili_e_V%C3%A9
++ Audhumbla | Audhumla;Auðumbla | Audhumbla | | l | https://pt.wikipedia.org/wiki/Audhumbla
++ Thrud | Þrúðr;Thrudr | Thrud | | l | https://pt.wikipedia.org/wiki/%C3%9Er%C3%BA%C3%B0r
++ Gullveig | | Gullveig | | l | https://pt.wikipedia.org/wiki/Gullveig
++ Hrungnir | | Hrungnir | | l | https://pt.wikipedia.org/wiki/Hrungnir
++ Thrym | Þrymr;Trym | Thrym | | l | https://pt.wikipedia.org/wiki/%C3%9Erymr
++ Svadilfari | Svaðilfari | Svadilfari | | l | https://pt.wikipedia.org/wiki/Sva%C3%B0ilfari
++ Gullinbursti | | Gullinbursti | | l | https://pt.wikipedia.org/wiki/Gullinbursti
++ Fulla | | Fulla | | l | https://pt.wikipedia.org/wiki/Fulla
++ Hoenir | Hœnir;Hönir | Hoenir | | l | https://pt.wikipedia.org/wiki/H%C5%93nir
++ Sol | Sól | Sol | | l | https://pt.wikipedia.org/wiki/S%C3%B3l_(mitologia_n%C3%B3rdica)
++ Mani | Máni | Mani | | l | https://pt.wikipedia.org/wiki/M%C3%A1ni
++ Nott | Nótt | Nott | | l | https://pt.wikipedia.org/wiki/N%C3%B3tt
++ Thjazi | Þjazi;Tiazi | Thjazi | | l | https://pt.wikipedia.org/wiki/%C3%9Ejazi
++ Hraesvelg | Hræsvelgr | Hraesvelgr | | l | https://pt.wikipedia.org/wiki/Hr%C3%A6svelgr
+~ Ymir | Aurgelmir | https://pt.wikipedia.org/wiki/Ymir
+~ Elfos | Alfar;Álfar | https://pt.wikipedia.org/wiki/%C3%81lfar
+~ Anões | Dvergar | https://pt.wikipedia.org/wiki/An%C3%B5es_(mitologia_n%C3%B3rdica)
+
+== mit-livros-biblia
+~ Gênesis | Bereshit | https://pt.wikipedia.org/wiki/G%C3%AAnesis
+~ Êxodo | Shemot | https://pt.wikipedia.org/wiki/%C3%8Axodo
+~ Levítico | Vaicra;Vayikra | https://pt.wikipedia.org/wiki/Lev%C3%ADtico
+~ Números | Bamidbar | https://pt.wikipedia.org/wiki/N%C3%BAmeros_(livro)
+~ Deuteronômio | Devarim | https://pt.wikipedia.org/wiki/Deuteron%C3%B4mio
+~ Salmos | Tehilim | https://pt.wikipedia.org/wiki/Livro_dos_Salmos
+~ Provérbios | Mishlei | https://pt.wikipedia.org/wiki/Livro_dos_Prov%C3%A9rbios
+~ Eclesiastes | Coélet;Qohélet;Kohelet | https://pt.wikipedia.org/wiki/Eclesiastes
+~ Cântico dos Cânticos | Shir Hashirim | https://pt.wikipedia.org/wiki/C%C3%A2ntico_dos_C%C3%A2nticos
+~ Jó | Iyov | https://pt.wikipedia.org/wiki/Livro_de_J%C3%B3
+~ 1 Crônicas | Primeiro Paralipômenos;1 Paralipômenos | https://pt.wikipedia.org/wiki/Livros_das_Cr%C3%B4nicas
+~ 2 Crônicas | Segundo Paralipômenos;2 Paralipômenos | https://pt.wikipedia.org/wiki/Livros_das_Cr%C3%B4nicas
+~ Eclesiástico | Ben Sira;Sabedoria de Ben Sirá;Livro de Ben Sirá | https://pt.wikipedia.org/wiki/Eclesi%C3%A1stico_(livro)
+
+== mit-personagens-biblicos
++ Sadraque | | Shadrach | Sadrac | e | https://pt.wikipedia.org/wiki/Sadraque,_Mesaque_e_Abede-Nego
++ Mesaque | | Meshach | Mesac | e | https://pt.wikipedia.org/wiki/Sadraque,_Mesaque_e_Abede-Nego
++ Abede-Nego | Abednego | Abednego | Abed-nego | e | https://pt.wikipedia.org/wiki/Sadraque,_Mesaque_e_Abede-Nego
++ Zípora | | Zipporah | Séfora | l | https://pt.wikipedia.org/wiki/Z%C3%ADpora
++ Balaão | | Balaam | Balaam | l | https://pt.wikipedia.org/wiki/Bala%C3%A3o
++ Raabe | | Rahab | Rahab | e | https://pt.wikipedia.org/wiki/Raabe
++ Jael | | Jael | | l | https://pt.wikipedia.org/wiki/Jael
++ Jefté | | Jephthah | Jefté | l | https://pt.wikipedia.org/wiki/Jeft%C3%A9
++ Eli | | Eli | Elí | e | https://pt.wikipedia.org/wiki/Eli_(sacerdote)
++ Abner | | Abner | | l | https://pt.wikipedia.org/wiki/Abner
++ Joabe | | Joab | | l | https://pt.wikipedia.org/wiki/Joabe
++ Mical | | Michal | | l | https://pt.wikipedia.org/wiki/Mical
++ Abigail | | Abigail | | l | https://pt.wikipedia.org/wiki/Abigail_(B%C3%ADblia)
++ Roboão | | Rehoboam | Roboam | l | https://pt.wikipedia.org/wiki/Robo%C3%A3o
++ Jeroboão | | Jeroboam | Jeroboam | l | https://pt.wikipedia.org/wiki/Jerobo%C3%A3o_I
++ Naamã | | Naaman | Naamán | l | https://pt.wikipedia.org/wiki/Naam%C3%A3
++ Ezequias | | Hezekiah | Ezequías | e | https://pt.wikipedia.org/wiki/Ezequias
++ Josias | | Josiah | Josías | e | https://pt.wikipedia.org/wiki/Josias
++ Zorobabel | | Zerubbabel | Zorobabel | l | https://pt.wikipedia.org/wiki/Zorobabel
++ Ciro | Ciro, o Grande | Cyrus | | e | https://pt.wikipedia.org/wiki/Ciro_II
++ Dario | | Darius | | e | https://pt.wikipedia.org/wiki/Dario_I
++ Assuero | Xerxes | Ahasuerus | Asuero | l | https://pt.wikipedia.org/wiki/Xerxes_I
++ Vasti | | Vashti | | l | https://pt.wikipedia.org/wiki/Vasti
++ Hamã | Amã | Haman | Amán | l | https://pt.wikipedia.org/wiki/Ham%C3%A3
++ Susana | | Susanna | | l | https://pt.wikipedia.org/wiki/Susana_(B%C3%ADblia)
++ Holofernes | | Holofernes | | l | https://pt.wikipedia.org/wiki/Holofernes
++ Judas Macabeu | Judas Macabeus | Judas Maccabeus | Judas Macabeo | l | https://pt.wikipedia.org/wiki/Judas_Macabeu
++ Cam | | Ham | Cam | e | https://pt.wikipedia.org/wiki/Cam_(B%C3%ADblia)
++ Sem | | Shem | Sem | e | https://pt.wikipedia.org/wiki/Sem_(B%C3%ADblia)
++ Jafé | | Japheth | Jafet | e | https://pt.wikipedia.org/wiki/Jaf%C3%A9
++ Efraim | | Ephraim | | l | https://pt.wikipedia.org/wiki/Efraim
++ Manassés | | Manasseh | Manasés | l | https://pt.wikipedia.org/wiki/Manass%C3%A9s
++ Potifar | | Potiphar | Putifar | l | https://pt.wikipedia.org/wiki/Potifar
++ Labão | | Laban | | l | https://pt.wikipedia.org/wiki/Lab%C3%A3o
++ Dina | | Dinah | | l | https://pt.wikipedia.org/wiki/Dina_(B%C3%ADblia)
++ Judá | | Judah | | e | https://pt.wikipedia.org/wiki/Jud%C3%A1_(patriarca)
++ Safira | | Sapphira | | l | https://pt.wikipedia.org/wiki/Ananias_e_Safira
++ Bartimeu | | Bartimaeus | Bartimeo | l | https://pt.wikipedia.org/wiki/Bartimeu
++ Jairo | | Jairus | | l | https://pt.wikipedia.org/wiki/Jairo
++ Anás | | Annas | | l | https://pt.wikipedia.org/wiki/An%C3%A1s
++ Onésimo | | Onesimus | | l | https://pt.wikipedia.org/wiki/On%C3%A9simo
++ Apolo | | Apollos | | l | https://pt.wikipedia.org/wiki/Apolo_(crist%C3%A3o)
++ Febe | | Phoebe | | l | https://pt.wikipedia.org/wiki/Febe_(B%C3%ADblia)
++ Epafras | | Epaphras | | l | https://pt.wikipedia.org/wiki/Epafras
++ Zebedeu | | Zebedee | | l | https://pt.wikipedia.org/wiki/Zebedeu
++ Cleopas | Cléofas | Cleopas | | l | https://pt.wikipedia.org/wiki/Cleofas
++ Herodes Antipas | | Herod Antipas | | e | https://pt.wikipedia.org/wiki/Herodes_Antipas
++ Herodes, o Grande | Herodes Magno | Herod the Great | | e | https://pt.wikipedia.org/wiki/Herodes,_o_Grande
+
+== mit-criaturas
++ Fúrias | Erínias;Eumênides | Furies;Erinyes | Furias;Erinias | r | https://pt.wikipedia.org/wiki/Er%C3%ADnias
++ Oréade | | Oread | | l | https://pt.wikipedia.org/wiki/Or%C3%A9ades
++ Nereida | | Nereid | | r | https://pt.wikipedia.org/wiki/Nereidas
++ Simurgue | Simurg | Simurgh | Simurgh | l | https://pt.wikipedia.org/wiki/Simurgue
++ Garuda | | Garuda | | l | https://pt.wikipedia.org/wiki/Garuda
++ Ave Roca | Roca;Pássaro Roca | Roc | Roc | e | https://pt.wikipedia.org/wiki/Roca_(mitologia)
++ Selkie | | Selkie | | l | https://pt.wikipedia.org/wiki/Selkie
++ Oni | | Oni | | e | https://pt.wikipedia.org/wiki/Oni
++ Qilin | Kirin | Qilin | | l | https://pt.wikipedia.org/wiki/Qilin
++ Mothman | Homem-mariposa | Mothman | | l | https://pt.wikipedia.org/wiki/Mothman
++ Ladon | | Ladon | | l | https://pt.wikipedia.org/wiki/Ladon_(mitologia)
++ Píton | Pitão | Python | | l | https://pt.wikipedia.org/wiki/P%C3%ADton_(mitologia)
++ Esteno | | Stheno | | l | https://pt.wikipedia.org/wiki/Esteno
++ Euríale | | Euryale | | l | https://pt.wikipedia.org/wiki/Eur%C3%ADale
++ Ortro | Orto | Orthrus | | l | https://pt.wikipedia.org/wiki/Ortro
++ Leão de Neméia | | Nemean Lion | León de Nemea | e | https://pt.wikipedia.org/wiki/Le%C3%A3o_de_Nem%C3%A9ia
++ Javali de Erimanto | | Erymanthian Boar | | l | https://pt.wikipedia.org/wiki/Javali_de_Erimanto
++ Touro de Creta | | Cretan Bull | | l | https://pt.wikipedia.org/wiki/Touro_de_Creta
++ Ave de Estínfalo | Aves de Estínfalo | Stymphalian Birds | | l | https://pt.wikipedia.org/wiki/Aves_do_Lago_Est%C3%ADnfalo
+

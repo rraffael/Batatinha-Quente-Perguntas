@@ -52,3 +52,7 @@
 + Tarauacá | | | | e | https://pt.wikipedia.org/wiki/Rio_Tarauac%C3%A1
 + Nhamundá | | | | e | https://pt.wikipedia.org/wiki/Rio_Nhamund%C3%A1
 + Moju | | | | e | https://pt.wikipedia.org/wiki/Rio_Moju
++ Descoberto | Rio Descoberto | | | r | https://pt.wikipedia.org/wiki/Rio_Descoberto
++ Sucuriú | Rio Sucuriú | | | r | https://pt.wikipedia.org/wiki/Rio_Sucuri%C3%BA
++ Aporé | Rio Aporé | | | e | https://pt.wikipedia.org/wiki/Rio_Apor%C3%A9
++ Itajaí-Mirim | Rio Itajaí-Mirim | | | e | https://pt.wikipedia.org/wiki/Rio_Itaja%C3%AD-Mirim

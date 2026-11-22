@@ -1,0 +1,177 @@
+== fut-clubes-brasileiros    # Cite um clube de futebol brasileiro
++ Amazonas | Amazonas FC |  |  | i | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_B    # generica
++ Brusque | Brusque FC |  |  | r | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_C    # generica
++ São Bernardo | São Bernardo FC |  |  | r | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_C    # generica
++ Athletic | Athletic Club;Athletic-MG |  |  | r | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_B    # generica
++ Água Santa |  |  |  | r | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # generica
++ Retrô | Retrô FC |  |  | r | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_C    # generica
++ Maringá | Maringá FC |  |  | r | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_C    # generica
++ Floresta | Floresta-CE |  |  | r | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_C    # generica
++ Itabaiana |  |  |  | r | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_C    # generica
++ Anápolis | Anápolis FC |  |  | r | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_C    # generica
++ Nova Iguaçu |  |  |  | e | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # generica
++ Boavista | Boavista-RJ |  |  | e | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # generica
++ Aparecidense |  |  |  | e | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ Altos |  |  |  | e | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ Azuriz |  |  |  | l | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ Barra-SC |  |  |  | l | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ Capital-DF |  |  |  | l | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ Ceilândia |  |  |  | e | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ Central |  |  |  | e | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ Cianorte |  |  |  | l | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ FC Cascavel |  |  |  | l | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ Goianésia |  |  |  | l | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ Goiânia |  |  |  | l | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ Goiatuba |  |  |  | l | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ Guarany de Bagé |  |  |  | l | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ Horizonte |  |  |  | l | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ Iguatu |  |  |  | l | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ Imperatriz |  |  |  | l | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ Independência |  |  |  | l | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ Itabirito |  |  |  | l | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ Juazeirense |  |  |  | l | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ Lagarto |  |  |  | l | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ Luverdense |  |  |  | e | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ Manaus |  |  |  | e | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ Maranhão |  |  |  | l | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ Marcílio Dias |  |  |  | e | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ Maricá |  |  |  | l | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ Mixto |  |  |  | e | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ Monte Azul |  |  |  | l | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ Operário-MS |  |  |  | l | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ Parnahyba |  |  |  | l | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ Penedense |  |  |  | l | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ Porto Vitória |  |  |  | l | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ Pouso Alegre |  |  |  | l | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ Rio Branco-ES |  |  |  | l | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ São José-RS |  |  |  | l | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ São Luiz |  |  |  | l | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ Sousa |  |  |  | l | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ Tocantinópolis |  |  |  | l | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ Uberlândia |  |  |  | l | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ União-TO |  |  |  | l | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ ASA |  |  |  | e | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ Águia de Marabá |  |  |  | l | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ Santa Cruz de Natal |  |  |  | l | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ Barcelona de Ilhéus |  |  |  | l | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ Jequié |  |  |  | l | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ Humaitá |  |  |  | l | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ Manauara |  |  |  | l | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ Gazin Porto Velho |  |  |  | l | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ GAS |  |  |  | l | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
++ Trem |  |  |  | l | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D    # listas
+~ Cruzeiro | Cabuloso | https://pt.wikipedia.org/wiki/Cruzeiro_Esporte_Clube    # generica
+~ Botafogo | Glorioso | https://pt.wikipedia.org/wiki/Botafogo_de_Futebol_e_Regatas    # generica
+~ Grêmio | Imortal | https://pt.wikipedia.org/wiki/Gr%C3%AAmio_Foot-Ball_Porto_Alegrense    # generica
+~ Vitória | Leão da Barra | https://pt.wikipedia.org/wiki/Esporte_Clube_Vit%C3%B3ria    # generica
+~ Fortaleza | Leão do Pici | https://pt.wikipedia.org/wiki/Fortaleza_Esporte_Clube    # generica
+~ Coritiba | Coxa-Branca | https://pt.wikipedia.org/wiki/Coritiba_Foot_Ball_Club    # generica
+~ Athletico Paranaense | Athletico | https://pt.wikipedia.org/wiki/Club_Athletico_Paranaense    # generica
+~ Corinthians | Time do Povo | https://pt.wikipedia.org/wiki/Sport_Club_Corinthians_Paulista    # generica
+~ Vasco da Gama | Cruz-Maltino | https://pt.wikipedia.org/wiki/Club_de_Regatas_Vasco_da_Gama    # generica
+
+== fut-estadios-brasil    # Cite um estádio de futebol brasileiro
++ Pituaçu | Estádio de Pituaçu |  |  | i | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # generica
++ Parque do Sabiá | Estádio Parque do Sabiá |  |  | i | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # generica
++ Pinheirão | |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # generica
++ Estádio do Café |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # generica
++ Prudentão |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # generica
++ Teixeirão |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # generica
++ Frasqueirão |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # generica
++ Willie Davids |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # generica
++ Anacleto Campanella |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # generica
++ Palma Travassos |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # generica
++ Caio Martins |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # generica
++ Curuzu |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # generica
++ Parque São Jorge |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # generica
++ Ipatingão |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # generica
++ Amigão |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # generica
++ Helenão |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # generica
++ Douradão |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # generica
++ Santa Cruz | Estádio Santa Cruz |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # generica
++ Boca do Jacaré |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Irmão Gino Maria Rossi |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Colosso da Lagoa |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Antônio Otoni Filho |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Vail Chaves |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Lacerdão |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Alfredão |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Arena do Jacaré |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Barão da Serra Negra |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Major Levy Sobrinho |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Luthero Lopes |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Arena Romeirão |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Felipão |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Arena Cruzeiro |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Silvio Salles |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Décio Vitta |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Jóia da Princesa |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Herminio Ometto |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Gilbertão |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Primeiro de Maio |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Boca do Lobo |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Melão |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Uberabão |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Bento de Abreu |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Arena Acreana |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Arapucão |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Moacyrzão |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Giulite Coutinho |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Vermelhão da Serra |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Torquato Pontes |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Bruno José Daniel |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Jayme Cintra |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Walter Ribeiro |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Zezinho Magalhães |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Serrinha |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Fumeirão |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Marizão |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Mirandão |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Lomantão |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Nhozinho Santos |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Adhermazão |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Rua Bariri |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Jonas Duarte |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Germano Krüger |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Estádio do Trabalhador | Trabalhador |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Carneirão |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Grito da República |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Arena do Calçado |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Florestão |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Ítalo del Cima |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
++ Olímpico da USP |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil    # listas
+~ Allianz Parque | Nubank Parque | https://en.wikipedia.org/wiki/Nubank_Parque    # confirmado: nome oficial desde 04/05/2026 (votação Nubank)
+~ Neo Química Arena | Itaquera | https://pt.wikipedia.org/wiki/Neo_Qu%C3%ADmica_Arena    # generica
+~ Mané Garrincha | Arena BRB;Arena BRB Mané Garrincha | https://pt.wikipedia.org/wiki/Est%C3%A1dio_Nacional_de_Bras%C3%ADlia    # generica
+~ Nilton Santos | Estádio Nilton Santos | https://pt.wikipedia.org/wiki/Est%C3%A1dio_Nilton_Santos    # generica
+
+== fut-campeoes-libertadores    # Cite um clube campeão da Copa Libertadores da América
+~ Independiente | Independiente de Avellaneda | https://pt.wikipedia.org/wiki/Club_Atl%C3%A9tico_Independiente    # generica
+~ San Lorenzo | San Lorenzo de Almagro | https://pt.wikipedia.org/wiki/Club_Atl%C3%A9tico_San_Lorenzo_de_Almagro    # generica
+
+== fut-pentacampeoes    # Cite um jogador convocado em uma Copa do Mundo vencida pelo Brasil (1958, 1962, 1970, 1994 ou 2002)
+~ Pelé | Rei Pelé | https://pt.wikipedia.org/wiki/Pel%C3%A9    # generica
+~ Romário | Baixinho | https://pt.wikipedia.org/wiki/Rom%C3%A1rio    # generica
+~ Zagallo | Velho Lobo | https://pt.wikipedia.org/wiki/Zagallo    # generica
+~ Rogério Ceni | Ceni | https://pt.wikipedia.org/wiki/Rog%C3%A9rio_Ceni    # generica
+~ Nilton Santos | Enciclopédia | https://pt.wikipedia.org/wiki/Nilton_Santos    # generica
+
+== fut-bola-de-ouro    # Cite um jogador vencedor da Bola de Ouro (Ballon d'Or)
+~ Lionel Messi | Leo Messi | https://pt.wikipedia.org/wiki/Ballon_d%27Or    # generica
+~ Franz Beckenbauer | Kaiser | https://pt.wikipedia.org/wiki/Franz_Beckenbauer    # generica
+~ Johan Cruyff | Cruijff | https://pt.wikipedia.org/wiki/Johan_Cruyff    # generica
+~ Andriy Shevchenko | Sheva | https://pt.wikipedia.org/wiki/Andriy_Shevchenko    # generica
+~ Ronaldo Fenômeno | Ronaldo Nazário | https://pt.wikipedia.org/wiki/Ronaldo_Naz%C3%A1rio    # generica
+~ Eusébio | Pantera Negra | https://pt.wikipedia.org/wiki/Eus%C3%A9bio    # generica
+~ Hristo Stoichkov | Stoitchkov | https://pt.wikipedia.org/wiki/Hristo_Stoichkov    # generica
+
+== fut-clubes-europeus    # Cite um clube de futebol europeu
+~ Inter de Milão | Inter | https://pt.wikipedia.org/wiki/Inter_de_Mil%C3%A3o    # generica
+~ Manchester United | Man U | https://pt.wikipedia.org/wiki/Manchester_United_Football_Club    # generica
+- Manchester City | City | https://pt.wikipedia.org/wiki/Manchester_City_Football_Club    # generica # REJ: "City" genérico (Leicester City etc.)
+~ Borussia Dortmund | BVB | https://pt.wikipedia.org/wiki/Borussia_Dortmund    # generica
+~ Benfica | SL Benfica | https://pt.wikipedia.org/wiki/Sport_Lisboa_e_Benfica    # generica
+~ Porto | FC Porto | https://pt.wikipedia.org/wiki/Futebol_Clube_do_Porto    # generica
+~ Sporting | Sporting CP | https://pt.wikipedia.org/wiki/Sporting_Clube_de_Portugal    # generica
+~ Olympique de Marseille | OM | https://pt.wikipedia.org/wiki/Olympique_de_Marseille    # generica
+~ Barcelona | FC Barcelona | https://pt.wikipedia.org/wiki/Futebol_Clube_Barcelona    # generica

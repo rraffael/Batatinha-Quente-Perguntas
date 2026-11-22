@@ -2,19 +2,24 @@ tema: cinema-tv
 nome: Cinema e Séries
 
 == cin-animacoes-disney-pixar | Cite um longa de animação da Disney ou da Pixar | facil | disney;pixar;animação;filmes | https://pt.wikipedia.org/wiki/Lista_de_filmes_de_anima%C3%A7%C3%A3o_da_Disney
-@nota Sequências com o mesmo nome contam junto com o original (Toy Story 2 = Toy Story).
-Toy Story | Toy Story 2;Toy Story 3;Toy Story 4 | | | c
+@nota Cada filme de uma franquia conta como uma resposta separada.
+Toy Story | c
+Toy Story 2 | i
+Toy Story 3 | i
+Toy Story 4 | r
 Procurando Nemo | Nemo | Finding Nemo | Buscando a Nemo | c
 O Rei Leão | Rei Leão | The Lion King | El rey león | c
 Frozen | Frozen: Uma Aventura Congelante | | | c
 Frozen II | Frozen 2 | | | i
-Os Incríveis | Os Incríveis 2;Incríveis | The Incredibles;Incredibles 2 | Los Increíbles | c
+Os Incríveis | Incríveis | The Incredibles | Los Increíbles | c
+Os Incríveis 2 | Incríveis 2 | Incredibles 2 | Los Increíbles 2 | i
 Monstros S.A. | Monstros SA | Monsters, Inc. | Monsters, Inc. | c
 Universidade Monstros | | Monsters University | Monsters University | i
 Carros | | Cars | | c
 Carros 2 | | Cars 2 | | r
 Carros 3 | | Cars 3 | | r
-Divertida Mente | Divertida Mente 2 | Inside Out;Inside Out 2 | Intensa-Mente;Del revés | c
+Divertida Mente | | Inside Out | Intensa-Mente;Del revés | c
+Divertida Mente 2 | | Inside Out 2 | Intensa-Mente 2;Del revés 2 | i
 Up: Altas Aventuras | Up | | | c
 Ratatouille | | | | c
 WALL-E | Wall E | | | i
@@ -22,7 +27,8 @@ Procurando Dory | Dory | Finding Dory | Buscando a Dory | i
 Viva: A Vida é uma Festa | Viva | Coco | Coco | i
 Moana | Moana: Um Mar de Aventuras;Vaiana | | | c
 Moana 2 | | | | i
-Zootopia | Zootopia 2;Zootopia: Essa Cidade é o Bicho | Zootopia;Zootropolis | Zootopia | i
+Zootopia | Zootopia: Essa Cidade é o Bicho | Zootopia;Zootropolis | Zootopia | i
+Zootopia 2 | | Zootropolis 2 | | r
 Enrolados | | Tangled | Enredados | i
 Encanto | | | | i
 Branca de Neve e os Sete Anões | Branca de Neve | Snow White and the Seven Dwarfs | Blancanieves y los siete enanitos | i
@@ -34,18 +40,19 @@ Mulan | | | | i
 Pocahontas | | | | i
 Tarzan | | | | i
 Hércules | | Hercules | | i
-Lilo & Stitch | Lilo e Stitch | | | i
+Lilo & Stitch | Lilo e Stitch;Stitch |  |  | i
 Pinóquio | | Pinocchio | Pinocho | i
 Dumbo | | | | i
 Bambi | | | | i
 A Bela Adormecida | | Sleeping Beauty | La bella durmiente | i
 Peter Pan | | | | i
 101 Dálmatas | Cento e Um Dálmatas | One Hundred and One Dalmatians | 101 dálmatas | i
-Mogli: O Menino Lobo | Mogli | The Jungle Book | El libro de la selva | i
+Mogli: O Menino Lobo | Mogli;O Livro da Selva;Livro da Selva | The Jungle Book | El libro de la selva | i
 A Dama e o Vagabundo | | Lady and the Tramp | La dama y el vagabundo | r
 Alice no País das Maravilhas | | Alice in Wonderland | Alicia en el país de las maravillas | r
-Fantasia | | | | r
-Aristogatas | | The Aristocats | Los aristogatos | r
+Fantasia | r
+Fantasia 2000 | e
+Aristogatas | Os Aristogatas | The Aristocats | Los aristogatos | r
 Robin Hood | | | | r
 O Corcunda de Notre Dame | | The Hunchback of Notre Dame | El jorobado de Notre Dame | r
 A Nova Onda do Imperador | | The Emperor's New Groove | Las locuras del emperador | r
@@ -74,23 +81,29 @@ Red: Crescer é uma Fera | Red | Turning Red | Red | r
 Lightyear | | | | r
 Elementos | | Elemental | | r
 Elio | | | | e
-Bernardo e Bianca | | The Rescuers | Los rescatadores | e
+Bernardo e Bianca | Bernardo e Bianca na Terra dos Cangurus;The Rescuers Down Under | The Rescuers | Los rescatadores | e
 O Cão e a Raposa | | The Fox and the Hound | El zorro y el sabueso | e
 A Espada Era a Lei | | The Sword in the Stone | La espada en la piedra | e
 O Caldeirão Mágico | | The Black Cauldron | El caldero mágico | l
 Oliver e Sua Turma | | Oliver & Company | Oliver y su pandilla | l
 As Peripécias do Ratinho Detetive | | The Great Mouse Detective | Basil, el ratón superdetective | l
+Ursinho Pooh | Pooh;Winnie the Pooh;As Aventuras do Ursinho Pooh | c
+Alô, Amigos | Saludos Amigos | r
+Você Já Foi à Bahia? | Os Três Cavaleiros | The Three Caballeros | Los tres caballeros | r
+As Aventuras de Ichabod e Sr. Sapo | Ichabod e Sr. Sapo | The Adventures of Ichabod and Mr. Toad | e
+Tempo de Melodia | Melody Time | l
+Música, Maestro! | Make Mine Music | l
 
-== cin-personagens-marvel | Cite um personagem da Marvel (herói ou vilão) | facil | marvel;quadrinhos;super-heróis | https://pt.wikipedia.org/wiki/Lista_de_personagens_da_Marvel_Comics
+== cin-personagens-marvel | Cite um personagem do universo Marvel (heróis e vilões) | facil | marvel;quadrinhos;super-heróis | https://pt.wikipedia.org/wiki/Lista_de_personagens_da_Marvel_Comics
 Homem-Aranha | Peter Parker | Spider-Man;Spiderman | Hombre Araña | c
-Homem de Ferro | Tony Stark | Iron Man | Hombre de Hierro | c
+Homem de Ferro | Tony Stark;Ironman | Iron Man | Hombre de Hierro | c
 Capitão América | Steve Rogers | Captain America | Capitán América | c
 Thor | | | | c
 Hulk | Bruce Banner;Incrível Hulk | | | c
 Viúva Negra | Natasha Romanoff | Black Widow | Viuda Negra | c
 Gavião Arqueiro | Clint Barton | Hawkeye | Ojo de Halcón | i
 Pantera Negra | T'Challa | Black Panther | Pantera Negra | c
-Doutor Estranho | Doutor Stephen Strange;Stephen Strange | Doctor Strange | Doctor Strange | i
+Doutor Estranho | Doutor Stephen Strange;Stephen Strange;Dr. Estranho | Doctor Strange | Doctor Strange | i
 Capitã Marvel | Carol Danvers | Captain Marvel | Capitana Marvel | i
 Thanos | | | | c
 Loki | | | | c
@@ -104,8 +117,8 @@ Magneto | | | | i
 Mística | | Mystique | Mística | r
 Vampira | | Rogue | Pícara | r
 Noturno | | Nightcrawler | Rondador Nocturno | r
-Fera | | Beast | Bestia | r
-Homem-Formiga | | Ant-Man | Hombre Hormiga | i
+Fera | Hank McCoy | Beast | Bestia | r
+Homem-Formiga | Antman | Ant-Man | Hombre Hormiga | i
 Vespa | | Wasp | Avispa | r
 Visão | | Vision | Visión | r
 Feiticeira Escarlate | Wanda Maximoff;Wanda | Scarlet Witch | Bruja Escarlata | i
@@ -119,22 +132,22 @@ Rocket | Rocket Raccoon | | | r
 Groot | | | | i
 Nebulosa | | Nebula | Nébula | e
 Mantis | | | | e
-Senhor Fantástico | Reed Richards;Sr. Fantástico | Mister Fantastic | Señor Fantástico | r
+Senhor Fantástico | Reed Richards;Sr. Fantástico;Mr. Fantastic | Mister Fantastic | Señor Fantástico | r
 Mulher Invisível | Sue Storm | Invisible Woman | Mujer Invisible | r
 Tocha Humana | Johnny Storm | Human Torch | Antorcha Humana | r
-Coisa | Ben Grimm | The Thing | La Cosa | r
-Doutor Destino | Victor von Doom | Doctor Doom | Doctor Doom | r
+Coisa | Ben Grimm;Thing | The Thing | La Cosa | r
+Doutor Destino | Victor von Doom;Dr. Destino | Doctor Doom | Doctor Doom | r
 Galactus | | | | e
 Surfista Prateado | | Silver Surfer | Estela Plateada | r
 Venom | Eddie Brock | | | i
-Duende Verde | Norman Osborn | Green Goblin | Duende Verde | i
+Duende Verde | Norman Osborn;Duende | Green Goblin | Duende Verde | i
 Doutor Octopus | Doc Ock;Otto Octavius | Doctor Octopus | | r
 Electro | | | | e
 Abutre | | Vulture | Buitre | e
 Mysterio | Mistério | | | e
 Kraven | Kraven, o Caçador | Kraven the Hunter | | e
 Rino | | Rhino | Rino | e
-Lagarto | | Lizard | Lagarto | e
+Lagarto | Curt Connors | Lizard | Lagarto | e
 Homem-Areia | | Sandman | Hombre de Arena | e
 Justiceiro | Frank Castle | Punisher | Castigador | r
 Demolidor | Matt Murdock | Daredevil | | r
@@ -165,8 +178,41 @@ Miles Morales | | | | r
 Mulher-Aranha | Jessica Drew | Spider-Woman | Mujer Araña | e
 Gwen Stacy | Spider-Gwen;Ghost-Spider | | | r
 Carnificina | | Carnage | Matanza | e
+Kingpin | Rei do Crime;Wilson Fisk | c
+Namor | Príncipe Namor | i
+Máquina de Combate | War Machine;James Rhodes;Rhodey | i
+Pepper Potts | Virginia Potts | i
+Odin | i
+Wong | i
+Shuri | i
+Okoye | r
+Killmonger | Erik Killmonger | i
+Yondu | Yondu Udonta | i
+Ronan | Ronan, o Acusador | Ronan the Accuser | r
+Morbius | i
+Gata Negra | Felicia Hardy | Black Cat | i
+Madame Teia |  | Madame Web | r
+Abominável | Abomination;Emil Blonsky | r
+Taskmaster | Treinador | r
+Zemo | Barão Zemo;Helmut Zemo | Baron Zemo | r
+Heimdall | r
+Sif | r
+Korg | r
+Mephisto | r
+Lince Negra | Kitty Pryde | Shadowcat | r
+Jubileu |  | Jubilee | r
+Bishop | r
+Arnim Zola | Zola | e
+Ossos Cruzados | Crossbones | e
+Maria Hill | r
+Phil Coulson | Agente Coulson;Coulson | r
+Peggy Carter | Agente Carter | r
+Ego | Ego, o Planeta Vivo | Ego the Living Planet | r
+Adam Warlock | e
+Surtur | e
+Líder | O Líder | The Leader | e
 
-== cin-harry-potter | Cite um personagem do universo Harry Potter | media | harry potter;livros;filmes | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Harry_Potter
+== cin-harry-potter | Cite um personagem do mundo bruxo de Hogwarts (livros e filmes de J. K. Rowling) | media | harry potter;livros;filmes | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Harry_Potter
 Harry Potter | Harry | | | c
 Hermione Granger | Hermione | | | c
 Rony Weasley | Rony;Ronald Weasley | Ron Weasley;Ron | Ron Weasley | c
@@ -246,6 +292,40 @@ Newt Scamander | Newt | | | r
 Alvo Severo Potter | | Albus Severus Potter | | e
 Scorpius Malfoy | | | | l
 Rufo Scrimgeour | | Rufus Scrimgeour | | l
+Padma Patil | Padma | r
+Parvati Patil | Parvati | r
+Pansy Parkinson | Pansy | i
+Blaise Zabini | Blaise | r
+Barão Sangrento | Bloody Baron | r
+Frei Gorducho | Fat Friar | r
+Dama Cinzenta | Grey Lady;Helena Ravenclaw | r
+Igor Karkaroff | Karkaroff | r
+Madame Maxime | Olympe Maxime | r
+Madame Hooch | Rolanda Hooch | r
+Firenze | r
+Nicolau Flamel | Nicolas Flamel | r
+Teddy Lupin | Teddy | r
+Tina Goldstein | Tina | r
+Queenie Goldstein | Queenie | r
+Jacob Kowalski | Jacob | r
+Credence Barebone | Credence | r
+Ludo Bagman | Bagman | l
+Oliver Wood | Olívio Wood | r
+Angelina Johnson | l
+Katie Bell | l
+Marcus Flint | l
+Hannah Abbott | Ana Abbott | l
+Susan Bones | l
+Justin Finch-Fletchley | l
+Cormac McLaggen | l
+Marietta Edgecombe | l
+Bathilda Bagshot | l
+Griphook | Grampo | r
+Fang | Canino | r
+Rose Weasley | Rosa Weasley | l
+Hugo Weasley | l
+Tiago Sirius Potter | James Sirius Potter | l
+Lílian Luna Potter | Lily Luna Potter | l
 
 == cin-star-wars | Cite um personagem de Star Wars | media | star wars;filmes | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Star_Wars
 Darth Vader | Anakin Skywalker;Anakin;Vader | | | c
@@ -261,7 +341,7 @@ Imperador Palpatine | Palpatine;Darth Sidious | Emperor Palpatine | | i
 Darth Maul | | | | i
 Padmé Amidala | Padmé;Rainha Amidala | | | i
 Qui-Gon Jinn | Qui-Gon | | | r
-Mace Windu | | | | r
+Mace Windu | Mestre Windu;Windu |  |  | r
 Jabba, o Hutt | Jabba | Jabba the Hutt | | i
 Boba Fett | | | | i
 Jango Fett | | | | r
@@ -310,6 +390,54 @@ Jawas | Jawa | | | e
 Tusken | Povo da Areia | Tusken Raiders;Sand People | | l
 Qi'ra | | | | l
 Kanan Jarrah | | | | l
+Capitão Rex | Rex;Captain Rex | i
+Kit Fisto | r
+Plo Koon | r
+Aayla Secura | r
+Ki-Adi-Mundi | r
+Asajj Ventress | Ventress | r
+Nute Gunray | r
+Darth Plagueis | Plagueis | r
+Bossk | r
+Porgs | Porg | i
+Wampa | i
+Rancor | i
+Cara Dune | r
+Greef Karga | r
+Fennec Shand | r
+IG-11 | r
+Luthen Rael | r
+Dengar | e
+IG-88 | e
+Zeb Orrelios | Zeb | r
+Grande Inquisidor | Grand Inquisitor | r
+Yaddle | e
+Luminara Unduli | e
+Shaak Ti | e
+Darth Bane | e
+Darth Revan | Revan | e
+Comandante Cody | Cody | Commander Cody | r
+Echo | e
+Fives | e
+Lobot | e
+Almirante Piett | Piett | Admiral Piett | e
+General Veers | Veers | e
+Bib Fortuna | e
+Salacious Crumb | l
+Max Rebo | l
+Lor San Tekka | l
+Unkar Plutt | l
+Zorii Bliss | l
+Vice-Almirante Holdo | Holdo;Amilyn Holdo | e
+Dryden Vos | l
+Tobias Beckett | Beckett | l
+L3-37 | L3 | l
+Kuiil | r
+A Armeira | The Armorer | l
+Babu Frik | e
+Reva | Terceira Irmã | Third Sister | e
+Agente Kallus | Kallus | Agent Kallus | e
+Chopper | C1-10P | e
 
 == cin-simpsons | Cite um personagem de Os Simpsons | media | simpsons;desenho | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_The_Simpsons
 Homer Simpson | Homer | | | c
@@ -317,11 +445,11 @@ Marge Simpson | Marge | | | c
 Bart Simpson | Bart | | | c
 Lisa Simpson | Lisa | | | c
 Maggie Simpson | Maggie | | | c
-Vovô Simpson | Abe Simpson;Abraham Simpson;Vovô Abe | Grampa Simpson | Abuelo Simpson | i
+Vovô Simpson | Abe Simpson;Abraham Simpson;Vovô Abe;Grampa | Grampa Simpson | Abuelo Simpson | i
 Ned Flanders | Flanders;Ned | | | c
 Moe Szyslak | Moe | | | c
 Apu Nahasapeemapetilon | Apu | | | i
-Sr. Burns | Montgomery Burns;Burns | Mr. Burns | Señor Burns | c
+Sr. Burns | Montgomery Burns;Burns;Mister Burns | Mr. Burns | Señor Burns | c
 Waylon Smithers | Smithers | | | i
 Krusty, o Palhaço | Krusty | Krusty the Clown | Krusty el payaso | c
 Milhouse | Milhouse Van Houten | | | c
@@ -329,7 +457,7 @@ Nelson Muntz | Nelson | | | i
 Ralph Wiggum | Ralph | | | i
 Chefe Wiggum | Clancy Wiggum | Chief Wiggum | Jefe Gorgory | i
 Diretor Skinner | Seymour Skinner;Skinner | Principal Skinner | Director Skinner | i
-Edna Krabappel | | | | r
+Edna Krabappel | Professora Edna;Edna |  |  | r
 Barney Gumble | Barney | | | i
 Lenny Leonard | Lenny | | | r
 Carl Carlson | Carl | | | r
@@ -371,6 +499,23 @@ Maude Flanders | Maude | | | e
 Gil | Gil Gunderson | | | l
 Disco Stu | | | | l
 Bumblebee Man | Homem-Abelha | | | e
+Prefeito Quimby | Joe Quimby;Mayor Quimby | i
+Rainier Wolfcastle | McBain;Wolfcastle | i
+Jasper Beardly | Jasper | r
+Superintendente Chalmers | Chalmers | Superintendent Chalmers | r
+Lou | r
+Eddie | r
+Jacqueline Bouvier | Jacqueline | r
+Poochie | r
+Artie Ziff | l
+Dr. Marvin Monroe | Marvin Monroe | l
+Ruth Powers | l
+Sr. Largo | Mr. Largo | l
+Homem Radioativo | Radioactive Man | r
+Louca dos Gatos | Mulher dos Gatos | Crazy Cat Lady | r
+Hyman Krustofski | Rabino Krustofski | l
+Cecil Terwilliger | Cecil | l
+Mel | Sideshow Mel | l
 
 == cin-series-internacionais | Cite uma série de televisão estrangeira | facil | séries;tv;streaming | https://pt.wikipedia.org/wiki/S%C3%A9rie_de_televis%C3%A3o
 @nota Séries de televisão ou streaming produzidas fora do Brasil (novelas não valem).
@@ -444,3 +589,88 @@ ER: Plantão Médico | Plantão Médico | ER | Urgencias | e
 The Good Doctor | | | | r
 Bates Motel | | | | e
 Outlander | | | | e
+Os Simpsons | Simpsons | The Simpsons | Los Simpson | c
+The Vampire Diaries | Diários de um Vampiro | c
+Pretty Little Liars | c
+Teen Wolf | i
+Orange Is the New Black | i
+House of Cards | i
+Ozark | i
+Cobra Kai | c
+Mr. Bean | c
+Scrubs | i
+Brooklyn Nine-Nine | i
+Malcolm | Malcolm in the Middle;Malcolm, o do Meio | i
+Criminal Minds | Mentes Criminosas | i
+CSI | CSI: Investigação Criminal | CSI: Crime Scene Investigation | i
+Charmed | i
+Buffy, a Caça-Vampiros | Buffy | Buffy the Vampire Slayer | i
+The Flash | i
+Arrow | i
+Rick and Morty | Rick e Morty | i
+South Park | i
+Family Guy | Uma Família da Pesada | i
+Emily in Paris | Emily em Paris | i
+Sex Education | i
+The Umbrella Academy | i
+Lupin | i
+WandaVision | i
+Loki | i
+O Conto da Aia | The Handmaid's Tale | i
+Westworld | i
+Chernobyl | i
+Band of Brothers | Irmãos de Guerra | i
+True Detective | i
+Fargo | r
+O Show dos Anos 70 | That '70s Show | i
+Parks and Recreation | r
+Community | r
+New Girl | i
+Cheers | r
+Frasier | i
+SOS Malibu | Baywatch | i
+MacGyver | i
+A Super Máquina | Knight Rider | i
+Esquadrão Classe A | The A-Team | i
+Miami Vice | r
+Dallas | r
+NCIS | i
+Monk | i
+The Mentalist | i
+Once Upon a Time | Era Uma Vez | i
+Grimm | r
+Chuck | r
+Shameless | r
+Mr. Robot | r
+Fringe | r
+Homeland | r
+The Wire | r
+Boardwalk Empire | r
+Six Feet Under | A Sete Palmos | r
+The West Wing | e
+Battlestar Galactica | r
+Firefly | e
+Star Trek | Jornada nas Estrelas | i
+Stargate SG-1 | Stargate | e
+The Expanse | r
+Andor | r
+Fallout | r
+Shogun | r
+Reacher | r
+Yellowstone | r
+Mindhunter | r
+The Leftovers | e
+Fleabag | r
+Downton Abbey | r
+Black Sails | e
+Spartacus | r
+Roma | Rome | r
+Merlin | r
+Skins | r
+The IT Crowd | e
+Fawlty Towers | e
+Monty Python's Flying Circus | Monty Python | e
+Blackadder | e
+Babylon 5 | e
+Farscape | l
+Deadwood | e

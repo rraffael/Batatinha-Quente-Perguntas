@@ -1,0 +1,404 @@
+== mar-montadoras    # Cite uma marca (montadora) de carro
++ MG | MG Motor;Morris Garages |  |  | i | https://pt.wikipedia.org/wiki/MG_Motor    # generica
++ Daihatsu |  |  |  | r | https://pt.wikipedia.org/wiki/Daihatsu    # generica
++ Isuzu |  |  |  | r | https://pt.wikipedia.org/wiki/Isuzu    # generica
++ SsangYong | KG Mobility |  |  | r | https://pt.wikipedia.org/wiki/SsangYong_Motor_Company    # generica
++ Infiniti |  |  |  | r | https://pt.wikipedia.org/wiki/Infiniti    # generica
++ Acura |  |  |  | r | https://pt.wikipedia.org/wiki/Acura    # generica
++ Genesis |  |  |  | r | https://pt.wikipedia.org/wiki/Genesis_Motor    # generica
++ Hummer |  |  |  | r | https://pt.wikipedia.org/wiki/Hummer    # generica
++ Geely |  |  |  | i | https://pt.wikipedia.org/wiki/Geely    # generica
++ Daewoo |  |  |  | r | https://pt.wikipedia.org/wiki/Daewoo_Motors    # generica
++ Saab |  |  |  | r | https://pt.wikipedia.org/wiki/Saab_Automobile    # generica
++ Pontiac |  |  |  | r | https://pt.wikipedia.org/wiki/Pontiac    # generica
++ Oldsmobile |  |  |  | e | https://pt.wikipedia.org/wiki/Oldsmobile    # generica
++ Maybach |  |  |  | r | https://pt.wikipedia.org/wiki/Maybach    # generica
++ Abarth |  |  |  | r | https://pt.wikipedia.org/wiki/Abarth    # generica
++ Polestar |  |  |  | r | https://pt.wikipedia.org/wiki/Polestar    # generica
++ Zeekr |  |  |  | e | https://pt.wikipedia.org/wiki/Zeekr    # generica
++ Jetour |  |  |  | e | https://pt.wikipedia.org/wiki/Jetour    # generica
++ Changan |  |  |  | e | https://pt.wikipedia.org/wiki/Changan_Automobile    # generica
++ Dongfeng |  |  |  | e | https://pt.wikipedia.org/wiki/Dongfeng_Motor_Corporation    # generica
++ Foton |  |  |  | e | https://pt.wikipedia.org/wiki/Foton_Motor    # generica
++ Mahindra |  |  |  | e | https://pt.wikipedia.org/wiki/Mahindra_%26_Mahindra    # generica
++ Tata | Tata Motors |  |  | e | https://pt.wikipedia.org/wiki/Tata_Motors    # generica
++ Datsun |  |  |  | e | https://pt.wikipedia.org/wiki/Datsun    # generica
++ Agrale |  |  |  | e | https://pt.wikipedia.org/wiki/Agrale    # generica
++ Engesa |  |  |  | l | https://pt.wikipedia.org/wiki/Engesa    # generica
++ Vauxhall |  |  |  | e | https://pt.wikipedia.org/wiki/Vauxhall_Motors    # generica
++ Triumph |  |  |  | e | https://pt.wikipedia.org/wiki/Triumph_Motor_Company    # generica
++ Austin |  |  |  | l | https://pt.wikipedia.org/wiki/Austin_Motor_Company    # generica
++ Rover |  |  |  | e | https://pt.wikipedia.org/wiki/Rover_Company    # generica
++ Studebaker |  |  |  | l | https://pt.wikipedia.org/wiki/Studebaker    # generica
++ Packard |  |  |  | l | https://pt.wikipedia.org/wiki/Packard    # generica
++ Rivian |  |  |  | e | https://pt.wikipedia.org/wiki/Rivian    # generica
++ Lucid |  |  |  | l | https://pt.wikipedia.org/wiki/Lucid_Motors    # generica
++ Fisker |  |  |  | l | https://pt.wikipedia.org/wiki/Fisker_Automotive    # generica
++ NIO |  |  |  | e | https://pt.wikipedia.org/wiki/NIO    # generica
++ XPeng |  |  |  | e | https://pt.wikipedia.org/wiki/XPeng    # generica
++ Leapmotor |  |  |  | l | https://pt.wikipedia.org/wiki/Leapmotor    # generica
++ Lynk & Co |  |  |  | e | https://pt.wikipedia.org/wiki/Lynk_%26_Co    # generica
++ DS | DS Automobiles |  |  | e | https://pt.wikipedia.org/wiki/DS_Automobiles    # generica
++ Stellantis |  |  |  | i | https://pt.wikipedia.org/wiki/Stellantis    # generica
+
+== mar-modelos-carro-brasil    # Cite um modelo de carro vendido no Brasil
++ Amarok |  |  |  | i | https://pt.wikipedia.org/wiki/Volkswagen_Amarok    # generica
++ Tiguan |  |  |  | i | https://pt.wikipedia.org/wiki/Volkswagen_Tiguan    # generica
++ Taos |  |  |  | r | https://pt.wikipedia.org/wiki/Volkswagen_Taos    # generica
++ Touareg |  |  |  | r | https://pt.wikipedia.org/wiki/Volkswagen_Touareg    # generica
++ CrossFox | Cross Fox |  |  | r | https://pt.wikipedia.org/wiki/Volkswagen_CrossFox    # generica
++ SpaceFox | Space Fox |  |  | r | https://pt.wikipedia.org/wiki/Volkswagen_SpaceFox    # generica
++ Mustang | Ford Mustang |  |  | i | https://pt.wikipedia.org/wiki/Ford_Mustang    # generica
++ Fusion | Ford Fusion |  |  | r | https://pt.wikipedia.org/wiki/Ford_Fusion    # generica
++ Edge | Ford Edge |  |  | r | https://pt.wikipedia.org/wiki/Ford_Edge    # generica
++ Territory | Ford Territory |  |  | r | https://pt.wikipedia.org/wiki/Ford_Territory    # generica
++ Courier | Ford Courier |  |  | r | https://pt.wikipedia.org/wiki/Ford_Courier    # generica
++ F-1000 | F1000 |  |  | r | https://pt.wikipedia.org/wiki/Ford_F-1000    # generica
++ F-250 | F250 |  |  | r | https://pt.wikipedia.org/wiki/Ford_F-250    # generica
++ Idea | Fiat Idea |  |  | r | https://pt.wikipedia.org/wiki/Fiat_Idea    # generica
++ Stilo | Fiat Stilo |  |  | r | https://pt.wikipedia.org/wiki/Fiat_Stilo    # generica
++ Bravo | Fiat Bravo |  |  | r | https://pt.wikipedia.org/wiki/Fiat_Bravo    # generica
++ Linea | Fiat Linea |  |  | r | https://pt.wikipedia.org/wiki/Fiat_Linea    # generica
++ Ducato | Fiat Ducato |  |  | r | https://pt.wikipedia.org/wiki/Fiat_Ducato    # generica
++ Agile | Chevrolet Agile |  |  | i | https://pt.wikipedia.org/wiki/Chevrolet_Agile    # generica
++ Classic | Chevrolet Classic |  |  | r | https://pt.wikipedia.org/wiki/Chevrolet_Classic    # generica
++ Camaro | Chevrolet Camaro |  |  | i | https://pt.wikipedia.org/wiki/Chevrolet_Camaro    # generica
++ Blazer | Chevrolet Blazer |  |  | i | https://pt.wikipedia.org/wiki/Chevrolet_Blazer    # generica
++ Equinox | Chevrolet Equinox |  |  | r | https://pt.wikipedia.org/wiki/Chevrolet_Equinox    # generica
++ Trailblazer | Chevrolet Trailblazer |  |  | r | https://pt.wikipedia.org/wiki/Chevrolet_Trailblazer    # generica
++ Captiva | Chevrolet Captiva |  |  | r | https://pt.wikipedia.org/wiki/Chevrolet_Captiva    # generica
++ Sonic | Chevrolet Sonic |  |  | r | https://pt.wikipedia.org/wiki/Chevrolet_Sonic    # generica
++ Silverado | Chevrolet Silverado |  |  | r | https://pt.wikipedia.org/wiki/Chevrolet_Silverado    # generica
++ Bandeirante | Toyota Bandeirante |  |  | i | https://pt.wikipedia.org/wiki/Toyota_Bandeirante    # generica
++ Land Cruiser | Toyota Land Cruiser |  |  | r | https://pt.wikipedia.org/wiki/Toyota_Land_Cruiser    # generica
++ RAV4 | Toyota RAV4 |  |  | r | https://pt.wikipedia.org/wiki/Toyota_RAV4    # generica
++ Camry | Toyota Camry |  |  | r | https://pt.wikipedia.org/wiki/Toyota_Camry    # generica
++ Prius | Toyota Prius |  |  | r | https://pt.wikipedia.org/wiki/Toyota_Prius    # generica
++ Corolla Cross |  |  |  | r | https://pt.wikipedia.org/wiki/Toyota_Corolla_Cross    # generica
++ CR-V | CRV;Honda CR-V |  |  | i | https://pt.wikipedia.org/wiki/Honda_CR-V    # generica
++ Accord | Honda Accord |  |  | i | https://pt.wikipedia.org/wiki/Honda_Accord    # generica
++ WR-V | WRV |  |  | r | https://pt.wikipedia.org/wiki/Honda_WR-V    # generica
++ ZR-V | ZRV |  |  | r | https://pt.wikipedia.org/wiki/Honda_ZR-V    # generica
++ ix35 | Hyundai ix35 |  |  | r | https://pt.wikipedia.org/wiki/Hyundai_ix35    # generica
++ Santa Fe | Hyundai Santa Fe |  |  | r | https://pt.wikipedia.org/wiki/Hyundai_Santa_Fe    # generica
++ Elantra | Hyundai Elantra |  |  | r | https://pt.wikipedia.org/wiki/Hyundai_Elantra    # generica
++ i30 | Hyundai i30 |  |  | r | https://pt.wikipedia.org/wiki/Hyundai_i30    # generica
++ Azera | Hyundai Azera |  |  | e | https://pt.wikipedia.org/wiki/Hyundai_Azera    # generica
++ Veloster | Hyundai Veloster |  |  | e | https://pt.wikipedia.org/wiki/Hyundai_Veloster    # generica
++ Oroch | Renault Duster Oroch |  |  | r | https://pt.wikipedia.org/wiki/Renault_Duster_Oroch    # generica
++ Fluence | Renault Fluence |  |  | r | https://pt.wikipedia.org/wiki/Renault_Fluence    # generica
++ Mégane | Renault Mégane |  |  | r | https://pt.wikipedia.org/wiki/Renault_M%C3%A9gane    # generica
++ Scénic |  |  |  | e | https://pt.wikipedia.org/wiki/Renault_Sc%C3%A9nic    # generica
++ Master | Renault Master |  |  | r | https://pt.wikipedia.org/wiki/Renault_Master    # generica
++ Kangoo | Renault Kangoo |  |  | r | https://pt.wikipedia.org/wiki/Renault_Kangoo    # generica
++ Tiida | Nissan Tiida |  |  | r | https://pt.wikipedia.org/wiki/Nissan_Tiida    # generica
++ Livina | Nissan Livina |  |  | r | https://pt.wikipedia.org/wiki/Nissan_Livina    # generica
++ Leaf | Nissan Leaf |  |  | r | https://pt.wikipedia.org/wiki/Nissan_Leaf    # generica
++ Peugeot 307 | 307 |  |  | r | https://pt.wikipedia.org/wiki/Peugeot_307    # generica
++ Peugeot 308 | 308 |  |  | r | https://pt.wikipedia.org/wiki/Peugeot_308    # generica
++ Peugeot 3008 | 3008 |  |  | r | https://pt.wikipedia.org/wiki/Peugeot_3008    # generica
++ Peugeot 408 | 408 |  |  | r | https://pt.wikipedia.org/wiki/Peugeot_408    # generica
++ Peugeot 106 | 106 |  |  | e | https://pt.wikipedia.org/wiki/Peugeot_106    # generica
++ Peugeot 405 | 405 |  |  | e | https://pt.wikipedia.org/wiki/Peugeot_405    # generica
++ Partner | Peugeot Partner |  |  | r | https://pt.wikipedia.org/wiki/Peugeot_Partner    # generica
++ C4 Cactus | Citroën C4 Cactus |  |  | r | https://pt.wikipedia.org/wiki/Citro%C3%ABn_C4_Cactus    # generica
++ C4 Lounge | Citroën C4 Lounge |  |  | r | https://pt.wikipedia.org/wiki/Citro%C3%ABn_C4_Lounge    # generica
++ C3 Aircross | Aircross |  |  | r | https://pt.wikipedia.org/wiki/Citro%C3%ABn_C3_Aircross    # generica
++ Xsara Picasso | Picasso |  |  | e | https://pt.wikipedia.org/wiki/Citro%C3%ABn_Xsara_Picasso    # generica
++ Berlingo | Citroën Berlingo |  |  | e | https://pt.wikipedia.org/wiki/Citro%C3%ABn_Berlingo    # generica
++ Wrangler | Jeep Wrangler |  |  | i | https://pt.wikipedia.org/wiki/Jeep_Wrangler    # generica
++ Grand Cherokee | Jeep Grand Cherokee |  |  | i | https://pt.wikipedia.org/wiki/Jeep_Grand_Cherokee    # generica
++ Cherokee | Jeep Cherokee |  |  | r | https://pt.wikipedia.org/wiki/Jeep_Cherokee    # generica
++ Gladiator | Jeep Gladiator |  |  | r | https://pt.wikipedia.org/wiki/Jeep_Gladiator    # generica
++ Sprinter | Mercedes Sprinter;Mercedes-Benz Sprinter |  |  | i | https://pt.wikipedia.org/wiki/Mercedes-Benz_Sprinter    # generica
++ BMW X1 | X1 |  |  | r | https://pt.wikipedia.org/wiki/BMW_X1    # generica
++ BMW X3 | X3 |  |  | r | https://pt.wikipedia.org/wiki/BMW_X3    # generica
++ BMW X5 | X5 |  |  | r | https://pt.wikipedia.org/wiki/BMW_X5    # generica
++ Audi A3 | A3 |  |  | r | https://pt.wikipedia.org/wiki/Audi_A3    # generica
++ Audi A4 | A4 |  |  | r | https://pt.wikipedia.org/wiki/Audi_A4    # generica
++ Audi Q3 | Q3 |  |  | r | https://pt.wikipedia.org/wiki/Audi_Q3    # generica
++ Audi Q5 | Q5 |  |  | r | https://pt.wikipedia.org/wiki/Audi_Q5    # generica
++ Audi TT | TT |  |  | r | https://pt.wikipedia.org/wiki/Audi_TT    # generica
++ Sportage | Kia Sportage |  |  | r | https://pt.wikipedia.org/wiki/Kia_Sportage    # generica
++ Sorento | Kia Sorento |  |  | r | https://pt.wikipedia.org/wiki/Kia_Sorento    # generica
++ Picanto | Kia Picanto |  |  | r | https://pt.wikipedia.org/wiki/Kia_Picanto    # generica
++ Cerato | Kia Cerato |  |  | r | https://pt.wikipedia.org/wiki/Kia_Cerato    # generica
++ Soul | Kia Soul |  |  | r | https://pt.wikipedia.org/wiki/Kia_Soul    # generica
++ Jimny | Suzuki Jimny |  |  | r | https://pt.wikipedia.org/wiki/Suzuki_Jimny    # generica
++ Swift | Suzuki Swift |  |  | r | https://pt.wikipedia.org/wiki/Suzuki_Swift    # generica
++ Vitara | Suzuki Vitara |  |  | r | https://pt.wikipedia.org/wiki/Suzuki_Vitara    # generica
++ Defender | Land Rover Defender |  |  | i | https://pt.wikipedia.org/wiki/Land_Rover_Defender    # generica
++ Discovery | Land Rover Discovery |  |  | r | https://pt.wikipedia.org/wiki/Land_Rover_Discovery    # generica
++ Evoque | Range Rover Evoque |  |  | r | https://pt.wikipedia.org/wiki/Land_Rover_Range_Rover_Evoque    # generica
++ XC60 | Volvo XC60 |  |  | r | https://pt.wikipedia.org/wiki/Volvo_XC60    # generica
++ XC90 | Volvo XC90 |  |  | r | https://pt.wikipedia.org/wiki/Volvo_XC90    # generica
++ QQ | Chery QQ |  |  | r | https://pt.wikipedia.org/wiki/Chery_QQ    # generica
++ Cielo | Chery Cielo |  |  | e | https://pt.wikipedia.org/wiki/Chery_Cielo    # generica
++ Celer | Chery Celer |  |  | e | https://pt.wikipedia.org/wiki/Chery_Celer    # generica
++ Pajero Sport | Mitsubishi Pajero Sport |  |  | r | https://pt.wikipedia.org/wiki/Mitsubishi_Pajero_Sport    # generica
++ ASX | Mitsubishi ASX |  |  | r | https://pt.wikipedia.org/wiki/Mitsubishi_ASX    # generica
++ Outlander | Mitsubishi Outlander |  |  | r | https://pt.wikipedia.org/wiki/Mitsubishi_Outlander    # generica
++ Pajero TR4 | TR4 |  |  | r | https://pt.wikipedia.org/wiki/Mitsubishi_Pajero_TR4    # generica
++ Freemont | Fiat Freemont |  |  | e | https://pt.wikipedia.org/wiki/Fiat_Freemont    # generica
+
+== mar-fast-food    # Cite uma rede de fast food ou de restaurantes
++ Sbarro |  |  |  | i | https://pt.wikipedia.org/wiki/Sbarro    # generica
++ Krispy Kreme |  |  |  | i | https://pt.wikipedia.org/wiki/Krispy_Kreme    # generica
++ Cinnabon |  |  |  | r | https://pt.wikipedia.org/wiki/Cinnabon    # generica
++ Auntie Anne's | Auntie Annes |  |  | r | https://pt.wikipedia.org/wiki/Auntie_Anne's    # generica
++ Denny's | Dennys |  |  | r | https://pt.wikipedia.org/wiki/Denny's    # generica
++ Olive Garden |  |  |  | r | https://pt.wikipedia.org/wiki/Olive_Garden    # generica
++ Red Lobster |  |  |  | r | https://pt.wikipedia.org/wiki/Red_Lobster    # generica
++ Hard Rock Cafe |  |  |  | i | https://pt.wikipedia.org/wiki/Hard_Rock_Cafe    # generica
++ Nando's | Nandos |  |  | r | https://pt.wikipedia.org/wiki/Nando's    # generica
++ Chick-fil-A |  |  |  | r | https://pt.wikipedia.org/wiki/Chick-fil-A    # generica
++ Wingstop |  |  |  | e | https://pt.wikipedia.org/wiki/Wingstop    # generica
++ Buffalo Wild Wings |  |  |  | e | https://pt.wikipedia.org/wiki/Buffalo_Wild_Wings    # generica
++ Koni Store | Koni |  |  | r | https://pt.wikipedia.org/wiki/Koni_Store    # generica
++ Brasil Cacau |  |  |  | r | https://pt.wikipedia.org/wiki/Brasil_Cacau    # generica
++ Havanna |  |  |  | r | https://pt.wikipedia.org/wiki/Havanna    # generica
++ IHOP |  |  |  | r | https://pt.wikipedia.org/wiki/IHOP    # generica
++ Texas Roadhouse |  |  |  | e | https://pt.wikipedia.org/wiki/Texas_Roadhouse    # generica
++ Whataburger |  |  |  | e | https://pt.wikipedia.org/wiki/Whataburger    # generica
++ Sonic Drive-In | Sonic |  |  | e | https://pt.wikipedia.org/wiki/Sonic_Drive-In    # generica
++ White Castle |  |  |  | e | https://pt.wikipedia.org/wiki/White_Castle    # generica
++ Pret A Manger | Pret |  |  | e | https://pt.wikipedia.org/wiki/Pret_A_Manger    # generica
++ TGI Fridays | Fridays |  |  | r | https://en.wikipedia.org/wiki/TGI_Fridays    # generica
++ Tony Roma's | Tony Romas |  |  | e | https://en.wikipedia.org/wiki/Tony_Roma's    # generica
+~ Burger King | Burguer King | https://pt.wikipedia.org/wiki/Burger_King    # generica
+~ McDonald's | Mc Donalds;Mac Donalds;MacDonalds | https://pt.wikipedia.org/wiki/McDonald's    # generica
+~ Giraffas | Girafas | https://pt.wikipedia.org/wiki/Giraffas    # generica
+~ Spoleto | Spoletto | https://pt.wikipedia.org/wiki/Spoleto    # generica
+~ KFC | Kentucky | https://pt.wikipedia.org/wiki/KFC    # generica
+- Popeyes | Popeye's | https://pt.wikipedia.org/wiki/Popeyes    # generica  # REJ: só difere em pontuação
+~ Pizza Hut | Pizzahut | https://pt.wikipedia.org/wiki/Pizza_Hut    # generica
+~ China in Box | China Box | https://pt.wikipedia.org/wiki/China_in_Box    # generica
+- Subway | Sub | https://pt.wikipedia.org/wiki/Subway    # generica  # REJ: "Sub" genérico demais
+
+== mar-tecnologia    # Cite uma marca de tecnologia ou eletrônicos
++ ZTE |  |  |  | r | https://pt.wikipedia.org/wiki/ZTE    # generica
++ MSI |  |  |  | r | https://pt.wikipedia.org/wiki/Micro-Star_International    # generica
++ Gigabyte |  |  |  | r | https://pt.wikipedia.org/wiki/Gigabyte_Technology    # generica
++ Hisense |  |  |  | r | https://pt.wikipedia.org/wiki/Hisense    # generica
++ Midea |  |  |  | r | https://pt.wikipedia.org/wiki/Midea    # generica
++ Bosch |  |  |  | i | https://pt.wikipedia.org/wiki/Robert_Bosch_GmbH    # generica
++ Whirlpool |  |  |  | i | https://pt.wikipedia.org/wiki/Whirlpool_Corporation    # generica
++ Elgin |  |  |  | r | https://pt.wikipedia.org/wiki/Elgin_(empresa)    # generica
++ Tectoy |  |  |  | r | https://pt.wikipedia.org/wiki/Tectoy    # generica
+~ Toshiba | Semp Toshiba | https://pt.wikipedia.org/wiki/Semp_Toshiba    # generica (convertida: marca conjunta Semp+Toshiba)
++ Oster |  |  |  | r | https://pt.wikipedia.org/wiki/Oster    # generica
++ Black+Decker |  |  |  | r | https://pt.wikipedia.org/wiki/Black_%26_Decker    # generica
++ Fujitsu |  |  |  | r | https://pt.wikipedia.org/wiki/Fujitsu    # generica
++ NEC |  |  |  | r | https://pt.wikipedia.org/wiki/NEC    # generica
++ Casio |  |  |  | i | https://pt.wikipedia.org/wiki/Casio    # generica
++ Brother |  |  |  | r | https://pt.wikipedia.org/wiki/Brother_Industries    # generica
++ Ricoh |  |  |  | e | https://pt.wikipedia.org/wiki/Ricoh    # generica
++ Kyocera |  |  |  | e | https://pt.wikipedia.org/wiki/Kyocera    # generica
++ Lexmark |  |  |  | e | https://pt.wikipedia.org/wiki/Lexmark    # generica
++ Sennheiser |  |  |  | r | https://pt.wikipedia.org/wiki/Sennheiser    # generica
++ Yamaha |  |  |  | i | https://pt.wikipedia.org/wiki/Yamaha_Corporation    # generica
++ JVC |  |  |  | r | https://pt.wikipedia.org/wiki/JVC    # generica
++ TP-Link |  |  |  | r | https://pt.wikipedia.org/wiki/TP-Link    # generica
++ D-Link |  |  |  | r | https://pt.wikipedia.org/wiki/D-Link    # generica
++ Compaq |  |  |  | r | https://pt.wikipedia.org/wiki/Compaq    # generica
++ Sega |  |  |  | r | https://pt.wikipedia.org/wiki/Sega    # generica
++ Atari |  |  |  | r | https://pt.wikipedia.org/wiki/Atari    # generica
++ Itautec |  |  |  | e | https://pt.wikipedia.org/wiki/Itautec    # generica
++ Oracle |  |  |  | i | https://pt.wikipedia.org/wiki/Oracle_Corporation    # generica
++ Adobe |  |  |  | i | https://pt.wikipedia.org/wiki/Adobe_Inc.    # generica
++ SAP |  |  |  | r | https://pt.wikipedia.org/wiki/SAP_SE    # generica
++ OpenAI |  |  |  | i | https://pt.wikipedia.org/wiki/OpenAI    # generica
++ Dolby |  |  |  | e | https://pt.wikipedia.org/wiki/Dolby_Laboratories    # generica
++ Olympus |  |  |  | e | https://pt.wikipedia.org/wiki/Olympus_Corporation    # generica
++ Esmaltec |  |  |  | l | https://pt.wikipedia.org/wiki/Esmaltec    # generica
++ Western Digital | WD |  |  | e | https://pt.wikipedia.org/wiki/Western_Digital    # generica
++ Micron |  |  |  | e | https://pt.wikipedia.org/wiki/Micron_Technology    # generica
++ Sonos |  |  |  | e | https://pt.wikipedia.org/wiki/Sonos    # generica
++ Harman Kardon |  |  |  | e | https://pt.wikipedia.org/wiki/Harman_Kardon    # generica
++ Marshall |  |  |  | e | https://pt.wikipedia.org/wiki/Marshall_Amplification    # generica
++ Leica |  |  |  | e | https://pt.wikipedia.org/wiki/Leica_Camera    # generica
++ Sigma |  |  |  | l | https://pt.wikipedia.org/wiki/Sigma_Corporation    # generica
++ Infinix |  |  |  | e | https://pt.wikipedia.org/wiki/Infinix    # generica
++ Tecno |  |  |  | e | https://pt.wikipedia.org/wiki/Tecno_Mobile    # generica
+- Philips | Koninklijke Philips | https://pt.wikipedia.org/wiki/Philips    # generica  # REJ: razão social em neerlandês, ninguém digita
+- Xiaomi | Mi | https://pt.wikipedia.org/wiki/Xiaomi    # generica  # REJ: "Mi" curto e genérico demais
+~ Samsung | Samsung Electronics | https://pt.wikipedia.org/wiki/Samsung    # generica
+~ Apple | Apple Inc | https://pt.wikipedia.org/wiki/Apple_Inc.    # generica
+~ Motorola | Motorola Mobility | https://pt.wikipedia.org/wiki/Motorola    # generica
+
+== mar-bancos    # Cite um banco que opera ou já operou no Brasil
++ ABN AMRO | Banco ABN AMRO;ABN Amro Real |  |  | i | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Master | Master |  |  | i | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Digio | Digio |  |  | i | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Genial | Genial |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco BS2 | BS2 |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Cora | Banco Cora |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ BankBoston | Bank Boston;Banco de Boston |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Santos |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Cruzeiro do Sul | Cruzeiro do Sul |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Rural | Rural |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Cacique | Cacique |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Nossa Caixa | Banco Nossa Caixa |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Bandeirantes | Bandeirantes |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Boavista |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Bozano Simonsen | Bozano Simonsen |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Meridional | Meridional |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Icatu | Icatu |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Excel-Econômico | Excel-Econômico |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Garantia | Garantia |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Noroeste | Noroeste |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Sudameris | Banco Sudameris Brasil;Sudameris |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Lloyds TSB | Lloyds;Lloyds TSB Brasil |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Deutsche Bank |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Goldman Sachs | Goldman Sachs do Brasil |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ JPMorgan | JP Morgan;Banco JP Morgan;JPMorgan Chase |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Morgan Stanley | Banco Morgan Stanley |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ UBS |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Credit Suisse |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ BNP Paribas | Banco BNP Paribas Brasil |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Société Générale | Banco Société Générale Brasil |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Scotiabank | Scotiabank Brasil |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Bank of America | Bank of America Merrill Lynch;Merrill Lynch |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Itaú BBA | Itaú BBA |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Honda |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Toyota | Banco Toyota do Brasil |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Volkswagen | Volkswagen Financial Services |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Mercedes-Benz | Banco Mercedes-Benz do Brasil |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco RCI | Banco RCI Brasil;Banco Renault |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Stellantis |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco John Deere | John Deere |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Randon |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Rodobens | Rodobens |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Fator | Fator |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Guanabara |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Semear | Semear |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Topázio |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Moneo | Moneo |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Pleno | Pleno |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Luso Brasileiro |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Mercantil de São Paulo |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco de Crédito Nacional | BCN |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco BMC | BMC |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Marka | Marka |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Matone | Matone |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Opportunity | Opportunity |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Cidade |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Halles | Halles |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Comind | Comind |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Habitasul | Habitasul |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco BBA | BBA |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Popular do Brasil |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Industrial e Comercial | BIC Banco;BIC |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Sulbrasileiro | Sulbrasileiro |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Auxiliar |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Maisonnave | Maisonnave |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco do Estado da Guanabara | |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banese | Banco do Estado de Sergipe |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ BDMG | Banco de Desenvolvimento de Minas Gerais |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ BRDE | Banco Regional de Desenvolvimento do Extremo Sul |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco de Desenvolvimento do Espírito Santo | Bandes |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Nacional da Habitação | BNH |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Western Union do Brasil | Western Union |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Bank of China | Bank of China Brasil |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ ICBC | ICBC do Brasil |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Mizuho | Mizuho |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco MUFG Brasil | MUFG |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Sumitomo Mitsui Brasileiro | Sumitomo Mitsui |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Rabobank | Rabobank |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Cargill | Cargill |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Cédula | Cédula |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Confidence | Confidence |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Arbi | Arbi |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Paulista |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Digimais | Digimais |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Afinz | Afinz |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco B3 |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
+- Banco Social Bank | Social Bank |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica  # REJ: existência não confirmada
++ Omni Banco |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Paraná Banco |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Letsbank | Letsbank |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ N26 |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Stark Bank | Stark |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Tribanco |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Ouribank | Ouri |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco VR |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco KDB | KDB |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Woori Bank | Woori Bank |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Andbank | Andbank |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Clássico | Clássico |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Senff | Senff |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Tricury | Tricury |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Haitong |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Finaxis |  |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco BRP | BRP |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco RNX | RNX |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco CSF | CSF |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco Industrial do Brasil | Industrial do Brasil |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
+- Banco Mineiro do Oeste | Mineiro do Oeste |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica  # REJ: existência não confirmada
++ Banco Predial do Estado do Rio de Janeiro | Predial |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
++ Banco União Comercial | União Comercial |  |  | l | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
+~ Itaú | Banco Itaú | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
+~ Bradesco | Banco Bradesco | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
+~ Santander | Banco Santander;Santander Brasil | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
+~ Neon | Banco Neon | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
+~ Unibanco | Banco Unibanco | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
+~ Banco Real | Banco Real ABN | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
+~ Banrisul | Banco do Estado do Rio Grande do Sul | https://pt.wikipedia.org/wiki/Banrisul    # generica
+~ Banpará | Banco do Estado do Pará | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
+~ Banestes | Banco do Estado do Espírito Santo | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
+~ Banespa | Banco do Estado de São Paulo | https://pt.wikipedia.org/wiki/Lista_de_bancos_do_Brasil    # generica
+
+== mar-moda    # Cite uma marca de roupa, calçado ou acessório
++ Forever 21 |  |  |  | i | https://pt.wikipedia.org/wiki/Forever_21    # generica
++ Uniqlo |  |  |  | i | https://pt.wikipedia.org/wiki/Uniqlo    # generica
++ Mango |  |  |  | i | https://pt.wikipedia.org/wiki/Mango_(empresa)    # generica
++ Bershka |  |  |  | r | https://pt.wikipedia.org/wiki/Bershka    # generica
++ Primark |  |  |  | r | https://pt.wikipedia.org/wiki/Primark    # generica
++ Abercrombie & Fitch | Abercrombie |  |  | r | https://pt.wikipedia.org/wiki/Abercrombie_%26_Fitch    # generica
++ Hollister |  |  |  | r | https://pt.wikipedia.org/wiki/Hollister_Co.    # generica
++ Dudalina |  |  |  | r | https://pt.wikipedia.org/wiki/Dudalina    # generica
++ Cavalera |  |  |  | r | https://pt.wikipedia.org/wiki/Cavalera    # generica
++ Lança Perfume |  |  |  | e | https://pt.wikipedia.org/wiki/Lan%C3%A7a_Perfume    # generica
++ Diadora |  |  |  | r | https://pt.wikipedia.org/wiki/Diadora    # generica
++ Lotto |  |  |  | r | https://pt.wikipedia.org/wiki/Lotto_Sport_Italia    # generica
++ Hummel |  |  |  | r | https://pt.wikipedia.org/wiki/Hummel_International    # generica
++ The North Face | North Face |  |  | i | https://pt.wikipedia.org/wiki/The_North_Face    # generica
++ Columbia |  |  |  | r | https://pt.wikipedia.org/wiki/Columbia_Sportswear    # generica
++ Volcom |  |  |  | e | https://pt.wikipedia.org/wiki/Volcom    # generica
++ Moleca |  |  |  | r | https://pt.wikipedia.org/wiki/Moleca    # generica
++ Azaleia |  |  |  | r | https://pt.wikipedia.org/wiki/Azaleia    # generica
++ Santa Lolla |  |  |  | e | https://pt.wikipedia.org/wiki/Santa_Lolla    # generica
++ Carmen Steffens |  |  |  | e | https://pt.wikipedia.org/wiki/Carmen_Steffens    # generica
++ Michael Kors |  |  |  | i | https://pt.wikipedia.org/wiki/Michael_Kors    # generica
++ Longchamp |  |  |  | e | https://pt.wikipedia.org/wiki/Longchamp    # generica
++ Cartier |  |  |  | i | https://pt.wikipedia.org/wiki/Cartier    # generica
++ Bvlgari | Bulgari |  |  | i | https://pt.wikipedia.org/wiki/Bulgari    # generica
++ Montblanc | Mont Blanc |  |  | r | https://pt.wikipedia.org/wiki/Montblanc    # generica
++ Bottega Veneta |  |  |  | r | https://pt.wikipedia.org/wiki/Bottega_Veneta    # generica
++ Off-White |  |  |  | r | https://pt.wikipedia.org/wiki/Off-White    # generica
++ Miu Miu |  |  |  | r | https://pt.wikipedia.org/wiki/Miu_Miu    # generica
++ Salvatore Ferragamo | Ferragamo |  |  | e | https://pt.wikipedia.org/wiki/Salvatore_Ferragamo    # generica
++ Jimmy Choo |  |  |  | r | https://pt.wikipedia.org/wiki/Jimmy_Choo    # generica
++ Christian Louboutin | Louboutin |  |  | r | https://pt.wikipedia.org/wiki/Christian_Louboutin    # generica
++ Hugo Boss | Boss |  |  | r | https://pt.wikipedia.org/wiki/Hugo_Boss    # generica
+~ Armani | Emporio Armani;Armani Exchange | https://pt.wikipedia.org/wiki/Emporio_Armani    # generica (convertida: linha da Armani já no banco)
++ Moschino |  |  |  | e | https://pt.wikipedia.org/wiki/Moschino    # generica
++ Kenzo |  |  |  | e | https://pt.wikipedia.org/wiki/Kenzo    # generica
++ Balmain |  |  |  | e | https://pt.wikipedia.org/wiki/Balmain    # generica
++ Zegna | Ermenegildo Zegna |  |  | e | https://pt.wikipedia.org/wiki/Ermenegildo_Zegna    # generica
++ Cavalli | Roberto Cavalli |  |  | e | https://pt.wikipedia.org/wiki/Roberto_Cavalli    # generica
++ Valisère |  |  |  | e | https://pt.wikipedia.org/wiki/Valis%C3%A8re    # generica
++ Triumph |  |  |  | e | https://pt.wikipedia.org/wiki/Triumph_International    # generica
++ Gap |  |  |  | i | https://en.wikipedia.org/wiki/Gap_Inc.    # generica
++ Pull&Bear | Pull and Bear |  |  | r | https://en.wikipedia.org/wiki/Pull%26Bear    # generica
++ American Eagle |  |  |  | e | https://en.wikipedia.org/wiki/American_Eagle_Outfitters    # generica
++ Lululemon |  |  |  | r | https://en.wikipedia.org/wiki/Lululemon    # generica
++ Patagonia |  |  |  | r | https://en.wikipedia.org/wiki/Patagonia%2C_Inc.    # generica
++ Coach |  |  |  | r | https://en.wikipedia.org/wiki/Coach_(brand)    # generica
++ Kate Spade |  |  |  | e | https://en.wikipedia.org/wiki/Kate_Spade_New_York    # generica
++ Tory Burch |  |  |  | e | https://en.wikipedia.org/wiki/Tory_Burch    # generica
++ Saint Laurent | Yves Saint Laurent;YSL |  |  | r | https://en.wikipedia.org/wiki/Yves_Saint_Laurent_(brand)    # generica
++ Celine |  |  |  | r | https://en.wikipedia.org/wiki/Celine_(brand)    # generica
++ Moncler |  |  |  | r | https://en.wikipedia.org/wiki/Moncler    # generica
++ Lanvin |  |  |  | e | https://en.wikipedia.org/wiki/Lanvin    # generica
++ Rainha |  |  |  | r | https://pt.wikipedia.org/wiki/Rainha_(marca)    # generica

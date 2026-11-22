@@ -1,0 +1,22 @@
+== cor-ossos
+~ Crânio | Caveira | https://pt.wikipedia.org/wiki/Cr%C3%A2nio
+~ Bacia | Osso da bacia | https://pt.wikipedia.org/wiki/Osso_do_quadril
+== cor-orgaos
++ Intestino | Intestinos;Tripas | Intestine;Bowel | Intestino | c | https://pt.wikipedia.org/wiki/Intestino
+~ Útero | Matriz | https://pt.wikipedia.org/wiki/%C3%9Atero
+~ Bexiga | Bexiga urinária | https://pt.wikipedia.org/wiki/Bexiga_urin%C3%A1ria
+~ Tireoide | Glândula tireoide;Glândula tiroide | https://pt.wikipedia.org/wiki/Gl%C3%A2ndula_tireoide
+== cor-partes-externas
++ Dedo do pé | Dedos do pé;Pododáctilo | Toe | Dedo del pie | c | https://pt.wikipedia.org/wiki/Dedo_do_p%C3%A9
+~ Panturrilha | Barriga da perna | https://pt.wikipedia.org/wiki/Panturrilha
+== cor-doencas
+~ Câncer | Câncer de pele;Câncer de mama;Câncer de pulmão;Câncer de próstata;Câncer de colo de útero | https://pt.wikipedia.org/wiki/C%C3%A2ncer
+~ Diabetes | Diabetes mellitus;Diabetes tipo 1;Diabetes tipo 2 | https://pt.wikipedia.org/wiki/Diabetes_mellitus
+~ Hepatite | Hepatite A;Hepatite B;Hepatite C | https://pt.wikipedia.org/wiki/Hepatite
+~ Hipertensão | Hipertensão arterial | https://pt.wikipedia.org/wiki/Hipertens%C3%A3o_arterial
+~ Herpes | Herpes labial;Herpes genital | https://pt.wikipedia.org/wiki/Herpes
+~ Infarto | Infarto do miocárdio;Enfarte | https://pt.wikipedia.org/wiki/Infarto_agudo_do_mioc%C3%A1rdio
+~ AVC | Acidente vascular encefálico;AVE | https://pt.wikipedia.org/wiki/Acidente_vascular_cerebral
+~ Resfriado | Resfriado comum | https://pt.wikipedia.org/wiki/Resfriado_comum
++ Ansiedade | Transtorno de ansiedade;Transtorno de ansiedade generalizada | Anxiety;Anxiety disorder | Ansiedad;Trastorno de ansiedad | c | https://pt.wikipedia.org/wiki/Transtorno_de_ansiedade
++ Hipotensão | Pressão baixa | Hypotension;Low blood pressure | Hipotensión;Presión baja | i | https://pt.wikipedia.org/wiki/Hipotens%C3%A3o

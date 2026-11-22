@@ -47,7 +47,9 @@
         {
           "id": "volei-de-praia",
           "canonica": "Vôlei de praia",
-          "aceitas": [],
+          "aceitas": [
+            "Voleibol de praia"
+          ],
           "traducoes": {
             "en": [
               "Beach volleyball"
@@ -149,7 +151,9 @@
           "id": "ginastica-de-trampolim",
           "canonica": "Ginástica de trampolim",
           "aceitas": [
-            "Trampolim acrobático"
+            "Trampolim acrobático",
+            "Cama elástica",
+            "Trampolim"
           ],
           "traducoes": {
             "en": [
@@ -262,7 +266,9 @@
           "canonica": "Canoagem",
           "aceitas": [
             "Canoagem velocidade",
-            "Canoagem slalom"
+            "Canoagem slalom",
+            "Caiaque",
+            "Canoa"
           ],
           "traducoes": {
             "en": [
@@ -272,7 +278,7 @@
               "Piragüismo"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "remo",
@@ -283,7 +289,7 @@
               "Rowing"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "vela",
@@ -296,7 +302,7 @@
               "Sailing"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "ciclismo",
@@ -310,14 +316,17 @@
               "Cycling"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "bmx",
           "canonica": "BMX",
-          "aceitas": [],
+          "aceitas": [
+            "BMX freestyle",
+            "BMX racing"
+          ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "mountain-bike",
@@ -326,7 +335,7 @@
             "MTB"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "esgrima",
@@ -396,7 +405,7 @@
               "Lucha libre"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "luta-greco-romana",
@@ -410,7 +419,7 @@
               "Lucha grecorromana"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "tiro-esportivo",
@@ -424,7 +433,7 @@
               "Tiro deportivo"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "tiro-com-arco",
@@ -499,7 +508,9 @@
           "id": "hoquei-sobre-grama",
           "canonica": "Hóquei sobre grama",
           "aceitas": [
-            "Hóquei"
+            "Hóquei",
+            "Hockey",
+            "Hóquei na grama"
           ],
           "traducoes": {
             "en": [
@@ -509,7 +520,7 @@
               "Hockey sobre césped"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "badminton",
@@ -530,7 +541,7 @@
               "Waterpolo"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "saltos-ornamentais",
@@ -565,7 +576,10 @@
         {
           "id": "maratona-aquatica",
           "canonica": "Maratona aquática",
-          "aceitas": [],
+          "aceitas": [
+            "Águas abertas",
+            "Natação em águas abertas"
+          ],
           "traducoes": {
             "en": [
               "Marathon swimming",
@@ -575,7 +589,7 @@
               "Aguas abiertas"
             ]
           },
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "breaking",
@@ -600,7 +614,7 @@
               "Escalada deportiva"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "maratona",
@@ -667,7 +681,7 @@
               "Salto con pértiga"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "salto-em-distancia",
@@ -681,7 +695,7 @@
               "Salto de longitud"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "salto-triplo",
@@ -693,6 +707,203 @@
             ],
             "es": [
               "Triple salto"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "salto-em-altura",
+          "canonica": "Salto em altura",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "High jump"
+            ],
+            "es": [
+              "Salto de altura"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "100-metros-rasos",
+          "canonica": "100 metros rasos",
+          "aceitas": [
+            "100 metros",
+            "Corrida de 100 metros"
+          ],
+          "traducoes": {
+            "en": [
+              "100 metres",
+              "100m"
+            ],
+            "es": [
+              "100 metros lisos"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "arremesso-de-peso",
+          "canonica": "Arremesso de peso",
+          "aceitas": [
+            "Lançamento de peso"
+          ],
+          "traducoes": {
+            "en": [
+              "Shot put"
+            ],
+            "es": [
+              "Lanzamiento de peso"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "lancamento-de-dardo",
+          "canonica": "Lançamento de dardo",
+          "aceitas": [
+            "Dardo"
+          ],
+          "traducoes": {
+            "en": [
+              "Javelin throw"
+            ],
+            "es": [
+              "Lanzamiento de jabalina"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "lancamento-de-disco",
+          "canonica": "Lançamento de disco",
+          "aceitas": [
+            "Disco"
+          ],
+          "traducoes": {
+            "en": [
+              "Discus throw"
+            ],
+            "es": [
+              "Lanzamiento de disco"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "lancamento-de-martelo",
+          "canonica": "Lançamento de martelo",
+          "aceitas": [
+            "Martelo"
+          ],
+          "traducoes": {
+            "en": [
+              "Hammer throw"
+            ],
+            "es": [
+              "Lanzamiento de martillo"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "revezamento",
+          "canonica": "Revezamento",
+          "aceitas": [
+            "Revezamento 4x100",
+            "Revezamento 4x400"
+          ],
+          "traducoes": {
+            "en": [
+              "Relay"
+            ],
+            "es": [
+              "Relevos"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "corrida-com-barreiras",
+          "canonica": "Corrida com barreiras",
+          "aceitas": [
+            "Barreiras",
+            "110 metros com barreiras",
+            "400 metros com barreiras"
+          ],
+          "traducoes": {
+            "en": [
+              "Hurdles"
+            ],
+            "es": [
+              "Vallas"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "nado-livre",
+          "canonica": "Nado livre",
+          "aceitas": [
+            "Crawl"
+          ],
+          "traducoes": {
+            "en": [
+              "Freestyle"
+            ],
+            "es": [
+              "Estilo libre"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "nado-borboleta",
+          "canonica": "Nado borboleta",
+          "aceitas": [
+            "Borboleta"
+          ],
+          "traducoes": {
+            "en": [
+              "Butterfly"
+            ],
+            "es": [
+              "Mariposa"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "nado-de-costas",
+          "canonica": "Nado de costas",
+          "aceitas": [
+            "Costas",
+            "Nado costas"
+          ],
+          "traducoes": {
+            "en": [
+              "Backstroke"
+            ],
+            "es": [
+              "Espalda"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "nado-peito",
+          "canonica": "Nado peito",
+          "aceitas": [
+            "Peito",
+            "Nado de peito"
+          ],
+          "traducoes": {
+            "en": [
+              "Breaststroke"
+            ],
+            "es": [
+              "Pecho"
             ]
           },
           "raridadeInicial": "epico"
@@ -712,7 +923,9 @@
         {
           "id": "futebol",
           "canonica": "Futebol",
-          "aceitas": [],
+          "aceitas": [
+            "Futebol de campo"
+          ],
           "traducoes": {
             "en": [
               "Football",
@@ -744,7 +957,8 @@
           "id": "basquete",
           "canonica": "Basquete",
           "aceitas": [
-            "Basquetebol"
+            "Basquetebol",
+            "Basket"
           ],
           "traducoes": {
             "en": [
@@ -799,7 +1013,9 @@
         {
           "id": "futebol-americano",
           "canonica": "Futebol americano",
-          "aceitas": [],
+          "aceitas": [
+            "Football americano"
+          ],
           "traducoes": {
             "en": [
               "American football"
@@ -853,7 +1069,8 @@
           "id": "beisebol",
           "canonica": "Beisebol",
           "aceitas": [
-            "Baseball"
+            "Baseball",
+            "Basebol"
           ],
           "traducoes": {
             "en": [
@@ -886,7 +1103,7 @@
               "Futvóley"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "beach-tennis",
@@ -895,7 +1112,7 @@
             "Tênis de praia"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "boliche",
@@ -909,7 +1126,7 @@
               "Bolos"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "sinuca",
@@ -1003,7 +1220,9 @@
         {
           "id": "hoquei-sobre-grama",
           "canonica": "Hóquei sobre grama",
-          "aceitas": [],
+          "aceitas": [
+            "Hóquei na grama"
+          ],
           "traducoes": {
             "en": [
               "Field hockey"
@@ -1016,7 +1235,7 @@
           "canonica": "Squash",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "padel",
@@ -1036,12 +1255,15 @@
               "Softball"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "pelota-basca",
           "canonica": "Pelota basca",
-          "aceitas": [],
+          "aceitas": [
+            "Jai alai",
+            "Pelota"
+          ],
           "traducoes": {
             "en": [
               "Basque pelota"
@@ -1059,7 +1281,7 @@
             "Polo equestre"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "frescobol",
@@ -1083,7 +1305,7 @@
               "Bochas"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "goalball",
@@ -1182,6 +1404,129 @@
           "aceitas": [],
           "traducoes": {},
           "raridadeInicial": "lendario"
+        },
+        {
+          "id": "pickleball",
+          "canonica": "Pickleball",
+          "aceitas": [
+            "Picklebol"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "raquetebol",
+          "canonica": "Raquetebol",
+          "aceitas": [
+            "Racquetball"
+          ],
+          "traducoes": {
+            "es": [
+              "Raquetbol"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "volei-sentado",
+          "canonica": "Vôlei sentado",
+          "aceitas": [
+            "Voleibol sentado"
+          ],
+          "traducoes": {
+            "en": [
+              "Sitting volleyball"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "handebol-de-praia",
+          "canonica": "Handebol de praia",
+          "aceitas": [
+            "Andebol de praia"
+          ],
+          "traducoes": {
+            "en": [
+              "Beach handball"
+            ],
+            "es": [
+              "Balonmano playa"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "basquete-em-cadeira-de-rodas",
+          "canonica": "Basquete em cadeira de rodas",
+          "aceitas": [
+            "Basquetebol em cadeira de rodas"
+          ],
+          "traducoes": {
+            "en": [
+              "Wheelchair basketball"
+            ],
+            "es": [
+              "Baloncesto en silla de ruedas"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "hoquei-em-patins",
+          "canonica": "Hóquei em patins",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Roller hockey",
+              "Rink hockey"
+            ],
+            "es": [
+              "Hockey sobre patines"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "petanca",
+          "canonica": "Petanca",
+          "aceitas": [
+            "Pétanque",
+            "Bocha provençal"
+          ],
+          "traducoes": {
+            "en": [
+              "Boules"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "kin-ball",
+          "canonica": "Kin-ball",
+          "aceitas": [
+            "Kinball"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "futebol-de-cinco",
+          "canonica": "Futebol de cinco",
+          "aceitas": [
+            "Futebol de 5",
+            "Futebol para cegos"
+          ],
+          "traducoes": {
+            "en": [
+              "Blind football",
+              "5-a-side football"
+            ],
+            "es": [
+              "Fútbol para ciegos"
+            ]
+          },
+          "raridadeInicial": "epico"
         }
       ]
     },
@@ -1535,7 +1880,8 @@
           "id": "neymar",
           "canonica": "Neymar",
           "aceitas": [
-            "Neymar Jr"
+            "Neymar Jr",
+            "Neymar Junior"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -1584,7 +1930,9 @@
         {
           "id": "thiago-braz",
           "canonica": "Thiago Braz",
-          "aceitas": [],
+          "aceitas": [
+            "Thiago Braz da Silva"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
@@ -1652,7 +2000,7 @@
           "canonica": "Hebert Conceição",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "ana-marcela-cunha",
@@ -1670,14 +2018,16 @@
             "Bia Souza"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "ana-patricia",
           "canonica": "Ana Patrícia",
-          "aceitas": [],
+          "aceitas": [
+            "Ana Patrícia Ramos"
+          ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "duda-lisboa",
@@ -1686,7 +2036,7 @@
             "Duda"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "giba",
@@ -1704,7 +2054,7 @@
             "Escadinha"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "sheilla",
@@ -1722,7 +2072,7 @@
             "Fabiana Claudino"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "jaqueline-carvalho",
@@ -1732,35 +2082,35 @@
             "Jaque"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "fofao",
           "canonica": "Fofão",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "thaisa",
           "canonica": "Thaisa",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "paula-pequeno",
           "canonica": "Paula Pequeno",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "fabi",
           "canonica": "Fabi",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "mari",
@@ -1769,35 +2119,37 @@
             "Marianne Steinbrecher"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "dani-lins",
           "canonica": "Dani Lins",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "fernanda-garay",
           "canonica": "Fernanda Garay",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "natalia-pereira",
           "canonica": "Natália Pereira",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "tandara",
           "canonica": "Tandara",
-          "aceitas": [],
+          "aceitas": [
+            "Tandara Caixeta"
+          ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "bruninho",
@@ -1806,14 +2158,14 @@
             "Bruno Rezende"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "lucao",
           "canonica": "Lucão",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "wallace",
@@ -1822,7 +2174,7 @@
             "Wallace de Souza"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "lucarelli",
@@ -1831,14 +2183,14 @@
             "Ricardo Lucarelli"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "tande",
           "canonica": "Tande",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "giovane-gavio",
@@ -1847,42 +2199,42 @@
             "Giovane"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "marcelo-negrao",
           "canonica": "Marcelo Negrão",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "mauricio-lima",
           "canonica": "Maurício Lima",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "carlao",
           "canonica": "Carlão",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "nalbert",
           "canonica": "Nalbert",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "ricardinho",
           "canonica": "Ricardinho",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "dante",
@@ -1891,21 +2243,21 @@
             "Dante Amaral"
           ],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "gustavo-endres",
           "canonica": "Gustavo Endres",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "ricardo-santos",
           "canonica": "Ricardo Santos",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "emanuel-rego",
@@ -1931,21 +2283,23 @@
           "canonica": "Bruno Schmidt",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "jacqueline-silva",
           "canonica": "Jacqueline Silva",
-          "aceitas": [],
+          "aceitas": [
+            "Jackie Silva"
+          ],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "sandra-pires",
           "canonica": "Sandra Pires",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "rodrigo-pessoa",
@@ -1959,7 +2313,7 @@
           "canonica": "Marcelo Ferreira",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "adhemar-ferreira-da-silva",
@@ -1968,7 +2322,7 @@
             "Adhemar"
           ],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "joaquim-cruz",
@@ -1989,14 +2343,14 @@
           "canonica": "Rogério Sampaio",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "guilherme-paraense",
           "canonica": "Guilherme Paraense",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "gabriel-jesus",
@@ -2033,7 +2387,7 @@
           "canonica": "Renato Augusto",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "daniel-alves",
@@ -2063,33 +2417,434 @@
           "canonica": "Matheus Cunha",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "malcom",
           "canonica": "Malcom",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "antony",
           "canonica": "Antony",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "douglas-luiz",
           "canonica": "Douglas Luiz",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "claudinho",
           "canonica": "Claudinho",
           "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "matheus-henrique",
+          "canonica": "Matheus Henrique",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "gabriel-martinelli",
+          "canonica": "Gabriel Martinelli",
+          "aceitas": [
+            "Martinelli"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "gabriel-menino",
+          "canonica": "Gabriel Menino",
+          "aceitas": [
+            "Menino"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "guilherme-arana",
+          "canonica": "Guilherme Arana",
+          "aceitas": [
+            "Arana"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "diego-carlos",
+          "canonica": "Diego Carlos",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "paulinho",
+          "canonica": "Paulinho",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "reinier",
+          "canonica": "Reinier",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ricardo-graca",
+          "canonica": "Ricardo Graça",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "nino",
+          "canonica": "Nino",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "abner",
+          "canonica": "Abner",
+          "aceitas": [
+            "Abner Vinícius"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "bruno-fuchs",
+          "canonica": "Bruno Fuchs",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "brenno",
+          "canonica": "Brenno",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "aderbar-santos",
+          "canonica": "Aderbar Santos",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "rodrigo-caio",
+          "canonica": "Rodrigo Caio",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "felipe-anderson",
+          "canonica": "Felipe Anderson",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "rafinha",
+          "canonica": "Rafinha",
+          "aceitas": [
+            "Rafinha Alcântara"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "thiago-maia",
+          "canonica": "Thiago Maia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "douglas-santos",
+          "canonica": "Douglas Santos",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "rodrigo-dourado",
+          "canonica": "Rodrigo Dourado",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "walace",
+          "canonica": "Walace",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "luan",
+          "canonica": "Luan",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "zeca",
+          "canonica": "Zeca",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "uilson",
+          "canonica": "Uílson",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "douglas-souza",
+          "canonica": "Douglas Souza",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "mauricio-souza",
+          "canonica": "Maurício Souza",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "lipe-fonteles",
+          "canonica": "Lipe Fonteles",
+          "aceitas": [
+            "Lipe"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "eder-carbonera",
+          "canonica": "Éder Carbonera",
+          "aceitas": [
+            "Éder"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "evandro-guerra",
+          "canonica": "Evandro Guerra",
+          "aceitas": [
+            "Evandro"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "william-arjona",
+          "canonica": "William Arjona",
+          "aceitas": [
+            "Arjona"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "mauricio-borges",
+          "canonica": "Maurício Borges",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "carol-albuquerque",
+          "canonica": "Carol Albuquerque",
+          "aceitas": [
+            "Carol"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "walewska",
+          "canonica": "Walewska",
+          "aceitas": [
+            "Walewska Oliveira"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "valeskinha",
+          "canonica": "Valeskinha",
+          "aceitas": [
+            "Valeska Menezes"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "sassa",
+          "canonica": "Sassá",
+          "aceitas": [
+            "Sassá Gonzaga"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "adenizia",
+          "canonica": "Adenízia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "fernandinha",
+          "canonica": "Fernandinha",
+          "aceitas": [
+            "Fernanda Ferreira"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "anderson-rodrigues",
+          "canonica": "Anderson Rodrigues",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "andre-heller",
+          "canonica": "André Heller",
+          "aceitas": [
+            "Heller"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "andre-nascimento",
+          "canonica": "André Nascimento",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "rodrigao",
+          "canonica": "Rodrigão",
+          "aceitas": [
+            "Rodrigo Santana"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "alexandre-welter",
+          "canonica": "Alexandre Welter",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "lars-bjorkstrom",
+          "canonica": "Lars Björkström",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "eduardo-penido",
+          "canonica": "Eduardo Penido",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "marcos-soares",
+          "canonica": "Marcos Soares",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "douglas-chiarotti",
+          "canonica": "Douglas Chiarotti",
+          "aceitas": [
+            "Chiarotti"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "amauri-ribeiro",
+          "canonica": "Amauri Ribeiro",
+          "aceitas": [
+            "Amauri"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "andre-pampa",
+          "canonica": "André Pampa",
+          "aceitas": [
+            "Pampa"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "janelson-carvalho",
+          "canonica": "Janelson Carvalho",
+          "aceitas": [
+            "Janelson"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "jorge-edson",
+          "canonica": "Jorge Edson",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "paulao",
+          "canonica": "Paulão",
+          "aceitas": [
+            "Paulão Jukoski"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "talmo-de-oliveira",
+          "canonica": "Talmo de Oliveira",
+          "aceitas": [
+            "Talmo"
+          ],
           "traducoes": {},
           "raridadeInicial": "lendario"
         }

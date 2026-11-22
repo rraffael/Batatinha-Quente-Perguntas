@@ -45,7 +45,9 @@
         {
           "id": "led-zeppelin",
           "canonica": "Led Zeppelin",
-          "aceitas": [],
+          "aceitas": [
+            "Led Zep"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
@@ -84,7 +86,9 @@
           "canonica": "Guns N' Roses",
           "aceitas": [
             "Guns and Roses",
-            "Guns"
+            "Guns",
+            "GNR",
+            "GN'R"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -151,14 +155,18 @@
         {
           "id": "iron-maiden",
           "canonica": "Iron Maiden",
-          "aceitas": [],
+          "aceitas": [
+            "Maiden"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
         {
           "id": "black-sabbath",
           "canonica": "Black Sabbath",
-          "aceitas": [],
+          "aceitas": [
+            "Sabbath"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
@@ -227,98 +235,108 @@
             "Strokes"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "muse",
           "canonica": "Muse",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "imagine-dragons",
           "canonica": "Imagine Dragons",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "scorpions",
           "canonica": "Scorpions",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "van-halen",
           "canonica": "Van Halen",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "def-leppard",
           "canonica": "Def Leppard",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "journey",
           "canonica": "Journey",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "eagles",
           "canonica": "Eagles",
-          "aceitas": [],
+          "aceitas": [
+            "The Eagles"
+          ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "dire-straits",
           "canonica": "Dire Straits",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "the-police",
           "canonica": "The Police",
-          "aceitas": [],
+          "aceitas": [
+            "Police"
+          ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "the-cure",
           "canonica": "The Cure",
-          "aceitas": [],
+          "aceitas": [
+            "Cure"
+          ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "the-clash",
           "canonica": "The Clash",
-          "aceitas": [],
+          "aceitas": [
+            "Clash"
+          ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "ramones",
           "canonica": "Ramones",
-          "aceitas": [],
+          "aceitas": [
+            "The Ramones"
+          ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "sex-pistols",
           "canonica": "Sex Pistols",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "blink-182",
@@ -327,7 +345,7 @@
             "Blink"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "the-offspring",
@@ -336,46 +354,48 @@
             "Offspring"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "evanescence",
           "canonica": "Evanescence",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "system-of-a-down",
           "canonica": "System of a Down",
           "aceitas": [
-            "SOAD"
+            "SOAD",
+            "System"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "slipknot",
           "canonica": "Slipknot",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "megadeth",
           "canonica": "Megadeth",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "rage-against-the-machine",
           "canonica": "Rage Against the Machine",
           "aceitas": [
-            "RATM"
+            "RATM",
+            "Rage"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "creedence-clearwater-revival",
@@ -385,28 +405,28 @@
             "CCR"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "lynyrd-skynyrd",
           "canonica": "Lynyrd Skynyrd",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "zz-top",
           "canonica": "ZZ Top",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "fleetwood-mac",
           "canonica": "Fleetwood Mac",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "r-e-m",
@@ -415,7 +435,7 @@
             "REM"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "the-smashing-pumpkins",
@@ -424,28 +444,28 @@
             "Smashing Pumpkins"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "soundgarden",
           "canonica": "Soundgarden",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "alice-in-chains",
           "canonica": "Alice in Chains",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "kings-of-leon",
           "canonica": "Kings of Leon",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "the-killers",
@@ -454,21 +474,21 @@
             "Killers"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "franz-ferdinand",
           "canonica": "Franz Ferdinand",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "paramore",
           "canonica": "Paramore",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "my-chemical-romance",
@@ -477,105 +497,107 @@
             "MCR"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "simple-plan",
           "canonica": "Simple Plan",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "avenged-sevenfold",
           "canonica": "Avenged Sevenfold",
-          "aceitas": [],
+          "aceitas": [
+            "A7X"
+          ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "pantera",
           "canonica": "Pantera",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "motorhead",
           "canonica": "Motörhead",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "judas-priest",
           "canonica": "Judas Priest",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "toto",
           "canonica": "Toto",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "yes",
           "canonica": "Yes",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "genesis",
           "canonica": "Genesis",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "rush",
           "canonica": "Rush",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "jethro-tull",
           "canonica": "Jethro Tull",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "nickelback",
           "canonica": "Nickelback",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "creed",
           "canonica": "Creed",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "audioslave",
           "canonica": "Audioslave",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "maneskin",
           "canonica": "Måneskin",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "the-black-keys",
@@ -584,7 +606,7 @@
             "Black Keys"
           ],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "the-white-stripes",
@@ -593,14 +615,14 @@
             "White Stripes"
           ],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "pixies",
           "canonica": "Pixies",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "the-velvet-underground",
@@ -609,56 +631,56 @@
             "Velvet Underground"
           ],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "cream",
           "canonica": "Cream",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "kansas",
           "canonica": "Kansas",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "boston",
           "canonica": "Boston",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "styx",
           "canonica": "Styx",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "blondie",
           "canonica": "Blondie",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "talking-heads",
           "canonica": "Talking Heads",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "inxs",
           "canonica": "INXS",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "the-cranberries",
@@ -667,14 +689,14 @@
             "Cranberries"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "placebo",
           "canonica": "Placebo",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "queens-of-the-stone-age",
@@ -682,6 +704,767 @@
           "aceitas": [
             "QOTSA"
           ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "maroon-5",
+          "canonica": "Maroon 5",
+          "aceitas": [
+            "Maroon Five"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "roxette",
+          "canonica": "Roxette",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "skillet",
+          "canonica": "Skillet",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "onerepublic",
+          "canonica": "OneRepublic",
+          "aceitas": [
+            "One Republic"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "breaking-benjamin",
+          "canonica": "Breaking Benjamin",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "seether",
+          "canonica": "Seether",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "staind",
+          "canonica": "Staind",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "counting-crows",
+          "canonica": "Counting Crows",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "matchbox-twenty",
+          "canonica": "Matchbox Twenty",
+          "aceitas": [
+            "Matchbox 20"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cheap-trick",
+          "canonica": "Cheap Trick",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "bad-company",
+          "canonica": "Bad Company",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "alter-bridge",
+          "canonica": "Alter Bridge",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "the-cult",
+          "canonica": "The Cult",
+          "aceitas": [
+            "Cult"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "rammstein",
+          "canonica": "Rammstein",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "the-smiths",
+          "canonica": "The Smiths",
+          "aceitas": [
+            "Smiths"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "blur",
+          "canonica": "Blur",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "korn",
+          "canonica": "Korn",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "limp-bizkit",
+          "canonica": "Limp Bizkit",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "fall-out-boy",
+          "canonica": "Fall Out Boy",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "sum-41",
+          "canonica": "Sum 41",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "good-charlotte",
+          "canonica": "Good Charlotte",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "weezer",
+          "canonica": "Weezer",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "the-beach-boys",
+          "canonica": "The Beach Boys",
+          "aceitas": [
+            "Beach Boys"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "europe",
+          "canonica": "Europe",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "supertramp",
+          "canonica": "Supertramp",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "twenty-one-pilots",
+          "canonica": "Twenty One Pilots",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "panic-at-the-disco",
+          "canonica": "Panic! at the Disco",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "no-doubt",
+          "canonica": "No Doubt",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "the-kinks",
+          "canonica": "The Kinks",
+          "aceitas": [
+            "Kinks"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "slayer",
+          "canonica": "Slayer",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "motley-crue",
+          "canonica": "Mötley Crüe",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "whitesnake",
+          "canonica": "Whitesnake",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "twisted-sister",
+          "canonica": "Twisted Sister",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "skid-row",
+          "canonica": "Skid Row",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "poison",
+          "canonica": "Poison",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "foreigner",
+          "canonica": "Foreigner",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "thin-lizzy",
+          "canonica": "Thin Lizzy",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "dio",
+          "canonica": "Dio",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "tool",
+          "canonica": "Tool",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "deftones",
+          "canonica": "Deftones",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "papa-roach",
+          "canonica": "Papa Roach",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "three-days-grace",
+          "canonica": "Three Days Grace",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "hoobastank",
+          "canonica": "Hoobastank",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "3-doors-down",
+          "canonica": "3 Doors Down",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "goo-goo-dolls",
+          "canonica": "Goo Goo Dolls",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "tame-impala",
+          "canonica": "Tame Impala",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "the-1975",
+          "canonica": "The 1975",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "arcade-fire",
+          "canonica": "Arcade Fire",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "keane",
+          "canonica": "Keane",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "snow-patrol",
+          "canonica": "Snow Patrol",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "the-verve",
+          "canonica": "The Verve",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "joy-division",
+          "canonica": "Joy Division",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "the-animals",
+          "canonica": "The Animals",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "grateful-dead",
+          "canonica": "Grateful Dead",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "garbage",
+          "canonica": "Garbage",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "faith-no-more",
+          "canonica": "Faith No More",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "disturbed",
+          "canonica": "Disturbed",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "bring-me-the-horizon",
+          "canonica": "Bring Me the Horizon",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ghost",
+          "canonica": "Ghost",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "nightwish",
+          "canonica": "Nightwish",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "helloween",
+          "canonica": "Helloween",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "dream-theater",
+          "canonica": "Dream Theater",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "gorillaz",
+          "canonica": "Gorillaz",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "santana",
+          "canonica": "Santana",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "greta-van-fleet",
+          "canonica": "Greta Van Fleet",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "electric-light-orchestra",
+          "canonica": "Electric Light Orchestra",
+          "aceitas": [
+            "ELO"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "survivor",
+          "canonica": "Survivor",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "mr-big",
+          "canonica": "Mr. Big",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "joan-jett-the-blackhearts",
+          "canonica": "Joan Jett & the Blackhearts",
+          "aceitas": [
+            "Joan Jett e the Blackhearts",
+            "Joan Jett"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "the-byrds",
+          "canonica": "The Byrds",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "jefferson-airplane",
+          "canonica": "Jefferson Airplane",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "the-stooges",
+          "canonica": "The Stooges",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "dead-kennedys",
+          "canonica": "Dead Kennedys",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "bad-religion",
+          "canonica": "Bad Religion",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "nofx",
+          "canonica": "NOFX",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "misfits",
+          "canonica": "Misfits",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "rancid",
+          "canonica": "Rancid",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "stone-temple-pilots",
+          "canonica": "Stone Temple Pilots",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "sonic-youth",
+          "canonica": "Sonic Youth",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "jane-s-addiction",
+          "canonica": "Jane's Addiction",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "incubus",
+          "canonica": "Incubus",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "pulp",
+          "canonica": "Pulp",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "travis",
+          "canonica": "Travis",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "kaiser-chiefs",
+          "canonica": "Kaiser Chiefs",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "the-pretenders",
+          "canonica": "The Pretenders",
+          "aceitas": [
+            "Pretenders"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "heart",
+          "canonica": "Heart",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "t-rex",
+          "canonica": "T. Rex",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "status-quo",
+          "canonica": "Status Quo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "uriah-heep",
+          "canonica": "Uriah Heep",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "steppenwolf",
+          "canonica": "Steppenwolf",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "chicago",
+          "canonica": "Chicago",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "king-crimson",
+          "canonica": "King Crimson",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "emerson-lake-palmer",
+          "canonica": "Emerson, Lake & Palmer",
+          "aceitas": [
+            "Emerson, Lake e Palmer",
+            "ELP"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "the-allman-brothers-band",
+          "canonica": "The Allman Brothers Band",
+          "aceitas": [
+            "Allman Brothers"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "anthrax",
+          "canonica": "Anthrax",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "testament",
+          "canonica": "Testament",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "sabaton",
+          "canonica": "Sabaton",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "manowar",
+          "canonica": "Manowar",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "lamb-of-god",
+          "canonica": "Lamb of God",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "bullet-for-my-valentine",
+          "canonica": "Bullet for My Valentine",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "the-darkness",
+          "canonica": "The Darkness",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "wolfmother",
+          "canonica": "Wolfmother",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "kasabian",
+          "canonica": "Kasabian",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "the-hives",
+          "canonica": "The Hives",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "interpol",
+          "canonica": "Interpol",
+          "aceitas": [],
           "traducoes": {},
           "raridadeInicial": "lendario"
         }
@@ -700,14 +1483,19 @@
         {
           "id": "michael-jackson",
           "canonica": "Michael Jackson",
-          "aceitas": [],
+          "aceitas": [
+            "MJ",
+            "Rei do Pop"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
         {
           "id": "madonna",
           "canonica": "Madonna",
-          "aceitas": [],
+          "aceitas": [
+            "Rainha do Pop"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
@@ -738,7 +1526,8 @@
           "id": "lady-gaga",
           "canonica": "Lady Gaga",
           "aceitas": [
-            "Gaga"
+            "Gaga",
+            "Stefani Germanotta"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -746,14 +1535,18 @@
         {
           "id": "taylor-swift",
           "canonica": "Taylor Swift",
-          "aceitas": [],
+          "aceitas": [
+            "Swift"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
         {
           "id": "katy-perry",
           "canonica": "Katy Perry",
-          "aceitas": [],
+          "aceitas": [
+            "Katy"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
@@ -769,21 +1562,27 @@
         {
           "id": "ariana-grande",
           "canonica": "Ariana Grande",
-          "aceitas": [],
+          "aceitas": [
+            "Ariana"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
         {
           "id": "billie-eilish",
           "canonica": "Billie Eilish",
-          "aceitas": [],
+          "aceitas": [
+            "Billie"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
         {
           "id": "dua-lipa",
           "canonica": "Dua Lipa",
-          "aceitas": [],
+          "aceitas": [
+            "Dua"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
@@ -827,7 +1626,9 @@
         {
           "id": "miley-cyrus",
           "canonica": "Miley Cyrus",
-          "aceitas": [],
+          "aceitas": [
+            "Miley"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
@@ -864,56 +1665,64 @@
           "canonica": "Sabrina Carpenter",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "christina-aguilera",
           "canonica": "Christina Aguilera",
-          "aceitas": [],
+          "aceitas": [
+            "Aguilera"
+          ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "mariah-carey",
           "canonica": "Mariah Carey",
-          "aceitas": [],
+          "aceitas": [
+            "Mariah"
+          ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "whitney-houston",
           "canonica": "Whitney Houston",
-          "aceitas": [],
+          "aceitas": [
+            "Whitney"
+          ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "celine-dion",
           "canonica": "Celine Dion",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "elton-john",
           "canonica": "Elton John",
-          "aceitas": [],
+          "aceitas": [
+            "Elton"
+          ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "george-michael",
           "canonica": "George Michael",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "prince",
           "canonica": "Prince",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "janet-jackson",
@@ -943,7 +1752,7 @@
             "Timberlake"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "jennifer-lopez",
@@ -953,7 +1762,7 @@
             "JLo"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "pink",
@@ -976,42 +1785,42 @@
           "canonica": "Lana Del Rey",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "charli-xcx",
           "canonica": "Charli XCX",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "doja-cat",
           "canonica": "Doja Cat",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "camila-cabello",
           "canonica": "Camila Cabello",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "demi-lovato",
           "canonica": "Demi Lovato",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "avril-lavigne",
           "canonica": "Avril Lavigne",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "kesha",
@@ -1020,200 +1829,778 @@
             "Ke$ha"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "lorde",
           "canonica": "Lorde",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "halsey",
           "canonica": "Halsey",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "sam-smith",
           "canonica": "Sam Smith",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "lizzo",
           "canonica": "Lizzo",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "sza",
           "canonica": "SZA",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "chappell-roan",
           "canonica": "Chappell Roan",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "tate-mcrae",
           "canonica": "Tate McRae",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "robbie-williams",
           "canonica": "Robbie Williams",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "ricky-martin",
           "canonica": "Ricky Martin",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "enrique-iglesias",
           "canonica": "Enrique Iglesias",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "rosalia",
           "canonica": "Rosalía",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "lionel-richie",
           "canonica": "Lionel Richie",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "phil-collins",
           "canonica": "Phil Collins",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "gwen-stefani",
           "canonica": "Gwen Stefani",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "fergie",
           "canonica": "Fergie",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "nelly-furtado",
           "canonica": "Nelly Furtado",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "jessie-j",
           "canonica": "Jessie J",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "ellie-goulding",
           "canonica": "Ellie Goulding",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "meghan-trainor",
           "canonica": "Meghan Trainor",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "charlie-puth",
           "canonica": "Charlie Puth",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "troye-sivan",
           "canonica": "Troye Sivan",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "zara-larsson",
           "canonica": "Zara Larsson",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "benson-boone",
           "canonica": "Benson Boone",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "lewis-capaldi",
           "canonica": "Lewis Capaldi",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "hilary-duff",
           "canonica": "Hilary Duff",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "paula-abdul",
           "canonica": "Paula Abdul",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "cyndi-lauper",
           "canonica": "Cyndi Lauper",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "rick-astley",
           "canonica": "Rick Astley",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "elvis-presley",
+          "canonica": "Elvis Presley",
+          "aceitas": [
+            "Elvis",
+            "Rei do Rock"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "frank-sinatra",
+          "canonica": "Frank Sinatra",
+          "aceitas": [
+            "Sinatra"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "tom-jones",
+          "canonica": "Tom Jones",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "adam-levine",
+          "canonica": "Adam Levine",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "john-mayer",
+          "canonica": "John Mayer",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "dido",
+          "canonica": "Dido",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "anne-marie",
+          "canonica": "Anne-Marie",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "stevie-wonder",
+          "canonica": "Stevie Wonder",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "usher",
+          "canonica": "Usher",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "chris-brown",
+          "canonica": "Chris Brown",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "alicia-keys",
+          "canonica": "Alicia Keys",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "tina-turner",
+          "canonica": "Tina Turner",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "amy-winehouse",
+          "canonica": "Amy Winehouse",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "david-bowie",
+          "canonica": "David Bowie",
+          "aceitas": [
+            "Bowie"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "diana-ross",
+          "canonica": "Diana Ross",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "donna-summer",
+          "canonica": "Donna Summer",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "gloria-estefan",
+          "canonica": "Gloria Estefan",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "marc-anthony",
+          "canonica": "Marc Anthony",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "luis-fonsi",
+          "canonica": "Luis Fonsi",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "luis-miguel",
+          "canonica": "Luis Miguel",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "laura-pausini",
+          "canonica": "Laura Pausini",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "thalia",
+          "canonica": "Thalía",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "michael-buble",
+          "canonica": "Michael Bublé",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "sting",
+          "canonica": "Sting",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "bryan-adams",
+          "canonica": "Bryan Adams",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "rod-stewart",
+          "canonica": "Rod Stewart",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "billy-joel",
+          "canonica": "Billy Joel",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "bonnie-tyler",
+          "canonica": "Bonnie Tyler",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "olivia-newton-john",
+          "canonica": "Olivia Newton-John",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "kelly-clarkson",
+          "canonica": "Kelly Clarkson",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "james-blunt",
+          "canonica": "James Blunt",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "john-legend",
+          "canonica": "John Legend",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "pharrell-williams",
+          "canonica": "Pharrell Williams",
+          "aceitas": [
+            "Pharrell"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "jason-derulo",
+          "canonica": "Jason Derulo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ne-yo",
+          "canonica": "Ne-Yo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "zayn-malik",
+          "canonica": "Zayn Malik",
+          "aceitas": [
+            "Zayn"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "nick-jonas",
+          "canonica": "Nick Jonas",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "gloria-gaynor",
+          "canonica": "Gloria Gaynor",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "karol-g",
+          "canonica": "Karol G",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "anahi",
+          "canonica": "Anahí",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "dulce-maria",
+          "canonica": "Dulce María",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "paulina-rubio",
+          "canonica": "Paulina Rubio",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "alejandro-sanz",
+          "canonica": "Alejandro Sanz",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "eros-ramazzotti",
+          "canonica": "Eros Ramazzotti",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "bjork",
+          "canonica": "Björk",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "annie-lennox",
+          "canonica": "Annie Lennox",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "seal",
+          "canonica": "Seal",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "boy-george",
+          "canonica": "Boy George",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "michael-bolton",
+          "canonica": "Michael Bolton",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "toni-braxton",
+          "canonica": "Toni Braxton",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "leona-lewis",
+          "canonica": "Leona Lewis",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "jessica-simpson",
+          "canonica": "Jessica Simpson",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "mandy-moore",
+          "canonica": "Mandy Moore",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "lily-allen",
+          "canonica": "Lily Allen",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "natasha-bedingfield",
+          "canonica": "Natasha Bedingfield",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "james-arthur",
+          "canonica": "James Arthur",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "ava-max",
+          "canonica": "Ava Max",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "bebe-rexha",
+          "canonica": "Bebe Rexha",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "rita-ora",
+          "canonica": "Rita Ora",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "becky-g",
+          "canonica": "Becky G",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "niall-horan",
+          "canonica": "Niall Horan",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "louis-tomlinson",
+          "canonica": "Louis Tomlinson",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "liam-payne",
+          "canonica": "Liam Payne",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "mika",
+          "canonica": "Mika",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "jason-mraz",
+          "canonica": "Jason Mraz",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "teddy-swims",
+          "canonica": "Teddy Swims",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "ciara",
+          "canonica": "Ciara",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "nicole-scherzinger",
+          "canonica": "Nicole Scherzinger",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "kelly-rowland",
+          "canonica": "Kelly Rowland",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "aaliyah",
+          "canonica": "Aaliyah",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "khalid",
+          "canonica": "Khalid",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "gracie-abrams",
+          "canonica": "Gracie Abrams",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "shania-twain",
+          "canonica": "Shania Twain",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "robin-thicke",
+          "canonica": "Robin Thicke",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "richard-marx",
+          "canonica": "Richard Marx",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "belinda-carlisle",
+          "canonica": "Belinda Carlisle",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "tiziano-ferro",
+          "canonica": "Tiziano Ferro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "duffy",
+          "canonica": "Duffy",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "madison-beer",
+          "canonica": "Madison Beer",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "conan-gray",
+          "canonica": "Conan Gray",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "lauv",
+          "canonica": "Lauv",
           "aceitas": [],
           "traducoes": {},
           "raridadeInicial": "lendario"
@@ -1363,7 +2750,9 @@
         {
           "id": "a-hard-day-s-night",
           "canonica": "A Hard Day's Night",
-          "aceitas": [],
+          "aceitas": [
+            "Hard Day's Night"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
@@ -1444,35 +2833,39 @@
           "canonica": "Nowhere Man",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "norwegian-wood",
           "canonica": "Norwegian Wood",
-          "aceitas": [],
+          "aceitas": [
+            "Norwegian Wood (This Bird Has Flown)"
+          ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "drive-my-car",
           "canonica": "Drive My Car",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "girl",
           "canonica": "Girl",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "with-a-little-help-from-my-friends",
           "canonica": "With a Little Help from My Friends",
-          "aceitas": [],
+          "aceitas": [
+            "With a Little Help"
+          ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "sgt-pepper-s-lonely-hearts-club-band",
@@ -1482,14 +2875,14 @@
             "Sgt Pepper"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "a-day-in-the-life",
           "canonica": "A Day in the Life",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "when-i-m-sixty-four",
@@ -1498,21 +2891,21 @@
             "When I'm 64"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "lady-madonna",
           "canonica": "Lady Madonna",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "revolution",
           "canonica": "Revolution",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "back-in-the-u-s-s-r",
@@ -1521,14 +2914,16 @@
             "Back in the USSR"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "while-my-guitar-gently-weeps",
           "canonica": "While My Guitar Gently Weeps",
-          "aceitas": [],
+          "aceitas": [
+            "While My Guitar"
+          ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "ob-la-di-ob-la-da",
@@ -1537,63 +2932,65 @@
             "Obladi Oblada"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "helter-skelter",
           "canonica": "Helter Skelter",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "don-t-let-me-down",
           "canonica": "Don't Let Me Down",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "octopus-s-garden",
           "canonica": "Octopus's Garden",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "across-the-universe",
           "canonica": "Across the Universe",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "the-long-and-winding-road",
           "canonica": "The Long and Winding Road",
-          "aceitas": [],
+          "aceitas": [
+            "Long and Winding Road"
+          ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "i-saw-her-standing-there",
           "canonica": "I Saw Her Standing There",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "and-i-love-her",
           "canonica": "And I Love Her",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "eight-days-a-week",
           "canonica": "Eight Days a Week",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "i-feel-fine",
@@ -1649,91 +3046,91 @@
           "canonica": "I Am the Walrus",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "the-fool-on-the-hill",
           "canonica": "The Fool on the Hill",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "magical-mystery-tour",
           "canonica": "Magical Mystery Tour",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "hello-goodbye",
           "canonica": "Hello, Goodbye",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "dear-prudence",
           "canonica": "Dear Prudence",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "julia",
           "canonica": "Julia",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "birthday",
           "canonica": "Birthday",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "golden-slumbers",
           "canonica": "Golden Slumbers",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "carry-that-weight",
           "canonica": "Carry That Weight",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "the-end",
           "canonica": "The End",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "because",
           "canonica": "Because",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "maxwell-s-silver-hammer",
           "canonica": "Maxwell's Silver Hammer",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "oh-darling",
           "canonica": "Oh! Darling",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "i-want-you-she-s-so-heavy",
@@ -1742,119 +3139,119 @@
             "I Want You"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "the-ballad-of-john-and-yoko",
           "canonica": "The Ballad of John and Yoko",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "from-me-to-you",
           "canonica": "From Me to You",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "if-i-fell",
           "canonica": "If I Fell",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "you-ve-got-to-hide-your-love-away",
           "canonica": "You've Got to Hide Your Love Away",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "two-of-us",
           "canonica": "Two of Us",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "free-as-a-bird",
           "canonica": "Free as a Bird",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "now-and-then",
           "canonica": "Now and Then",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "real-love",
           "canonica": "Real Love",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "rocky-raccoon",
           "canonica": "Rocky Raccoon",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "happiness-is-a-warm-gun",
           "canonica": "Happiness Is a Warm Gun",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "i-m-a-loser",
           "canonica": "I'm a Loser",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "no-reply",
           "canonica": "No Reply",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "i-should-have-known-better",
           "canonica": "I Should Have Known Better",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "getting-better",
           "canonica": "Getting Better",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "fixing-a-hole",
           "canonica": "Fixing a Hole",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "she-s-leaving-home",
           "canonica": "She's Leaving Home",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "being-for-the-benefit-of-mr-kite",
@@ -1863,74 +3260,884 @@
             "Mr. Kite"
           ],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "within-you-without-you",
           "canonica": "Within You Without You",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "lovely-rita",
           "canonica": "Lovely Rita",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "hey-bulldog",
           "canonica": "Hey Bulldog",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "baby-you-re-a-rich-man",
           "canonica": "Baby You're a Rich Man",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "dig-a-pony",
           "canonica": "Dig a Pony",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "think-for-yourself",
           "canonica": "Think for Yourself",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "the-word",
           "canonica": "The Word",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "roll-over-beethoven",
           "canonica": "Roll Over Beethoven",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "rock-and-roll-music",
           "canonica": "Rock and Roll Music",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "money-that-s-what-i-want",
           "canonica": "Money (That's What I Want)",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "i-will",
+          "canonica": "I Will",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "glass-onion",
+          "canonica": "Glass Onion",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "mother-nature-s-son",
+          "canonica": "Mother Nature's Son",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "sexy-sadie",
+          "canonica": "Sexy Sadie",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "martha-my-dear",
+          "canonica": "Martha My Dear",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "revolution-9",
+          "canonica": "Revolution 9",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "i-m-so-tired",
+          "canonica": "I'm So Tired",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "piggies",
+          "canonica": "Piggies",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "savoy-truffle",
+          "canonica": "Savoy Truffle",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "cry-baby-cry",
+          "canonica": "Cry Baby Cry",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "honey-pie",
+          "canonica": "Honey Pie",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "yer-blues",
+          "canonica": "Yer Blues",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "why-don-t-we-do-it-in-the-road",
+          "canonica": "Why Don't We Do It in the Road?",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "the-continuing-story-of-bungalow-bill",
+          "canonica": "The Continuing Story of Bungalow Bill",
+          "aceitas": [
+            "Bungalow Bill"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "good-night",
+          "canonica": "Good Night",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "don-t-pass-me-by",
+          "canonica": "Don't Pass Me By",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "long-long-long",
+          "canonica": "Long, Long, Long",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "you-won-t-see-me",
+          "canonica": "You Won't See Me",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "i-m-looking-through-you",
+          "canonica": "I'm Looking Through You",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "if-i-needed-someone",
+          "canonica": "If I Needed Someone",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "run-for-your-life",
+          "canonica": "Run for Your Life",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "what-goes-on",
+          "canonica": "What Goes On",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "wait",
+          "canonica": "Wait",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "i-m-only-sleeping",
+          "canonica": "I'm Only Sleeping",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "for-no-one",
+          "canonica": "For No One",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "she-said-she-said",
+          "canonica": "She Said She Said",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "and-your-bird-can-sing",
+          "canonica": "And Your Bird Can Sing",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "doctor-robert",
+          "canonica": "Doctor Robert",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "i-want-to-tell-you",
+          "canonica": "I Want to Tell You",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "love-you-to",
+          "canonica": "Love You To",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "i-ve-just-seen-a-face",
+          "canonica": "I've Just Seen a Face",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "the-night-before",
+          "canonica": "The Night Before",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "another-girl",
+          "canonica": "Another Girl",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "you-re-going-to-lose-that-girl",
+          "canonica": "You're Going to Lose That Girl",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "i-need-you",
+          "canonica": "I Need You",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "act-naturally",
+          "canonica": "Act Naturally",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "it-s-only-love",
+          "canonica": "It's Only Love",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "dizzy-miss-lizzy",
+          "canonica": "Dizzy Miss Lizzy",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "things-we-said-today",
+          "canonica": "Things We Said Today",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "i-ll-be-back",
+          "canonica": "I'll Be Back",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "tell-me-why",
+          "canonica": "Tell Me Why",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "any-time-at-all",
+          "canonica": "Any Time at All",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "i-ll-cry-instead",
+          "canonica": "I'll Cry Instead",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "you-can-t-do-that",
+          "canonica": "You Can't Do That",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "i-m-happy-just-to-dance-with-you",
+          "canonica": "I'm Happy Just to Dance with You",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "baby-s-in-black",
+          "canonica": "Baby's in Black",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "i-ll-follow-the-sun",
+          "canonica": "I'll Follow the Sun",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "mr-moonlight",
+          "canonica": "Mr. Moonlight",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "kansas-city",
+          "canonica": "Kansas City",
+          "aceitas": [
+            "Kansas City/Hey-Hey-Hey-Hey!"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "words-of-love",
+          "canonica": "Words of Love",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "honey-don-t",
+          "canonica": "Honey Don't",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "every-little-thing",
+          "canonica": "Every Little Thing",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "p-s-i-love-you",
+          "canonica": "P.S. I Love You",
+          "aceitas": [
+            "PS I Love You"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "do-you-want-to-know-a-secret",
+          "canonica": "Do You Want to Know a Secret",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "misery",
+          "canonica": "Misery",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "anna-go-to-him",
+          "canonica": "Anna (Go to Him)",
+          "aceitas": [
+            "Anna"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "chains",
+          "canonica": "Chains",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "boys",
+          "canonica": "Boys",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ask-me-why",
+          "canonica": "Ask Me Why",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "baby-it-s-you",
+          "canonica": "Baby It's You",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "a-taste-of-honey",
+          "canonica": "A Taste of Honey",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "there-s-a-place",
+          "canonica": "There's a Place",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "it-won-t-be-long",
+          "canonica": "It Won't Be Long",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "all-i-ve-got-to-do",
+          "canonica": "All I've Got to Do",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "don-t-bother-me",
+          "canonica": "Don't Bother Me",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "little-child",
+          "canonica": "Little Child",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "till-there-was-you",
+          "canonica": "Till There Was You",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "please-mr-postman",
+          "canonica": "Please Mr. Postman",
+          "aceitas": [
+            "Please Mister Postman"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "hold-me-tight",
+          "canonica": "Hold Me Tight",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "you-really-got-a-hold-on-me",
+          "canonica": "You Really Got a Hold on Me",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "i-wanna-be-your-man",
+          "canonica": "I Wanna Be Your Man",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "devil-in-her-heart",
+          "canonica": "Devil in Her Heart",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "not-a-second-time",
+          "canonica": "Not a Second Time",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "sun-king",
+          "canonica": "Sun King",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "mean-mr-mustard",
+          "canonica": "Mean Mr. Mustard",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "polythene-pam",
+          "canonica": "Polythene Pam",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "she-came-in-through-the-bathroom-window",
+          "canonica": "She Came In Through the Bathroom Window",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "you-never-give-me-your-money",
+          "canonica": "You Never Give Me Your Money",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "her-majesty",
+          "canonica": "Her Majesty",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "i-ve-got-a-feeling",
+          "canonica": "I've Got a Feeling",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "one-after-909",
+          "canonica": "One After 909",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "dig-it",
+          "canonica": "Dig It",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "i-me-mine",
+          "canonica": "I Me Mine",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "for-you-blue",
+          "canonica": "For You Blue",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "maggie-mae",
+          "canonica": "Maggie Mae",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "blue-jay-way",
+          "canonica": "Blue Jay Way",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "your-mother-should-know",
+          "canonica": "Your Mother Should Know",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "flying",
+          "canonica": "Flying",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "only-a-northern-song",
+          "canonica": "Only a Northern Song",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "all-together-now",
+          "canonica": "All Together Now",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "it-s-all-too-much",
+          "canonica": "It's All Too Much",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "good-morning-good-morning",
+          "canonica": "Good Morning Good Morning",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "i-m-down",
+          "canonica": "I'm Down",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "yes-it-is",
+          "canonica": "Yes It Is",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "this-boy",
+          "canonica": "This Boy",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "she-s-a-woman",
+          "canonica": "She's a Woman",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "thank-you-girl",
+          "canonica": "Thank You Girl",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "i-ll-get-you",
+          "canonica": "I'll Get You",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "old-brown-shoe",
+          "canonica": "Old Brown Shoe",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "the-inner-light",
+          "canonica": "The Inner Light",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "you-know-my-name-look-up-the-number",
+          "canonica": "You Know My Name (Look Up the Number)",
+          "aceitas": [
+            "You Know My Name"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "long-tall-sally",
+          "canonica": "Long Tall Sally",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "matchbox",
+          "canonica": "Matchbox",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "slow-down",
+          "canonica": "Slow Down",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "i-call-your-name",
+          "canonica": "I Call Your Name",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "bad-boy",
+          "canonica": "Bad Boy",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "everybody-s-trying-to-be-my-baby",
+          "canonica": "Everybody's Trying to Be My Baby",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "i-don-t-want-to-spoil-the-party",
+          "canonica": "I Don't Want to Spoil the Party",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "what-you-re-doing",
+          "canonica": "What You're Doing",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "when-i-get-home",
+          "canonica": "When I Get Home",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "wild-honey-pie",
+          "canonica": "Wild Honey Pie",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "everybody-s-got-something-to-hide-except-me-and-my-monkey",
+          "canonica": "Everybody's Got Something to Hide Except Me and My Monkey",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "tell-me-what-you-see",
+          "canonica": "Tell Me What You See",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "you-like-me-too-much",
+          "canonica": "You Like Me Too Much",
           "aceitas": [],
           "traducoes": {},
           "raridadeInicial": "lendario"
@@ -1965,7 +4172,9 @@
         {
           "id": "we-are-the-champions",
           "canonica": "We Are the Champions",
-          "aceitas": [],
+          "aceitas": [
+            "Champions"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
@@ -2042,7 +4251,9 @@
         {
           "id": "a-kind-of-magic",
           "canonica": "A Kind of Magic",
-          "aceitas": [],
+          "aceitas": [
+            "Kind of Magic"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
@@ -2072,49 +4283,49 @@
           "canonica": "You're My Best Friend",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "these-are-the-days-of-our-lives",
           "canonica": "These Are the Days of Our Lives",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "innuendo",
           "canonica": "Innuendo",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "i-want-it-all",
           "canonica": "I Want It All",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "too-much-love-will-kill-you",
           "canonica": "Too Much Love Will Kill You",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "friends-will-be-friends",
           "canonica": "Friends Will Be Friends",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "princes-of-the-universe",
           "canonica": "Princes of the Universe",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "breakthru",
@@ -2200,35 +4411,35 @@
           "canonica": "Made in Heaven",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "hammer-to-fall",
           "canonica": "Hammer to Fall",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "it-s-a-hard-life",
           "canonica": "It's a Hard Life",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "las-palabras-de-amor",
           "canonica": "Las Palabras de Amor",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "i-m-going-slightly-mad",
           "canonica": "I'm Going Slightly Mad",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "headlong",
@@ -2277,81 +4488,481 @@
           "canonica": "Stone Cold Crazy",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "brighton-rock",
           "canonica": "Brighton Rock",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "sheer-heart-attack",
           "canonica": "Sheer Heart Attack",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "ogre-battle",
           "canonica": "Ogre Battle",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "the-prophet-s-song",
           "canonica": "The Prophet's Song",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "liar",
           "canonica": "Liar",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "dragon-attack",
           "canonica": "Dragon Attack",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "mother-love",
           "canonica": "Mother Love",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "thank-god-it-s-christmas",
           "canonica": "Thank God It's Christmas",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "let-me-live",
           "canonica": "Let Me Live",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "you-don-t-fool-me",
           "canonica": "You Don't Fool Me",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "doing-all-right",
           "canonica": "Doing All Right",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "i-was-born-to-love-you",
+          "canonica": "I Was Born to Love You",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "scandal",
+          "canonica": "Scandal",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "the-invisible-man",
+          "canonica": "The Invisible Man",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "one-year-of-love",
+          "canonica": "One Year of Love",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "gimme-the-prize",
+          "canonica": "Gimme the Prize",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "is-this-the-world-we-created",
+          "canonica": "Is This the World We Created...?",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "teo-torriatte-let-us-cling-together",
+          "canonica": "Teo Torriatte (Let Us Cling Together)",
+          "aceitas": [
+            "Teo Torriatte"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "death-on-two-legs",
+          "canonica": "Death on Two Legs",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "lazing-on-a-sunday-afternoon",
+          "canonica": "Lazing on a Sunday Afternoon",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "i-m-in-love-with-my-car",
+          "canonica": "I'm in Love with My Car",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "get-down-make-love",
+          "canonica": "Get Down, Make Love",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "back-chat",
+          "canonica": "Back Chat",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "no-one-but-you-only-the-good-die-young",
+          "canonica": "No-One but You (Only the Good Die Young)",
+          "aceitas": [
+            "No-One but You"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "seaside-rendezvous",
+          "canonica": "Seaside Rendezvous",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "good-company",
+          "canonica": "Good Company",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "sweet-lady",
+          "canonica": "Sweet Lady",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "god-save-the-queen",
+          "canonica": "God Save the Queen",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "flick-of-the-wrist",
+          "canonica": "Flick of the Wrist",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "lily-of-the-valley",
+          "canonica": "Lily of the Valley",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "in-the-lap-of-the-gods",
+          "canonica": "In the Lap of the Gods",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "bring-back-that-leroy-brown",
+          "canonica": "Bring Back That Leroy Brown",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "father-to-son",
+          "canonica": "Father to Son",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "white-queen-as-it-began",
+          "canonica": "White Queen (As It Began)",
+          "aceitas": [
+            "White Queen"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "the-fairy-feller-s-master-stroke",
+          "canonica": "The Fairy Feller's Master-Stroke",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "nevermore",
+          "canonica": "Nevermore",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "the-march-of-the-black-queen",
+          "canonica": "The March of the Black Queen",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "great-king-rat",
+          "canonica": "Great King Rat",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "my-fairy-king",
+          "canonica": "My Fairy King",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "long-away",
+          "canonica": "Long Away",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "the-millionaire-waltz",
+          "canonica": "The Millionaire Waltz",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "all-dead-all-dead",
+          "canonica": "All Dead, All Dead",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "it-s-late",
+          "canonica": "It's Late",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "jealousy",
+          "canonica": "Jealousy",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "let-me-entertain-you",
+          "canonica": "Let Me Entertain You",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "dead-on-time",
+          "canonica": "Dead on Time",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "sail-away-sweet-sister",
+          "canonica": "Sail Away Sweet Sister",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "need-your-loving-tonight",
+          "canonica": "Need Your Loving Tonight",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "staying-power",
+          "canonica": "Staying Power",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "calling-all-girls",
+          "canonica": "Calling All Girls",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "tear-it-up",
+          "canonica": "Tear It Up",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "machines-or-back-to-humans",
+          "canonica": "Machines (or 'Back to Humans')",
+          "aceitas": [
+            "Machines"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "pain-is-so-close-to-pleasure",
+          "canonica": "Pain Is So Close to Pleasure",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "don-t-lose-your-head",
+          "canonica": "Don't Lose Your Head",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "rain-must-fall",
+          "canonica": "Rain Must Fall",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "was-it-all-worth-it",
+          "canonica": "Was It All Worth It",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "party",
+          "canonica": "Party",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "ride-the-wild-wind",
+          "canonica": "Ride the Wild Wind",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "all-god-s-people",
+          "canonica": "All God's People",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "delilah",
+          "canonica": "Delilah",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "the-hitman",
+          "canonica": "The Hitman",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "bijou",
+          "canonica": "Bijou",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "it-s-a-beautiful-day",
+          "canonica": "It's a Beautiful Day",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "my-life-has-been-saved",
+          "canonica": "My Life Has Been Saved",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "a-winter-s-tale",
+          "canonica": "A Winter's Tale",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "the-hero",
+          "canonica": "The Hero",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "face-it-alone",
+          "canonica": "Face It Alone",
           "aceitas": [],
           "traducoes": {},
           "raridadeInicial": "lendario"
@@ -2410,7 +5021,8 @@
           "id": "kanye-west",
           "canonica": "Kanye West",
           "aceitas": [
-            "Kanye"
+            "Kanye",
+            "Ye"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -2461,14 +5073,18 @@
         {
           "id": "lil-wayne",
           "canonica": "Lil Wayne",
-          "aceitas": [],
+          "aceitas": [
+            "Weezy"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
         {
           "id": "nicki-minaj",
           "canonica": "Nicki Minaj",
-          "aceitas": [],
+          "aceitas": [
+            "Nicki"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
@@ -2519,28 +5135,28 @@
           "canonica": "LL Cool J",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "missy-elliott",
           "canonica": "Missy Elliott",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "lauryn-hill",
           "canonica": "Lauryn Hill",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "busta-rhymes",
           "canonica": "Busta Rhymes",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "will-smith",
@@ -2549,7 +5165,7 @@
             "Fresh Prince"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "mc-hammer",
@@ -2565,14 +5181,14 @@
           "canonica": "Vanilla Ice",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "coolio",
           "canonica": "Coolio",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "pitbull",
@@ -2586,42 +5202,44 @@
           "canonica": "Flo Rida",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "lil-nas-x",
           "canonica": "Lil Nas X",
-          "aceitas": [],
+          "aceitas": [
+            "Lil Nas"
+          ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "future",
           "canonica": "Future",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "lil-uzi-vert",
           "canonica": "Lil Uzi Vert",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "j-cole",
           "canonica": "J. Cole",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "tyler-the-creator",
           "canonica": "Tyler, the Creator",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "a-ap-rocky",
@@ -2630,7 +5248,7 @@
             "ASAP Rocky"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "megan-thee-stallion",
@@ -2639,14 +5257,14 @@
             "Megan"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "21-savage",
           "canonica": "21 Savage",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "juice-wrld",
@@ -2655,42 +5273,44 @@
             "Juice World"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "xxxtentacion",
           "canonica": "XXXTentacion",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "mac-miller",
           "canonica": "Mac Miller",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "logic",
           "canonica": "Logic",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "chance-the-rapper",
           "canonica": "Chance the Rapper",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "childish-gambino",
           "canonica": "Childish Gambino",
-          "aceitas": [],
+          "aceitas": [
+            "Donald Glover"
+          ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "wiz-khalifa",
@@ -2704,14 +5324,14 @@
           "canonica": "Nelly",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "ludacris",
           "canonica": "Ludacris",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "t-i",
@@ -2720,21 +5340,21 @@
             "TI"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "lil-jon",
           "canonica": "Lil Jon",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "method-man",
           "canonica": "Method Man",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "wu-tang-clan",
@@ -2743,28 +5363,28 @@
             "Wu-Tang"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "run-dmc",
           "canonica": "Run-DMC",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "beastie-boys",
           "canonica": "Beastie Boys",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "public-enemy",
           "canonica": "Public Enemy",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "n-w-a",
@@ -2773,119 +5393,121 @@
             "NWA"
           ],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "outkast",
           "canonica": "Outkast",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "iggy-azalea",
           "canonica": "Iggy Azalea",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "macklemore",
           "canonica": "Macklemore",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "kid-cudi",
           "canonica": "Kid Cudi",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "pop-smoke",
           "canonica": "Pop Smoke",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "playboi-carti",
           "canonica": "Playboi Carti",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "lil-baby",
           "canonica": "Lil Baby",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "ice-spice",
           "canonica": "Ice Spice",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "lil-kim",
           "canonica": "Lil' Kim",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "queen-latifah",
           "canonica": "Queen Latifah",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "salt-n-pepa",
           "canonica": "Salt-N-Pepa",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "fugees",
           "canonica": "Fugees",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "cypress-hill",
           "canonica": "Cypress Hill",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "house-of-pain",
           "canonica": "House of Pain",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "mobb-deep",
           "canonica": "Mobb Deep",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "black-eyed-peas",
           "canonica": "Black Eyed Peas",
-          "aceitas": [],
+          "aceitas": [
+            "BEP"
+          ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "post-malone",
@@ -2899,14 +5521,574 @@
           "canonica": "Akon",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "doja-cat",
           "canonica": "Doja Cat",
           "aceitas": [],
           "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "tyga",
+          "canonica": "Tyga",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "machine-gun-kelly",
+          "canonica": "Machine Gun Kelly",
+          "aceitas": [
+            "MGK"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "fetty-wap",
+          "canonica": "Fetty Wap",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "lil-peep",
+          "canonica": "Lil Peep",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "saweetie",
+          "canonica": "Saweetie",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "gunna",
+          "canonica": "Gunna",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "trippie-redd",
+          "canonica": "Trippie Redd",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "lil-tecca",
+          "canonica": "Lil Tecca",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "diddy",
+          "canonica": "Diddy",
+          "aceitas": [
+            "Puff Daddy",
+            "P. Diddy",
+            "Sean Combs"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "dmx",
+          "canonica": "DMX",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "rick-ross",
+          "canonica": "Rick Ross",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "migos",
+          "canonica": "Migos",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "soulja-boy",
+          "canonica": "Soulja Boy",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tekashi-6ix9ine",
+          "canonica": "Tekashi 6ix9ine",
+          "aceitas": [
+            "6ix9ine"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "grandmaster-flash",
+          "canonica": "Grandmaster Flash",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "meek-mill",
+          "canonica": "Meek Mill",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "big-sean",
+          "canonica": "Big Sean",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "common",
+          "canonica": "Common",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "fat-joe",
+          "canonica": "Fat Joe",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ja-rule",
+          "canonica": "Ja Rule",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "xzibit",
+          "canonica": "Xzibit",
+          "aceitas": [],
+          "traducoes": {},
           "raridadeInicial": "raro"
+        },
+        {
+          "id": "warren-g",
+          "canonica": "Warren G",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "nate-dogg",
+          "canonica": "Nate Dogg",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "the-game",
+          "canonica": "The Game",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "bone-thugs-n-harmony",
+          "canonica": "Bone Thugs-N-Harmony",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "gucci-mane",
+          "canonica": "Gucci Mane",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "eve",
+          "canonica": "Eve",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "stormzy",
+          "canonica": "Stormzy",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "central-cee",
+          "canonica": "Central Cee",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "mc-solaar",
+          "canonica": "MC Solaar",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "gims",
+          "canonica": "Gims",
+          "aceitas": [
+            "Maître Gims"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "residente",
+          "canonica": "Residente",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "calle-13",
+          "canonica": "Calle 13",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "g-eazy",
+          "canonica": "G-Eazy",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "lil-pump",
+          "canonica": "Lil Pump",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "jack-harlow",
+          "canonica": "Jack Harlow",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "quavo",
+          "canonica": "Quavo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "offset",
+          "canonica": "Offset",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "kodak-black",
+          "canonica": "Kodak Black",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "nf",
+          "canonica": "NF",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "bow-wow",
+          "canonica": "Bow Wow",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "lil-yachty",
+          "canonica": "Lil Yachty",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "young-thug",
+          "canonica": "Young Thug",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "dababy",
+          "canonica": "DaBaby",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "a-tribe-called-quest",
+          "canonica": "A Tribe Called Quest",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "the-roots",
+          "canonica": "The Roots",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "kris-kross",
+          "canonica": "Kris Kross",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "sugarhill-gang",
+          "canonica": "Sugarhill Gang",
+          "aceitas": [
+            "The Sugarhill Gang"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "doechii",
+          "canonica": "Doechii",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "rae-sremmurd",
+          "canonica": "Rae Sremmurd",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "rakim",
+          "canonica": "Rakim",
+          "aceitas": [
+            "Eric B. & Rakim",
+            "Eric B. e Rakim"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "krs-one",
+          "canonica": "KRS-One",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "slick-rick",
+          "canonica": "Slick Rick",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "big-pun",
+          "canonica": "Big Pun",
+          "aceitas": [
+            "Big Punisher"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "big-l",
+          "canonica": "Big L",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "mos-def",
+          "canonica": "Mos Def",
+          "aceitas": [
+            "Yasiin Bey"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "ghostface-killah",
+          "canonica": "Ghostface Killah",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "raekwon",
+          "canonica": "Raekwon",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "pusha-t",
+          "canonica": "Pusha T",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "three-6-mafia",
+          "canonica": "Three 6 Mafia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "master-p",
+          "canonica": "Master P",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "juvenile",
+          "canonica": "Juvenile",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "de-la-soul",
+          "canonica": "De La Soul",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "gang-starr",
+          "canonica": "Gang Starr",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "naughty-by-nature",
+          "canonica": "Naughty by Nature",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "geto-boys",
+          "canonica": "Geto Boys",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "dizzee-rascal",
+          "canonica": "Dizzee Rascal",
+          "aceitas": [
+            "Dizzy Rascal"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "skepta",
+          "canonica": "Skepta",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "lil-durk",
+          "canonica": "Lil Durk",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "roddy-ricch",
+          "canonica": "Roddy Ricch",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "polo-g",
+          "canonica": "Polo G",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "latto",
+          "canonica": "Latto",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "glorilla",
+          "canonica": "GloRilla",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "tech-n9ne",
+          "canonica": "Tech N9ne",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "twista",
+          "canonica": "Twista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "booba",
+          "canonica": "Booba",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "canserbero",
+          "canonica": "Canserbero",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
         }
       ]
     },
@@ -2990,7 +6172,9 @@
           "id": "musica-classica",
           "canonica": "Música clássica",
           "aceitas": [
-            "Erudita"
+            "Erudita",
+            "Clássica",
+            "Música erudita"
           ],
           "traducoes": {
             "en": [
@@ -3046,7 +6230,9 @@
         {
           "id": "soul",
           "canonica": "Soul",
-          "aceitas": [],
+          "aceitas": [
+            "Soul music"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
@@ -3054,7 +6240,9 @@
           "id": "r-b",
           "canonica": "R&B",
           "aceitas": [
-            "Rhythm and blues"
+            "Rhythm and blues",
+            "RnB",
+            "R and B"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -3092,14 +6280,14 @@
           "canonica": "Tango",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "flamenco",
           "canonica": "Flamenco",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "techno",
@@ -3108,28 +6296,28 @@
             "Tecno"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "house",
           "canonica": "House",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "trance",
           "canonica": "Trance",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "grunge",
           "canonica": "Grunge",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "funk-americano",
@@ -3138,65 +6326,68 @@
             "Funk norte-americano"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "indie",
           "canonica": "Indie",
           "aceitas": [
-            "Indie rock"
+            "Indie rock",
+            "Indie pop"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "folk",
           "canonica": "Folk",
-          "aceitas": [],
+          "aceitas": [
+            "Música folk"
+          ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "bachata",
           "canonica": "Bachata",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "merengue",
           "canonica": "Merengue",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "cumbia",
           "canonica": "Cumbia",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "ska",
           "canonica": "Ska",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "dubstep",
           "canonica": "Dubstep",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "trap",
           "canonica": "Trap",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "drum-and-bass",
@@ -3205,35 +6396,35 @@
             "Drum'n'bass"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "rockabilly",
           "canonica": "Rockabilly",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "emo",
           "canonica": "Emo",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "j-pop",
           "canonica": "J-pop",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "new-wave",
           "canonica": "New wave",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "synthpop",
@@ -3242,28 +6433,28 @@
             "Synth-pop"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "lo-fi",
           "canonica": "Lo-fi",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "swing",
           "canonica": "Swing",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "fado",
           "canonica": "Fado",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "mariachi",
@@ -3272,21 +6463,21 @@
             "Ranchera"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "bolero",
           "canonica": "Bolero",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "comum"
         },
         {
           "id": "mambo",
           "canonica": "Mambo",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "afrobeat",
@@ -3295,21 +6486,21 @@
             "Afrobeats"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "zouk",
           "canonica": "Zouk",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "kizomba",
           "canonica": "Kizomba",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "polca",
@@ -3318,7 +6509,7 @@
             "Polka"
           ],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "valsa",
@@ -3332,91 +6523,661 @@
               "Vals"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "hardcore",
           "canonica": "Hardcore",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "dancehall",
           "canonica": "Dancehall",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "grime",
           "canonica": "Grime",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "bluegrass",
           "canonica": "Bluegrass",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "ragtime",
           "canonica": "Ragtime",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "bebop",
           "canonica": "Bebop",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "zydeco",
           "canonica": "Zydeco",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "shoegaze",
           "canonica": "Shoegaze",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "kuduro",
           "canonica": "Kuduro",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "semba",
           "canonica": "Semba",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "cha-cha-cha",
           "canonica": "Cha-cha-chá",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "rumba",
           "canonica": "Rumba",
           "aceitas": [],
           "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "electro-house",
+          "canonica": "Electro house",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tropical-house",
+          "canonica": "Tropical house",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "hyperpop",
+          "canonica": "Hyperpop",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "neo-soul",
+          "canonica": "Neo soul",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "post-rock",
+          "canonica": "Post-rock",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "southern-rock",
+          "canonica": "Southern rock",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "blues-rock",
+          "canonica": "Blues rock",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "folk-rock",
+          "canonica": "Folk rock",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "country-rock",
+          "canonica": "Country rock",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "latin-pop",
+          "canonica": "Latin pop",
+          "aceitas": [
+            "Pop latino"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "chillout",
+          "canonica": "Chillout",
+          "aceitas": [
+            "Chill out"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "vaporwave",
+          "canonica": "Vaporwave",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "phonk",
+          "canonica": "Phonk",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "hard-rock",
+          "canonica": "Hard rock",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "rock-progressivo",
+          "canonica": "Rock progressivo",
+          "aceitas": [
+            "Progressivo",
+            "Prog rock"
+          ],
+          "traducoes": {
+            "en": [
+              "Progressive rock"
+            ],
+            "es": [
+              "Rock progresivo"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "rock-psicodelico",
+          "canonica": "Rock psicodélico",
+          "aceitas": [
+            "Psicodelia"
+          ],
+          "traducoes": {
+            "en": [
+              "Psychedelic rock"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "glam-rock",
+          "canonica": "Glam rock",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "rock-alternativo",
+          "canonica": "Rock alternativo",
+          "aceitas": [
+            "Alternativo"
+          ],
+          "traducoes": {
+            "en": [
+              "Alternative rock"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "pop-rock",
+          "canonica": "Pop rock",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "pop-punk",
+          "canonica": "Pop punk",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "post-punk",
+          "canonica": "Post-punk",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "britpop",
+          "canonica": "Britpop",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "rock-gotico",
+          "canonica": "Rock gótico",
+          "aceitas": [
+            "Gótico"
+          ],
+          "traducoes": {
+            "en": [
+              "Gothic rock"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "surf-rock",
+          "canonica": "Surf rock",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "garage-rock",
+          "canonica": "Garage rock",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "thrash-metal",
+          "canonica": "Thrash metal",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "death-metal",
+          "canonica": "Death metal",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "black-metal",
+          "canonica": "Black metal",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "nu-metal",
+          "canonica": "Nu metal",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "power-metal",
+          "canonica": "Power metal",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "metal-sinfonico",
+          "canonica": "Metal sinfônico",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Symphonic metal"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "glam-metal",
+          "canonica": "Glam metal",
+          "aceitas": [
+            "Hair metal"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "metalcore",
+          "canonica": "Metalcore",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "industrial",
+          "canonica": "Industrial",
+          "aceitas": [
+            "Música industrial"
+          ],
+          "traducoes": {
+            "en": [
+              "Industrial music"
+            ]
+          },
           "raridadeInicial": "epico"
+        },
+        {
+          "id": "doo-wop",
+          "canonica": "Doo-wop",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "twist",
+          "canonica": "Twist",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "charleston",
+          "canonica": "Charleston",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "big-band",
+          "canonica": "Big band",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "dixieland",
+          "canonica": "Dixieland",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "jazz-fusion",
+          "canonica": "Jazz fusion",
+          "aceitas": [
+            "Fusion"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "gangsta-rap",
+          "canonica": "Gangsta rap",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "drill",
+          "canonica": "Drill",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "eurodance",
+          "canonica": "Eurodance",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "deep-house",
+          "canonica": "Deep house",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "psytrance",
+          "canonica": "Psytrance",
+          "aceitas": [
+            "Trance psicodélico"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ambient",
+          "canonica": "Ambient",
+          "aceitas": [
+            "Música ambiente"
+          ],
+          "traducoes": {
+            "en": [
+              "Ambient music"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "trip-hop",
+          "canonica": "Trip hop",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "dub",
+          "canonica": "Dub",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "jungle",
+          "canonica": "Jungle",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "new-age",
+          "canonica": "New age",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "calipso",
+          "canonica": "Calipso",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Calypso"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "son-cubano",
+          "canonica": "Son cubano",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "chamame",
+          "canonica": "Chamamé",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "milonga",
+          "canonica": "Milonga",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "vallenato",
+          "canonica": "Vallenato",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "pasodoble",
+          "canonica": "Pasodoble",
+          "aceitas": [
+            "Paso doble"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "morna",
+          "canonica": "Morna",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "funana",
+          "canonica": "Funaná",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "amapiano",
+          "canonica": "Amapiano",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "bhangra",
+          "canonica": "Bhangra",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "city-pop",
+          "canonica": "City pop",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "canto-gregoriano",
+          "canonica": "Canto gregoriano",
+          "aceitas": [
+            "Gregoriano"
+          ],
+          "traducoes": {
+            "en": [
+              "Gregorian chant"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "opereta",
+          "canonica": "Opereta",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Operetta"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "chanson",
+          "canonica": "Chanson",
+          "aceitas": [
+            "Chanson française"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "klezmer",
+          "canonica": "Klezmer",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "musica-celta",
+          "canonica": "Música celta",
+          "aceitas": [
+            "Celta"
+          ],
+          "traducoes": {
+            "en": [
+              "Celtic music"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "soft-rock",
+          "canonica": "Soft rock",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "dance",
+          "canonica": "Dance",
+          "aceitas": [
+            "Dance music"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "electropop",
+          "canonica": "Electropop",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "spiritual",
+          "canonica": "Spiritual",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
         }
       ]
     }

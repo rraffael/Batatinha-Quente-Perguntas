@@ -1,0 +1,72 @@
+== fut-clubes-brasileiros
++ Amazonas | Amazonas FC |  |  | i | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_B
++ Brusque | Brusque FC |  |  | r | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_C
++ São Bernardo | São Bernardo FC |  |  | r | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_C
++ Athletic | Athletic Club;Athletic-MG |  |  | r | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_B
++ Água Santa |  |  |  | r | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D
++ Retrô | Retrô FC |  |  | r | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_C
++ Maringá | Maringá FC |  |  | r | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_C
++ Floresta | Floresta-CE |  |  | r | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_C
++ Itabaiana |  |  |  | r | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_C
++ Anápolis | Anápolis FC |  |  | r | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_C
++ Nova Iguaçu |  |  |  | e | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D
++ Boavista | Boavista-RJ |  |  | e | https://pt.wikipedia.org/wiki/Campeonato_Brasileiro_de_Futebol_de_2025_-_S%C3%A9rie_D
+~ Cruzeiro | Cabuloso | https://pt.wikipedia.org/wiki/Cruzeiro_Esporte_Clube
+~ Botafogo | Glorioso | https://pt.wikipedia.org/wiki/Botafogo_de_Futebol_e_Regatas
+~ Grêmio | Imortal | https://pt.wikipedia.org/wiki/Gr%C3%AAmio_Foot-Ball_Porto_Alegrense
+~ Vitória | Leão da Barra | https://pt.wikipedia.org/wiki/Esporte_Clube_Vit%C3%B3ria
+~ Fortaleza | Leão do Pici | https://pt.wikipedia.org/wiki/Fortaleza_Esporte_Clube
+~ Coritiba | Coxa-Branca | https://pt.wikipedia.org/wiki/Coritiba_Foot_Ball_Club
+~ Athletico Paranaense | Athletico | https://pt.wikipedia.org/wiki/Club_Athletico_Paranaense
+~ Corinthians | Time do Povo | https://pt.wikipedia.org/wiki/Sport_Club_Corinthians_Paulista
+~ Vasco da Gama | Cruz-Maltino | https://pt.wikipedia.org/wiki/Club_de_Regatas_Vasco_da_Gama
+== fut-estadios-brasil
++ Pituaçu | Estádio de Pituaçu |  |  | i | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil
++ Parque do Sabiá | Estádio Parque do Sabiá |  |  | i | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil
++ Pinheirão | Estádio Paulo Machado de Carvalho de Curitiba |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil
++ Estádio do Café |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil
++ Prudentão |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil
++ Teixeirão |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil
++ Frasqueirão |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil
++ Willie Davids |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil
++ Anacleto Campanella |  |  |  | r | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil
++ Palma Travassos |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil
++ Caio Martins |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil
++ Curuzu |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil
++ Parque São Jorge |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil
++ Ipatingão |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil
++ Amigão |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil
++ Helenão |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil
++ Douradão |  |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil
++ Santa Cruz | Estádio Santa Cruz |  |  | e | https://pt.wikipedia.org/wiki/Lista_de_est%C3%A1dios_de_futebol_do_Brasil
+~ Allianz Parque | Nubank Parque | https://pt.wikipedia.org/wiki/Allianz_Parque
+~ Neo Química Arena | Itaquera | https://pt.wikipedia.org/wiki/Neo_Qu%C3%ADmica_Arena
+~ Mané Garrincha | Arena BRB;Arena BRB Mané Garrincha;BRB | https://pt.wikipedia.org/wiki/Est%C3%A1dio_Nacional_de_Bras%C3%ADlia
+~ Nilton Santos | Estádio Nilton Santos;Olímpico do Engenhão | https://pt.wikipedia.org/wiki/Est%C3%A1dio_Nilton_Santos
+== fut-campeoes-libertadores
+~ Independiente | Independiente de Avellaneda | https://pt.wikipedia.org/wiki/Club_Atl%C3%A9tico_Independiente
+~ San Lorenzo | San Lorenzo de Almagro | https://pt.wikipedia.org/wiki/Club_Atl%C3%A9tico_San_Lorenzo_de_Almagro
+== fut-pentacampeoes
+~ Pelé | Rei Pelé | https://pt.wikipedia.org/wiki/Pel%C3%A9
+~ Romário | Baixinho | https://pt.wikipedia.org/wiki/Rom%C3%A1rio
+~ Zagallo | Velho Lobo | https://pt.wikipedia.org/wiki/Zagallo
+~ Rogério Ceni | Ceni | https://pt.wikipedia.org/wiki/Rog%C3%A9rio_Ceni
+~ Nilton Santos | Enciclopédia | https://pt.wikipedia.org/wiki/Nilton_Santos
+== fut-bola-de-ouro
+~ Lionel Messi | Leo Messi | https://pt.wikipedia.org/wiki/Ballon_d%27Or
+~ Franz Beckenbauer | Kaiser | https://pt.wikipedia.org/wiki/Franz_Beckenbauer
+~ Johan Cruyff | Cruijff | https://pt.wikipedia.org/wiki/Johan_Cruyff
+~ Andriy Shevchenko | Sheva | https://pt.wikipedia.org/wiki/Andriy_Shevchenko
+~ Ronaldo Fenômeno | Ronaldo Nazário | https://pt.wikipedia.org/wiki/Ronaldo_Naz%C3%A1rio
+~ Eusébio | Pantera Negra | https://pt.wikipedia.org/wiki/Eus%C3%A9bio
+~ Hristo Stoichkov | Stoitchkov | https://pt.wikipedia.org/wiki/Hristo_Stoichkov
+== fut-clubes-europeus
+~ Inter de Milão | Inter | https://pt.wikipedia.org/wiki/Inter_de_Mil%C3%A3o
+~ Manchester United | Man U;United | https://pt.wikipedia.org/wiki/Manchester_United_Football_Club
+~ Manchester City | City | https://pt.wikipedia.org/wiki/Manchester_City_Football_Club
+~ Borussia Dortmund | BVB | https://pt.wikipedia.org/wiki/Borussia_Dortmund
+~ Benfica | SL Benfica;Águias | https://pt.wikipedia.org/wiki/Sport_Lisboa_e_Benfica
+~ Porto | FC Porto | https://pt.wikipedia.org/wiki/Futebol_Clube_do_Porto
+~ Sporting | Sporting CP | https://pt.wikipedia.org/wiki/Sporting_Clube_de_Portugal
+~ Olympique de Marseille | OM | https://pt.wikipedia.org/wiki/Olympique_de_Marseille
+~ Barcelona | FC Barcelona | https://pt.wikipedia.org/wiki/Futebol_Clube_Barcelona

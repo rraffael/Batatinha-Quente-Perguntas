@@ -11,7 +11,7 @@
         "globo"
       ],
       "fonte": "https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo",
-      "nota": "Inclui remakes exibidos pela Globo (ex.: Pantanal 2022).",
+      "nota": "Inclui remakes exibidos pela Globo.",
       "respostas": [
         {
           "id": "avenida-brasil",
@@ -234,63 +234,63 @@
           "canonica": "Travessia",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "cheias-de-charme",
           "canonica": "Cheias de Charme",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "belissima",
           "canonica": "Belíssima",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "paraiso-tropical",
           "canonica": "Paraíso Tropical",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "duas-caras",
           "canonica": "Duas Caras",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "passione",
           "canonica": "Passione",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "insensato-coracao",
           "canonica": "Insensato Coração",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "salve-jorge",
           "canonica": "Salve Jorge",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "babilonia",
           "canonica": "Babilônia",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "a-regra-do-jogo",
@@ -304,42 +304,42 @@
           "canonica": "Velho Chico",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "totalmente-demais",
           "canonica": "Totalmente Demais",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "verdades-secretas",
           "canonica": "Verdades Secretas",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "da-cor-do-pecado",
           "canonica": "Da Cor do Pecado",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "celebridade",
           "canonica": "Celebridade",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "mulheres-apaixonadas",
           "canonica": "Mulheres Apaixonadas",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "kubanacan",
@@ -353,7 +353,7 @@
           "canonica": "Pai Herói",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "dancin-days",
@@ -390,7 +390,7 @@
             "A Escrava Isaura"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "o-bem-amado",
@@ -411,14 +411,14 @@
           "canonica": "Que Rei Sou Eu?",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "top-model",
           "canonica": "Top Model",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "barriga-de-aluguel",
@@ -439,7 +439,7 @@
           "canonica": "História de Amor",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "quatro-por-quatro",
@@ -467,7 +467,7 @@
           "canonica": "Suave Veneno",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "uga-uga",
@@ -481,21 +481,21 @@
           "canonica": "Porto dos Milagres",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "esperanca",
           "canonica": "Esperança",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "america",
           "canonica": "América",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "cobras-lagartos",
@@ -504,231 +504,913 @@
             "Cobras e Lagartos"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "paginas-da-vida",
           "canonica": "Páginas da Vida",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "sete-pecados",
           "canonica": "Sete Pecados",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "beleza-pura",
           "canonica": "Beleza Pura",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "viver-a-vida",
           "canonica": "Viver a Vida",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "ti-ti-ti",
           "canonica": "Ti Ti Ti",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "cordel-encantado",
           "canonica": "Cordel Encantado",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "lado-a-lado",
           "canonica": "Lado a Lado",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "joia-rara",
           "canonica": "Joia Rara",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "eta-mundo-bom",
           "canonica": "Êta Mundo Bom!",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "novo-mundo",
           "canonica": "Novo Mundo",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "deus-salve-o-rei",
           "canonica": "Deus Salve o Rei",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "o-setimo-guardiao",
           "canonica": "O Sétimo Guardião",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "bom-sucesso",
           "canonica": "Bom Sucesso",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "eramos-seis",
           "canonica": "Éramos Seis",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "um-lugar-ao-sol",
           "canonica": "Um Lugar ao Sol",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "mar-do-sertao",
           "canonica": "Mar do Sertão",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "elas-por-elas",
           "canonica": "Elas por Elas",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "volta-por-cima",
           "canonica": "Volta por Cima",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "garota-do-momento",
           "canonica": "Garota do Momento",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "dona-de-mim",
           "canonica": "Dona de Mim",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "haja-coracao",
           "canonica": "Haja Coração",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "sinha-moca",
           "canonica": "Sinhá Moça",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "guerra-dos-sexos",
           "canonica": "Guerra dos Sexos",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "roda-de-fogo",
           "canonica": "Roda de Fogo",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "tropicaliente",
           "canonica": "Tropicaliente",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "cabocla",
           "canonica": "Cabocla",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "alto-astral",
           "canonica": "Alto Astral",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "rock-story",
           "canonica": "Rock Story",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "pega-pega",
           "canonica": "Pega Pega",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "verao-90",
           "canonica": "Verão 90",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "cama-de-gato",
           "canonica": "Cama de Gato",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "malhacao",
           "canonica": "Malhação",
           "aceitas": [],
           "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "sassaricando",
+          "canonica": "Sassaricando",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "vamp",
+          "canonica": "Vamp",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "mandala",
+          "canonica": "Mandala",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "fera-ferida",
+          "canonica": "Fera Ferida",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "meu-bem-meu-mal",
+          "canonica": "Meu Bem, Meu Mal",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pedra-sobre-pedra",
+          "canonica": "Pedra sobre Pedra",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "o-salvador-da-patria",
+          "canonica": "O Salvador da Pátria",
+          "aceitas": [
+            "Salvador da Pátria"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "anjo-mau",
+          "canonica": "Anjo Mau",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "pecado-capital",
+          "canonica": "Pecado Capital",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "baila-comigo",
+          "canonica": "Baila Comigo",
+          "aceitas": [],
+          "traducoes": {},
           "raridadeInicial": "incomum"
+        },
+        {
+          "id": "brilhante",
+          "canonica": "Brilhante",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "agua-viva",
+          "canonica": "Água Viva",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "final-feliz",
+          "canonica": "Final Feliz",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "corpo-a-corpo",
+          "canonica": "Corpo a Corpo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "louco-amor",
+          "canonica": "Louco Amor",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "champagne",
+          "canonica": "Champagne",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "bebe-a-bordo",
+          "canonica": "Bebê a Bordo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "o-dono-do-mundo",
+          "canonica": "O Dono do Mundo",
+          "aceitas": [
+            "Dono do Mundo"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "felicidade",
+          "canonica": "Felicidade",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "a-viagem",
+          "canonica": "A Viagem",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "olho-no-olho",
+          "canonica": "Olho no Olho",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "deus-nos-acuda",
+          "canonica": "Deus Nos Acuda",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "patria-minha",
+          "canonica": "Pátria Minha",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "meu-pedacinho-de-chao",
+          "canonica": "Meu Pedacinho de Chão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "o-astro",
+          "canonica": "O Astro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "saramandaia",
+          "canonica": "Saramandaia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "sangue-bom",
+          "canonica": "Sangue Bom",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "a-vida-da-gente",
+          "canonica": "A Vida da Gente",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "aquele-beijo",
+          "canonica": "Aquele Beijo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "flor-do-caribe",
+          "canonica": "Flor do Caribe",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "amor-eterno-amor",
+          "canonica": "Amor Eterno Amor",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "morde-assopra",
+          "canonica": "Morde & Assopra",
+          "aceitas": [
+            "Morde e Assopra"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "araguaia",
+          "canonica": "Araguaia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "escrito-nas-estrelas",
+          "canonica": "Escrito nas Estrelas",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "caras-bocas",
+          "canonica": "Caras & Bocas",
+          "aceitas": [
+            "Caras e Bocas"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "negocio-da-china",
+          "canonica": "Negócio da China",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "sete-vidas",
+          "canonica": "Sete Vidas",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "i-love-paraisopolis",
+          "canonica": "I Love Paraisópolis",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "sol-nascente",
+          "canonica": "Sol Nascente",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "orgulho-e-paixao",
+          "canonica": "Orgulho e Paixão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "o-tempo-nao-para",
+          "canonica": "O Tempo Não Para",
+          "aceitas": [
+            "Tempo Não Para"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "orfaos-da-terra",
+          "canonica": "Órfãos da Terra",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "salve-se-quem-puder",
+          "canonica": "Salve-se Quem Puder",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "nos-tempos-do-imperador",
+          "canonica": "Nos Tempos do Imperador",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "amor-perfeito",
+          "canonica": "Amor Perfeito",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "fuzue",
+          "canonica": "Fuzuê",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "familia-e-tudo",
+          "canonica": "Família É Tudo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "cara-e-coragem",
+          "canonica": "Cara e Coragem",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "em-familia",
+          "canonica": "Em Família",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "geracao-brasil",
+          "canonica": "Geração Brasil",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "boogie-oogie",
+          "canonica": "Boogie Oogie",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ciranda-de-pedra",
+          "canonica": "Ciranda de Pedra",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "estupido-cupido",
+          "canonica": "Estúpido Cupido",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "o-casarao",
+          "canonica": "O Casarão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "os-gigantes",
+          "canonica": "Os Gigantes",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "locomotivas",
+          "canonica": "Locomotivas",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "espelho-magico",
+          "canonica": "Espelho Mágico",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "plumas-e-paetes",
+          "canonica": "Plumas e Paetês",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "marron-glace",
+          "canonica": "Marron Glacê",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "sol-de-verao",
+          "canonica": "Sol de Verão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "eu-prometo",
+          "canonica": "Eu Prometo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "partido-alto",
+          "canonica": "Partido Alto",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "transas-e-caretas",
+          "canonica": "Transas e Caretas",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "a-gata-comeu",
+          "canonica": "A Gata Comeu",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "cambalacho",
+          "canonica": "Cambalacho",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "hipertensao",
+          "canonica": "Hipertensão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "o-outro",
+          "canonica": "O Outro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "direito-de-amar",
+          "canonica": "Direito de Amar",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "bambole",
+          "canonica": "Bambolê",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "mico-preto",
+          "canonica": "Mico Preto",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "araponga",
+          "canonica": "Araponga",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "lua-cheia-de-amor",
+          "canonica": "Lua Cheia de Amor",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "sonho-meu",
+          "canonica": "Sonho Meu",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "despedida-de-solteiro",
+          "canonica": "Despedida de Solteiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "jogo-da-vida",
+          "canonica": "Jogo da Vida",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "setimo-sentido",
+          "canonica": "Sétimo Sentido",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "duas-vidas",
+          "canonica": "Duas Vidas",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "o-espigao",
+          "canonica": "O Espigão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "fogo-sobre-terra",
+          "canonica": "Fogo sobre Terra",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "o-grito",
+          "canonica": "O Grito",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "escalada",
+          "canonica": "Escalada",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "pecado-rasgado",
+          "canonica": "Pecado Rasgado",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "desejos-de-mulher",
+          "canonica": "Desejos de Mulher",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "comecar-de-novo",
+          "canonica": "Começar de Novo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "a-lua-me-disse",
+          "canonica": "A Lua Me Disse",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "bang-bang",
+          "canonica": "Bang Bang",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "o-beijo-do-vampiro",
+          "canonica": "O Beijo do Vampiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "sabor-da-paixao",
+          "canonica": "Sabor da Paixão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "coracao-de-estudante",
+          "canonica": "Coração de Estudante",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "estrela-guia",
+          "canonica": "Estrela-Guia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "as-filhas-da-mae",
+          "canonica": "As Filhas da Mãe",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "um-anjo-caiu-do-ceu",
+          "canonica": "Um Anjo Caiu do Céu",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "esplendor",
+          "canonica": "Esplendor",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "forca-de-um-desejo",
+          "canonica": "Força de um Desejo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "andando-nas-nuvens",
+          "canonica": "Andando nas Nuvens",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "vila-madalena",
+          "canonica": "Vila Madalena",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
         }
       ]
     },
@@ -746,7 +1428,8 @@
           "id": "faustao",
           "canonica": "Faustão",
           "aceitas": [
-            "Fausto Silva"
+            "Fausto Silva",
+            "Fausto"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -754,7 +1437,9 @@
         {
           "id": "silvio-santos",
           "canonica": "Silvio Santos",
-          "aceitas": [],
+          "aceitas": [
+            "Senor Abravanel"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
@@ -762,7 +1447,8 @@
           "id": "xuxa",
           "canonica": "Xuxa",
           "aceitas": [
-            "Xuxa Meneghel"
+            "Xuxa Meneghel",
+            "Rainha dos Baixinhos"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -812,7 +1498,8 @@
           "id": "chacrinha",
           "canonica": "Chacrinha",
           "aceitas": [
-            "Abelardo Barbosa"
+            "Abelardo Barbosa",
+            "Velho Guerreiro"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -918,7 +1605,7 @@
           "canonica": "Tadeu Schmidt",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "marilia-gabriela",
@@ -932,28 +1619,28 @@
           "canonica": "Luciana Gimenez",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "sonia-abrao",
           "canonica": "Sônia Abrão",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "ana-hickmann",
           "canonica": "Ana Hickmann",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "patricia-abravanel",
           "canonica": "Patrícia Abravanel",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "tiago-leifert",
@@ -1004,7 +1691,7 @@
             "Galisteu"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "gloria-maria",
@@ -1025,7 +1712,7 @@
           "canonica": "Sandra Annenberg",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "cid-moreira",
@@ -1039,14 +1726,14 @@
           "canonica": "Sérgio Chapelin",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "boris-casoy",
           "canonica": "Boris Casoy",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "patricia-poeta",
@@ -1127,7 +1814,7 @@
             "Clodovil"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "epico"
         },
         {
           "id": "wagner-montes",
@@ -1206,7 +1893,7 @@
           "canonica": "Ana Clara Lima",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "lendario"
         },
         {
           "id": "paulo-henrique-amorim",
@@ -1263,6 +1950,138 @@
           "aceitas": [],
           "traducoes": {},
           "raridadeInicial": "raro"
+        },
+        {
+          "id": "silvia-poppovic",
+          "canonica": "Sílvia Poppovic",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "gilberto-barros",
+          "canonica": "Gilberto Barros",
+          "aceitas": [
+            "Leão"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "joao-kleber",
+          "canonica": "João Kléber",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ticiane-pinheiro",
+          "canonica": "Ticiane Pinheiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "zeca-camargo",
+          "canonica": "Zeca Camargo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "maisa",
+          "canonica": "Maisa",
+          "aceitas": [
+            "Maisa Silva"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "roberto-justus",
+          "canonica": "Roberto Justus",
+          "aceitas": [
+            "Justus"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ana-paula-padrao",
+          "canonica": "Ana Paula Padrão",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "christiane-pelajo",
+          "canonica": "Christiane Pelajo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "chico-pinheiro",
+          "canonica": "Chico Pinheiro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ana-paula-araujo",
+          "canonica": "Ana Paula Araújo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "carlos-nascimento",
+          "canonica": "Carlos Nascimento",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "catia-fonseca",
+          "canonica": "Cátia Fonseca",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "mariana-godoy",
+          "canonica": "Mariana Godoy",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "milton-neves",
+          "canonica": "Milton Neves",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "luiz-bacci",
+          "canonica": "Luiz Bacci",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "marcelo-de-carvalho",
+          "canonica": "Marcelo de Carvalho",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "evaristo-costa",
+          "canonica": "Evaristo Costa",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
         }
       ]
     },
@@ -1315,7 +2134,8 @@
           "id": "big-brother-brasil",
           "canonica": "Big Brother Brasil",
           "aceitas": [
-            "BBB"
+            "BBB",
+            "Big Brother"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -1466,14 +2286,14 @@
           "canonica": "Globo Esporte",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "programa-do-ratinho",
           "canonica": "Programa do Ratinho",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "panico-na-tv",
@@ -1482,7 +2302,7 @@
             "Pânico"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "cqc",
@@ -1491,7 +2311,7 @@
             "Custe o Que Custar"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "the-voice-brasil",
@@ -1500,7 +2320,7 @@
             "The Voice"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "masterchef-brasil",
@@ -1509,7 +2329,7 @@
             "MasterChef"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "show-do-milhao",
@@ -1616,7 +2436,7 @@
           "canonica": "Os Normais",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "raro"
         },
         {
           "id": "tapas-beijos",
@@ -1704,14 +2524,14 @@
           "canonica": "Jornal da Record",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "epico"
         },
         {
           "id": "roda-viva",
           "canonica": "Roda Viva",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "epico"
         },
         {
           "id": "vai-que-cola",
@@ -1732,7 +2552,7 @@
           "canonica": "Rá-Tim-Bum",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "epico"
         },
         {
           "id": "bambalalao",
@@ -1746,7 +2566,7 @@
           "canonica": "Balão Mágico",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "epico"
         },
         {
           "id": "mundo-da-lua",
@@ -1836,7 +2656,7 @@
             "Power Couple"
           ],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "lendario"
         },
         {
           "id": "de-frente-com-gabi",
@@ -1857,7 +2677,7 @@
           "canonica": "Qual É a Música?",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "lendario"
         },
         {
           "id": "porta-da-esperanca",
@@ -1916,6 +2736,165 @@
           "aceitas": [],
           "traducoes": {},
           "raridadeInicial": "lendario"
+        },
+        {
+          "id": "programa-eliana",
+          "canonica": "Programa Eliana",
+          "aceitas": [
+            "Eliana"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "super-pop",
+          "canonica": "Super Pop",
+          "aceitas": [
+            "Superpop"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tv-pirata",
+          "canonica": "TV Pirata",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "viva-o-gordo",
+          "canonica": "Viva o Gordo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "armacao-ilimitada",
+          "canonica": "Armação Ilimitada",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "bom-dia-cia",
+          "canonica": "Bom Dia & Cia",
+          "aceitas": [
+            "Bom Dia e Cia"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "esquadrao-da-moda",
+          "canonica": "Esquadrão da Moda",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "hora-do-faro",
+          "canonica": "Hora do Faro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "the-noite",
+          "canonica": "The Noite",
+          "aceitas": [
+            "The Noite com Danilo Gentili"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "domingo-espetacular",
+          "canonica": "Domingo Espetacular",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "conexao-reporter",
+          "canonica": "Conexão Repórter",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "jornal-da-globo",
+          "canonica": "Jornal da Globo",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "jornal-da-band",
+          "canonica": "Jornal da Band",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "fala-brasil",
+          "canonica": "Fala Brasil",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "aqui-agora",
+          "canonica": "Aqui Agora",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "programa-livre",
+          "canonica": "Programa Livre",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "qual-e-o-seu-talento",
+          "canonica": "Qual É o Seu Talento?",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "programa-hebe",
+          "canonica": "Programa Hebe",
+          "aceitas": [
+            "Hebe"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "programa-do-gugu",
+          "canonica": "Programa do Gugu",
+          "aceitas": [
+            "Gugu"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "show-de-calouros",
+          "canonica": "Show de Calouros",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "superstar",
+          "canonica": "Superstar",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
         }
       ]
     },
@@ -1947,7 +2926,8 @@
           "id": "renato-aragao",
           "canonica": "Renato Aragão",
           "aceitas": [
-            "Didi"
+            "Didi",
+            "Didi Mocó"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -1964,7 +2944,9 @@
         {
           "id": "mussum",
           "canonica": "Mussum",
-          "aceitas": [],
+          "aceitas": [
+            "Antônio Carlos Bernardes Gomes"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
@@ -2206,14 +3188,14 @@
           "canonica": "Maria Clara Gueiros",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "epico"
         },
         {
           "id": "katiuscia-canoro",
           "canonica": "Katiuscia Canoro",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "epico"
         },
         {
           "id": "marcos-veras",
@@ -2273,7 +3255,7 @@
             "Mallandro"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "fausto-fanti",
@@ -2294,7 +3276,7 @@
           "canonica": "Dani Calabresa",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "monica-martelli",
@@ -2310,7 +3292,7 @@
             "Wellington Muniz"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "fabio-rabin",
@@ -2345,7 +3327,7 @@
           "canonica": "Miguel Falabella",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "claudia-rodrigues",
@@ -2359,7 +3341,7 @@
           "canonica": "Marisa Orth",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "lendario"
         },
         {
           "id": "diogo-defante",
@@ -2373,7 +3355,7 @@
           "canonica": "Rafael Portugal",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "victor-sarro",
@@ -2402,6 +3384,78 @@
           "aceitas": [],
           "traducoes": {},
           "raridadeInicial": "lendario"
+        },
+        {
+          "id": "lucio-mauro",
+          "canonica": "Lúcio Mauro",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "jorge-loredo",
+          "canonica": "Jorge Loredo",
+          "aceitas": [
+            "Zé Bonitinho"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "ze-trindade",
+          "canonica": "Zé Trindade",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "eri-johnson",
+          "canonica": "Eri Johnson",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "carlinhos-maia",
+          "canonica": "Carlinhos Maia",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "gustavo-mendes",
+          "canonica": "Gustavo Mendes",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "claudia-jimenez",
+          "canonica": "Claudia Jimenez",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "fabiana-karla",
+          "canonica": "Fabiana Karla",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "fernando-caruso",
+          "canonica": "Fernando Caruso",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "rafael-cortez",
+          "canonica": "Rafael Cortez",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
         }
       ]
     },
@@ -2427,7 +3481,8 @@
           "id": "narizinho",
           "canonica": "Narizinho",
           "aceitas": [
-            "Lúcia"
+            "Lúcia",
+            "Menina do Narizinho Arrebitado"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -2435,21 +3490,29 @@
         {
           "id": "pedrinho",
           "canonica": "Pedrinho",
-          "aceitas": [],
+          "aceitas": [
+            "Pedro"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
         {
           "id": "dona-benta",
           "canonica": "Dona Benta",
-          "aceitas": [],
+          "aceitas": [
+            "Benta"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
         {
           "id": "tia-nastacia",
           "canonica": "Tia Nastácia",
-          "aceitas": [],
+          "aceitas": [
+            "Nastácia",
+            "Tia Anastácia",
+            "Anastácia"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
@@ -2457,7 +3520,8 @@
           "id": "visconde-de-sabugosa",
           "canonica": "Visconde de Sabugosa",
           "aceitas": [
-            "Visconde"
+            "Visconde",
+            "Sabugosa"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -2676,6 +3740,13 @@
           ],
           "traducoes": {},
           "raridadeInicial": "lendario"
+        },
+        {
+          "id": "caipora",
+          "canonica": "Caipora",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
         }
       ]
     },
@@ -2704,7 +3775,8 @@
           "id": "rodrigo-cowboy",
           "canonica": "Rodrigo Cowboy",
           "aceitas": [
-            "Rodrigo Leonel"
+            "Rodrigo Leonel",
+            "Cowboy"
           ],
           "traducoes": {},
           "raridadeInicial": "incomum"
@@ -2762,7 +3834,9 @@
         {
           "id": "max-porto",
           "canonica": "Max Porto",
-          "aceitas": [],
+          "aceitas": [
+            "Max"
+          ],
           "traducoes": {},
           "raridadeInicial": "raro"
         },
@@ -2778,7 +3852,9 @@
         {
           "id": "maria-melilo",
           "canonica": "Maria Melilo",
-          "aceitas": [],
+          "aceitas": [
+            "Melilo"
+          ],
           "traducoes": {},
           "raridadeInicial": "raro"
         },
@@ -2794,7 +3870,9 @@
         {
           "id": "fernanda-keulla",
           "canonica": "Fernanda Keulla",
-          "aceitas": [],
+          "aceitas": [
+            "Keulla"
+          ],
           "traducoes": {},
           "raridadeInicial": "epico"
         },
@@ -2897,7 +3975,9 @@
         {
           "id": "ana-paula-renault",
           "canonica": "Ana Paula Renault",
-          "aceitas": [],
+          "aceitas": [
+            "Renault"
+          ],
           "traducoes": {},
           "raridadeInicial": "incomum"
         }

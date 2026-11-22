@@ -2,7 +2,7 @@ tema: novelas-tv-br
 nome: Televisão Brasileira
 
 == tvbr-novelas-globo | Cite uma novela da TV Globo | facil | novelas;globo | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_da_TV_Globo
-@nota Inclui remakes exibidos pela Globo (ex.: Pantanal 2022).
+@nota Inclui remakes exibidos pela Globo.
 Avenida Brasil | | | | c
 O Clone | Clone | | | c
 Senhora do Destino | | | | c
@@ -104,17 +104,113 @@ Pega Pega | | | | e
 Verão 90 | | | | e
 Cama de Gato | | | | e
 Malhação | | | | i
+Sassaricando | i
+Vamp | i
+Mandala | i
+Fera Ferida | i
+Meu Bem, Meu Mal | i
+Pedra sobre Pedra | i
+O Salvador da Pátria | Salvador da Pátria | i
+Anjo Mau | i
+Pecado Capital | i
+Baila Comigo | r
+Brilhante | r
+Água Viva | r
+Final Feliz | r
+Corpo a Corpo | r
+Louco Amor | r
+Champagne | r
+Bebê a Bordo | r
+O Dono do Mundo | Dono do Mundo | r
+Felicidade | r
+A Viagem | r
+Olho no Olho | r
+Deus Nos Acuda | r
+Pátria Minha | r
+Meu Pedacinho de Chão | i
+O Astro | i
+Saramandaia | r
+Sangue Bom | i
+A Vida da Gente | i
+Aquele Beijo | r
+Flor do Caribe | i
+Amor Eterno Amor | r
+Morde & Assopra | i
+Araguaia | r
+Escrito nas Estrelas | r
+Caras & Bocas | i
+Negócio da China | r
+Sete Vidas | i
+I Love Paraisópolis | i
+Sol Nascente | r
+Orgulho e Paixão | i
+O Tempo Não Para | Tempo Não Para | i
+Órfãos da Terra | i
+Salve-se Quem Puder | r
+Nos Tempos do Imperador | r
+Amor Perfeito | r
+Fuzuê | r
+Família É Tudo | r
+Cara e Coragem | r
+Em Família | i
+Geração Brasil | r
+Boogie Oogie | r
+Ciranda de Pedra | r
+Estúpido Cupido | r
+O Casarão | r
+Os Gigantes | e
+Locomotivas | e
+Espelho Mágico | e
+Plumas e Paetês | e
+Marron Glacê | e
+Sol de Verão | e
+Eu Prometo | e
+Partido Alto | e
+Transas e Caretas | e
+A Gata Comeu | e
+Cambalacho | e
+Hipertensão | e
+O Outro | e
+Direito de Amar | e
+Bambolê | e
+Mico Preto | e
+Araponga | e
+Lua Cheia de Amor | e
+Sonho Meu | e
+Despedida de Solteiro | e
+Jogo da Vida | e
+Sétimo Sentido | e
+Duas Vidas | l
+O Espigão | l
+Fogo sobre Terra | l
+O Grito | l
+Escalada | l
+Pecado Rasgado | e
+Desejos de Mulher | e
+Começar de Novo | e
+A Lua Me Disse | e
+Bang Bang | e
+O Beijo do Vampiro | e
+Sabor da Paixão | e
+Coração de Estudante | e
+Estrela-Guia | e
+As Filhas da Mãe | e
+Um Anjo Caiu do Céu | e
+Esplendor | e
+Força de um Desejo | e
+Andando nas Nuvens | e
+Vila Madalena | e
 
 == tvbr-apresentadores | Cite um(a) apresentador(a) de televisão brasileiro(a) | facil | tv;apresentadores | https://pt.wikipedia.org/wiki/Televis%C3%A3o_no_Brasil
-Faustão | Fausto Silva | | | c
-Silvio Santos | Sílvio Santos | | | c
-Xuxa | Xuxa Meneghel | | | c
+Faustão | Fausto Silva;Fausto |  |  | c
+Silvio Santos | Sílvio Santos;Senor Abravanel |  |  | c
+Xuxa | Xuxa Meneghel;Rainha dos Baixinhos |  |  | c
 Gugu Liberato | Gugu | | | c
 Luciano Huck | Huck | | | c
 Ana Maria Braga | | | | c
 Fátima Bernardes | | | | c
 Hebe Camargo | Hebe | | | c
-Chacrinha | Abelardo Barbosa | | | c
+Chacrinha | Abelardo Barbosa;Velho Guerreiro |  |  | c
 Angélica | | | | c
 Eliana | | | | c
 Serginho Groisman | | | | c
@@ -176,13 +272,31 @@ Fernanda Gentil | | | | r
 Poliana Abritta | | | | e
 César Tralli | | | | r
 Renata Vasconcellos | | | | r
+Sílvia Poppovic | i
+Gilberto Barros | Leão | i
+João Kléber | i
+Ticiane Pinheiro | i
+Zeca Camargo | i
+Maisa | Maisa Silva | i
+Roberto Justus | Justus | i
+Ana Paula Padrão | r
+Christiane Pelajo | r
+Chico Pinheiro | r
+Ana Paula Araújo | r
+Carlos Nascimento | r
+Cátia Fonseca | r
+Mariana Godoy | r
+Milton Neves | r
+Luiz Bacci | r
+Marcelo de Carvalho | r
+Evaristo Costa | r
 
 == tvbr-programas | Cite um programa da televisão brasileira | facil | tv;programas | https://pt.wikipedia.org/wiki/Televis%C3%A3o_no_Brasil
 Fantástico | | | | c
 Jornal Nacional | JN | | | c
 Domingão do Faustão | Domingão;Domingão com Huck | | | c
 Caldeirão do Huck | Caldeirão | | | c
-Big Brother Brasil | BBB | | | c
+Big Brother Brasil | BBB;Big Brother |  |  | c
 A Fazenda | | | | c
 Programa Silvio Santos | | | | c
 Domingo Legal | | | | c
@@ -264,13 +378,34 @@ Tela Quente | | | | i
 Sessão da Tarde | | | | c
 Supercine | | | | r
 Corujão | | | | e
+Programa Eliana | Eliana | i
+Super Pop | Superpop | i
+TV Pirata | i
+Viva o Gordo | i
+Armação Ilimitada | i
+Bom Dia & Cia | i
+Esquadrão da Moda | i
+Hora do Faro | i
+The Noite | The Noite com Danilo Gentili | i
+Domingo Espetacular | i
+Conexão Repórter | r
+Jornal da Globo | r
+Jornal da Band | r
+Fala Brasil | r
+Aqui Agora | r
+Programa Livre | r
+Qual É o Seu Talento? | r
+Programa Hebe | Hebe | i
+Programa do Gugu | Gugu | i
+Show de Calouros | i
+Superstar | r
 
 == tvbr-humoristas | Cite um(a) humorista brasileiro(a) | media | humor;comédia | https://pt.wikipedia.org/wiki/Humor_no_Brasil
 Chico Anysio | | | | c
 Jô Soares | | | | c
-Renato Aragão | Didi | | | c
+Renato Aragão | Didi;Didi Mocó |  |  | c
 Dedé Santana | Dedé | | | i
-Mussum | | | | c
+Mussum | Antônio Carlos Bernardes Gomes |  |  | c
 Zacarias | | | | i
 Paulo Gustavo | | | | c
 Tatá Werneck | | | | c
@@ -330,14 +465,24 @@ Victor Sarro | | | | e
 Murilo Couto | | | | e
 Bruna Louise | | | | e
 Gil Brother | | | | l
+Lúcio Mauro | i
+Jorge Loredo | Zé Bonitinho | r
+Zé Trindade | r
+Eri Johnson | r
+Carlinhos Maia | i
+Gustavo Mendes | r
+Claudia Jimenez | r
+Fabiana Karla | r
+Fernando Caruso | r
+Rafael Cortez | r
 
 == tvbr-sitio-picapau | Cite um personagem do Sítio do Picapau Amarelo (livros ou televisão) | media | monteiro lobato;sítio;infantil | https://pt.wikipedia.org/wiki/S%C3%ADtio_do_Picapau_Amarelo
 Emília | | | | c
-Narizinho | Lúcia | | | c
-Pedrinho | | | | c
-Dona Benta | | | | c
-Tia Nastácia | | | | c
-Visconde de Sabugosa | Visconde | | | c
+Narizinho | Lúcia;Menina do Narizinho Arrebitado |  |  | c
+Pedrinho | Pedro |  |  | c
+Dona Benta | Benta |  |  | c
+Tia Nastácia | Nastácia;Tia Anastácia;Anastácia |  |  | c
+Visconde de Sabugosa | Visconde;Sabugosa |  |  | c
 Cuca | | | | c
 Saci | Saci-Pererê | | | c
 Marquês de Rabicó | Rabicó | | | i
@@ -367,23 +512,24 @@ Rainha Mabe | | | | l
 Cinderela | | | | l
 Branca de Neve | | | | l
 Polegarzinho | Pequeno Polegar | | | l
+Caipora | i
 
 == tvbr-campeoes-bbb | Cite um(a) campeão(ã) do Big Brother Brasil | dificil | bbb;reality show | https://pt.wikipedia.org/wiki/Big_Brother_Brasil
 @atualizadoEm 2026-11
 @nota Vencedores do BBB (Big Brother Brasil), da 1ª à 26ª edição.
 Kleber Bambam | Bambam | | | c
-Rodrigo Cowboy | Rodrigo Leonel | | | r
+Rodrigo Cowboy | Rodrigo Leonel;Cowboy |  |  | r
 Dhomini | Dhomini Ferreira | | | i
 Cida | Cida Santos | | | r
 Jean Wyllys | | | | i
 Mara Viana | | | | r
 Diego Alemão | Alemão | | | i
 Rafinha | Rafael Ribeiro | | | r
-Max Porto | | | | r
+Max Porto | Max |  |  | r
 Marcelo Dourado | Dourado | | | i
-Maria Melilo | | | | r
+Maria Melilo | Melilo |  |  | r
 Fael | Fael Cordeiro | | | r
-Fernanda Keulla | | | | e
+Fernanda Keulla | Keulla |  |  | e
 Vanessa Mesquita | | | | e
 Cézar Lima | | | | e
 Munik Nunes | Munik | | | r
@@ -396,4 +542,4 @@ Arthur Aguiar | | | | i
 Amanda Meirelles | | | | i
 Davi Brito | Davi | | | c
 Renata Saldanha | | | | i
-Ana Paula Renault | | | | i
+Ana Paula Renault | Renault |  |  | i

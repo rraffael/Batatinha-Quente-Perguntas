@@ -1,0 +1,97 @@
+== his-presidentes-brasil
+~ Lula | Lula da Silva;Luiz Inácio;Luís Inácio Lula da Silva | https://pt.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva
+~ Jair Bolsonaro | Jair Messias Bolsonaro | https://pt.wikipedia.org/wiki/Jair_Bolsonaro
+~ Eurico Gaspar Dutra | Eurico Dutra;Marechal Dutra | https://pt.wikipedia.org/wiki/Eurico_Gaspar_Dutra
+~ Castelo Branco | Humberto Castelo Branco;Marechal Castelo Branco;Castello Branco | https://pt.wikipedia.org/wiki/Humberto_de_Alencar_Castelo_Branco
+~ Costa e Silva | Arthur da Costa e Silva;Marechal Costa e Silva | https://pt.wikipedia.org/wiki/Artur_da_Costa_e_Silva
+~ João Figueiredo | João Baptista Figueiredo;João Batista Figueiredo | https://pt.wikipedia.org/wiki/Jo%C3%A3o_Figueiredo
+~ Café Filho | João Café Filho | https://pt.wikipedia.org/wiki/Caf%C3%A9_Filho
+~ Venceslau Brás | Venceslau Braz;Wenceslau Brás | https://pt.wikipedia.org/wiki/Venceslau_Br%C3%A1s
+
+== his-imperadores-romanos
+~ Caracala | Caracalla | https://pt.wikipedia.org/wiki/Caracala
+~ Cláudio | Cláudio I;Tibério Cláudio | https://pt.wikipedia.org/wiki/Cl%C3%A1udio_(imperador_romano)
+~ Calígula | Caio Calígula;Gaio Calígula;Caio César | https://pt.wikipedia.org/wiki/Cal%C3%ADgula
+
+== his-guerras
++ Inconfidência Mineira | Conjuração Mineira | | | i | https://pt.wikipedia.org/wiki/Inconfid%C3%AAncia_Mineira
++ Revolta dos Boxers | Guerra dos Boxers;Rebelião Boxer | Boxer Rebellion | Rebelión de los bóxers | r | https://pt.wikipedia.org/wiki/Revolta_dos_Boxers
++ Guerra Soviético-Afegã | Invasão soviética do Afeganistão | Soviet-Afghan War | Guerra soviético-afgana | r | https://pt.wikipedia.org/wiki/Guerra_Sovi%C3%A9tico-Afeg%C3%A3
++ Intifada | Primeira Intifada;Segunda Intifada | Intifada | Intifada | r | https://pt.wikipedia.org/wiki/Intifada
++ Revolução dos Cravos | 25 de Abril | Carnation Revolution | Revolución de los Claveles | r | https://pt.wikipedia.org/wiki/Revolu%C3%A7%C3%A3o_dos_Cravos
++ Guerra dos Oitenta Anos | Guerra dos 80 Anos;Revolta Holandesa | Eighty Years War | Guerra de los Ochenta Años | e | https://pt.wikipedia.org/wiki/Guerra_dos_Oitenta_Anos
++ Invasões Holandesas | Brasil Holandês;Guerra Luso-Holandesa | Dutch invasions of Brazil | | i | https://pt.wikipedia.org/wiki/Invas%C3%B5es_holandesas_do_Brasil
++ Conflito da Irlanda do Norte | The Troubles;Troubles | The Troubles | Conflicto de Irlanda del Norte | r | https://pt.wikipedia.org/wiki/Conflito_na_Irlanda_do_Norte
++ Guerra Anglo-Zulu | Guerra Zulu | Anglo-Zulu War | | e | https://pt.wikipedia.org/wiki/Guerra_Anglo-Zulu
++ Guerra do Donbass | Guerra do Donbas | War in Donbas | Guerra del Donbás | r | https://pt.wikipedia.org/wiki/Guerra_no_Donbass
++ Revolução Liberal de 1842 | Revolta Liberal de 1842 | | | e | https://pt.wikipedia.org/wiki/Revolu%C3%A7%C3%A3o_Liberal_de_1842
++ Tenentismo | Revolta dos Tenentes | | | r | https://pt.wikipedia.org/wiki/Tenentismo
++ Conflito Armado Colombiano | Guerra Civil Colombiana;Conflito na Colômbia | Colombian conflict | Conflicto armado colombiano | r | https://pt.wikipedia.org/wiki/Conflito_armado_colombiano
++ Guerra Civil Grega | | Greek Civil War | Guerra civil griega | e | https://pt.wikipedia.org/wiki/Guerra_Civil_Grega
++ Guerra Russo-Turca | Guerras Russo-Turcas | Russo-Turkish War | Guerra ruso-turca | e | https://pt.wikipedia.org/wiki/Guerras_russo-turcas
++ Guerra Civil Irlandesa | | Irish Civil War | Guerra civil irlandesa | e | https://pt.wikipedia.org/wiki/Guerra_Civil_Irlandesa
++ Rebelião Taiping | Revolta Taiping | Taiping Rebellion | Rebelión Taiping | e | https://pt.wikipedia.org/wiki/Rebeli%C3%A3o_Taiping
++ Guerra Peninsular | | Peninsular War | Guerra de la Independencia Española | e | https://pt.wikipedia.org/wiki/Guerra_Peninsular
+~ Segunda Guerra Mundial | Segunda Guerra;2ª Guerra;WWII | https://pt.wikipedia.org/wiki/Segunda_Guerra_Mundial
+~ Primeira Guerra Mundial | Primeira Guerra;1ª Guerra;WWI | https://pt.wikipedia.org/wiki/Primeira_Guerra_Mundial
+~ Guerra do Vietnã | Guerra do Vietnam | https://pt.wikipedia.org/wiki/Guerra_do_Vietn%C3%A3
+~ Guerra de Canudos | Revolta de Canudos;Campanha de Canudos | https://pt.wikipedia.org/wiki/Guerra_de_Canudos
+~ Guerra dos Farrapos | Farroupilha | https://pt.wikipedia.org/wiki/Guerra_dos_Farrapos
+~ Revolução Constitucionalista de 1932 | Revolução de 1932;Guerra Paulista | https://pt.wikipedia.org/wiki/Revolu%C3%A7%C3%A3o_Constitucionalista_de_1932
+~ Guerra Civil Americana | Guerra Civil dos EUA;Guerra Civil dos Estados Unidos | https://pt.wikipedia.org/wiki/Guerra_Civil_Americana
+~ Guerra do Golfo | Primeira Guerra do Golfo;Operação Tempestade no Deserto | https://pt.wikipedia.org/wiki/Guerra_do_Golfo
+~ Guerra do Iraque | Segunda Guerra do Golfo;Invasão do Iraque | https://pt.wikipedia.org/wiki/Guerra_do_Iraque
+~ Guerra Rússia-Ucrânia | Guerra Russo-Ucraniana;Guerra na Ucrânia | https://pt.wikipedia.org/wiki/Invas%C3%A3o_russa_da_Ucr%C3%A2nia
+~ Guerra do Yom Kippur | Guerra de Outubro;Guerra do Yom Kipur | https://pt.wikipedia.org/wiki/Guerra_do_Yom_Kippur
+~ Guerra da Independência dos Estados Unidos | Guerra de Independência Americana;Guerra da Independência Americana | https://pt.wikipedia.org/wiki/Guerra_da_Independ%C3%AAncia_dos_Estados_Unidos
+~ Guerras Médicas | Guerras Persas | https://pt.wikipedia.org/wiki/Guerras_M%C3%A9dicas
+~ Cruzadas | Cruzada | https://pt.wikipedia.org/wiki/Cruzadas
+~ Guerra dos Cem Anos | Guerra dos 100 Anos | https://pt.wikipedia.org/wiki/Guerra_dos_Cem_Anos
+~ Guerra dos Trinta Anos | Guerra dos 30 Anos | https://pt.wikipedia.org/wiki/Guerra_dos_Trinta_Anos
+~ Guerra dos Sete Anos | Guerra dos 7 Anos | https://pt.wikipedia.org/wiki/Guerra_dos_Sete_Anos
+~ Guerra dos Seis Dias | Guerra dos 6 Dias | https://pt.wikipedia.org/wiki/Guerra_dos_Seis_Dias
+
+== his-civilizacoes-antigas
++ Caral | Civilização Caral;Caral-Supe;Norte Chico | Caral | Caral | e | https://pt.wikipedia.org/wiki/Caral
++ Chachapoyas | | Chachapoya | Chachapoyas | e | https://pt.wikipedia.org/wiki/Chachapoyas
++ Aruaques | Arawaks;Aruaque | Arawak | Arahuacos | r | https://pt.wikipedia.org/wiki/Aruaques
++ Celtiberos | | Celtiberians | Celtíberos | e | https://pt.wikipedia.org/wiki/Celtiberos
++ Tartessos | Tartéssios | Tartessos | Tartesos | e | https://pt.wikipedia.org/wiki/Tartessos
++ Lombardos | Longobardos | Lombards | Lombardos | e | https://pt.wikipedia.org/wiki/Lombardos
++ Alanos | | Alans | Alanos | e | https://pt.wikipedia.org/wiki/Alanos
++ Burgúndios | | Burgundians | Burgundios | e | https://pt.wikipedia.org/wiki/Burg%C3%BAndios
++ Cimérios | | Cimmerians | Cimerios | l | https://pt.wikipedia.org/wiki/Cim%C3%A9rios
++ Tebanos | | Thebans | | e | https://pt.wikipedia.org/wiki/Tebas_(Gr%C3%A9cia)
+~ Astecas | Aztecas;Azteca | https://pt.wikipedia.org/wiki/Astecas
+~ Maias | Mayas;Maya | https://pt.wikipedia.org/wiki/Maias
+~ Egípcios | Egípcio;Egito | https://pt.wikipedia.org/wiki/Egito_Antigo
+~ Romanos | Romano;Roma | https://pt.wikipedia.org/wiki/Roma_Antiga
+~ Gregos | Grego;Grécia;Helenos | https://pt.wikipedia.org/wiki/Gr%C3%A9cia_Antiga
+~ Persas | Persa;Pérsia | https://pt.wikipedia.org/wiki/Imp%C3%A9rio_Persa
+~ Fenícios | Fenício;Fenícia | https://pt.wikipedia.org/wiki/Fen%C3%ADcia
+~ Sumérios | Sumério;Suméria | https://pt.wikipedia.org/wiki/Sum%C3%A9ria
+~ Babilônios | Babilônio | https://pt.wikipedia.org/wiki/Babil%C3%B4nia
+~ Assírios | Assírio;Assíria | https://pt.wikipedia.org/wiki/Ass%C3%ADria
+~ Hititas | Hitita | https://pt.wikipedia.org/wiki/Hititas
+~ Celtas | Celta | https://pt.wikipedia.org/wiki/Celtas
+~ Etruscos | Etrusco;Etrúria | https://pt.wikipedia.org/wiki/Etruscos
+~ Hebreus | Hebreu | https://pt.wikipedia.org/wiki/Hebreus
+~ Mesopotâmicos | Mesopotâmios | https://pt.wikipedia.org/wiki/Mesopot%C3%A2mia
+~ Chineses antigos | Chineses | https://pt.wikipedia.org/wiki/China_Antiga
+~ Cartagineses | Cartaginês | https://pt.wikipedia.org/wiki/Cartago
+~ Civilização do Vale do Indo | Vale do Indo;Civilização Indiana;Índia Antiga | https://pt.wikipedia.org/wiki/Civiliza%C3%A7%C3%A3o_do_Vale_do_Indo
+~ Núbios | Núbia | https://pt.wikipedia.org/wiki/N%C3%BAbia
+~ Axumitas | Axum | https://pt.wikipedia.org/wiki/Reino_de_Axum
+~ Micênicos | Micenas;Civilização Micênica | https://pt.wikipedia.org/wiki/Civiliza%C3%A7%C3%A3o_micenica
+~ Minoicos | Cretenses;Creta Minoica;Minoica | https://pt.wikipedia.org/wiki/Civiliza%C3%A7%C3%A3o_minoica
+
+== his-faraos
+~ Hatshepsut | Hatchepsut;Hatschepsut | https://pt.wikipedia.org/wiki/Hatshepsut
+~ Quéops | Keops;Cheops | https://pt.wikipedia.org/wiki/Qu%C3%A9ops
+~ Quéfren | Chefren;Kefren | https://pt.wikipedia.org/wiki/Qu%C3%A9fren
+~ Miquerinos | Mikerinos;Micerinos | https://pt.wikipedia.org/wiki/Miquerinos
+~ Tutancâmon | Tutankamon;Tutankhamun | https://pt.wikipedia.org/wiki/Tutancamon
+~ Akhenaton | Akenaton;Akhenaten | https://pt.wikipedia.org/wiki/Aquenat%C3%A3o
+~ Ramsés II | Ramessés II;Ramesses II | https://pt.wikipedia.org/wiki/Rams%C3%A9s_II
+~ Snefru | Sneferu;Esnefru | https://pt.wikipedia.org/wiki/Snefru
+~ Taharqa | Taharka | https://pt.wikipedia.org/wiki/Taharqa

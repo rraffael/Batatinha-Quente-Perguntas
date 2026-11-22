@@ -12,14 +12,16 @@
         "presidentes"
       ],
       "fonte": "https://pt.wikipedia.org/wiki/Lista_de_presidentes_do_Brasil",
-      "nota": "Inclui interinos que assumiram o cargo e Tancredo Neves (reconhecido por lei). Não vale Júlio Prestes, eleito mas não empossado.",
+      "nota": "Inclui interinos que assumiram o cargo e o presidente eleito que morreu antes da posse (reconhecido por lei). Não vale Júlio Prestes, eleito mas não empossado.",
       "atualizadoEm": "2026-11",
       "respostas": [
         {
           "id": "lula",
           "canonica": "Lula",
           "aceitas": [
-            "Luiz Inácio Lula da Silva"
+            "Luiz Inácio Lula da Silva",
+            "Lula da Silva",
+            "Luiz Inácio"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -28,7 +30,8 @@
           "id": "jair-bolsonaro",
           "canonica": "Jair Bolsonaro",
           "aceitas": [
-            "Bolsonaro"
+            "Bolsonaro",
+            "Jair Messias Bolsonaro"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -55,7 +58,8 @@
           "id": "fernando-henrique-cardoso",
           "canonica": "Fernando Henrique Cardoso",
           "aceitas": [
-            "FHC"
+            "FHC",
+            "Fernando Henrique"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -149,7 +153,8 @@
           "id": "floriano-peixoto",
           "canonica": "Floriano Peixoto",
           "aceitas": [
-            "Floriano"
+            "Floriano",
+            "Marechal Floriano"
           ],
           "traducoes": {},
           "raridadeInicial": "incomum"
@@ -158,7 +163,9 @@
           "id": "eurico-gaspar-dutra",
           "canonica": "Eurico Gaspar Dutra",
           "aceitas": [
-            "Dutra"
+            "Dutra",
+            "Eurico Dutra",
+            "Marechal Dutra"
           ],
           "traducoes": {},
           "raridadeInicial": "incomum"
@@ -167,7 +174,9 @@
           "id": "castelo-branco",
           "canonica": "Castelo Branco",
           "aceitas": [
-            "Humberto de Alencar Castelo Branco"
+            "Humberto de Alencar Castelo Branco",
+            "Humberto Castelo Branco",
+            "Marechal Castelo Branco"
           ],
           "traducoes": {},
           "raridadeInicial": "incomum"
@@ -176,7 +185,8 @@
           "id": "costa-e-silva",
           "canonica": "Costa e Silva",
           "aceitas": [
-            "Artur da Costa e Silva"
+            "Artur da Costa e Silva",
+            "Marechal Costa e Silva"
           ],
           "traducoes": {},
           "raridadeInicial": "incomum"
@@ -204,7 +214,8 @@
           "id": "joao-figueiredo",
           "canonica": "João Figueiredo",
           "aceitas": [
-            "Figueiredo"
+            "Figueiredo",
+            "João Baptista Figueiredo"
           ],
           "traducoes": {},
           "raridadeInicial": "incomum"
@@ -212,7 +223,9 @@
         {
           "id": "prudente-de-morais",
           "canonica": "Prudente de Morais",
-          "aceitas": [],
+          "aceitas": [
+            "Prudente"
+          ],
           "traducoes": {},
           "raridadeInicial": "incomum"
         },
@@ -240,7 +253,9 @@
         {
           "id": "cafe-filho",
           "canonica": "Café Filho",
-          "aceitas": [],
+          "aceitas": [
+            "João Café Filho"
+          ],
           "traducoes": {},
           "raridadeInicial": "raro"
         },
@@ -254,7 +269,9 @@
         {
           "id": "hermes-da-fonseca",
           "canonica": "Hermes da Fonseca",
-          "aceitas": [],
+          "aceitas": [
+            "Marechal Hermes"
+          ],
           "traducoes": {},
           "raridadeInicial": "raro"
         },
@@ -277,7 +294,9 @@
         {
           "id": "epitacio-pessoa",
           "canonica": "Epitácio Pessoa",
-          "aceitas": [],
+          "aceitas": [
+            "Epitácio"
+          ],
           "traducoes": {},
           "raridadeInicial": "epico"
         },
@@ -319,7 +338,9 @@
         {
           "id": "ranieri-mazzilli",
           "canonica": "Ranieri Mazzilli",
-          "aceitas": [],
+          "aceitas": [
+            "Mazzilli"
+          ],
           "traducoes": {},
           "raridadeInicial": "lendario"
         }
@@ -334,6 +355,7 @@
         "antiguidade"
       ],
       "fonte": "https://pt.wikipedia.org/wiki/Lista_de_imperadores_romanos",
+      "nota": "Imperadores de mesmo nome contam como uma resposta só; vale digitar com ou sem o número.",
       "respostas": [
         {
           "id": "nero",
@@ -349,7 +371,9 @@
         {
           "id": "caligula",
           "canonica": "Calígula",
-          "aceitas": [],
+          "aceitas": [
+            "Caio Calígula"
+          ],
           "traducoes": {},
           "raridadeInicial": "comum"
         },
@@ -373,11 +397,15 @@
           "canonica": "Constantino",
           "aceitas": [
             "Constantino, o Grande",
-            "Constantino I"
+            "Constantino I",
+            "Constantino II",
+            "Constantino 1",
+            "Constantino 2"
           ],
           "traducoes": {
             "en": [
-              "Constantine"
+              "Constantine",
+              "Constantine II"
             ]
           },
           "raridadeInicial": "comum"
@@ -407,10 +435,18 @@
         {
           "id": "claudio",
           "canonica": "Cláudio",
-          "aceitas": [],
+          "aceitas": [
+            "Cláudio I",
+            "Tibério Cláudio",
+            "Cláudio Gótico",
+            "Cláudio II",
+            "Cláudio 1",
+            "Cláudio 2"
+          ],
           "traducoes": {
             "en": [
-              "Claudius"
+              "Claudius",
+              "Claudius Gothicus"
             ]
           },
           "raridadeInicial": "comum"
@@ -529,7 +565,7 @@
           "canonica": "Nerva",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "antonino-pio",
@@ -540,7 +576,7 @@
               "Antoninus Pius"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "lucio-vero",
@@ -580,7 +616,7 @@
               "Septimius Severus"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "caracala",
@@ -591,7 +627,7 @@
               "Caracalla"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "geta",
@@ -636,34 +672,63 @@
           "raridadeInicial": "incomum"
         },
         {
-          "id": "maximino-tracio",
-          "canonica": "Maximino Trácio",
-          "aceitas": [],
+          "id": "maximino",
+          "canonica": "Maximino",
+          "aceitas": [
+            "Maximino Trácio",
+            "Maximino I",
+            "Maximino Daia",
+            "Maximino Daya",
+            "Maximino II",
+            "Maximino 1",
+            "Maximino 2"
+          ],
           "traducoes": {
             "en": [
-              "Maximinus Thrax"
+              "Maximinus",
+              "Maximinus Thrax",
+              "Maximinus Daza"
             ]
           },
           "raridadeInicial": "raro"
         },
         {
-          "id": "gordiano-iii",
-          "canonica": "Gordiano III",
-          "aceitas": [],
+          "id": "gordiano",
+          "canonica": "Gordiano",
+          "aceitas": [
+            "Gordiano III",
+            "Gordiano I",
+            "Gordiano II",
+            "Gordiano 3",
+            "Gordiano 1",
+            "Gordiano 2"
+          ],
           "traducoes": {
             "en": [
-              "Gordian III"
+              "Gordian",
+              "Gordian III",
+              "Gordian I",
+              "Gordian II"
             ]
           },
           "raridadeInicial": "raro"
         },
         {
-          "id": "filipe-o-arabe",
-          "canonica": "Filipe, o Árabe",
-          "aceitas": [],
+          "id": "filipe",
+          "canonica": "Filipe",
+          "aceitas": [
+            "Filipe, o Árabe",
+            "Filipe I",
+            "Filipe II",
+            "Filipe 1",
+            "Filipe 2"
+          ],
           "traducoes": {
             "en": [
-              "Philip the Arab"
+              "Philip",
+              "Philip the Arab",
+              "Philip I",
+              "Philip II"
             ],
             "es": [
               "Filipo el Árabe"
@@ -705,19 +770,6 @@
           "raridadeInicial": "raro"
         },
         {
-          "id": "claudio-gotico",
-          "canonica": "Cláudio Gótico",
-          "aceitas": [
-            "Cláudio II"
-          ],
-          "traducoes": {
-            "en": [
-              "Claudius Gothicus"
-            ]
-          },
-          "raridadeInicial": "raro"
-        },
-        {
           "id": "aureliano",
           "canonica": "Aureliano",
           "aceitas": [],
@@ -748,7 +800,7 @@
               "Maximian"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "galerio",
@@ -759,29 +811,30 @@
               "Galerius"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
-          "id": "constancio-cloro",
-          "canonica": "Constâncio Cloro",
-          "aceitas": [],
+          "id": "constancio",
+          "canonica": "Constâncio",
+          "aceitas": [
+            "Constâncio Cloro",
+            "Constâncio I",
+            "Constâncio II",
+            "Constâncio III",
+            "Constâncio 1",
+            "Constâncio 2",
+            "Constâncio 3"
+          ],
           "traducoes": {
             "en": [
-              "Constantius Chlorus"
+              "Constantius",
+              "Constantius Chlorus",
+              "Constantius I",
+              "Constantius II",
+              "Constantius III"
             ]
           },
-          "raridadeInicial": "epico"
-        },
-        {
-          "id": "constancio-ii",
-          "canonica": "Constâncio II",
-          "aceitas": [],
-          "traducoes": {
-            "en": [
-              "Constantius II"
-            ]
-          },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "juliano-o-apostata",
@@ -808,18 +861,28 @@
               "Jovian"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
-          "id": "valentiniano-i",
-          "canonica": "Valentiniano I",
-          "aceitas": [],
+          "id": "valentiniano",
+          "canonica": "Valentiniano",
+          "aceitas": [
+            "Valentiniano I",
+            "Valentiniano II",
+            "Valentiniano III",
+            "Valentiniano 1",
+            "Valentiniano 2",
+            "Valentiniano 3"
+          ],
           "traducoes": {
             "en": [
-              "Valentinian I"
+              "Valentinian",
+              "Valentinian I",
+              "Valentinian II",
+              "Valentinian III"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "valente",
@@ -830,7 +893,7 @@
               "Valens"
             ]
           },
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "graciano",
@@ -841,21 +904,26 @@
               "Gratian"
             ]
           },
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
-          "id": "teodosio-i",
-          "canonica": "Teodósio I",
+          "id": "teodosio",
+          "canonica": "Teodósio",
           "aceitas": [
-            "Teodósio",
-            "Teodósio, o Grande"
+            "Teodósio I",
+            "Teodósio, o Grande",
+            "Teodósio II",
+            "Teodósio 1",
+            "Teodósio 2"
           ],
           "traducoes": {
             "en": [
-              "Theodosius I"
+              "Theodosius",
+              "Theodosius I",
+              "Theodosius II"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "honorio",
@@ -866,7 +934,7 @@
               "Honorius"
             ]
           },
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "arcadio",
@@ -877,7 +945,7 @@
               "Arcadius"
             ]
           },
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "romulo-augusto",
@@ -893,7 +961,385 @@
               "Rómulo Augústulo"
             ]
           },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "maxencio",
+          "canonica": "Maxêncio",
+          "aceitas": [
+            "Magêncio"
+          ],
+          "traducoes": {
+            "en": [
+              "Maxentius"
+            ],
+            "es": [
+              "Majencio"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "licinio",
+          "canonica": "Licínio",
+          "aceitas": [
+            "Licínio I",
+            "Licínio 1"
+          ],
+          "traducoes": {
+            "en": [
+              "Licinius"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "constante",
+          "canonica": "Constante",
+          "aceitas": [
+            "Constante I",
+            "Constante 1"
+          ],
+          "traducoes": {
+            "en": [
+              "Constans"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "treboniano-galo",
+          "canonica": "Treboniano Galo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Trebonianus Gallus"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "emiliano",
+          "canonica": "Emiliano",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Aemilian"
+            ]
+          },
           "raridadeInicial": "raro"
+        },
+        {
+          "id": "hostiliano",
+          "canonica": "Hostiliano",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Hostilian"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "volusiano",
+          "canonica": "Volusiano",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Volusianus"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "quintilo",
+          "canonica": "Quintilo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Quintillus"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "tacito",
+          "canonica": "Tácito",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Tacitus"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "floriano",
+          "canonica": "Floriano",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Florianus"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "caro",
+          "canonica": "Caro",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Carus"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "carino",
+          "canonica": "Carino",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Carinus"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "numeriano",
+          "canonica": "Numeriano",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Numerian"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "severo-ii",
+          "canonica": "Severo II",
+          "aceitas": [
+            "Valério Severo",
+            "Severo 2"
+          ],
+          "traducoes": {
+            "en": [
+              "Severus II"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "pupieno",
+          "canonica": "Pupieno",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Pupienus"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "balbino",
+          "canonica": "Balbino",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Balbinus"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "petronio-maximo",
+          "canonica": "Petrônio Máximo",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Petronius Maximus"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "avito",
+          "canonica": "Avito",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Avitus"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "majoriano",
+          "canonica": "Majoriano",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Majorian"
+            ],
+            "es": [
+              "Mayoriano"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "libio-severo",
+          "canonica": "Líbio Severo",
+          "aceitas": [
+            "Severo III",
+            "Severo 3"
+          ],
+          "traducoes": {
+            "en": [
+              "Libius Severus"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "antemio",
+          "canonica": "Antêmio",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Anthemius"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "olibrio",
+          "canonica": "Olíbrio",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Olybrius"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "glicerio",
+          "canonica": "Glicério",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Glycerius"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "julio-nepos",
+          "canonica": "Júlio Nepos",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Julius Nepos"
+            ],
+            "es": [
+              "Julio Nepote"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "marciano",
+          "canonica": "Marciano",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Marcian"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "leao",
+          "canonica": "Leão",
+          "aceitas": [
+            "Leão I",
+            "Leão II",
+            "Leão 1",
+            "Leão 2"
+          ],
+          "traducoes": {
+            "en": [
+              "Leo",
+              "Leo I",
+              "Leo II"
+            ],
+            "es": [
+              "León",
+              "León I",
+              "León II"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "zenao",
+          "canonica": "Zenão",
+          "aceitas": [
+            "Zeno"
+          ],
+          "traducoes": {
+            "es": [
+              "Zenón"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "basilisco",
+          "canonica": "Basilisco",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Basiliscus"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "diadumeniano",
+          "canonica": "Diadumeniano",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Diadumenian"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "herenio-etrusco",
+          "canonica": "Herênio Etrusco",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Herennius Etruscus"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "saloniano",
+          "canonica": "Saloniano",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Saloninus"
+            ]
+          },
+          "raridadeInicial": "lendario"
         }
       ]
     },
@@ -912,7 +1358,9 @@
           "canonica": "Segunda Guerra Mundial",
           "aceitas": [
             "2ª Guerra Mundial",
-            "II Guerra Mundial"
+            "II Guerra Mundial",
+            "Segunda Guerra",
+            "2ª Guerra"
           ],
           "traducoes": {
             "en": [
@@ -929,7 +1377,9 @@
           "aceitas": [
             "1ª Guerra Mundial",
             "I Guerra Mundial",
-            "Grande Guerra"
+            "Grande Guerra",
+            "Primeira Guerra",
+            "1ª Guerra"
           ],
           "traducoes": {
             "en": [
@@ -989,7 +1439,9 @@
           "id": "guerra-de-canudos",
           "canonica": "Guerra de Canudos",
           "aceitas": [
-            "Canudos"
+            "Canudos",
+            "Revolta de Canudos",
+            "Campanha de Canudos"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -998,7 +1450,8 @@
           "id": "guerra-dos-farrapos",
           "canonica": "Guerra dos Farrapos",
           "aceitas": [
-            "Revolução Farroupilha"
+            "Revolução Farroupilha",
+            "Farroupilha"
           ],
           "traducoes": {},
           "raridadeInicial": "comum"
@@ -1020,7 +1473,10 @@
         {
           "id": "guerra-do-golfo",
           "canonica": "Guerra do Golfo",
-          "aceitas": [],
+          "aceitas": [
+            "Primeira Guerra do Golfo",
+            "Operação Tempestade no Deserto"
+          ],
           "traducoes": {
             "en": [
               "Gulf War"
@@ -1031,7 +1487,10 @@
         {
           "id": "guerra-do-iraque",
           "canonica": "Guerra do Iraque",
-          "aceitas": [],
+          "aceitas": [
+            "Segunda Guerra do Golfo",
+            "Invasão do Iraque"
+          ],
           "traducoes": {
             "en": [
               "Iraq War"
@@ -1054,7 +1513,9 @@
           "id": "guerra-civil-americana",
           "canonica": "Guerra Civil Americana",
           "aceitas": [
-            "Guerra de Secessão"
+            "Guerra de Secessão",
+            "Guerra Civil dos EUA",
+            "Guerra Civil dos Estados Unidos"
           ],
           "traducoes": {
             "en": [
@@ -1096,7 +1557,8 @@
           "canonica": "Guerra Rússia-Ucrânia",
           "aceitas": [
             "Guerra da Ucrânia",
-            "Invasão da Ucrânia"
+            "Invasão da Ucrânia",
+            "Guerra Russo-Ucraniana"
           ],
           "traducoes": {
             "en": [
@@ -1130,7 +1592,9 @@
         {
           "id": "guerra-dos-cem-anos",
           "canonica": "Guerra dos Cem Anos",
-          "aceitas": [],
+          "aceitas": [
+            "Guerra dos 100 Anos"
+          ],
           "traducoes": {
             "en": [
               "Hundred Years' War"
@@ -1147,17 +1611,19 @@
               "Punic Wars"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "revolucao-constitucionalista-de-1932",
           "canonica": "Revolução Constitucionalista de 1932",
           "aceitas": [
             "Revolução de 32",
-            "Revolução Constitucionalista"
+            "Revolução Constitucionalista",
+            "Revolução de 1932",
+            "Guerra Paulista"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "guerra-do-contestado",
@@ -1166,64 +1632,73 @@
             "Contestado"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "guerra-dos-seis-dias",
           "canonica": "Guerra dos Seis Dias",
-          "aceitas": [],
+          "aceitas": [
+            "Guerra dos 6 Dias"
+          ],
           "traducoes": {
             "en": [
               "Six-Day War"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "guerra-do-yom-kippur",
           "canonica": "Guerra do Yom Kippur",
-          "aceitas": [],
+          "aceitas": [
+            "Guerra de Outubro"
+          ],
           "traducoes": {
             "en": [
               "Yom Kippur War"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "guerra-dos-trinta-anos",
           "canonica": "Guerra dos Trinta Anos",
-          "aceitas": [],
+          "aceitas": [
+            "Guerra dos 30 Anos"
+          ],
           "traducoes": {
             "en": [
               "Thirty Years' War"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "guerra-dos-sete-anos",
           "canonica": "Guerra dos Sete Anos",
-          "aceitas": [],
+          "aceitas": [
+            "Guerra dos 7 Anos"
+          ],
           "traducoes": {
             "en": [
               "Seven Years' War"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "guerra-da-independencia-dos-estados-unidos",
           "canonica": "Guerra da Independência dos Estados Unidos",
           "aceitas": [
-            "Revolução Americana"
+            "Revolução Americana",
+            "Guerra da Independência Americana"
           ],
           "traducoes": {
             "en": [
               "American Revolutionary War"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "guerra-ira-iraque",
@@ -1234,7 +1709,7 @@
               "Iran-Iraq War"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "guerra-da-bosnia",
@@ -1245,7 +1720,7 @@
               "Bosnian War"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "guerra-do-kosovo",
@@ -1256,7 +1731,7 @@
               "Kosovo War"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "guerra-da-crimeia",
@@ -1267,7 +1742,7 @@
               "Crimean War"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "guerra-russo-japonesa",
@@ -1278,7 +1753,7 @@
               "Russo-Japanese War"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "guerra-do-opio",
@@ -1291,20 +1766,21 @@
               "Opium Wars"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "guerras-medicas",
           "canonica": "Guerras Médicas",
           "aceitas": [
-            "Guerras Greco-Persas"
+            "Guerras Greco-Persas",
+            "Guerras Persas"
           ],
           "traducoes": {
             "en": [
               "Greco-Persian Wars"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "guerra-do-peloponeso",
@@ -1315,7 +1791,7 @@
               "Peloponnesian War"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "guerra-das-rosas",
@@ -1328,7 +1804,7 @@
               "Wars of the Roses"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "guerra-da-cisplatina",
@@ -1339,77 +1815,77 @@
               "Cisplatine War"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "guerra-dos-emboabas",
           "canonica": "Guerra dos Emboabas",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "guerra-dos-mascates",
           "canonica": "Guerra dos Mascates",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "balaiada",
           "canonica": "Balaiada",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "cabanagem",
           "canonica": "Cabanagem",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "sabinada",
           "canonica": "Sabinada",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "revolta-da-armada",
           "canonica": "Revolta da Armada",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "revolta-da-chibata",
           "canonica": "Revolta da Chibata",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "revolta-da-vacina",
           "canonica": "Revolta da Vacina",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "revolucao-pernambucana",
           "canonica": "Revolução Pernambucana",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "confederacao-do-equador",
           "canonica": "Confederação do Equador",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "guerra-do-pacifico",
@@ -1423,7 +1899,7 @@
               "Guerra del Pacífico"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "guerra-do-chaco",
@@ -1437,7 +1913,7 @@
               "Guerra del Chaco"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "guerra-civil-russa",
@@ -1448,7 +1924,7 @@
               "Russian Civil War"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "guerra-sino-japonesa",
@@ -1486,7 +1962,7 @@
               "Algerian War"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "guerra-do-libano",
@@ -1497,7 +1973,7 @@
               "Lebanon War"
             ]
           },
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "guerra-civil-siria",
@@ -1521,7 +1997,7 @@
               "Spanish-American War"
             ]
           },
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "guerra-dos-boeres",
@@ -1532,7 +2008,7 @@
               "Boer War"
             ]
           },
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "guerra-anglo-zanzibari",
@@ -1543,7 +2019,7 @@
               "Anglo-Zanzibar War"
             ]
           },
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "revolucao-russa",
@@ -1554,7 +2030,7 @@
               "Russian Revolution"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "revolucao-mexicana",
@@ -1565,7 +2041,7 @@
               "Mexican Revolution"
             ]
           },
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "guerra-de-independencia-do-brasil",
@@ -1574,7 +2050,903 @@
             "Independência da Bahia"
           ],
           "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "revolta-dos-boxers",
+          "canonica": "Revolta dos Boxers",
+          "aceitas": [
+            "Guerra dos Boxers",
+            "Rebelião Boxer"
+          ],
+          "traducoes": {
+            "en": [
+              "Boxer Rebellion"
+            ],
+            "es": [
+              "Rebelión de los bóxers"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "guerra-sovietico-afega",
+          "canonica": "Guerra Soviético-Afegã",
+          "aceitas": [
+            "Invasão soviética do Afeganistão"
+          ],
+          "traducoes": {
+            "en": [
+              "Soviet-Afghan War"
+            ],
+            "es": [
+              "Guerra soviético-afgana"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "intifada",
+          "canonica": "Intifada",
+          "aceitas": [
+            "Primeira Intifada",
+            "Segunda Intifada"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "guerra-dos-oitenta-anos",
+          "canonica": "Guerra dos Oitenta Anos",
+          "aceitas": [
+            "Guerra dos 80 Anos",
+            "Revolta Holandesa"
+          ],
+          "traducoes": {
+            "en": [
+              "Eighty Years War"
+            ],
+            "es": [
+              "Guerra de los Ochenta Años"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "invasoes-holandesas",
+          "canonica": "Invasões Holandesas",
+          "aceitas": [
+            "Guerra Luso-Holandesa"
+          ],
+          "traducoes": {
+            "en": [
+              "Dutch invasions of Brazil"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "conflito-da-irlanda-do-norte",
+          "canonica": "Conflito da Irlanda do Norte",
+          "aceitas": [
+            "The Troubles",
+            "Troubles"
+          ],
+          "traducoes": {
+            "es": [
+              "Conflicto de Irlanda del Norte"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "guerra-anglo-zulu",
+          "canonica": "Guerra Anglo-Zulu",
+          "aceitas": [
+            "Guerra Zulu"
+          ],
+          "traducoes": {
+            "en": [
+              "Anglo-Zulu War"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "guerra-do-donbass",
+          "canonica": "Guerra do Donbass",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "War in Donbas"
+            ],
+            "es": [
+              "Guerra del Donbás"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "revolucao-liberal-de-1842",
+          "canonica": "Revolução Liberal de 1842",
+          "aceitas": [
+            "Revolta Liberal de 1842"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "conflito-armado-colombiano",
+          "canonica": "Conflito Armado Colombiano",
+          "aceitas": [
+            "Guerra Civil Colombiana",
+            "Conflito na Colômbia"
+          ],
+          "traducoes": {
+            "en": [
+              "Colombian conflict"
+            ],
+            "es": [
+              "Conflicto armado colombiano"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "guerra-civil-grega",
+          "canonica": "Guerra Civil Grega",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Greek Civil War"
+            ],
+            "es": [
+              "Guerra civil griega"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "guerra-russo-turca",
+          "canonica": "Guerra Russo-Turca",
+          "aceitas": [
+            "Guerras Russo-Turcas"
+          ],
+          "traducoes": {
+            "en": [
+              "Russo-Turkish War"
+            ],
+            "es": [
+              "Guerra ruso-turca"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "guerra-civil-irlandesa",
+          "canonica": "Guerra Civil Irlandesa",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Irish Civil War"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "rebeliao-taiping",
+          "canonica": "Rebelião Taiping",
+          "aceitas": [
+            "Revolta Taiping"
+          ],
+          "traducoes": {
+            "en": [
+              "Taiping Rebellion"
+            ],
+            "es": [
+              "Rebelión Taiping"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "guerra-peninsular",
+          "canonica": "Guerra Peninsular",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Peninsular War"
+            ],
+            "es": [
+              "Guerra de la Independencia Española"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "revolucao-francesa",
+          "canonica": "Revolução Francesa",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "French Revolution"
+            ],
+            "es": [
+              "Revolución francesa"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "revolucao-de-1930",
+          "canonica": "Revolução de 1930",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Revolution of 1930"
+            ],
+            "es": [
+              "Revolución de 1930"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "revolta-dos-males",
+          "canonica": "Revolta dos Malês",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Malê revolt"
+            ],
+            "es": [
+              "Revuelta de los Malês"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "revolucao-praieira",
+          "canonica": "Revolução Praieira",
+          "aceitas": [
+            "Praieira"
+          ],
+          "traducoes": {
+            "en": [
+              "Praieira revolt"
+            ],
+            "es": [
+              "Revolución Praieira"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "revolucao-federalista",
+          "canonica": "Revolução Federalista",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Federalist Revolution"
+            ],
+            "es": [
+              "Revolución Federalista"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "revolta-dos-18-do-forte",
+          "canonica": "Revolta dos 18 do Forte",
+          "aceitas": [
+            "Revolta do Forte de Copacabana",
+            "Os 18 do Forte"
+          ],
+          "traducoes": {
+            "en": [
+              "Copacabana Fort revolt"
+            ],
+            "es": [
+              "Revuelta del Fuerte de Copacabana"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "coluna-prestes",
+          "canonica": "Coluna Prestes",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Prestes Column"
+            ],
+            "es": [
+              "Columna Prestes"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "intentona-comunista",
+          "canonica": "Intentona Comunista",
+          "aceitas": [
+            "Levante Comunista"
+          ],
+          "traducoes": {
+            "en": [
+              "Communist Uprising of 1935"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "guerrilha-do-araguaia",
+          "canonica": "Guerrilha do Araguaia",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Araguaia Guerrilla War"
+            ],
+            "es": [
+              "Guerrilla de Araguaia"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "guerra-guaranitica",
+          "canonica": "Guerra Guaranítica",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Guarani War"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "insurreicao-pernambucana",
+          "canonica": "Insurreição Pernambucana",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Pernambucan Insurrection"
+            ],
+            "es": [
+              "Insurrección Pernambucana"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "revolta-de-beckman",
+          "canonica": "Revolta de Beckman",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Beckman Revolt"
+            ],
+            "es": [
+              "Revuelta de Beckman"
+            ]
+          },
           "raridadeInicial": "epico"
+        },
+        {
+          "id": "revolta-de-filipe-dos-santos",
+          "canonica": "Revolta de Filipe dos Santos",
+          "aceitas": [
+            "Revolta de Vila Rica"
+          ],
+          "traducoes": {
+            "en": [
+              "Vila Rica Revolt"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "guerra-dos-barbaros",
+          "canonica": "Guerra dos Bárbaros",
+          "aceitas": [
+            "Confederação dos Cariris"
+          ],
+          "traducoes": {
+            "en": [
+              "Barbarian War"
+            ],
+            "es": [
+              "Guerra de los Bárbaros"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "cabanada",
+          "canonica": "Cabanada",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "revolta-dos-muckers",
+          "canonica": "Revolta dos Muckers",
+          "aceitas": [
+            "Muckers"
+          ],
+          "traducoes": {
+            "en": [
+              "Mucker revolt"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "revolta-do-quebra-quilos",
+          "canonica": "Revolta do Quebra-Quilos",
+          "aceitas": [
+            "Quebra-Quilos"
+          ],
+          "traducoes": {
+            "en": [
+              "Quebra-Quilos revolt"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "guerra-do-prata",
+          "canonica": "Guerra do Prata",
+          "aceitas": [
+            "Guerra contra Oribe e Rosas"
+          ],
+          "traducoes": {
+            "en": [
+              "Platine War"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "guerra-franco-prussiana",
+          "canonica": "Guerra Franco-Prussiana",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Franco-Prussian War"
+            ],
+            "es": [
+              "Guerra franco-prusiana"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "guerras-balcanicas",
+          "canonica": "Guerras Balcânicas",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Balkan Wars"
+            ],
+            "es": [
+              "Guerras de los Balcanes"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "guerra-civil-inglesa",
+          "canonica": "Guerra Civil Inglesa",
+          "aceitas": [
+            "Revolução Inglesa"
+          ],
+          "traducoes": {
+            "en": [
+              "English Civil War"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "guerras-galicas",
+          "canonica": "Guerras Gálicas",
+          "aceitas": [
+            "Guerra das Gálias"
+          ],
+          "traducoes": {
+            "en": [
+              "Gallic Wars"
+            ],
+            "es": [
+              "Guerra de las Galias"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "guerra-anglo-americana-de-1812",
+          "canonica": "Guerra Anglo-Americana de 1812",
+          "aceitas": [
+            "Guerra de 1812"
+          ],
+          "traducoes": {
+            "en": [
+              "War of 1812"
+            ],
+            "es": [
+              "Guerra anglo-estadounidense de 1812"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "guerra-mexicano-americana",
+          "canonica": "Guerra Mexicano-Americana",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Mexican–American War"
+            ],
+            "es": [
+              "Intervención estadounidense en México"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "guerra-de-inverno",
+          "canonica": "Guerra de Inverno",
+          "aceitas": [
+            "Guerra Russo-Finlandesa"
+          ],
+          "traducoes": {
+            "en": [
+              "Winter War"
+            ],
+            "es": [
+              "Guerra de Invierno"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "guerra-civil-chinesa",
+          "canonica": "Guerra Civil Chinesa",
+          "aceitas": [
+            "Revolução Chinesa"
+          ],
+          "traducoes": {
+            "en": [
+              "Chinese Civil War"
+            ],
+            "es": [
+              "Guerra civil china"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "revolucao-cubana",
+          "canonica": "Revolução Cubana",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cuban Revolution"
+            ],
+            "es": [
+              "Revolución cubana"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "guerra-israel-hamas",
+          "canonica": "Guerra Israel-Hamas",
+          "aceitas": [
+            "Guerra de Gaza",
+            "Guerra em Gaza"
+          ],
+          "traducoes": {
+            "en": [
+              "Gaza war"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "guerra-da-chechenia",
+          "canonica": "Guerra da Chechênia",
+          "aceitas": [
+            "Guerras da Chechênia",
+            "Guerra da Tchetchênia"
+          ],
+          "traducoes": {
+            "en": [
+              "Chechen wars"
+            ],
+            "es": [
+              "Guerras chechenas"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "guerra-civil-de-ruanda",
+          "canonica": "Guerra Civil de Ruanda",
+          "aceitas": [
+            "Guerra Civil Ruandesa"
+          ],
+          "traducoes": {
+            "en": [
+              "Rwandan Civil War"
+            ],
+            "es": [
+              "Guerra civil ruandesa"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "guerra-civil-angolana",
+          "canonica": "Guerra Civil Angolana",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Angolan Civil War"
+            ],
+            "es": [
+              "Guerra civil angoleña"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "guerra-civil-mocambicana",
+          "canonica": "Guerra Civil Moçambicana",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Mozambican Civil War"
+            ],
+            "es": [
+              "Guerra civil mozambiqueña"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "guerra-de-biafra",
+          "canonica": "Guerra de Biafra",
+          "aceitas": [
+            "Guerra Civil Nigeriana"
+          ],
+          "traducoes": {
+            "en": [
+              "Nigerian Civil War"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "guerra-arabe-israelense-de-1948",
+          "canonica": "Guerra Árabe-Israelense de 1948",
+          "aceitas": [
+            "Guerra da Independência de Israel"
+          ],
+          "traducoes": {
+            "en": [
+              "1948 Arab–Israeli War"
+            ],
+            "es": [
+              "Guerra árabe-israelí de 1948"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "crise-de-suez",
+          "canonica": "Crise de Suez",
+          "aceitas": [
+            "Guerra de Suez"
+          ],
+          "traducoes": {
+            "en": [
+              "Suez Crisis"
+            ],
+            "es": [
+              "Crisis de Suez"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "guerras-iugoslavas",
+          "canonica": "Guerras Iugoslavas",
+          "aceitas": [
+            "Guerras da Iugoslávia"
+          ],
+          "traducoes": {
+            "en": [
+              "Yugoslav Wars"
+            ],
+            "es": [
+              "Guerras yugoslavas"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "guerra-de-nagorno-karabakh",
+          "canonica": "Guerra de Nagorno-Karabakh",
+          "aceitas": [
+            "Guerra do Alto Carabaque"
+          ],
+          "traducoes": {
+            "en": [
+              "Nagorno-Karabakh war"
+            ],
+            "es": [
+              "Guerra del Alto Karabaj"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "guerra-russo-georgiana",
+          "canonica": "Guerra Russo-Georgiana",
+          "aceitas": [
+            "Guerra da Geórgia"
+          ],
+          "traducoes": {
+            "en": [
+              "Russo-Georgian War"
+            ],
+            "es": [
+              "Guerra de Osetia del Sur"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "revolucao-haitiana",
+          "canonica": "Revolução Haitiana",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Haitian Revolution"
+            ],
+            "es": [
+              "Revolución haitiana"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "reconquista",
+          "canonica": "Reconquista",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "guerra-da-sucessao-espanhola",
+          "canonica": "Guerra da Sucessão Espanhola",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "War of the Spanish Succession"
+            ],
+            "es": [
+              "Guerra de sucesión española"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "guerra-da-sucessao-austriaca",
+          "canonica": "Guerra da Sucessão Austríaca",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "War of the Austrian Succession"
+            ],
+            "es": [
+              "Guerra de sucesión austríaca"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "guerra-austro-prussiana",
+          "canonica": "Guerra Austro-Prussiana",
+          "aceitas": [
+            "Guerra das Sete Semanas"
+          ],
+          "traducoes": {
+            "en": [
+              "Austro-Prussian War"
+            ],
+            "es": [
+              "Guerra austro-prusiana"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "guerra-do-futebol",
+          "canonica": "Guerra do Futebol",
+          "aceitas": [
+            "Guerra das Cem Horas"
+          ],
+          "traducoes": {
+            "en": [
+              "Football War"
+            ],
+            "es": [
+              "Guerra del Fútbol"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "guerra-civil-do-iemen",
+          "canonica": "Guerra Civil do Iêmen",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Yemeni Civil War"
+            ],
+            "es": [
+              "Guerra civil yemení"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "guerra-civil-libia",
+          "canonica": "Guerra Civil Líbia",
+          "aceitas": [
+            "Guerra da Líbia"
+          ],
+          "traducoes": {
+            "en": [
+              "Libyan Civil War"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "guerra-ao-terror",
+          "canonica": "Guerra ao Terror",
+          "aceitas": [
+            "Guerra contra o terrorismo"
+          ],
+          "traducoes": {
+            "en": [
+              "War on terror"
+            ],
+            "es": [
+              "Guerra contra el terrorismo"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "guerra-italo-etiope",
+          "canonica": "Guerra Ítalo-Etíope",
+          "aceitas": [
+            "Guerra da Etiópia"
+          ],
+          "traducoes": {
+            "en": [
+              "Second Italo-Ethiopian War"
+            ],
+            "es": [
+              "Segunda guerra ítalo-etíope"
+            ]
+          },
+          "raridadeInicial": "lendario"
         }
       ]
     },
@@ -1593,7 +2965,8 @@
           "canonica": "Egípcios",
           "aceitas": [
             "Egito Antigo",
-            "Antigo Egito"
+            "Antigo Egito",
+            "Egito"
           ],
           "traducoes": {
             "en": [
@@ -1607,7 +2980,8 @@
           "canonica": "Romanos",
           "aceitas": [
             "Roma Antiga",
-            "Império Romano"
+            "Império Romano",
+            "Roma"
           ],
           "traducoes": {
             "en": [
@@ -1620,7 +2994,9 @@
           "id": "gregos",
           "canonica": "Gregos",
           "aceitas": [
-            "Grécia Antiga"
+            "Grécia Antiga",
+            "Grécia",
+            "Helenos"
           ],
           "traducoes": {
             "en": [
@@ -1654,7 +3030,8 @@
           "canonica": "Astecas",
           "aceitas": [
             "Asteca",
-            "Mexicas"
+            "Mexicas",
+            "Azteca"
           ],
           "traducoes": {
             "en": [
@@ -1679,7 +3056,8 @@
           "id": "persas",
           "canonica": "Persas",
           "aceitas": [
-            "Império Persa"
+            "Império Persa",
+            "Pérsia"
           ],
           "traducoes": {
             "en": [
@@ -1691,7 +3069,9 @@
         {
           "id": "fenicios",
           "canonica": "Fenícios",
-          "aceitas": [],
+          "aceitas": [
+            "Fenícia"
+          ],
           "traducoes": {
             "en": [
               "Phoenicians"
@@ -1715,7 +3095,9 @@
         {
           "id": "sumerios",
           "canonica": "Sumérios",
-          "aceitas": [],
+          "aceitas": [
+            "Suméria"
+          ],
           "traducoes": {
             "en": [
               "Sumerians"
@@ -1756,7 +3138,8 @@
           "id": "chineses-antigos",
           "canonica": "Chineses antigos",
           "aceitas": [
-            "China Antiga"
+            "China Antiga",
+            "Chineses"
           ],
           "traducoes": {
             "en": [
@@ -1779,7 +3162,9 @@
         {
           "id": "assirios",
           "canonica": "Assírios",
-          "aceitas": [],
+          "aceitas": [
+            "Assíria"
+          ],
           "traducoes": {
             "en": [
               "Assyrians"
@@ -1801,18 +3186,20 @@
               "Carthaginians"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "etruscos",
           "canonica": "Etruscos",
-          "aceitas": [],
+          "aceitas": [
+            "Etrúria"
+          ],
           "traducoes": {
             "en": [
               "Etruscans"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "hititas",
@@ -1823,7 +3210,7 @@
               "Hittites"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "olmecas",
@@ -1834,7 +3221,7 @@
               "Olmecs"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "espartanos",
@@ -1860,7 +3247,7 @@
               "Macedonians"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "acadios",
@@ -1880,7 +3267,10 @@
           "canonica": "Civilização do Vale do Indo",
           "aceitas": [
             "Harappa",
-            "Harappianos"
+            "Harappianos",
+            "Vale do Indo",
+            "Civilização Indiana",
+            "Índia Antiga"
           ],
           "traducoes": {
             "en": [
@@ -1893,7 +3283,10 @@
           "id": "minoicos",
           "canonica": "Minoicos",
           "aceitas": [
-            "Civilização minoica"
+            "Civilização minoica",
+            "Cretenses",
+            "Creta Minoica",
+            "Minoica"
           ],
           "traducoes": {
             "en": [
@@ -1905,7 +3298,10 @@
         {
           "id": "micenicos",
           "canonica": "Micênicos",
-          "aceitas": [],
+          "aceitas": [
+            "Micenas",
+            "Civilização Micênica"
+          ],
           "traducoes": {
             "en": [
               "Mycenaeans"
@@ -1929,7 +3325,8 @@
           "canonica": "Núbios",
           "aceitas": [
             "Cuxitas",
-            "Reino de Cuxe"
+            "Reino de Cuxe",
+            "Núbia"
           ],
           "traducoes": {
             "en": [
@@ -1943,7 +3340,8 @@
           "id": "axumitas",
           "canonica": "Axumitas",
           "aceitas": [
-            "Reino de Axum"
+            "Reino de Axum",
+            "Axum"
           ],
           "traducoes": {
             "en": [
@@ -1961,7 +3359,7 @@
               "Parthians"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "citas",
@@ -1975,7 +3373,7 @@
               "Escitas"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "hunos",
@@ -1986,7 +3384,7 @@
               "Huns"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "godos",
@@ -2000,7 +3398,7 @@
               "Goths"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "hicsos",
@@ -2066,7 +3464,7 @@
               "Zapotecs"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "toltecas",
@@ -2077,7 +3475,7 @@
               "Toltecs"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "teotihuacanos",
@@ -2086,7 +3484,7 @@
             "Teotihuacan"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "moches",
@@ -2095,7 +3493,7 @@
             "Mochicas"
           ],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "nazcas",
@@ -2104,14 +3502,14 @@
             "Nazca"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "chavin",
           "canonica": "Chavín",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "tiwanaku",
@@ -2120,7 +3518,7 @@
             "Tiahuanaco"
           ],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "marajoaras",
@@ -2129,14 +3527,14 @@
             "Cultura Marajoara"
           ],
           "traducoes": {},
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "sambaquieiros",
           "canonica": "Sambaquieiros",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "epico"
         },
         {
           "id": "filisteus",
@@ -2150,7 +3548,7 @@
               "Filisteos"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "troianos",
@@ -2166,7 +3564,7 @@
               "Troyanos"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "gauleses",
@@ -2180,7 +3578,7 @@
               "Galos"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "bretoes",
@@ -2191,7 +3589,7 @@
               "Britons"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "germanicos",
@@ -2204,7 +3602,7 @@
               "Germanic peoples"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "iberos",
@@ -2215,7 +3613,7 @@
               "Iberians"
             ]
           },
-          "raridadeInicial": "raro"
+          "raridadeInicial": "incomum"
         },
         {
           "id": "lusitanos",
@@ -2226,7 +3624,580 @@
               "Lusitanians"
             ]
           },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "caral",
+          "canonica": "Caral",
+          "aceitas": [
+            "Civilização Caral",
+            "Caral-Supe",
+            "Norte Chico"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "chachapoyas",
+          "canonica": "Chachapoyas",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Chachapoya"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "aruaques",
+          "canonica": "Aruaques",
+          "aceitas": [
+            "Arawaks"
+          ],
+          "traducoes": {
+            "en": [
+              "Arawak"
+            ],
+            "es": [
+              "Arahuacos"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "celtiberos",
+          "canonica": "Celtiberos",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Celtiberians"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tartessos",
+          "canonica": "Tartessos",
+          "aceitas": [
+            "Tartéssios"
+          ],
+          "traducoes": {
+            "es": [
+              "Tartesos"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "lombardos",
+          "canonica": "Lombardos",
+          "aceitas": [
+            "Longobardos"
+          ],
+          "traducoes": {
+            "en": [
+              "Lombards"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "alanos",
+          "canonica": "Alanos",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Alans"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "burgundios",
+          "canonica": "Burgúndios",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Burgundians"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cimerios",
+          "canonica": "Cimérios",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Cimmerians"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "tebanos",
+          "canonica": "Tebanos",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Thebans"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "arameus",
+          "canonica": "Arameus",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Arameans"
+            ],
+            "es": [
+              "Arameos"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cananeus",
+          "canonica": "Cananeus",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Canaanites"
+            ],
+            "es": [
+              "Cananeos"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "caldeus",
+          "canonica": "Caldeus",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Chaldeans"
+            ],
+            "es": [
+              "Caldeos"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "frigios",
+          "canonica": "Frígios",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Phrygians"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "aqueus",
+          "canonica": "Aqueus",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Achaeans"
+            ],
+            "es": [
+              "Aqueos"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "atenienses",
+          "canonica": "Atenienses",
+          "aceitas": [
+            "Atenas"
+          ],
+          "traducoes": {
+            "en": [
+              "Athenians"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "tracios",
+          "canonica": "Trácios",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Thracians"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "dacios",
+          "canonica": "Dácios",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Dacians"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "ilirios",
+          "canonica": "Ilírios",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Illyrians"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "sabinos",
+          "canonica": "Sabinos",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Sabines"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "latinos",
+          "canonica": "Latinos",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Latins"
+            ]
+          },
           "raridadeInicial": "raro"
+        },
+        {
+          "id": "samnitas",
+          "canonica": "Samnitas",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Samnites"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "pictos",
+          "canonica": "Pictos",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Picts"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "sarmatas",
+          "canonica": "Sármatas",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Sarmatians"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "vandalos",
+          "canonica": "Vândalos",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Vandals"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "francos",
+          "canonica": "Francos",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Franks"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "saxoes",
+          "canonica": "Saxões",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Saxons"
+            ],
+            "es": [
+              "Sajones"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "suevos",
+          "canonica": "Suevos",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Suebi"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "berberes",
+          "canonica": "Berberes",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Berbers"
+            ],
+            "es": [
+              "Bereberes"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "numidas",
+          "canonica": "Númidas",
+          "aceitas": [
+            "Numídia"
+          ],
+          "traducoes": {
+            "en": [
+              "Numidians"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "garamantes",
+          "canonica": "Garamantes",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "sassanidas",
+          "canonica": "Sassânidas",
+          "aceitas": [
+            "Império Sassânida"
+          ],
+          "traducoes": {
+            "en": [
+              "Sasanians"
+            ],
+            "es": [
+              "Sasánidas"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "mixtecas",
+          "canonica": "Mixtecas",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Mixtecs"
+            ],
+            "es": [
+              "Mixtecos"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "chimus",
+          "canonica": "Chimus",
+          "aceitas": [
+            "Cultura Chimú"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "paracas",
+          "canonica": "Paracas",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "muiscas",
+          "canonica": "Muíscas",
+          "aceitas": [
+            "Chibchas"
+          ],
+          "traducoes": {
+            "en": [
+              "Muisca"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "tainos",
+          "canonica": "Taínos",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Taíno"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "anasazi",
+          "canonica": "Anasazi",
+          "aceitas": [
+            "Pueblos ancestrais"
+          ],
+          "traducoes": {
+            "en": [
+              "Ancestral Puebloans"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "tupis",
+          "canonica": "Tupis",
+          "aceitas": [
+            "Tupi",
+            "Tupis-guaranis"
+          ],
+          "traducoes": {
+            "es": [
+              "Tupíes"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "guaranis",
+          "canonica": "Guaranis",
+          "aceitas": [],
+          "traducoes": {
+            "es": [
+              "Guaraníes"
+            ]
+          },
+          "raridadeInicial": "comum"
+        },
+        {
+          "id": "tupinambas",
+          "canonica": "Tupinambás",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "cultura-tapajonica",
+          "canonica": "Cultura Tapajônica",
+          "aceitas": [
+            "Tapajós",
+            "Tapajônicos"
+          ],
+          "traducoes": {
+            "en": [
+              "Santarém culture"
+            ],
+            "es": [
+              "Cultura santarém"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "caribes",
+          "canonica": "Caribes",
+          "aceitas": [
+            "Caraíbas"
+          ],
+          "traducoes": {
+            "en": [
+              "Caribs"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "huari",
+          "canonica": "Huari",
+          "aceitas": [
+            "Wari"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "purepechas",
+          "canonica": "Purépechas",
+          "aceitas": [
+            "Tarascos"
+          ],
+          "traducoes": {
+            "en": [
+              "Purépecha"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "totonacas",
+          "canonica": "Totonacas",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Totonac"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "imperio-mauria",
+          "canonica": "Império Máuria",
+          "aceitas": [
+            "Máurias",
+            "Império Maurya"
+          ],
+          "traducoes": {
+            "en": [
+              "Maurya Empire"
+            ]
+          },
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "cultura-nok",
+          "canonica": "Cultura Nok",
+          "aceitas": [
+            "Nok"
+          ],
+          "traducoes": {
+            "en": [
+              "Nok culture"
+            ]
+          },
+          "raridadeInicial": "lendario"
         }
       ]
     },
@@ -2239,7 +4210,7 @@
         "antiguidade"
       ],
       "fonte": "https://pt.wikipedia.org/wiki/Lista_de_fara%C3%B3s",
-      "nota": "Números importam: Ramsés II e Tutmés III são as formas aceitas para as linhagens mais famosas.",
+      "nota": "Faraós de mesmo nome contam como uma resposta só; vale digitar com ou sem o número. Valem também as dinastias estrangeiras.",
       "respostas": [
         {
           "id": "tutancamon",
@@ -2259,14 +4230,56 @@
           "raridadeInicial": "comum"
         },
         {
-          "id": "ramses-ii",
-          "canonica": "Ramsés II",
+          "id": "ramses",
+          "canonica": "Ramsés",
           "aceitas": [
-            "Ramsés",
-            "Ramsés, o Grande"
+            "Ramsés II",
+            "Ramsés, o Grande",
+            "Ramsés III",
+            "Ramessés III",
+            "Ramsés I",
+            "Ramessés I",
+            "Ramsés IV",
+            "Ramessés IV",
+            "Ramsés V",
+            "Ramessés V",
+            "Ramsés VI",
+            "Ramessés VI",
+            "Ramsés VII",
+            "Ramessés VII",
+            "Ramsés VIII",
+            "Ramessés VIII",
+            "Ramsés IX",
+            "Ramessés IX",
+            "Ramsés X",
+            "Ramessés X",
+            "Ramsés XI",
+            "Ramessés XI",
+            "Ramsés 2",
+            "Ramsés 3",
+            "Ramessés 3",
+            "Ramsés 1",
+            "Ramessés 1",
+            "Ramsés 4",
+            "Ramessés 4",
+            "Ramsés 5",
+            "Ramessés 5",
+            "Ramsés 6",
+            "Ramessés 6",
+            "Ramsés 7",
+            "Ramessés 7",
+            "Ramsés 8",
+            "Ramessés 8",
+            "Ramsés 9",
+            "Ramessés 9",
+            "Ramsés 10",
+            "Ramessés 10",
+            "Ramsés 11",
+            "Ramessés 11"
           ],
           "traducoes": {
             "en": [
+              "Ramesses",
               "Ramesses II"
             ]
           },
@@ -2276,7 +4289,8 @@
           "id": "cleopatra-vii",
           "canonica": "Cleópatra VII",
           "aceitas": [
-            "Cleópatra"
+            "Cleópatra",
+            "Cleópatra 7"
           ],
           "traducoes": {
             "en": [
@@ -2309,7 +4323,8 @@
           "id": "quefren",
           "canonica": "Quéfren",
           "aceitas": [
-            "Khafre"
+            "Khafre",
+            "Chefren"
           ],
           "traducoes": {
             "en": [
@@ -2326,7 +4341,9 @@
           "id": "miquerinos",
           "canonica": "Miquerinos",
           "aceitas": [
-            "Menkaure"
+            "Menkaure",
+            "Mikerinos",
+            "Micerinos"
           ],
           "traducoes": {
             "en": [
@@ -2344,7 +4361,10 @@
           "canonica": "Akhenaton",
           "aceitas": [
             "Amenófis IV",
-            "Aquenáton"
+            "Amenhotep IV",
+            "Aquenáton",
+            "Amenófis 4",
+            "Amenhotep 4"
           ],
           "traducoes": {
             "en": [
@@ -2373,49 +4393,88 @@
           "raridadeInicial": "comum"
         },
         {
-          "id": "tutmes-iii",
-          "canonica": "Tutmés III",
+          "id": "tutmes",
+          "canonica": "Tutmés",
           "aceitas": [
-            "Tutmósis III"
+            "Tutmés III",
+            "Tutmósis III",
+            "Tutmés I",
+            "Tutmósis I",
+            "Tutemés I",
+            "Tutmés II",
+            "Tutmósis II",
+            "Tutemés II",
+            "Tutmés IV",
+            "Tutmósis IV",
+            "Tutemés IV",
+            "Tutmés 3",
+            "Tutmósis 3",
+            "Tutmés 1",
+            "Tutmósis 1",
+            "Tutemés 1",
+            "Tutmés 2",
+            "Tutmósis 2",
+            "Tutemés 2",
+            "Tutmés 4",
+            "Tutmósis 4",
+            "Tutemés 4"
           ],
           "traducoes": {
             "en": [
-              "Thutmose III"
+              "Thutmose",
+              "Thutmose III",
+              "Thutmose I",
+              "Thutmose II",
+              "Thutmose IV"
             ],
             "es": [
-              "Tutmosis III"
+              "Tutmosis"
             ]
           },
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
-          "id": "amenofis-iii",
-          "canonica": "Amenófis III",
+          "id": "amenofis",
+          "canonica": "Amenófis",
           "aceitas": [
-            "Amenhotep III"
+            "Amenófis III",
+            "Amenhotep III",
+            "Amenófis I",
+            "Amenhotep I",
+            "Amenófis II",
+            "Amenhotep II",
+            "Amenófis 3",
+            "Amenhotep 3",
+            "Amenófis 1",
+            "Amenhotep 1",
+            "Amenófis 2",
+            "Amenhotep 2"
           ],
           "traducoes": {
             "en": [
-              "Amenhotep III"
+              "Amenhotep"
             ]
           },
           "raridadeInicial": "incomum"
         },
         {
-          "id": "seti-i",
-          "canonica": "Seti I",
+          "id": "seti",
+          "canonica": "Seti",
           "aceitas": [
-            "Seti"
+            "Seti I",
+            "Seti II",
+            "Seti 1",
+            "Seti 2"
           ],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "narmer",
           "canonica": "Narmer",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "incomum"
+          "raridadeInicial": "comum"
         },
         {
           "id": "snefru",
@@ -2431,41 +4490,78 @@
           "raridadeInicial": "incomum"
         },
         {
-          "id": "pepi-ii",
-          "canonica": "Pepi II",
-          "aceitas": [],
-          "traducoes": {},
-          "raridadeInicial": "raro"
-        },
-        {
-          "id": "mentuhotep-ii",
-          "canonica": "Mentuhotep II",
-          "aceitas": [],
-          "traducoes": {},
-          "raridadeInicial": "raro"
-        },
-        {
-          "id": "amenemes-i",
-          "canonica": "Amenemés I",
+          "id": "pepi",
+          "canonica": "Pepi",
           "aceitas": [
-            "Amenemhat I"
+            "Pepi II",
+            "Pepi I",
+            "Pepi 2",
+            "Pepi 1"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "mentuhotep",
+          "canonica": "Mentuhotep",
+          "aceitas": [
+            "Mentuhotep I",
+            "Mentuhotep II",
+            "Mentuhotep III",
+            "Mentuhotep IV",
+            "Mentuhotep 1",
+            "Mentuhotep 2",
+            "Mentuhotep 3",
+            "Mentuhotep 4"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "amenemes",
+          "canonica": "Amenemés",
+          "aceitas": [
+            "Amenemés I",
+            "Amenemhat I",
+            "Amenemés III",
+            "Amenemhat III",
+            "Amenemés II",
+            "Amenemés IV",
+            "Amenemés 1",
+            "Amenemhat 1",
+            "Amenemés 3",
+            "Amenemhat 3",
+            "Amenemés 2",
+            "Amenemés 4"
           ],
           "traducoes": {
             "en": [
-              "Amenemhat I"
+              "Amenemhat",
+              "Amenemhat II",
+              "Amenemhat IV"
             ]
           },
           "raridadeInicial": "raro"
         },
         {
-          "id": "sesostris-iii",
-          "canonica": "Sesóstris III",
+          "id": "sesostris",
+          "canonica": "Sesóstris",
           "aceitas": [
-            "Senusret III"
+            "Sesóstris III",
+            "Senusret III",
+            "Sesóstris I",
+            "Senusret I",
+            "Sesóstris II",
+            "Sesóstris 3",
+            "Senusret 3",
+            "Sesóstris 1",
+            "Senusret 1",
+            "Sesóstris 2"
           ],
           "traducoes": {
             "en": [
-              "Senusret III"
+              "Senusret",
+              "Senusret II"
             ]
           },
           "raridadeInicial": "raro"
@@ -2474,7 +4570,10 @@
           "id": "amosis-i",
           "canonica": "Amósis I",
           "aceitas": [
-            "Ahmose I"
+            "Amósis",
+            "Ahmose I",
+            "Amósis 1",
+            "Ahmose 1"
           ],
           "traducoes": {
             "en": [
@@ -2511,46 +4610,139 @@
           "raridadeInicial": "incomum"
         },
         {
-          "id": "psametico-i",
-          "canonica": "Psamético I",
-          "aceitas": [],
+          "id": "psametico",
+          "canonica": "Psamético",
+          "aceitas": [
+            "Psamético I",
+            "Psamético II",
+            "Psamético III",
+            "Psamético 1",
+            "Psamético 2",
+            "Psamético 3"
+          ],
           "traducoes": {
             "en": [
-              "Psamtik I"
+              "Psamtik",
+              "Psamtik I",
+              "Psamtik II",
+              "Psamtik III"
             ]
           },
           "raridadeInicial": "raro"
         },
         {
-          "id": "necao-ii",
-          "canonica": "Necao II",
-          "aceitas": [],
+          "id": "necao",
+          "canonica": "Necao",
+          "aceitas": [
+            "Necao I",
+            "Necao II",
+            "Necao 1",
+            "Necao 2"
+          ],
           "traducoes": {
             "en": [
+              "Necho",
+              "Necho I",
               "Necho II"
             ]
           },
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "taharqa",
           "canonica": "Taharqa",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
-          "id": "ptolomeu-i-soter",
-          "canonica": "Ptolomeu I Sóter",
+          "id": "ptolomeu",
+          "canonica": "Ptolomeu",
           "aceitas": [
-            "Ptolomeu I"
+            "Ptolomeu I Sóter",
+            "Ptolomeu I",
+            "Ptolomeu II",
+            "Ptolomeu II Filadelfo",
+            "Ptolemeu II",
+            "Ptolomeu XIII",
+            "Ptolomeu III",
+            "Ptolomeu III Evérgeta",
+            "Ptolemeu III",
+            "Ptolomeu IV",
+            "Ptolomeu IV Filopátor",
+            "Ptolemeu IV",
+            "Ptolomeu V",
+            "Ptolomeu V Epifânio",
+            "Ptolemeu V",
+            "Ptolomeu VI",
+            "Ptolomeu VI Filométor",
+            "Ptolemeu VI",
+            "Ptolomeu VIII",
+            "Ptolomeu VIII Fiscão",
+            "Ptolemeu VIII",
+            "Ptolomeu IX",
+            "Ptolomeu IX Látiro",
+            "Ptolemeu IX",
+            "Ptolomeu XII",
+            "Ptolomeu XII Auleta",
+            "Ptolemeu XII",
+            "Ptolomeu XIV",
+            "Ptolemeu XIV",
+            "Ptolomeu VII",
+            "Ptolomeu X",
+            "Ptolomeu XI",
+            "Ptolomeu 1",
+            "Ptolomeu 2",
+            "Ptolemeu 2",
+            "Ptolomeu 13",
+            "Ptolomeu 3",
+            "Ptolemeu 3",
+            "Ptolomeu 4",
+            "Ptolemeu 4",
+            "Ptolomeu 5",
+            "Ptolemeu 5",
+            "Ptolomeu 6",
+            "Ptolemeu 6",
+            "Ptolomeu 8",
+            "Ptolemeu 8",
+            "Ptolomeu 9",
+            "Ptolemeu 9",
+            "Ptolomeu 12",
+            "Ptolemeu 12",
+            "Ptolomeu 14",
+            "Ptolemeu 14",
+            "Ptolomeu 7",
+            "Ptolomeu 10",
+            "Ptolomeu 11"
           ],
           "traducoes": {
             "en": [
-              "Ptolemy I Soter"
+              "Ptolemy",
+              "Ptolemy I Soter",
+              "Ptolemy II Philadelphus",
+              "Ptolemy XIII",
+              "Ptolemy III",
+              "Ptolemy IV",
+              "Ptolemy V",
+              "Ptolemy VI",
+              "Ptolemy VIII",
+              "Ptolemy IX",
+              "Ptolemy XII",
+              "Ptolemy XIV"
             ],
             "es": [
-              "Ptolomeo I"
+              "Ptolomeo",
+              "Ptolomeo I",
+              "Ptolomeo II",
+              "Ptolomeo XIII",
+              "Ptolomeo III",
+              "Ptolomeo IV",
+              "Ptolomeo V",
+              "Ptolomeo VI",
+              "Ptolomeo VIII",
+              "Ptolomeo IX",
+              "Ptolomeo XII",
+              "Ptolomeo XIV"
             ]
           },
           "raridadeInicial": "incomum"
@@ -2560,26 +4752,495 @@
           "canonica": "Smenkhkare",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "sobekneferu",
           "canonica": "Sobekneferu",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "epico"
+          "raridadeInicial": "raro"
         },
         {
           "id": "hor-aha",
           "canonica": "Hor-Aha",
           "aceitas": [],
           "traducoes": {},
-          "raridadeInicial": "lendario"
+          "raridadeInicial": "raro"
         },
         {
           "id": "khasekhemui",
           "canonica": "Khasekhemui",
           "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "cesariao",
+          "canonica": "Cesarião",
+          "aceitas": [
+            "Ptolomeu XV",
+            "Ptolomeu 15"
+          ],
+          "traducoes": {
+            "en": [
+              "Caesarion"
+            ],
+            "es": [
+              "Cesarión"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "unas",
+          "canonica": "Unas",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "teti",
+          "canonica": "Teti",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "userkaf",
+          "canonica": "Userkaf",
+          "aceitas": [
+            "Userquerés"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "sahure",
+          "canonica": "Sahure",
+          "aceitas": [
+            "Sefrés"
+          ],
+          "traducoes": {
+            "es": [
+              "Sahura"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "djedefre",
+          "canonica": "Djedefré",
+          "aceitas": [
+            "Radjedef"
+          ],
+          "traducoes": {
+            "es": [
+              "Dyedefra"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "shepseskaf",
+          "canonica": "Shepseskaf",
+          "aceitas": [
+            "Seberquerés"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "djet",
+          "canonica": "Djet",
+          "aceitas": [],
+          "traducoes": {
+            "es": [
+              "Dyet"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "kamose",
+          "canonica": "Kamose",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "seqenenre-tao",
+          "canonica": "Seqenenré Tao",
+          "aceitas": [
+            "Seqenenre"
+          ],
+          "traducoes": {
+            "es": [
+              "Seqenenra Taa"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "nectanebo",
+          "canonica": "Nectanebo",
+          "aceitas": [
+            "Nectanebo II",
+            "Nectanebo I",
+            "Nectanebo 2",
+            "Nectanebo 1"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "amasis-ii",
+          "canonica": "Amásis II",
+          "aceitas": [
+            "Amásis",
+            "Ahmose II",
+            "Amásis 2",
+            "Ahmose 2"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "piye",
+          "canonica": "Piye",
+          "aceitas": [
+            "Piankhi",
+            "Piiê"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "shabaka",
+          "canonica": "Shabaka",
+          "aceitas": [
+            "Xabaca"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "sheshonq",
+          "canonica": "Sheshonq",
+          "aceitas": [
+            "Sheshonq I",
+            "Sisaque",
+            "Sisaque I",
+            "Sheshonq 1",
+            "Sisaque 1"
+          ],
+          "traducoes": {
+            "en": [
+              "Shoshenq",
+              "Shoshenq I"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "alexandre-o-grande",
+          "canonica": "Alexandre, o Grande",
+          "aceitas": [
+            "Alexandre Magno",
+            "Alexandre III da Macedônia"
+          ],
+          "traducoes": {
+            "en": [
+              "Alexander the Great"
+            ],
+            "es": [
+              "Alejandro Magno"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "cambises-ii",
+          "canonica": "Cambises II",
+          "aceitas": [
+            "Cambises",
+            "Cambises 2"
+          ],
+          "traducoes": {
+            "en": [
+              "Cambyses II"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "dario",
+          "canonica": "Dario",
+          "aceitas": [
+            "Dario I",
+            "Dario, o Grande",
+            "Dario II",
+            "Dario III",
+            "Dario 1",
+            "Dario 2",
+            "Dario 3"
+          ],
+          "traducoes": {
+            "en": [
+              "Darius",
+              "Darius I",
+              "Darius II",
+              "Darius III"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "apofis",
+          "canonica": "Apófis",
+          "aceitas": [
+            "Apepi",
+            "Apepi I",
+            "Apepi 1"
+          ],
+          "traducoes": {
+            "en": [
+              "Apophis"
+            ]
+          },
+          "raridadeInicial": "incomum"
+        },
+        {
+          "id": "khyan",
+          "canonica": "Khyan",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "amenmesse",
+          "canonica": "Amenmesse",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "siptah",
+          "canonica": "Siptah",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "tausert",
+          "canonica": "Tausert",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Twosret",
+              "Tausret"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "setnakht",
+          "canonica": "Setnakht",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Setnakhte"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "smendes",
+          "canonica": "Smendes",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "psusennes",
+          "canonica": "Psusennes",
+          "aceitas": [
+            "Psusennes I",
+            "Psusennes II",
+            "Psusennes 1",
+            "Psusennes 2"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "amenemope",
+          "canonica": "Amenemope",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "osorkon",
+          "canonica": "Osorkon",
+          "aceitas": [
+            "Osorkon I",
+            "Osorkon II",
+            "Osorkon III",
+            "Osorkon IV",
+            "Osorkon 1",
+            "Osorkon 2",
+            "Osorkon 3",
+            "Osorkon 4"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "shebitku",
+          "canonica": "Shebitku",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "tanutamani",
+          "canonica": "Tanutamani",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Tantamani"
+            ]
+          },
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "apries",
+          "canonica": "Apriés",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "raro"
+        },
+        {
+          "id": "acoris",
+          "canonica": "Acoris",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Hakor"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "neferirkare-kakai",
+          "canonica": "Neferirkare Kakai",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "nyuserre-ini",
+          "canonica": "Nyuserre Ini",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "djedkare-isesi",
+          "canonica": "Djedkare Isesi",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "menkauhor",
+          "canonica": "Menkauhor",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Menkauhor Kaiu"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "merenre",
+          "canonica": "Merenré",
+          "aceitas": [],
+          "traducoes": {
+            "en": [
+              "Merenre Nemtyemsaf I"
+            ]
+          },
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "sekhemkhet",
+          "canonica": "Sekhemkhet",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "huni",
+          "canonica": "Huni",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "sanakht",
+          "canonica": "Sanakht",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "epico"
+        },
+        {
+          "id": "djer",
+          "canonica": "Djer",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "den",
+          "canonica": "Den",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "hotepsekhemwy",
+          "canonica": "Hotepsekhemwy",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "peribsen",
+          "canonica": "Peribsen",
+          "aceitas": [],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "neferhotep",
+          "canonica": "Neferhotep",
+          "aceitas": [
+            "Neferhotep I",
+            "Neferhotep 1"
+          ],
+          "traducoes": {},
+          "raridadeInicial": "lendario"
+        },
+        {
+          "id": "sobekhotep",
+          "canonica": "Sobekhotep",
+          "aceitas": [
+            "Sobekhotep IV",
+            "Sobekhotep 4"
+          ],
           "traducoes": {},
           "raridadeInicial": "lendario"
         }

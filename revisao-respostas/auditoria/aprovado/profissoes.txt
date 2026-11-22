@@ -1,0 +1,554 @@
+== pro-profissoes    # Cite uma profissão
++ Político | Política | Politician |  | c | https://pt.wikipedia.org/wiki/Pol%C3%ADtico    # generica
++ Artista |  | Artist |  | c | https://www.dicio.com.br/artista/    # generica
++ Churrasqueiro | Churrasqueira | Barbecue cook;Grill master | Parrillero | i | https://www.dicio.com.br/churrasqueiro/    # generica
++ Confeiteiro | Confeiteira | Pastry chef;Confectioner | Confitero;Pastelero | i | https://www.dicio.com.br/confeiteiro/    # generica
++ Pedicure | Pedicura | Pedicurist | Pedicuro | i | https://www.dicio.com.br/pedicure/    # generica
++ Poeta | Poetisa | Poet |  | i | https://www.dicio.com.br/poeta/    # generica
++ Estatístico | Estatística | Statistician | Estadístico | i | https://www.dicio.com.br/estatistico/    # generica
++ Diretor | Diretora | Director |  | i | https://www.dicio.com.br/diretor/    # generica
++ Produtor | Produtora | Producer | Productor | i | https://www.dicio.com.br/produtor/    # generica
++ Editor | Editora |  |  | i | https://www.dicio.com.br/editor/    # generica
++ Instrutor | Instrutora | Instructor |  | i | https://www.dicio.com.br/instrutor/    # generica
++ Cardiologista |  | Cardiologist | Cardiólogo | i | https://www.dicio.com.br/cardiologista/    # generica
++ Dermatologista |  | Dermatologist | Dermatólogo | i | https://www.dicio.com.br/dermatologista/    # generica
++ Ginecologista |  | Gynecologist | Ginecólogo | i | https://www.dicio.com.br/ginecologista/    # generica
++ Oftalmologista |  | Ophthalmologist | Oftalmólogo | i | https://www.dicio.com.br/oftalmologista/    # generica
++ Ortopedista |  | Orthopedist |  | i | https://www.dicio.com.br/ortopedista/    # generica
++ Anestesista | Anestesiologista | Anesthesiologist |  | i | https://www.dicio.com.br/anestesista/    # generica
++ Neurologista |  | Neurologist | Neurólogo | i | https://www.dicio.com.br/neurologista/    # generica
++ Oncologista |  | Oncologist | Oncólogo | i | https://www.dicio.com.br/oncologista/    # generica
++ Urologista |  | Urologist | Urólogo | i | https://www.dicio.com.br/urologista/    # generica
++ Pianista |  | Pianist |  | i | https://www.dicio.com.br/pianista/    # generica
++ Guitarrista |  | Guitarist |  | i | https://www.dicio.com.br/guitarrista/    # generica
++ Baterista |  | Drummer |  | i | https://www.dicio.com.br/baterista/    # generica
++ Violinista |  | Violinist |  | i | https://www.dicio.com.br/violinista/    # generica
++ Tenista |  | Tennis player |  | i | https://www.dicio.com.br/tenista/    # generica
++ Nadador | Nadadora | Swimmer |  | i | https://www.dicio.com.br/nadador/    # generica
++ Ciclista |  | Cyclist |  | i | https://www.dicio.com.br/ciclista/    # generica
++ Jogador de vôlei | Voleibolista | Volleyball player | Jugador de voleibol | i | https://www.dicio.com.br/voleibolista/    # generica
++ Jogador de basquete | Basquetebolista | Basketball player | Jugador de baloncesto | i | https://www.dicio.com.br/basquetebolista/    # generica
++ Florista |  | Florist |  | i | https://www.dicio.com.br/florista/    # generica
++ Analista | Analista de sistemas | Analyst |  | i | https://www.dicio.com.br/analista/    # generica
++ Balconista | Atendente | Counter clerk;Attendant | Dependiente | i | https://www.dicio.com.br/balconista/ https://www.dicio.com.br/atendente/    # generica,listas
++ Massagista |  | Masseur;Masseuse | Masajista | i | https://www.dicio.com.br/massagista/    # generica
++ Esteticista |  | Beautician |  | i | https://www.dicio.com.br/esteticista/    # generica
++ Paisagista |  | Landscape designer | Paisajista | i | https://www.dicio.com.br/paisagista/    # generica
++ Telefonista |  | Telephone operator |  | r | https://www.dicio.com.br/telefonista/    # generica
++ Streamer |  |  |  | i | https://pt.wikipedia.org/wiki/Streamer    # generica
++ Blogueiro | Blogueira;Blogger |  | Bloguero | i | https://www.dicio.com.br/blogueiro/    # generica
++ Auxiliar administrativo | Assistente administrativo | Administrative assistant |  | i | https://www.dicio.com.br/administrativo/    # generica
++ Auxiliar de cozinha | Ajudante de cozinha | Kitchen assistant | Ayudante de cocina | i | https://www.dicio.com.br/cozinha/    # generica
++ Office boy | Contínuo |  |  | r | https://www.dicio.com.br/office-boy/    # generica
++ Rabino |  | Rabbi |  | r | https://www.dicio.com.br/rabino/    # generica
++ Monge | Monja;Freira | Monk;Nun | Monje | r | https://www.dicio.com.br/monge/ https://www.dicio.com.br/freira/    # generica,listas — CORR: tirei Irmã/Religiosa (genéricas)
++ Bispo |  | Bishop | Obispo | r | https://www.dicio.com.br/bispo/    # generica
++ Missionário | Missionária | Missionary | Misionero | r | https://www.dicio.com.br/missionario/    # generica
++ Jurista |  | Jurist |  | r | https://www.dicio.com.br/jurista/    # generica
++ Desembargador | Desembargadora | Appellate judge |  | r | https://pt.wikipedia.org/wiki/Desembargador    # generica
++ Procurador | Procuradora | Attorney |  | r | https://pt.wikipedia.org/wiki/Procurador    # generica
++ Defensor público | Defensora pública | Public defender |  | r | https://pt.wikipedia.org/wiki/Defensoria_p%C3%BAblica    # generica
++ Oficial de justiça |  | Bailiff |  | r | https://pt.wikipedia.org/wiki/Oficial_de_justi%C3%A7a    # generica
++ Pecuarista |  | Rancher | Ganadero | i | https://www.dicio.com.br/pecuarista/    # generica
++ Banqueiro | Banqueira | Banker | Banquero | i | https://www.dicio.com.br/banqueiro/    # generica
++ Parteira | Parteiro | Midwife | Partera | i | https://www.dicio.com.br/parteira/    # generica
++ Lavadeira |  | Laundress | Lavandera | i | https://www.dicio.com.br/lavadeira/    # generica
++ Merendeira |  | School cook |  | i | https://www.dicio.com.br/merendeira/    # generica
++ Pipoqueiro | Pipoqueira | Popcorn vendor |  | i | https://www.dicio.com.br/pipoqueiro/    # generica
++ Sorveteiro | Sorveteira | Ice cream vendor | Heladero | i | https://www.dicio.com.br/sorveteiro/    # generica
++ Peixeiro | Peixeira | Fishmonger | Pescadero | i | https://www.dicio.com.br/peixeiro/    # generica
++ Livreiro | Livreira | Bookseller | Librero | r | https://www.dicio.com.br/livreiro/    # generica
++ Tesoureiro | Tesoureira | Treasurer | Tesorero | r | https://www.dicio.com.br/tesoureiro/    # generica
++ Empilhadeirista | Operador de empilhadeira | Forklift operator | Operador de montacargas | r | https://www.dicio.com.br/empilhadeirista/    # generica
++ Estofador | Estofadora | Upholsterer | Tapicero | r | https://www.dicio.com.br/estofador/    # generica
++ Maqueiro | Maqueira | Stretcher bearer | Camillero | r | https://www.dicio.com.br/maqueiro/    # generica
++ Chapeiro | Chapeira | Short-order cook |  | r | https://www.dicio.com.br/chapeiro/    # generica
++ Panfleteiro | Panfleteira | Flyer distributor |  | r | https://www.dicio.com.br/panfleteiro/    # generica
++ Pamonheiro | Pamonheira |  |  | r | https://www.dicio.com.br/pamonheiro/    # generica
++ Sacoleiro | Sacoleira |  |  | r | https://www.dicio.com.br/sacoleiro/    # generica
++ Luthier |  |  |  | r | https://pt.wikipedia.org/wiki/Luthier    # profunda
++ Amolador | Afiador | Knife grinder | Afilador | r | https://www.dicio.com.br/amolador/    # profunda
++ Legista | Médico legista | Medical examiner | Médico forense | r | https://www.dicio.com.br/legista/    # profunda
++ Síndico | Síndica | Building manager | Administrador de fincas | r | https://www.dicio.com.br/sindico/    # profunda
++ Mediador | Mediadora | Mediator |  | r | https://www.dicio.com.br/mediador/    # profunda
++ Representante comercial |  | Sales representative |  | r | https://www.dicio.com.br/representante/    # profunda
++ Promotor de vendas | Promotora de vendas | Sales promoter |  | r | https://www.dicio.com.br/promotor/    # profunda
++ Corretor de seguros |  | Insurance broker | Corredor de seguros | r | https://www.dicio.com.br/corretor/    # profunda
++ Dramaturgo | Dramaturga | Playwright |  | r | https://www.dicio.com.br/dramaturgo/    # profunda
++ Massoterapeuta |  | Massage therapist | Masoterapeuta | r | https://www.dicio.com.br/massoterapeuta/    # profunda
++ Óptico | Ótico | Optician |  | r | https://www.dicio.com.br/optico/    # profunda
++ Protético | Protético dentário | Dental technician | Protésico dental | r | https://www.dicio.com.br/protetico/    # profunda
++ Sacristão |  | Sacristan |  | r | https://www.dicio.com.br/sacristao/    # profunda
++ Lapidador | Lapidário | Lapidary;Gem cutter |  | r | https://www.dicio.com.br/lapidador/    # profunda
++ Restaurador | Restauradora | Restorer |  | r | https://www.dicio.com.br/restaurador/    # profunda
++ Curador | Curadora | Curator |  | r | https://www.dicio.com.br/curador/    # profunda
++ Cerimonialista |  | Event planner | Maestro de ceremonias | r | https://www.dicio.com.br/cerimonialista/    # profunda
++ Tratador | Tratadora | Animal keeper | Cuidador de animales | r | https://www.dicio.com.br/tratador/    # profunda
++ Tosador | Tosadora | Groomer |  | r | https://www.dicio.com.br/tosador/    # profunda
++ Adestrador | Adestradora | Animal trainer | Adiestrador | r | https://www.dicio.com.br/adestrador/    # profunda
++ Degustador |  | Taster | Catador | r | https://www.dicio.com.br/degustador/    # profunda
++ Timoneiro |  | Helmsman | Timonel | r | https://www.dicio.com.br/timoneiro/    # profunda
++ Bioquímico | Bioquímica | Biochemist |  | r | https://www.dicio.com.br/bioquimico/    # profunda
++ Encadernador |  | Bookbinder | Encuadernador | e | https://www.dicio.com.br/encadernador/    # profunda
++ Tipógrafo |  | Typographer;Typesetter |  | e | https://www.dicio.com.br/tipografo/    # profunda
++ Gravador | Gravadora | Engraver | Grabador | e | https://www.dicio.com.br/gravador/    # profunda
++ Calígrafo | Calígrafa | Calligrapher |  | e | https://www.dicio.com.br/caligrafo/    # profunda
++ Embalsamador |  | Embalmer |  | e | https://www.dicio.com.br/embalsamador/    # profunda
++ Gemólogo | Gemóloga | Gemologist |  | e | https://www.dicio.com.br/gemologo/    # profunda
++ Museólogo | Museóloga | Museologist |  | e | https://www.dicio.com.br/museologo/    # profunda
++ Agrimensor |  | Land surveyor |  | e | https://www.dicio.com.br/agrimensor/    # profunda
++ Ventríloquo | Ventríloqua | Ventriloquist | Ventrílocuo | e | https://www.dicio.com.br/ventriloquo/    # profunda
++ Sonoplasta |  | Sound designer | Sonidista | e | https://www.dicio.com.br/sonoplasta/    # profunda
++ Boticário | Boticária | Apothecary |  | e | https://www.dicio.com.br/boticario/    # profunda
++ Carrasco | Algoz | Executioner | Verdugo | e | https://www.dicio.com.br/carrasco/    # profunda
++ Escriba |  | Scribe |  | e | https://www.dicio.com.br/escriba/    # profunda
++ Ornitólogo | Ornitóloga | Ornithologist |  | e | https://www.dicio.com.br/ornitologo/    # profunda
++ Entomólogo | Entomóloga | Entomologist |  | e | https://www.dicio.com.br/entomologo/    # profunda
++ Ictiólogo | Ictióloga | Ichthyologist |  | e | https://www.dicio.com.br/ictiologo/    # profunda
++ Astrofísico | Astrofísica | Astrophysicist |  | e | https://www.dicio.com.br/astrofisico/    # profunda
++ Caldeireiro |  | Boilermaker | Calderero | e | https://www.dicio.com.br/caldeireiro/    # profunda
++ Tosquiador |  | Sheep shearer | Esquilador | e | https://www.dicio.com.br/tosquiador/    # profunda
++ Ferrador |  | Farrier | Herrador | e | https://www.dicio.com.br/ferrador/    # profunda
++ Piscicultor | Piscicultora | Fish farmer |  | e | https://www.dicio.com.br/piscicultor/    # profunda
++ Avicultor | Avicultora | Poultry farmer |  | e | https://www.dicio.com.br/avicultor/    # profunda
++ Cafeicultor | Cafeicultora | Coffee grower | Cafetero | e | https://www.dicio.com.br/cafeicultor/    # profunda
++ Viticultor | Viticultora | Winegrower |  | e | https://www.dicio.com.br/viticultor/    # profunda
++ Vinicultor | Vinicultora | Winemaker |  | e | https://www.dicio.com.br/vinicultor/    # profunda
++ Enólogo | Enóloga | Oenologist |  | e | https://www.dicio.com.br/enologo/    # profunda
++ Instrumentador cirúrgico |  | Surgical technician | Instrumentista quirúrgico | e | https://www.dicio.com.br/instrumentador/    # profunda
++ Registrador | Oficial de registro | Registrar |  | e | https://www.dicio.com.br/registrador/    # profunda
++ Litógrafo |  | Lithographer |  | l | https://www.dicio.com.br/litografo/    # profunda
++ Tanatopraxista |  | Thanatopractor |  | l | https://www.dicio.com.br/tanatopraxia/    # profunda
++ Mosaicista |  | Mosaic artist | Mosaiquista | l | https://www.dicio.com.br/mosaicista/    # profunda
++ Numismata |  | Numismatist | Numismático | l | https://www.dicio.com.br/numismata/    # profunda
++ Contrarregra |  | Stage manager |  | l | https://www.dicio.com.br/contrarregra/    # profunda
++ Alquimista |  | Alchemist |  | l | https://www.dicio.com.br/alquimista/    # profunda
++ Arauto |  | Herald | Heraldo | l | https://www.dicio.com.br/arauto/    # profunda
++ Herpetólogo | Herpetóloga | Herpetologist |  | l | https://www.dicio.com.br/herpetologo/    # profunda
++ Sismólogo | Sismóloga | Seismologist |  | l | https://www.dicio.com.br/sismologo/    # profunda
++ Vulcanólogo | Vulcanóloga | Volcanologist |  | l | https://www.dicio.com.br/vulcanologo/    # profunda
++ Espeleólogo | Espeleóloga | Speleologist |  | l | https://www.dicio.com.br/espeleologo/    # profunda
++ Egiptólogo | Egiptóloga | Egyptologist |  | l | https://www.dicio.com.br/egiptologo/    # profunda
++ Cosmólogo | Cosmóloga | Cosmologist |  | l | https://www.dicio.com.br/cosmologo/    # profunda
++ Falcoeiro |  | Falconer | Cetrero | l | https://www.dicio.com.br/falcoeiro/    # profunda
++ Amanuense |  | Amanuensis |  | l | https://www.dicio.com.br/amanuense/    # profunda
++ Perfusionista |  | Perfusionist |  | l | https://www.dicio.com.br/perfusionista/    # profunda
++ Gari | Lixeiro;Coletor de lixo;Varredor | Garbage collector;Street sweeper | Barrendero | c | https://pt.wikipedia.org/wiki/Gari    # listas
++ Caminhoneiro | Motorista de caminhão | Truck driver | Camionero | c | https://pt.wikipedia.org/wiki/Camionista    # listas
++ Marceneiro |  | Joiner;Cabinetmaker | Ebanista | c | https://www.dicio.com.br/marceneiro/    # listas
++ Pediatra |  | Pediatrician |  | c | https://www.dicio.com.br/pediatra/    # listas
++ Empresário | Empreendedor | Businessman |  | c | https://pt.wikipedia.org/wiki/Empres%C3%A1rio    # listas
++ Padre | Sacerdote | Priest |  | i | https://www.dicio.com.br/padre/    # listas
++ Pastor | Pastor evangélico |  |  | i | https://pt.wikipedia.org/wiki/Pastor_(ministro_crist%C3%A3o)    # listas
++ Psiquiatra |  | Psychiatrist |  | i | https://www.dicio.com.br/psiquiatra/    # listas
++ Cirurgião |  | Surgeon | Cirujano | i | https://pt.wikipedia.org/wiki/Cirurgi%C3%A3o    # listas
++ Repórter |  |  | Reportero | i | https://pt.wikipedia.org/wiki/Rep%C3%B3rter    # listas
++ Locutor | Radialista;Locutor esportivo;Narrador | Announcer;Broadcaster;Sports commentator | Narrador deportivo | i | https://www.dicio.com.br/locutor/ https://www.dicio.com.br/narrador/    # listas — CORR: unida com Locutor esportivo
++ Humorista | Comediante | Comedian |  | i | https://www.dicio.com.br/humorista/    # listas
++ Gerente |  | Manager |  | i | https://www.dicio.com.br/gerente/    # listas
+~ Policial | Policial militar;PM | https://pt.wikipedia.org/wiki/Pol%C3%ADcia_militar    # listas — CORR: convertida em variante (duplicata de Policial)
++ Metalúrgico |  | Metalworker |  | i | https://www.dicio.com.br/metalurgico/    # listas
++ Operário |  | Worker | Obrero | i | https://www.dicio.com.br/operario/    # listas
++ Soldador |  | Welder |  | i | https://www.dicio.com.br/soldador/    # listas
++ Feirante |  | Market vendor | Feriante | i | https://www.dicio.com.br/feirante/    # listas
++ Camelô | Vendedor ambulante;Ambulante | Street vendor |  | i | https://pt.wikipedia.org/wiki/Vendedor_ambulante    # listas
++ Zelador | Caseiro | Janitor;Caretaker | Conserje;Casero | i | https://www.dicio.com.br/zelador/ https://www.dicio.com.br/caseiro/    # listas
++ Doméstica | Empregada doméstica;Governanta | Housekeeper;Maid | Empleada doméstica;Ama de llaves | i | https://www.dicio.com.br/domestica/ https://www.dicio.com.br/governanta/    # listas
++ Camareira | Camareiro | Chambermaid | Camarera | r | https://www.dicio.com.br/camareira/    # listas
++ Mordomo |  | Butler | Mayordomo | r | https://pt.wikipedia.org/wiki/Mordomo    # listas
++ Salva-vidas | Guarda-vidas | Lifeguard | Salvavidas | i | https://pt.wikipedia.org/wiki/Salva-vidas    # listas — CORR: tirei Paramédico/Paramedic/Socorrista (outra profissão)
++ Estivador |  | Stevedore;Docker | Estibador | r | https://pt.wikipedia.org/wiki/Estivador    # listas
++ Tratorista |  | Tractor driver | Tractorista | r | https://www.dicio.com.br/tratorista/    # listas
++ Pizzaiolo |  | Pizza maker | Pizzero | r | https://www.dicio.com.br/pizzaiolo/    # listas
++ Barman | Bartender |  |  | r | https://www.dicio.com.br/barman/    # listas
++ Tatuador |  | Tattoo artist |  | r | https://www.dicio.com.br/tatuador/    # listas
++ Escultor |  | Sculptor |  | r | https://www.dicio.com.br/escultor/    # listas
++ Ilustrador |  | Illustrator |  | r | https://www.dicio.com.br/ilustrador/    # listas
++ Cineasta | Diretor de cinema | Filmmaker |  | r | https://pt.wikipedia.org/wiki/Diretor_de_cinema    # listas
++ Roteirista |  | Screenwriter | Guionista | r | https://www.dicio.com.br/roteirista/    # listas
++ Compositor |  | Composer |  | r | https://www.dicio.com.br/compositor/    # listas
++ Cinegrafista | Câmera;Cameraman |  | Camarógrafo | r | https://www.dicio.com.br/cinegrafista/    # listas
++ Fonoaudiólogo | Fono | Speech therapist |  | r | https://www.dicio.com.br/fonoaudiologo/    # listas
++ Terapeuta ocupacional |  | Occupational therapist |  | e | https://www.dicio.com.br/terapeuta/    # listas
++ Biomédico |  | Biomedical scientist |  | r | https://www.dicio.com.br/biomedico/    # listas
++ Técnico de enfermagem | Auxiliar de enfermagem | Nursing technician | Técnico de enfermería | r | https://www.dicio.com.br/enfermagem/    # listas
++ Pesquisador | Pesquisadora | Researcher | Investigador | r | https://www.dicio.com.br/pesquisador/    # listas — CORR: tirei Investigador de polícia/Investigator (outra profissão)
++ Astrônomo |  | Astronomer |  | r | https://pt.wikipedia.org/wiki/Astr%C3%B4nomo    # listas
++ Paleontólogo |  | Paleontologist |  | r | https://pt.wikipedia.org/wiki/Paleont%C3%B3logo    # listas
++ Botânico |  | Botanist |  | r | https://pt.wikipedia.org/wiki/Bot%C3%A2nico    # listas
++ Zoólogo |  | Zoologist |  | r | https://www.dicio.com.br/zoologo/    # listas
++ Antropólogo |  | Anthropologist |  | r | https://www.dicio.com.br/antropologo/    # listas
++ Geógrafo |  | Geographer |  | r | https://www.dicio.com.br/geografo/    # listas
+- Engenheiro civil |  | Civil engineer | Ingeniero civil | r | https://www.dicio.com.br/engenheiro/    # REJ: unida ao ~ Engenheiro (Engenheiro civil virou variante)
++ Mestre de obras |  | Foreman | Maestro de obras | r | https://pt.wikipedia.org/wiki/Mestre_de_obras    # listas
++ Servente | Servente de pedreiro | Laborer | Peón | r | https://www.dicio.com.br/servente/    # listas
++ Mergulhador |  | Diver | Buzo | r | https://www.dicio.com.br/mergulhador/    # listas
++ Controlador de voo | Controlador de tráfego aéreo | Air traffic controller | Controlador aéreo | r | https://www.dicio.com.br/controlador/    # listas
++ Jóquei |  | Jockey | Jinete | r | https://pt.wikipedia.org/wiki/J%C3%B3quei    # listas
++ Lutador |  | Fighter | Luchador | r | https://www.dicio.com.br/lutador/    # listas
++ Boxeador | Pugilista | Boxer |  | r | https://www.dicio.com.br/boxeador/    # listas
++ Comerciante |  | Merchant |  | r | https://www.dicio.com.br/comerciante/    # listas
++ Consultor |  | Consultant |  | r | https://www.dicio.com.br/consultor/    # listas
++ Auditor |  |  |  | r | https://www.dicio.com.br/auditor/    # listas
++ Assistente social |  | Social worker | Trabajador social | r | https://www.dicio.com.br/assistente/    # listas
++ Escriturário |  | Clerk | Oficinista | e | https://www.dicio.com.br/escriturario/    # listas
++ Estoquista | Almoxarife | Stock clerk | Almacenista | r | https://www.dicio.com.br/almoxarife/    # listas
++ Repositor |  | Stocker | Reponedor | e | https://www.dicio.com.br/repositor/    # listas
++ Operador de telemarketing | Telemarketing | Telemarketer | Teleoperador | r | https://www.dicio.com.br/telemarketing/    # listas
++ Engraxate |  | Shoeshiner | Limpiabotas | e | https://www.dicio.com.br/engraxate/    # listas
++ Tecelão | Tecelã | Weaver | Tejedor | e | https://www.dicio.com.br/tecelao/    # listas
++ Doula |  |  |  | e | https://www.dicio.com.br/doula/    # listas
++ Podólogo |  | Podiatrist |  | e | https://www.dicio.com.br/podologo/    # listas
++ Cenógrafo |  | Set designer | Escenógrafo | e | https://www.dicio.com.br/cenografo/    # listas
++ Figurinista |  | Costume designer |  | e | https://www.dicio.com.br/figurinista/    # listas
+- Locutor esportivo | Narrador | Sports commentator | Narrador deportivo | e | https://www.dicio.com.br/narrador/    # REJ: unida a Locutor
++ Comentarista |  | Commentator |  | r | https://www.dicio.com.br/comentarista/    # listas
++ Domador |  | Tamer |  | e | https://www.dicio.com.br/domador/    # listas
++ Acrobata |  | Acrobat |  | e | https://www.dicio.com.br/acrobata/    # listas
++ Malabarista |  | Juggler |  | r | https://www.dicio.com.br/malabarista/    # listas
++ Mímico |  | Mime | Mimo | e | https://www.dicio.com.br/mimico/    # listas
++ Agente de trânsito | Guarda de trânsito | Traffic warden |  | r | https://pt.wikipedia.org/wiki/Agente_de_tr%C3%A2nsito    # listas
++ Agente penitenciário | Policial penal | Prison officer | Funcionario de prisiones | e | https://www.dicio.com.br/penitenciario/    # listas
++ Cartorário |  | Notary clerk |  | e | https://www.dicio.com.br/cartorario/    # listas
++ Ferroviário |  | Railway worker |  | e | https://www.dicio.com.br/ferroviario/    # listas
++ Maestro | Regente |  | Director de orquesta | i | https://pt.wikipedia.org/wiki/Maestro    # generica,listas — CORR: separado do ~ Motorista (fusão errada); sem en Conductor (colide com es de Motorista)
++ Cobrador | Cobrador de ônibus | Fare collector |  | i | https://www.dicio.com.br/cobrador/    # generica,listas — CORR: separado do ~ Motorista (fusão errada)
+~ Agricultor | Fazendeiro;Fazendeira;Produtor rural;Camponês | https://www.dicio.com.br/fazendeiro/ https://www.dicio.com.br/campones/    # generica — CORR: tirei Hacendado
+~ Juiz | Magistrado;Magistrada | https://pt.wikipedia.org/wiki/Magistrado    # generica
+~ Motorista | Chofer;Condutor;Motorista de ônibus;Motorista de aplicativo | https://www.dicio.com.br/chofer/    # generica,listas — CORR: tirei Cobrador/Maestro/Regente (fusão errada; viraram respostas próprias)
+~ Marinheiro | Marujo | https://www.dicio.com.br/marujo/    # generica
+~ Professor | Docente;Educador | https://www.dicio.com.br/docente/    # generica
+~ Atleta | Esportista | https://www.dicio.com.br/esportista/    # generica — CORR: tirei Desportista (1 letra)
+~ Dentista | Cirurgião-dentista;Odontólogo | https://pt.wikipedia.org/wiki/Cirurgi%C3%A3o-dentista    # generica
+~ Contador | Contabilista | https://www.dicio.com.br/contabilista/    # generica
+~ Piloto | Aviador | https://www.dicio.com.br/aviador/    # generica
+~ Faxineiro | Auxiliar de limpeza;Servente de limpeza | https://www.dicio.com.br/faxineiro/    # generica
+~ Engenheiro | Engenheiro civil;Engenheiro mecânico;Engenheiro elétrico;Engenheiro de software;Engenheiro químico | https://pt.wikipedia.org/wiki/Engenheiro    # generica,listas — CORR: incluí Engenheiro civil
+~ Pintor | Pintor de paredes;Pintor de obras | https://www.dicio.com.br/pintor/    # generica
+~ Bombeiro | Bombeiro militar | https://pt.wikipedia.org/wiki/Bombeiro    # generica
+~ Músico | Instrumentista | https://www.dicio.com.br/instrumentista/    # generica
+~ Escritor | Autor | https://www.dicio.com.br/autor/    # generica — CORR: tirei Autora (1 letra)
+~ Soldado | Militar | https://www.dicio.com.br/militar/    # listas — CORR: tirei Military
+~ Cozinheiro | Mestre-cuca | https://pt.wikipedia.org/wiki/Mestre-cuca    # listas
+
+== pro-terminadas-ista    # Cite uma profissão terminada em "-ista"
++ Capoeirista |  |  |  | i | https://www.dicio.com.br/capoeirista/    # generica
++ Jurista |  | Jurist |  | r | https://www.dicio.com.br/jurista/    # generica
++ Violista |  | Violist |  | r | https://www.dicio.com.br/violista/    # generica
++ Cavaquinista |  |  |  | r | https://www.dicio.com.br/cavaquinista/    # generica
++ Voleibolista |  | Volleyball player |  | r | https://www.dicio.com.br/voleibolista/    # generica
++ Basquetebolista |  | Basketball player |  | r | https://www.dicio.com.br/basquetebolista/    # generica
++ Handebolista |  | Handball player |  | r | https://www.dicio.com.br/handebolista/    # generica
++ Beisebolista |  | Baseball player |  | r | https://www.dicio.com.br/beisebolista/    # generica
++ Rugbista |  | Rugby player |  | r | https://www.dicio.com.br/rugbista/    # generica
++ Mastologista |  | Mastologist |  | r | https://www.dicio.com.br/mastologista/    # generica
++ Angiologista |  | Angiologist |  | r | https://www.dicio.com.br/angiologista/    # generica
++ Hepatologista |  | Hepatologist |  | r | https://www.dicio.com.br/hepatologista/    # generica
++ Neonatologista |  | Neonatologist |  | r | https://www.dicio.com.br/neonatologista/    # generica
++ Intensivista |  | Intensivist |  | r | https://www.dicio.com.br/intensivista/    # generica
++ Traumatologista |  | Traumatologist |  | r | https://www.dicio.com.br/traumatologista/    # generica
++ Imunologista |  | Immunologist |  | r | https://www.dicio.com.br/imunologista/    # generica
++ Flebologista |  | Phlebologist |  | e | https://www.dicio.com.br/flebologista/    # generica
++ Timpanista |  | Timpanist |  | e | https://www.dicio.com.br/timpanista/    # generica
++ Cornetista |  | Cornetist |  | e | https://www.dicio.com.br/cornetista/    # generica
++ Trompista |  | Horn player |  | e | https://www.dicio.com.br/trompista/    # generica
++ Vibrafonista |  | Vibraphonist |  | e | https://www.dicio.com.br/vibrafonista/    # generica
++ Harmonicista | Gaitista | Harmonica player |  | r | https://www.dicio.com.br/harmonicista/ https://www.dicio.com.br/gaitista/    # generica,listas
++ Gruísta |  | Crane operator |  | e | https://www.dicio.com.br/gruista/    # generica
++ Empilhadeirista |  | Forklift operator |  | e | https://www.dicio.com.br/empilhadeirista/    # generica
++ Orçamentista |  | Estimator |  | e | https://www.dicio.com.br/orcamentista/    # generica
++ Perfumista |  | Perfumer |  | e | https://www.dicio.com.br/perfumista/    # generica
++ Optometrista |  | Optometrist |  | e | https://www.dicio.com.br/optometrista/    # profunda
++ Mineralogista |  | Mineralogist |  | l | https://www.dicio.com.br/mineralogista/    # profunda
++ Climatologista |  | Climatologist | Climatólogo | l | https://www.dicio.com.br/climatologista/    # profunda
++ Pandeirista |  | Tambourine player |  | e | https://www.dicio.com.br/pandeirista/    # profunda
++ Tubista |  | Tuba player |  | l | https://www.dicio.com.br/tubista/    # profunda
++ Cravista |  | Harpsichordist | Clavecinista | l | https://www.dicio.com.br/cravista/    # profunda
++ Sitarista |  | Sitarist |  | l | https://www.dicio.com.br/sitarista/    # profunda
++ Ukulelista |  | Ukulele player | Ukelelista | l | https://www.dicio.com.br/ukulelista/    # profunda
++ Ortopedista |  | Orthopedist |  | i | https://www.dicio.com.br/ortopedista/    # listas — CORR: raridade c→i
++ Tratorista |  | Tractor driver | Tractorista | i | https://www.dicio.com.br/tratorista/    # listas
++ Comentarista |  | Commentator |  | i | https://www.dicio.com.br/comentarista/    # listas
++ Radialista |  | Broadcaster |  | i | https://www.dicio.com.br/radialista/    # listas
++ Sambista |  |  |  | i | https://www.dicio.com.br/sambista/    # listas
++ Motociclista |  | Motorcyclist |  | i | https://www.dicio.com.br/motociclista/    # listas
++ Pecuarista |  | Rancher | Ganadero | i | https://www.dicio.com.br/pecuarista/    # listas
++ Oculista |  | Oculist |  | i | https://www.dicio.com.br/oculista/    # listas
++ Alpinista |  | Mountaineer |  | i | https://www.dicio.com.br/alpinista/    # listas
++ Maratonista |  | Marathoner |  | i | https://www.dicio.com.br/maratonista/    # listas
++ Corista |  | Chorister |  | r | https://www.dicio.com.br/corista/    # listas
++ Conferencista |  | Lecturer |  | r | https://www.dicio.com.br/conferencista/    # listas
++ Articulista |  | Columnist |  | r | https://www.dicio.com.br/articulista/    # listas
++ Passista |  |  |  | r | https://www.dicio.com.br/passista/    # listas
++ Repentista |  |  |  | r | https://www.dicio.com.br/repentista/    # listas
++ Cordelista |  |  |  | r | https://www.dicio.com.br/cordelista/    # listas
++ Velocista |  | Sprinter |  | r | https://www.dicio.com.br/velocista/    # listas
++ Pugilista |  | Boxer |  | r | https://www.dicio.com.br/pugilista/    # listas
++ Esgrimista |  | Fencer |  | r | https://www.dicio.com.br/esgrimista/    # listas
++ Halterofilista |  | Weightlifter | Halterófilo | r | https://www.dicio.com.br/halterofilista/    # listas
++ Automobilista |  | Racing driver | Automovilista | r | https://www.dicio.com.br/automobilista/    # listas
++ Kartista |  | Kart driver |  | r | https://www.dicio.com.br/kartista/    # listas
++ Canoísta |  | Canoeist | Piragüista | r | https://www.dicio.com.br/canoista/    # listas
++ Trombonista |  | Trombonist |  | r | https://www.dicio.com.br/trombonista/    # listas
++ Contrabaixista |  | Double bassist | Contrabajista | r | https://www.dicio.com.br/contrabaixista/    # listas
++ Solista |  | Soloist |  | r | https://www.dicio.com.br/solista/    # listas
++ Letrista |  | Lyricist |  | r | https://www.dicio.com.br/letrista/    # listas
++ Caricaturista |  | Caricaturist |  | r | https://www.dicio.com.br/caricaturista/    # listas
++ Quadrinista |  | Comic artist | Historietista | r | https://www.dicio.com.br/quadrinista/    # listas
++ Muralista |  | Muralist |  | r | https://www.dicio.com.br/muralista/    # listas
++ Geneticista |  | Geneticist | Genetista | r | https://www.dicio.com.br/geneticista/    # listas
++ Virologista |  | Virologist | Virólogo | r | https://www.dicio.com.br/virologista/    # listas
++ Epidemiologista |  | Epidemiologist | Epidemiólogo | r | https://www.dicio.com.br/epidemiologista/    # listas
++ Alergista |  | Allergist |  | r | https://www.dicio.com.br/alergista/    # listas
++ Linguista |  | Linguist |  | r | https://www.dicio.com.br/linguista/    # listas
++ Criminalista |  | Criminal lawyer |  | r | https://www.dicio.com.br/criminalista/    # listas
++ Calculista |  |  |  | r | https://www.dicio.com.br/calculista/    # listas
++ Telegrafista |  | Telegraphist |  | r | https://www.dicio.com.br/telegrafista/    # listas
++ Cambista |  | Money changer |  | r | https://www.dicio.com.br/cambista/    # listas
++ Financista |  | Financier |  | r | https://www.dicio.com.br/financista/    # listas
++ Catequista |  | Catechist |  | r | https://www.dicio.com.br/catequista/    # listas
++ Fotojornalista |  | Photojournalist | Fotoperiodista | r | https://www.dicio.com.br/fotojornalista/    # listas
++ Quiropraxista |  | Chiropractor | Quiropráctico | e | https://www.dicio.com.br/quiropraxista/    # listas
++ Marmorista |  | Marble worker | Marmolista | e | https://www.dicio.com.br/marmorista/    # listas
++ Vitralista |  | Stained glass artist |  | e | https://www.dicio.com.br/vitralista/    # listas
++ Protocolista |  |  |  | e | https://www.dicio.com.br/protocolista/    # listas
++ Entomologista |  | Entomologist | Entomólogo | e | https://www.dicio.com.br/entomologista/    # listas
++ Sanitarista |  | Public health specialist |  | e | https://www.dicio.com.br/sanitarista/    # listas
++ Bandolinista |  | Mandolinist | Mandolinista | e | https://www.dicio.com.br/bandolinista/    # listas
++ Oboísta |  | Oboist |  | e | https://www.dicio.com.br/oboista/    # listas
++ Fagotista |  | Bassoonist |  | e | https://www.dicio.com.br/fagotista/    # listas
++ Latinista |  | Latinist |  | l | https://www.dicio.com.br/latinista/    # listas
++ Helenista |  | Hellenist |  | l | https://www.dicio.com.br/helenista/    # listas
+
+== pro-terminadas-eiro    # Cite uma profissão terminada em "-eiro" ou "-eira"
++ Maqueiro | Maqueira | Stretcher bearer | Camillero | r | https://www.dicio.com.br/maqueiro/    # generica
++ Chapeiro | Chapeira | Short-order cook |  | r | https://www.dicio.com.br/chapeiro/    # generica
++ Panfleteiro | Panfleteira | Flyer distributor |  | r | https://www.dicio.com.br/panfleteiro/    # generica
++ Pamonheiro | Pamonheira |  |  | r | https://www.dicio.com.br/pamonheiro/    # generica
++ Sacoleiro | Sacoleira |  |  | r | https://www.dicio.com.br/sacoleiro/    # generica
++ Tapioqueira | Tapioqueiro |  |  | r | https://www.dicio.com.br/tapioqueira/    # generica
++ Cantineiro | Cantineira | Canteen worker |  | r | https://www.dicio.com.br/cantineiro/    # generica
++ Arqueiro | Arqueira | Archer | Arquero | r | https://www.dicio.com.br/arqueiro/    # generica — CORR: raridade i→r
++ Tanoeiro |  | Cooper | Tonelero | l | https://www.dicio.com.br/tanoeiro/    # profunda
++ Latoeiro |  | Tinsmith | Hojalatero | l | https://www.dicio.com.br/latoeiro/    # profunda
++ Aguadeiro |  | Water carrier | Aguador | l | https://www.dicio.com.br/aguadeiro/    # profunda
++ Vassoureiro | Vassoureira | Broom maker | Escobero | e | https://www.dicio.com.br/vassoureiro/    # profunda
++ Erveiro | Erveira | Herb seller | Yerbatero | e | https://www.dicio.com.br/erveiro/    # profunda
++ Cabineiro |  | Elevator operator |  | l | https://www.dicio.com.br/cabineiro/    # profunda — CORR: tirei es Ascensorista (não termina em -eiro)
++ Gondoleiro |  | Gondolier | Gondolero | l | https://www.dicio.com.br/gondoleiro/    # profunda
++ Cordoeiro | Cordeleiro | Ropemaker | Cordelero | e | https://www.dicio.com.br/cordoeiro/    # profunda
+- Cavalariço |  | Groom | Caballerizo | e | https://www.dicio.com.br/cavalarico/    # REJ: não termina em -eiro/-eira
++ Ferrageiro |  | Hardware dealer | Ferretero | e | https://www.dicio.com.br/ferrageiro/    # profunda
++ Lixeiro | Lixeira | Garbage collector | Basurero | c | https://www.dicio.com.br/lixeiro/    # listas
++ Caseiro | Caseira | Caretaker | Casero | i | https://www.dicio.com.br/caseiro/    # listas
++ Camareira | Camareiro | Chambermaid | Camarera | i | https://www.dicio.com.br/camareira/    # listas
++ Carroceiro | Carreiro | Carter;Oxcart driver | Carretero | r | https://www.dicio.com.br/carroceiro/ https://www.dicio.com.br/carreiro/    # listas
++ Cocheiro |  | Coachman | Cochero | r | https://www.dicio.com.br/cocheiro/    # listas
++ Carreteiro |  | Trucker | Camionero | r | https://www.dicio.com.br/carreteiro/    # listas
++ Freteiro |  |  | Fletero | r | https://www.dicio.com.br/freteiro/    # listas
++ Caixeiro | Caixeiro-viajante | Clerk;Traveling salesman | Cajero | r | https://www.dicio.com.br/caixeiro/    # listas
++ Baleiro |  | Candy seller |  | r | https://www.dicio.com.br/baleiro/    # listas
++ Fruteiro |  | Fruit seller | Frutero | r | https://www.dicio.com.br/fruteiro/    # listas
++ Moveleiro |  | Furniture maker | Mueblero | r | https://www.dicio.com.br/moveleiro/    # listas
++ Vidreiro |  | Glassmaker | Vidriero | r | https://www.dicio.com.br/vidreiro/    # listas
++ Poceiro |  | Well digger | Pocero | e | https://www.dicio.com.br/poceiro/    # listas
++ Canoeiro |  | Canoeist | Canoero | e | https://www.dicio.com.br/canoeiro/    # listas
++ Balseiro |  | Ferryman | Balsero | e | https://www.dicio.com.br/balseiro/    # listas
++ Remeiro |  | Rower | Remero | e | https://www.dicio.com.br/remeiro/    # listas
++ Salineiro |  | Salt maker | Salinero | e | https://www.dicio.com.br/salineiro/    # listas
++ Cesteiro |  | Basket maker | Cestero | e | https://www.dicio.com.br/cesteiro/    # listas
++ Sineiro |  | Bell ringer | Campanero | e | https://www.dicio.com.br/sineiro/    # listas
++ Queijeiro | Queijeira | Cheesemaker | Quesero | r | https://www.dicio.com.br/queijeira/    # listas
++ Vinhateiro |  | Winegrower | Viñatero | e | https://www.dicio.com.br/vinhateiro/    # listas
++ Cabreiro |  | Goatherd | Cabrero | e | https://www.dicio.com.br/cabreiro/    # listas
++ Porqueiro |  | Swineherd | Porquero | e | https://www.dicio.com.br/porqueiro/    # listas
++ Mateiro |  | Woodsman |  | e | https://www.dicio.com.br/mateiro/    # listas
++ Roceiro |  | Farmhand |  | r | https://www.dicio.com.br/roceiro/    # listas
++ Ceifeiro |  | Reaper | Segador | e | https://www.dicio.com.br/ceifeiro/    # listas
++ Marisqueira | Mariscadeira | Shellfish gatherer | Mariscadora | e | https://www.dicio.com.br/marisqueira/    # listas
++ Fiandeira |  | Spinner | Hilandera | e | https://www.dicio.com.br/fiandeira/    # listas
++ Engomadeira |  | Ironer | Planchadora | e | https://www.dicio.com.br/engomadeira/    # listas
++ Correeiro |  | Leatherworker | Correero | l | https://www.dicio.com.br/correeiro/    # listas
++ Calceteiro |  | Paver | Adoquinador | l | https://www.dicio.com.br/calceteiro/    # listas
++ Cavouqueiro |  | Quarryman | Cantero | l | https://www.dicio.com.br/cavouqueiro/    # listas
++ Forneiro |  | Baker | Hornero | e | https://www.dicio.com.br/forneiro/    # listas
++ Motorneiro |  | Tram driver |  | l | https://www.dicio.com.br/motorneiro/    # listas — CORR: tirei es (português disfarçado)
++ Escudeiro |  | Squire | Escudero | e | https://www.dicio.com.br/escudeiro/    # listas
++ Mosqueteiro |  | Musketeer | Mosquetero | e | https://www.dicio.com.br/mosqueteiro/    # listas
++ Estalajadeiro |  | Innkeeper | Posadero | e | https://www.dicio.com.br/estalajadeiro/    # listas
++ Taberneiro |  | Tavern keeper | Tabernero | e | https://www.dicio.com.br/taberneiro/    # listas
++ Curandeiro | Curandeira | Healer | Curandero | r | https://www.dicio.com.br/curandeiro/    # listas
++ Benzedeiro | Benzedeira | Faith healer |  | r | https://www.dicio.com.br/benzedeiro/    # listas
++ Rezadeira | Rezadeiro |  | Rezandera | r | https://www.dicio.com.br/rezadeira/    # listas
++ Raizeiro |  | Herbalist |  | e | https://www.dicio.com.br/raizeiro/    # listas
++ Roupeiro |  | Kit manager | Utilero | r | https://www.dicio.com.br/roupeiro/    # listas
++ Olheiro |  | Scout | Ojeador | r | https://www.dicio.com.br/olheiro/    # listas
++ Marqueteiro |  | Marketer | Marketinero | r | https://www.dicio.com.br/marqueteiro/    # listas
++ Bonequeiro |  | Puppet maker |  | e | https://www.dicio.com.br/bonequeiro/    # listas
++ Titereiro |  | Puppeteer | Titiritero | e | https://www.dicio.com.br/titereiro/    # listas
++ Santeiro |  |  | Santero | e | https://www.dicio.com.br/santeiro/    # listas
+~ Marceneiro | Marceneira | https://www.dicio.com.br/marceneira/    # generica
+~ Sapateiro | Sapateira | https://www.dicio.com.br/sapateira/    # generica
+~ Joalheiro | Joalheira | https://www.dicio.com.br/joalheiro/    # generica
+~ Relojoeiro | Relojoeira | https://www.dicio.com.br/relojoeiro/    # generica
+~ Pipoqueiro | Pipoqueira | https://www.dicio.com.br/pipoqueiro/    # generica
+~ Sorveteiro | Sorveteira | https://www.dicio.com.br/sorveteiro/    # generica
+~ Verdureiro | Verdureira | https://www.dicio.com.br/verdureiro/    # generica
+~ Leiteiro | Leiteira | https://www.dicio.com.br/leiteiro/    # generica
+~ Peixeiro | Peixeira | https://www.dicio.com.br/peixeiro/    # generica
+~ Churrasqueiro | Churrasqueira | https://www.dicio.com.br/churrasqueiro/    # generica
+~ Cervejeiro | Cervejeira | https://www.dicio.com.br/cervejeiro/    # generica
+~ Vaqueiro | Vaqueira | https://www.dicio.com.br/vaqueiro/    # generica
+~ Mensageiro | Mensageira | https://www.dicio.com.br/mensageiro/    # generica
+~ Livreiro | Livreira | https://www.dicio.com.br/livreiro/    # generica
+~ Pasteleiro | Pasteleira | https://www.dicio.com.br/pasteleiro/    # generica
+~ Quitandeiro | Quitandeira | https://www.dicio.com.br/quitandeiro/    # generica
+~ Bilheteiro | Bilheteira | https://www.dicio.com.br/bilheteiro/    # generica
+~ Carcereiro | Carcereira | https://www.dicio.com.br/carcereiro/    # generica
+~ Barqueiro | Barqueira | https://www.dicio.com.br/barqueiro/    # generica
+~ Hoteleiro | Hoteleira | https://www.dicio.com.br/hoteleiro/    # generica
+~ Tropeiro | Tropeira | https://www.dicio.com.br/tropeiro/    # generica
+~ Jornaleiro | Jornaleira | https://www.dicio.com.br/jornaleiro/    # generica
+~ Lavadeira | Lavadeiro | https://www.dicio.com.br/lavadeira/    # generica
+~ Passadeira | Passadeiro | https://www.dicio.com.br/passadeira/    # generica
+~ Arrumadeira | Arrumadeiro | https://www.dicio.com.br/arrumadeira/    # generica
+~ Bordadeira | Bordadeiro | https://www.dicio.com.br/bordadeira/    # generica
+~ Quituteira | Quituteiro | https://www.dicio.com.br/quituteira/    # generica
+~ Parteira | Parteiro | https://www.dicio.com.br/parteira/    # generica
+
+== pro-patentes-militares    # Cite um posto ou graduação militar das Forças Armadas brasileiras
++ Taifeiro de Primeira Classe | Taifeiro primeira classe;Taifeiro de 1ª classe |  |  | l | https://pt.wikipedia.org/wiki/Hierarquia_militar_do_Brasil    # listas
++ Taifeiro de Segunda Classe | Taifeiro segunda classe;Taifeiro de 2ª classe |  |  | l | https://pt.wikipedia.org/wiki/Hierarquia_militar_do_Brasil    # listas
++ Soldado de Primeira Classe | Soldado primeira classe;Soldado de 1ª classe |  |  | l | https://pt.wikipedia.org/wiki/Hierarquia_militar_do_Brasil    # listas
++ Soldado de Segunda Classe | Soldado segunda classe;Soldado de 2ª classe |  |  | l | https://pt.wikipedia.org/wiki/Hierarquia_militar_do_Brasil    # listas
++ Aprendiz-Marinheiro | Aprendiz de marinheiro |  |  | l | https://pt.wikipedia.org/wiki/Hierarquia_militar_do_Brasil    # listas
+~ Brigadeiro | Brigadeiro do ar | https://pt.wikipedia.org/wiki/Hierarquia_militar_do_Brasil    # listas
+~ Terceiro-Sargento | 3º Sargento | https://pt.wikipedia.org/wiki/Hierarquia_militar_do_Brasil    # listas
+~ Segundo-Sargento | 2º Sargento | https://pt.wikipedia.org/wiki/Hierarquia_militar_do_Brasil    # listas
+~ Primeiro-Sargento | 1º Sargento | https://pt.wikipedia.org/wiki/Hierarquia_militar_do_Brasil    # listas
+~ Primeiro-Tenente | 1º Tenente | https://pt.wikipedia.org/wiki/Hierarquia_militar_do_Brasil    # listas
+~ Segundo-Tenente | 2º Tenente | https://pt.wikipedia.org/wiki/Hierarquia_militar_do_Brasil    # listas
+~ Tenente-Brigadeiro | Tenente-Brigadeiro do Ar | https://pt.wikipedia.org/wiki/Hierarquia_militar_do_Brasil    # listas
+~ Major-Brigadeiro | Major-Brigadeiro do Ar | https://pt.wikipedia.org/wiki/Hierarquia_militar_do_Brasil    # listas
+
+== pro-cursos-graduacao    # Cite um curso de graduação (faculdade)
+- Engenharia |  | Engineering | Ingeniería | c | https://emec.mec.gov.br/    # REJ: genérico; cada engenharia já é resposta própria
++ Ciência Política | Ciências Políticas | Political science |  | i | https://emec.mec.gov.br/    # generica
++ Ciências Aeronáuticas |  | Aeronautical sciences |  | r | https://emec.mec.gov.br/    # generica — CORR: tirei Aeronáutica (ambígua com Eng. Aeronáutica)
++ Engenharia Eletrônica |  | Electronic engineering | Ingeniería electrónica | r | https://emec.mec.gov.br/    # generica
++ Letras-Libras | Libras |  |  | r | https://emec.mec.gov.br/    # generica — CORR: tirei en/es (nome da língua, não do curso)
++ Engenharia Sanitária e Ambiental | Engenharia Sanitária | Sanitary and environmental engineering | Ingeniería sanitaria y ambiental | e | https://emec.mec.gov.br/    # profunda — CORR: raridade r→e
++ Engenharia Nuclear |  | Nuclear engineering | Ingeniería nuclear | e | https://emec.mec.gov.br/    # profunda
+- Engenharia Oceânica |  | Ocean engineering | Ingeniería oceánica | l | https://emec.mec.gov.br/    # REJ: não há graduação com esse nome (existe Eng. Naval e Oceânica / Costeira e Oceânica)
++ Engenharia Hídrica |  | Water resources engineering | Ingeniería hídrica | l | https://emec.mec.gov.br/    # profunda
++ Engenharia de Transportes |  | Transportation engineering | Ingeniería de transporte | e | https://emec.mec.gov.br/    # profunda
++ Engenharia de Controle e Automação | Engenharia de Automação | Control and automation engineering | Ingeniería de control y automatización | r | https://emec.mec.gov.br/    # profunda — CORR: recebi Engenharia de Automação
++ Física Médica |  | Medical physics |  | l | https://emec.mec.gov.br/    # profunda
++ Ciências Ambientais |  | Environmental sciences | Ciencias ambientales | r | https://emec.mec.gov.br/    # profunda
++ Segurança Pública |  | Public security | Seguridad pública | r | https://emec.mec.gov.br/    # profunda
++ Educação Especial |  | Special education | Educación especial | r | https://emec.mec.gov.br/    # profunda
++ Comunicação Social | Comunicação | Communication | Comunicación social | i | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
++ Relações Públicas |  | Public relations | Relaciones públicas | i | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
++ Design Gráfico |  | Graphic design | Diseño gráfico | i | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
++ Design de Interiores |  | Interior design | Diseño de interiores | i | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
++ Biotecnologia |  | Biotechnology |  | i | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
++ Gestão Pública |  | Public management | Gestión pública | r | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
++ Administração Pública |  | Public administration | Administración pública | r | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
++ Gestão Ambiental |  | Environmental management | Gestión ambiental | r | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
++ Rádio, TV e Internet | Rádio e TV | Broadcasting | Radio y televisión | r | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
++ Produção Cultural |  | Cultural production | Producción cultural | r | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
++ Design de Produto |  | Product design | Diseño de producto | r | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
++ Design de Animação | Animação | Animation | Animación | r | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
++ Tradutor e Intérprete | Tradução | Translation | Traducción e interpretación | r | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
++ Bioquímica |  | Biochemistry |  | r | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
++ Gestão Financeira | Finanças | Finance | Finanzas | r | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
++ Processos Gerenciais |  |  |  | r | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
++ Gestão Comercial |  |  | Gestión comercial | r | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
++ Gestão Hospitalar |  | Hospital management | Gestión hospitalaria | r | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
++ Gestão da Tecnologia da Informação | Gestão de TI | IT management |  | r | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
++ Saúde Coletiva | Saúde Pública | Public health | Salud pública | r | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
++ Segurança no Trabalho | Segurança do Trabalho | Occupational safety | Seguridad laboral | r | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
++ Redes de Computadores |  | Computer networks | Redes de computadoras | r | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
++ Banco de Dados |  | Databases | Bases de datos | r | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
++ Inteligência Artificial |  | Artificial intelligence |  | r | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
++ Automação Industrial |  | Industrial automation | Automatización industrial | r | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas — CORR: Engenharia de Automação foi para Eng. de Controle e Automação
++ Eletrônica Industrial |  | Industrial electronics | Electrónica industrial | r | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
++ Agronegócio |  | Agribusiness | Agronegocios | r | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
++ Arqueologia |  | Archaeology |  | r | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
++ Engenharia de Telecomunicações |  | Telecommunications engineering | Ingeniería de telecomunicaciones | r | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
++ Engenharia Agrícola |  | Agricultural engineering | Ingeniería agrícola | r | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
++ Engenharia de Materiais |  | Materials engineering | Ingeniería de materiales | r | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
++ Engenharia Metalúrgica |  | Metallurgical engineering | Ingeniería metalúrgica | r | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
++ Engenharia Aeroespacial |  | Aerospace engineering | Ingeniería aeroespacial | r | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
++ Engenharia de Energia |  | Energy engineering | Ingeniería energética | e | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
++ Engenharia Física |  | Engineering physics | Ingeniería física | e | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
++ Engenharia Têxtil |  | Textile engineering | Ingeniería textil | e | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
++ Engenharia de Pesca |  | Fisheries engineering | Ingeniería pesquera | e | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
++ Engenharia Cartográfica | Engenharia Cartográfica e de Agrimensura | Surveying engineering | Ingeniería cartográfica | e | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
++ Engenharia Acústica |  | Acoustical engineering | Ingeniería acústica | l | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
++ Produção Fonográfica |  | Music production | Producción musical | e | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
++ Gestão da Qualidade |  | Quality management | Gestión de calidad | e | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
++ Óptica e Optometria | Optometria | Optometry |  | e | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
++ Quiropraxia |  | Chiropractic | Quiropráctica | e | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
++ Eventos | Gestão de Eventos | Event management | Gestión de eventos | e | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
++ Conservação e Restauro |  | Conservation and restoration | Conservación y restauración | e | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
++ Gerontologia |  | Gerontology |  | e | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
++ Podologia |  | Podiatry |  | e | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
+~ Administração | Administração de Empresas | https://emec.mec.gov.br/    # generica
+- Ciência da Computação | Ciências da Computação;Informática | https://emec.mec.gov.br/    # REJ: Ciências da Computação só difere em 1 letra; Informática ambígua (há licenciatura própria)
+~ Letras | Língua Portuguesa;Letras Português | https://emec.mec.gov.br/    # generica
+~ Estética e Cosmética | Cosmetologia;Cosmetologia e Estética | https://querobolsa.com.br/revista/lista-de-cursos-de-graduacao    # listas
+
+== pro-cargos-publicos    # Cite um cargo político ou público do Brasil
++ Servidor público | Funcionário público | Civil servant |  | c | https://pt.wikipedia.org/wiki/Servidor_p%C3%BAblico    # generica
+~ Deputado federal | Deputado;Deputada | https://pt.wikipedia.org/wiki/Deputado    # generica — CORR: genérico convertido em variante
+- Secretário | Secretária | Secretary |  | i | https://pt.wikipedia.org/wiki/Secret%C3%A1rio_(pol%C3%ADtica)    # REJ: genérico; já há Secretário municipal/estadual/executivo
++ Presidente do STF | Presidente do Supremo;Presidente do Supremo Tribunal Federal | Chief Justice |  | r | https://pt.wikipedia.org/wiki/Presidente_do_Supremo_Tribunal_Federal    # generica
++ Presidente do TSE | Presidente do Tribunal Superior Eleitoral |  |  | e | https://pt.wikipedia.org/wiki/Tribunal_Superior_Eleitoral    # generica
++ Deputado distrital | Deputada distrital |  | Diputado distrital | r | https://pt.wikipedia.org/wiki/Deputado_distrital    # generica
++ Chefe de gabinete |  | Chief of staff | Jefe de gabinete | r | https://pt.wikipedia.org/wiki/Chefe_de_gabinete    # generica
++ Primeiro-ministro |  | Prime minister | Primer ministro | e | https://pt.wikipedia.org/wiki/Primeiro-ministro_do_Brasil    # profunda
++ Procurador da Fazenda Nacional |  |  |  | l | https://pt.wikipedia.org/wiki/Procuradoria-Geral_da_Fazenda_Nacional    # profunda
+- Defensor público federal | Defensora pública federal | Federal public defender |  | r | https://pt.wikipedia.org/wiki/Defensoria_P%C3%BAblica_da_Uni%C3%A3o    # REJ: unida ao ~ Defensor público
++ Secretário-executivo | Secretária-executiva |  |  | e | https://pt.wikipedia.org/wiki/Secret%C3%A1rio-executivo    # profunda
++ Presidente do STJ | Presidente do Superior Tribunal de Justiça |  |  | e | https://pt.wikipedia.org/wiki/Superior_Tribunal_de_Justi%C3%A7a    # profunda
++ Presidente do TCU | Presidente do Tribunal de Contas da União |  |  | l | https://pt.wikipedia.org/wiki/Tribunal_de_Contas_da_Uni%C3%A3o    # profunda
++ Analista judiciário |  | Judicial analyst |  | r | https://pt.wikipedia.org/wiki/Analista_judici%C3%A1rio    # profunda
++ Ouvidor | Ouvidora | Ombudsman | Defensor del pueblo | e | https://pt.wikipedia.org/wiki/Ouvidor    # profunda
++ Corregedor | Corregedora |  |  | e | https://pt.wikipedia.org/wiki/Corregedor    # profunda
++ Policial militar | PM | Military police officer | Policía militar | i | https://pt.wikipedia.org/wiki/Pol%C3%ADcia_militar    # listas
++ Policial civil |  | Civil police officer | Policía civil | r | https://pt.wikipedia.org/wiki/Pol%C3%ADcia_civil    # listas
++ Policial rodoviário federal | PRF | Federal highway police officer |  | r | https://pt.wikipedia.org/wiki/Pol%C3%ADcia_Rodovi%C3%A1ria_Federal    # listas
++ Guarda municipal |  | Municipal guard | Guardia municipal | r | https://pt.wikipedia.org/wiki/Guarda_Municipal    # listas
++ Perito criminal |  | Forensic expert |  | r | https://pt.wikipedia.org/wiki/Perito_criminal    # listas
++ Papiloscopista |  | Fingerprint examiner |  | e | https://pt.wikipedia.org/wiki/Papiloscopista    # listas
++ Agente de trânsito |  | Traffic warden |  | r | https://pt.wikipedia.org/wiki/Agente_de_tr%C3%A2nsito    # listas
++ Ministro do TSE | Ministro do Tribunal Superior Eleitoral |  |  | e | https://pt.wikipedia.org/wiki/Tribunal_Superior_Eleitoral    # listas
++ Ministro do TST | Ministro do Tribunal Superior do Trabalho |  |  | e | https://pt.wikipedia.org/wiki/Tribunal_Superior_do_Trabalho    # listas
++ Ministro do STM | Ministro do Superior Tribunal Militar |  |  | l | https://pt.wikipedia.org/wiki/Superior_Tribunal_Militar    # listas
++ Conselheiro do Tribunal de Contas |  |  |  | l | https://pt.wikipedia.org/wiki/Tribunais_de_contas_do_Brasil    # listas — CORR: tirei Conselheiro do TCE (1 letra de Conselheiro do TCU, aceita de Ministro do TCU)
+~ Presidente da República | Presidenta;Presidenta da República | https://pt.wikipedia.org/wiki/Presidente_do_Brasil    # generica
+~ Vice-presidente | Vice-presidente da República;Vice-presidenta | https://pt.wikipedia.org/wiki/Vice-presidente_do_Brasil    # generica
+~ Vice-governador | Vice-governadora | https://pt.wikipedia.org/wiki/Vice-governador    # generica
+~ Vice-prefeito | Vice-prefeita | https://pt.wikipedia.org/wiki/Vice-prefeito    # generica
+~ Secretário municipal | Secretária municipal | https://pt.wikipedia.org/wiki/Secret%C3%A1rio_municipal    # generica
+~ Secretário estadual | Secretária estadual;Secretária de Estado | https://pt.wikipedia.org/wiki/Secret%C3%A1rio_estadual    # generica
+~ Ministro do STF | Ministra do STF;Ministro do Supremo Tribunal Federal;Ministra do Supremo | https://pt.wikipedia.org/wiki/Supremo_Tribunal_Federal    # generica
+~ Ministro do STJ | Ministra do STJ;Ministro do Superior Tribunal de Justiça | https://pt.wikipedia.org/wiki/Superior_Tribunal_de_Justi%C3%A7a    # generica
+~ Ministro do TCU | Ministra do TCU | https://pt.wikipedia.org/wiki/Tribunal_de_Contas_da_Uni%C3%A3o    # generica
+~ Promotor de Justiça | Promotora de Justiça;Promotora | https://pt.wikipedia.org/wiki/Promotor_de_justi%C3%A7a    # generica
+~ Procurador | Procuradora;Procurador de Justiça;Procurador do Estado | https://pt.wikipedia.org/wiki/Procurador    # generica
+~ Procurador-Geral da República | Procuradora-Geral da República | https://pt.wikipedia.org/wiki/Procurador-Geral_da_Rep%C3%BAblica    # generica
+~ Delegado de polícia | Delegada de polícia;Delegada;Delegado federal | https://pt.wikipedia.org/wiki/Delegado_de_pol%C3%ADcia    # generica,listas
+~ Cônsul | Cônsula;Cônsul-geral | https://pt.wikipedia.org/wiki/C%C3%B4nsul    # generica
+~ Presidente do Senado | Presidente do Senado Federal | https://pt.wikipedia.org/wiki/Presidente_do_Senado_Federal_do_Brasil    # generica
+~ Auditor fiscal | Auditora fiscal | https://pt.wikipedia.org/wiki/Auditor-fiscal    # generica
+~ Conselheiro tutelar | Conselheira tutelar | https://pt.wikipedia.org/wiki/Conselho_tutelar    # generica
+~ Juiz de paz | Juíza de paz | https://pt.wikipedia.org/wiki/Juiz_de_paz    # generica
+~ Tabelião | Tabeliã | https://pt.wikipedia.org/wiki/Tabeli%C3%A3o    # generica
+~ Subprefeito | Subprefeita | https://pt.wikipedia.org/wiki/Subprefeitura    # generica
+~ Escrivão de polícia | Escrivã de polícia | https://pt.wikipedia.org/wiki/Escriv%C3%A3o_de_pol%C3%ADcia    # generica
+~ Chefe da Casa Civil | Ministro-Chefe da Casa Civil;Ministra da Casa Civil | https://pt.wikipedia.org/wiki/Casa_Civil_da_Presid%C3%AAncia_da_Rep%C3%BAblica    # generica
+~ Advogado-Geral da União | Advogada-Geral da União | https://pt.wikipedia.org/wiki/Advogado-Geral_da_Uni%C3%A3o    # generica
+~ Juiz | Juiz federal;Juiz de direito;Juiz do trabalho;Juiz eleitoral | https://pt.wikipedia.org/wiki/Juiz    # listas
+~ Defensor público | Defensor;Defensor público federal;Defensora pública federal | https://pt.wikipedia.org/wiki/Defensoria_p%C3%BAblica https://pt.wikipedia.org/wiki/Defensoria_P%C3%BAblica_da_Uni%C3%A3o    # listas,profunda — CORR: incluí Defensor público federal

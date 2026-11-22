@@ -1,0 +1,4 @@
+== esp-com-bola
++ Petanca | Pétanque;Bocha provençal | Petanque;Boules | Petanca | e | https://pt.wikipedia.org/wiki/Petanca
++ Kin-ball | Kinball | Kin-Ball | Kin-ball | l | https://pt.wikipedia.org/wiki/Kin-ball
++ Futebol de cinco | Futebol de 5;Futebol para cegos | Blind football;5-a-side football | Fútbol para ciegos | e | https://pt.wikipedia.org/wiki/Futebol_de_cinco

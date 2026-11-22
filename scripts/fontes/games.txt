@@ -155,32 +155,32 @@ Kabuto | r
 Kabutops | e
 
 == gam-consoles | Cite um console de videogame | media | videogame;consoles | https://pt.wikipedia.org/wiki/Lista_de_consoles_de_videogame
-@nota Diga o modelo/geração (ex.: PlayStation 2). "PlayStation" sozinho é ambíguo.
+@nota Diga o modelo ou a geração; só o nome da linha de consoles não basta.
 PS1 | PlayStation 1;PSOne;PSX;PlayStation One | | | c
 PlayStation 2 | PS2 | | | c
 PlayStation 3 | PS3 | | | c
-PlayStation 4 | PS4 | | | c
-PlayStation 5 | PS5 | | | c
+PlayStation 4 | PS4;PlayStation 4 Pro;PS4 Pro |  |  | c
+PlayStation 5 | PS5;PlayStation 5 Pro;PS5 Pro |  |  | c
 Xbox | Xbox clássico | | | c
 Xbox 360 | | | | c
-Xbox One | | | | i
-Xbox Series X | Xbox Series S;Xbox Series | | | i
-Nintendo Switch | Switch | | | c
+Xbox One | Xbox One S;Xbox One X |  |  | i
+Xbox Series X | Xbox Series S;Xbox Series;Xbox Series X/S |  |  | i
+Nintendo Switch | Switch;Nintendo Switch OLED;Switch OLED |  |  | c
 Switch 2 | | | | i
-Super Nintendo | SNES;Super NES | | | c
+Super Nintendo | SNES;Super NES;Super Famicom |  |  | c
 NES | Nintendinho;Nintendo Entertainment System;Famicom | | | c
 Nintendo 64 | N64 | | | c
-Mega Drive | Sega Genesis | Sega Genesis | | c
+Mega Drive | Sega Genesis;Sega Mega Drive;Genesis | Sega Genesis |  | c
 Atari 2600 | Atari | | | c
 Wii | Nintendo Wii | | | c
-Game Boy | | | | c
+Game Boy | Nintendo Game Boy |  |  | c
 PSP | PlayStation Portable | | | i
 GameCube | Nintendo GameCube | | | i
 Wii U | | | | i
 Game Boy Color | GBC | | | i
 Game Boy Advance | GBA | | | i
 Nintendo DS | DS;Nintendo DSi;DS Lite | | | i
-Nintendo 3DS | 3DS | | | i
+Nintendo 3DS | 3DS;Nintendo 2DS;2DS |  |  | i
 Master System | Sega Master System | | | i
 Dreamcast | Sega Dreamcast | | | i
 Sega Saturn | Saturn | | | r
@@ -205,12 +205,24 @@ Philips CD-i | CD-i | | | l
 Sega CD | Mega-CD | | | l
 New Nintendo 3DS | | | | l
 Switch Lite | Nintendo Switch Lite | | | r
+Game & Watch | i
+Atari 5200 | r
+Sega 32X | 32X | r
+Vectrex | e
+Fairchild Channel F | Channel F | l
+Amiga CD32 | CD32 | l
+Neo Geo Pocket | Neo Geo Pocket Color | l
+Sega SG-1000 | SG-1000 | l
+PC-FX | l
+Apple Pippin | Pippin | l
+Telejogo | l
+Famicom Disk System | Disk System | l
 
-== gam-personagens-mario | Cite um personagem do universo Super Mario | facil | nintendo;mario | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Mario
+== gam-personagens-mario | Cite um personagem dos jogos do encanador bigodudo da Nintendo | facil | nintendo;mario | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Mario
 Mario | Super Mario | | | c
 Luigi | | | | c
 Princesa Peach | Peach | Princess Peach | Princesa Peach | c
-Bowser | | | | c
+Bowser | Rei Koopa;King Koopa |  |  | c
 Yoshi | | | | c
 Toad | | | | c
 Donkey Kong | DK | | | c
@@ -264,6 +276,30 @@ Baby Luigi | Bebê Luigi | | | e
 Lubba | | | | l
 Spike | | | | l
 Pianta | | | | e
+Spiny | i
+Koopa Paratroopa | Paratroopa | i
+Luma | i
+Donkey Kong Jr. | Donkey Kong Junior | i
+King K. Rool | K. Rool | i
+Tiny Kong | r
+Candy Kong | r
+Buzzy Beetle | r
+Pokey | r
+Poochy | r
+Baby Peach | Bebê Peach | r
+Chunky Kong | r
+Lanky Kong | r
+Mallow | e
+Geno | e
+Fawful | e
+Kammy Koopa | Kammy | e
+Wart | e
+Whomp | e
+Banzai Bill | e
+Podoboo | e
+Fuzzy | l
+Baby Daisy | Bebê Daisy | l
+Baby Rosalina | Bebê Rosalina | l
 
 == gam-street-fighter | Cite um personagem de Street Fighter | dificil | luta;capcom | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Street_Fighter
 Ryu | c
@@ -278,17 +314,17 @@ M. Bison | Bison;Dictator | | | c
 Balrog | Boxer | | | i
 Vega | Claw | | | i
 Sagat | | | | i
-Cammy | | | | i
+Cammy | Cammy White |  |  | i
 Akuma | Gouki | | | i
 Fei Long | | | | i
 Dee Jay | | | | r
 T. Hawk | Thunder Hawk | | | r
-Sakura | | | | i
+Sakura | Sakura Kasugano |  |  | i
 Dan | Dan Hibiki | | | r
 Rose | | | | r
 Guy | | | | r
 Cody | | | | r
-Juri | | | | r
+Juri | Juri Han |  |  | r
 Laura | Laura Matsuda | | | r
 Sean | Sean Matsuda | | | e
 Gen | | | | e
@@ -330,6 +366,34 @@ Menat | | | | l
 Kolin | | | | l
 Necalli | | | | l
 Zeku | | | | l
+Gouken | r
+Evil Ryu | i
+Violent Ken | e
+Remy | e
+Q | e
+Twelve | e
+Retsu | l
+Joe | l
+Mike | l
+Lee | l
+Geki | l
+Eagle | e
+Maki | l
+Juli | l
+Juni | l
+Decapre | e
+Falke | l
+Kage | e
+Poison | e
+Oni | e
+Shin Akuma | l
+Abigail | e
+F.A.N.G | FANG | l
+G | l
+A.K.I. | AKI | l
+Ingrid | e
+Terry Bogard | Terry | e
+Mai Shiranui | Mai | e
 
 == gam-tabuleiro-cartas | Cite um jogo de tabuleiro ou de cartas | facil | tabuleiro;cartas;jogos | https://pt.wikipedia.org/wiki/Jogo_de_tabuleiro
 Banco Imobiliário | Monopoly | Monopoly | Monopoly | c
@@ -399,6 +463,27 @@ Exploding Kittens | | | | l
 Coup | | | | l
 Sushi Go | | | | l
 Terra Mystica | | | | l
+Bisca | i
+Biriba | i
+Jogo da Memória |  | Memory | c
+Trivial Pursuit | i
+Cranium | r
+Dobble | r
+Mancala | r
+Baccarat | Bacará | r
+Sete e Meio | r
+Wingspan | l
+Gloomhaven | l
+Terraforming Mars | l
+Kingdomino | l
+Dominion | l
+Takenoko | l
+King of Tokyo | l
+Munchkin | l
+Hanabi | l
+Talisman | l
+Diplomacy | l
+Love Letter | l
 
 == gam-minecraft-mobs | Cite um mob (criatura) do Minecraft | media | minecraft;mojang | https://pt.wikipedia.org/wiki/Minecraft
 Creeper | | | | c
@@ -418,7 +503,7 @@ Ghast | | | | i
 Blaze | | | | i
 Bruxa | | Witch | Bruja | i
 Golem de Ferro | | Iron Golem | Gólem de hierro | i
-Golem de Neve | | Snow Golem | Gólem de nieve | r
+Golem de Neve | Boneco de Neve | Snow Golem | Gólem de nieve | r
 Lobo | | Wolf | | i
 Gato | | Cat | | i
 Cavalo | | Horse | | i
@@ -477,3 +562,9 @@ Stray | | | | e
 Zumbi aldeão | | Zombie Villager | | e
 Mooshroom | Vaca-cogumelo | | | e
 Mercador ambulante | Comerciante ambulante | Wandering Trader | | r
+Aranha das Cavernas |  | Cave Spider | i
+Cavalo-esqueleto |  | Skeleton Horse | r
+Cavalo-zumbi |  | Zombie Horse | r
+Ilusionista |  | Illusioner | l
+Pantanoso | Enlameado;Atolado | Bogged | e
+Lhama do vendedor | Lhama do mercador | Trader Llama | e
