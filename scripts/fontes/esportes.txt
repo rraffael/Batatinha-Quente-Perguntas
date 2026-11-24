@@ -26,8 +26,8 @@ Vela | Iatismo | Sailing | | i
 Ciclismo | Ciclismo de estrada;Ciclismo de pista | Cycling | | i
 BMX | BMX freestyle;BMX racing |  |  | r
 Mountain bike | MTB | | | r
-Esgrima | | Fencing | | i
-Hipismo | Equitação;Adestramento | Equestrian | Hípica | i
+Esgrima | Florete;Sabre;Espada | Fencing | i
+Hipismo | Equitação;Adestramento;Concurso completo de equitação;Salto hípico | Equestrian | Hípica | i
 Taekwondo | Tae kwon do | | | i
 Levantamento de peso | Halterofilismo | Weightlifting | Halterofilia | i
 Luta livre | Luta olímpica | Freestyle wrestling;Wrestling | Lucha libre | r
@@ -41,7 +41,7 @@ Rugby | Rugby sevens;Rúgbi | Rugby | | i
 Hóquei sobre grama | Hóquei;Hockey;Hóquei na grama | Field hockey | Hockey sobre césped | r
 Badminton | | | Bádminton | i
 Polo aquático | | Water polo | Waterpolo | r
-Saltos ornamentais | | Diving | Saltos | r
+Saltos ornamentais |  | Diving | r
 Nado artístico | Nado sincronizado | Artistic swimming | Natación artística | r
 Maratona aquática | Águas abertas;Natação em águas abertas | Marathon swimming;Open water swimming | Aguas abiertas | e
 Breaking | Breakdance | | | r
@@ -65,6 +65,17 @@ Nado livre | Crawl | Freestyle | Estilo libre | r
 Nado borboleta | Borboleta | Butterfly | Mariposa | r
 Nado de costas | Costas;Nado costas | Backstroke | Espalda | r
 Nado peito | Peito;Nado de peito | Breaststroke | Pecho | r
+Medley | Nado medley;Medley individual | Individual medley | Estilos | r
+Windsurfe | Windsurf;Prancha a vela;iQFoil | Windsurfing | r
+Solo | Exercícios de solo | Floor exercise | Suelo | r
+Trave | Trave de equilíbrio | Balance beam | Barra de equilibrio | r
+Kitesurfe | Kitesurf;Kite;Fórmula Kite | Kitesurfing;Kiteboarding | e
+Corrida com obstáculos | 3000 metros com obstáculos;Steeplechase |  | Carrera de obstáculos | e
+Barras assimétricas |  | Uneven bars | Barras asimétricas | e
+Argolas |  | Rings | Anillas | e
+Barras paralelas |  | Parallel bars | e
+Barra fixa |  | Horizontal bar | Barra fija | e
+Cavalo com alças |  | Pommel horse | Caballo con arcos | e
 
 == esp-com-bola | Cite um esporte jogado com bola | facil | bola;esportes coletivos | https://pt.wikipedia.org/wiki/Lista_de_desportos
 Futebol | Futebol de campo | Football;Soccer | Fútbol | c
@@ -117,6 +128,9 @@ Hóquei em patins |  | Roller hockey;Rink hockey | Hockey sobre patines | r
 Petanca | Pétanque;Bocha provençal | Boules | e
 Kin-ball | Kinball | l
 Futebol de cinco | Futebol de 5;Futebol para cegos | Blind football;5-a-side football | Fútbol para ciegos | e
+Taco | Bets;Bete;Bete-ombro;Tacobol;Jogo de taco | i
+Croqué | Croquet | e
+Futebol australiano | Aussie Rules | Australian rules football | Fútbol australiano | e
 
 == esp-campeoes-f1 | Cite um piloto campeão mundial de Fórmula 1 | dificil | fórmula 1;automobilismo | https://pt.wikipedia.org/wiki/Lista_de_campe%C3%B5es_mundiais_de_pilotos_de_F%C3%B3rmula_1
 @atualizadoEm 2026-11
@@ -125,16 +139,16 @@ Ayrton Senna | Senna;Ayrton | | | c
 Nelson Piquet | Piquet | | | c
 Emerson Fittipaldi | Fittipaldi;Emerson | | | c
 Michael Schumacher | Schumacher;Schumi | | | c
-Lewis Hamilton | Hamilton | | | c
-Max Verstappen | Verstappen | | | c
+Lewis Hamilton | Hamilton;Lewis | c
+Max Verstappen | Verstappen;Max | c
 Alain Prost | Prost | | | i
 Niki Lauda | Lauda | | | i
 Fernando Alonso | Alonso | | | i
 Sebastian Vettel | Vettel | | | i
-Kimi Räikkönen | Räikkönen;Raikkonen;Kimi | | | i
+Kimi Räikkönen | Räikkönen;Raikkonen | i
 Nigel Mansell | Mansell | | | i
-Lando Norris | Norris | | | i
-Mika Häkkinen | Häkkinen;Hakkinen | | | r
+Lando Norris | Norris;Lando | i
+Mika Häkkinen | Häkkinen;Hakkinen;Mika | r
 Nico Rosberg | | | | r
 Jenson Button | Button | | | r
 Juan Manuel Fangio | Fangio | | | r
@@ -185,17 +199,17 @@ Serginho | Escadinha | | | r
 Sheilla | Sheilla Castro | | | i
 Fabiana | Fabiana Claudino | | | r
 Jaqueline Carvalho | Jaqueline;Jaque | | | r
-Fofão | | | | r
+Fofão | Hélia Souza;Hélia Rogério de Souza Pinto | r
 Thaisa | | | | r
 Paula Pequeno | | | | r
 Fabi | | | | e
 Mari | Marianne Steinbrecher | | | e
-Dani Lins | | | | e
+Dani Lins | Danielle Lins | e
 Fernanda Garay | | | | e
-Natália Pereira | | | | e
+Natália Pereira | Natália | e
 Tandara | Tandara Caixeta |  |  | e
 Bruninho | Bruno Rezende | | | r
-Lucão | | | | e
+Lucão | Lucas Saatkamp | e
 Wallace | Wallace de Souza | | | e
 Lucarelli | Ricardo Lucarelli | | | e
 Tande | | | | r
@@ -203,7 +217,7 @@ Giovane Gávio | Giovane | | | r
 Marcelo Negrão | | | | e
 Maurício Lima | | | | l
 Carlão | | | | l
-Nalbert | | | | e
+Nalbert | Nalbert Bitencourt | e
 Ricardinho | | | | e
 Dante | Dante Amaral | | | e
 Gustavo Endres | | | | l
@@ -253,7 +267,7 @@ Thiago Maia | r
 Douglas Santos | r
 Rodrigo Dourado | l
 Walace | l
-Luan | e
+Luan | Luan Vieira | e
 Zeca | l
 Uílson | l
 Douglas Souza | e
@@ -284,3 +298,969 @@ Janelson Carvalho | Janelson | l
 Jorge Edson | l
 Paulão | Paulão Jukoski | l
 Talmo de Oliveira | Talmo | l
+William | William Furtado | l
+Luan Garcia | l
+
+== esp-pilotos-brasileiros-f1 | Cite um piloto brasileiro que já correu na Fórmula 1 | media | fórmula 1;automobilismo;brasil | https://pt.wikipedia.org/wiki/Lista_de_pilotos_brasileiros_na_F%C3%B3rmula_1
+@nota Vale quem largou ou se inscreveu em pelo menos um Grande Prêmio oficial do campeonato mundial; piloto só de testes ou reserva fica de fora.
+Ayrton Senna | Ayrton;Senninha | c
+Nelson Piquet | Piquet pai | c
+Emerson Fittipaldi | Emerson;Emmo | c
+Rubens Barrichello | Rubinho;Barrichello;Rubinho Barrichello | c
+Felipe Massa | Massa | c
+Gabriel Bortoleto | Bortoleto | i
+Nelsinho Piquet | Nelsinho;Piquet Júnior;Nelson Piquet Júnior | i
+Bruno Senna | i
+Felipe Nasr | Nasr | i
+Christian Fittipaldi | i
+Lucas di Grassi | Di Grassi | i
+José Carlos Pace | Carlos Pace;Moco;Pace | r
+Wilsinho Fittipaldi | Wilson Fittipaldi Júnior;Wilsinho;Wilson Fittipaldi | r
+Pietro Fittipaldi | r
+Pedro Paulo Diniz | Pedro Diniz;Diniz | r
+Ricardo Zonta | Zonta | r
+Antônio Pizzonia | Pizzonia | r
+Luciano Burti | Burti | r
+Roberto Moreno | Roberto Pupo Moreno;Moreno;Pupo Moreno | r
+Maurício Gugelmin | Gugelmin | r
+Cristiano da Matta | Da Matta | r
+Ingo Hoffmann | Ingo | e
+Raul Boesel | Boesel | e
+Tarso Marques | e
+Ricardo Rosset | Rosset | e
+Enrique Bernoldi | Bernoldi | e
+Chico Serra | Francisco Serra | e
+Chico Landi | Francisco Landi | e
+Alex Dias Ribeiro | Alex Ribeiro | e
+Luiz Pereira Bueno | l
+Nano da Silva Ramos | Hermano da Silva Ramos | l
+Gino Bianco | l
+Fritz d'Orey | l
+
+== esp-campeoes-ufc | Cite um lutador ou lutadora que já foi campeão do UFC (Ultimate Fighting Championship) | media | mma;lutas;ufc | https://pt.wikipedia.org/wiki/Lista_de_campe%C3%B5es_do_UFC
+@nota Vale quem conquistou cinturão linear ou interino de qualquer categoria do evento, até novembro de 2026; título de torneio sem cinturão não conta.
+@atualizadoEm 2026-11
+Anderson Silva | Anderson Spider;Spider | c
+Conor McGregor | McGregor;Conor | c
+José Aldo | Aldo | c
+Charles Oliveira | Charles do Bronx;Do Bronx | c
+Alex Pereira | Poatan;Alex Poatan | c
+Jon Jones | Jonathan Jones;Jon Bones Jones | c
+Khabib Nurmagomedov | Khabib | i
+Georges St-Pierre | GSP;St-Pierre;Georges Saint-Pierre | i
+Israel Adesanya | Adesanya | i
+Ilia Topuria | Topuria | i
+Mackenzie Dern | i
+Amanda Nunes | Leoa | i
+Ronda Rousey | Rousey | i
+Cris Cyborg | Cristiane Justino;Cyborg | i
+Francis Ngannou | Ngannou | i
+Alexandre Pantoja | Pantoja | i
+Brock Lesnar | Lesnar | i
+Renan Barão | Barão | r
+Rafael dos Anjos | RDA | r
+Alexander Volkanovski | Volkanovski;Volk | r
+Valentina Shevchenko | Shevchenko | r
+Islam Makhachev | Makhachev | r
+Chris Weidman | Weidman | r
+Michael Bisping | Bisping | r
+Kamaru Usman | Usman | r
+Max Holloway | Holloway | r
+Sean O'Malley | O'Malley | r
+Khamzat Chimaev | Chimaev | r
+Kayla Harrison | r
+Tom Aspinall | Aspinall | r
+Henry Cejudo | Cejudo | r
+Merab Dvalishvili | Merab | r
+Justin Gaethje | Gaethje | r
+B.J. Penn | r
+Lyoto Machida | Machida | r
+Maurício Shogun | Maurício Rua;Shogun | r
+Vitor Belfort | Belfort | r
+Junior Cigano | Junior dos Santos;Cigano | r
+Fabrício Werdum | Werdum | r
+Rodrigo Minotauro | Antônio Rodrigo Nogueira;Minotauro | r
+Daniel Cormier | Cormier | r
+Stipe Miocic | Miocic | r
+Cain Velasquez | Velasquez | r
+Chuck Liddell | Liddell | r
+Randy Couture | Couture | r
+Deiveson Figueiredo | Deiveson | r
+Jéssica Andrade | Jéssica Bate-Estaca | r
+Natália Silva | r
+Dustin Poirier | Poirier | r
+Tony Ferguson | r
+Holly Holm | r
+Miesha Tate | r
+Julianna Peña | r
+Rose Namajunas | Namajunas | r
+Joanna Jędrzejczyk | r
+Zhang Weili | Weili Zhang | r
+Alexa Grasso | Grasso | r
+Demetrious Johnson | Mighty Mouse | r
+Dominick Cruz | r
+Brandon Moreno | r
+Quinton Jackson | Rampage Jackson;Rampage | r
+Sean Strickland | Strickland | r
+Leon Edwards | r
+Dricus du Plessis | Du Plessis | e
+Robert Whittaker | Whittaker | e
+Frankie Edgar | e
+Glover Teixeira | e
+Murilo Bustamante | e
+Matt Serra | e
+Tito Ortiz | e
+Bas Rutten | e
+Frank Shamrock | e
+Colby Covington | Covington | e
+Tyron Woodley | Woodley | e
+Robbie Lawler | Lawler | e
+Matt Hughes | e
+Rashad Evans | e
+Forrest Griffin | e
+Frank Mir | e
+Andrei Arlovski | Arlovski | e
+Shane Carwin | Carwin | e
+Ciryl Gane | e
+Jamahal Hill | e
+Magomed Ankalaev | Ankalaev | e
+Carlos Ulberg | Ulberg | e
+Belal Muhammad | e
+Jack Della Maddalena | Della Maddalena | e
+Johny Hendricks | e
+Rich Franklin | e
+Luke Rockhold | Rockhold | e
+Petr Yan | Pyotr Yan | e
+Aljamain Sterling | e
+T.J. Dillashaw | TJ Dillashaw;Dillashaw | e
+Cody Garbrandt | Garbrandt | e
+Joshua Van | e
+Yair Rodríguez | e
+Eddie Alvarez | e
+Anthony Pettis | Pettis | e
+Benson Henderson | e
+Germaine de Randamie | e
+Carla Esparza | e
+Mark Coleman | l
+Kevin Randleman | l
+Maurice Smith | l
+Josh Barnett | l
+Ricco Rodriguez | l
+Tim Sylvia | l
+Pat Miletich | l
+Carlos Newton | l
+Dave Menne | l
+Evan Tanner | l
+Jens Pulver | l
+Carlos Condit | l
+Jan Błachowicz | Jan Blachowicz | l
+Jiří Procházka | l
+Sean Sherk | l
+Nicco Montaño | l
+
+== esp-artes-marciais | Cite uma arte marcial ou esporte de luta | facil | lutas;artes marciais | https://en.wikipedia.org/wiki/List_of_martial_arts
+@nota Vale arte marcial tradicional ou esporte de combate reconhecido; estilos de uma mesma arte (escolas, faixas) e golpes isolados não contam como resposta própria.
+Judô | c
+Caratê | Karatê;Karate-dô;Caratê-dô | c
+Jiu-jítsu | Jiujitsu;Jiu-jítsu brasileiro;BJJ;Jujutsu;Jujitsu;Ju-jitsu | Brazilian jiu-jitsu | c
+Capoeira | c
+Boxe | Pugilismo | boxing | boxeo | c
+Muay thai | Boxe tailandês | c
+Taekwondo | Tae kwon do | c
+Kung fu | Kungfu;Wushu;Shaolin | c
+MMA | Artes marciais mistas | mixed martial arts | Artes marciales mixtas | c
+Kickboxing | Kick boxing;Kickboxe | c
+Luta livre |  |  | lucha libre | i
+Esgrima |  | fencing | i
+Sumô | i
+Krav magá | i
+Aikidô | Aiquidô | i
+Luta greco-romana | Greco-romana | greco-roman wrestling | lucha grecorromana | i
+Ninjutsu | Ninjitsu | i
+Tai chi chuan | Tai chi;Taichi | i
+Kendô | i
+Luta olímpica | Wrestling | i
+Sambo | r
+Wing chun | r
+Jeet kune do | JKD | r
+Hapkido | r
+Savate | Boxe francês | r
+Kenjutsu | r
+Kyudo | r
+Pencak silat | Silat | r
+Arnis | Eskrima;Kali;Escrima | r
+Systema | r
+Sanda | Sanshou | r
+Pancrácio | Pankration | r
+Vale-tudo | r
+Luta livre esportiva | Luta livre brasileira | r
+Huka-huka | e
+Luta marajoara | Agarrada marajoara | e
+Jogo do pau | e
+Lethwei | Boxe birmanês | e
+Kalaripayattu | Kalari payattu;Kalari | e
+Iaido | e
+Tang Soo Do | e
+Kobudô | e
+Catch wrestling | e
+Vovinam | e
+Bartitsu | l
+Bokator | l
+Glima | l
+Schwingen | l
+Hwa Rang Do | l
+Shorinji Kempo | l
+Krabi-krabong | l
+Shuai jiao | l
+Ssireum | l
+Kurash | l
+Taekkyon | l
+Kajukenbo | l
+Gatka | l
+Pehlwani | l
+Dambe | l
+Engolo | l
+
+== esp-esportes-radicais | Cite um esporte radical | facil | esportes radicais;aventura | https://pt.wikipedia.org/wiki/Esporte_radical
+@nota Vale atividade praticada como esporte de risco, aventura ou ação (no ar, na água, na terra, na neve ou com motor); variações de nome de uma mesma prática contam como uma só.
+Skate | Skateboard;Skatismo | skateboarding | c
+Surfe | Surf | surfing | c
+Paraquedismo | Skydiving;Salto de paraquedas;Paraquedas;Queda livre |  | paracaidismo | c
+Bungee jumping | Bungee jump;Bungee |  | Puenting | c
+Rapel | Rappel | rappelling | c
+Escalada | Escalada esportiva;Escalada em rocha | climbing | c
+Alpinismo | Montanhismo | mountaineering | c
+Asa-delta | Hang gliding |  | ala delta | c
+Parapente |  | paragliding | c
+Rafting | c
+Snowboard |  | snowboarding | c
+Motocross | c
+Parkour | c
+BMX | Bicicross | i
+Mountain bike | Ciclismo de montanha;MTB | mountain biking | i
+Kitesurf | Kitesurfe;Kite | kitesurfing | i
+Windsurf | Windsurfe | windsurfing | i
+Wakeboard |  | wakeboarding | i
+Bodyboard | Bodyboarding | i
+Tirolesa | Zipline | zip-line | tirolina | i
+Arborismo | i
+Slackline |  | Slacklining | i
+Trekking | i
+Mergulho | Scuba;Mergulho autônomo | diving;Scuba diving | buceo | i
+Stand up paddle | SUP;Stand up paddle surfing | i
+Sandboard |  | sandboarding | i
+Longboard |  | longboarding | i
+Jet ski | Jetski;Moto aquática | i
+Esqui aquático | Ski aquático | water skiing | esquí acuático | i
+Paintball | i
+BASE jumping | Base jump | i
+Wingsuit |  | wingsuit flying | i
+Canoagem | Caiaque;Kayak | Kayaking | i
+Canionismo | Canyoning |  | barranquismo | r
+Balonismo |  | ballooning | r
+Espeleologia | Cavernismo | caving | r
+Corrida de aventura |  | adventure racing | r
+Paramotor |  | Paramotoring | r
+Rali | Rally | r
+Supercross | r
+Skimboard | Skimboarding | r
+Boulder | Bouldering | r
+Drift | Drifting | r
+Voo livre | r
+Mergulho livre | Apneia | Freediving | r
+Acrobacia aérea |  | Aerobatics | r
+Patins agressivo | Patinação agressiva;Aggressive inline | Aggressive inline skating | r
+Roller derby | r
+Skysurf | Skysurfing | e
+Mountainboard | Mountain board | Mountainboarding | e
+Snakeboard |  | Snakeboarding | e
+Tricking | e
+Speed flying | e
+Snowmobile | Motoneve | Snowmobiling | e
+Riverboard |  | Riverboarding | e
+Waveski | e
+Voo a vela | Planador | Gliding | e
+Acquaride | Boia cross | e
+Grassboard | l
+Carveboard | l
+
+== esp-esportes-inverno | Cite um esporte ou prova dos Jogos Olímpicos de Inverno | media | olimpíadas;inverno;neve e gelo | https://pt.wikipedia.org/wiki/Jogos_Ol%C3%ADmpicos_de_Inverno
+@nota Vale o esporte, a disciplina ou uma prova que faz ou fez parte do programa oficial dos Jogos de Inverno, até a edição de 2026; esportes só de demonstração não contam.
+Hóquei no gelo | Hóquei sobre o gelo;Hockey no gelo | ice hockey | hockey sobre hielo | c
+Patinação artística | Patinação artística no gelo | figure skating | patinaje artístico | c
+Esqui alpino |  | alpine skiing | c
+Snowboard |  | snowboarding | c
+Curling | c
+Bobsleigh | Bobsled;Bob | c
+Patinação de velocidade | Patinação de velocidade no gelo | speed skating | patinaje de velocidad | c
+Salto de esqui | Salto com esqui | ski jumping | c
+Patinação no gelo |  | ice skating | patinaje sobre hielo | c
+Esqui |  | skiing | c
+Luge | i
+Skeleton | i
+Biatlo | Biathlon;Biatlon | i
+Esqui cross-country | Esqui de fundo;Cross-country | cross-country skiing | esquí de fondo | i
+Esqui estilo livre | Esqui freestyle;Freestyle | freestyle skiing | esquí acrobático | i
+Combinado nórdico |  | nordic combined | combinada nórdica | i
+Patinação de velocidade em pista curta | Short track;Pista curta;Patinação em pista curta | short track speed skating | i
+Dança no gelo |  | ice dance | danza sobre hielo | i
+Halfpipe | Half-pipe;Meio-tubo | i
+Slalom | Slalom especial |  | eslalon | i
+Slalom gigante |  | giant slalom | eslalon gigante | i
+Esqui de montanha | Skimo;Esqui montanhismo | ski mountaineering | esquí de montaña | r
+Descida | Downhill;Descida livre |  | descenso | r
+Super-G | Supergigante | r
+Moguls | Mogul;Esqui de moguls | r
+Aerials | Esqui aerials;Saltos aéreos;Esqui aéreo | r
+Ski cross | Skicross;Esqui cross | r
+Snowboard cross | Boardercross;SBX | r
+Slopestyle | r
+Big air | r
+Slalom gigante paralelo |  | parallel giant slalom | e
+Dual moguls | e
+Combinado alpino | Supercombinado;Combinado por equipes | Alpine combined;Team combined | e
+Largada em massa |  | Mass start | e
+Perseguição por equipes |  | Team pursuit | e
+Patinação em pares | Patinação em duplas | Pair skating | e
+Patrulha militar |  | Military patrol | l
+
+== esp-tenistas-grand-slam | Cite um tenista (homem ou mulher) campeão de simples de um torneio do Grand Slam | media | tênis;grand slam | https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+@nota Vale título de simples nos quatro grandes torneios (Austrália, Roland Garros, Wimbledon e Estados Unidos), em qualquer época, até o fim de 2026; títulos só de duplas não contam. Lista masculina: https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+@atualizadoEm 2026-11
+Gustavo Kuerten | Guga;Kuerten;Guga Kuerten | c
+Roger Federer | Federer | c
+Rafael Nadal | Nadal;Rafa Nadal | c
+Novak Djokovic | Djokovic;Nole | c
+Serena Williams | Serena | c
+Pete Sampras | Sampras | c
+Andre Agassi | Agassi | c
+Carlos Alcaraz | Alcaraz | c
+Maria Esther Bueno | Maria Bueno;Bueno | c
+Maria Sharapova | Sharapova | c
+Venus Williams | Venus | i
+Jannik Sinner | Sinner | i
+Björn Borg | Borg | i
+John McEnroe | McEnroe | i
+Andy Murray | Murray | i
+Steffi Graf | Graf | i
+Martina Navratilova | Navratilova | i
+Martina Hingis | Hingis | i
+Monica Seles | Seles | i
+Boris Becker | Becker | i
+Daniil Medvedev | Medvedev | i
+Iga Świątek | Swiatek | i
+Aryna Sabalenka | Sabalenka | i
+Coco Gauff | Gauff | i
+Naomi Osaka | Osaka | i
+Gabriela Sabatini | Sabatini | i
+Stan Wawrinka | Wawrinka;Stanislas Wawrinka | i
+Juan Martín del Potro | Del Potro | i
+Ivan Lendl | Lendl | i
+Chris Evert | Evert;Chris Evert Lloyd | i
+Jimmy Connors | Connors | i
+Stefan Edberg | Edberg | i
+Andy Roddick | Roddick | i
+Lleyton Hewitt | Hewitt | i
+Marat Safin | Safin | i
+Rod Laver | Laver | r
+Dominic Thiem | Thiem | r
+Kim Clijsters | Clijsters | r
+Justine Henin | Henin | r
+Arantxa Sánchez Vicario | Sánchez Vicario;Arantxa Sánchez | r
+Carlos Moyá | Moyá | r
+Juan Carlos Ferrero | Ferrero | r
+Guillermo Vilas | Vilas | r
+Li Na | r
+Caroline Wozniacki | Wozniacki | r
+Simona Halep | Halep | r
+Ashleigh Barty | Barty;Ash Barty | r
+Emma Raducanu | Raducanu | r
+Petra Kvitová | Kvitova | r
+Victoria Azarenka | Azarenka | r
+Elena Rybakina | Rybakina | r
+Yannick Noah | Noah | r
+Michael Chang | r
+Arthur Ashe | Ashe | r
+Billie Jean King | r
+Gastón Gaudio | Gaudio | r
+Marin Čilić | Cilic | r
+Goran Ivanišević | Ivanisevic | r
+Yevgeny Kafelnikov | Kafelnikov;Ievgueni Kafelnikov | r
+Mats Wilander | Wilander | r
+Margaret Court | Margaret Smith Court | r
+Ilie Năstase | Nastase | r
+Thomas Muster | Muster | r
+Jim Courier | Courier | r
+Lindsay Davenport | Davenport | r
+Jennifer Capriati | Capriati | r
+Amélie Mauresmo | Mauresmo | r
+Stan Smith | r
+Fred Perry | r
+Patrick Rafter | Pat Rafter;Rafter | r
+Angelique Kerber | Kerber | r
+Alexander Zverev | Zverev;Sascha Zverev | r
+Ana Ivanovic | Ivanovic | r
+Mirra Andreeva | Andreeva | r
+Sergi Bruguera | Bruguera | e
+Madison Keys | e
+Albert Costa | e
+Thomas Johansson | e
+Petr Korda | Korda | e
+Richard Krajicek | Krajicek | e
+Michael Stich | Stich | e
+Andrés Gómez | e
+Pat Cash | e
+Vitas Gerulaitis | Gerulaitis | e
+Adriano Panatta | Panatta | e
+Manuel Orantes | Orantes | e
+Jan Kodeš | Kodes | e
+John Newcombe | Newcombe | e
+Ken Rosewall | Rosewall | e
+Roy Emerson | e
+Manuel Santana | Manolo Santana | e
+Bill Tilden | Tilden | e
+Conchita Martínez | e
+Mary Pierce | e
+Jana Novotná | Novotna | e
+Anastasia Myskina | Myskina | e
+Svetlana Kuznetsova | Kuznetsova | e
+Francesca Schiavone | Schiavone | e
+Samantha Stosur | Stosur | e
+Marion Bartoli | Bartoli | e
+Flavia Pennetta | Pennetta | e
+Garbiñe Muguruza | Muguruza | e
+Jeļena Ostapenko | Ostapenko | e
+Sloane Stephens | e
+Bianca Andreescu | Andreescu | e
+Sofia Kenin | Kenin | e
+Evonne Goolagong | Goolagong;Evonne Goolagong Cawley | e
+Virginia Wade | e
+Tracy Austin | e
+Iva Majoli | Majoli | e
+Barbora Krejčíková | Krejcikova | e
+Markéta Vondroušová | Vondrousova | e
+Hana Mandlíková | Mandlikova | e
+Linda Nosková | Noskova | e
+René Lacoste | Lacoste | e
+Suzanne Lenglen | Lenglen | e
+Althea Gibson | e
+Johan Kriek | Kriek | l
+Brian Teacher | l
+Roscoe Tanner | l
+Mark Edmondson | l
+Andrés Gimeno | Gimeno | l
+Bill Bowrey | l
+Sue Barker | l
+Mima Jaušovec | Jausovec | l
+Virginia Ruzici | Ruzici | l
+Françoise Dürr | Durr | l
+Nancy Richey | l
+Ann Jones | Ann Haydon Jones | l
+Barbara Jordan | l
+Chris O'Neil | l
+Kerry Melville Reid | Kerry Reid | l
+Henri Cochet | l
+Jean Borotra | l
+Don Budge | l
+Lew Hoad | l
+Tony Roche | l
+Pancho Gonzales | Pancho Gonzalez | l
+Jack Kramer | l
+Nicola Pietrangeli | l
+Helen Wills | Helen Wills Moody | l
+Maureen Connolly | l
+
+== esp-basquete-brasil | Cite um jogador ou jogadora de basquete do Brasil | media | basquete;brasil;atletas | https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino
+@nota Vale quem defendeu a seleção brasileira adulta ou jogou na NBA (National Basketball Association) ou na WNBA (a liga feminina dos Estados Unidos). Lista feminina: https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Feminino
+Oscar Schmidt | Oscar;Mão Santa | c
+Hortência | Hortência Marcari;Hortência de Fátima Marcari | c
+Magic Paula | Paula;Maria Paula Silva;Maria Paula da Silva | c
+Anderson Varejão | c
+Leandrinho | Leandro Barbosa;Leandrinho Barbosa | c
+Nenê | Nenê Hilário;Maybyner Hilário | c
+Tiago Splitter | Splitter | c
+Janeth Arcain | Janeth | c
+Marcelinho Huertas | Marcelo Huertas;Huertas | i
+Raulzinho | Raul Neto;Raulzinho Neto | i
+Kamilla Cardoso | Kamilla | i
+Marcelinho Machado | Marcelo Machado | i
+Gui Santos | Guilherme Santos | i
+Wlamir Marques | Wlamir | r
+Amaury Pasos | Amaury | r
+Hélio Rubens | Hélio Rubens Garcia | r
+Ubiratan Maciel | Ubiratan;Bira | r
+Marcel de Souza | Marcel;Marcel Ponickwar de Souza;Marcel Souza | r
+Rafael Araújo | Rafael Bábby;Bábby;Baby;Rafael Baby | r
+Alex Garcia | r
+Guilherme Giovannoni | Giovannoni | r
+Cristiano Felício | Felício | r
+Bruno Caboclo | Caboclo | r
+Lucas Bebê | Lucas Nogueira;Bebê | r
+Fab Melo | Fabrício Melo | r
+Vitor Faverani | Faverani | r
+Didi Louzada | Louzada;Didi;Marcos Louzada | r
+Yago | Yago Santos;Yago Mateus dos Santos | r
+Pipoka | João Vianna;João Viana | r
+Damiris Dantas | Damiris | r
+Iziane Castro Marques | Iziane | r
+Alessandra Santos de Oliveira | Alessandra;Alessandra Oliveira | r
+Helen Luz | Helen | r
+Érika de Souza | Érika Cristina de Souza;Érika;Érika Souza | r
+Adrianinha | Adriana Moisés Pinto;Adriana Moisés | r
+Cíntia Tuiú | Cíntia Silva dos Santos | r
+Marta Sobral | Marta de Souza Sobral | r
+Leila Sobral | Leila de Souza Sobral | r
+Marquinhos Vieira | Marquinhos;Marcus Vinícius de Souza;Marcus Vinicius Vieira | r
+Rolando Ferreira | e
+Clarissa dos Santos | Clarissa Cristina dos Santos | e
+Vítor Benite | Benite | e
+Léo Meindl | Meindl | e
+Georginho de Paula | Georginho | e
+Carioquinha | Milton Setrini | e
+Rosa Branca | e
+Rogério Klafke | Klafke | e
+Demétrius Ferracciú | e
+Paulinho Villas-Bôas | e
+Algodão | e
+Sandro Varejão | e
+Valtinho | Válter Apolinário | e
+Nezinho | Welington dos Santos | e
+Rafael Hettsheimeir | Hettsheimeir | e
+Caio Torres | e
+JP Batista | e
+Murilo Becker | e
+Mãozinha Pereira | Mãozinha | e
+Silvinha Luz | Sílvia Luz | e
+Cláudia Neves | Claudinha Neves;Cláudia Maria das Neves | e
+Mamá | Jucimara Dantas | e
+Nádia Colhado | e
+Vânia Hernandes | e
+Roseli Gustavo | e
+Ruth de Souza | e
+Israel Andrade | e
+Gérson Victalino | e
+Kelly Santos | Kelly da Silva Santos | e
+Guerrinha | Jorge Guerra | l
+Cadum | Ricardo Guimarães | l
+Norminha | Norma Pinto de Oliveira | l
+Heleninha | Maria Helena Campos | l
+Mosquito | l
+Jatyr Schall | l
+
+== esp-nadadores-olimpicos | Cite um nadador ou nadadora que ganhou medalha olímpica na natação | media | natação;olimpíadas;atletas | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+@nota Vale medalha de ouro, prata ou bronze em prova de natação em piscina ou em águas abertas, de qualquer país, até Paris 2024; saltos ornamentais e nado artístico não contam. Lista feminina: https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(women)
+@atualizadoEm 2026-11
+Michael Phelps | Phelps | c
+César Cielo | Cielo | c
+Gustavo Borges | c
+Fernando Scherer | Xuxa;Scherer | c
+Ana Marcela Cunha | Ana Marcela | c
+Thiago Pereira | i
+Poliana Okimoto | Poliana;Okimoto | i
+Bruno Fratus | Fratus | i
+Ricardo Prado | i
+Mark Spitz | Spitz | i
+Ian Thorpe | Thorpe | i
+Ryan Lochte | Lochte | i
+Katie Ledecky | Ledecky | i
+Caeleb Dressel | Dressel | r
+Léon Marchand | Marchand | r
+Fernando Scheffer | Scheffer | r
+Johnny Weissmuller | Weissmuller | r
+Alexander Popov | Popov;Aleksandr Popov | r
+Adam Peaty | Peaty | r
+Federica Pellegrini | Pellegrini | r
+Missy Franklin | r
+Dara Torres | r
+Natalie Coughlin | Coughlin | r
+Sarah Sjöström | Sjöström | r
+Emma McKeon | McKeon | r
+Ariarne Titmus | Titmus | r
+Summer McIntosh | McIntosh | r
+Pieter van den Hoogenband | Van den Hoogenband;Hoogenband | r
+Matt Biondi | Biondi | r
+Grant Hackett | Hackett | r
+Kosuke Kitajima | Kitajima | r
+Sun Yang | r
+Florent Manaudou | r
+Laure Manaudou | r
+Katinka Hosszú | Hosszú | r
+Janet Evans | r
+Dawn Fraser | r
+Duke Kahanamoku | Kahanamoku | r
+Kyle Chalmers | Chalmers | e
+Chad le Clos | Le Clos | e
+Gary Hall Jr. | Gary Hall Júnior;Gary Hall | e
+Aaron Peirsol | Peirsol | e
+Gregorio Paltrinieri | Paltrinieri | e
+Cate Campbell | e
+Simone Manuel | e
+Penny Oleksiak | Oleksiak | e
+Kaylee McKeown | e
+Kristin Otto | e
+Inge de Bruijn | De Bruijn | e
+Rebecca Adlington | Adlington | e
+Mireia Belmonte | Belmonte | e
+Michael Klim | e
+Mark Tewksbury | e
+Daniel Wiffen | e
+Pan Zhanle | e
+Tetsuo Okamoto | e
+Manoel dos Santos | Manoel dos Santos Júnior;Manuel dos Santos | e
+Djan Madruga | e
+Edvaldo Valério | Bala | e
+Nathan Adrian | e
+David Popovici | Popovici | e
+Thomas Ceccon | Ceccon | e
+Gertrude Ederle | Ederle | e
+Kirsty Coventry | Coventry | e
+Cyro Delgado | Ciro Delgado | e
+Marcus Mattioli | e
+Jorge Fernandes | e
+Carlos Jayme | e
+Bobby Finke | e
+Kristóf Milák | Milák | e
+Ryan Murphy | e
+Ranomi Kromowidjojo | Kromowidjojo | e
+Torri Huske | e
+Krisztina Egerszegi | Egerszegi | e
+Leisel Jones | e
+Lilly King | e
+Rūta Meilutytė | e
+Ye Shiwen | e
+Gretchen Walsh | e
+Regan Smith | e
+Jason Lezak | Lezak | e
+Jenny Thompson | e
+Amy Van Dyken | e
+Kate Douglass | e
+Mollie O'Callaghan | e
+Stephanie Rice | e
+Lenny Krayzelburg | Krayzelburg | l
+Oussama Mellouli | Mellouli;Ous Mellouli | l
+John Naber | l
+Don Schollander | Schollander | l
+Anthony Ervin | l
+Roland Schoeman | l
+Park Tae-hwan | l
+Vladimir Salnikov | Salnikov | l
+Murray Rose | l
+Kieren Perkins | l
+Florian Wellbrock | Wellbrock | l
+Ahmed Hafnaoui | Hafnaoui | l
+Mack Horton | l
+Mike Barrowman | Barrowman | l
+Evgeny Rylov | Rylov | l
+Hubert Kós | l
+Shane Gould | l
+Libby Trickett | Lisbeth Trickett | l
+Franziska van Almsick | Van Almsick | l
+Ethelda Bleibtrey | l
+Roland Matthes | l
+Dániel Gyurta | l
+Eamon Sullivan | l
+Kornelia Ender | l
+
+== esp-ginastas-medalhistas | Cite um ou uma ginasta medalhista olímpico ou campeão mundial | media | ginástica;olimpíadas;atletas | https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+@nota Vale medalha olímpica (até Paris 2024) ou título mundial (até 2026) em ginástica artística, rítmica ou de trampolim, de qualquer país. Lista masculina: https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(men)
+@atualizadoEm 2026-11
+Rebeca Andrade | Rebeca | c
+Simone Biles | Biles | c
+Arthur Zanetti | Zanetti | c
+Diego Hypólito | Diego Hipólito;Hypólito | c
+Daiane dos Santos | Daiane | c
+Nadia Comăneci | Comaneci | c
+Flávia Saraiva | Saraiva | i
+Arthur Nory | Arthur Nory Mariano;Nory;Arthur Mariano | i
+Jade Barbosa | i
+Olga Korbut | Korbut | i
+Gabby Douglas | Gabrielle Douglas | i
+Sunisa Lee | Suni Lee | i
+Júlia Soares | r
+Lorrane Oliveira | r
+Aly Raisman | Raisman | r
+Mary Lou Retton | r
+Nastia Liukin | Liukin | r
+Shawn Johnson | r
+McKayla Maroney | Maroney | r
+Jordan Chiles | Chiles | r
+Kaylia Nemour | Nemour | r
+Larisa Latynina | Latynina | r
+Svetlana Khorkina | Khorkina | r
+Oksana Chusovitina | Chusovitina | r
+Kohei Uchimura | Uchimura | r
+Daiki Hashimoto | Hashimoto | r
+Max Whitlock | Whitlock | r
+Carlos Yulo | Yulo | r
+Epke Zonderland | Zonderland | r
+Alina Kabaeva | Kabaeva | r
+Věra Čáslavská | Caslavska | e
+Nellie Kim | e
+Shannon Miller | e
+Kerri Strug | e
+Cătălina Ponor | Ponor | e
+Daniela Silivaș | Silivas | e
+Lilia Podkopayeva | Podkopayeva | e
+Ludmilla Tourischeva | Tourischeva | e
+Vitaly Scherbo | Scherbo | e
+Alexei Nemov | Nemov | e
+Nikolai Andrianov | Andrianov | e
+Li Ning | e
+Paul Hamm | e
+Oleg Verniaiev | Verniaiev | e
+Shinnosuke Oka | e
+Evgeniya Kanaeva | Kanaeva;Yevgeniya Kanayeva | e
+Margarita Mamun | Mamun | e
+Yana Kudryavtseva | Kudryavtseva | e
+Darja Varfolomeev | Varfolomeev | e
+Carly Patterson | e
+Laurie Hernandez | e
+Aliya Mustafina | Mustafina | e
+Linoy Ashram | e
+Louis Smith | e
+Fabian Hambüchen | Hambüchen;Hambuechen | e
+Marian Drăgulescu | Dragulescu | e
+Viktoria Komova | Komova | e
+Zou Kai | e
+Jordyn Wieber | e
+Artem Dolgopyat | e
+Dominique Moceanu | Moceanu | l
+Ecaterina Szabo | l
+Yelena Shushunova | Elena Shushunova | l
+Tatiana Gutsu | Gutsu | l
+Lavinia Miloșovici | Milosovici | l
+Simona Amânar | Amanar | l
+Sandra Izbașa | Izbasa | l
+Hezly Rivera | l
+Alice D'Amato | l
+Manila Esposito | l
+Zhou Yaqin | l
+Qiu Qiyuan | l
+Sanne Wevers | l
+Nina Derwael | Derwael | l
+Yeo Seo-jeong | l
+Dina Averina | l
+Boryana Kaleyn | l
+Sofia Raffaeli | l
+Irina Tchachina | l
+Marina Lobatch | l
+Rosie MacLennan | Rosannagh MacLennan | l
+Irina Karavayeva | l
+Anna Dogonadze | l
+He Wenna | l
+Zhu Xueying | l
+Bryony Page | l
+Sawao Kato | l
+Boris Shakhlin | Shakhlin | l
+Yuri Titov | l
+Viktor Chukarin | Chukarin | l
+Takashi Ono | l
+Yang Wei | l
+Dmitry Bilozerchev | Bilozerchev | l
+Li Xiaoshuang | l
+Alexander Dityatin | Dityatin | l
+Peter Vidmar | l
+Bart Conner | l
+Mitch Gaylord | l
+Lou Yun | l
+Kenzo Shirai | Shirai | l
+Rhys McClenaghan | McClenaghan | l
+Krisztián Berki | Berki | l
+Eleftherios Petrounias | Petrounias | l
+Jury Chechi | Yuri Chechi;Chechi | l
+Nikita Nagornyy | Nagornyy | l
+Zhang Boheng | l
+Shinji Morisue | l
+
+== esp-boxeadores-campeoes | Cite um boxeador ou boxeadora que já foi campeão mundial no boxe profissional | media | boxe;lutas;campeões mundiais | https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+@nota Vale título mundial de qualquer categoria de peso reconhecido por uma das quatro grandes entidades (Associação, Conselho, Federação e Organização Mundial de Boxe) ou campeão linear anterior a elas; título só olímpico ou amador não conta. Categorias leves: listas da mesma série na Wikipédia.
+Muhammad Ali | Cassius Clay;Ali | c
+Mike Tyson | Tyson | c
+Floyd Mayweather Jr. | Floyd Mayweather;Mayweather | c
+Éder Jofre | Galo de Ouro;Jofre | c
+Acelino Freitas | Popó;Popó Freitas;Acelino Popó Freitas | c
+Manny Pacquiao | Pacquiao | c
+George Foreman | Foreman | c
+Evander Holyfield | Holyfield | c
+Canelo Álvarez | Canelo;Saúl Álvarez | c
+Joe Frazier | Frazier | i
+Rocky Marciano | Marciano | i
+Sugar Ray Robinson | i
+Sugar Ray Leonard | i
+Lennox Lewis | i
+Oscar De La Hoya | De La Hoya | i
+Tyson Fury | Fury | i
+Wladimir Klitschko | i
+Vitali Klitschko | i
+Anthony Joshua | i
+Oleksandr Usyk | Usyk | i
+Joe Louis | i
+Jack Dempsey | Dempsey | i
+Robson Conceição | i
+Bia Ferreira | Beatriz Ferreira | i
+Julio César Chávez | r
+Marvin Hagler | Hagler | r
+Roberto Durán | Manos de Piedra | r
+Thomas Hearns | Hearns | r
+Deontay Wilder | Wilder | r
+Larry Holmes | Holmes | r
+Roy Jones Jr. | Roy Jones;Roy Jones Júnior | r
+Gennady Golovkin | Golovkin | r
+Naoya Inoue | Inoue | r
+Terence Crawford | r
+Bernard Hopkins | Hopkins | r
+Sonny Liston | Liston | r
+Jack Johnson | r
+Carlos Monzón | Monzón | r
+Naseem Hamed | Prince Naseem Hamed;Naseem | r
+Miguel Cotto | Cotto | r
+Ricky Hatton | Hatton | r
+Gervonta Davis | r
+Vasiliy Lomachenko | Lomachenko | r
+Claressa Shields | r
+Katie Taylor | r
+Laila Ali | r
+Rose Volante | r
+Patrick Teixeira | r
+Valdemir Pereira | Sertão;Valdemir Sertão | r
+Holly Holm | r
+Miguel de Oliveira | r
+Riddick Bowe | Bowe | e
+Floyd Patterson | e
+Max Schmeling | Schmeling | e
+Ken Norton | e
+Leon Spinks | e
+Andy Ruiz Jr. | Andy Ruiz | e
+Gene Tunney | Tunney | e
+James J. Braddock | Braddock;James Braddock | e
+Ingemar Johansson | e
+Alexis Argüello | Argüello | e
+Pernell Whitaker | e
+Félix Trinidad | Trinidad | e
+Juan Manuel Márquez | e
+Erik Morales | e
+Marco Antonio Barrera | e
+Shane Mosley | Mosley | e
+Sergio Martínez | e
+Joe Calzaghe | Calzaghe | e
+Errol Spence Jr. | Errol Spence | e
+Michael Spinks | e
+Buster Douglas | James Douglas | e
+Primo Carnera | Carnera | e
+Max Baer | e
+John L. Sullivan | e
+Nikolai Valuev | Valuev | e
+Andre Ward | e
+Danny Garcia | e
+Joseph Parker | e
+Daniel Dubois | e
+Henry Armstrong | e
+Antonio Margarito | Margarito | l
+Teófimo López | l
+Amanda Serrano | l
+Cecilia Brækhus | Cecilia Braekhus | l
+Natascha Ragosina | l
+Savannah Marshall | l
+Chantelle Cameron | l
+Seniesa Estrada | l
+James J. Corbett | James Corbett | l
+Bob Fitzsimmons | Fitzsimmons | l
+James J. Jeffries | James Jeffries | l
+Jess Willard | l
+Tommy Burns | l
+Ezzard Charles | l
+Jersey Joe Walcott | l
+Trevor Berbick | l
+Tim Witherspoon | l
+Hasim Rahman | l
+Michael Moorer | l
+Ruslan Chagaev | l
+John Ruiz | l
+Chris Byrd | l
+Gerrie Coetzee | l
+Salvador Sánchez | l
+Wilfredo Gómez | l
+Wilfred Benítez | l
+Azumah Nelson | l
+Jeff Fenech | l
+Mike McCallum | l
+Julian Jackson | l
+Nigel Benn | l
+Carl Froch | l
+Keith Thurman | l
+Devin Haney | l
+Shakur Stevenson | l
+Jermell Charlo | l
+Dmitry Bivol | Bivol | l
+Artur Beterbiev | Beterbiev | l
+Adrien Broner | l
+Josh Taylor | l
+Ricardo López | l
+Humberto González | Chiquita González | l
+Michael Carbajal | l
+Pongsaklek Wonjongkam | l
+Jorge Arce | l
+Juan Francisco Estrada | l
+Román González | l
+Srisaket Sor Rungvisai | l
+Kazuto Ioka | l
+José Nápoles | l
+Jermain Taylor | l
+
+== esp-automobilismo-categorias | Cite uma categoria ou competição do automobilismo | media | automobilismo;corridas | https://pt.wikipedia.org/wiki/Automobilismo
+@nota Vale campeonato, categoria ou prova tradicional de corrida de carros, em qualquer tipo de pista ou percurso; corridas de moto não contam. Nome de equipe, piloto ou autódromo não é resposta.
+Fórmula 1 | F1;Fórmula Um | formula one | c
+Stock Car | Stock Car Brasil;Stock Car Pro Series;Stock Car V8 | c
+Fórmula Indy | IndyCar;IndyCar Series;Indy;Fórmula Indy Series;Indy Racing League | c
+NASCAR | NASCAR Sprint Cup;NASCAR Cup Series | c
+Kart | Kartismo;Karting | c
+Rali |  | rally | c
+Rali Dakar | Dakar;Rally Dakar;Paris-Dakar | dakar rally | c
+24 Horas de Le Mans | Le Mans | 24 hours of le mans | c
+500 Milhas de Indianápolis | Indy 500;500 Milhas | indianapolis 500 | i
+Fórmula E | i
+Campeonato Mundial de Rali | WRC;Mundial de Rali | world rally championship | i
+Grande Prêmio de Mônaco | GP de Mônaco | monaco grand prix | i
+Fórmula Truck | Campeonato Brasileiro de Fórmula Truck | i
+Rally dos Sertões | Rali dos Sertões;Sertões | i
+Copa Truck | i
+Daytona 500 | 500 Milhas de Daytona | i
+Mil Milhas Brasileiras | Mil Milhas | r
+24 Horas de Daytona |  | 24 hours of daytona | r
+Campeonato Mundial de Endurance | WEC;Mundial de Endurance;Campeonato Mundial de Resistência | World Endurance Championship | r
+Rali de Monte Carlo | Rally de Monte Carlo | Monte Carlo Rally | r
+DTM | Deutsche Tourenwagen Meisterschaft | r
+Rallycross | Ralicross;Campeonato Mundial de Rallycross | r
+Drift |  | drifting | r
+Turismo Carretera | r
+V8 Supercars | Supercars | r
+Campeonato Mundial de Carros de Turismo | WTCC | World Touring Car Championship | r
+12 Horas de Sebring | Sebring | 12 Hours of Sebring | r
+24 Horas de Spa |  | 24 Hours of Spa | r
+Dragster | r
+Fórmula Drift | r
+British Touring Car Championship | BTCC | e
+Subida de Pikes Peak | Pikes Peak;Pikes Peak International Hill Climb | e
+Bathurst 1000 | e
+Champ Car | e
+Race of Champions | e
+Autocross | e
+Kartcross | e
+Baja 1000 | e
+IMSA SportsCar Championship | IMSA | e
+1000 km de Nürburgring | e
+1000 km de Monza | e
+FIA GT |  | FIA GT Championship | e
+Camping World Truck Series | NASCAR Truck Series | e
+Velocidade na Terra | e
+Rali de San Remo | Rally de San Remo | Sanremo Rally | l
+Baja Portalegre 1000 | l
+Troféu Andros |  | Trophée Andros | l
+África Eco Race | l
+Rali Transibérico | l
+Taça Gordon Bennett | Gordon Bennett | Gordon Bennett Cup | l
+Paris-Madrid | l
+Rampa da Falperra | l
+Sprint cars | l
+Paris-Bordéus | l
+Campeonato Brasileiro de Turismo | l

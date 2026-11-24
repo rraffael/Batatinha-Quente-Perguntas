@@ -62,6 +62,7 @@ function aplicarTema(tema, texto, blocos) {
       while (L.length && !L[L.length - 1].trim()) L.pop();
       L.push("", `== ${b.id} | ${b.texto} | ${b.dificuldade} | ${b.tags} | ${b.fonte}`);
       if (b.nota) L.push(`@nota ${b.nota}`);
+      if (b.atualizadoEm) L.push(`@atualizadoEm ${b.atualizadoEm}`);
       registro.push({ tema, linha: [new Date().toISOString().slice(0, 10), lote, b.id, "NOVA", b.texto, b.nota ?? "", b.fonte].map(limpa).join("\t") });
       for (const o of b.ops) {
         if (o.op !== "+") { erros.push(`${o.onde}: pergunta nova só aceita "+"`); continue; }

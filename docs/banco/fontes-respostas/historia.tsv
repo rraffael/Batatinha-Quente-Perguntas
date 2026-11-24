@@ -1,0 +1,750 @@
+data	lote	pergunta	operação	resposta	detalhe	fontes
+2026-11-24	lote-1	his-presidentes-brasil	!	nota	Inclui interinos que assumiram o cargo e o presidente eleito que morreu antes da posse (reconhecido por lei). Não valem Júlio Prestes e Pedro Aleixo (impedidos de assumir) nem os integrantes das juntas militares de 1930 e 1969. (a lista-fonte traz as juntas e Pedro Aleixo como entradas sem número; a nota atual não diz se valem (https://pt.wikipedia.org/wiki/Lista_de_presidentes_do_Brasil))	
+2026-11-24	lote-1	his-presidentes-brasil	~	Washington Luís	Washington Luiz	https://pt.wikipedia.org/wiki/Lista_de_presidentes_do_Brasil https://pt.wikipedia.org/wiki/Washington_Lu%C3%ADs
+2026-11-24	lote-1	his-presidentes-brasil	~	Eurico Gaspar Dutra	Gaspar Dutra	https://pt.wikipedia.org/wiki/Lista_de_presidentes_do_Brasil
+2026-11-24	lote-1	his-imperadores-romanos	!	nota	Valem também os imperadores do Oriente até 1453. Imperadores de mesmo nome contam como uma resposta só; vale digitar com ou sem o número. (decisão do Raffael (22/11/2026): incluir os bizantinos, como na lista-fonte (https://pt.wikipedia.org/wiki/Lista_de_imperadores_romanos))	
+2026-11-24	lote-1	his-imperadores-romanos	~	Tibério	Tibério II Constantino	https://pt.wikipedia.org/wiki/Lista_de_imperadores_romanos
+2026-11-24	lote-1	his-imperadores-romanos	~	Leão	Leão, o Sábio;Leão, o Isauro	https://pt.wikipedia.org/wiki/Lista_de_imperadores_romanos
+2026-11-24	lote-1	his-imperadores-romanos	~	Constantino	Constantino XI;Constantino XI Paleólogo	https://pt.wikipedia.org/wiki/Lista_de_imperadores_romanos https://pt.wikipedia.org/wiki/Constantino_XI_Pale%C3%B3logo
+2026-11-24	lote-1	his-imperadores-romanos	=	Saloniano	→ Salonino (a lista-fonte em português usa "Salonino" (Públio Licínio Cornélio Salonino Valeriano); "Saloniano" não aparece (https://pt.wikipedia.org/wiki/Lista_de_imperadores_romanos))	
+2026-11-24	lote-1	his-imperadores-romanos	+	Justiniano	Justiniano I;Justiniano, o Grande;Justiniano II;Justinian;Justinian I;Justinian the Great	https://pt.wikipedia.org/wiki/Lista_de_imperadores_romanos https://pt.wikipedia.org/wiki/Justiniano
+2026-11-24	lote-1	his-imperadores-romanos	+	Heráclio	Heraclius	https://pt.wikipedia.org/wiki/Lista_de_imperadores_romanos https://pt.wikipedia.org/wiki/Her%C3%A1clio
+2026-11-24	lote-1	his-imperadores-romanos	+	Basílio	Basílio I;Basílio II;Basílio, o Macedônio;Basílio II Bulgaróctono;Bulgaróctono;Basil;Basil I;Basil II;Basil the Bulgar Slayer	https://pt.wikipedia.org/wiki/Lista_de_imperadores_romanos https://pt.wikipedia.org/wiki/Bas%C3%ADlio_II
+2026-11-24	lote-1	his-imperadores-romanos	+	Aleixo	Aleixo I Comneno;Aleixo I;Aleixo Comneno;Alexios I Komnenos;Alexios;Alejo I Comneno	https://pt.wikipedia.org/wiki/Lista_de_imperadores_romanos https://pt.wikipedia.org/wiki/Aleixo_I_Comneno
+2026-11-24	lote-1	his-imperadores-romanos	+	Miguel	Miguel I;Miguel II;Miguel III;Miguel IV;Miguel V;Miguel VI;Miguel VII;Miguel VIII;Miguel IX;Miguel VIII Paleólogo;Miguel I Rangabe;Miguel VII Ducas;Michael;Michael VIII Palaiologos	https://pt.wikipedia.org/wiki/Lista_de_imperadores_romanos
+2026-11-24	lote-1	his-imperadores-romanos	+	João	João I;João II;João III;João IV;João V;João VI;João VII;João VIII;João I Tzimisces;João II Comneno;João III Vatatzes;João VI Cantacuzeno;João VIII Paleólogo;John;John II Komnenos;Juan	https://pt.wikipedia.org/wiki/Lista_de_imperadores_romanos
+2026-11-24	lote-1	his-imperadores-romanos	+	Manuel	Manuel I;Manuel II;Manuel I Comneno;Manuel II Paleólogo;Manuel I Komnenos	https://pt.wikipedia.org/wiki/Lista_de_imperadores_romanos
+2026-11-24	lote-1	his-imperadores-romanos	+	Teodora	Teodora Porfirogênita;Theodora	https://pt.wikipedia.org/wiki/Lista_de_imperadores_romanos
+2026-11-24	lote-1	his-imperadores-romanos	+	Zoé	Zoé Porfirogênita	https://pt.wikipedia.org/wiki/Lista_de_imperadores_romanos
+2026-11-24	lote-1	his-imperadores-romanos	+	Isaque	Isaque I;Isaque II;Isaque I Comneno;Isaque II Ângelo;Isaac;Isaac II Angelos	https://pt.wikipedia.org/wiki/Lista_de_imperadores_romanos
+2026-11-24	lote-1	his-imperadores-romanos	+	Alexandre	Alexander;Alejandro	https://pt.wikipedia.org/wiki/Lista_de_imperadores_romanos
+2026-11-24	lote-1	his-imperadores-romanos	+	Heraclonas	Heracleonas;Heraklonas	https://pt.wikipedia.org/wiki/Lista_de_imperadores_romanos
+2026-11-24	lote-1	his-imperadores-romanos	+	Leôncio	Leontios	https://pt.wikipedia.org/wiki/Lista_de_imperadores_romanos
+2026-11-24	lote-1	his-imperadores-romanos	+	Filípico	Filípico Bardanes;Philippikos	https://pt.wikipedia.org/wiki/Lista_de_imperadores_romanos
+2026-11-24	lote-1	his-imperadores-romanos	+	Artavasdo	Artabasdos	https://pt.wikipedia.org/wiki/Lista_de_imperadores_romanos
+2026-11-24	lote-1	his-imperadores-romanos	+	Estaurácio	Staurakios	https://pt.wikipedia.org/wiki/Lista_de_imperadores_romanos
+2026-11-24	lote-1	his-imperadores-romanos	+	Eudócia	Eudócia Macrembolitissa;Eudokia	https://pt.wikipedia.org/wiki/Lista_de_imperadores_romanos
+2026-11-24	lote-1	his-imperadores-romanos	+	Teodoro	Teodoro I Láscaris;Teodoro II Láscaris;Teodoro Láscaris;Theodore Laskaris	https://pt.wikipedia.org/wiki/Lista_de_imperadores_romanos
+2026-11-24	lote-1	his-imperadores-romanos	+	Marco	Marcus	https://pt.wikipedia.org/wiki/Lista_de_imperadores_romanos
+2026-11-24	lote-1	his-imperadores-romanos	+	Teofilacto	Theophylact	https://pt.wikipedia.org/wiki/Lista_de_imperadores_romanos
+2026-11-24	lote-1	his-imperadores-romanos	+	Tecla	Thekla	https://pt.wikipedia.org/wiki/Lista_de_imperadores_romanos
+2026-11-24	lote-1	his-imperadores-romanos	+	Cristóvão	Cristóvão Lecapeno;Christopher Lekapenos	https://pt.wikipedia.org/wiki/Lista_de_imperadores_romanos
+2026-11-24	lote-1	his-imperadores-romanos	+	Estêvão	Estêvão Lecapeno;Stephen Lekapenos	https://pt.wikipedia.org/wiki/Lista_de_imperadores_romanos
+2026-11-24	lote-1	his-imperadores-romanos	+	Mateus	Mateus Cantacuzeno;Matthew Kantakouzenos	https://pt.wikipedia.org/wiki/Lista_de_imperadores_romanos
+2026-11-24	lote-1	his-imperadores-romanos	+	Irene	Irene de Atenas;Irene of Athens	https://pt.wikipedia.org/wiki/Lista_de_imperadores_romanos https://pt.wikipedia.org/wiki/Irene_de_Atenas
+2026-11-24	lote-1	his-imperadores-romanos	+	Justino	Justino I;Justino II;Justin;Justin I;Justin II	https://pt.wikipedia.org/wiki/Lista_de_imperadores_romanos
+2026-11-24	lote-1	his-imperadores-romanos	+	Maurício	Maurice	https://pt.wikipedia.org/wiki/Lista_de_imperadores_romanos https://pt.wikipedia.org/wiki/Maur%C3%ADcio_(imperador)
+2026-11-24	lote-1	his-imperadores-romanos	+	Focas	Phocas	https://pt.wikipedia.org/wiki/Lista_de_imperadores_romanos https://pt.wikipedia.org/wiki/Focas
+2026-11-24	lote-1	his-imperadores-romanos	+	Anastácio	Anastácio I;Anastácio II;Anastasius;Anastasius I;Anastasio	https://pt.wikipedia.org/wiki/Lista_de_imperadores_romanos
+2026-11-24	lote-1	his-imperadores-romanos	+	Nicéforo	Nicéforo I;Nicéforo II Focas;Nicéforo II;Nicéforo III;Nikephoros	https://pt.wikipedia.org/wiki/Lista_de_imperadores_romanos
+2026-11-24	lote-1	his-imperadores-romanos	+	Teófilo	Theophilos	https://pt.wikipedia.org/wiki/Lista_de_imperadores_romanos https://pt.wikipedia.org/wiki/Te%C3%B3filo_(imperador)
+2026-11-24	lote-1	his-imperadores-romanos	+	Andrônico	Andrônico I Comneno;Andrônico II Paleólogo;Andrônico III Paleólogo;Andronikos	https://pt.wikipedia.org/wiki/Lista_de_imperadores_romanos
+2026-11-24	lote-1	his-guerras	+	Revolta de Espártaco	Terceira Guerra Servil;Guerra de Espártaco;Guerra dos Gladiadores;Third Servile War;Spartacus revolt;Tercera guerra servil	https://pt.wikipedia.org/wiki/Terceira_Guerra_Servil
+2026-11-24	lote-1	his-civilizacoes-antigas	x~	Tupis	Tupis-guaranis (tupi-guarani é o tronco/família que abrange também os guaranis (outra resposta da pergunta); a forma confunde as duas)	
+2026-11-24	lote-1	his-civilizacoes-antigas	+	Sabeus	Reino de Sabá;Sabá;Sabaeans;Sheba;Sabeos	https://pt.wikipedia.org/wiki/Sabeus
+2026-11-24	lote-1	his-faraos	~	Narmer	Menés	https://pt.wikipedia.org/wiki/Lista_de_fara%C3%B3s https://pt.wikipedia.org/wiki/Men%C3%A9s
+2026-11-24	lote-1	his-faraos	+	Xerxes	Xerxes I;Xerxes, o Grande;Jerjes	https://pt.wikipedia.org/wiki/Lista_de_fara%C3%B3s https://pt.wikipedia.org/wiki/Xerxes_I
+2026-11-24	lote-1	his-faraos	+	Artaxerxes	Artaxerxes I;Artaxerxes II;Artaxerxes III;Artajerjes	https://pt.wikipedia.org/wiki/Lista_de_fara%C3%B3s https://pt.wikipedia.org/wiki/Artaxerxes_I
+2026-11-24	lote-1	his-faraos	+	Filipe Arrideu	Filipe III da Macedônia;Filipe Arrideus;Philip III Arrhidaeus;Philip Arrhidaeus;Filipo III Arrideo	https://pt.wikipedia.org/wiki/Lista_de_fara%C3%B3s https://pt.wikipedia.org/wiki/Filipe_III_da_Maced%C3%B3nia
+2026-11-24	lote-1	his-faraos	+	Antefe	Intef;Intefe;Antefe I;Antefe II;Antefe III;Intef II	https://pt.wikipedia.org/wiki/Lista_de_fara%C3%B3s
+2026-11-24	lote-1	his-faraos	+	Neferefré	Raneferef	https://pt.wikipedia.org/wiki/Lista_de_fara%C3%B3s https://pt.wikipedia.org/wiki/Neferefr%C3%A9
+2026-11-24	lote-1	his-faraos	+	Taquelote	Takelot;Taquelote I;Taquelote II;Taquelote III	https://pt.wikipedia.org/wiki/Lista_de_fara%C3%B3s
+2026-11-24	lote-1	his-faraos	+	Salitis		https://pt.wikipedia.org/wiki/Lista_de_fara%C3%B3s
+2026-11-24	lote-1	his-faraos	+	Teos	Tachos;Djedhor	https://pt.wikipedia.org/wiki/Lista_de_fara%C3%B3s https://en.wikipedia.org/wiki/Teos_of_Egypt
+2026-11-24	lote-1	his-faraos	+	Amirteu	Amenirdisu;Amirtaeus;Amyrtaeus	https://pt.wikipedia.org/wiki/Lista_de_fara%C3%B3s https://pt.wikipedia.org/wiki/Amirteu
+2026-11-24	lote-1	his-faraos	+	Anedjib	Miebido;Adjib	https://pt.wikipedia.org/wiki/Lista_de_fara%C3%B3s https://en.wikipedia.org/wiki/Anedjib
+2026-11-24	lote-1	his-faraos	+	Semerkhet	Semempsés	https://pt.wikipedia.org/wiki/Lista_de_fara%C3%B3s https://en.wikipedia.org/wiki/Semerkhet
+2026-11-24	lote-1	his-faraos	+	Qaa	Bienequés	https://pt.wikipedia.org/wiki/Lista_de_fara%C3%B3s https://en.wikipedia.org/wiki/Qa%27a
+2026-11-24	lote-1	his-faraos	+	Ninetjer	Nynetjer;Binótris	https://pt.wikipedia.org/wiki/Lista_de_fara%C3%B3s https://en.wikipedia.org/wiki/Nynetjer
+2026-11-24	lote-1	his-filosofos	NOVA	Cite um(a) filósofo(a)	Vale qualquer época e país, desde que a pessoa seja reconhecida principalmente como filósofo(a).	https://www.infoescola.com/filosofos/
+2026-11-24	lote-1	his-filosofos	+	Sócrates		https://pt.wikipedia.org/wiki/S%C3%B3crates
+2026-11-24	lote-1	his-filosofos	+	Platão	Plato;Platón	https://pt.wikipedia.org/wiki/Plat%C3%A3o
+2026-11-24	lote-1	his-filosofos	+	Aristóteles	Aristotle	https://pt.wikipedia.org/wiki/Arist%C3%B3teles
+2026-11-24	lote-1	his-filosofos	+	Friedrich Nietzsche	Nietzsche	https://pt.wikipedia.org/wiki/Friedrich_Nietzsche
+2026-11-24	lote-1	his-filosofos	+	Karl Marx	Marx	https://pt.wikipedia.org/wiki/Karl_Marx
+2026-11-24	lote-1	his-filosofos	+	René Descartes	Descartes	https://pt.wikipedia.org/wiki/Ren%C3%A9_Descartes
+2026-11-24	lote-1	his-filosofos	+	Immanuel Kant	Kant	https://pt.wikipedia.org/wiki/Immanuel_Kant
+2026-11-24	lote-1	his-filosofos	+	Nicolau Maquiavel	Maquiavel;Niccolò Machiavelli;Machiavelli;Maquiavelo	https://pt.wikipedia.org/wiki/Nicolau_Maquiavel
+2026-11-24	lote-1	his-filosofos	+	Confúcio	Confucius	https://pt.wikipedia.org/wiki/Conf%C3%BAcio
+2026-11-24	lote-1	his-filosofos	+	Jean-Paul Sartre	Sartre	https://pt.wikipedia.org/wiki/Jean-Paul_Sartre
+2026-11-24	lote-1	his-filosofos	+	Jean-Jacques Rousseau	Rousseau	https://pt.wikipedia.org/wiki/Jean-Jacques_Rousseau
+2026-11-24	lote-1	his-filosofos	+	Pitágoras	Pitágoras de Samos;Pythagoras	https://pt.wikipedia.org/wiki/Pit%C3%A1goras
+2026-11-24	lote-1	his-filosofos	+	Santo Agostinho	Agostinho;Agostinho de Hipona;Augustine;Saint Augustine;San Agustín	https://pt.wikipedia.org/wiki/Agostinho_de_Hipona
+2026-11-24	lote-1	his-filosofos	+	Tomás de Aquino	São Tomás de Aquino;Santo Tomás de Aquino;Thomas Aquinas	https://pt.wikipedia.org/wiki/Tom%C3%A1s_de_Aquino
+2026-11-24	lote-1	his-filosofos	+	Voltaire		https://pt.wikipedia.org/wiki/Voltaire
+2026-11-24	lote-1	his-filosofos	+	Montesquieu		https://pt.wikipedia.org/wiki/Montesquieu
+2026-11-24	lote-1	his-filosofos	+	Hegel	Georg Wilhelm Friedrich Hegel;Georg Hegel	https://pt.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel
+2026-11-24	lote-1	his-filosofos	+	Tales de Mileto	Tales;Thales;Thales of Miletus	https://pt.wikipedia.org/wiki/Tales_de_Mileto
+2026-11-24	lote-1	his-filosofos	+	John Locke	Locke	https://pt.wikipedia.org/wiki/John_Locke
+2026-11-24	lote-1	his-filosofos	+	Thomas Hobbes	Hobbes	https://pt.wikipedia.org/wiki/Thomas_Hobbes
+2026-11-24	lote-1	his-filosofos	+	Arthur Schopenhauer	Schopenhauer	https://pt.wikipedia.org/wiki/Arthur_Schopenhauer
+2026-11-24	lote-1	his-filosofos	+	Heráclito	Heraclitus	https://pt.wikipedia.org/wiki/Her%C3%A1clito
+2026-11-24	lote-1	his-filosofos	+	Epicuro	Epicuro de Samos;Epicurus	https://pt.wikipedia.org/wiki/Epicuro_de_Samos
+2026-11-24	lote-1	his-filosofos	+	Diógenes	Diógenes de Sinope;Diógenes, o Cínico	https://pt.wikipedia.org/wiki/Di%C3%B3genes_de_Sinope
+2026-11-24	lote-1	his-filosofos	+	Simone de Beauvoir	Beauvoir	https://pt.wikipedia.org/wiki/Simone_de_Beauvoir
+2026-11-24	lote-1	his-filosofos	+	Espinosa	Baruch Espinoza;Baruch Spinoza;Spinoza;Bento de Espinosa	https://pt.wikipedia.org/wiki/Baruch_Espinoza
+2026-11-24	lote-1	his-filosofos	+	David Hume	Hume	https://pt.wikipedia.org/wiki/David_Hume
+2026-11-24	lote-1	his-filosofos	+	Sêneca		https://pt.wikipedia.org/wiki/S%C3%A9neca
+2026-11-24	lote-1	his-filosofos	+	Søren Kierkegaard	Kierkegaard;Soren Kierkegaard	https://pt.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard
+2026-11-24	lote-1	his-filosofos	+	Michel Foucault	Foucault	https://pt.wikipedia.org/wiki/Michel_Foucault
+2026-11-24	lote-1	his-filosofos	+	Hannah Arendt	Arendt	https://pt.wikipedia.org/wiki/Hannah_Arendt
+2026-11-24	lote-1	his-filosofos	+	Lao-Tsé	Lao Zi;Laozi;Lao Tzu	https://pt.wikipedia.org/wiki/Lao_Zi
+2026-11-24	lote-1	his-filosofos	+	Francis Bacon		https://pt.wikipedia.org/wiki/Francis_Bacon
+2026-11-24	lote-1	his-filosofos	+	Mário Sérgio Cortella	Cortella	https://pt.wikipedia.org/wiki/Mario_Sergio_Cortella
+2026-11-24	lote-1	his-filosofos	+	Martin Heidegger	Heidegger	https://pt.wikipedia.org/wiki/Martin_Heidegger
+2026-11-24	lote-1	his-filosofos	+	Gottfried Leibniz	Leibniz;Gottfried Wilhelm Leibniz	https://pt.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz
+2026-11-24	lote-1	his-filosofos	+	Albert Camus	Camus	https://pt.wikipedia.org/wiki/Albert_Camus https://www.infoescola.com/biografias/albert-camus/
+2026-11-24	lote-1	his-filosofos	+	John Stuart Mill	Stuart Mill	https://pt.wikipedia.org/wiki/John_Stuart_Mill
+2026-11-24	lote-1	his-filosofos	+	Auguste Comte	Comte	https://pt.wikipedia.org/wiki/Auguste_Comte
+2026-11-24	lote-1	his-filosofos	+	Erasmo de Roterdã	Erasmo;Erasmo de Roterdão;Erasmus	https://pt.wikipedia.org/wiki/Erasmo_de_Roterd%C3%A3
+2026-11-24	lote-1	his-filosofos	+	Giordano Bruno		https://pt.wikipedia.org/wiki/Giordano_Bruno https://www.infoescola.com/filosofos/giordano-bruno/
+2026-11-24	lote-1	his-filosofos	+	Michel de Montaigne	Montaigne	https://pt.wikipedia.org/wiki/Michel_de_Montaigne
+2026-11-24	lote-1	his-filosofos	+	Protágoras		https://pt.wikipedia.org/wiki/Prot%C3%A1goras https://www.infoescola.com/biografias/protagoras/
+2026-11-24	lote-1	his-filosofos	+	Avicena	Ibn Sina;Avicenna	https://pt.wikipedia.org/wiki/Avicena https://www.infoescola.com/biografias/avicena/
+2026-11-24	lote-1	his-filosofos	+	Bertrand Russell		https://pt.wikipedia.org/wiki/Bertrand_Russell
+2026-11-24	lote-1	his-filosofos	+	Ludwig Wittgenstein	Wittgenstein	https://pt.wikipedia.org/wiki/Ludwig_Wittgenstein
+2026-11-24	lote-1	his-filosofos	+	Parmênides		https://pt.wikipedia.org/wiki/Parm%C3%AAnides
+2026-11-24	lote-1	his-filosofos	+	Demócrito	Democritus	https://pt.wikipedia.org/wiki/Dem%C3%B3crito
+2026-11-24	lote-1	his-filosofos	+	Marilena Chaui	Chaui	https://pt.wikipedia.org/wiki/Marilena_Chaui
+2026-11-24	lote-1	his-filosofos	+	Karl Popper	Popper	https://pt.wikipedia.org/wiki/Karl_Popper
+2026-11-24	lote-1	his-filosofos	+	Jacques Derrida	Derrida	https://pt.wikipedia.org/wiki/Jacques_Derrida
+2026-11-24	lote-1	his-filosofos	+	Gilles Deleuze	Deleuze	https://pt.wikipedia.org/wiki/Gilles_Deleuze
+2026-11-24	lote-1	his-filosofos	+	Jürgen Habermas	Habermas	https://pt.wikipedia.org/wiki/J%C3%BCrgen_Habermas
+2026-11-24	lote-1	his-filosofos	+	Theodor Adorno	Adorno;Theodor W. Adorno	https://pt.wikipedia.org/wiki/Theodor_W._Adorno https://www.infoescola.com/biografias/theodor-adorno/
+2026-11-24	lote-1	his-filosofos	+	Walter Benjamin		https://pt.wikipedia.org/wiki/Walter_Benjamin https://www.infoescola.com/biografias/walter-benjamin/
+2026-11-24	lote-1	his-filosofos	+	Herbert Marcuse	Marcuse	https://pt.wikipedia.org/wiki/Herbert_Marcuse
+2026-11-24	lote-1	his-filosofos	+	Antonio Gramsci	Gramsci	https://pt.wikipedia.org/wiki/Antonio_Gramsci
+2026-11-24	lote-1	his-filosofos	+	Edmund Husserl	Husserl	https://pt.wikipedia.org/wiki/Edmund_Husserl
+2026-11-24	lote-1	his-filosofos	+	Slavoj Žižek	Zizek	https://pt.wikipedia.org/wiki/Slavoj_%C5%BDi%C5%BEek
+2026-11-24	lote-1	his-filosofos	+	Byung-Chul Han		https://pt.wikipedia.org/wiki/Byung-Chul_Han
+2026-11-24	lote-1	his-filosofos	+	Judith Butler		https://pt.wikipedia.org/wiki/Judith_Butler
+2026-11-24	lote-1	his-filosofos	+	Djamila Ribeiro		https://pt.wikipedia.org/wiki/Djamila_Ribeiro
+2026-11-24	lote-1	his-filosofos	+	Luiz Felipe Pondé	Pondé	https://pt.wikipedia.org/wiki/Luiz_Felipe_Pond%C3%A9
+2026-11-24	lote-1	his-filosofos	+	Plotino	Plotinus	https://pt.wikipedia.org/wiki/Plotino
+2026-11-24	lote-1	his-filosofos	+	Epicteto	Epiteto;Epictetus	https://pt.wikipedia.org/wiki/Epicteto
+2026-11-24	lote-1	his-filosofos	+	Hipátia	Hipácia;Hipátia de Alexandria;Hypatia	https://pt.wikipedia.org/wiki/Hip%C3%A1tia https://www.infoescola.com/biografias/hipatia/
+2026-11-24	lote-1	his-filosofos	+	Anaximandro	Anaximandro de Mileto;Anaximander	https://pt.wikipedia.org/wiki/Anaximandro https://www.infoescola.com/filosofia/anaximandro/
+2026-11-24	lote-1	his-filosofos	+	Anaxímenes	Anaxímenes de Mileto	https://pt.wikipedia.org/wiki/Anax%C3%ADmenes_de_Mileto https://www.infoescola.com/filosofia/anaximenes/
+2026-11-24	lote-1	his-filosofos	+	Empédocles		https://pt.wikipedia.org/wiki/Emp%C3%A9docles
+2026-11-24	lote-1	his-filosofos	+	Zenão de Eleia	Zeno de Eleia;Zeno of Elea;Zenón de Elea	https://pt.wikipedia.org/wiki/Zen%C3%A3o_de_Eleia https://www.infoescola.com/filosofos/zenao/
+2026-11-24	lote-1	his-filosofos	+	Ludwig Feuerbach	Feuerbach	https://pt.wikipedia.org/wiki/Ludwig_Feuerbach https://www.infoescola.com/filosofos/ludwig-feuerbach/
+2026-11-24	lote-1	his-filosofos	+	Anaxágoras	Anaxágoras de Clazômenas	https://www.infoescola.com/biografias/anaxagoras/ https://pt.wikipedia.org/wiki/Anax%C3%A1goras
+2026-11-24	lote-1	his-filosofos	+	Mikhail Bakhtin	Bakhtin	https://www.infoescola.com/biografias/mikhail-bakhtin/ https://pt.wikipedia.org/wiki/Mikhail_Bakhtin
+2026-11-24	lote-1	his-filosofos	+	Zenão de Cítio	Zenão de Citium;Zeno de Cítio;Zeno of Citium;Zenón de Citio	https://pt.wikipedia.org/wiki/Zen%C3%A3o_de_C%C3%ADtio
+2026-11-24	lote-1	his-filosofos	+	Boécio	Boethius	https://pt.wikipedia.org/wiki/Bo%C3%A9cio
+2026-11-24	lote-1	his-filosofos	+	Guilherme de Ockham	Ockham;Guilherme de Occam;William of Ockham	https://pt.wikipedia.org/wiki/Guilherme_de_Ockham
+2026-11-24	lote-1	his-filosofos	+	Averróis	Averroes	https://pt.wikipedia.org/wiki/Averr%C3%B3is
+2026-11-24	lote-1	his-filosofos	+	Maimônides		https://pt.wikipedia.org/wiki/Maim%C3%B4nides
+2026-11-24	lote-1	his-filosofos	+	Anselmo de Cantuária	Santo Anselmo;Anselm of Canterbury	https://pt.wikipedia.org/wiki/Anselmo_de_Cantu%C3%A1ria
+2026-11-24	lote-1	his-filosofos	+	Pedro Abelardo	Abelardo;Peter Abelard	https://pt.wikipedia.org/wiki/Pedro_Abelardo
+2026-11-24	lote-1	his-filosofos	+	George Berkeley	Berkeley	https://pt.wikipedia.org/wiki/George_Berkeley
+2026-11-24	lote-1	his-filosofos	+	Johann Gottlieb Fichte	Fichte	https://pt.wikipedia.org/wiki/Johann_Gottlieb_Fichte
+2026-11-24	lote-1	his-filosofos	+	Henri Bergson	Bergson	https://pt.wikipedia.org/wiki/Henri_Bergson
+2026-11-24	lote-1	his-filosofos	+	William James		https://pt.wikipedia.org/wiki/William_James
+2026-11-24	lote-1	his-filosofos	+	John Dewey	Dewey	https://pt.wikipedia.org/wiki/John_Dewey
+2026-11-24	lote-1	his-filosofos	+	Maurice Merleau-Ponty	Merleau-Ponty	https://pt.wikipedia.org/wiki/Maurice_Merleau-Ponty
+2026-11-24	lote-1	his-filosofos	+	Simone Weil		https://pt.wikipedia.org/wiki/Simone_Weil
+2026-11-24	lote-1	his-filosofos	+	Gottlob Frege	Frege	https://pt.wikipedia.org/wiki/Gottlob_Frege
+2026-11-24	lote-1	his-filosofos	+	John Rawls	Rawls	https://pt.wikipedia.org/wiki/John_Rawls
+2026-11-24	lote-1	his-filosofos	+	Peter Singer		https://pt.wikipedia.org/wiki/Peter_Singer
+2026-11-24	lote-1	his-filosofos	+	Mêncio	Mengzi;Mencius	https://pt.wikipedia.org/wiki/M%C3%AAncio
+2026-11-24	lote-1	his-filosofos	+	Zhuangzi	Chuang Tzu	https://pt.wikipedia.org/wiki/Zhuangzi
+2026-11-24	lote-1	his-filosofos	+	José Ortega y Gasset	Ortega y Gasset	https://pt.wikipedia.org/wiki/Jos%C3%A9_Ortega_y_Gasset
+2026-11-24	lote-1	his-filosofos	+	Vilém Flusser	Flusser	https://pt.wikipedia.org/wiki/Vil%C3%A9m_Flusser
+2026-11-24	lote-1	his-filosofos	+	Farias Brito	Raimundo de Farias Brito	https://pt.wikipedia.org/wiki/Farias_Brito
+2026-11-24	lote-1	his-filosofos	+	Leucipo	Leucipo de Abdera;Leucippus	https://www.infoescola.com/filosofos/leucipo/ https://pt.wikipedia.org/wiki/Leucipo
+2026-11-24	lote-1	his-filosofos	+	Pierre Lévy		https://www.infoescola.com/biografias/pierre-levy/ https://pt.wikipedia.org/wiki/Pierre_L%C3%A9vy
+2026-11-24	lote-1	his-filosofos	+	Giorgio Agamben	Agamben	https://www.infoescola.com/biografias/giorgio-agamben/ https://pt.wikipedia.org/wiki/Giorgio_Agamben
+2026-11-24	lote-1	his-filosofos	+	Saul Kripke	Kripke	https://www.infoescola.com/biografias/saul-kripke/ https://pt.wikipedia.org/wiki/Saul_Kripke
+2026-11-24	lote-1	his-filosofos	+	Robert Nozick	Nozick	https://www.infoescola.com/biografias/robert-nozick/ https://pt.wikipedia.org/wiki/Robert_Nozick
+2026-11-24	lote-1	his-filosofos	+	Alvin Plantinga	Plantinga;Alvin Carl Plantinga	https://www.infoescola.com/biografias/alvin-carl-plantinga/ https://pt.wikipedia.org/wiki/Alvin_Plantinga
+2026-11-24	lote-1	his-filosofos	+	Edmund Gettier	Gettier	https://www.infoescola.com/biografias/edmund-gettier/ https://pt.wikipedia.org/wiki/Edmund_Gettier
+2026-11-24	lote-1	his-filosofos	+	Benedito Nunes		https://www.infoescola.com/biografias/benedito-nunes/ https://pt.wikipedia.org/wiki/Benedito_Nunes
+2026-11-24	lote-1	his-invencoes	NOVA	Cite uma invenção criada antes do ano 1900	Vale objeto, máquina ou técnica inventada pelo ser humano até 1899. Não valem descobertas da natureza (elementos, leis, doenças) nem marcas.	https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Roda	Wheel;Rueda	https://pt.wikipedia.org/wiki/Roda https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Lâmpada incandescente	Lâmpada;Lâmpada elétrica;Light bulb;Bombilla	https://pt.wikipedia.org/wiki/L%C3%A2mpada_incandescente https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Telefone	Telephone;Teléfono	https://pt.wikipedia.org/wiki/Telefone https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Prensa de tipos móveis	Prensa móvel;Prensa;Imprensa;Prensa de Gutenberg;Printing press;Imprenta	https://pt.wikipedia.org/wiki/Prensa_m%C3%B3vel https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Bússola	Compass;Brújula	https://pt.wikipedia.org/wiki/B%C3%BAssola https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Pólvora	Gunpowder	https://pt.wikipedia.org/wiki/P%C3%B3lvora https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Papel	Paper	https://pt.wikipedia.org/wiki/Papel https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Máquina a vapor	Motor a vapor;Steam engine;Máquina de vapor	https://pt.wikipedia.org/wiki/Motor_a_vapor https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Automóvel	Carro;Car	https://pt.wikipedia.org/wiki/Autom%C3%B3vel https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Óculos	Glasses;Gafas	https://pt.wikipedia.org/wiki/%C3%93culos https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Telescópio	Telescope	https://pt.wikipedia.org/wiki/Telesc%C3%B3pio https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Bicicleta	Bicycle	https://pt.wikipedia.org/wiki/Bicicleta https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Fotografia	Câmera fotográfica;Máquina fotográfica;Photography	https://pt.wikipedia.org/wiki/Fotografia https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Microscópio	Microscope	https://pt.wikipedia.org/wiki/Microsc%C3%B3pio https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Escrita	Writing;Escritura	https://pt.wikipedia.org/wiki/Escrita https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Relógio	Clock;Reloj	https://pt.wikipedia.org/wiki/Rel%C3%B3gio https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Locomotiva a vapor	Locomotiva;Trem;Trem a vapor;Steam locomotive;Locomotive;Locomotora	https://pt.wikipedia.org/wiki/Locomotiva_a_vapor https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Telégrafo	Telegrafia;Telégrafo elétrico;Telegraph	https://pt.wikipedia.org/wiki/Telegrafia https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es https://pt.wikipedia.org/wiki/Tel%C3%A9grafo
+2026-11-24	lote-1	his-invencoes	+	Pilha elétrica	Pilha;Bateria;Pilha de Volta;Pilha voltaica;Battery;Voltaic pile;Pila	https://pt.wikipedia.org/wiki/Bateria_(eletricidade) https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es https://pt.wikipedia.org/wiki/Pilha_de_Volta
+2026-11-24	lote-1	his-invencoes	+	Para-raios	Para-raio;Lightning rod;Pararrayos	https://pt.wikipedia.org/wiki/Para-raios
+2026-11-24	lote-1	his-invencoes	+	Moeda	Coin;Moneda	https://pt.wikipedia.org/wiki/Moeda https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Alfabeto	Alphabet	https://pt.wikipedia.org/wiki/Alfabeto https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Fonógrafo	Gramofone;Phonograph;Gramophone;Gramófono	https://pt.wikipedia.org/wiki/Fon%C3%B3grafo https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Cinematógrafo	Cinema;Cinematograph	https://pt.wikipedia.org/wiki/Cinemat%C3%B3grafo https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Dinamite	Dynamite;Dinamita	https://pt.wikipedia.org/wiki/Dinamite https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Balão de ar quente	Balão;Aeróstato;Hot air balloon;Globo aerostático	https://pt.wikipedia.org/wiki/Bal%C3%A3o_de_ar_quente https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Máquina de escrever	Typewriter;Máquina de escribir	https://pt.wikipedia.org/wiki/M%C3%A1quina_de_escrever https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Vacina	Vaccine;Vacuna	https://pt.wikipedia.org/wiki/Vacina https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Palito de fósforo	Fósforo;Match;Cerilla	https://pt.wikipedia.org/wiki/Palito_de_f%C3%B3sforo https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es https://pt.wikipedia.org/wiki/F%C3%B3sforo_(objeto)
+2026-11-24	lote-1	his-invencoes	+	Moinho de vento	Windmill;Molino de viento	https://pt.wikipedia.org/wiki/Moinho_de_vento https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Catapulta	Catapult	https://pt.wikipedia.org/wiki/Catapulta https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Canhão	Cannon;Cañón	https://pt.wikipedia.org/wiki/Canh%C3%A3o https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Arco e flecha	Bow and arrow	https://pt.wikipedia.org/wiki/Arco_e_flecha https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Piano		https://pt.wikipedia.org/wiki/Piano https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Termômetro	Thermometer	https://pt.wikipedia.org/wiki/Term%C3%B4metro https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Ábaco	Abacus	https://pt.wikipedia.org/wiki/%C3%81baco
+2026-11-24	lote-1	his-invencoes	+	Ampulheta	Relógio de areia;Hourglass;Reloj de arena	https://pt.wikipedia.org/wiki/Ampulheta
+2026-11-24	lote-1	his-invencoes	+	Revólver		https://pt.wikipedia.org/wiki/Rev%C3%B3lver https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Metralhadora	Machine gun;Ametralladora	https://pt.wikipedia.org/wiki/Metralhadora https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Astrolábio	Astrolabe	https://pt.wikipedia.org/wiki/Astrol%C3%A1bio https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Máquina de costura	Sewing machine;Máquina de coser	https://pt.wikipedia.org/wiki/M%C3%A1quina_de_costura
+2026-11-24	lote-1	his-invencoes	+	Arado	Plough;Plow	https://pt.wikipedia.org/wiki/Arado
+2026-11-24	lote-1	his-invencoes	+	Relógio de sol	Relógio solar;Sundial;Reloj de sol	https://pt.wikipedia.org/wiki/Rel%C3%B3gio_de_sol
+2026-11-24	lote-1	his-invencoes	+	Paraquedas	Parachute;Paracaídas	https://pt.wikipedia.org/wiki/Paraquedas https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Barômetro	Barometer	https://pt.wikipedia.org/wiki/Bar%C3%B3metro https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es https://pt.wikipedia.org/wiki/Bar%C3%B4metro
+2026-11-24	lote-1	his-invencoes	+	Barco a vapor	Navio a vapor;Steamboat;Steamship;Barco de vapor	https://pt.wikipedia.org/wiki/Barco_a_vapor https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Motor elétrico	Electric motor;Motor eléctrico	https://pt.wikipedia.org/wiki/Motor_el%C3%A9trico https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Motor de combustão interna	Motor a combustão;Motor a explosão;Internal combustion engine	https://pt.wikipedia.org/wiki/Motor_de_combust%C3%A3o_interna https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Pasteurização	Pasteurization	https://pt.wikipedia.org/wiki/Pasteuriza%C3%A7%C3%A3o https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Zíper	Fecho ecler;Zipper	https://pt.wikipedia.org/wiki/Z%C3%ADper https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Carrinho de mão	Carriola;Wheelbarrow;Carretilla	https://pt.wikipedia.org/wiki/Carrinho_de_m%C3%A3o https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Fogos de artifício	Fireworks;Fuegos artificiales	https://pt.wikipedia.org/wiki/Fogo_de_artif%C3%ADcio https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Tesoura	Scissors;Tijeras	https://pt.wikipedia.org/wiki/Tesoura https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Porcelana	Porcelain	https://pt.wikipedia.org/wiki/Porcelana https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Daguerreótipo	Daguerreotype	https://pt.wikipedia.org/wiki/Daguerre%C3%B3tipo
+2026-11-24	lote-1	his-invencoes	+	Estetoscópio	Stethoscope	https://pt.wikipedia.org/wiki/Estetosc%C3%B3pio
+2026-11-24	lote-1	his-invencoes	+	Motor a diesel	Motor diesel;Diesel engine	https://pt.wikipedia.org/wiki/Motor_a_diesel
+2026-11-24	lote-1	his-invencoes	+	Elevador	Elevator;Ascensor	https://pt.wikipedia.org/wiki/Elevador
+2026-11-24	lote-1	his-invencoes	+	Sismógrafo	Sismoscópio;Seismograph	https://pt.wikipedia.org/wiki/Sism%C3%B3grafo
+2026-11-24	lote-1	his-invencoes	+	Caneta-tinteiro	Fountain pen;Pluma estilográfica	https://pt.wikipedia.org/wiki/Caneta-tinteiro
+2026-11-24	lote-1	his-invencoes	+	Alfinete de segurança	Alfinete de fralda;Safety pin;Imperdible	https://pt.wikipedia.org/wiki/Alfinete_de_seguran%C3%A7a
+2026-11-24	lote-1	his-invencoes	+	Sextante	Sextant	https://pt.wikipedia.org/wiki/Sextante
+2026-11-24	lote-1	his-invencoes	+	Estribo	Stirrup	https://pt.wikipedia.org/wiki/Estribo https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+2026-11-24	lote-1	his-invencoes	+	Pascalina	Máquina de Pascal;Pascaline	https://pt.wikipedia.org/wiki/Pascalina
+2026-11-24	lote-1	his-invencoes	+	Tear mecânico	Power loom	https://en.wikipedia.org/wiki/Power_loom
+2026-11-24	lote-1	his-invencoes	+	Arame farpado	Barbed wire;Alambre de púas	https://pt.wikipedia.org/wiki/Arame_farpado
+2026-11-24	lote-1	his-invencoes	+	Pneu	Pneumático;Tire;Tyre;Neumático	https://pt.wikipedia.org/wiki/Pneu
+2026-11-24	lote-1	his-invencoes	+	Submarino	Submarine	https://pt.wikipedia.org/wiki/Submarino
+2026-11-24	lote-1	his-invencoes	+	Braille	Sistema braille	https://pt.wikipedia.org/wiki/Braille
+2026-11-24	lote-1	his-invencoes	+	Código Morse	Morse;Morse code	https://pt.wikipedia.org/wiki/C%C3%B3digo_Morse
+2026-11-24	lote-1	his-invencoes	+	Cronômetro marítimo	Marine chronometer	https://pt.wikipedia.org/wiki/Cron%C3%B4metro_mar%C3%ADtimo
+2026-11-24	lote-1	his-invencoes	+	Linotipo	Linotype	https://pt.wikipedia.org/wiki/Linotipo
+2026-11-24	lote-1	his-invencoes	+	Dínamo	Gerador elétrico;Dynamo	https://pt.wikipedia.org/wiki/D%C3%ADnamo
+2026-11-24	lote-1	his-invencoes	+	Clepsidra	Relógio de água;Water clock	https://pt.wikipedia.org/wiki/Clepsidra
+2026-11-24	lote-1	his-invencoes	+	Aqueduto	Aqueduct;Acueducto	https://pt.wikipedia.org/wiki/Aqueduto
+2026-11-24	lote-1	his-invencoes	+	Cinetoscópio	Kinetoscope	https://pt.wikipedia.org/wiki/Cinetosc%C3%B3pio
+2026-11-24	lote-1	his-invencoes	+	Descaroçador de algodão	Cotton gin	https://pt.wikipedia.org/wiki/Descaro%C3%A7ador_de_algod%C3%A3o
+2026-11-24	lote-1	his-periodos	NOVA	Cite um período ou era da história (do Brasil ou do mundo)	Valem as divisões consagradas da história geral e da história do Brasil, inclusive as fases anteriores à escrita. Não valem guerras isoladas nem séculos genéricos.	https://pt.wikipedia.org/wiki/Periodiza%C3%A7%C3%A3o_da_hist%C3%B3ria
+2026-11-24	lote-1	his-periodos	+	Idade Média	Medievo;Período medieval;Era Medieval;Middle Ages;Edad Media	https://pt.wikipedia.org/wiki/Idade_M%C3%A9dia https://pt.wikipedia.org/wiki/Periodiza%C3%A7%C3%A3o_da_hist%C3%B3ria
+2026-11-24	lote-1	his-periodos	+	Pré-história	Prehistory;Prehistoria	https://pt.wikipedia.org/wiki/Pr%C3%A9-hist%C3%B3ria https://pt.wikipedia.org/wiki/Periodiza%C3%A7%C3%A3o_da_hist%C3%B3ria
+2026-11-24	lote-1	his-periodos	+	Idade Antiga	Antiguidade;Mundo Antigo;Antiquity;Ancient history;Edad Antigua	https://pt.wikipedia.org/wiki/Idade_Antiga https://pt.wikipedia.org/wiki/Periodiza%C3%A7%C3%A3o_da_hist%C3%B3ria
+2026-11-24	lote-1	his-periodos	+	Idade Moderna	Época Moderna;Edad Moderna	https://pt.wikipedia.org/wiki/Idade_Moderna https://pt.wikipedia.org/wiki/Periodiza%C3%A7%C3%A3o_da_hist%C3%B3ria
+2026-11-24	lote-1	his-periodos	+	Idade Contemporânea	Contemporaneidade;Edad Contemporánea	https://pt.wikipedia.org/wiki/Idade_Contempor%C3%A2nea https://pt.wikipedia.org/wiki/Periodiza%C3%A7%C3%A3o_da_hist%C3%B3ria
+2026-11-24	lote-1	his-periodos	+	Renascimento	Renascença;Renascentismo;Renaissance;Renacimiento	https://pt.wikipedia.org/wiki/Renascimento
+2026-11-24	lote-1	his-periodos	+	Era Vargas		https://pt.wikipedia.org/wiki/Era_Vargas https://pt.wikipedia.org/wiki/Periodiza%C3%A7%C3%A3o_da_hist%C3%B3ria_do_Brasil https://pt.wikipedia.org/wiki/Predefini%C3%A7%C3%A3o:Hist%C3%B3ria_do_Brasil
+2026-11-24	lote-1	his-periodos	+	Ditadura Militar	Regime Militar;Ditadura militar brasileira	https://pt.wikipedia.org/wiki/Ditadura_militar_brasileira https://pt.wikipedia.org/wiki/Periodiza%C3%A7%C3%A3o_da_hist%C3%B3ria_do_Brasil https://pt.wikipedia.org/wiki/Predefini%C3%A7%C3%A3o:Hist%C3%B3ria_do_Brasil
+2026-11-24	lote-1	his-periodos	+	Idade da Pedra	Stone Age;Edad de Piedra	https://pt.wikipedia.org/wiki/Idade_da_Pedra https://pt.wikipedia.org/wiki/Periodiza%C3%A7%C3%A3o_da_hist%C3%B3ria
+2026-11-24	lote-1	his-periodos	+	Paleolítico	Idade da Pedra Lascada;Período Paleolítico;Paleolithic	https://pt.wikipedia.org/wiki/Paleol%C3%ADtico https://pt.wikipedia.org/wiki/Periodiza%C3%A7%C3%A3o_da_hist%C3%B3ria
+2026-11-24	lote-1	his-periodos	+	Neolítico	Idade da Pedra Polida;Período Neolítico;Neolithic	https://pt.wikipedia.org/wiki/Neol%C3%ADtico https://pt.wikipedia.org/wiki/Periodiza%C3%A7%C3%A3o_da_hist%C3%B3ria
+2026-11-24	lote-1	his-periodos	+	Idade dos Metais	Metal Age;Edad de los Metales	https://pt.wikipedia.org/wiki/Idade_dos_Metais https://pt.wikipedia.org/wiki/Periodiza%C3%A7%C3%A3o_da_hist%C3%B3ria
+2026-11-24	lote-1	his-periodos	+	Brasil Colônia	Brasil Colonial;Período Colonial;Colônia	https://pt.wikipedia.org/wiki/Brasil_Col%C3%B4nia https://pt.wikipedia.org/wiki/Periodiza%C3%A7%C3%A3o_da_hist%C3%B3ria_do_Brasil https://pt.wikipedia.org/wiki/Predefini%C3%A7%C3%A3o:Hist%C3%B3ria_do_Brasil
+2026-11-24	lote-1	his-periodos	+	Império do Brasil	Brasil Império;Brasil Imperial;Período Imperial	https://pt.wikipedia.org/wiki/Imp%C3%A9rio_do_Brasil https://pt.wikipedia.org/wiki/Periodiza%C3%A7%C3%A3o_da_hist%C3%B3ria_do_Brasil https://pt.wikipedia.org/wiki/Predefini%C3%A7%C3%A3o:Hist%C3%B3ria_do_Brasil
+2026-11-24	lote-1	his-periodos	+	República Velha	Primeira República;República Oligárquica;República do Café com Leite	https://pt.wikipedia.org/wiki/Primeira_Rep%C3%BAblica_Brasileira https://pt.wikipedia.org/wiki/Periodiza%C3%A7%C3%A3o_da_hist%C3%B3ria_do_Brasil https://pt.wikipedia.org/wiki/Rep%C3%BAblica_Olig%C3%A1rquica https://pt.wikipedia.org/wiki/Predefini%C3%A7%C3%A3o:Hist%C3%B3ria_do_Brasil
+2026-11-24	lote-1	his-periodos	+	Estado Novo		https://pt.wikipedia.org/wiki/Estado_Novo_(Brasil) https://pt.wikipedia.org/wiki/Periodiza%C3%A7%C3%A3o_da_hist%C3%B3ria_do_Brasil https://pt.wikipedia.org/wiki/Predefini%C3%A7%C3%A3o:Hist%C3%B3ria_do_Brasil
+2026-11-24	lote-1	his-periodos	+	Nova República	Redemocratização	https://pt.wikipedia.org/wiki/Nova_Rep%C3%BAblica https://pt.wikipedia.org/wiki/Periodiza%C3%A7%C3%A3o_da_hist%C3%B3ria_do_Brasil https://pt.wikipedia.org/wiki/Predefini%C3%A7%C3%A3o:Hist%C3%B3ria_do_Brasil
+2026-11-24	lote-1	his-periodos	+	Primeiro Reinado		https://pt.wikipedia.org/wiki/Primeiro_reinado https://pt.wikipedia.org/wiki/Periodiza%C3%A7%C3%A3o_da_hist%C3%B3ria_do_Brasil https://pt.wikipedia.org/wiki/Primeiro_Reinado https://pt.wikipedia.org/wiki/Predefini%C3%A7%C3%A3o:Hist%C3%B3ria_do_Brasil
+2026-11-24	lote-1	his-periodos	+	Segundo Reinado		https://pt.wikipedia.org/wiki/Segundo_reinado https://pt.wikipedia.org/wiki/Periodiza%C3%A7%C3%A3o_da_hist%C3%B3ria_do_Brasil https://pt.wikipedia.org/wiki/Segundo_Reinado https://pt.wikipedia.org/wiki/Predefini%C3%A7%C3%A3o:Hist%C3%B3ria_do_Brasil
+2026-11-24	lote-1	his-periodos	+	Período Regencial	Regência;Período das Regências	https://pt.wikipedia.org/wiki/Per%C3%ADodo_regencial_(Brasil) https://pt.wikipedia.org/wiki/Periodiza%C3%A7%C3%A3o_da_hist%C3%B3ria_do_Brasil https://pt.wikipedia.org/wiki/Per%C3%ADodo_Regencial https://pt.wikipedia.org/wiki/Predefini%C3%A7%C3%A3o:Hist%C3%B3ria_do_Brasil
+2026-11-24	lote-1	his-periodos	+	Grandes Navegações	Era dos Descobrimentos;Descobrimentos;Expansão Marítima;Age of Discovery	https://pt.wikipedia.org/wiki/Era_dos_Descobrimentos
+2026-11-24	lote-1	his-periodos	+	Revolução Industrial	Industrial Revolution;Revolución Industrial	https://pt.wikipedia.org/wiki/Revolu%C3%A7%C3%A3o_Industrial
+2026-11-24	lote-1	his-periodos	+	Iluminismo	Século das Luzes;Ilustração;Era das Luzes;Enlightenment;Age of Enlightenment;Ilustración	https://pt.wikipedia.org/wiki/Iluminismo
+2026-11-24	lote-1	his-periodos	+	Idade do Bronze	Bronze Age;Edad del Bronce	https://pt.wikipedia.org/wiki/Idade_do_Bronze https://pt.wikipedia.org/wiki/Periodiza%C3%A7%C3%A3o_da_hist%C3%B3ria
+2026-11-24	lote-1	his-periodos	+	Idade do Ferro	Iron Age;Edad del Hierro	https://pt.wikipedia.org/wiki/Idade_do_Ferro https://pt.wikipedia.org/wiki/Periodiza%C3%A7%C3%A3o_da_hist%C3%B3ria
+2026-11-24	lote-1	his-periodos	+	Belle Époque	Bela Época	https://pt.wikipedia.org/wiki/Belle_%C3%89poque
+2026-11-24	lote-1	his-periodos	+	República Populista	Período Populista;República de 46	https://pt.wikipedia.org/wiki/Per%C3%ADodo_Populista https://pt.wikipedia.org/wiki/Periodiza%C3%A7%C3%A3o_da_hist%C3%B3ria_do_Brasil https://pt.wikipedia.org/wiki/Quarta_Rep%C3%BAblica_Brasileira https://pt.wikipedia.org/wiki/Predefini%C3%A7%C3%A3o:Hist%C3%B3ria_do_Brasil
+2026-11-24	lote-1	his-periodos	+	Antiguidade Clássica	Era Clássica;Classical antiquity;Antigüedad clásica	https://pt.wikipedia.org/wiki/Antiguidade_Cl%C3%A1ssica https://pt.wikipedia.org/wiki/Periodiza%C3%A7%C3%A3o_da_hist%C3%B3ria
+2026-11-24	lote-1	his-periodos	+	Era Vitoriana	Victorian era;Época victoriana	https://pt.wikipedia.org/wiki/Era_vitoriana
+2026-11-24	lote-1	his-periodos	+	Idade do Cobre	Calcolítico;Copper Age;Chalcolithic;Edad del Cobre	https://pt.wikipedia.org/wiki/Idade_do_Cobre https://pt.wikipedia.org/wiki/Periodiza%C3%A7%C3%A3o_da_hist%C3%B3ria https://pt.wikipedia.org/wiki/Calcol%C3%ADtico
+2026-11-24	lote-1	his-periodos	+	Mesolítico	Epipaleolítico;Mesolithic	https://pt.wikipedia.org/wiki/Mesol%C3%ADtico
+2026-11-24	lote-1	his-periodos	+	Período Entreguerras	Entreguerras;Interwar period	https://pt.wikipedia.org/wiki/Per%C3%ADodo_entreguerras
+2026-11-24	lote-1	his-periodos	+	República da Espada		https://pt.wikipedia.org/wiki/Rep%C3%BAblica_da_Espada
+2026-11-24	lote-1	his-periodos	+	União Ibérica	Domínio Espanhol;Dinastia Filipina;Iberian Union;Unión Ibérica	https://pt.wikipedia.org/wiki/Uni%C3%A3o_Ib%C3%A9rica
+2026-11-24	lote-1	his-periodos	+	Período Pré-cabralino	Pré-cabralino;Brasil Pré-cabralino;História Pré-Cabralina	https://pt.wikipedia.org/wiki/Hist%C3%B3ria_pr%C3%A9-cabralina_do_Brasil https://pt.wikipedia.org/wiki/Per%C3%ADodo_pr%C3%A9-cabralino https://pt.wikipedia.org/wiki/Predefini%C3%A7%C3%A3o:Hist%C3%B3ria_do_Brasil
+2026-11-24	lote-1	his-periodos	+	Período Helenístico	Helenismo;Hellenistic period	https://pt.wikipedia.org/wiki/Per%C3%ADodo_helen%C3%ADstico
+2026-11-24	lote-1	his-periodos	+	Antigo Regime	Ancien Régime;Antiguo Régimen	https://pt.wikipedia.org/wiki/Antigo_Regime
+2026-11-24	lote-1	his-periodos	+	Era Napoleônica	Período Napoleônico;Napoleonic era	https://pt.wikipedia.org/wiki/Primeiro_Imp%C3%A9rio_Franc%C3%AAs https://en.wikipedia.org/wiki/Napoleonic_era
+2026-11-24	lote-1	his-periodos	+	Era Viking	Viking Age	https://pt.wikipedia.org/wiki/Era_Viking
+2026-11-24	lote-1	his-periodos	+	Alta Idade Média	Early Middle Ages;Alta Edad Media	https://pt.wikipedia.org/wiki/Alta_Idade_M%C3%A9dia
+2026-11-24	lote-1	his-periodos	+	Baixa Idade Média	Late Middle Ages;Baja Edad Media	https://pt.wikipedia.org/wiki/Baixa_Idade_M%C3%A9dia
+2026-11-24	lote-1	his-periodos	+	Período Joanino	Brasil Joanino	https://pt.wikipedia.org/wiki/Per%C3%ADodo_joanino
+2026-11-24	lote-1	his-periodos	+	Ciclo do Ouro	Ciclo da Mineração	https://pt.wikipedia.org/wiki/Ciclo_do_ouro
+2026-11-24	lote-1	his-periodos	+	Ciclo da Cana-de-Açúcar	Ciclo do Açúcar;Ciclo da Cana	https://pt.wikipedia.org/wiki/Ciclo_da_cana-de-a%C3%A7%C3%BAcar
+2026-11-24	lote-1	his-periodos	+	Ciclo do Café		https://pt.wikipedia.org/wiki/Ciclo_do_caf%C3%A9
+2026-11-24	lote-1	his-periodos	+	Período Pré-Colonial	Pré-Colonial	https://pt.wikipedia.org/wiki/Predefini%C3%A7%C3%A3o:Hist%C3%B3ria_do_Brasil https://pt.wikipedia.org/wiki/Per%C3%ADodo_pr%C3%A9-colonial_do_Brasil
+2026-11-24	lote-1	his-periodos	+	Era Pré-colombiana	Pré-colombiano;Período Pré-colombiano;Pre-Columbian era	https://pt.wikipedia.org/wiki/Era_pr%C3%A9-colombiana
+2026-11-24	lote-1	his-periodos	+	Antiguidade Tardia	Late Antiquity;Antigüedad tardía	https://pt.wikipedia.org/wiki/Antiguidade_Tardia
+2026-11-24	lote-1	his-periodos	+	Proto-história	Protohistory	https://pt.wikipedia.org/wiki/Proto-hist%C3%B3ria
+2026-11-24	lote-1	his-periodos	+	Milagre Econômico	Milagre Brasileiro	https://pt.wikipedia.org/wiki/Milagre_econ%C3%B4mico_brasileiro
+2026-11-24	lote-1	his-periodos	+	Era Elisabetana	Período Elisabetano;Era Isabelina;Elizabethan era	https://pt.wikipedia.org/wiki/Era_isabelina
+2026-11-24	lote-1	his-periodos	+	Anos Loucos	Loucos Anos 20;Roaring Twenties;Felices años veinte	https://en.wikipedia.org/wiki/Roaring_Twenties
+2026-11-24	lote-1	his-periodos	+	Ciclo da Borracha		https://pt.wikipedia.org/wiki/Ciclo_da_borracha
+2026-11-24	lote-1	his-periodos	+	Era Meiji	Período Meiji;Meiji era	https://pt.wikipedia.org/wiki/Era_Meiji
+2026-11-24	lote-1	his-periodos	+	Período Edo	Xogunato Tokugawa;Edo period	https://pt.wikipedia.org/wiki/Per%C3%ADodo_Edo
+2026-11-24	lote-1	his-periodos	+	Período Sengoku	Sengoku period	https://pt.wikipedia.org/wiki/Per%C3%ADodo_Sengoku
+2026-11-24	lote-1	his-periodos	+	Período dos Estados Combatentes	Período dos Reinos Combatentes;Reinos Combatentes;Estados Combatentes;Warring States period	https://pt.wikipedia.org/wiki/Per%C3%ADodo_dos_Reinos_Combatentes
+2026-11-24	lote-1	his-periodos	+	Período Arcaico	Grécia Arcaica;Archaic Greece	https://pt.wikipedia.org/wiki/Gr%C3%A9cia_Arcaica
+2026-11-24	lote-1	his-periodos	+	Período Homérico	Homeric Greece	https://pt.wikipedia.org/wiki/Per%C3%ADodo_hom%C3%A9rico
+2026-11-24	lote-1	his-periodos	+	Período Clássico	Grécia Clássica;Classical Greece	https://pt.wikipedia.org/wiki/Gr%C3%A9cia_Cl%C3%A1ssica
+2026-11-24	lote-1	his-segunda-guerra	NOVA	Cite um líder político ou militar da Segunda Guerra Mundial	Vale chefe de Estado ou de governo, ministro, dirigente do regime ou comandante militar de qualquer país envolvido, com atuação entre 1939 e 1945.	https://en.wikipedia.org/wiki/Allied_leaders_of_World_War_II
+2026-11-24	lote-1	his-segunda-guerra	+	Adolf Hitler	Hitler;Adolfo Hitler	https://pt.wikipedia.org/wiki/Adolf_Hitler https://en.wikipedia.org/wiki/Axis_leaders_of_World_War_II
+2026-11-24	lote-1	his-segunda-guerra	+	Winston Churchill	Churchill	https://pt.wikipedia.org/wiki/Winston_Churchill https://en.wikipedia.org/wiki/Allied_leaders_of_World_War_II
+2026-11-24	lote-1	his-segunda-guerra	+	Josef Stalin	Stalin;Estaline;Joseph Stalin	https://pt.wikipedia.org/wiki/Josef_Stalin https://en.wikipedia.org/wiki/Allied_leaders_of_World_War_II
+2026-11-24	lote-1	his-segunda-guerra	+	Benito Mussolini	Mussolini	https://pt.wikipedia.org/wiki/Benito_Mussolini https://en.wikipedia.org/wiki/Axis_leaders_of_World_War_II
+2026-11-24	lote-1	his-segunda-guerra	+	Franklin Roosevelt	Roosevelt;Franklin Delano Roosevelt;Franklin D. Roosevelt;FDR	https://pt.wikipedia.org/wiki/Franklin_D._Roosevelt https://en.wikipedia.org/wiki/Allied_leaders_of_World_War_II
+2026-11-24	lote-1	his-segunda-guerra	+	Hirohito	Imperador Hirohito	https://pt.wikipedia.org/wiki/Hirohito https://en.wikipedia.org/wiki/Axis_leaders_of_World_War_II
+2026-11-24	lote-1	his-segunda-guerra	+	Getúlio Vargas	Getúlio;Vargas	https://pt.wikipedia.org/wiki/Get%C3%BAlio_Vargas https://en.wikipedia.org/wiki/Allied_leaders_of_World_War_II
+2026-11-24	lote-1	his-segunda-guerra	+	Charles de Gaulle	De Gaulle;General de Gaulle	https://pt.wikipedia.org/wiki/Charles_de_Gaulle https://en.wikipedia.org/wiki/Allied_leaders_of_World_War_II
+2026-11-24	lote-1	his-segunda-guerra	+	Dwight Eisenhower	Eisenhower;Ike;Dwight D. Eisenhower	https://pt.wikipedia.org/wiki/Dwight_D._Eisenhower https://en.wikipedia.org/wiki/Allied_leaders_of_World_War_II
+2026-11-24	lote-1	his-segunda-guerra	+	Harry Truman	Truman;Harry S. Truman	https://pt.wikipedia.org/wiki/Harry_S._Truman https://en.wikipedia.org/wiki/Allied_leaders_of_World_War_II
+2026-11-24	lote-1	his-segunda-guerra	+	Douglas MacArthur	MacArthur;General MacArthur	https://pt.wikipedia.org/wiki/Douglas_MacArthur https://en.wikipedia.org/wiki/Allied_leaders_of_World_War_II
+2026-11-24	lote-1	his-segunda-guerra	+	Erwin Rommel	Rommel;Raposa do Deserto	https://pt.wikipedia.org/wiki/Erwin_Rommel https://en.wikipedia.org/wiki/Axis_leaders_of_World_War_II
+2026-11-24	lote-1	his-segunda-guerra	+	George Patton	Patton;General Patton;George S. Patton	https://pt.wikipedia.org/wiki/George_S._Patton https://en.wikipedia.org/wiki/Allied_leaders_of_World_War_II
+2026-11-24	lote-1	his-segunda-guerra	+	Bernard Montgomery	Montgomery;Marechal Montgomery;Monty	https://pt.wikipedia.org/wiki/Bernard_Montgomery https://en.wikipedia.org/wiki/Allied_leaders_of_World_War_II
+2026-11-24	lote-1	his-segunda-guerra	+	Hideki Tojo	Tojo	https://pt.wikipedia.org/wiki/Hideki_T%C5%8Dj%C5%8D https://en.wikipedia.org/wiki/Axis_leaders_of_World_War_II
+2026-11-24	lote-1	his-segunda-guerra	+	Heinrich Himmler	Himmler	https://pt.wikipedia.org/wiki/Heinrich_Himmler https://en.wikipedia.org/wiki/Axis_leaders_of_World_War_II
+2026-11-24	lote-1	his-segunda-guerra	+	Hermann Göring	Göring;Goering;Hermann Goering	https://pt.wikipedia.org/wiki/Hermann_G%C3%B6ring https://en.wikipedia.org/wiki/Axis_leaders_of_World_War_II
+2026-11-24	lote-1	his-segunda-guerra	+	Joseph Goebbels	Goebbels	https://pt.wikipedia.org/wiki/Joseph_Goebbels https://en.wikipedia.org/wiki/Axis_leaders_of_World_War_II
+2026-11-24	lote-1	his-segunda-guerra	+	Philippe Pétain	Pétain;Marechal Pétain	https://pt.wikipedia.org/wiki/Philippe_P%C3%A9tain https://en.wikipedia.org/wiki/Axis_leaders_of_World_War_II
+2026-11-24	lote-1	his-segunda-guerra	+	Chiang Kai-shek	Chiang	https://pt.wikipedia.org/wiki/Chiang_Kai-shek https://en.wikipedia.org/wiki/Allied_leaders_of_World_War_II
+2026-11-24	lote-1	his-segunda-guerra	+	Mao Tsé-Tung	Mao;Mao Zedong	https://pt.wikipedia.org/wiki/Mao_Ts%C3%A9-Tung https://en.wikipedia.org/wiki/Allied_leaders_of_World_War_II https://pt.wikipedia.org/wiki/Mao_Ts%C3%A9-tung
+2026-11-24	lote-1	his-segunda-guerra	+	Isoroku Yamamoto	Yamamoto;Almirante Yamamoto	https://pt.wikipedia.org/wiki/Isoroku_Yamamoto https://en.wikipedia.org/wiki/Axis_leaders_of_World_War_II
+2026-11-24	lote-1	his-segunda-guerra	+	Gueorgui Júkov	Júkov;Zhukov;Georgy Zhukov;Georgi Jukov	https://pt.wikipedia.org/wiki/Gueorgui_J%C3%BAkov https://en.wikipedia.org/wiki/Allied_leaders_of_World_War_II https://pt.wikipedia.org/wiki/Gueorgui_Jukov
+2026-11-24	lote-1	his-segunda-guerra	+	Eurico Gaspar Dutra	Dutra;Gaspar Dutra;General Dutra	https://pt.wikipedia.org/wiki/Eurico_Gaspar_Dutra https://en.wikipedia.org/wiki/Allied_leaders_of_World_War_II
+2026-11-24	lote-1	his-segunda-guerra	+	Rudolf Hess	Hess	https://pt.wikipedia.org/wiki/Rudolf_Hess https://en.wikipedia.org/wiki/Axis_leaders_of_World_War_II https://pt.wikipedia.org/wiki/Rudolf_He%C3%9F
+2026-11-24	lote-1	his-segunda-guerra	+	Karl Dönitz	Dönitz;Doenitz	https://pt.wikipedia.org/wiki/Karl_D%C3%B6nitz https://en.wikipedia.org/wiki/Axis_leaders_of_World_War_II
+2026-11-24	lote-1	his-segunda-guerra	+	Neville Chamberlain	Chamberlain	https://pt.wikipedia.org/wiki/Neville_Chamberlain https://en.wikipedia.org/wiki/Allied_leaders_of_World_War_II
+2026-11-24	lote-1	his-segunda-guerra	+	Chester Nimitz	Nimitz;Almirante Nimitz	https://pt.wikipedia.org/wiki/Chester_W._Nimitz https://en.wikipedia.org/wiki/Allied_leaders_of_World_War_II https://pt.wikipedia.org/wiki/Chester_Nimitz
+2026-11-24	lote-1	his-segunda-guerra	+	Josip Broz Tito	Tito;Marechal Tito	https://pt.wikipedia.org/wiki/Josip_Broz_Tito https://en.wikipedia.org/wiki/Allied_leaders_of_World_War_II
+2026-11-24	lote-1	his-segunda-guerra	+	Jorge VI	Rei Jorge VI;George VI	https://pt.wikipedia.org/wiki/Jorge_VI_do_Reino_Unido https://en.wikipedia.org/wiki/Allied_leaders_of_World_War_II
+2026-11-24	lote-1	his-segunda-guerra	+	Clement Attlee	Attlee	https://pt.wikipedia.org/wiki/Clement_Attlee https://en.wikipedia.org/wiki/Allied_leaders_of_World_War_II
+2026-11-24	lote-1	his-segunda-guerra	+	Viatcheslav Molotov	Molotov;Vyacheslav Molotov	https://pt.wikipedia.org/wiki/Viatcheslav_Molotov https://en.wikipedia.org/wiki/Allied_leaders_of_World_War_II
+2026-11-24	lote-1	his-segunda-guerra	+	Reinhard Heydrich	Heydrich	https://pt.wikipedia.org/wiki/Reinhard_Heydrich https://en.wikipedia.org/wiki/Axis_leaders_of_World_War_II
+2026-11-24	lote-1	his-segunda-guerra	+	Mascarenhas de Morais	Mascarenhas de Moraes;João Batista Mascarenhas de Morais;Marechal Mascarenhas;Marechal Mascarenhas de Moraes	https://pt.wikipedia.org/wiki/Mascarenhas_de_Morais https://en.wikipedia.org/wiki/Allied_leaders_of_World_War_II
+2026-11-24	lote-1	his-segunda-guerra	+	Joachim von Ribbentrop	Ribbentrop	https://pt.wikipedia.org/wiki/Joachim_von_Ribbentrop https://en.wikipedia.org/wiki/Axis_leaders_of_World_War_II
+2026-11-24	lote-1	his-segunda-guerra	+	Omar Bradley	Bradley	https://pt.wikipedia.org/wiki/Omar_Bradley https://en.wikipedia.org/wiki/Allied_leaders_of_World_War_II
+2026-11-24	lote-1	his-segunda-guerra	+	Mark Clark	Mark W. Clark	https://pt.wikipedia.org/wiki/Mark_W._Clark https://en.wikipedia.org/wiki/Allied_leaders_of_World_War_II
+2026-11-24	lote-1	his-segunda-guerra	+	Pietro Badoglio	Badoglio	https://pt.wikipedia.org/wiki/Pietro_Badoglio https://en.wikipedia.org/wiki/Axis_leaders_of_World_War_II
+2026-11-24	lote-1	his-segunda-guerra	+	Wilhelm Keitel	Keitel	https://pt.wikipedia.org/wiki/Wilhelm_Keitel https://en.wikipedia.org/wiki/Axis_leaders_of_World_War_II
+2026-11-24	lote-1	his-segunda-guerra	+	Vidkun Quisling	Quisling	https://pt.wikipedia.org/wiki/Vidkun_Quisling https://en.wikipedia.org/wiki/Axis_leaders_of_World_War_II
+2026-11-24	lote-1	his-segunda-guerra	+	Miklós Horthy	Horthy	https://pt.wikipedia.org/wiki/Mikl%C3%B3s_Horthy https://en.wikipedia.org/wiki/Axis_leaders_of_World_War_II
+2026-11-24	lote-1	his-segunda-guerra	+	Carl Gustaf Mannerheim	Mannerheim;Carl Gustaf Emil Mannerheim	https://pt.wikipedia.org/wiki/Carl_Gustaf_Emil_Mannerheim https://en.wikipedia.org/wiki/Axis_leaders_of_World_War_II
+2026-11-24	lote-1	his-segunda-guerra	+	Erich von Manstein	Manstein	https://pt.wikipedia.org/wiki/Erich_von_Manstein
+2026-11-24	lote-1	his-segunda-guerra	+	Heinz Guderian	Guderian	https://pt.wikipedia.org/wiki/Heinz_Guderian
+2026-11-24	lote-1	his-segunda-guerra	+	Friedrich Paulus	Paulus;Von Paulus	https://pt.wikipedia.org/wiki/Friedrich_Paulus
+2026-11-24	lote-1	his-segunda-guerra	+	Albert Kesselring	Kesselring	https://pt.wikipedia.org/wiki/Albert_Kesselring
+2026-11-24	lote-1	his-segunda-guerra	+	Louis Mountbatten	Mountbatten;Lorde Mountbatten	https://en.wikipedia.org/wiki/Louis_Mountbatten,_1st_Earl_Mountbatten_of_Burma
+2026-11-24	lote-1	his-segunda-guerra	+	Vítor Emanuel III	Vittorio Emanuele III;Vitor Emanuel;Victor Emmanuel III	https://pt.wikipedia.org/wiki/V%C3%ADtor_Emanuel_III_da_It%C3%A1lia
+2026-11-24	lote-1	his-segunda-guerra	+	Galeazzo Ciano	Ciano;Conde Ciano	https://pt.wikipedia.org/wiki/Galeazzo_Ciano
+2026-11-24	lote-1	his-segunda-guerra	+	Tomoyuki Yamashita	Yamashita;Tigre da Malásia	https://pt.wikipedia.org/wiki/Tomoyuki_Yamashita
+2026-11-24	lote-1	his-segunda-guerra	+	Konstantin Rokossovski	Rokossovski;Rokossovsky	https://pt.wikipedia.org/wiki/Konstantin_Rokossovski
+2026-11-24	lote-1	his-segunda-guerra	+	Ivan Konev	Konev;Koniev	https://pt.wikipedia.org/wiki/Ivan_Konev
+2026-11-24	lote-1	his-segunda-guerra	+	Ion Antonescu	Antonescu	https://pt.wikipedia.org/wiki/Ion_Antonescu
+2026-11-24	lote-1	his-segunda-guerra	+	Władysław Sikorski	Sikorski	https://pt.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Sikorski
+2026-11-24	lote-1	his-segunda-guerra	+	Haile Selassie		https://pt.wikipedia.org/wiki/Haile_Selassie
+2026-11-24	lote-1	his-segunda-guerra	+	William Mackenzie King	Mackenzie King	https://pt.wikipedia.org/wiki/William_Lyon_Mackenzie_King
+2026-11-24	lote-1	his-segunda-guerra	+	John Curtin	Curtin	https://pt.wikipedia.org/wiki/John_Curtin
+2026-11-24	lote-1	his-segunda-guerra	+	Arthur Harris	Bomber Harris	https://pt.wikipedia.org/wiki/Arthur_Harris
+2026-11-24	lote-1	his-segunda-guerra	+	William Halsey	Halsey;Bull Halsey	https://en.wikipedia.org/wiki/William_Halsey_Jr.
+2026-11-24	lote-1	his-segunda-guerra	+	Fumimaro Konoe	Konoe	https://pt.wikipedia.org/wiki/Fumimaro_Konoe
+2026-11-24	lote-1	his-exploradores	NOVA	Cite um navegador ou explorador da história (por terra ou por mar)	Vale quem liderou ou participou com destaque de viagens de exploração e descobrimento. Não valem astronautas.	https://pt.wikipedia.org/wiki/Lista_de_exploradores
+2026-11-24	lote-1	his-exploradores	+	Pedro Álvares Cabral	Cabral;Pedro Cabral	https://pt.wikipedia.org/wiki/Pedro_%C3%81lvares_Cabral https://pt.wikipedia.org/wiki/Lista_de_exploradores
+2026-11-24	lote-1	his-exploradores	+	Cristóvão Colombo	Colombo;Christopher Columbus;Columbus;Cristóbal Colón;Colón	https://pt.wikipedia.org/wiki/Crist%C3%B3v%C3%A3o_Colombo https://pt.wikipedia.org/wiki/Lista_de_exploradores
+2026-11-24	lote-1	his-exploradores	+	Vasco da Gama		https://pt.wikipedia.org/wiki/Vasco_da_Gama https://pt.wikipedia.org/wiki/Lista_de_exploradores
+2026-11-24	lote-1	his-exploradores	+	Fernão de Magalhães	Magalhães;Ferdinand Magellan;Magellan;Fernando de Magallanes;Magallanes	https://pt.wikipedia.org/wiki/Fern%C3%A3o_de_Magalh%C3%A3es https://pt.wikipedia.org/wiki/Lista_de_exploradores
+2026-11-24	lote-1	his-exploradores	+	Américo Vespúcio	Vespúcio;Amerigo Vespucci	https://pt.wikipedia.org/wiki/Am%C3%A9rico_Vesp%C3%BAcio https://pt.wikipedia.org/wiki/Lista_de_exploradores
+2026-11-24	lote-1	his-exploradores	+	Marco Polo		https://pt.wikipedia.org/wiki/Marco_Polo https://pt.wikipedia.org/wiki/Lista_de_exploradores
+2026-11-24	lote-1	his-exploradores	+	Bartolomeu Dias	Bartolomeu Diaz	https://pt.wikipedia.org/wiki/Bartolomeu_Dias https://pt.wikipedia.org/wiki/Lista_de_exploradores
+2026-11-24	lote-1	his-exploradores	+	James Cook	Capitão Cook	https://pt.wikipedia.org/wiki/James_Cook https://pt.wikipedia.org/wiki/Lista_de_exploradores
+2026-11-24	lote-1	his-exploradores	+	Roald Amundsen	Amundsen	https://pt.wikipedia.org/wiki/Roald_Amundsen https://pt.wikipedia.org/wiki/Lista_de_exploradores
+2026-11-24	lote-1	his-exploradores	+	Francis Drake	Drake	https://pt.wikipedia.org/wiki/Francis_Drake https://pt.wikipedia.org/wiki/Lista_de_exploradores
+2026-11-24	lote-1	his-exploradores	+	Vicente Yáñez Pinzón	Vicente Pinzón;Pinzón	https://pt.wikipedia.org/wiki/Vicente_Y%C3%A1%C3%B1ez_Pinz%C3%B3n
+2026-11-24	lote-1	his-exploradores	+	Fernão Dias	Fernão Dias Pais;Fernão Dias Pais Leme;Caçador de Esmeraldas	https://pt.wikipedia.org/wiki/Fern%C3%A3o_Dias_Pais_Leme https://pt.wikipedia.org/wiki/Fern%C3%A3o_Dias
+2026-11-24	lote-1	his-exploradores	+	Raposo Tavares	Antônio Raposo Tavares	https://pt.wikipedia.org/wiki/Raposo_Tavares https://pt.wikipedia.org/wiki/Ant%C3%B4nio_Raposo_Tavares
+2026-11-24	lote-1	his-exploradores	+	Borba Gato	Manuel de Borba Gato	https://pt.wikipedia.org/wiki/Borba_Gato
+2026-11-24	lote-1	his-exploradores	+	Leif Ericson	Leif Eriksson;Leif Erikson	https://pt.wikipedia.org/wiki/Leif_Eriksson https://pt.wikipedia.org/wiki/Leif_Ericson
+2026-11-24	lote-1	his-exploradores	+	Érico, o Vermelho	Erik, o Vermelho;Eric, o Vermelho;Erik the Red	https://pt.wikipedia.org/wiki/Eir%C3%ADkr https://pt.wikipedia.org/wiki/Lista_de_exploradores https://pt.wikipedia.org/wiki/%C3%89rico,_o_Vermelho
+2026-11-24	lote-1	his-exploradores	+	Amyr Klink		https://pt.wikipedia.org/wiki/Amyr_Klink
+2026-11-24	lote-1	his-exploradores	+	Marechal Rondon	Cândido Rondon;Rondon;Cândido Mariano da Silva Rondon	https://pt.wikipedia.org/wiki/C%C3%A2ndido_Rondon
+2026-11-24	lote-1	his-exploradores	+	Robert Falcon Scott	Robert Scott;Capitão Scott	https://pt.wikipedia.org/wiki/Robert_Falcon_Scott https://pt.wikipedia.org/wiki/Lista_de_exploradores
+2026-11-24	lote-1	his-exploradores	+	Ernest Shackleton	Shackleton	https://pt.wikipedia.org/wiki/Ernest_Henry_Shackleton https://pt.wikipedia.org/wiki/Lista_de_exploradores https://pt.wikipedia.org/wiki/Ernest_Shackleton
+2026-11-24	lote-1	his-exploradores	+	David Livingstone	Livingstone	https://pt.wikipedia.org/wiki/David_Livingstone https://pt.wikipedia.org/wiki/Lista_de_exploradores
+2026-11-24	lote-1	his-exploradores	+	Henry Morton Stanley	Stanley	https://pt.wikipedia.org/wiki/Henry_Morton_Stanley https://pt.wikipedia.org/wiki/Lista_de_exploradores
+2026-11-24	lote-1	his-exploradores	+	Ibn Battuta	Ibne Batuta;Ibn Batuta	https://pt.wikipedia.org/wiki/Ibne_Batuta https://pt.wikipedia.org/wiki/Lista_de_exploradores https://pt.wikipedia.org/wiki/Ibn_Battuta
+2026-11-24	lote-1	his-exploradores	+	Zheng He		https://pt.wikipedia.org/wiki/Zheng_He https://pt.wikipedia.org/wiki/Lista_de_exploradores
+2026-11-24	lote-1	his-exploradores	+	Juan Sebastián Elcano	Elcano;Sebastião Elcano;Juan Sebastián de Elcano	https://pt.wikipedia.org/wiki/Juan_Sebasti%C3%A1n_Elcano https://pt.wikipedia.org/wiki/Lista_de_exploradores
+2026-11-24	lote-1	his-exploradores	+	Francisco de Orellana	Orellana	https://pt.wikipedia.org/wiki/Francisco_de_Orellana https://pt.wikipedia.org/wiki/Lista_de_exploradores
+2026-11-24	lote-1	his-exploradores	+	Bartolomeu Bueno da Silva	Anhanguera	https://pt.wikipedia.org/wiki/Bartolomeu_Bueno_da_Silva
+2026-11-24	lote-1	his-exploradores	+	Martim Afonso de Sousa	Martim Afonso	https://pt.wikipedia.org/wiki/Martim_Afonso_de_Sousa
+2026-11-24	lote-1	his-exploradores	+	Gil Eanes	Gil Eannes	https://pt.wikipedia.org/wiki/Gil_Eanes https://pt.wikipedia.org/wiki/Lista_de_exploradores
+2026-11-24	lote-1	his-exploradores	+	Diogo Cão		https://pt.wikipedia.org/wiki/Diogo_C%C3%A3o https://pt.wikipedia.org/wiki/Lista_de_exploradores
+2026-11-24	lote-1	his-exploradores	+	Henry Hudson	Hudson	https://pt.wikipedia.org/wiki/Henry_Hudson https://pt.wikipedia.org/wiki/Lista_de_exploradores
+2026-11-24	lote-1	his-exploradores	+	Jacques Cartier	Cartier	https://pt.wikipedia.org/wiki/Jacques_Cartier https://pt.wikipedia.org/wiki/Lista_de_exploradores
+2026-11-24	lote-1	his-exploradores	+	Gaspar de Lemos		https://pt.wikipedia.org/wiki/Gaspar_de_Lemos
+2026-11-24	lote-1	his-exploradores	+	Hernán Cortés	Cortés;Fernão Cortês	https://pt.wikipedia.org/wiki/Hern%C3%A1n_Cort%C3%A9s
+2026-11-24	lote-1	his-exploradores	+	Francisco Pizarro	Pizarro	https://pt.wikipedia.org/wiki/Francisco_Pizarro
+2026-11-24	lote-1	his-exploradores	+	Duarte Pacheco Pereira	Duarte Pacheco	https://pt.wikipedia.org/wiki/Duarte_Pacheco_Pereira
+2026-11-24	lote-1	his-exploradores	+	Abel Tasman	Tasman	https://pt.wikipedia.org/wiki/Abel_Tasman https://pt.wikipedia.org/wiki/Lista_de_exploradores
+2026-11-24	lote-1	his-exploradores	+	Vitus Bering	Bering	https://pt.wikipedia.org/wiki/Vitus_Bering https://pt.wikipedia.org/wiki/Lista_de_exploradores
+2026-11-24	lote-1	his-exploradores	+	Robert Peary	Peary	https://pt.wikipedia.org/wiki/Robert_Peary https://pt.wikipedia.org/wiki/Lista_de_exploradores
+2026-11-24	lote-1	his-exploradores	+	Fridtjof Nansen	Nansen	https://pt.wikipedia.org/wiki/Fridtjof_Nansen https://pt.wikipedia.org/wiki/Lista_de_exploradores
+2026-11-24	lote-1	his-exploradores	+	Willem Barentsz	Barentsz	https://pt.wikipedia.org/wiki/Willem_Barentsz https://pt.wikipedia.org/wiki/Lista_de_exploradores
+2026-11-24	lote-1	his-exploradores	+	Alexander von Humboldt	Humboldt	https://pt.wikipedia.org/wiki/Alexander_von_Humboldt
+2026-11-24	lote-1	his-exploradores	+	Samuel de Champlain	Champlain	https://pt.wikipedia.org/wiki/Samuel_de_Champlain
+2026-11-24	lote-1	his-exploradores	+	João Caboto	Giovanni Caboto;John Cabot	https://pt.wikipedia.org/wiki/Jo%C3%A3o_Caboto
+2026-11-24	lote-1	his-exploradores	+	Walter Raleigh	Raleigh	https://pt.wikipedia.org/wiki/Walter_Raleigh
+2026-11-24	lote-1	his-exploradores	+	Pedro Teixeira		https://pt.wikipedia.org/wiki/Pedro_Teixeira_(militar)
+2026-11-24	lote-1	his-exploradores	+	Fernão Mendes Pinto	Mendes Pinto	https://pt.wikipedia.org/wiki/Fern%C3%A3o_Mendes_Pinto
+2026-11-24	lote-1	his-exploradores	+	Irmãos Villas-Bôas	Villas-Bôas;Orlando Villas-Bôas;Cláudio Villas-Bôas;Leonardo Villas-Bôas	https://pt.wikipedia.org/wiki/Irm%C3%A3os_Villas-B%C3%B4as
+2026-11-24	lote-1	his-exploradores	+	Pero da Covilhã		https://pt.wikipedia.org/wiki/P%C3%AAro_da_Covilh%C3%A3
+2026-11-24	lote-1	his-exploradores	+	Gaspar Corte-Real	Corte-Real	https://pt.wikipedia.org/wiki/Gaspar_Corte-Real
+2026-11-24	lote-1	his-exploradores	+	Nicolau Coelho		https://pt.wikipedia.org/wiki/Nicolau_Coelho
+2026-11-24	lote-1	his-exploradores	+	Meriwether Lewis	Lewis	https://pt.wikipedia.org/wiki/Meriwether_Lewis
+2026-11-24	lote-1	his-exploradores	+	William Clark		https://pt.wikipedia.org/wiki/William_Clark
+2026-11-24	lote-1	his-exploradores	+	Richard Francis Burton	Richard Burton	https://pt.wikipedia.org/wiki/Richard_Francis_Burton
+2026-11-24	lote-1	his-exploradores	+	John Hanning Speke	Speke	https://pt.wikipedia.org/wiki/John_Hanning_Speke
+2026-11-24	lote-1	his-exploradores	+	Mungo Park		https://pt.wikipedia.org/wiki/Mungo_Park
+2026-11-24	lote-1	his-exploradores	+	Hanão, o Navegador	Hanão;Hanno;Hanno the Navigator	https://pt.wikipedia.org/wiki/Han%C3%A3o
+2026-11-24	lote-1	his-exploradores	+	Píteas	Píteas de Massália;Pytheas	https://pt.wikipedia.org/wiki/P%C3%ADteas
+2026-11-24	lote-1	his-exploradores	+	Álvar Núñez Cabeza de Vaca	Cabeza de Vaca	https://pt.wikipedia.org/wiki/%C3%81lvar_N%C3%BA%C3%B1ez_Cabeza_de_Vaca
+2026-11-24	lote-1	his-exploradores	+	Hernando de Soto		https://pt.wikipedia.org/wiki/Hernando_de_Soto
+2026-11-24	lote-1	his-exploradores	+	Pedro Fernandes de Queirós	Pedro Fernández de Quirós;Queirós	https://pt.wikipedia.org/wiki/Pedro_Fernandes_de_Queir%C3%B3s
+2026-11-24	lote-1	his-exploradores	+	Gonçalo Coelho		https://pt.wikipedia.org/wiki/Gon%C3%A7alo_Coelho
+2026-11-24	lote-1	his-papas	NOVA	Cite o nome adotado por um papa da Igreja Católica	Papas de mesmo nome contam como uma resposta só; vale digitar com ou sem o número. Antipapas não valem. Inclui o papa atual na data de atualização.	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Francisco	Papa Francisco;Francis	https://pt.wikipedia.org/wiki/Papa_Francisco https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	João Paulo	João Paulo II;João Paulo I;Papa João Paulo II;John Paul;John Paul II;Juan Pablo;Juan Pablo II	https://pt.wikipedia.org/wiki/Papa_Jo%C3%A3o_Paulo_II https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Bento	Bento XVI;Benedito;Papa Bento XVI;Bento I;Bento II;Bento III;Bento IV;Bento V;Bento VI;Bento VII;Bento VIII;Bento IX;Bento XI;Bento XII;Bento XIII;Bento XIV;Bento XV;Benedict;Benedict XVI;Benedicto;Benedicto XVI	https://pt.wikipedia.org/wiki/Papa_Bento_XVI https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Leão	Leão XIV;Leão XIII;Papa Leão XIV;Leão Magno;Leão I;Leão II;Leão III;Leão IV;Leão V;Leão VI;Leão VII;Leão VIII;Leão IX;Leão X;Leão XI;Leão XII;Leo;Leo XIV;León;León XIV	https://pt.wikipedia.org/wiki/Papa_Le%C3%A3o_XIV https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Pedro	São Pedro;Peter;Saint Peter;San Pedro	https://pt.wikipedia.org/wiki/S%C3%A3o_Pedro https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	João	João XXIII;Papa João XXIII;João I;João II;João III;João IV;João V;João VI;João VII;João VIII;João IX;João X;João XI;João XII;João XIII;João XIV;João XV;João XVII;João XVIII;João XIX;João XXI;João XXII;John;John XXIII;Juan XXIII;Juan	https://pt.wikipedia.org/wiki/Papa_Jo%C3%A3o_XXIII https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Paulo	Paulo VI;Papa Paulo VI;Paulo I;Paulo II;Paulo III;Paulo IV;Paulo V;Paul VI;Paul;Pablo VI;Pablo	https://pt.wikipedia.org/wiki/Papa_Paulo_VI https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Pio	Pio XII;Pio IX;Papa Pio XII;Pio I;Pio II;Pio III;Pio IV;Pio V;Pio VI;Pio VII;Pio VIII;Pio X;Pio XI;Pius;Pius XII	https://pt.wikipedia.org/wiki/Papa_Pio_XII https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Gregório	Gregório Magno;Gregório XIII;Gregório I;Gregório II;Gregório III;Gregório IV;Gregório V;Gregório VI;Gregório VII;Gregório VIII;Gregório IX;Gregório X;Gregório XI;Gregório XII;Gregório XIV;Gregório XV;Gregório XVI;Gregory	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Clemente	Clemente I;Clemente II;Clemente III;Clemente IV;Clemente V;Clemente VI;Clemente VII;Clemente VIII;Clemente IX;Clemente X;Clemente XI;Clemente XII;Clemente XIII;Clemente XIV;Clement	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Inocêncio	Inocêncio I;Inocêncio II;Inocêncio III;Inocêncio IV;Inocêncio V;Inocêncio VI;Inocêncio VII;Inocêncio VIII;Inocêncio IX;Inocêncio X;Inocêncio XI;Inocêncio XII;Inocêncio XIII;Innocent	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Urbano	Urbano II;Urbano I;Urbano III;Urbano IV;Urbano V;Urbano VI;Urbano VII;Urbano VIII;Urban	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Alexandre	Alexandre VI;Alexandre I;Alexandre II;Alexandre III;Alexandre IV;Alexandre VII;Alexandre VIII;Alexander;Alejandro	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Bonifácio	Bonifácio I;Bonifácio II;Bonifácio III;Bonifácio IV;Bonifácio V;Bonifácio VI;Bonifácio VIII;Bonifácio IX;Boniface	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Júlio	Júlio II;Júlio I;Júlio III;Julius	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Sisto	Xisto;Sisto IV;Sisto I;Sisto II;Sisto III;Sisto V;Sixtus;Sixto	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Adriano	Adriano I;Adriano II;Adriano III;Adriano IV;Adriano V;Adriano VI;Adrian;Hadrian	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Nicolau	Nicolau I;Nicolau II;Nicolau III;Nicolau IV;Nicolau V;Nicholas;Nicolás	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Estêvão	Estêvão I;Estêvão II;Estêvão III;Estêvão IV;Estêvão V;Estêvão VI;Estêvão VII;Estêvão VIII;Estêvão IX;Stephen;Esteban	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Martinho	Martinho I;Martinho IV;Martinho V;Martin	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Celestino	Celestino I;Celestino II;Celestino III;Celestino IV;Celestino V;Celestine	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Silvestre	Silvestre I;Silvestre II;Silvestre III;Sylvester;Silvester	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Marcelo	Marcelo I;Marcelo II;Marcellus	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Honório	Honório I;Honório II;Honório III;Honório IV;Honorius	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Eugênio	Eugênio I;Eugênio II;Eugênio III;Eugênio IV;Eugene	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Calisto	Calisto I;Calisto II;Calisto III;Calixto I;Calixto II;Calixto III;Callixtus;Callistus;Calixto	https://pt.wikipedia.org/wiki/Lista_de_papas https://pt.wikipedia.org/wiki/Papa_Calisto_I
+2026-11-24	lote-1	his-papas	+	Lino	Linus	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Félix	Félix I;Félix III;Félix IV	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Sérgio	Sérgio I;Sérgio II;Sérgio III;Sérgio IV;Sergius	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Lúcio	Lúcio I;Lúcio II;Lúcio III;Lucius	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Anastácio	Anastácio I;Anastácio II;Anastácio III;Anastácio IV;Anastasius;Anastasio	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Dâmaso	Dâmaso I;Dâmaso II;Damasus	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Marcelino	Marcellinus	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Cornélio	Cornelius	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Fabiano	Fabian	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Zacarias	Zachary	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Marcos	Mark	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Vítor	Vítor I;Vítor II;Vítor III;Victor	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Teodoro	Teodoro I;Teodoro II;Theodore	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Constantino	Constantine	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Formoso	Formosus	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Romano	Romanus	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Pelágio	Pelágio I;Pelágio II;Pelagius	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Anacleto	Cleto;Anacletus;Cletus	https://pt.wikipedia.org/wiki/Lista_de_papas https://pt.wikipedia.org/wiki/Papa_Anacleto
+2026-11-24	lote-1	his-papas	+	Valentino	Valentine	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Pascoal	Pascoal I;Pascoal II;Paschal;Pascual	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Dionísio	Dionysius	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Caio	Caius;Cayo	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Eusébio	Eusebius	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Agapito	Agapito I;Agapito II;Agapetus	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Gelásio	Gelásio I;Gelásio II;Gelasius	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Evaristo	Evaristus	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Aniceto	Anicetus	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Sotero		https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Eleutério	Eleutherius	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Zeferino	Zephyrinus	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Telésforo	Telesphorus	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Higino	Hyginus	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Ponciano	Pontian	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Antero	Anterus	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Eutiquiano	Eutychian	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Melquíades	Milcíades;Miltiades	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Libério	Liberius	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Sirício	Siricius	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Zósimo	Zosimus	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Hilário	Hilarius	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Simplício	Simplicius	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Símaco	Symmachus	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Hormisda	Hormisdas	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Silvério	Silverius	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Vigílio	Vigilius	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Sabiniano	Sabinian	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Adeodato	Deodato;Deusdedito;Adeodato I;Adeodato II;Adeodatus;Deusdedit	https://pt.wikipedia.org/wiki/Lista_de_papas https://pt.wikipedia.org/wiki/Papa_Adeodato_I
+2026-11-24	lote-1	his-papas	+	Severino	Severinus	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Vitaliano	Vitalian	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Dono	Donus	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Agatão	Agatho;Agatón	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Cónon		https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Sisínio	Sisinnius	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Marinho	Marino;Marinho I;Marinho II;Marinus	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-papas	+	Lando	Landus	https://pt.wikipedia.org/wiki/Lista_de_papas
+2026-11-24	lote-1	his-independencias	NOVA	Cite um líder da independência de um país	Vale quem liderou, política ou militarmente, o processo de independência de um país, de qualquer época. Não vale quem só governou depois.	https://en.wikipedia.org/wiki/List_of_national_founders
+2026-11-24	lote-1	his-independencias	+	Dom Pedro I	Pedro I;Dom Pedro;D. Pedro I	https://pt.wikipedia.org/wiki/Pedro_I_do_Brasil
+2026-11-24	lote-1	his-independencias	+	Simón Bolívar	Bolívar;Simão Bolívar	https://pt.wikipedia.org/wiki/Sim%C3%B3n_Bol%C3%ADvar
+2026-11-24	lote-1	his-independencias	+	George Washington	Washington	https://pt.wikipedia.org/wiki/George_Washington
+2026-11-24	lote-1	his-independencias	+	Mahatma Gandhi	Gandhi;Mohandas Gandhi;Gandi	https://pt.wikipedia.org/wiki/Mahatma_Gandhi
+2026-11-24	lote-1	his-independencias	+	José Bonifácio	José Bonifácio de Andrada e Silva;Patriarca da Independência	https://pt.wikipedia.org/wiki/Jos%C3%A9_Bonif%C3%A1cio_de_Andrada_e_Silva
+2026-11-24	lote-1	his-independencias	+	José de San Martín	San Martín	https://pt.wikipedia.org/wiki/Jos%C3%A9_de_San_Mart%C3%ADn
+2026-11-24	lote-1	his-independencias	+	Ho Chi Minh		https://pt.wikipedia.org/wiki/Ho_Chi_Minh
+2026-11-24	lote-1	his-independencias	+	Thomas Jefferson	Jefferson	https://pt.wikipedia.org/wiki/Thomas_Jefferson
+2026-11-24	lote-1	his-independencias	+	Benjamin Franklin	Franklin	https://pt.wikipedia.org/wiki/Benjamin_Franklin
+2026-11-24	lote-1	his-independencias	+	Bernardo O'Higgins	O'Higgins	https://pt.wikipedia.org/wiki/Bernardo_O'Higgins https://pt.wikipedia.org/wiki/Bernardo_O%27Higgins
+2026-11-24	lote-1	his-independencias	+	Jawaharlal Nehru	Nehru	https://pt.wikipedia.org/wiki/Jawaharlal_Nehru
+2026-11-24	lote-1	his-independencias	+	José Martí	Martí	https://pt.wikipedia.org/wiki/Jos%C3%A9_Mart%C3%AD
+2026-11-24	lote-1	his-independencias	+	Miguel Hidalgo	Padre Hidalgo;Hidalgo;Miguel Hidalgo y Costilla	https://pt.wikipedia.org/wiki/Miguel_Hidalgo https://pt.wikipedia.org/wiki/Miguel_Hidalgo_y_Costilla
+2026-11-24	lote-1	his-independencias	+	Agostinho Neto		https://pt.wikipedia.org/wiki/Agostinho_Neto
+2026-11-24	lote-1	his-independencias	+	Samora Machel		https://pt.wikipedia.org/wiki/Samora_Machel
+2026-11-24	lote-1	his-independencias	+	Mustafa Kemal Atatürk	Atatürk;Mustafa Kemal	https://pt.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk
+2026-11-24	lote-1	his-independencias	+	John Adams		https://pt.wikipedia.org/wiki/John_Adams
+2026-11-24	lote-1	his-independencias	+	Antonio José de Sucre	Sucre;Marechal Sucre	https://pt.wikipedia.org/wiki/Antonio_Jos%C3%A9_de_Sucre
+2026-11-24	lote-1	his-independencias	+	Toussaint Louverture	Toussaint L'Ouverture;Louverture	https://pt.wikipedia.org/wiki/Toussaint_Louverture
+2026-11-24	lote-1	his-independencias	+	Jean-Jacques Dessalines	Dessalines	https://pt.wikipedia.org/wiki/Jean_Jacques_Dessalines https://pt.wikipedia.org/wiki/Jean-Jacques_Dessalines
+2026-11-24	lote-1	his-independencias	+	Amílcar Cabral		https://pt.wikipedia.org/wiki/Am%C3%ADlcar_Cabral
+2026-11-24	lote-1	his-independencias	+	Eduardo Mondlane	Mondlane	https://pt.wikipedia.org/wiki/Eduardo_Mondlane
+2026-11-24	lote-1	his-independencias	+	José Artigas	José Gervasio Artigas;Artigas	https://pt.wikipedia.org/wiki/Jos%C3%A9_Artigas https://pt.wikipedia.org/wiki/Jos%C3%A9_Gervasio_Artigas
+2026-11-24	lote-1	his-independencias	+	Francisco de Miranda		https://pt.wikipedia.org/wiki/Francisco_de_Miranda
+2026-11-24	lote-1	his-independencias	+	Kwame Nkrumah	Nkrumah	https://pt.wikipedia.org/wiki/Kwame_Nkrumah
+2026-11-24	lote-1	his-independencias	+	Jomo Kenyatta	Kenyatta	https://pt.wikipedia.org/wiki/Jomo_Kenyatta
+2026-11-24	lote-1	his-independencias	+	Patrice Lumumba	Lumumba	https://pt.wikipedia.org/wiki/Patrice_Lumumba
+2026-11-24	lote-1	his-independencias	+	Sukarno	Soekarno	https://pt.wikipedia.org/wiki/Sukarno
+2026-11-24	lote-1	his-independencias	+	David Ben-Gurion	Ben-Gurion	https://pt.wikipedia.org/wiki/David_Ben-Gurion
+2026-11-24	lote-1	his-independencias	+	Muhammad Ali Jinnah	Jinnah;Ali Jinnah	https://pt.wikipedia.org/wiki/Muhammad_Ali_Jinnah
+2026-11-24	lote-1	his-independencias	+	William Wallace	Wallace	https://pt.wikipedia.org/wiki/William_Wallace
+2026-11-24	lote-1	his-independencias	+	Afonso Henriques	D. Afonso Henriques;Dom Afonso Henriques;Afonso I de Portugal	https://pt.wikipedia.org/wiki/Afonso_I_de_Portugal
+2026-11-24	lote-1	his-independencias	+	José María Morelos	Morelos	https://pt.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Morelos
+2026-11-24	lote-1	his-independencias	+	Ahmed Ben Bella	Ben Bella	https://pt.wikipedia.org/wiki/Ahmed_Ben_Bella
+2026-11-24	lote-1	his-independencias	+	Máximo Gómez		https://pt.wikipedia.org/wiki/M%C3%A1ximo_G%C3%B3mez
+2026-11-24	lote-1	his-independencias	+	Michael Collins		https://pt.wikipedia.org/wiki/Michael_Collins https://pt.wikipedia.org/wiki/Michael_Collins_(l%C3%ADder_irland%C3%AAs)
+2026-11-24	lote-1	his-independencias	+	Éamon de Valera	De Valera	https://pt.wikipedia.org/wiki/%C3%89amon_de_Valera
+2026-11-24	lote-1	his-independencias	+	Lorde Cochrane	Thomas Cochrane;Cochrane	https://pt.wikipedia.org/wiki/Thomas_Cochrane,_10.%C2%BA_Conde_de_Dundonald
+2026-11-24	lote-1	his-independencias	+	Roberto I da Escócia	Robert the Bruce;Roberto de Bruce;Robert Bruce	https://pt.wikipedia.org/wiki/Roberto_I_da_Esc%C3%B3cia
+2026-11-24	lote-1	his-independencias	+	Francisco de Paula Santander	Santander	https://pt.wikipedia.org/wiki/Francisco_de_Paula_Santander
+2026-11-24	lote-1	his-independencias	+	Samuel Adams		https://pt.wikipedia.org/wiki/Samuel_Adams
+2026-11-24	lote-1	his-independencias	+	Xanana Gusmão	Xanana	https://pt.wikipedia.org/wiki/Xanana_Gusm%C3%A3o
+2026-11-24	lote-1	his-independencias	+	Robert Mugabe	Mugabe	https://pt.wikipedia.org/wiki/Robert_Mugabe
+2026-11-24	lote-1	his-independencias	+	Juan Antonio Lavalleja	Lavalleja	https://pt.wikipedia.org/wiki/Juan_Antonio_Lavalleja
+2026-11-24	lote-1	his-independencias	+	Carlos Manuel de Céspedes	Céspedes	https://pt.wikipedia.org/wiki/Carlos_Manuel_de_C%C3%A9spedes
+2026-11-24	lote-1	his-independencias	+	Antonio Maceo	Maceo	https://pt.wikipedia.org/wiki/Antonio_Maceo
+2026-11-24	lote-1	his-independencias	+	Juana Azurduy		https://pt.wikipedia.org/wiki/Juana_Azurduy
+2026-11-24	lote-1	his-independencias	+	Julius Nyerere	Nyerere	https://pt.wikipedia.org/wiki/Julius_Nyerere
+2026-11-24	lote-1	his-independencias	+	Kenneth Kaunda	Kaunda	https://pt.wikipedia.org/wiki/Kenneth_Kaunda
+2026-11-24	lote-1	his-independencias	+	Habib Bourguiba	Bourguiba	https://pt.wikipedia.org/wiki/Habib_Bourguiba
+2026-11-24	lote-1	his-independencias	+	Sam Nujoma	Nujoma	https://pt.wikipedia.org/wiki/Sam_Nujoma
+2026-11-24	lote-1	his-independencias	+	Emilio Aguinaldo	Aguinaldo	https://pt.wikipedia.org/wiki/Emilio_Aguinaldo
+2026-11-24	lote-1	his-independencias	+	Tomáš Masaryk	Masaryk	https://pt.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Garrigue_Masaryk
+2026-11-24	lote-1	his-independencias	+	Józef Piłsudski	Pilsudski	https://pt.wikipedia.org/wiki/J%C3%B3zef_Pi%C5%82sudski
+2026-11-24	lote-1	his-independencias	+	Gonçalves Ledo	Joaquim Gonçalves Ledo	https://pt.wikipedia.org/wiki/Joaquim_Gon%C3%A7alves_Ledo
+2026-11-24	lote-1	his-independencias	+	Vytautas Landsbergis	Landsbergis	https://pt.wikipedia.org/wiki/Vytautas_Landsbergis
+2026-11-24	lote-1	his-cidades-ruinas	NOVA	Cite uma cidade antiga hoje abandonada ou em ruínas	Vale cidade antiga abandonada cujas ruínas hoje são sítio arqueológico, mesmo que exista povoação moderna ao lado ou com o mesmo nome. Não valem cidades habitadas sem interrupção até hoje, nem templos ou monumentos isolados.	https://en.wikipedia.org/wiki/Lost_city
+2026-11-24	lote-1	his-cidades-ruinas	+	Pompeia	Pompeios;Pompeii;Pompeya	https://pt.wikipedia.org/wiki/Pompeia
+2026-11-24	lote-1	his-cidades-ruinas	+	Machu Picchu	Machu Pichu	https://pt.wikipedia.org/wiki/Machu_Picchu
+2026-11-24	lote-1	his-cidades-ruinas	+	Troia	Ílion;Troy;Troya	https://pt.wikipedia.org/wiki/Troia
+2026-11-24	lote-1	his-cidades-ruinas	+	Cartago	Carthage	https://pt.wikipedia.org/wiki/Cartago
+2026-11-24	lote-1	his-cidades-ruinas	+	Babilônia	Babel;Babylon	https://pt.wikipedia.org/wiki/Babil%C3%B3nia
+2026-11-24	lote-1	his-cidades-ruinas	+	Petra		https://pt.wikipedia.org/wiki/Petra
+2026-11-24	lote-1	his-cidades-ruinas	+	Chichén Itzá		https://pt.wikipedia.org/wiki/Chich%C3%A9n_Itz%C3%A1
+2026-11-24	lote-1	his-cidades-ruinas	+	Teotihuacan		https://pt.wikipedia.org/wiki/Teotihuacan
+2026-11-24	lote-1	his-cidades-ruinas	+	Herculano	Herculaneum	https://pt.wikipedia.org/wiki/Herculano
+2026-11-24	lote-1	his-cidades-ruinas	+	Angkor	Angkor Thom	https://pt.wikipedia.org/wiki/Angkor
+2026-11-24	lote-1	his-cidades-ruinas	+	Éfeso	Ephesus	https://pt.wikipedia.org/wiki/%C3%89feso
+2026-11-24	lote-1	his-cidades-ruinas	+	Persépolis		https://pt.wikipedia.org/wiki/Pers%C3%A9polis
+2026-11-24	lote-1	his-cidades-ruinas	+	Palmira	Palmyra	https://pt.wikipedia.org/wiki/Palmira
+2026-11-24	lote-1	his-cidades-ruinas	+	Tikal		https://pt.wikipedia.org/wiki/Tikal
+2026-11-24	lote-1	his-cidades-ruinas	+	Nínive	Nineveh	https://pt.wikipedia.org/wiki/N%C3%ADnive
+2026-11-24	lote-1	his-cidades-ruinas	+	Ur		https://pt.wikipedia.org/wiki/Ur
+2026-11-24	lote-1	his-cidades-ruinas	+	Micenas	Mycenae	https://pt.wikipedia.org/wiki/Micenas
+2026-11-24	lote-1	his-cidades-ruinas	+	Mênfis	Memphis	https://pt.wikipedia.org/wiki/M%C3%AAnfis https://pt.wikipedia.org/wiki/M%C3%AAnfis_(Egito)
+2026-11-24	lote-1	his-cidades-ruinas	+	Cnossos	Knossos	https://pt.wikipedia.org/wiki/Cnossos
+2026-11-24	lote-1	his-cidades-ruinas	+	Mohenjo-daro	Moenjodaro	https://pt.wikipedia.org/wiki/Moenjodaro https://pt.wikipedia.org/wiki/Mohenjo-daro
+2026-11-24	lote-1	his-cidades-ruinas	+	Uruk	Uruque;Erech	https://pt.wikipedia.org/wiki/Uruque https://pt.wikipedia.org/wiki/Uruk
+2026-11-24	lote-1	his-cidades-ruinas	+	Caral	Caral-Supe	https://pt.wikipedia.org/wiki/Caral
+2026-11-24	lote-1	his-cidades-ruinas	+	Chan Chan		https://pt.wikipedia.org/wiki/Chan_Chan
+2026-11-24	lote-1	his-cidades-ruinas	+	Choquequirao		https://pt.wikipedia.org/wiki/Choquequirao
+2026-11-24	lote-1	his-cidades-ruinas	+	Tiwanaku	Tiauanaco;Tiahuanaco	https://pt.wikipedia.org/wiki/Tiauanaco
+2026-11-24	lote-1	his-cidades-ruinas	+	Óstia Antiga	Óstia;Ostia Antica	https://pt.wikipedia.org/wiki/%C3%93stia
+2026-11-24	lote-1	his-cidades-ruinas	+	Léptis Magna		https://pt.wikipedia.org/wiki/L%C3%A9ptis_Magna
+2026-11-24	lote-1	his-cidades-ruinas	+	Ctesifonte	Ctesiphon	https://pt.wikipedia.org/wiki/Ctesifonte
+2026-11-24	lote-1	his-cidades-ruinas	+	Tulum		https://pt.wikipedia.org/wiki/Tulum
+2026-11-24	lote-1	his-cidades-ruinas	+	Hatusa	Hattusa;Hattusas	https://pt.wikipedia.org/wiki/Hatusa
+2026-11-24	lote-1	his-cidades-ruinas	+	Amarna	Tell el-Amarna;Aquetáton;Akhetaton	https://pt.wikipedia.org/wiki/Amarna
+2026-11-24	lote-1	his-cidades-ruinas	+	Ninrude	Nimrud;Calá;Calah	https://pt.wikipedia.org/wiki/Ninrude https://pt.wikipedia.org/wiki/Nimrud
+2026-11-24	lote-1	his-cidades-ruinas	+	Çatalhüyük	Çatal Hüyük	https://pt.wikipedia.org/wiki/%C3%87atalh%C3%BCy%C3%BCk
+2026-11-24	lote-1	his-cidades-ruinas	+	Ebla		https://pt.wikipedia.org/wiki/Ebla
+2026-11-24	lote-1	his-cidades-ruinas	+	Mari		https://pt.wikipedia.org/wiki/Mari_(S%C3%ADria)
+2026-11-24	lote-1	his-cidades-ruinas	+	Harappa	Harapa	https://pt.wikipedia.org/wiki/Harappa
+2026-11-24	lote-1	his-cidades-ruinas	+	Palenque		https://pt.wikipedia.org/wiki/Palenque
+2026-11-24	lote-1	his-cidades-ruinas	+	Copán		https://pt.wikipedia.org/wiki/Cop%C3%A1n
+2026-11-24	lote-1	his-cidades-ruinas	+	Grande Zimbábue	Grande Zimbabwe;Great Zimbabwe	https://pt.wikipedia.org/wiki/Grande_Zimbabwe https://en.wikipedia.org/wiki/Great_Zimbabwe
+2026-11-24	lote-1	his-cidades-ruinas	+	Pasárgada	Pasargadae	https://pt.wikipedia.org/wiki/Pas%C3%A1rgada
+2026-11-24	lote-1	his-cidades-ruinas	+	Conímbriga		https://pt.wikipedia.org/wiki/Con%C3%ADmbriga
+2026-11-24	lote-1	his-cidades-ruinas	+	Xanadu	Shangdu	https://pt.wikipedia.org/wiki/Xanadu_(China)
+2026-11-24	lote-1	his-cidades-ruinas	+	Ciudad Perdida	Teyuna	https://en.wikipedia.org/wiki/Ciudad_Perdida
+2026-11-24	lote-1	his-cidades-ruinas	+	Uxmal		https://pt.wikipedia.org/wiki/Uxmal
+2026-11-24	lote-1	his-cidades-ruinas	+	Monte Albán		https://pt.wikipedia.org/wiki/Monte_Alb%C3%A1n
+2026-11-24	lote-1	his-cidades-ruinas	+	Mileto	Miletus	https://pt.wikipedia.org/wiki/Mileto
+2026-11-24	lote-1	his-cidades-ruinas	+	Volubilis		https://pt.wikipedia.org/wiki/Volubilis
+2026-11-24	lote-1	his-cidades-ruinas	+	Timgad		https://pt.wikipedia.org/wiki/Timgad
+2026-11-24	lote-1	his-cidades-ruinas	+	Hatra		https://pt.wikipedia.org/wiki/Hatra
+2026-11-24	lote-1	his-cidades-ruinas	+	Ugarit		https://pt.wikipedia.org/wiki/Ugarite
+2026-11-24	lote-1	his-cidades-ruinas	+	Assur		https://pt.wikipedia.org/wiki/Assur_(cidade)
+2026-11-24	lote-1	his-cidades-ruinas	+	Meroé		https://pt.wikipedia.org/wiki/Mero%C3%A9
+2026-11-24	lote-1	his-cidades-ruinas	+	Itálica		https://pt.wikipedia.org/wiki/It%C3%A1lica
+2026-11-24	lote-1	his-cidades-ruinas	+	Numância	Numantia	https://pt.wikipedia.org/wiki/Num%C3%A2ncia
+2026-11-24	lote-1	his-cidades-ruinas	+	Merv		https://pt.wikipedia.org/wiki/Merv
+2026-11-24	lote-1	his-cidades-ruinas	+	Cahokia		https://en.wikipedia.org/wiki/Cahokia
+2026-11-24	lote-1	his-cidades-ruinas	+	Calakmul		https://pt.wikipedia.org/wiki/Calakmul
+2026-11-24	lote-1	his-cidades-ruinas	+	El Tajín	Tajín	https://pt.wikipedia.org/wiki/El_Taj%C3%ADn
+2026-11-24	lote-1	his-cidades-ruinas	+	Caracol		https://en.wikipedia.org/wiki/Caracol
+2026-11-24	lote-1	his-cidades-ruinas	+	Lothal		https://pt.wikipedia.org/wiki/Lothal
+2026-11-24	lote-1	his-cidades-ruinas	+	Afrodísias	Aphrodisias	https://pt.wikipedia.org/wiki/Afrod%C3%ADsias
+2026-11-24	lote-1	his-cidades-ruinas	+	Ani		https://pt.wikipedia.org/wiki/Ani
+2026-11-24	lote-1	his-cidades-ruinas	+	Gedi		https://en.wikipedia.org/wiki/Gedi_Ruins
+2026-11-24	lote-1	his-brasil-imperio	NOVA	Cite um personagem da história do Brasil Império (1822 a 1889)	Vale quem teve atuação política, militar ou social de destaque no Brasil nesse período, inclusive na Independência. Não valem escritores e artistas lembrados só pela obra. Governantes de mesmo nome contam como uma resposta só.	https://pt.wikipedia.org/wiki/Imp%C3%A9rio_do_Brasil
+2026-11-24	lote-1	his-brasil-imperio	+	Dom Pedro	Dom Pedro I;Dom Pedro II;Pedro I;Pedro II;D. Pedro I;D. Pedro II	https://pt.wikipedia.org/wiki/Pedro_I_do_Brasil https://pt.wikipedia.org/wiki/Pedro_II_do_Brasil
+2026-11-24	lote-1	his-brasil-imperio	+	Princesa Isabel	Isabel;Isabel, a Redentora;Isabel do Brasil	https://pt.wikipedia.org/wiki/Isabel,_Princesa_Imperial_do_Brasil
+2026-11-24	lote-1	his-brasil-imperio	+	Maria Leopoldina	Leopoldina;Imperatriz Leopoldina;Leopoldina da Áustria	https://pt.wikipedia.org/wiki/Maria_Leopoldina_da_%C3%81ustria
+2026-11-24	lote-1	his-brasil-imperio	+	José Bonifácio	José Bonifácio de Andrada e Silva	https://pt.wikipedia.org/wiki/Jos%C3%A9_Bonif%C3%A1cio_de_Andrada_e_Silva
+2026-11-24	lote-1	his-brasil-imperio	+	Duque de Caxias	Caxias;Luís Alves de Lima e Silva	https://pt.wikipedia.org/wiki/Lu%C3%ADs_Alves_de_Lima_e_Silva
+2026-11-24	lote-1	his-brasil-imperio	+	Marquesa de Santos	Domitila de Castro;Domitila	https://pt.wikipedia.org/wiki/Domitila_de_Castro
+2026-11-24	lote-1	his-brasil-imperio	+	Barão de Mauá	Visconde de Mauá;Mauá;Irineu Evangelista de Sousa	https://pt.wikipedia.org/wiki/Irineu_Evangelista_de_Sousa
+2026-11-24	lote-1	his-brasil-imperio	+	Joaquim Nabuco	Nabuco	https://pt.wikipedia.org/wiki/Joaquim_Nabuco
+2026-11-24	lote-1	his-brasil-imperio	+	Deodoro da Fonseca	Marechal Deodoro;Deodoro	https://pt.wikipedia.org/wiki/Deodoro_da_Fonseca
+2026-11-24	lote-1	his-brasil-imperio	+	Teresa Cristina	Imperatriz Teresa Cristina;Teresa Cristina de Bourbon	https://pt.wikipedia.org/wiki/Teresa_Cristina_de_Bourbon-Duas_Sic%C3%ADlias https://pt.wikipedia.org/wiki/Teresa_Cristina_das_Duas_Sic%C3%ADlias
+2026-11-24	lote-1	his-brasil-imperio	+	Floriano Peixoto	Floriano;Marechal Floriano;Marechal de Ferro	https://pt.wikipedia.org/wiki/Floriano_Peixoto
+2026-11-24	lote-1	his-brasil-imperio	+	José do Patrocínio		https://pt.wikipedia.org/wiki/Jos%C3%A9_do_Patroc%C3%ADnio
+2026-11-24	lote-1	his-brasil-imperio	+	Luís Gama	Luiz Gama	https://pt.wikipedia.org/wiki/Luiz_Gama https://pt.wikipedia.org/wiki/Lu%C3%ADs_Gama
+2026-11-24	lote-1	his-brasil-imperio	+	André Rebouças	Rebouças	https://pt.wikipedia.org/wiki/Andr%C3%A9_Rebou%C3%A7as
+2026-11-24	lote-1	his-brasil-imperio	+	Rui Barbosa	Ruy Barbosa	https://pt.wikipedia.org/wiki/Ruy_Barbosa
+2026-11-24	lote-1	his-brasil-imperio	+	Bento Gonçalves	Bento Gonçalves da Silva	https://pt.wikipedia.org/wiki/Bento_Gon%C3%A7alves_da_Silva
+2026-11-24	lote-1	his-brasil-imperio	+	Giuseppe Garibaldi	Garibaldi	https://pt.wikipedia.org/wiki/Giuseppe_Garibaldi
+2026-11-24	lote-1	his-brasil-imperio	+	Anita Garibaldi	Anita;Ana Maria de Jesus Ribeiro	https://pt.wikipedia.org/wiki/Anita_Garibaldi
+2026-11-24	lote-1	his-brasil-imperio	+	Diogo Antônio Feijó	Diogo Feijó;Regente Feijó;Padre Feijó;Feijó	https://pt.wikipedia.org/wiki/Diogo_Ant%C3%B4nio_Feij%C3%B3
+2026-11-24	lote-1	his-brasil-imperio	+	Conde d'Eu	Gastão de Orléans;Gaston de Orléans	https://pt.wikipedia.org/wiki/Gast%C3%A3o_de_Orl%C3%A9ans,_Conde_d'Eu https://pt.wikipedia.org/wiki/Gast%C3%A3o_de_Orl%C3%A9ans,_Conde_d%27Eu
+2026-11-24	lote-1	his-brasil-imperio	+	Frei Caneca	Joaquim do Amor Divino Caneca	https://pt.wikipedia.org/wiki/Frei_Caneca
+2026-11-24	lote-1	his-brasil-imperio	+	Maria Quitéria		https://pt.wikipedia.org/wiki/Maria_Quit%C3%A9ria
+2026-11-24	lote-1	his-brasil-imperio	+	Almirante Tamandaré	Marquês de Tamandaré;Tamandaré;Joaquim Marques Lisboa	https://pt.wikipedia.org/wiki/Joaquim_Marques_Lisboa
+2026-11-24	lote-1	his-brasil-imperio	+	General Osório	Manuel Luís Osório;Marquês do Herval;Osório	https://pt.wikipedia.org/wiki/Manuel_Lu%C3%ADs_Os%C3%B3rio
+2026-11-24	lote-1	his-brasil-imperio	+	Almirante Barroso	Francisco Manuel Barroso da Silva;Barão do Amazonas	https://pt.wikipedia.org/wiki/Francisco_Manuel_Barroso_da_Silva
+2026-11-24	lote-1	his-brasil-imperio	+	Benjamin Constant	Benjamin Constant Botelho de Magalhães	https://pt.wikipedia.org/wiki/Benjamin_Constant_(militar) https://pt.wikipedia.org/wiki/Benjamin_Constant_Botelho_de_Magalh%C3%A3es
+2026-11-24	lote-1	his-brasil-imperio	+	Quintino Bocaiúva		https://pt.wikipedia.org/wiki/Quintino_Bocaiuva https://pt.wikipedia.org/wiki/Quintino_Bocai%C3%BAva
+2026-11-24	lote-1	his-brasil-imperio	+	Amélia de Leuchtenberg	Imperatriz Amélia;Amélia de Beauharnais;Dona Amélia	https://pt.wikipedia.org/wiki/Am%C3%A9lia_de_Leuchtenberg
+2026-11-24	lote-1	his-brasil-imperio	+	Dragão do Mar	Francisco José do Nascimento;Chico da Matilde	https://pt.wikipedia.org/wiki/Drag%C3%A3o_do_Mar https://pt.wikipedia.org/wiki/Francisco_Jos%C3%A9_do_Nascimento
+2026-11-24	lote-1	his-brasil-imperio	+	Marquês do Paraná	Honório Hermeto Carneiro Leão;Honório Hermeto	https://pt.wikipedia.org/wiki/Hon%C3%B3rio_Hermeto_Carneiro_Le%C3%A3o
+2026-11-24	lote-1	his-brasil-imperio	+	Visconde de Ouro Preto	Afonso Celso de Assis Figueiredo	https://pt.wikipedia.org/wiki/Afonso_Celso_de_Assis_Figueiredo
+2026-11-24	lote-1	his-brasil-imperio	+	Barão de Cotegipe	Cotegipe;João Maurício Wanderley	https://pt.wikipedia.org/wiki/Jo%C3%A3o_Maur%C3%ADcio_Wanderley
+2026-11-24	lote-1	his-brasil-imperio	+	Marquês de Olinda	Pedro de Araújo Lima;Araújo Lima	https://pt.wikipedia.org/wiki/Pedro_de_Ara%C3%BAjo_Lima
+2026-11-24	lote-1	his-brasil-imperio	+	Bernardo Pereira de Vasconcelos	Bernardo de Vasconcelos	https://pt.wikipedia.org/wiki/Bernardo_Pereira_de_Vasconcelos
+2026-11-24	lote-1	his-brasil-imperio	+	Francisco de Lima e Silva	Barão de Barra Grande	https://pt.wikipedia.org/wiki/Francisco_de_Lima_e_Silva
+2026-11-24	lote-1	his-brasil-imperio	+	Cipriano Barata		https://pt.wikipedia.org/wiki/Cipriano_Barata
+2026-11-24	lote-1	his-brasil-imperio	+	Evaristo da Veiga		https://pt.wikipedia.org/wiki/Evaristo_da_Veiga
+2026-11-24	lote-1	his-brasil-imperio	+	Francisco Sabino	Sabino;Francisco Sabino Vieira	https://pt.wikipedia.org/wiki/Francisco_Sabino
+2026-11-24	lote-1	his-brasil-imperio	+	Eduardo Angelim		https://pt.wikipedia.org/wiki/Eduardo_Angelim
+2026-11-24	lote-1	his-brasil-imperio	+	Zacarias de Góis e Vasconcelos	Zacarias de Góis	https://pt.wikipedia.org/wiki/Zacarias_de_G%C3%B3is_e_Vasconcelos
+2026-11-24	lote-1	his-brasil-imperio	+	Chalaça	Francisco Gomes da Silva	https://pt.wikipedia.org/wiki/Chala%C3%A7a
+2026-11-24	lote-1	his-brasil-imperio	+	Silva Jardim	Antônio da Silva Jardim	https://pt.wikipedia.org/wiki/Ant%C3%B4nio_da_Silva_Jardim
+2026-11-24	lote-1	his-brasil-imperio	+	Eusébio de Queirós	Eusébio de Queiroz	https://pt.wikipedia.org/wiki/Eus%C3%A9bio_de_Queir%C3%B3s
+2026-11-24	lote-1	his-brasil-imperio	+	Visconde do Rio Branco	José Maria da Silva Paranhos	https://pt.wikipedia.org/wiki/Jos%C3%A9_Maria_da_Silva_Paranhos
+2026-11-24	lote-1	his-brasil-imperio	+	Teófilo Otoni	Teófilo Ottoni	https://pt.wikipedia.org/wiki/Te%C3%B3filo_Ottoni
+2026-11-24	lote-1	his-brasil-imperio	+	Joana Angélica	Sóror Joana Angélica	https://pt.wikipedia.org/wiki/Joana_Ang%C3%A9lica
+2026-11-24	lote-1	his-brasil-imperio	+	Cosme Bento	Negro Cosme;Cosme Bento das Chagas	https://pt.wikipedia.org/wiki/Cosme_Bento
+2026-11-24	lote-1	his-brasil-imperio	+	Marquês de Barbacena	Felisberto Caldeira Brant Pontes	https://pt.wikipedia.org/wiki/Felisberto_Caldeira_Brant_Pontes_de_Oliveira_Horta
+2026-11-24	lote-1	his-brasil-imperio	+	Visconde de Cairu	José da Silva Lisboa;Cairu	https://pt.wikipedia.org/wiki/Jos%C3%A9_da_Silva_Lisboa
+2026-11-24	lote-1	his-brasil-imperio	+	Gonçalves Ledo	Joaquim Gonçalves Ledo	https://pt.wikipedia.org/wiki/Joaquim_Gon%C3%A7alves_Ledo
+2026-11-24	lote-1	his-brasil-imperio	+	Visconde do Uruguai	Paulino José Soares de Sousa	https://pt.wikipedia.org/wiki/Paulino_Jos%C3%A9_Soares_de_Sousa
+2026-11-24	lote-1	his-conquistadores	NOVA	Cite um general, conquistador ou líder militar da Antiguidade ou da Idade Média	Vale quem comandou exércitos até o ano 1500, inclusive reis e chefes que lideraram as próprias tropas. Não valem imperadores romanos (já têm pergunta própria).	https://www.historynet.com/100-greatest-generals.htm
+2026-11-24	lote-1	his-conquistadores	+	Alexandre, o Grande	Alexandre;Alexandre Magno;Alexandre III da Macedônia;Alexander the Great;Alejandro Magno	https://pt.wikipedia.org/wiki/Alexandre,_o_Grande https://www.historynet.com/100-greatest-generals.htm
+2026-11-24	lote-1	his-conquistadores	+	Júlio César	César;Caio Júlio César;Julius Caesar	https://pt.wikipedia.org/wiki/J%C3%BAlio_C%C3%A9sar https://www.historynet.com/100-greatest-generals.htm
+2026-11-24	lote-1	his-conquistadores	+	Aníbal	Aníbal Barca;Hannibal	https://pt.wikipedia.org/wiki/An%C3%ADbal https://www.historynet.com/100-greatest-generals.htm
+2026-11-24	lote-1	his-conquistadores	+	Átila	Átila, o Huno;Attila	https://pt.wikipedia.org/wiki/%C3%81tila
+2026-11-24	lote-1	his-conquistadores	+	Gengis Khan	Gêngis Cã;Genghis Khan	https://pt.wikipedia.org/wiki/Gengis_Khan https://www.historynet.com/100-greatest-generals.htm
+2026-11-24	lote-1	his-conquistadores	+	Saladino	Saladin	https://pt.wikipedia.org/wiki/Saladino
+2026-11-24	lote-1	his-conquistadores	+	Carlos Magno	Charlemagne;Carlomagno	https://pt.wikipedia.org/wiki/Carlos_Magno
+2026-11-24	lote-1	his-conquistadores	+	Leônidas	Leônidas I;Rei Leônidas	https://pt.wikipedia.org/wiki/Le%C3%B3nidas_I
+2026-11-24	lote-1	his-conquistadores	+	Joana d'Arc	Joana Darc;Joan of Arc;Juana de Arco	https://pt.wikipedia.org/wiki/Joana_d'Arc
+2026-11-24	lote-1	his-conquistadores	+	Espártaco	Spartacus	https://pt.wikipedia.org/wiki/Esp%C3%A1rtaco
+2026-11-24	lote-1	his-conquistadores	+	Ricardo Coração de Leão	Ricardo I;Ricardo I de Inglaterra;Richard the Lionheart;Ricardo Corazón de León	https://pt.wikipedia.org/wiki/Ricardo_I_de_Inglaterra
+2026-11-24	lote-1	his-conquistadores	+	William Wallace	Wallace	https://pt.wikipedia.org/wiki/William_Wallace
+2026-11-24	lote-1	his-conquistadores	+	Marco Antônio	Mark Antony	https://pt.wikipedia.org/wiki/Marco_Ant%C3%B4nio
+2026-11-24	lote-1	his-conquistadores	+	Ciro, o Grande	Ciro;Ciro II;Cyrus the Great;Ciro el Grande	https://pt.wikipedia.org/wiki/Ciro_II https://pt.wikipedia.org/wiki/Ciro,_o_Grande
+2026-11-24	lote-1	his-conquistadores	+	Xerxes	Xerxes I;Jerjes	https://pt.wikipedia.org/wiki/Xerxes_I
+2026-11-24	lote-1	his-conquistadores	+	Dario	Dario I;Dario, o Grande;Dario III;Darius;Darius the Great	https://pt.wikipedia.org/wiki/Dario_I
+2026-11-24	lote-1	his-conquistadores	+	Sun Tzu	Sunzi;Sun Zi	https://pt.wikipedia.org/wiki/Sun_Tzu
+2026-11-24	lote-1	his-conquistadores	+	Ramsés	Ramsés II;Ramessés II;Ramessés	https://pt.wikipedia.org/wiki/Ramess%C3%A9s_II
+2026-11-24	lote-1	his-conquistadores	+	Kublai Khan	Cublai Cã;Kublai Cã	https://pt.wikipedia.org/wiki/Kublai_Khan
+2026-11-24	lote-1	his-conquistadores	+	Vlad, o Empalador	Vlad III;Vlad Drácula;Vlad Tepes;Drácula;Vlad the Impaler	https://pt.wikipedia.org/wiki/Vlad,_o_Empalador
+2026-11-24	lote-1	his-conquistadores	+	Guilherme, o Conquistador	Guilherme I de Inglaterra;Guilherme I da Inglaterra;William the Conqueror	https://pt.wikipedia.org/wiki/Guilherme_I_de_Inglaterra https://www.historynet.com/100-greatest-generals.htm https://pt.wikipedia.org/wiki/Guilherme,_o_Conquistador
+2026-11-24	lote-1	his-conquistadores	+	El Cid	Cid;Rodrigo Díaz de Vivar;El Cid Campeador	https://pt.wikipedia.org/wiki/El_Cid
+2026-11-24	lote-1	his-conquistadores	+	Pompeu	Pompeu Magno;Cneu Pompeu;Pompey	https://pt.wikipedia.org/wiki/Pompeu
+2026-11-24	lote-1	his-conquistadores	+	Vercingetórix		https://pt.wikipedia.org/wiki/Vercinget%C3%B3rix
+2026-11-24	lote-1	his-conquistadores	+	Tamerlão	Timur;Tamerlane;Tamerlán	https://pt.wikipedia.org/wiki/Tamerl%C3%A3o https://www.historynet.com/100-greatest-generals.htm
+2026-11-24	lote-1	his-conquistadores	+	Nuno Álvares Pereira	Nuno Álvares;Santo Condestável;Nun'Álvares	https://pt.wikipedia.org/wiki/Nuno_%C3%81lvares_Pereira
+2026-11-24	lote-1	his-conquistadores	+	Afonso Henriques	Dom Afonso Henriques;Afonso I de Portugal	https://pt.wikipedia.org/wiki/Afonso_Henriques https://pt.wikipedia.org/wiki/Afonso_I_de_Portugal
+2026-11-24	lote-1	his-conquistadores	+	Viriato	Viriathus	https://pt.wikipedia.org/wiki/Viriato
+2026-11-24	lote-1	his-conquistadores	+	Boudica	Boadiceia;Boudicca;Boadicea	https://pt.wikipedia.org/wiki/Boadiceia https://pt.wikipedia.org/wiki/Boudica
+2026-11-24	lote-1	his-conquistadores	+	Pirro	Pirro de Épiro;Pyrrhus	https://pt.wikipedia.org/wiki/Pirro https://pt.wikipedia.org/wiki/Pirro_de_Epiro
+2026-11-24	lote-1	his-conquistadores	+	Carlos Martel	Charles Martel	https://pt.wikipedia.org/wiki/Carlos_Martel
+2026-11-24	lote-1	his-conquistadores	+	Alarico	Alarico I;Alaric	https://pt.wikipedia.org/wiki/Alarico https://pt.wikipedia.org/wiki/Alarico_I
+2026-11-24	lote-1	his-conquistadores	+	Cipião Africano	Cipião;Públio Cornélio Cipião;Públio Cornélio Cipião Africano;Scipio Africanus	https://pt.wikipedia.org/wiki/Cipi%C3%A3o_Africano https://www.historynet.com/100-greatest-generals.htm
+2026-11-24	lote-1	his-conquistadores	+	Temístocles	Themistocles	https://pt.wikipedia.org/wiki/Tem%C3%ADstocles
+2026-11-24	lote-1	his-conquistadores	+	Péricles		https://pt.wikipedia.org/wiki/P%C3%A9ricles
+2026-11-24	lote-1	his-conquistadores	+	Filipe II da Macedônia	Filipe da Macedônia;Filipe II;Philip II of Macedon	https://pt.wikipedia.org/wiki/Filipe_II_da_Maced%C3%B3nia
+2026-11-24	lote-1	his-conquistadores	+	Nabucodonosor	Nabucodonosor II;Nebuchadnezzar	https://pt.wikipedia.org/wiki/Nabucodonosor_II
+2026-11-24	lote-1	his-conquistadores	+	Godofredo de Bulhão	Godofredo de Bouillon;Godfrey of Bouillon	https://pt.wikipedia.org/wiki/Godofredo_de_Bulh%C3%A3o
+2026-11-24	lote-1	his-conquistadores	+	Belisário	Belisarius	https://pt.wikipedia.org/wiki/Belis%C3%A1rio https://www.historynet.com/100-greatest-generals.htm
+2026-11-24	lote-1	his-conquistadores	+	Armínio	Arminius;Hermann	https://pt.wikipedia.org/wiki/Arm%C3%ADnio
+2026-11-24	lote-1	his-conquistadores	+	Genserico	Genseric	https://pt.wikipedia.org/wiki/Genserico
+2026-11-24	lote-1	his-conquistadores	+	Clóvis	Clóvis I	https://pt.wikipedia.org/wiki/Cl%C3%B3vis https://pt.wikipedia.org/wiki/Cl%C3%B3vis_I
+2026-11-24	lote-1	his-conquistadores	+	Caio Mário	Mário;Gaius Marius	https://pt.wikipedia.org/wiki/Caio_M%C3%A1rio
+2026-11-24	lote-1	his-conquistadores	+	Sula	Lúcio Cornélio Sula;Sila;Sulla	https://pt.wikipedia.org/wiki/L%C3%BAcio_Corn%C3%A9lio_Sula https://pt.wikipedia.org/wiki/Sula
+2026-11-24	lote-1	his-conquistadores	+	Crasso	Marco Licínio Crasso;Crassus	https://pt.wikipedia.org/wiki/Crasso
+2026-11-24	lote-1	his-conquistadores	+	Agripa	Marco Vipsânio Agripa;Agrippa	https://pt.wikipedia.org/wiki/Marco_Vips%C3%A2nio_Agripa
+2026-11-24	lote-1	his-conquistadores	+	Amílcar Barca	Hamilcar Barca	https://pt.wikipedia.org/wiki/Am%C3%ADlcar_Barca
+2026-11-24	lote-1	his-conquistadores	+	Tárique	Tárique ibn Ziade;Tariq ibn Ziyad;Tárique ibne Ziade	https://pt.wikipedia.org/wiki/T%C3%A1rique
+2026-11-24	lote-1	his-conquistadores	+	Sargão da Acádia	Sargão, o Grande;Sargão;Sargão I;Sargon of Akkad	https://pt.wikipedia.org/wiki/Sarg%C3%A3o_da_Ac%C3%A1dia
+2026-11-24	lote-1	his-conquistadores	+	Tutmés	Tutmés III;Tutemés;Tutemés III;Tutemósis III;Tutmósis III	https://pt.wikipedia.org/wiki/Tutem%C3%A9s_III
+2026-11-24	lote-1	his-conquistadores	+	Zenóbia		https://pt.wikipedia.org/wiki/Zen%C3%B3bia
+2026-11-24	lote-1	his-conquistadores	+	Maomé II	Mehmed II;Mehmed, o Conquistador;Mehmed the Conqueror	https://pt.wikipedia.org/wiki/Maom%C3%A9_II,_o_Conquistador
+2026-11-24	lote-1	his-conquistadores	+	Eduardo, o Príncipe Negro	Príncipe Negro;Edward the Black Prince	https://pt.wikipedia.org/wiki/Eduardo,_o_Pr%C3%ADncipe_Negro
+2026-11-24	lote-1	his-conquistadores	+	Henrique V	Henrique V de Inglaterra;Henry V	https://pt.wikipedia.org/wiki/Henrique_V_de_Inglaterra
+2026-11-24	lote-1	his-conquistadores	+	Roberto I da Escócia	Robert the Bruce;Roberto, o Bruce	https://pt.wikipedia.org/wiki/Roberto_I_da_Esc%C3%B3cia
+2026-11-24	lote-1	his-conquistadores	+	Alexandre Nevski	Alexander Nevsky	https://pt.wikipedia.org/wiki/Alexandre_Nevski
+2026-11-24	lote-1	his-conquistadores	+	Ashoka	Asoka;Açoca	https://pt.wikipedia.org/wiki/Asoka
+2026-11-24	lote-1	his-conquistadores	+	Epaminondas		https://pt.wikipedia.org/wiki/Epaminondas
+2026-11-24	lote-1	his-conquistadores	+	Teodorico, o Grande	Teodorico;Theodoric the Great	https://pt.wikipedia.org/wiki/Teodorico,_o_Grande
+2026-11-24	lote-1	his-conquistadores	+	Odoacro	Odoacer	https://pt.wikipedia.org/wiki/Odoacro
+2026-11-24	lote-1	his-conquistadores	+	Baibars	Baybars	https://pt.wikipedia.org/wiki/Baibars
+2026-11-24	lote-1	his-conquistadores	+	Subutai	Subedei;Subotai	https://pt.wikipedia.org/wiki/Subutai
+2026-11-24	lote-1	his-conquistadores	+	Calide ibne Ualide	Khalid ibn al-Walid	https://pt.wikipedia.org/wiki/Calide_ibne_Ualide
+2026-11-24	lote-1	his-conquistadores	+	Skanderbeg	Escanderbeg;Jorge Castriota	https://pt.wikipedia.org/wiki/Skanderbeg
+2026-11-24	lote-1	his-conquistadores	+	Jan Žižka	Žižka	https://pt.wikipedia.org/wiki/Jan_%C5%BDi%C5%BEka
+2026-11-24	lote-1	his-conquistadores	+	Cao Cao		https://pt.wikipedia.org/wiki/Cao_Cao
+2026-11-24	lote-1	his-conquistadores	+	Pachacútec	Pachacuti	https://pt.wikipedia.org/wiki/Pachacuti
+2026-11-24	lote-1	his-conquistadores	+	Sundiata Keita	Sundiata	https://pt.wikipedia.org/wiki/Sundiata_Keita
+2026-11-24	lote-1	his-conquistadores	+	Chandragupta Máuria	Chandragupta	https://pt.wikipedia.org/wiki/Chandragupta_M%C3%A1uria

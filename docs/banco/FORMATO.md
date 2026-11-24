@@ -21,6 +21,7 @@ O `#` colado numa URL (âncora) não conta como comentário.
 ```
 == NOVA <id> | <texto> | <facil|media|dificil> | <tag1;tag2> | <url da lista-fonte>
 @nota <escopo, sem citar respostas>            (opcional)
+@atualizadoEm <AAAA-MM>                         (obrigatório se a pergunta for temporal)
 # universo: fechado, ~N itens | aberto, estimativa N
 # não sobrepõe: <perguntas existentes parecidas e por que são diferentes>
 ```

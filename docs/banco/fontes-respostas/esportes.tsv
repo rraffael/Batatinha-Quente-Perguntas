@@ -1,0 +1,969 @@
+data	lote	pergunta	operação	resposta	detalhe	fontes
+2026-11-24	lote-1	esp-modalidades-paris-2024	x~	Saltos ornamentais	Saltos (forma espanhola genérica: em português "saltos" também é a prova do hipismo e os saltos do atletismo (outras respostas da pergunta))	
+2026-11-24	lote-1	esp-modalidades-paris-2024	~	Esgrima	Florete;Sabre;Espada	https://en.wikipedia.org/wiki/Fencing_at_the_2024_Summer_Olympics
+2026-11-24	lote-1	esp-modalidades-paris-2024	~	Hipismo	Concurso completo de equitação;Salto hípico	https://en.wikipedia.org/wiki/Equestrian_at_the_2024_Summer_Olympics
+2026-11-24	lote-1	esp-modalidades-paris-2024	+	Medley	Nado medley;Medley individual;Individual medley;Estilos	https://en.wikipedia.org/wiki/Swimming_at_the_2024_Summer_Olympics
+2026-11-24	lote-1	esp-modalidades-paris-2024	+	Windsurfe	Windsurf;Prancha a vela;iQFoil;Windsurfing	https://en.wikipedia.org/wiki/Sailing_at_the_2024_Summer_Olympics https://pt.wikipedia.org/wiki/Vela_nos_Jogos_Ol%C3%ADmpicos_de_Ver%C3%A3o_de_2024
+2026-11-24	lote-1	esp-modalidades-paris-2024	+	Solo	Exercícios de solo;Floor exercise;Suelo	https://en.wikipedia.org/wiki/Artistic_gymnastics_at_the_2024_Summer_Olympics
+2026-11-24	lote-1	esp-modalidades-paris-2024	+	Trave	Trave de equilíbrio;Balance beam;Barra de equilibrio	https://en.wikipedia.org/wiki/Artistic_gymnastics_at_the_2024_Summer_Olympics
+2026-11-24	lote-1	esp-modalidades-paris-2024	+	Kitesurfe	Kitesurf;Kite;Fórmula Kite;Kitesurfing;Kiteboarding	https://en.wikipedia.org/wiki/Sailing_at_the_2024_Summer_Olympics https://pt.wikipedia.org/wiki/Vela_nos_Jogos_Ol%C3%ADmpicos_de_Ver%C3%A3o_de_2024
+2026-11-24	lote-1	esp-modalidades-paris-2024	+	Corrida com obstáculos	3000 metros com obstáculos;Steeplechase;Carrera de obstáculos	https://en.wikipedia.org/wiki/Athletics_at_the_2024_Summer_Olympics
+2026-11-24	lote-1	esp-modalidades-paris-2024	+	Barras assimétricas	Uneven bars;Barras asimétricas	https://en.wikipedia.org/wiki/Artistic_gymnastics_at_the_2024_Summer_Olympics
+2026-11-24	lote-1	esp-modalidades-paris-2024	+	Argolas	Rings;Anillas	https://en.wikipedia.org/wiki/Artistic_gymnastics_at_the_2024_Summer_Olympics
+2026-11-24	lote-1	esp-modalidades-paris-2024	+	Barras paralelas	Parallel bars	https://en.wikipedia.org/wiki/Artistic_gymnastics_at_the_2024_Summer_Olympics
+2026-11-24	lote-1	esp-modalidades-paris-2024	+	Barra fixa	Horizontal bar;Barra fija	https://en.wikipedia.org/wiki/Artistic_gymnastics_at_the_2024_Summer_Olympics
+2026-11-24	lote-1	esp-modalidades-paris-2024	+	Cavalo com alças	Pommel horse;Caballo con arcos	https://en.wikipedia.org/wiki/Artistic_gymnastics_at_the_2024_Summer_Olympics
+2026-11-24	lote-1	esp-com-bola	+	Taco	Bets;Bete;Bete-ombro;Tacobol;Jogo de taco	https://pt.wikipedia.org/wiki/Bete-ombro https://pt.wikipedia.org/wiki/Taco_(desporto)
+2026-11-24	lote-1	esp-com-bola	+	Croqué	Croquet	https://pt.wikipedia.org/wiki/Croquet
+2026-11-24	lote-1	esp-com-bola	+	Futebol australiano	Aussie Rules;Australian rules football;Fútbol australiano	https://pt.wikipedia.org/wiki/Futebol_australiano
+2026-11-24	lote-1	esp-campeoes-f1	x~	Kimi Räikkönen	Kimi (Kimi Antonelli (piloto atual, não campeão até 2025) é chamado de "Kimi"; quem digitar pensando nele ganharia Räikkönen (fonte: https://en.wikipedia.org/wiki/List_of_Formula_One_World_Drivers%27_Champions))	
+2026-11-24	lote-1	esp-campeoes-f1	~	Max Verstappen	Max	https://pt.wikipedia.org/wiki/Lista_de_campe%C3%B5es_da_F%C3%B3rmula_1
+2026-11-24	lote-1	esp-campeoes-f1	~	Lando Norris	Lando	https://pt.wikipedia.org/wiki/Lista_de_campe%C3%B5es_da_F%C3%B3rmula_1
+2026-11-24	lote-1	esp-campeoes-f1	~	Lewis Hamilton	Lewis	https://pt.wikipedia.org/wiki/Lista_de_campe%C3%B5es_da_F%C3%B3rmula_1
+2026-11-24	lote-1	esp-campeoes-f1	~	Mika Häkkinen	Mika	https://pt.wikipedia.org/wiki/Lista_de_campe%C3%B5es_da_F%C3%B3rmula_1
+2026-11-24	lote-1	esp-ouro-olimpico-brasil	~	Fofão	Hélia Souza;Hélia Rogério de Souza Pinto	https://pt.wikipedia.org/wiki/Fof%C3%A3o_(voleibolista)
+2026-11-24	lote-1	esp-ouro-olimpico-brasil	~	Dani Lins	Danielle Lins	https://pt.wikipedia.org/wiki/Dani_Lins
+2026-11-24	lote-1	esp-ouro-olimpico-brasil	~	Lucão	Lucas Saatkamp	https://pt.wikipedia.org/wiki/Luc%C3%A3o_(voleibolista)
+2026-11-24	lote-1	esp-ouro-olimpico-brasil	~	Nalbert	Nalbert Bitencourt	https://pt.wikipedia.org/wiki/Nalbert
+2026-11-24	lote-1	esp-ouro-olimpico-brasil	~	Natália Pereira	Natália	https://pt.wikipedia.org/wiki/Nat%C3%A1lia_Pereira
+2026-11-24	lote-1	esp-ouro-olimpico-brasil	~	Luan	Luan Vieira	https://en.wikipedia.org/wiki/Football_at_the_2016_Summer_Olympics_%E2%80%93_Men%27s_team_squads
+2026-11-24	lote-1	esp-ouro-olimpico-brasil	+	William	William Furtado	https://en.wikipedia.org/wiki/Football_at_the_2016_Summer_Olympics_%E2%80%93_Men%27s_team_squads https://en.wikipedia.org/wiki/William_(footballer,_born_1995)
+2026-11-24	lote-1	esp-ouro-olimpico-brasil	+	Luan Garcia		https://en.wikipedia.org/wiki/Football_at_the_2016_Summer_Olympics_%E2%80%93_Men%27s_team_squads
+2026-11-24	lote-1	esp-pilotos-brasileiros-f1	NOVA	Cite um piloto brasileiro que já correu na Fórmula 1	Vale quem largou ou se inscreveu em pelo menos um Grande Prêmio oficial do campeonato mundial; piloto só de testes ou reserva fica de fora.	https://pt.wikipedia.org/wiki/Lista_de_pilotos_brasileiros_na_F%C3%B3rmula_1
+2026-11-24	lote-1	esp-pilotos-brasileiros-f1	+	Ayrton Senna	Ayrton;Senninha	https://pt.wikipedia.org/wiki/Lista_de_pilotos_brasileiros_na_F%C3%B3rmula_1
+2026-11-24	lote-1	esp-pilotos-brasileiros-f1	+	Nelson Piquet	Piquet pai	https://pt.wikipedia.org/wiki/Lista_de_pilotos_brasileiros_na_F%C3%B3rmula_1
+2026-11-24	lote-1	esp-pilotos-brasileiros-f1	+	Emerson Fittipaldi	Emerson;Emmo	https://pt.wikipedia.org/wiki/Lista_de_pilotos_brasileiros_na_F%C3%B3rmula_1
+2026-11-24	lote-1	esp-pilotos-brasileiros-f1	+	Rubens Barrichello	Rubinho;Barrichello;Rubinho Barrichello	https://pt.wikipedia.org/wiki/Lista_de_pilotos_brasileiros_na_F%C3%B3rmula_1
+2026-11-24	lote-1	esp-pilotos-brasileiros-f1	+	Felipe Massa	Massa	https://pt.wikipedia.org/wiki/Lista_de_pilotos_brasileiros_na_F%C3%B3rmula_1
+2026-11-24	lote-1	esp-pilotos-brasileiros-f1	+	Gabriel Bortoleto	Bortoleto	https://pt.wikipedia.org/wiki/Lista_de_pilotos_brasileiros_na_F%C3%B3rmula_1
+2026-11-24	lote-1	esp-pilotos-brasileiros-f1	+	Nelsinho Piquet	Nelsinho;Piquet Júnior;Nelson Piquet Júnior	https://pt.wikipedia.org/wiki/Lista_de_pilotos_brasileiros_na_F%C3%B3rmula_1
+2026-11-24	lote-1	esp-pilotos-brasileiros-f1	+	Bruno Senna		https://pt.wikipedia.org/wiki/Lista_de_pilotos_brasileiros_na_F%C3%B3rmula_1
+2026-11-24	lote-1	esp-pilotos-brasileiros-f1	+	Felipe Nasr	Nasr	https://pt.wikipedia.org/wiki/Lista_de_pilotos_brasileiros_na_F%C3%B3rmula_1
+2026-11-24	lote-1	esp-pilotos-brasileiros-f1	+	Christian Fittipaldi		https://pt.wikipedia.org/wiki/Lista_de_pilotos_brasileiros_na_F%C3%B3rmula_1
+2026-11-24	lote-1	esp-pilotos-brasileiros-f1	+	Lucas di Grassi	Di Grassi	https://pt.wikipedia.org/wiki/Lista_de_pilotos_brasileiros_na_F%C3%B3rmula_1
+2026-11-24	lote-1	esp-pilotos-brasileiros-f1	+	José Carlos Pace	Carlos Pace;Moco;Pace	https://pt.wikipedia.org/wiki/Lista_de_pilotos_brasileiros_na_F%C3%B3rmula_1 https://pt.wikipedia.org/wiki/Jos%C3%A9_Carlos_Pace
+2026-11-24	lote-1	esp-pilotos-brasileiros-f1	+	Wilsinho Fittipaldi	Wilson Fittipaldi Júnior;Wilsinho;Wilson Fittipaldi	https://pt.wikipedia.org/wiki/Lista_de_pilotos_brasileiros_na_F%C3%B3rmula_1
+2026-11-24	lote-1	esp-pilotos-brasileiros-f1	+	Pietro Fittipaldi		https://pt.wikipedia.org/wiki/Lista_de_pilotos_brasileiros_na_F%C3%B3rmula_1
+2026-11-24	lote-1	esp-pilotos-brasileiros-f1	+	Pedro Paulo Diniz	Pedro Diniz;Diniz	https://pt.wikipedia.org/wiki/Lista_de_pilotos_brasileiros_na_F%C3%B3rmula_1
+2026-11-24	lote-1	esp-pilotos-brasileiros-f1	+	Ricardo Zonta	Zonta	https://pt.wikipedia.org/wiki/Lista_de_pilotos_brasileiros_na_F%C3%B3rmula_1
+2026-11-24	lote-1	esp-pilotos-brasileiros-f1	+	Antônio Pizzonia	Pizzonia	https://pt.wikipedia.org/wiki/Lista_de_pilotos_brasileiros_na_F%C3%B3rmula_1
+2026-11-24	lote-1	esp-pilotos-brasileiros-f1	+	Luciano Burti	Burti	https://pt.wikipedia.org/wiki/Lista_de_pilotos_brasileiros_na_F%C3%B3rmula_1
+2026-11-24	lote-1	esp-pilotos-brasileiros-f1	+	Roberto Moreno	Roberto Pupo Moreno;Moreno;Pupo Moreno	https://pt.wikipedia.org/wiki/Lista_de_pilotos_brasileiros_na_F%C3%B3rmula_1
+2026-11-24	lote-1	esp-pilotos-brasileiros-f1	+	Maurício Gugelmin	Gugelmin	https://pt.wikipedia.org/wiki/Lista_de_pilotos_brasileiros_na_F%C3%B3rmula_1
+2026-11-24	lote-1	esp-pilotos-brasileiros-f1	+	Cristiano da Matta	Da Matta	https://pt.wikipedia.org/wiki/Lista_de_pilotos_brasileiros_na_F%C3%B3rmula_1
+2026-11-24	lote-1	esp-pilotos-brasileiros-f1	+	Ingo Hoffmann	Ingo	https://pt.wikipedia.org/wiki/Lista_de_pilotos_brasileiros_na_F%C3%B3rmula_1
+2026-11-24	lote-1	esp-pilotos-brasileiros-f1	+	Raul Boesel	Boesel	https://pt.wikipedia.org/wiki/Lista_de_pilotos_brasileiros_na_F%C3%B3rmula_1
+2026-11-24	lote-1	esp-pilotos-brasileiros-f1	+	Tarso Marques		https://pt.wikipedia.org/wiki/Lista_de_pilotos_brasileiros_na_F%C3%B3rmula_1
+2026-11-24	lote-1	esp-pilotos-brasileiros-f1	+	Ricardo Rosset	Rosset	https://pt.wikipedia.org/wiki/Lista_de_pilotos_brasileiros_na_F%C3%B3rmula_1
+2026-11-24	lote-1	esp-pilotos-brasileiros-f1	+	Enrique Bernoldi	Bernoldi	https://pt.wikipedia.org/wiki/Lista_de_pilotos_brasileiros_na_F%C3%B3rmula_1
+2026-11-24	lote-1	esp-pilotos-brasileiros-f1	+	Chico Serra	Francisco Serra	https://pt.wikipedia.org/wiki/Lista_de_pilotos_brasileiros_na_F%C3%B3rmula_1
+2026-11-24	lote-1	esp-pilotos-brasileiros-f1	+	Chico Landi	Francisco Landi	https://pt.wikipedia.org/wiki/Lista_de_pilotos_brasileiros_na_F%C3%B3rmula_1
+2026-11-24	lote-1	esp-pilotos-brasileiros-f1	+	Alex Dias Ribeiro	Alex Ribeiro	https://pt.wikipedia.org/wiki/Lista_de_pilotos_brasileiros_na_F%C3%B3rmula_1
+2026-11-24	lote-1	esp-pilotos-brasileiros-f1	+	Luiz Pereira Bueno		https://pt.wikipedia.org/wiki/Lista_de_pilotos_brasileiros_na_F%C3%B3rmula_1
+2026-11-24	lote-1	esp-pilotos-brasileiros-f1	+	Nano da Silva Ramos	Hermano da Silva Ramos	https://pt.wikipedia.org/wiki/Lista_de_pilotos_brasileiros_na_F%C3%B3rmula_1
+2026-11-24	lote-1	esp-pilotos-brasileiros-f1	+	Gino Bianco		https://pt.wikipedia.org/wiki/Lista_de_pilotos_brasileiros_na_F%C3%B3rmula_1
+2026-11-24	lote-1	esp-pilotos-brasileiros-f1	+	Fritz d'Orey		https://pt.wikipedia.org/wiki/Lista_de_pilotos_brasileiros_na_F%C3%B3rmula_1
+2026-11-24	lote-1	esp-campeoes-ufc	NOVA	Cite um lutador ou lutadora que já foi campeão do UFC (Ultimate Fighting Championship)	Vale quem conquistou cinturão linear ou interino de qualquer categoria do evento, até novembro de 2026; título de torneio sem cinturão não conta.	https://pt.wikipedia.org/wiki/Lista_de_campe%C3%B5es_do_UFC
+2026-11-24	lote-1	esp-campeoes-ufc	+	Anderson Silva	Anderson Spider;Spider	https://pt.wikipedia.org/wiki/Lista_de_campe%C3%B5es_do_UFC
+2026-11-24	lote-1	esp-campeoes-ufc	+	Conor McGregor	McGregor;Conor	https://pt.wikipedia.org/wiki/Lista_de_campe%C3%B5es_do_UFC
+2026-11-24	lote-1	esp-campeoes-ufc	+	José Aldo	Aldo	https://pt.wikipedia.org/wiki/Lista_de_campe%C3%B5es_do_UFC
+2026-11-24	lote-1	esp-campeoes-ufc	+	Charles Oliveira	Charles do Bronx;Do Bronx	https://pt.wikipedia.org/wiki/Lista_de_campe%C3%B5es_do_UFC
+2026-11-24	lote-1	esp-campeoes-ufc	+	Alex Pereira	Poatan;Alex Poatan	https://pt.wikipedia.org/wiki/Lista_de_campe%C3%B5es_do_UFC
+2026-11-24	lote-1	esp-campeoes-ufc	+	Jon Jones	Jonathan Jones;Jon Bones Jones	https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Khabib Nurmagomedov	Khabib	https://pt.wikipedia.org/wiki/Lista_de_campe%C3%B5es_do_UFC
+2026-11-24	lote-1	esp-campeoes-ufc	+	Georges St-Pierre	GSP;St-Pierre;Georges Saint-Pierre	https://pt.wikipedia.org/wiki/Lista_de_campe%C3%B5es_do_UFC
+2026-11-24	lote-1	esp-campeoes-ufc	+	Israel Adesanya	Adesanya	https://pt.wikipedia.org/wiki/Lista_de_campe%C3%B5es_do_UFC
+2026-11-24	lote-1	esp-campeoes-ufc	+	Ilia Topuria	Topuria	https://pt.wikipedia.org/wiki/Lista_de_campe%C3%B5es_do_UFC
+2026-11-24	lote-1	esp-campeoes-ufc	+	Mackenzie Dern		https://pt.wikipedia.org/wiki/Lista_de_campe%C3%B5es_do_UFC
+2026-11-24	lote-1	esp-campeoes-ufc	+	Amanda Nunes	Leoa	https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Ronda Rousey	Rousey	https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Cris Cyborg	Cristiane Justino;Cyborg	https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Francis Ngannou	Ngannou	https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Alexandre Pantoja	Pantoja	https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Brock Lesnar	Lesnar	https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Renan Barão	Barão	https://pt.wikipedia.org/wiki/Lista_de_campe%C3%B5es_do_UFC
+2026-11-24	lote-1	esp-campeoes-ufc	+	Rafael dos Anjos	RDA	https://pt.wikipedia.org/wiki/Lista_de_campe%C3%B5es_do_UFC
+2026-11-24	lote-1	esp-campeoes-ufc	+	Alexander Volkanovski	Volkanovski;Volk	https://pt.wikipedia.org/wiki/Lista_de_campe%C3%B5es_do_UFC
+2026-11-24	lote-1	esp-campeoes-ufc	+	Valentina Shevchenko	Shevchenko	https://pt.wikipedia.org/wiki/Lista_de_campe%C3%B5es_do_UFC
+2026-11-24	lote-1	esp-campeoes-ufc	+	Islam Makhachev	Makhachev	https://pt.wikipedia.org/wiki/Lista_de_campe%C3%B5es_do_UFC
+2026-11-24	lote-1	esp-campeoes-ufc	+	Chris Weidman	Weidman	https://pt.wikipedia.org/wiki/Lista_de_campe%C3%B5es_do_UFC
+2026-11-24	lote-1	esp-campeoes-ufc	+	Michael Bisping	Bisping	https://pt.wikipedia.org/wiki/Lista_de_campe%C3%B5es_do_UFC
+2026-11-24	lote-1	esp-campeoes-ufc	+	Kamaru Usman	Usman	https://pt.wikipedia.org/wiki/Lista_de_campe%C3%B5es_do_UFC
+2026-11-24	lote-1	esp-campeoes-ufc	+	Max Holloway	Holloway	https://pt.wikipedia.org/wiki/Lista_de_campe%C3%B5es_do_UFC
+2026-11-24	lote-1	esp-campeoes-ufc	+	Sean O'Malley	O'Malley	https://pt.wikipedia.org/wiki/Lista_de_campe%C3%B5es_do_UFC
+2026-11-24	lote-1	esp-campeoes-ufc	+	Khamzat Chimaev	Chimaev	https://pt.wikipedia.org/wiki/Lista_de_campe%C3%B5es_do_UFC
+2026-11-24	lote-1	esp-campeoes-ufc	+	Kayla Harrison		https://pt.wikipedia.org/wiki/Lista_de_campe%C3%B5es_do_UFC
+2026-11-24	lote-1	esp-campeoes-ufc	+	Tom Aspinall	Aspinall	https://pt.wikipedia.org/wiki/Lista_de_campe%C3%B5es_do_UFC
+2026-11-24	lote-1	esp-campeoes-ufc	+	Henry Cejudo	Cejudo	https://pt.wikipedia.org/wiki/Lista_de_campe%C3%B5es_do_UFC
+2026-11-24	lote-1	esp-campeoes-ufc	+	Merab Dvalishvili	Merab	https://pt.wikipedia.org/wiki/Lista_de_campe%C3%B5es_do_UFC
+2026-11-24	lote-1	esp-campeoes-ufc	+	Justin Gaethje	Gaethje	https://pt.wikipedia.org/wiki/Lista_de_campe%C3%B5es_do_UFC
+2026-11-24	lote-1	esp-campeoes-ufc	+	B.J. Penn		https://pt.wikipedia.org/wiki/Lista_de_campe%C3%B5es_do_UFC
+2026-11-24	lote-1	esp-campeoes-ufc	+	Lyoto Machida	Machida	https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Maurício Shogun	Maurício Rua;Shogun	https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Vitor Belfort	Belfort	https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Junior Cigano	Junior dos Santos;Cigano	https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Fabrício Werdum	Werdum	https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Rodrigo Minotauro	Antônio Rodrigo Nogueira;Minotauro	https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Daniel Cormier	Cormier	https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Stipe Miocic	Miocic	https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Cain Velasquez	Velasquez	https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Chuck Liddell	Liddell	https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Randy Couture	Couture	https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Deiveson Figueiredo	Deiveson	https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Jéssica Andrade	Jéssica Bate-Estaca	https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Natália Silva		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Dustin Poirier	Poirier	https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Tony Ferguson		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Holly Holm		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Miesha Tate		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Julianna Peña		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Rose Namajunas	Namajunas	https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Joanna Jędrzejczyk		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Zhang Weili	Weili Zhang	https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Alexa Grasso	Grasso	https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Demetrious Johnson	Mighty Mouse	https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Dominick Cruz		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Brandon Moreno		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Quinton Jackson	Rampage Jackson;Rampage	https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Sean Strickland	Strickland	https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Leon Edwards		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Dricus du Plessis	Du Plessis	https://pt.wikipedia.org/wiki/Lista_de_campe%C3%B5es_do_UFC
+2026-11-24	lote-1	esp-campeoes-ufc	+	Robert Whittaker	Whittaker	https://pt.wikipedia.org/wiki/Lista_de_campe%C3%B5es_do_UFC
+2026-11-24	lote-1	esp-campeoes-ufc	+	Frankie Edgar		https://pt.wikipedia.org/wiki/Lista_de_campe%C3%B5es_do_UFC
+2026-11-24	lote-1	esp-campeoes-ufc	+	Glover Teixeira		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Murilo Bustamante		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Matt Serra		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Tito Ortiz		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Bas Rutten		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Frank Shamrock		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Colby Covington	Covington	https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Tyron Woodley	Woodley	https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Robbie Lawler	Lawler	https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Matt Hughes		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Rashad Evans		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Forrest Griffin		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Frank Mir		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Andrei Arlovski	Arlovski	https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Shane Carwin	Carwin	https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Ciryl Gane		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Jamahal Hill		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Magomed Ankalaev	Ankalaev	https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Carlos Ulberg	Ulberg	https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Belal Muhammad		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Jack Della Maddalena	Della Maddalena	https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Johny Hendricks		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Rich Franklin		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Luke Rockhold	Rockhold	https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Petr Yan	Pyotr Yan	https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Aljamain Sterling		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	T.J. Dillashaw	TJ Dillashaw;Dillashaw	https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Cody Garbrandt	Garbrandt	https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Joshua Van		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Yair Rodríguez		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Eddie Alvarez		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Anthony Pettis	Pettis	https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Benson Henderson		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Germaine de Randamie		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Carla Esparza		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Mark Coleman		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Kevin Randleman		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Maurice Smith		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Josh Barnett		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Ricco Rodriguez		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Tim Sylvia		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Pat Miletich		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Carlos Newton		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Dave Menne		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Evan Tanner		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Jens Pulver		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Carlos Condit		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Jan Błachowicz	Jan Blachowicz	https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Jiří Procházka		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Sean Sherk		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-campeoes-ufc	+	Nicco Montaño		https://en.wikipedia.org/wiki/List_of_UFC_champions
+2026-11-24	lote-1	esp-artes-marciais	NOVA	Cite uma arte marcial ou esporte de luta	Vale arte marcial tradicional ou esporte de combate reconhecido; estilos de uma mesma arte (escolas, faixas) e golpes isolados não contam como resposta própria.	https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Judô		https://pt.wikipedia.org/wiki/Arte_marcial https://pt.wikipedia.org/wiki/Jud%C3%B4 https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Caratê	Karatê;Karate-dô;Caratê-dô	https://pt.wikipedia.org/wiki/Arte_marcial https://pt.wikipedia.org/wiki/Carat%C3%AA https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Jiu-jítsu	Jiujitsu;Jiu-jítsu brasileiro;BJJ;Jujutsu;Jujitsu;Ju-jitsu;Brazilian jiu-jitsu	https://pt.wikipedia.org/wiki/Arte_marcial https://pt.wikipedia.org/wiki/Jiu-j%C3%ADtsu_brasileiro https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Capoeira		https://pt.wikipedia.org/wiki/Arte_marcial https://pt.wikipedia.org/wiki/Capoeira https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Boxe	Pugilismo;boxing;boxeo	https://pt.wikipedia.org/wiki/Arte_marcial https://pt.wikipedia.org/wiki/Boxe https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Muay thai	Boxe tailandês	https://pt.wikipedia.org/wiki/Arte_marcial https://pt.wikipedia.org/wiki/Muay_thai https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Taekwondo	Tae kwon do	https://pt.wikipedia.org/wiki/Arte_marcial https://pt.wikipedia.org/wiki/Taekwondo https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Kung fu	Kungfu;Wushu;Shaolin	https://pt.wikipedia.org/wiki/Arte_marcial https://pt.wikipedia.org/wiki/Kung_fu https://en.wikipedia.org/wiki/List_of_martial_arts https://pt.wikipedia.org/wiki/Artes_marciais_chinesas
+2026-11-24	lote-1	esp-artes-marciais	+	MMA	Artes marciais mistas;mixed martial arts;Artes marciales mixtas	https://pt.wikipedia.org/wiki/Arte_marcial https://pt.wikipedia.org/wiki/Artes_marciais_mistas https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Kickboxing	Kick boxing;Kickboxe	https://pt.wikipedia.org/wiki/Arte_marcial https://pt.wikipedia.org/wiki/Kickboxing https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Luta livre	lucha libre	https://pt.wikipedia.org/wiki/Arte_marcial https://pt.wikipedia.org/wiki/Luta_livre_ol%C3%ADmpica
+2026-11-24	lote-1	esp-artes-marciais	+	Esgrima	fencing	https://pt.wikipedia.org/wiki/Arte_marcial https://pt.wikipedia.org/wiki/Esgrima https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Sumô		https://pt.wikipedia.org/wiki/Arte_marcial https://pt.wikipedia.org/wiki/Sum%C3%B4 https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Krav magá		https://pt.wikipedia.org/wiki/Arte_marcial https://pt.wikipedia.org/wiki/Krav_mag%C3%A1 https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Aikidô	Aiquidô	https://pt.wikipedia.org/wiki/Arte_marcial https://pt.wikipedia.org/wiki/Aikido https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Luta greco-romana	Greco-romana;greco-roman wrestling;lucha grecorromana	https://pt.wikipedia.org/wiki/Arte_marcial https://pt.wikipedia.org/wiki/Luta_greco-romana
+2026-11-24	lote-1	esp-artes-marciais	+	Ninjutsu	Ninjitsu	https://pt.wikipedia.org/wiki/Arte_marcial https://pt.wikipedia.org/wiki/Ninjutsu https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Tai chi chuan	Tai chi;Taichi	https://pt.wikipedia.org/wiki/Arte_marcial https://pt.wikipedia.org/wiki/Tai_chi_chuan https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Kendô		https://pt.wikipedia.org/wiki/Arte_marcial https://pt.wikipedia.org/wiki/Kend%C3%B4 https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Luta olímpica	Wrestling	https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Sambo		https://pt.wikipedia.org/wiki/Arte_marcial https://pt.wikipedia.org/wiki/Sambo https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Wing chun		https://pt.wikipedia.org/wiki/Arte_marcial https://pt.wikipedia.org/wiki/Wing_chun
+2026-11-24	lote-1	esp-artes-marciais	+	Jeet kune do	JKD	https://pt.wikipedia.org/wiki/Arte_marcial https://pt.wikipedia.org/wiki/Jeet_kune_do https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Hapkido		https://pt.wikipedia.org/wiki/Arte_marcial https://pt.wikipedia.org/wiki/Hapkido https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Savate	Boxe francês	https://pt.wikipedia.org/wiki/Arte_marcial https://pt.wikipedia.org/wiki/Savate https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Kenjutsu		https://pt.wikipedia.org/wiki/Arte_marcial
+2026-11-24	lote-1	esp-artes-marciais	+	Kyudo		https://pt.wikipedia.org/wiki/Arte_marcial https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Pencak silat	Silat	https://pt.wikipedia.org/wiki/Arte_marcial https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Arnis	Eskrima;Kali;Escrima	https://pt.wikipedia.org/wiki/Arte_marcial https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Systema		https://pt.wikipedia.org/wiki/Arte_marcial https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Sanda	Sanshou	https://pt.wikipedia.org/wiki/Arte_marcial https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Pancrácio	Pankration	https://pt.wikipedia.org/wiki/Arte_marcial https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Vale-tudo		https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Luta livre esportiva	Luta livre brasileira	https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Huka-huka		https://pt.wikipedia.org/wiki/Arte_marcial https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Luta marajoara	Agarrada marajoara	https://pt.wikipedia.org/wiki/Arte_marcial https://pt.wikipedia.org/wiki/Luta_marajoara
+2026-11-24	lote-1	esp-artes-marciais	+	Jogo do pau		https://pt.wikipedia.org/wiki/Arte_marcial https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Lethwei	Boxe birmanês	https://pt.wikipedia.org/wiki/Arte_marcial https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Kalaripayattu	Kalari payattu;Kalari	https://pt.wikipedia.org/wiki/Arte_marcial https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Iaido		https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Tang Soo Do		https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Kobudô		https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Catch wrestling		https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Vovinam		https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Bartitsu		https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Bokator		https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Glima		https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Schwingen		https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Hwa Rang Do		https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Shorinji Kempo		https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Krabi-krabong		https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Shuai jiao		https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Ssireum		https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Kurash		https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Taekkyon		https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Kajukenbo		https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Gatka		https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Pehlwani		https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Dambe		https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-artes-marciais	+	Engolo		https://en.wikipedia.org/wiki/List_of_martial_arts
+2026-11-24	lote-1	esp-esportes-radicais	NOVA	Cite um esporte radical	Vale atividade praticada como esporte de risco, aventura ou ação (no ar, na água, na terra, na neve ou com motor); variações de nome de uma mesma prática contam como uma só.	https://pt.wikipedia.org/wiki/Esporte_radical
+2026-11-24	lote-1	esp-esportes-radicais	+	Skate	Skateboard;Skatismo;skateboarding	https://pt.wikipedia.org/wiki/Esporte_radical https://pt.wikipedia.org/wiki/Skate
+2026-11-24	lote-1	esp-esportes-radicais	+	Surfe	Surf;surfing	https://pt.wikipedia.org/wiki/Esporte_radical https://pt.wikipedia.org/wiki/Surfe
+2026-11-24	lote-1	esp-esportes-radicais	+	Paraquedismo	Skydiving;Salto de paraquedas;Paraquedas;Queda livre;paracaidismo	https://pt.wikipedia.org/wiki/Esporte_radical https://pt.wikipedia.org/wiki/Paraquedismo
+2026-11-24	lote-1	esp-esportes-radicais	+	Bungee jumping	Bungee jump;Bungee;Puenting	https://pt.wikipedia.org/wiki/Esporte_radical https://pt.wikipedia.org/wiki/Bungee_jumping
+2026-11-24	lote-1	esp-esportes-radicais	+	Rapel	Rappel;rappelling	https://pt.wikipedia.org/wiki/Esporte_radical https://pt.wikipedia.org/wiki/Rapel
+2026-11-24	lote-1	esp-esportes-radicais	+	Escalada	Escalada esportiva;Escalada em rocha;climbing	https://pt.wikipedia.org/wiki/Esporte_radical https://pt.wikipedia.org/wiki/Escalada
+2026-11-24	lote-1	esp-esportes-radicais	+	Alpinismo	Montanhismo;mountaineering	https://pt.wikipedia.org/wiki/Esporte_radical https://pt.wikipedia.org/wiki/Alpinismo
+2026-11-24	lote-1	esp-esportes-radicais	+	Asa-delta	Hang gliding;ala delta	https://pt.wikipedia.org/wiki/Esporte_radical https://pt.wikipedia.org/wiki/Asa-delta
+2026-11-24	lote-1	esp-esportes-radicais	+	Parapente	paragliding	https://pt.wikipedia.org/wiki/Esporte_radical https://pt.wikipedia.org/wiki/Parapente
+2026-11-24	lote-1	esp-esportes-radicais	+	Rafting		https://pt.wikipedia.org/wiki/Esporte_radical https://pt.wikipedia.org/wiki/Rafting
+2026-11-24	lote-1	esp-esportes-radicais	+	Snowboard	snowboarding	https://pt.wikipedia.org/wiki/Esporte_radical https://pt.wikipedia.org/wiki/Snowboard
+2026-11-24	lote-1	esp-esportes-radicais	+	Motocross		https://pt.wikipedia.org/wiki/Esporte_radical https://pt.wikipedia.org/wiki/Motocross
+2026-11-24	lote-1	esp-esportes-radicais	+	Parkour		https://pt.wikipedia.org/wiki/Esporte_radical https://pt.wikipedia.org/wiki/Parkour
+2026-11-24	lote-1	esp-esportes-radicais	+	BMX	Bicicross	https://pt.wikipedia.org/wiki/Esporte_radical https://pt.wikipedia.org/wiki/BMX
+2026-11-24	lote-1	esp-esportes-radicais	+	Mountain bike	Ciclismo de montanha;MTB;mountain biking	https://pt.wikipedia.org/wiki/Esporte_radical https://pt.wikipedia.org/wiki/Mountain_bike
+2026-11-24	lote-1	esp-esportes-radicais	+	Kitesurf	Kitesurfe;Kite;kitesurfing	https://pt.wikipedia.org/wiki/Esporte_radical https://pt.wikipedia.org/wiki/Kitesurf
+2026-11-24	lote-1	esp-esportes-radicais	+	Windsurf	Windsurfe;windsurfing	https://pt.wikipedia.org/wiki/Esporte_radical https://pt.wikipedia.org/wiki/Windsurf
+2026-11-24	lote-1	esp-esportes-radicais	+	Wakeboard	wakeboarding	https://pt.wikipedia.org/wiki/Esporte_radical
+2026-11-24	lote-1	esp-esportes-radicais	+	Bodyboard	Bodyboarding	https://pt.wikipedia.org/wiki/Esporte_radical
+2026-11-24	lote-1	esp-esportes-radicais	+	Tirolesa	Zipline;zip-line;tirolina	https://pt.wikipedia.org/wiki/Esporte_radical https://pt.wikipedia.org/wiki/Tirolesa
+2026-11-24	lote-1	esp-esportes-radicais	+	Arborismo		https://pt.wikipedia.org/wiki/Esporte_radical
+2026-11-24	lote-1	esp-esportes-radicais	+	Slackline	Slacklining	https://pt.wikipedia.org/wiki/Esporte_radical
+2026-11-24	lote-1	esp-esportes-radicais	+	Trekking		https://pt.wikipedia.org/wiki/Esporte_radical
+2026-11-24	lote-1	esp-esportes-radicais	+	Mergulho	Scuba;Mergulho autônomo;diving;Scuba diving;buceo	https://pt.wikipedia.org/wiki/Esporte_radical
+2026-11-24	lote-1	esp-esportes-radicais	+	Stand up paddle	SUP;Stand up paddle surfing	https://pt.wikipedia.org/wiki/Esporte_radical
+2026-11-24	lote-1	esp-esportes-radicais	+	Sandboard	sandboarding	https://pt.wikipedia.org/wiki/Esporte_radical
+2026-11-24	lote-1	esp-esportes-radicais	+	Longboard	longboarding	https://pt.wikipedia.org/wiki/Esporte_radical
+2026-11-24	lote-1	esp-esportes-radicais	+	Jet ski	Jetski;Moto aquática	https://pt.wikipedia.org/wiki/Esporte_radical
+2026-11-24	lote-1	esp-esportes-radicais	+	Esqui aquático	Ski aquático;water skiing;esquí acuático	https://pt.wikipedia.org/wiki/Esporte_radical
+2026-11-24	lote-1	esp-esportes-radicais	+	Paintball		https://pt.wikipedia.org/wiki/Esporte_radical
+2026-11-24	lote-1	esp-esportes-radicais	+	BASE jumping	Base jump	https://pt.wikipedia.org/wiki/Esporte_radical
+2026-11-24	lote-1	esp-esportes-radicais	+	Wingsuit	wingsuit flying	https://pt.wikipedia.org/wiki/Esporte_radical
+2026-11-24	lote-1	esp-esportes-radicais	+	Canoagem	Caiaque;Kayak;Kayaking	https://pt.wikipedia.org/wiki/Esporte_radical
+2026-11-24	lote-1	esp-esportes-radicais	+	Canionismo	Canyoning;barranquismo	https://pt.wikipedia.org/wiki/Esporte_radical
+2026-11-24	lote-1	esp-esportes-radicais	+	Balonismo	ballooning	https://pt.wikipedia.org/wiki/Esporte_radical
+2026-11-24	lote-1	esp-esportes-radicais	+	Espeleologia	Cavernismo;caving	https://pt.wikipedia.org/wiki/Esporte_radical
+2026-11-24	lote-1	esp-esportes-radicais	+	Corrida de aventura	adventure racing	https://pt.wikipedia.org/wiki/Esporte_radical
+2026-11-24	lote-1	esp-esportes-radicais	+	Paramotor	Paramotoring	https://pt.wikipedia.org/wiki/Esporte_radical
+2026-11-24	lote-1	esp-esportes-radicais	+	Rali	Rally	https://pt.wikipedia.org/wiki/Esporte_radical
+2026-11-24	lote-1	esp-esportes-radicais	+	Supercross		https://pt.wikipedia.org/wiki/Esporte_radical
+2026-11-24	lote-1	esp-esportes-radicais	+	Skimboard	Skimboarding	https://pt.wikipedia.org/wiki/Esporte_radical
+2026-11-24	lote-1	esp-esportes-radicais	+	Boulder	Bouldering	https://pt.wikipedia.org/wiki/Esporte_radical
+2026-11-24	lote-1	esp-esportes-radicais	+	Drift	Drifting	https://pt.wikipedia.org/wiki/Esporte_radical
+2026-11-24	lote-1	esp-esportes-radicais	+	Voo livre		https://pt.wikipedia.org/wiki/Esporte_radical
+2026-11-24	lote-1	esp-esportes-radicais	+	Mergulho livre	Apneia;Freediving	https://pt.wikipedia.org/wiki/Esporte_radical
+2026-11-24	lote-1	esp-esportes-radicais	+	Acrobacia aérea	Aerobatics	https://pt.wikipedia.org/wiki/Esporte_radical
+2026-11-24	lote-1	esp-esportes-radicais	+	Patins agressivo	Patinação agressiva;Aggressive inline;Aggressive inline skating	https://pt.wikipedia.org/wiki/Esporte_radical
+2026-11-24	lote-1	esp-esportes-radicais	+	Roller derby		https://pt.wikipedia.org/wiki/Esporte_radical
+2026-11-24	lote-1	esp-esportes-radicais	+	Skysurf	Skysurfing	https://pt.wikipedia.org/wiki/Esporte_radical
+2026-11-24	lote-1	esp-esportes-radicais	+	Mountainboard	Mountain board;Mountainboarding	https://pt.wikipedia.org/wiki/Esporte_radical
+2026-11-24	lote-1	esp-esportes-radicais	+	Snakeboard	Snakeboarding	https://pt.wikipedia.org/wiki/Esporte_radical
+2026-11-24	lote-1	esp-esportes-radicais	+	Tricking		https://pt.wikipedia.org/wiki/Esporte_radical
+2026-11-24	lote-1	esp-esportes-radicais	+	Speed flying		https://pt.wikipedia.org/wiki/Esporte_radical
+2026-11-24	lote-1	esp-esportes-radicais	+	Snowmobile	Motoneve;Snowmobiling	https://pt.wikipedia.org/wiki/Esporte_radical
+2026-11-24	lote-1	esp-esportes-radicais	+	Riverboard	Riverboarding	https://pt.wikipedia.org/wiki/Esporte_radical
+2026-11-24	lote-1	esp-esportes-radicais	+	Waveski		https://pt.wikipedia.org/wiki/Esporte_radical
+2026-11-24	lote-1	esp-esportes-radicais	+	Voo a vela	Planador;Gliding	https://pt.wikipedia.org/wiki/Esporte_radical
+2026-11-24	lote-1	esp-esportes-radicais	+	Acquaride	Boia cross	https://pt.wikipedia.org/wiki/Esporte_radical
+2026-11-24	lote-1	esp-esportes-radicais	+	Grassboard		https://pt.wikipedia.org/wiki/Esporte_radical
+2026-11-24	lote-1	esp-esportes-radicais	+	Carveboard		https://pt.wikipedia.org/wiki/Esporte_radical
+2026-11-24	lote-1	esp-esportes-inverno	NOVA	Cite um esporte ou prova dos Jogos Olímpicos de Inverno	Vale o esporte, a disciplina ou uma prova que faz ou fez parte do programa oficial dos Jogos de Inverno, até a edição de 2026; esportes só de demonstração não contam.	https://pt.wikipedia.org/wiki/Jogos_Ol%C3%ADmpicos_de_Inverno
+2026-11-24	lote-1	esp-esportes-inverno	+	Hóquei no gelo	Hóquei sobre o gelo;Hockey no gelo;ice hockey;hockey sobre hielo	https://pt.wikipedia.org/wiki/Jogos_Ol%C3%ADmpicos_de_Inverno_de_2026 https://pt.wikipedia.org/wiki/Jogos_Ol%C3%ADmpicos_de_Inverno https://en.wikipedia.org/wiki/2026_Winter_Olympics
+2026-11-24	lote-1	esp-esportes-inverno	+	Patinação artística	Patinação artística no gelo;figure skating;patinaje artístico	https://pt.wikipedia.org/wiki/Jogos_Ol%C3%ADmpicos_de_Inverno_de_2026 https://pt.wikipedia.org/wiki/Jogos_Ol%C3%ADmpicos_de_Inverno https://en.wikipedia.org/wiki/2026_Winter_Olympics
+2026-11-24	lote-1	esp-esportes-inverno	+	Esqui alpino	alpine skiing	https://pt.wikipedia.org/wiki/Jogos_Ol%C3%ADmpicos_de_Inverno_de_2026 https://pt.wikipedia.org/wiki/Jogos_Ol%C3%ADmpicos_de_Inverno https://en.wikipedia.org/wiki/2026_Winter_Olympics
+2026-11-24	lote-1	esp-esportes-inverno	+	Snowboard	snowboarding	https://pt.wikipedia.org/wiki/Jogos_Ol%C3%ADmpicos_de_Inverno_de_2026 https://pt.wikipedia.org/wiki/Jogos_Ol%C3%ADmpicos_de_Inverno https://en.wikipedia.org/wiki/2026_Winter_Olympics
+2026-11-24	lote-1	esp-esportes-inverno	+	Curling		https://pt.wikipedia.org/wiki/Jogos_Ol%C3%ADmpicos_de_Inverno_de_2026 https://pt.wikipedia.org/wiki/Jogos_Ol%C3%ADmpicos_de_Inverno https://en.wikipedia.org/wiki/2026_Winter_Olympics
+2026-11-24	lote-1	esp-esportes-inverno	+	Bobsleigh	Bobsled;Bob	https://pt.wikipedia.org/wiki/Jogos_Ol%C3%ADmpicos_de_Inverno_de_2026 https://pt.wikipedia.org/wiki/Jogos_Ol%C3%ADmpicos_de_Inverno https://en.wikipedia.org/wiki/2026_Winter_Olympics
+2026-11-24	lote-1	esp-esportes-inverno	+	Patinação de velocidade	Patinação de velocidade no gelo;speed skating;patinaje de velocidad	https://pt.wikipedia.org/wiki/Jogos_Ol%C3%ADmpicos_de_Inverno_de_2026 https://pt.wikipedia.org/wiki/Jogos_Ol%C3%ADmpicos_de_Inverno https://en.wikipedia.org/wiki/2026_Winter_Olympics
+2026-11-24	lote-1	esp-esportes-inverno	+	Salto de esqui	Salto com esqui;ski jumping	https://pt.wikipedia.org/wiki/Jogos_Ol%C3%ADmpicos_de_Inverno_de_2026 https://pt.wikipedia.org/wiki/Jogos_Ol%C3%ADmpicos_de_Inverno https://en.wikipedia.org/wiki/2026_Winter_Olympics
+2026-11-24	lote-1	esp-esportes-inverno	+	Patinação no gelo	ice skating;patinaje sobre hielo	https://pt.wikipedia.org/wiki/Jogos_Ol%C3%ADmpicos_de_Inverno https://pt.wikipedia.org/wiki/Patina%C3%A7%C3%A3o_no_gelo
+2026-11-24	lote-1	esp-esportes-inverno	+	Esqui	skiing	https://pt.wikipedia.org/wiki/Jogos_Ol%C3%ADmpicos_de_Inverno_de_2026
+2026-11-24	lote-1	esp-esportes-inverno	+	Luge		https://pt.wikipedia.org/wiki/Jogos_Ol%C3%ADmpicos_de_Inverno_de_2026 https://pt.wikipedia.org/wiki/Jogos_Ol%C3%ADmpicos_de_Inverno https://en.wikipedia.org/wiki/2026_Winter_Olympics
+2026-11-24	lote-1	esp-esportes-inverno	+	Skeleton		https://pt.wikipedia.org/wiki/Jogos_Ol%C3%ADmpicos_de_Inverno_de_2026 https://pt.wikipedia.org/wiki/Jogos_Ol%C3%ADmpicos_de_Inverno https://en.wikipedia.org/wiki/2026_Winter_Olympics
+2026-11-24	lote-1	esp-esportes-inverno	+	Biatlo	Biathlon;Biatlon	https://pt.wikipedia.org/wiki/Jogos_Ol%C3%ADmpicos_de_Inverno_de_2026 https://pt.wikipedia.org/wiki/Jogos_Ol%C3%ADmpicos_de_Inverno https://en.wikipedia.org/wiki/2026_Winter_Olympics
+2026-11-24	lote-1	esp-esportes-inverno	+	Esqui cross-country	Esqui de fundo;Cross-country;cross-country skiing;esquí de fondo	https://pt.wikipedia.org/wiki/Jogos_Ol%C3%ADmpicos_de_Inverno_de_2026 https://pt.wikipedia.org/wiki/Jogos_Ol%C3%ADmpicos_de_Inverno https://en.wikipedia.org/wiki/2026_Winter_Olympics
+2026-11-24	lote-1	esp-esportes-inverno	+	Esqui estilo livre	Esqui freestyle;Freestyle;freestyle skiing;esquí acrobático	https://pt.wikipedia.org/wiki/Jogos_Ol%C3%ADmpicos_de_Inverno_de_2026 https://pt.wikipedia.org/wiki/Esqui_estilo_livre https://pt.wikipedia.org/wiki/Jogos_Ol%C3%ADmpicos_de_Inverno https://en.wikipedia.org/wiki/2026_Winter_Olympics
+2026-11-24	lote-1	esp-esportes-inverno	+	Combinado nórdico	nordic combined;combinada nórdica	https://pt.wikipedia.org/wiki/Jogos_Ol%C3%ADmpicos_de_Inverno_de_2026 https://pt.wikipedia.org/wiki/Jogos_Ol%C3%ADmpicos_de_Inverno https://en.wikipedia.org/wiki/2026_Winter_Olympics
+2026-11-24	lote-1	esp-esportes-inverno	+	Patinação de velocidade em pista curta	Short track;Pista curta;Patinação em pista curta;short track speed skating	https://pt.wikipedia.org/wiki/Jogos_Ol%C3%ADmpicos_de_Inverno_de_2026 https://pt.wikipedia.org/wiki/Jogos_Ol%C3%ADmpicos_de_Inverno https://en.wikipedia.org/wiki/2026_Winter_Olympics
+2026-11-24	lote-1	esp-esportes-inverno	+	Dança no gelo	ice dance;danza sobre hielo	https://en.wikipedia.org/wiki/Figure_skating_at_the_2026_Winter_Olympics https://pt.wikipedia.org/wiki/Jogos_Ol%C3%ADmpicos_de_Inverno
+2026-11-24	lote-1	esp-esportes-inverno	+	Halfpipe	Half-pipe;Meio-tubo	https://en.wikipedia.org/wiki/Snowboarding_at_the_2026_Winter_Olympics https://en.wikipedia.org/wiki/Freestyle_skiing_at_the_2026_Winter_Olympics https://pt.wikipedia.org/wiki/Jogos_Ol%C3%ADmpicos_de_Inverno
+2026-11-24	lote-1	esp-esportes-inverno	+	Slalom	Slalom especial;eslalon	https://pt.wikipedia.org/wiki/Esqui_alpino https://en.wikipedia.org/wiki/Alpine_skiing_at_the_2026_Winter_Olympics https://pt.wikipedia.org/wiki/Jogos_Ol%C3%ADmpicos_de_Inverno
+2026-11-24	lote-1	esp-esportes-inverno	+	Slalom gigante	giant slalom;eslalon gigante	https://pt.wikipedia.org/wiki/Esqui_alpino https://en.wikipedia.org/wiki/Alpine_skiing_at_the_2026_Winter_Olympics https://pt.wikipedia.org/wiki/Jogos_Ol%C3%ADmpicos_de_Inverno
+2026-11-24	lote-1	esp-esportes-inverno	+	Esqui de montanha	Skimo;Esqui montanhismo;ski mountaineering;esquí de montaña	https://pt.wikipedia.org/wiki/Jogos_Ol%C3%ADmpicos_de_Inverno_de_2026 https://en.wikipedia.org/wiki/Ski_mountaineering_at_the_2026_Winter_Olympics https://en.wikipedia.org/wiki/2026_Winter_Olympics
+2026-11-24	lote-1	esp-esportes-inverno	+	Descida	Downhill;Descida livre;descenso	https://pt.wikipedia.org/wiki/Esqui_alpino https://en.wikipedia.org/wiki/Alpine_skiing_at_the_2026_Winter_Olympics https://pt.wikipedia.org/wiki/Jogos_Ol%C3%ADmpicos_de_Inverno
+2026-11-24	lote-1	esp-esportes-inverno	+	Super-G	Supergigante	https://pt.wikipedia.org/wiki/Esqui_alpino https://en.wikipedia.org/wiki/Alpine_skiing_at_the_2026_Winter_Olympics https://pt.wikipedia.org/wiki/Jogos_Ol%C3%ADmpicos_de_Inverno
+2026-11-24	lote-1	esp-esportes-inverno	+	Moguls	Mogul;Esqui de moguls	https://pt.wikipedia.org/wiki/Esqui_estilo_livre https://en.wikipedia.org/wiki/Freestyle_skiing_at_the_2026_Winter_Olympics
+2026-11-24	lote-1	esp-esportes-inverno	+	Aerials	Esqui aerials;Saltos aéreos;Esqui aéreo	https://pt.wikipedia.org/wiki/Esqui_estilo_livre https://en.wikipedia.org/wiki/Freestyle_skiing_at_the_2026_Winter_Olympics
+2026-11-24	lote-1	esp-esportes-inverno	+	Ski cross	Skicross;Esqui cross	https://pt.wikipedia.org/wiki/Esqui_estilo_livre https://en.wikipedia.org/wiki/Freestyle_skiing_at_the_2026_Winter_Olympics
+2026-11-24	lote-1	esp-esportes-inverno	+	Snowboard cross	Boardercross;SBX	https://en.wikipedia.org/wiki/Snowboarding_at_the_2026_Winter_Olympics
+2026-11-24	lote-1	esp-esportes-inverno	+	Slopestyle		https://en.wikipedia.org/wiki/Snowboarding_at_the_2026_Winter_Olympics https://en.wikipedia.org/wiki/Freestyle_skiing_at_the_2026_Winter_Olympics
+2026-11-24	lote-1	esp-esportes-inverno	+	Big air		https://en.wikipedia.org/wiki/Snowboarding_at_the_2026_Winter_Olympics https://en.wikipedia.org/wiki/Freestyle_skiing_at_the_2026_Winter_Olympics
+2026-11-24	lote-1	esp-esportes-inverno	+	Slalom gigante paralelo	parallel giant slalom	https://en.wikipedia.org/wiki/Snowboarding_at_the_2026_Winter_Olympics
+2026-11-24	lote-1	esp-esportes-inverno	+	Dual moguls		https://en.wikipedia.org/wiki/Freestyle_skiing_at_the_2026_Winter_Olympics
+2026-11-24	lote-1	esp-esportes-inverno	+	Combinado alpino	Supercombinado;Combinado por equipes;Alpine combined;Team combined	https://en.wikipedia.org/wiki/Alpine_skiing_at_the_Winter_Olympics https://en.wikipedia.org/wiki/Alpine_skiing_at_the_2026_Winter_Olympics
+2026-11-24	lote-1	esp-esportes-inverno	+	Largada em massa	Mass start	https://en.wikipedia.org/wiki/Speed_skating_at_the_2026_Winter_Olympics
+2026-11-24	lote-1	esp-esportes-inverno	+	Perseguição por equipes	Team pursuit	https://en.wikipedia.org/wiki/Speed_skating_at_the_2026_Winter_Olympics
+2026-11-24	lote-1	esp-esportes-inverno	+	Patinação em pares	Patinação em duplas;Pair skating	https://en.wikipedia.org/wiki/Figure_skating_at_the_2026_Winter_Olympics
+2026-11-24	lote-1	esp-esportes-inverno	+	Patrulha militar	Military patrol	https://en.wikipedia.org/wiki/Military_patrol_at_the_1924_Winter_Olympics
+2026-11-24	lote-1	esp-tenistas-grand-slam	NOVA	Cite um tenista (homem ou mulher) campeão de simples de um torneio do Grand Slam	Vale título de simples nos quatro grandes torneios (Austrália, Roland Garros, Wimbledon e Estados Unidos), em qualquer época, até o fim de 2026; títulos só de duplas não contam. Lista masculina: https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Gustavo Kuerten	Guga;Kuerten;Guga Kuerten	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Roger Federer	Federer	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Rafael Nadal	Nadal;Rafa Nadal	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Novak Djokovic	Djokovic;Nole	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Serena Williams	Serena	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Pete Sampras	Sampras	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Andre Agassi	Agassi	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Carlos Alcaraz	Alcaraz	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Maria Esther Bueno	Maria Bueno;Bueno	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Maria Sharapova	Sharapova	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Venus Williams	Venus	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Jannik Sinner	Sinner	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Björn Borg	Borg	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	John McEnroe	McEnroe	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Andy Murray	Murray	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Steffi Graf	Graf	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Martina Navratilova	Navratilova	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Martina Hingis	Hingis	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Monica Seles	Seles	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Boris Becker	Becker	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Daniil Medvedev	Medvedev	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Iga Świątek	Swiatek	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Aryna Sabalenka	Sabalenka	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Coco Gauff	Gauff	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Naomi Osaka	Osaka	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Gabriela Sabatini	Sabatini	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Stan Wawrinka	Wawrinka;Stanislas Wawrinka	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Juan Martín del Potro	Del Potro	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Ivan Lendl	Lendl	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Chris Evert	Evert;Chris Evert Lloyd	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Jimmy Connors	Connors	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Stefan Edberg	Edberg	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Andy Roddick	Roddick	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Lleyton Hewitt	Hewitt	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Marat Safin	Safin	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Rod Laver	Laver	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Dominic Thiem	Thiem	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Kim Clijsters	Clijsters	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Justine Henin	Henin	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Arantxa Sánchez Vicario	Sánchez Vicario;Arantxa Sánchez	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Carlos Moyá	Moyá	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Juan Carlos Ferrero	Ferrero	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Guillermo Vilas	Vilas	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Li Na		https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Caroline Wozniacki	Wozniacki	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Simona Halep	Halep	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Ashleigh Barty	Barty;Ash Barty	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Emma Raducanu	Raducanu	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Petra Kvitová	Kvitova	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Victoria Azarenka	Azarenka	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Elena Rybakina	Rybakina	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions https://www.profootballnetwork.com/tennis/2026-grand-slam-winners-list-jannik-sinner-carlos-alcaraz-elena-rybakina-alexander-zverev/
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Yannick Noah	Noah	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Michael Chang		https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Arthur Ashe	Ashe	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Billie Jean King		https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Gastón Gaudio	Gaudio	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Marin Čilić	Cilic	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Goran Ivanišević	Ivanisevic	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Yevgeny Kafelnikov	Kafelnikov;Ievgueni Kafelnikov	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Mats Wilander	Wilander	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Margaret Court	Margaret Smith Court	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Ilie Năstase	Nastase	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Thomas Muster	Muster	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Jim Courier	Courier	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Lindsay Davenport	Davenport	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Jennifer Capriati	Capriati	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Amélie Mauresmo	Mauresmo	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Stan Smith		https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Fred Perry		https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Patrick Rafter	Pat Rafter;Rafter	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Angelique Kerber	Kerber	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Alexander Zverev	Zverev;Sascha Zverev	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions https://www.profootballnetwork.com/tennis/2026-grand-slam-winners-list-jannik-sinner-carlos-alcaraz-elena-rybakina-alexander-zverev/
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Ana Ivanovic	Ivanovic	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Mirra Andreeva	Andreeva	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions https://www.profootballnetwork.com/tennis/2026-grand-slam-winners-list-jannik-sinner-carlos-alcaraz-elena-rybakina-alexander-zverev/
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Sergi Bruguera	Bruguera	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Madison Keys		https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Albert Costa		https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Thomas Johansson		https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Petr Korda	Korda	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Richard Krajicek	Krajicek	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Michael Stich	Stich	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Andrés Gómez		https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Pat Cash		https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Vitas Gerulaitis	Gerulaitis	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Adriano Panatta	Panatta	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Manuel Orantes	Orantes	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Jan Kodeš	Kodes	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	John Newcombe	Newcombe	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Ken Rosewall	Rosewall	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Roy Emerson		https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Manuel Santana	Manolo Santana	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Bill Tilden	Tilden	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Conchita Martínez		https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Mary Pierce		https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Jana Novotná	Novotna	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Anastasia Myskina	Myskina	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Svetlana Kuznetsova	Kuznetsova	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Francesca Schiavone	Schiavone	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Samantha Stosur	Stosur	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Marion Bartoli	Bartoli	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Flavia Pennetta	Pennetta	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Garbiñe Muguruza	Muguruza	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Jeļena Ostapenko	Ostapenko	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Sloane Stephens		https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Bianca Andreescu	Andreescu	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Sofia Kenin	Kenin	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Evonne Goolagong	Goolagong;Evonne Goolagong Cawley	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Virginia Wade		https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Tracy Austin		https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Iva Majoli	Majoli	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Barbora Krejčíková	Krejcikova	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Markéta Vondroušová	Vondrousova	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Hana Mandlíková	Mandlikova	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Linda Nosková	Noskova	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions https://www.profootballnetwork.com/tennis/2026-grand-slam-winners-list-jannik-sinner-carlos-alcaraz-elena-rybakina-alexander-zverev/
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	René Lacoste	Lacoste	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Suzanne Lenglen	Lenglen	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Althea Gibson		https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Johan Kriek	Kriek	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Brian Teacher		https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Roscoe Tanner		https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Mark Edmondson		https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Andrés Gimeno	Gimeno	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Bill Bowrey		https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Sue Barker		https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Mima Jaušovec	Jausovec	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Virginia Ruzici	Ruzici	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Françoise Dürr	Durr	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Nancy Richey		https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Ann Jones	Ann Haydon Jones	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Barbara Jordan		https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Chris O'Neil		https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Kerry Melville Reid	Kerry Reid	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Henri Cochet		https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Jean Borotra		https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Don Budge		https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Lew Hoad		https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Tony Roche		https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Pancho Gonzales	Pancho Gonzalez	https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Jack Kramer		https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Nicola Pietrangeli		https://en.wikipedia.org/wiki/List_of_Grand_Slam_men%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Helen Wills	Helen Wills Moody	https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-tenistas-grand-slam	+	Maureen Connolly		https://en.wikipedia.org/wiki/List_of_Grand_Slam_women%27s_singles_champions
+2026-11-24	lote-1	esp-basquete-brasil	NOVA	Cite um jogador ou jogadora de basquete do Brasil	Vale quem defendeu a seleção brasileira adulta ou jogou na NBA (National Basketball Association) ou na WNBA (a liga feminina dos Estados Unidos). Lista feminina: https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Feminino	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino
+2026-11-24	lote-1	esp-basquete-brasil	+	Oscar Schmidt	Oscar;Mão Santa	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino https://pt.wikipedia.org/wiki/Oscar_Schmidt
+2026-11-24	lote-1	esp-basquete-brasil	+	Hortência	Hortência Marcari;Hortência de Fátima Marcari	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Feminino
+2026-11-24	lote-1	esp-basquete-brasil	+	Magic Paula	Paula;Maria Paula Silva;Maria Paula da Silva	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Feminino
+2026-11-24	lote-1	esp-basquete-brasil	+	Anderson Varejão		https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino https://www.basketball-reference.com/friv/birthplaces.fcgi?country=BR https://en.wikipedia.org/wiki/List_of_NBA_players_born_outside_the_United_States https://www.basketball-reference.com/friv/birthplaces.fcgi?country=BR&state=
+2026-11-24	lote-1	esp-basquete-brasil	+	Leandrinho	Leandro Barbosa;Leandrinho Barbosa	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino https://www.basketball-reference.com/friv/birthplaces.fcgi?country=BR https://en.wikipedia.org/wiki/List_of_NBA_players_born_outside_the_United_States https://www.basketball-reference.com/friv/birthplaces.fcgi?country=BR&state=
+2026-11-24	lote-1	esp-basquete-brasil	+	Nenê	Nenê Hilário;Maybyner Hilário	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino https://www.basketball-reference.com/friv/birthplaces.fcgi?country=BR https://en.wikipedia.org/wiki/List_of_NBA_players_born_outside_the_United_States https://www.basketball-reference.com/friv/birthplaces.fcgi?country=BR&state=
+2026-11-24	lote-1	esp-basquete-brasil	+	Tiago Splitter	Splitter	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino https://www.basketball-reference.com/friv/birthplaces.fcgi?country=BR https://en.wikipedia.org/wiki/List_of_NBA_players_born_outside_the_United_States https://www.basketball-reference.com/friv/birthplaces.fcgi?country=BR&state=
+2026-11-24	lote-1	esp-basquete-brasil	+	Janeth Arcain	Janeth	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Feminino https://www.itatiaia.com.br/esportes/basquete/kamilla-cardoso-sera-16-brasileira-escolhida-para-atuar-na-wnba-relembre/
+2026-11-24	lote-1	esp-basquete-brasil	+	Marcelinho Huertas	Marcelo Huertas;Huertas	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino https://www.basketball-reference.com/friv/birthplaces.fcgi?country=BR https://en.wikipedia.org/wiki/List_of_NBA_players_born_outside_the_United_States https://www.basketball-reference.com/friv/birthplaces.fcgi?country=BR&state=
+2026-11-24	lote-1	esp-basquete-brasil	+	Raulzinho	Raul Neto;Raulzinho Neto	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino https://www.basketball-reference.com/friv/birthplaces.fcgi?country=BR https://en.wikipedia.org/wiki/List_of_NBA_players_born_outside_the_United_States https://www.basketball-reference.com/friv/birthplaces.fcgi?country=BR&state=
+2026-11-24	lote-1	esp-basquete-brasil	+	Kamilla Cardoso	Kamilla	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Feminino
+2026-11-24	lote-1	esp-basquete-brasil	+	Marcelinho Machado	Marcelo Machado	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino
+2026-11-24	lote-1	esp-basquete-brasil	+	Gui Santos	Guilherme Santos	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino https://www.basketball-reference.com/friv/birthplaces.fcgi?country=BR https://en.wikipedia.org/wiki/List_of_NBA_players_born_outside_the_United_States https://www.basketball-reference.com/friv/birthplaces.fcgi?country=BR&state=
+2026-11-24	lote-1	esp-basquete-brasil	+	Wlamir Marques	Wlamir	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino
+2026-11-24	lote-1	esp-basquete-brasil	+	Amaury Pasos	Amaury	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino
+2026-11-24	lote-1	esp-basquete-brasil	+	Hélio Rubens	Hélio Rubens Garcia	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino
+2026-11-24	lote-1	esp-basquete-brasil	+	Ubiratan Maciel	Ubiratan;Bira	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino
+2026-11-24	lote-1	esp-basquete-brasil	+	Marcel de Souza	Marcel;Marcel Ponickwar de Souza;Marcel Souza	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino
+2026-11-24	lote-1	esp-basquete-brasil	+	Rafael Araújo	Rafael Bábby;Bábby;Baby;Rafael Baby	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino https://www.basketball-reference.com/friv/birthplaces.fcgi?country=BR https://en.wikipedia.org/wiki/List_of_NBA_players_born_outside_the_United_States https://www.basketball-reference.com/friv/birthplaces.fcgi?country=BR&state=
+2026-11-24	lote-1	esp-basquete-brasil	+	Alex Garcia		https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino https://www.basketball-reference.com/friv/birthplaces.fcgi?country=BR https://en.wikipedia.org/wiki/List_of_NBA_players_born_outside_the_United_States https://www.basketball-reference.com/friv/birthplaces.fcgi?country=BR&state=
+2026-11-24	lote-1	esp-basquete-brasil	+	Guilherme Giovannoni	Giovannoni	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino
+2026-11-24	lote-1	esp-basquete-brasil	+	Cristiano Felício	Felício	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino https://www.basketball-reference.com/friv/birthplaces.fcgi?country=BR https://en.wikipedia.org/wiki/List_of_NBA_players_born_outside_the_United_States https://www.basketball-reference.com/friv/birthplaces.fcgi?country=BR&state=
+2026-11-24	lote-1	esp-basquete-brasil	+	Bruno Caboclo	Caboclo	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino https://www.basketball-reference.com/friv/birthplaces.fcgi?country=BR https://en.wikipedia.org/wiki/List_of_NBA_players_born_outside_the_United_States https://www.basketball-reference.com/friv/birthplaces.fcgi?country=BR&state=
+2026-11-24	lote-1	esp-basquete-brasil	+	Lucas Bebê	Lucas Nogueira;Bebê	https://www.basketball-reference.com/friv/birthplaces.fcgi?country=BR https://en.wikipedia.org/wiki/List_of_NBA_players_born_outside_the_United_States https://www.basketball-reference.com/friv/birthplaces.fcgi?country=BR&state=
+2026-11-24	lote-1	esp-basquete-brasil	+	Fab Melo	Fabrício Melo	https://www.basketball-reference.com/friv/birthplaces.fcgi?country=BR https://en.wikipedia.org/wiki/List_of_NBA_players_born_outside_the_United_States https://www.basketball-reference.com/friv/birthplaces.fcgi?country=BR&state=
+2026-11-24	lote-1	esp-basquete-brasil	+	Vitor Faverani	Faverani	https://www.basketball-reference.com/friv/birthplaces.fcgi?country=BR https://en.wikipedia.org/wiki/List_of_NBA_players_born_outside_the_United_States https://www.basketball-reference.com/friv/birthplaces.fcgi?country=BR&state=
+2026-11-24	lote-1	esp-basquete-brasil	+	Didi Louzada	Louzada;Didi;Marcos Louzada	https://www.basketball-reference.com/friv/birthplaces.fcgi?country=BR https://en.wikipedia.org/wiki/List_of_NBA_players_born_outside_the_United_States https://www.basketball-reference.com/friv/birthplaces.fcgi?country=BR&state=
+2026-11-24	lote-1	esp-basquete-brasil	+	Yago	Yago Santos;Yago Mateus dos Santos	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino
+2026-11-24	lote-1	esp-basquete-brasil	+	Pipoka	João Vianna;João Viana	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino https://www.basketball-reference.com/friv/birthplaces.fcgi?country=BR https://en.wikipedia.org/wiki/List_of_NBA_players_born_outside_the_United_States
+2026-11-24	lote-1	esp-basquete-brasil	+	Damiris Dantas	Damiris	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Feminino https://www.itatiaia.com.br/esportes/basquete/kamilla-cardoso-sera-16-brasileira-escolhida-para-atuar-na-wnba-relembre/
+2026-11-24	lote-1	esp-basquete-brasil	+	Iziane Castro Marques	Iziane	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Feminino https://www.itatiaia.com.br/esportes/basquete/kamilla-cardoso-sera-16-brasileira-escolhida-para-atuar-na-wnba-relembre/
+2026-11-24	lote-1	esp-basquete-brasil	+	Alessandra Santos de Oliveira	Alessandra;Alessandra Oliveira	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Feminino https://www.itatiaia.com.br/esportes/basquete/kamilla-cardoso-sera-16-brasileira-escolhida-para-atuar-na-wnba-relembre/
+2026-11-24	lote-1	esp-basquete-brasil	+	Helen Luz	Helen	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Feminino https://www.itatiaia.com.br/esportes/basquete/kamilla-cardoso-sera-16-brasileira-escolhida-para-atuar-na-wnba-relembre/
+2026-11-24	lote-1	esp-basquete-brasil	+	Érika de Souza	Érika Cristina de Souza;Érika;Érika Souza	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Feminino https://www.itatiaia.com.br/esportes/basquete/kamilla-cardoso-sera-16-brasileira-escolhida-para-atuar-na-wnba-relembre/
+2026-11-24	lote-1	esp-basquete-brasil	+	Adrianinha	Adriana Moisés Pinto;Adriana Moisés	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Feminino https://www.itatiaia.com.br/esportes/basquete/kamilla-cardoso-sera-16-brasileira-escolhida-para-atuar-na-wnba-relembre/
+2026-11-24	lote-1	esp-basquete-brasil	+	Cíntia Tuiú	Cíntia Silva dos Santos	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Feminino https://www.itatiaia.com.br/esportes/basquete/kamilla-cardoso-sera-16-brasileira-escolhida-para-atuar-na-wnba-relembre/
+2026-11-24	lote-1	esp-basquete-brasil	+	Marta Sobral	Marta de Souza Sobral	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Feminino
+2026-11-24	lote-1	esp-basquete-brasil	+	Leila Sobral	Leila de Souza Sobral	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Feminino https://www.itatiaia.com.br/esportes/basquete/kamilla-cardoso-sera-16-brasileira-escolhida-para-atuar-na-wnba-relembre/
+2026-11-24	lote-1	esp-basquete-brasil	+	Marquinhos Vieira	Marquinhos;Marcus Vinícius de Souza;Marcus Vinicius Vieira	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino https://en.wikipedia.org/wiki/List_of_NBA_players_born_outside_the_United_States https://www.basketball-reference.com/friv/birthplaces.fcgi?country=BR&state=
+2026-11-24	lote-1	esp-basquete-brasil	+	Rolando Ferreira		https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino https://www.basketball-reference.com/friv/birthplaces.fcgi?country=BR https://en.wikipedia.org/wiki/List_of_NBA_players_born_outside_the_United_States https://www.basketball-reference.com/friv/birthplaces.fcgi?country=BR&state=
+2026-11-24	lote-1	esp-basquete-brasil	+	Clarissa dos Santos	Clarissa Cristina dos Santos	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Feminino https://www.itatiaia.com.br/esportes/basquete/kamilla-cardoso-sera-16-brasileira-escolhida-para-atuar-na-wnba-relembre/
+2026-11-24	lote-1	esp-basquete-brasil	+	Vítor Benite	Benite	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino
+2026-11-24	lote-1	esp-basquete-brasil	+	Léo Meindl	Meindl	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino
+2026-11-24	lote-1	esp-basquete-brasil	+	Georginho de Paula	Georginho	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino
+2026-11-24	lote-1	esp-basquete-brasil	+	Carioquinha	Milton Setrini	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino
+2026-11-24	lote-1	esp-basquete-brasil	+	Rosa Branca		https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino
+2026-11-24	lote-1	esp-basquete-brasil	+	Rogério Klafke	Klafke	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino
+2026-11-24	lote-1	esp-basquete-brasil	+	Demétrius Ferracciú		https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino
+2026-11-24	lote-1	esp-basquete-brasil	+	Paulinho Villas-Bôas		https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino
+2026-11-24	lote-1	esp-basquete-brasil	+	Algodão		https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino
+2026-11-24	lote-1	esp-basquete-brasil	+	Sandro Varejão		https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino
+2026-11-24	lote-1	esp-basquete-brasil	+	Valtinho	Válter Apolinário	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino
+2026-11-24	lote-1	esp-basquete-brasil	+	Nezinho	Welington dos Santos	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino
+2026-11-24	lote-1	esp-basquete-brasil	+	Rafael Hettsheimeir	Hettsheimeir	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino
+2026-11-24	lote-1	esp-basquete-brasil	+	Caio Torres		https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino
+2026-11-24	lote-1	esp-basquete-brasil	+	JP Batista		https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino
+2026-11-24	lote-1	esp-basquete-brasil	+	Murilo Becker		https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino
+2026-11-24	lote-1	esp-basquete-brasil	+	Mãozinha Pereira	Mãozinha	https://en.wikipedia.org/wiki/List_of_NBA_players_born_outside_the_United_States https://www.basketball-reference.com/friv/birthplaces.fcgi?country=BR&state=
+2026-11-24	lote-1	esp-basquete-brasil	+	Silvinha Luz	Sílvia Luz	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Feminino
+2026-11-24	lote-1	esp-basquete-brasil	+	Cláudia Neves	Claudinha Neves;Cláudia Maria das Neves	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Feminino https://www.itatiaia.com.br/esportes/basquete/kamilla-cardoso-sera-16-brasileira-escolhida-para-atuar-na-wnba-relembre/
+2026-11-24	lote-1	esp-basquete-brasil	+	Mamá	Jucimara Dantas	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Feminino
+2026-11-24	lote-1	esp-basquete-brasil	+	Nádia Colhado		https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Feminino https://www.itatiaia.com.br/esportes/basquete/kamilla-cardoso-sera-16-brasileira-escolhida-para-atuar-na-wnba-relembre/
+2026-11-24	lote-1	esp-basquete-brasil	+	Vânia Hernandes		https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Feminino
+2026-11-24	lote-1	esp-basquete-brasil	+	Roseli Gustavo		https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Feminino
+2026-11-24	lote-1	esp-basquete-brasil	+	Ruth de Souza		https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Feminino
+2026-11-24	lote-1	esp-basquete-brasil	+	Israel Andrade		https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino
+2026-11-24	lote-1	esp-basquete-brasil	+	Gérson Victalino		https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino
+2026-11-24	lote-1	esp-basquete-brasil	+	Kelly Santos	Kelly da Silva Santos	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Feminino https://www.itatiaia.com.br/esportes/basquete/kamilla-cardoso-sera-16-brasileira-escolhida-para-atuar-na-wnba-relembre/
+2026-11-24	lote-1	esp-basquete-brasil	+	Guerrinha	Jorge Guerra	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino
+2026-11-24	lote-1	esp-basquete-brasil	+	Cadum	Ricardo Guimarães	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino
+2026-11-24	lote-1	esp-basquete-brasil	+	Norminha	Norma Pinto de Oliveira	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Feminino
+2026-11-24	lote-1	esp-basquete-brasil	+	Heleninha	Maria Helena Campos	https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Feminino
+2026-11-24	lote-1	esp-basquete-brasil	+	Mosquito		https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino
+2026-11-24	lote-1	esp-basquete-brasil	+	Jatyr Schall		https://pt.wikipedia.org/wiki/Sele%C3%A7%C3%A3o_Brasileira_de_Basquetebol_Masculino
+2026-11-24	lote-1	esp-nadadores-olimpicos	NOVA	Cite um nadador ou nadadora que ganhou medalha olímpica na natação	Vale medalha de ouro, prata ou bronze em prova de natação em piscina ou em águas abertas, de qualquer país, até Paris 2024; saltos ornamentais e nado artístico não contam. Lista feminina: https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(women)	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Michael Phelps	Phelps	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	César Cielo	Cielo	https://pt.wikipedia.org/wiki/Lista_de_medalhas_brasileiras_nos_Jogos_Ol%C3%ADmpicos https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men) https://www.itatiaia.com.br/esportes/olimpiada/quantas-medalhas-a-natacao-brasileira-tem-nos-jogos-olimpicos/ https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Gustavo Borges		https://pt.wikipedia.org/wiki/Lista_de_medalhas_brasileiras_nos_Jogos_Ol%C3%ADmpicos https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men) https://www.itatiaia.com.br/esportes/olimpiada/quantas-medalhas-a-natacao-brasileira-tem-nos-jogos-olimpicos/ https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Fernando Scherer	Xuxa;Scherer	https://pt.wikipedia.org/wiki/Lista_de_medalhas_brasileiras_nos_Jogos_Ol%C3%ADmpicos https://pt.wikipedia.org/wiki/Fernando_Scherer https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men) https://www.itatiaia.com.br/esportes/olimpiada/quantas-medalhas-a-natacao-brasileira-tem-nos-jogos-olimpicos/ https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Ana Marcela Cunha	Ana Marcela	https://pt.wikipedia.org/wiki/Lista_de_medalhas_brasileiras_nos_Jogos_Ol%C3%ADmpicos https://www.itatiaia.com.br/esportes/olimpiada/quantas-medalhas-a-natacao-brasileira-tem-nos-jogos-olimpicos/ https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Thiago Pereira		https://pt.wikipedia.org/wiki/Lista_de_medalhas_brasileiras_nos_Jogos_Ol%C3%ADmpicos https://www.itatiaia.com.br/esportes/olimpiada/quantas-medalhas-a-natacao-brasileira-tem-nos-jogos-olimpicos/ https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Poliana Okimoto	Poliana;Okimoto	https://pt.wikipedia.org/wiki/Lista_de_medalhas_brasileiras_nos_Jogos_Ol%C3%ADmpicos https://www.itatiaia.com.br/esportes/olimpiada/quantas-medalhas-a-natacao-brasileira-tem-nos-jogos-olimpicos/ https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Bruno Fratus	Fratus	https://pt.wikipedia.org/wiki/Lista_de_medalhas_brasileiras_nos_Jogos_Ol%C3%ADmpicos https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men) https://www.itatiaia.com.br/esportes/olimpiada/quantas-medalhas-a-natacao-brasileira-tem-nos-jogos-olimpicos/ https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Ricardo Prado		https://pt.wikipedia.org/wiki/Lista_de_medalhas_brasileiras_nos_Jogos_Ol%C3%ADmpicos https://www.itatiaia.com.br/esportes/olimpiada/quantas-medalhas-a-natacao-brasileira-tem-nos-jogos-olimpicos/ https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Mark Spitz	Spitz	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Ian Thorpe	Thorpe	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Ryan Lochte	Lochte	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Katie Ledecky	Ledecky	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(women)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Caeleb Dressel	Dressel	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Léon Marchand	Marchand	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Fernando Scheffer	Scheffer	https://pt.wikipedia.org/wiki/Lista_de_medalhas_brasileiras_nos_Jogos_Ol%C3%ADmpicos https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men) https://www.itatiaia.com.br/esportes/olimpiada/quantas-medalhas-a-natacao-brasileira-tem-nos-jogos-olimpicos/ https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Johnny Weissmuller	Weissmuller	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Alexander Popov	Popov;Aleksandr Popov	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Adam Peaty	Peaty	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Federica Pellegrini	Pellegrini	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(women)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Missy Franklin		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(women)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Dara Torres		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(women)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Natalie Coughlin	Coughlin	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(women)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Sarah Sjöström	Sjöström	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(women)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Emma McKeon	McKeon	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(women)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Ariarne Titmus	Titmus	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(women)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Summer McIntosh	McIntosh	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(women)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Pieter van den Hoogenband	Van den Hoogenband;Hoogenband	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Matt Biondi	Biondi	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Grant Hackett	Hackett	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Kosuke Kitajima	Kitajima	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Sun Yang		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Florent Manaudou		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Laure Manaudou		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(women)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Katinka Hosszú	Hosszú	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(women)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Janet Evans		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(women)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Dawn Fraser		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(women)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Duke Kahanamoku	Kahanamoku	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Kyle Chalmers	Chalmers	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Chad le Clos	Le Clos	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Gary Hall Jr.	Gary Hall Júnior;Gary Hall	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Aaron Peirsol	Peirsol	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Gregorio Paltrinieri	Paltrinieri	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Cate Campbell		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(women)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Simone Manuel		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(women)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Penny Oleksiak	Oleksiak	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(women)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Kaylee McKeown		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(women)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Kristin Otto		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(women)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Inge de Bruijn	De Bruijn	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(women)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Rebecca Adlington	Adlington	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(women)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Mireia Belmonte	Belmonte	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(women)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Michael Klim		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Mark Tewksbury		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Daniel Wiffen		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Pan Zhanle		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Tetsuo Okamoto		https://pt.wikipedia.org/wiki/Lista_de_medalhas_brasileiras_nos_Jogos_Ol%C3%ADmpicos https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men) https://www.itatiaia.com.br/esportes/olimpiada/quantas-medalhas-a-natacao-brasileira-tem-nos-jogos-olimpicos/ https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Manoel dos Santos	Manoel dos Santos Júnior;Manuel dos Santos	https://pt.wikipedia.org/wiki/Lista_de_medalhas_brasileiras_nos_Jogos_Ol%C3%ADmpicos https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men) https://www.itatiaia.com.br/esportes/olimpiada/quantas-medalhas-a-natacao-brasileira-tem-nos-jogos-olimpicos/ https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Djan Madruga		https://pt.wikipedia.org/wiki/Lista_de_medalhas_brasileiras_nos_Jogos_Ol%C3%ADmpicos https://www.itatiaia.com.br/esportes/olimpiada/quantas-medalhas-a-natacao-brasileira-tem-nos-jogos-olimpicos/ https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Edvaldo Valério	Bala	https://www.itatiaia.com.br/esportes/olimpiada/quantas-medalhas-a-natacao-brasileira-tem-nos-jogos-olimpicos/ https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Nathan Adrian		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	David Popovici	Popovici	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Thomas Ceccon	Ceccon	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Gertrude Ederle	Ederle	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(women)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Kirsty Coventry	Coventry	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(women)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Cyro Delgado	Ciro Delgado	https://www.itatiaia.com.br/esportes/olimpiada/quantas-medalhas-a-natacao-brasileira-tem-nos-jogos-olimpicos/ https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Marcus Mattioli		https://www.itatiaia.com.br/esportes/olimpiada/quantas-medalhas-a-natacao-brasileira-tem-nos-jogos-olimpicos/ https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Jorge Fernandes		https://www.itatiaia.com.br/esportes/olimpiada/quantas-medalhas-a-natacao-brasileira-tem-nos-jogos-olimpicos/ https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Carlos Jayme		https://www.itatiaia.com.br/esportes/olimpiada/quantas-medalhas-a-natacao-brasileira-tem-nos-jogos-olimpicos/ https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Bobby Finke		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Kristóf Milák	Milák	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Ryan Murphy		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Ranomi Kromowidjojo	Kromowidjojo	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(women)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Torri Huske		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(women)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Krisztina Egerszegi	Egerszegi	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(women)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Leisel Jones		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(women)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Lilly King		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(women)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Rūta Meilutytė		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(women)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Ye Shiwen		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(women)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Gretchen Walsh		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(women)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Regan Smith		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(women)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Jason Lezak	Lezak	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Jenny Thompson		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(women)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Amy Van Dyken		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(women)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Kate Douglass		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(women)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Mollie O'Callaghan		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(women)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Stephanie Rice		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(women)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Lenny Krayzelburg	Krayzelburg	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Oussama Mellouli	Mellouli;Ous Mellouli	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	John Naber		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Don Schollander	Schollander	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Anthony Ervin		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Roland Schoeman		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Park Tae-hwan		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Vladimir Salnikov	Salnikov	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Murray Rose		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Kieren Perkins		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Florian Wellbrock	Wellbrock	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Ahmed Hafnaoui	Hafnaoui	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Mack Horton		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Mike Barrowman	Barrowman	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Evgeny Rylov	Rylov	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Hubert Kós		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Shane Gould		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(women)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Libby Trickett	Lisbeth Trickett	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(women)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Franziska van Almsick	Van Almsick	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(women)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Ethelda Bleibtrey		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(women)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Roland Matthes		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Dániel Gyurta		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Eamon Sullivan		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(men)
+2026-11-24	lote-1	esp-nadadores-olimpicos	+	Kornelia Ender		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_swimming_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	NOVA	Cite um ou uma ginasta medalhista olímpico ou campeão mundial	Vale medalha olímpica (até Paris 2024) ou título mundial (até 2026) em ginástica artística, rítmica ou de trampolim, de qualquer país. Lista masculina: https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(men)	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Rebeca Andrade	Rebeca	https://pt.wikipedia.org/wiki/Lista_de_medalhas_brasileiras_nos_Jogos_Ol%C3%ADmpicos https://en.wikipedia.org/wiki/Artistic_gymnastics_at_the_2024_Summer_Olympics https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women) https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil https://en.wikipedia.org/wiki/Brazil_at_the_World_Artistic_Gymnastics_Championships
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Simone Biles	Biles	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Arthur Zanetti	Zanetti	https://pt.wikipedia.org/wiki/Lista_de_medalhas_brasileiras_nos_Jogos_Ol%C3%ADmpicos https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(men) https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil https://en.wikipedia.org/wiki/Brazil_at_the_World_Artistic_Gymnastics_Championships
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Diego Hypólito	Diego Hipólito;Hypólito	https://pt.wikipedia.org/wiki/Lista_de_medalhas_brasileiras_nos_Jogos_Ol%C3%ADmpicos https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(men) https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil https://en.wikipedia.org/wiki/Brazil_at_the_World_Artistic_Gymnastics_Championships
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Daiane dos Santos	Daiane	https://pt.wikipedia.org/wiki/Daiane_dos_Santos https://en.wikipedia.org/wiki/Brazil_at_the_World_Artistic_Gymnastics_Championships
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Nadia Comăneci	Comaneci	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Flávia Saraiva	Saraiva	https://pt.wikipedia.org/wiki/Lista_de_medalhas_brasileiras_nos_Jogos_Ol%C3%ADmpicos https://en.wikipedia.org/wiki/Artistic_gymnastics_at_the_2024_Summer_Olympics https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women) https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil https://en.wikipedia.org/wiki/Brazil_at_the_World_Artistic_Gymnastics_Championships
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Arthur Nory	Arthur Nory Mariano;Nory;Arthur Mariano	https://pt.wikipedia.org/wiki/Lista_de_medalhas_brasileiras_nos_Jogos_Ol%C3%ADmpicos https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(men) https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil https://en.wikipedia.org/wiki/Brazil_at_the_World_Artistic_Gymnastics_Championships
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Jade Barbosa		https://pt.wikipedia.org/wiki/Lista_de_medalhas_brasileiras_nos_Jogos_Ol%C3%ADmpicos https://en.wikipedia.org/wiki/Artistic_gymnastics_at_the_2024_Summer_Olympics https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women) https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil https://en.wikipedia.org/wiki/Brazil_at_the_World_Artistic_Gymnastics_Championships
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Olga Korbut	Korbut	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Gabby Douglas	Gabrielle Douglas	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Sunisa Lee	Suni Lee	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Júlia Soares		https://pt.wikipedia.org/wiki/Lista_de_medalhas_brasileiras_nos_Jogos_Ol%C3%ADmpicos https://en.wikipedia.org/wiki/Artistic_gymnastics_at_the_2024_Summer_Olympics https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women) https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil https://en.wikipedia.org/wiki/Brazil_at_the_World_Artistic_Gymnastics_Championships
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Lorrane Oliveira		https://pt.wikipedia.org/wiki/Lista_de_medalhas_brasileiras_nos_Jogos_Ol%C3%ADmpicos https://en.wikipedia.org/wiki/Artistic_gymnastics_at_the_2024_Summer_Olympics https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women) https://en.wikipedia.org/wiki/List_of_Olympic_medalists_for_Brazil https://en.wikipedia.org/wiki/Brazil_at_the_World_Artistic_Gymnastics_Championships
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Aly Raisman	Raisman	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Mary Lou Retton		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Nastia Liukin	Liukin	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Shawn Johnson		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	McKayla Maroney	Maroney	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Jordan Chiles	Chiles	https://en.wikipedia.org/wiki/Artistic_gymnastics_at_the_2024_Summer_Olympics https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Kaylia Nemour	Nemour	https://en.wikipedia.org/wiki/Artistic_gymnastics_at_the_2024_Summer_Olympics https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Larisa Latynina	Latynina	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Svetlana Khorkina	Khorkina	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Oksana Chusovitina	Chusovitina	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Kohei Uchimura	Uchimura	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(men)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Daiki Hashimoto	Hashimoto	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(men)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Max Whitlock	Whitlock	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(men)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Carlos Yulo	Yulo	https://en.wikipedia.org/wiki/Artistic_gymnastics_at_the_2024_Summer_Olympics https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(men)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Epke Zonderland	Zonderland	https://en.wikipedia.org/wiki/Epke_Zonderland https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(men)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Alina Kabaeva	Kabaeva	https://en.wikipedia.org/wiki/Alina_Kabaeva https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Věra Čáslavská	Caslavska	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Nellie Kim		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Shannon Miller		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Kerri Strug		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Cătălina Ponor	Ponor	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Daniela Silivaș	Silivas	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Lilia Podkopayeva	Podkopayeva	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Ludmilla Tourischeva	Tourischeva	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Vitaly Scherbo	Scherbo	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(men)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Alexei Nemov	Nemov	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(men)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Nikolai Andrianov	Andrianov	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(men)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Li Ning		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(men)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Paul Hamm		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(men)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Oleg Verniaiev	Verniaiev	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(men)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Shinnosuke Oka		https://en.wikipedia.org/wiki/Artistic_gymnastics_at_the_2024_Summer_Olympics https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(men)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Evgeniya Kanaeva	Kanaeva;Yevgeniya Kanayeva	https://en.wikipedia.org/wiki/Evgeniya_Kanaeva https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Margarita Mamun	Mamun	https://en.wikipedia.org/wiki/Rhythmic_gymnastics_at_the_2016_Summer_Olympics https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Yana Kudryavtseva	Kudryavtseva	https://en.wikipedia.org/wiki/Rhythmic_gymnastics_at_the_2016_Summer_Olympics https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Darja Varfolomeev	Varfolomeev	https://en.wikipedia.org/wiki/Artistic_gymnastics_at_the_2024_Summer_Olympics https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Carly Patterson		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Laurie Hernandez		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Aliya Mustafina	Mustafina	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Linoy Ashram		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Louis Smith		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(men)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Fabian Hambüchen	Hambüchen;Hambuechen	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(men)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Marian Drăgulescu	Dragulescu	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(men)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Viktoria Komova	Komova	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Zou Kai		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(men)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Jordyn Wieber		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Artem Dolgopyat		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(men)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Dominique Moceanu	Moceanu	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Ecaterina Szabo		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Yelena Shushunova	Elena Shushunova	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Tatiana Gutsu	Gutsu	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Lavinia Miloșovici	Milosovici	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Simona Amânar	Amanar	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Sandra Izbașa	Izbasa	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Hezly Rivera		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Alice D'Amato		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Manila Esposito		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Zhou Yaqin		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Qiu Qiyuan		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Sanne Wevers		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Nina Derwael	Derwael	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Yeo Seo-jeong		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Dina Averina		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Boryana Kaleyn		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Sofia Raffaeli		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Irina Tchachina		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Marina Lobatch		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Rosie MacLennan	Rosannagh MacLennan	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Irina Karavayeva		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Anna Dogonadze		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	He Wenna		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Zhu Xueying		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Bryony Page		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(women)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Sawao Kato		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(men)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Boris Shakhlin	Shakhlin	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(men)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Yuri Titov		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(men)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Viktor Chukarin	Chukarin	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(men)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Takashi Ono		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(men)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Yang Wei		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(men)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Dmitry Bilozerchev	Bilozerchev	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(men)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Li Xiaoshuang		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(men)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Alexander Dityatin	Dityatin	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(men)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Peter Vidmar		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(men)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Bart Conner		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(men)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Mitch Gaylord		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(men)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Lou Yun		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(men)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Kenzo Shirai	Shirai	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(men)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Rhys McClenaghan	McClenaghan	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(men)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Krisztián Berki	Berki	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(men)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Eleftherios Petrounias	Petrounias	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(men)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Jury Chechi	Yuri Chechi;Chechi	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(men)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Nikita Nagornyy	Nagornyy	https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(men)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Zhang Boheng		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(men)
+2026-11-24	lote-1	esp-ginastas-medalhistas	+	Shinji Morisue		https://en.wikipedia.org/wiki/List_of_Olympic_medalists_in_gymnastics_(men)
+2026-11-24	lote-1	esp-boxeadores-campeoes	NOVA	Cite um boxeador ou boxeadora que já foi campeão mundial no boxe profissional	Vale título mundial de qualquer categoria de peso reconhecido por uma das quatro grandes entidades (Associação, Conselho, Federação e Organização Mundial de Boxe) ou campeão linear anterior a elas; título só olímpico ou amador não conta. Categorias leves: listas da mesma série na Wikipédia.	https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Muhammad Ali	Cassius Clay;Ali	https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Mike Tyson	Tyson	https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Floyd Mayweather Jr.	Floyd Mayweather;Mayweather	https://en.wikipedia.org/wiki/List_of_WBC_world_champions https://en.wikipedia.org/wiki/Floyd_Mayweather_Jr.
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Éder Jofre	Galo de Ouro;Jofre	https://en.wikipedia.org/wiki/List_of_WBC_world_champions https://pt.wikipedia.org/wiki/%C3%89der_Jofre https://en.wikipedia.org/wiki/List_of_undisputed_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Acelino Freitas	Popó;Popó Freitas;Acelino Popó Freitas	https://en.wikipedia.org/wiki/List_of_WBO_world_champions https://www.lance.com.br/mais-esportes/conheca-os-titulos-e-feitos-de-popo-um-dos-melhores-pugilistas-do-brasil.html https://pt.wikipedia.org/wiki/Acelino_Freitas https://en.wikipedia.org/wiki/Acelino_Freitas
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Manny Pacquiao	Pacquiao	https://en.wikipedia.org/wiki/List_of_WBC_world_champions https://en.wikipedia.org/wiki/Manny_Pacquiao
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	George Foreman	Foreman	https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Evander Holyfield	Holyfield	https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Canelo Álvarez	Canelo;Saúl Álvarez	https://en.wikipedia.org/wiki/List_of_WBC_world_champions https://en.wikipedia.org/wiki/List_of_undisputed_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Joe Frazier	Frazier	https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Rocky Marciano	Marciano	https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Sugar Ray Robinson		https://en.wikipedia.org/wiki/Sugar_Ray_Robinson https://en.wikipedia.org/wiki/List_of_undisputed_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Sugar Ray Leonard		https://en.wikipedia.org/wiki/List_of_WBC_world_champions https://en.wikipedia.org/wiki/List_of_undisputed_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Lennox Lewis		https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Oscar De La Hoya	De La Hoya	https://en.wikipedia.org/wiki/List_of_WBC_world_champions https://en.wikipedia.org/wiki/Oscar_De_La_Hoya
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Tyson Fury	Fury	https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Wladimir Klitschko		https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions https://en.wikipedia.org/wiki/List_of_WBO_world_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Vitali Klitschko		https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Anthony Joshua		https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Oleksandr Usyk	Usyk	https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions https://en.wikipedia.org/wiki/List_of_undisputed_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Joe Louis		https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Jack Dempsey	Dempsey	https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Robson Conceição		https://en.wikipedia.org/wiki/List_of_WBC_world_champions https://www.jornaldocomercio.com/esportes/2024/07/1161934-em-decisao-contestada-robson-conceicao-derrota-norte-americano-e-e-campeao-mundial-dos-superpenas.html
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Bia Ferreira	Beatriz Ferreira	https://www.lance.com.br/mais-esportes/bia-ferreira-nocauteia-argentina-e-vira-campea-mundial-de-boxe.html
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Julio César Chávez		https://en.wikipedia.org/wiki/List_of_WBC_world_champions https://en.wikipedia.org/wiki/Julio_C%C3%A9sar_Ch%C3%A1vez
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Marvin Hagler	Hagler	https://en.wikipedia.org/wiki/List_of_WBC_world_champions https://en.wikipedia.org/wiki/List_of_undisputed_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Roberto Durán	Manos de Piedra	https://en.wikipedia.org/wiki/List_of_WBC_world_champions https://en.wikipedia.org/wiki/Roberto_Dur%C3%A1n https://en.wikipedia.org/wiki/List_of_undisputed_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Thomas Hearns	Hearns	https://en.wikipedia.org/wiki/List_of_WBC_world_champions https://en.wikipedia.org/wiki/Thomas_Hearns
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Deontay Wilder	Wilder	https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Larry Holmes	Holmes	https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Roy Jones Jr.	Roy Jones;Roy Jones Júnior	https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions https://en.wikipedia.org/wiki/List_of_WBC_world_champions https://en.wikipedia.org/wiki/List_of_undisputed_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Gennady Golovkin	Golovkin	https://en.wikipedia.org/wiki/List_of_WBC_world_champions https://en.wikipedia.org/wiki/Gennady_Golovkin
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Naoya Inoue	Inoue	https://en.wikipedia.org/wiki/List_of_WBC_world_champions https://en.wikipedia.org/wiki/List_of_undisputed_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Terence Crawford		https://en.wikipedia.org/wiki/List_of_WBC_world_champions https://en.wikipedia.org/wiki/List_of_undisputed_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Bernard Hopkins	Hopkins	https://en.wikipedia.org/wiki/List_of_WBC_world_champions https://en.wikipedia.org/wiki/List_of_undisputed_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Sonny Liston	Liston	https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Jack Johnson		https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Carlos Monzón	Monzón	https://en.wikipedia.org/wiki/List_of_WBC_world_champions https://en.wikipedia.org/wiki/List_of_undisputed_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Naseem Hamed	Prince Naseem Hamed;Naseem	https://en.wikipedia.org/wiki/List_of_WBC_world_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Miguel Cotto	Cotto	https://en.wikipedia.org/wiki/List_of_WBC_world_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Ricky Hatton	Hatton	https://en.wikipedia.org/wiki/List_of_IBF_world_champions https://en.wikipedia.org/wiki/List_of_WBA_world_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Gervonta Davis		https://en.wikipedia.org/wiki/List_of_IBF_world_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Vasiliy Lomachenko	Lomachenko	https://en.wikipedia.org/wiki/List_of_WBO_world_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Claressa Shields		https://en.wikipedia.org/wiki/Claressa_Shields https://en.wikipedia.org/wiki/List_of_female_undisputed_world_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Katie Taylor		https://en.wikipedia.org/wiki/Katie_Taylor https://en.wikipedia.org/wiki/List_of_female_undisputed_world_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Laila Ali		https://en.wikipedia.org/wiki/Laila_Ali
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Rose Volante		https://en.wikipedia.org/wiki/Katie_Taylor https://blogs.correiobraziliense.com.br/elasnoataque/rose-volante-campea-mundial-boxe/amp/
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Patrick Teixeira		https://en.wikipedia.org/wiki/List_of_WBO_world_champions https://en.wikipedia.org/wiki/Patrick_Teixeira https://www.bemparana.com.br/noticia/patrick-teixeira-faz-29-anos-e-e-nomeado-novo-campeao-mundial-dos-medios-ligeiros-386
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Valdemir Pereira	Sertão;Valdemir Sertão	https://en.wikipedia.org/wiki/List_of_IBF_world_champions https://pt.wikipedia.org/wiki/Valdemir_Pereira https://en.wikipedia.org/wiki/Valdemir_Pereira https://www.brasildefato.com.br/colunista/esportes-rebeldes/2026/01/24/grande-sertao-uma-homenagem-aos-20-anos-do-titulo-mundial-de-valdemir-dos-santos-pereira/
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Holly Holm		https://en.wikipedia.org/wiki/List_of_female_undisputed_world_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Miguel de Oliveira		https://www.lance.com.br/fora-de-campo/miguel-oliveira-segundo-brasileiro-campeao-mundial-boxe-morre-sao-paulo.html
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Riddick Bowe	Bowe	https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Floyd Patterson		https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Max Schmeling	Schmeling	https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Ken Norton		https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Leon Spinks		https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Andy Ruiz Jr.	Andy Ruiz	https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Gene Tunney	Tunney	https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	James J. Braddock	Braddock;James Braddock	https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Ingemar Johansson		https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Alexis Argüello	Argüello	https://en.wikipedia.org/wiki/List_of_WBC_world_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Pernell Whitaker		https://en.wikipedia.org/wiki/List_of_WBC_world_champions https://en.wikipedia.org/wiki/List_of_undisputed_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Félix Trinidad	Trinidad	https://en.wikipedia.org/wiki/List_of_WBC_world_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Juan Manuel Márquez		https://en.wikipedia.org/wiki/List_of_WBC_world_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Erik Morales		https://en.wikipedia.org/wiki/List_of_WBC_world_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Marco Antonio Barrera		https://en.wikipedia.org/wiki/List_of_WBC_world_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Shane Mosley	Mosley	https://en.wikipedia.org/wiki/List_of_WBC_world_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Sergio Martínez		https://en.wikipedia.org/wiki/List_of_WBC_world_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Joe Calzaghe	Calzaghe	https://en.wikipedia.org/wiki/List_of_WBO_world_champions https://en.wikipedia.org/wiki/List_of_WBC_world_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Errol Spence Jr.	Errol Spence	https://en.wikipedia.org/wiki/List_of_IBF_world_champions https://en.wikipedia.org/wiki/List_of_WBC_world_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Michael Spinks		https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Buster Douglas	James Douglas	https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Primo Carnera	Carnera	https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Max Baer		https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	John L. Sullivan		https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Nikolai Valuev	Valuev	https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Andre Ward		https://en.wikipedia.org/wiki/List_of_WBC_world_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Danny Garcia		https://en.wikipedia.org/wiki/List_of_WBC_world_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Joseph Parker		https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Daniel Dubois		https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Henry Armstrong		https://en.wikipedia.org/wiki/List_of_undisputed_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Antonio Margarito	Margarito	https://en.wikipedia.org/wiki/List_of_WBA_world_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Teófimo López		https://en.wikipedia.org/wiki/List_of_WBA_world_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Amanda Serrano		https://en.wikipedia.org/wiki/List_of_female_undisputed_world_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Cecilia Brækhus	Cecilia Braekhus	https://en.wikipedia.org/wiki/List_of_female_undisputed_world_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Natascha Ragosina		https://en.wikipedia.org/wiki/List_of_female_undisputed_world_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Savannah Marshall		https://en.wikipedia.org/wiki/List_of_female_undisputed_world_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Chantelle Cameron		https://en.wikipedia.org/wiki/List_of_female_undisputed_world_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Seniesa Estrada		https://en.wikipedia.org/wiki/List_of_female_undisputed_world_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	James J. Corbett	James Corbett	https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Bob Fitzsimmons	Fitzsimmons	https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	James J. Jeffries	James Jeffries	https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Jess Willard		https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Tommy Burns		https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Ezzard Charles		https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Jersey Joe Walcott		https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Trevor Berbick		https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Tim Witherspoon		https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Hasim Rahman		https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Michael Moorer		https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Ruslan Chagaev		https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	John Ruiz		https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Chris Byrd		https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Gerrie Coetzee		https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Salvador Sánchez		https://en.wikipedia.org/wiki/List_of_WBC_world_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Wilfredo Gómez		https://en.wikipedia.org/wiki/List_of_WBC_world_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Wilfred Benítez		https://en.wikipedia.org/wiki/List_of_WBC_world_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Azumah Nelson		https://en.wikipedia.org/wiki/List_of_WBC_world_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Jeff Fenech		https://en.wikipedia.org/wiki/List_of_WBC_world_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Mike McCallum		https://en.wikipedia.org/wiki/List_of_WBC_world_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Julian Jackson		https://en.wikipedia.org/wiki/List_of_WBC_world_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Nigel Benn		https://en.wikipedia.org/wiki/List_of_WBC_world_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Carl Froch		https://en.wikipedia.org/wiki/List_of_WBC_world_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Keith Thurman		https://en.wikipedia.org/wiki/List_of_WBC_world_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Devin Haney		https://en.wikipedia.org/wiki/List_of_WBC_world_champions https://en.wikipedia.org/wiki/List_of_undisputed_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Shakur Stevenson		https://en.wikipedia.org/wiki/List_of_WBC_world_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Jermell Charlo		https://en.wikipedia.org/wiki/List_of_WBC_world_champions https://en.wikipedia.org/wiki/List_of_undisputed_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Dmitry Bivol	Bivol	https://en.wikipedia.org/wiki/List_of_WBC_world_champions https://en.wikipedia.org/wiki/List_of_undisputed_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Artur Beterbiev	Beterbiev	https://en.wikipedia.org/wiki/List_of_WBC_world_champions https://en.wikipedia.org/wiki/List_of_undisputed_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Adrien Broner		https://en.wikipedia.org/wiki/List_of_WBC_world_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Josh Taylor		https://en.wikipedia.org/wiki/List_of_WBC_world_champions https://en.wikipedia.org/wiki/List_of_undisputed_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Ricardo López		https://en.wikipedia.org/wiki/List_of_WBC_world_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Humberto González	Chiquita González	https://en.wikipedia.org/wiki/List_of_WBC_world_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Michael Carbajal		https://en.wikipedia.org/wiki/List_of_WBC_world_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Pongsaklek Wonjongkam		https://en.wikipedia.org/wiki/List_of_WBC_world_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Jorge Arce		https://en.wikipedia.org/wiki/List_of_WBC_world_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Juan Francisco Estrada		https://en.wikipedia.org/wiki/List_of_WBC_world_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Román González		https://en.wikipedia.org/wiki/List_of_WBC_world_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Srisaket Sor Rungvisai		https://en.wikipedia.org/wiki/List_of_WBC_world_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Kazuto Ioka		https://en.wikipedia.org/wiki/List_of_WBC_world_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	José Nápoles		https://en.wikipedia.org/wiki/List_of_undisputed_boxing_champions
+2026-11-24	lote-1	esp-boxeadores-campeoes	+	Jermain Taylor		https://en.wikipedia.org/wiki/List_of_undisputed_boxing_champions
+2026-11-24	lote-1	esp-automobilismo-categorias	NOVA	Cite uma categoria ou competição do automobilismo	Vale campeonato, categoria ou prova tradicional de corrida de carros, em qualquer tipo de pista ou percurso; corridas de moto não contam. Nome de equipe, piloto ou autódromo não é resposta.	https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	Fórmula 1	F1;Fórmula Um;formula one	https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	Stock Car	Stock Car Brasil;Stock Car Pro Series;Stock Car V8	https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	Fórmula Indy	IndyCar;IndyCar Series;Indy;Fórmula Indy Series;Indy Racing League	https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	NASCAR	NASCAR Sprint Cup;NASCAR Cup Series	https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	Kart	Kartismo;Karting	https://pt.wikipedia.org/wiki/Automobilismo https://pt.wikipedia.org/wiki/Kart
+2026-11-24	lote-1	esp-automobilismo-categorias	+	Rali	rally	https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	Rali Dakar	Dakar;Rally Dakar;Paris-Dakar;dakar rally	https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	24 Horas de Le Mans	Le Mans;24 hours of le mans	https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	500 Milhas de Indianápolis	Indy 500;500 Milhas;indianapolis 500	https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	Fórmula E		https://pt.wikipedia.org/wiki/F%C3%B3rmula_E
+2026-11-24	lote-1	esp-automobilismo-categorias	+	Campeonato Mundial de Rali	WRC;Mundial de Rali;world rally championship	https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	Grande Prêmio de Mônaco	GP de Mônaco;monaco grand prix	https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	Fórmula Truck	Campeonato Brasileiro de Fórmula Truck	https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	Rally dos Sertões	Rali dos Sertões;Sertões	https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	Copa Truck		https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	Daytona 500	500 Milhas de Daytona	https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	Mil Milhas Brasileiras	Mil Milhas	https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	24 Horas de Daytona	24 hours of daytona	https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	Campeonato Mundial de Endurance	WEC;Mundial de Endurance;Campeonato Mundial de Resistência;World Endurance Championship	https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	Rali de Monte Carlo	Rally de Monte Carlo;Monte Carlo Rally	https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	DTM	Deutsche Tourenwagen Meisterschaft	https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	Rallycross	Ralicross;Campeonato Mundial de Rallycross	https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	Drift	drifting	https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	Turismo Carretera		https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	V8 Supercars	Supercars	https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	Campeonato Mundial de Carros de Turismo	WTCC;World Touring Car Championship	https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	12 Horas de Sebring	Sebring;12 Hours of Sebring	https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	24 Horas de Spa	24 Hours of Spa	https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	Dragster		https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	Fórmula Drift		https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	British Touring Car Championship	BTCC	https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	Subida de Pikes Peak	Pikes Peak;Pikes Peak International Hill Climb	https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	Bathurst 1000		https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	Champ Car		https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	Race of Champions		https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	Autocross		https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	Kartcross		https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	Baja 1000		https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	IMSA SportsCar Championship	IMSA	https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	1000 km de Nürburgring		https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	1000 km de Monza		https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	FIA GT	FIA GT Championship	https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	Camping World Truck Series	NASCAR Truck Series	https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	Velocidade na Terra		https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	Rali de San Remo	Rally de San Remo;Sanremo Rally	https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	Baja Portalegre 1000		https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	Troféu Andros	Trophée Andros	https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	África Eco Race		https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	Rali Transibérico		https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	Taça Gordon Bennett	Gordon Bennett;Gordon Bennett Cup	https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	Paris-Madrid		https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	Rampa da Falperra		https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	Sprint cars		https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	Paris-Bordéus		https://pt.wikipedia.org/wiki/Automobilismo
+2026-11-24	lote-1	esp-automobilismo-categorias	+	Campeonato Brasileiro de Turismo		https://pt.wikipedia.org/wiki/Automobilismo

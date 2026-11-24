@@ -125,6 +125,12 @@ export function lerPropostas(caminho, aoProblema = () => {}, { exigirFim = false
     if (!atual) return aoProblema(`${onde}: linha fora de pergunta: ${l}`);
     if (atual.rejeitada) return;
     if (l.startsWith("@nota ")) { atual.nota = l.slice(6).trim(); return; }
+    if (l.startsWith("@atualizadoEm ")) {
+      const v = l.slice(14).trim();
+      if (!/^\d{4}-(0[1-9]|1[0-2])$/.test(v)) return aoProblema(`${onde}: @atualizadoEm deve ser AAAA-MM`);
+      atual.atualizadoEm = v;
+      return;
+    }
     const m = l.match(/^(x~|\+|~|x|!|=|-)\s*(.*)$/);
     if (!m) return aoProblema(`${onde}: linha não reconhecida: ${l}`);
     const [, op, resto] = m;

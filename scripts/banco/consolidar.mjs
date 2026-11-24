@@ -89,6 +89,7 @@ for (const tema of temas()) {
     conflitos(tema, id, acc);
     linhas.push(nova ? cabecalhoNova(nova) : `== ${id}    # ${q.texto}`);
     if (nova?.nota) linhas.push(`@nota ${nova.nota}`);
+    if (nova?.atualizadoEm) linhas.push(`@atualizadoEm ${nova.atualizadoEm}`);
     const donoNovo = new Map();
     const mais = (acc?.mais ?? []).sort((a, b) => NIVEIS.indexOf(a.rar) - NIVEIS.indexOf(b.rar));
     for (const e of mais) {

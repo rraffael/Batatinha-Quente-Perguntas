@@ -18,7 +18,7 @@ Tomorrow X Together | TXT | | | r
 Ateez | | | | r
 ITZY | | | | r
 aespa | | | | r
-(G)I-DLE | G I-DLE;Gidle;I-DLE | | | r
+i-dle | (G)I-DLE;G I-DLE;Gidle | r
 Le Sserafim | | | | r
 IVE | | | | r
 Enhypen | | | | r
@@ -107,6 +107,8 @@ Hearts2Hearts | l
 Meovv | l
 Victon | l
 Golden Child | l
+IZ*ONE | Izone | r
+I.O.I | IOI | e
 
 == esp-times-nba | Cite um time da NBA (National Basketball Association, a liga de basquete dos Estados Unidos) | media | basquete;nba;eua | https://pt.wikipedia.org/wiki/National_Basketball_Association
 @atualizadoEm 2026-11
@@ -133,13 +135,13 @@ Detroit Pistons | Pistons | | | r
 Utah Jazz | Jazz | | | r
 Atlanta Hawks | Hawks | | | r
 Indiana Pacers | Pacers | | | r
-Charlotte Hornets | Hornets | | | r
+Charlotte Hornets | Hornets;Charlotte Bobcats;Bobcats | r
 Portland Trail Blazers | Trail Blazers;Blazers;Portland Blazers |  |  | r
 Sacramento Kings | Kings | | | r
-Memphis Grizzlies | Grizzlies | | | e
+Memphis Grizzlies | Grizzlies;Vancouver Grizzlies | e
 Minnesota Timberwolves | Timberwolves;Wolves | | | e
 New Orleans Pelicans | Pelicans | | | e
-Washington Wizards | Wizards | | | e
+Washington Wizards | Wizards;Washington Bullets;Bullets | e
 
 == esp-times-nfl | Cite um time da NFL (National Football League, a liga de futebol americano) | dificil | futebol americano;nfl;eua | https://pt.wikipedia.org/wiki/National_Football_League
 @atualizadoEm 2026-11
@@ -195,13 +197,13 @@ Thomas Jefferson | Jefferson | | | i
 Jimmy Carter | Carter | | | i
 Harry Truman | Truman;Harry S. Truman |  |  | i
 Dwight Eisenhower | Eisenhower;Ike;Dwight D. Eisenhower |  |  | i
-Gerald Ford | Gerald R. Ford |  |  | i
+Gerald Ford | Gerald R. Ford;Ford | i
 Lyndon B. Johnson | LBJ;Lyndon Johnson | | | r
 John Adams | | | | r
 James Madison | Madison | | | r
 James Monroe | Monroe | | | r
 Andrew Jackson | Jackson | | | r
-Ulysses S. Grant | Ulysses Grant | | | r
+Ulysses S. Grant | Ulysses Grant;Grant | r
 Woodrow Wilson | Wilson | | | r
 Herbert Hoover | Hoover | | | r
 John Quincy Adams | | | | e
@@ -222,4 +224,1229 @@ Franklin Pierce | Pierce | | | l
 James Buchanan | Buchanan | | | l
 Rutherford Hayes | Hayes;Rutherford B. Hayes |  |  | l
 James Garfield | Garfield | | | l
-Chester Arthur | Chester A. Arthur |  |  | l
+Chester Arthur | Chester A. Arthur;Arthur | l
+
+== mint-chespirito | Cite um personagem dos seriados de Roberto Gómez Bolaños (Chespirito) | facil | méxico;humor;sbt | https://pt.wikipedia.org/wiki/Lista_de_personagens_de_Chaves
+@nota Personagens de qualquer programa criado por ele (o da vila, o do super-herói atrapalhado e os quadros do Programa Chespirito), inclusive a versão em desenho animado. Lista complementar: https://pt.wikipedia.org/wiki/Chespirito
+Chaves | Chaves do Oito;Chavo |  | El Chavo;El Chavo del Ocho | c
+Chiquinha | Chilindrina;Francisquinha |  | La Chilindrina | c
+Seu Madruga | Madruga;Seu Ramón |  | Don Ramón | c
+Quico | Kiko | c
+Dona Florinda | c
+Professor Girafales | Girafales;Mestre Linguiça |  | Profesor Jirafales | c
+Senhor Barriga | Seu Barriga |  | Señor Barriga | c
+Dona Clotilde | Bruxa do 71;Bruxa do Setenta e Um | c
+Chapolin Colorado | Chapolin |  | El Chapulín Colorado;Chapulín Colorado | c
+Nhonho |  |  | Ñoño | c
+Jaiminho | Jaiminho o Carteiro |  | Jaimito;Jaimito el cartero | c
+Pópis | c
+Doutor Chapatin | Dr. Chapatin;Chapatin |  | Doctor Chapatín | i
+Dona Neves |  |  | Doña Nieves | i
+Godinez | i
+Paty | Patty | i
+Glória | i
+Malicha | Malu | i
+Tripa Seca | i
+Racha Cuca | i
+Quase Nada | i
+Poucas Trancas | i
+Super Sam | i
+Chaveco | Chómpiras |  | El Chómpiras | i
+Chimoltrúfia |  |  | La Chimoltrufia | i
+Botijão | Botija | i
+Chaparrón Bonaparte | Chaparrón;Pancada Bonaparte | r
+Senhor Furtado | Seu Furtado |  | Señor Hurtado | r
+Frederico | Seu Frederico |  | Don Federico | r
+Louca da Escadaria | Dona Edwiges;Louca da Escada | r
+Pirata Alma Negra | Alma Negra | r
+Bruxa Baratuxa | r
+Rei Bola Barrigola | r
+Almôndega | r
+Botina | r
+Matadouro | r
+Satanás | r
+Sargento Refúgio | r
+Elizabeth | e
+Cândida | e
+Homem da Roupa Velha |  |  | El Ropavejero | e
+Lucas Pirado | e
+Rosa, a Rumorosa | Rosa Rumorosa | e
+Peterete | e
+Dom Caveira | Seu Caveira;Carlos Veira |  | Don Calavera | e
+Lagoa Seca | e
+Madruguinha | e
+Celório | e
+Senhor Calvillo |  |  | Señor Calvillo | l
+Dona Cotinha |  |  | Doña Nachita | l
+Marujinha | Maruja | l
+Mão Negra | l
+
+== mint-reggaeton | Cite um(a) cantor(a) ou grupo de reggaeton | media | reggaeton;música latina | https://pt.wikipedia.org/wiki/Reggaeton
+@nota Artistas conhecidos pelo reggaeton, de qualquer país; artistas pop que só gravaram uma participação no gênero ficam de fora.
+Bad Bunny | c
+Daddy Yankee | c
+J Balvin | Balvin | c
+Maluma | c
+Karol G | c
+Ozuna | c
+Don Omar | c
+Nicky Jam | c
+Wisin & Yandel |  |  | Wisin y Yandel | c
+Anuel AA | Anuel | i
+Rauw Alejandro | i
+Feid | Ferxxo | i
+Farruko | i
+Natti Natasha | i
+Myke Towers | i
+Manuel Turizo | i
+Sech | i
+Ivy Queen | i
+Zion & Lennox |  |  | Zion y Lennox | i
+Arcángel | i
+Tego Calderón | i
+Tito El Bambino | El Bambino | i
+Jhayco | Jhay Cortez | i
+De La Ghetto | r
+Héctor el Father | El Father | r
+Yandel | r
+Wisin | r
+Plan B | r
+Young Miko | r
+Chencho Corleone | r
+Justin Quiles | r
+Lunay | r
+Alexis & Fido |  |  | Alexis y Fido | r
+Jowell & Randy |  |  | Jowell y Randy | r
+Cosculluela | r
+Gente de Zona | r
+Vico C | r
+El General | r
+Tony Tun Tun | e
+Baby Rasta & Gringo |  |  | Baby Rasta y Gringo | e
+J Álvarez | e
+Kevin Roldán | e
+Reykon | e
+Dalex | e
+Lenny Tavárez | e
+Ñengo Flow | e
+Ryan Castro | e
+Blessd | e
+Jay Wheeler | e
+Héctor & Tito | l
+Lito & Polaco | l
+Yaga & Mackie | l
+R.K.M & Ken-Y | RKM e Ken-Y | l
+Angel & Khriz | l
+Darell | l
+Brytiago | l
+Tony Dize | l
+
+== his-estados-eua | Cite um dos 50 estados dos Estados Unidos | facil | eua;estados;geografia | https://pt.wikipedia.org/wiki/Estados_dos_Estados_Unidos
+@nota Só os 50 estados; o distrito federal da capital e os territórios não valem.
+Califórnia | c
+Flórida | c
+Texas | c
+Nova York | Nova Iorque | New York | Nueva York | c
+Havaí | Hawaii |  | Hawái | c
+Alasca | Alaska | c
+Washington | c
+Nevada | c
+Arizona | i
+Nova Jersey | Nova Jérsei;Nova Jérsia | New Jersey | Nueva Jersey | i
+Massachusetts | i
+Colorado | i
+Geórgia | Jórgia | i
+Ohio | i
+Michigan | Michigão | i
+Illinois | Ilinóis | i
+Kentucky | i
+Luisiana | Louisiana | i
+Carolina do Norte |  | North Carolina | Carolina del Norte | i
+Carolina do Sul |  | South Carolina | Carolina del Sur | i
+Virgínia | i
+Pensilvânia |  | Pennsylvania | i
+Utah | Utá | i
+Tennessee | Tenessi | i
+Alabama | i
+Oregon | Oregão | i
+Kansas | Cansas | i
+Novo México |  | New Mexico | Nuevo México | i
+Montana | i
+Mississippi | Mississípi |  | Misisipi | i
+Missouri | Missúri |  | Misuri | i
+Oklahoma | Oclaoma | i
+Minnesota | Minesota | i
+Indiana | i
+Maryland | Marilândia | i
+Arkansas | Arcansas | r
+Iowa | r
+Wisconsin | r
+Connecticut | Conecticute;Coneticute | r
+Dakota do Norte |  | North Dakota | Dakota del Norte | r
+Dakota do Sul |  | South Dakota | Dakota del Sur | r
+Virgínia Ocidental |  | West Virginia | Virginia Occidental | r
+Maine | r
+Nebraska | Nebrasca | r
+Idaho | r
+Delaware | r
+Wyoming | r
+Vermont | Vermonte | r
+Nova Hampshire | New Hampshire |  | Nuevo Hampshire | r
+Rhode Island | Ilha de Rodes | r
+
+== his-cidades-eua | Cite uma cidade dos Estados Unidos | facil | eua;cidades | https://pt.wikipedia.org/wiki/Lista_de_cidades_dos_Estados_Unidos_por_popula%C3%A7%C3%A3o
+@nota Cidades e municípios dos 50 estados e do distrito federal da capital; territórios ficam de fora.
+Nova York | Nova Iorque;NYC;Cidade de Nova York;Big Apple | New York;New York City | Nueva York | c
+Los Angeles | LA | c
+Miami | c
+Orlando | c
+Las Vegas | Vegas | c
+Chicago | c
+São Francisco |  | San Francisco | c
+Washington | Washington DC | c
+Boston | c
+Houston | c
+Dallas | c
+Seattle | c
+Detroit | c
+Filadélfia |  | Philadelphia | i
+Atlanta | i
+Nova Orleans | Nova Orleães;NOLA | New Orleans | Nueva Orleans | i
+Denver | i
+San Diego | i
+Phoenix | i
+Austin | i
+Nashville | i
+Memphis | i
+Honolulu | i
+San Antonio | i
+Beverly Hills | i
+Santa Mônica | i
+Malibu | i
+Salt Lake City | Cidade do Lago Salgado | i
+Baltimore | i
+Pittsburgh | i
+Cleveland | i
+Tampa | i
+Portland | i
+Sacramento | i
+Kansas City | i
+Indianápolis | i
+Minneapolis | i
+Saint Louis | St. Louis | i
+Atlantic City | i
+Fort Lauderdale | i
+Springfield | i
+Cincinnati | i
+Milwaukee | i
+Charlotte | i
+Oklahoma City | i
+Anchorage | i
+Buffalo | r
+Key West | r
+Aspen | r
+Pasadena | r
+Palm Beach | r
+Albuquerque | r
+Jacksonville | r
+El Paso | r
+Columbus | r
+Louisville | r
+San Jose | São José | r
+Tucson | r
+Omaha | r
+Tulsa | r
+Baton Rouge | r
+Palm Springs | r
+Santa Fé | r
+Fort Worth | r
+Fresno | r
+Colorado Springs | r
+Long Beach | r
+Oakland | r
+Virginia Beach | r
+Newark | r
+Jersey City | r
+Anaheim | r
+Raleigh | r
+Saint Paul | St. Paul | r
+Madison | r
+Birmingham | r
+Rochester | r
+Reno | r
+Corpus Christi | r
+Des Moines | e
+Boise | e
+Spokane | e
+Savannah | e
+Juneau | e
+Roswell | e
+Tombstone | e
+Princeton | e
+Salem | e
+Mesa | e
+Bakersfield | e
+Arlington | e
+Aurora | e
+Wichita | e
+Henderson | e
+Riverside | e
+Stockton | e
+Lexington | e
+Santa Ana | e
+Greensboro | e
+Durham | e
+Lincoln | e
+Plano | e
+Chandler | e
+Lubbock | e
+Fort Wayne | e
+Chula Vista | e
+São Petersburgo | Saint Petersburg;St. Petersburg | e
+Toledo | e
+Laredo | e
+Glendale | e
+Winston-Salem | e
+Garland | e
+Norfolk | e
+Chesapeake | e
+Hialeah | e
+Scottsdale | e
+North Las Vegas | e
+Irving | e
+Fremont | e
+Irvine | e
+San Bernardino | e
+Gilbert | e
+Montgomery | e
+Richmond | e
+Modesto | e
+Fayetteville | e
+
+== mint-novelas-mexicanas | Cite uma novela mexicana exibida na TV brasileira | media | novelas;méxico;sbt | https://pt.wikipedia.org/wiki/Lista_de_telenovelas_hispano-americanas_exibidas_pelo_SBT
+@nota Só novelas produzidas no México; regravações brasileiras e novelas de outros países latinos não valem. Seriados de humor não são novelas.
+A Usurpadora | Usurpadora |  | La Usurpadora | c
+Maria do Bairro |  |  | María la del Barrio | c
+Marimar | c
+Carrossel |  |  | Carrusel | c
+Rebelde | c
+Rubi | c
+Esmeralda | c
+Maria Mercedes | c
+A Feia Mais Bela | Feia Mais Bela |  | La Fea Más Bella | c
+Cúmplices de um Resgate |  |  | Cómplices al Rescate | c
+Carinha de Anjo |  |  | Carita de Ángel | c
+Rosalinda | i
+Coração Indomável |  |  | Corazón Indomable | i
+Amor Real | i
+Alegrifes e Rabujos |  |  | Alegrijes y Rebujos | i
+Chispita | i
+Maria Belém |  |  | María Belén | i
+Abismo de Paixão |  |  | Abismo de Pasión | i
+Teresa | i
+A Dona |  |  | Soy Tu Dueña | i
+Mar de Amor | i
+Querida Inimiga |  |  | Querida Enemiga | i
+Amigas e Rivais |  |  | Amigas y Rivales | i
+Os Ricos Também Choram |  |  | Los Ricos También Lloran | i
+Simplesmente Maria |  |  | Simplemente María | i
+A Madrasta |  |  | La Madrastra | i
+Amy, a Menina da Mochila Azul | Amy |  | Amy, la Niña de la Mochila Azul | i
+Gotinha de Amor |  |  | Gotita de Amor | i
+Carrossel das Américas |  |  | Carrusel de las Américas | i
+Coração Selvagem |  |  | Corazón Salvaje | i
+Maria Isabel | i
+Luz Clarita | i
+Camaleões |  |  | Camaleones | i
+Destilando Amor | i
+O Que a Vida me Roubou |  |  | Lo Que la Vida me Robó | i
+Triunfo do Amor |  |  | Triunfo del Amor | i
+Meu Coração é Teu |  |  | Mi Corazón es Tuyo | i
+Por Ela... Sou Eva |  |  | Por Ella... Soy Eva | i
+Amores Verdadeiros |  |  | Amores Verdaderos | i
+A Gata |  |  | La Gata | i
+Sortilégio | i
+Cuidado com o Anjo |  |  | Cuidado con el Ángel | i
+Amanhã é Para Sempre |  |  | Mañana es Para Siempre | i
+O Privilégio de Amar |  |  | El Privilegio de Amar | i
+Lágrimas de Amor |  |  | Corona de Lágrimas | r
+A Outra |  |  | La Otra | r
+Mundo de Feras |  |  | Mundo de Fieras | r
+Abraça-me Muito Forte |  |  | Abrázame Muy Fuerte | r
+Salomé | r
+Preciosa | r
+Vovô e Eu |  |  | El Abuelo y Yo | r
+Serafim |  |  | Serafín | r
+Quinze Anos |  |  | Quinceañera | r
+Três Vezes Ana |  |  | Tres veces Ana | r
+A Desalmada |  |  | La Desalmada | r
+Amigos Para Sempre |  |  | Amigos x Siempre | r
+Rosa Selvagem |  |  | Rosa Salvaje | r
+Ambição |  |  | Cuna de Lobos | r
+O Direito de Nascer |  |  | El Derecho de Nacer | r
+Viva às Crianças | r
+O Diário de Daniela | r
+Que Pobres Tão Ricos | r
+Meu Pecado | r
+Quando me Apaixono | r
+Por Teu Amor | r
+Primeiro Amor... A Mil Por Hora | Primeiro Amor | r
+Camila | r
+Mariana da Noite | r
+Viviana, em Busca do Amor | Viviana | e
+Poucas, Poucas Pulgas |  |  | De Pocas, Pocas Pulgas | e
+Na Própria Carne |  |  | En Carne Propia | e
+Eu Compro Essa Mulher |  |  | Yo Compro Esa Mujer | e
+Estranho Poder |  |  | El Maleficio | e
+Desprezo | e
+Lupita | e
+Soledade | e
+Só Você | e
+A Vingança | e
+A Fera | e
+Paixão e Poder | e
+Amor em Silêncio | e
+Alcançar Uma Estrela | Alcançar Uma Estrela II | e
+Garotas Bonitas | e
+Eu Não Acredito nos Homens | e
+Sigo Te Amando | e
+Laços de Amor | e
+A Alma Não Tem Cor | e
+A Mentira | e
+A Que não Podia Amar | e
+A Vida é um Jogo | e
+As Tontas não vão ao Céu | e
+Contigo Sim | e
+Domênica Montero | e
+Eternamente Apaixonados | e
+Feridas de Amor | e
+Manancial | e
+Meu Caminho é te Amar | e
+Menina Amada Minha | e
+Minha Fortuna é te Amar | e
+No Limite da Paixão | e
+Presente de Amor | e
+Se Nos Deixam | e
+Te Dou a Vida | e
+Um Caminho Para o Destino | e
+Um Refúgio Para o Amor | e
+Vencer o Desamor | e
+Amor Valente | e
+A História de Joana, a Virgem | A História de Joana | e
+As Filhas da Senhora Garcia | e
+
+== his-cidades-portugal | Cite uma cidade ou vila de Portugal | media | portugal;cidades | https://pt.wikipedia.org/wiki/Lista_de_munic%C3%ADpios_de_Portugal
+@nota Valem as sedes dos 308 municípios (continente, Açores e Madeira) e as localidades com estatuto de cidade (lista de cidades em Portugal); freguesias e aldeias pequenas não valem.
+Lisboa |  | Lisbon | c
+Porto | Oporto | c
+Coimbra | c
+Braga | c
+Fátima | c
+Faro | c
+Funchal | c
+Sintra | c
+Cascais | c
+Aveiro | c
+Évora | c
+Nazaré | c
+Guimarães | c
+Albufeira | i
+Óbidos | i
+Vila Nova de Gaia | Gaia | i
+Setúbal | i
+Leiria | i
+Viseu | i
+Lagos | i
+Portimão | i
+Ponta Delgada | i
+Bragança | i
+Viana do Castelo | i
+Matosinhos | i
+Almada | i
+Amadora | i
+Peniche | i
+Tavira | i
+Santarém | i
+Tomar | i
+Mafra | i
+Oeiras | i
+Sesimbra | i
+Angra do Heroísmo | Angra | i
+Castelo Branco | i
+Covilhã | i
+Figueira da Foz | i
+Vila Real | i
+Chaves | i
+Barcelos | i
+Loures | i
+Batalha | i
+Queluz | i
+Costa da Caparica | i
+Guarda | r
+Beja | r
+Portalegre | r
+Loulé | r
+Póvoa de Varzim | r
+Vila do Conde | r
+Espinho | r
+Odivelas | r
+Alcobaça | r
+Elvas | r
+Olhão | r
+Quarteira | r
+Caldas da Rainha | r
+Torres Vedras | r
+Lamego | r
+Horta | r
+Silves | r
+Ourém | r
+Ílhavo | r
+Seixal | r
+Sines | r
+Vila Franca de Xira | r
+Vila Nova de Famalicão | Famalicão | r
+Santa Maria da Feira | r
+Ponte de Lima | r
+Peso da Régua | Régua | r
+Amarante | r
+Ovar | r
+Gondomar | r
+Agualva-Cacém | r
+Maia | r
+Rio Tinto | r
+Amora | r
+Valongo | r
+Paredes | r
+Barreiro | r
+Ermesinde | r
+Penafiel | r
+Palmela | r
+Santo Tirso | r
+Moita | r
+Oliveira de Azeméis | r
+Felgueiras | r
+Montijo | r
+Paços de Ferreira | r
+Senhora da Hora | r
+Pombal | r
+Marco de Canaveses | r
+Fafe | r
+Caniço | r
+Lousada | r
+Vila Verde | r
+Águeda | r
+São Mamede de Infesta | r
+Alenquer | r
+Santa Cruz | r
+Marvão | e
+Monchique | e
+Lagoa | e
+Vila Real de Santo António | e
+Arraiolos | e
+Grândola | e
+Mértola | e
+Estremoz | e
+Miranda do Douro | e
+Mirandela | e
+Castelo de Vide | e
+Marinha Grande | e
+Trofa | e
+Samora Correia | e
+Esposende | e
+Abrantes | e
+Cantanhede | e
+Torres Novas | e
+Câmara de Lobos | e
+Ribeira Grande | e
+Benavente | e
+Odemira | e
+Alfena | e
+Santiago do Cacém | e
+Valbom | e
+Anadia | e
+Fundão | e
+Lourinhã | e
+Estarreja | e
+Tondela | e
+Gafanha da Nazaré | e
+Albergaria-a-Velha | e
+Montemor-o-Velho | e
+Vizela | e
+Esmoriz | e
+Cartaxo | e
+Porto de Mós | e
+Oliveira do Bairro | e
+Vagos | e
+Almancil | e
+São João da Madeira | e
+Almeirim | e
+Póvoa de Lanhoso | e
+Seia | e
+Salvaterra de Magos | e
+Azambuja | e
+Vale de Cambra | e
+Arouca | e
+Rio Maior | e
+Arcos de Valdevez | e
+Entroncamento | e
+Praia da Vitória | e
+Oliveira do Hospital | e
+Mealhada | e
+Machico | e
+Alcochete | e
+Amares | e
+Mangualde | e
+Lordelo | e
+Monção | e
+Cinfães | e
+Celorico de Basto | e
+Baião | e
+Coruche | e
+Soure | e
+Lousã | e
+Rebordosa | e
+Vila Nova de Santo André | e
+Condeixa-a-Nova | e
+Lourosa | e
+Caminha | e
+Montemor-o-Novo | e
+Castelo de Paiva | e
+Cabeceiras de Basto | e
+Ponte de Sor | e
+São Pedro do Sul | e
+Freamunde | e
+Sertã | e
+Valpaços | e
+Macedo de Cavaleiros | e
+Fiães | e
+Arruda dos Vinhos | e
+Gandra | e
+Serpa | e
+Castro Daire | e
+Valença | e
+Cadaval | e
+Moura | e
+Nelas | e
+Penacova | e
+Bombarral | e
+Ribeira Brava | e
+Alcanena | e
+Gouveia | e
+Mira | e
+Miranda do Corvo | e
+Vieira do Minho | e
+Vila Pouca de Aguiar | e
+Ansião | e
+Sabugal | e
+São Brás de Alportel | e
+Vendas Novas | e
+Tábua | e
+Alcácer do Sal | e
+Sever do Vouga | e
+Arganil | e
+Ponte da Barca | e
+Sátão | e
+Calheta | e
+Santa Comba Dão | e
+Sobral de Monte Agraço | e
+Alijó | e
+Murtosa | e
+Vila Franca do Campo | e
+Lixa | e
+Resende | e
+Reguengos de Monsaraz | e
+Vouzela | e
+Oliveira de Frades | e
+Moimenta da Beira | e
+Montalegre | e
+Carregal do Sal | e
+Mortágua | e
+Vila Nova de Cerveira | e
+Aljustrel | e
+Paredes de Coura | e
+Chamusca | e
+Trancoso | e
+Ponta do Sol | e
+Idanha-a-Nova | e
+Mogadouro | e
+Pinhel | e
+Campo Maior | e
+Ferreira do Zêzere | e
+Melgaço | e
+Vinhais | e
+Ferreira do Alentejo | e
+Vila Viçosa | e
+Tarouca | e
+Penalva do Castelo | e
+Proença-a-Nova | e
+Vila Nova da Barquinha | e
+Alpiarça | e
+Castro Verde | e
+Torre de Moncorvo | e
+Vila Nova de Poiares | e
+São João da Pesqueira | e
+Almodôvar | e
+Celorico da Beira | e
+Santana | e
+Castro Marim | e
+Borba | e
+Mação | e
+Mondim de Basto | e
+Terras de Bouro | e
+Madalena | e
+Vila Nova de Foz Côa | e
+Redondo | e
+Alvaiázere | e
+Belmonte | e
+Santa Marta de Penaguião | e
+Vila Flor | e
+Aljezur | e
+Nisa | e
+Ribeira de Pena | e
+Almeida | e
+Povoação | e
+Portel | e
+Vila do Bispo | e
+Sernancelhe | e
+Armamar | e
+Sabrosa | e
+Carrazeda de Ansiães | e
+Penela | e
+Vila do Porto | e
+Golegã | e
+Viana do Alentejo | e
+Figueiró dos Vinhos | e
+Murça | e
+Aguiar da Beira | e
+Vidigueira | e
+Porto Santo | Vila Baleira | e
+Figueira de Castelo Rodrigo | e
+Tabuaço | e
+Alandroal | e
+Boticas | e
+Velas | e
+Oleiros | e
+São Vicente | e
+Ourique | e
+Penamacor | e
+Vila Nova de Paiva | e
+Mêda | e
+Fornos de Algodres | e
+Cuba | e
+Nordeste | e
+Sousel | e
+Lajes do Pico | e
+Alfândega da Fé | e
+Vimioso | e
+Mora | e
+Santa Cruz da Graciosa | e
+Pampilhosa da Serra | e
+Avis | e
+Góis | e
+Constância | e
+Mesão Frio | e
+Sardoal | e
+Gavião | e
+Pedrógão Grande | e
+Vila Velha de Ródão | e
+Vila de Rei | e
+Crato | e
+São Roque do Pico | e
+Freixo de Espada à Cinta | e
+Alter do Chão | e
+Monforte | e
+Manteigas | e
+Fronteira | e
+Arronches | e
+Penedono | e
+Castanheira de Pera | e
+Alcoutim | e
+Porto Moniz | e
+Mourão | e
+Alvito | e
+Alverca do Ribatejo | e
+Santa Cruz das Flores | e
+Póvoa de Santa Iria | e
+Barrancos | e
+Lajes das Flores | e
+Sacavém | e
+Corvo | Vila do Corvo | e
+
+== his-familia-real-britanica | Cite um membro da família real britânica (dos Windsor, desde o século XX) | media | reino unido;realeza;monarquia | https://pt.wikipedia.org/wiki/Fam%C3%ADlia_real_brit%C3%A2nica
+@nota Membros da casa de Windsor desde 1917, vivos ou falecidos, inclusive cônjuges (atuais ou divorciados) e netos sem título; reis e rainhas da casa também valem.
+Elizabeth II | Rainha Elizabeth;Isabel II;Rainha Isabel;Rainha Elizabeth II | Queen Elizabeth | c
+Princesa Diana | Diana;Lady Di;Diana Spencer;Lady Diana | Princess Diana | c
+Charles III | Rei Charles;Príncipe Charles;Charles;Carlos III;Rei Charles III | King Charles | c
+Príncipe William | William;Guilherme;Príncipe Guilherme;Guilherme, Príncipe de Gales | Prince William | c
+Príncipe Harry | Harry;Henrique, Duque de Sussex;Príncipe Henrique;Henrique | Prince Harry | c
+Kate Middleton | Kate;Catherine Middleton;Catarina;Princesa Kate;Catarina, Princesa de Gales;Catherine;Catarina Middleton | c
+Meghan Markle | Meghan;Duquesa de Sussex | c
+Camilla | Rainha Camilla;Camilla Parker Bowles;Camila;Rainha Camila | Queen Camilla | c
+Príncipe Philip | Philip;Príncipe Filipe;Filipe;Filipe, Duque de Edimburgo | Prince Philip | c
+Príncipe George | George de Gales;Jorge de Gales;Príncipe Jorge | Prince George | i
+Princesa Charlotte | Charlotte;Carlota de Gales;Princesa Carlota;Carlota | Princess Charlotte | i
+Príncipe Louis | Luís de Gales;Príncipe Luís;Louis;Luís | Prince Louis | i
+Princesa Anne | Anne;Princesa Ana;Ana, Princesa Real;Ana | Princess Anne | i
+Andrew Mountbatten-Windsor | Príncipe Andrew;Andrew;Príncipe André;André | Prince Andrew | i
+Princesa Margaret | Margaret;Margarida;Princesa Margarida;Margarida, Condessa de Snowdon | Princess Margaret | i
+George VI | Rei George;Jorge VI;George V;Jorge V | i
+Rainha-Mãe | Elizabeth Bowes-Lyon;Isabel Bowes-Lyon | Queen Mother | i
+Príncipe Edward | Príncipe Eduardo;Eduardo, Duque de Edimburgo;Edward, Duque de Edimburgo | Prince Edward | i
+Archie | Archie de Sussex;Archie Mountbatten-Windsor;Príncipe Archie | Prince Archie | i
+Lilibet | Lilibet de Sussex;Lilibet Diana;Princesa Lilibet;Lilibet Mountbatten-Windsor | Princess Lilibet | i
+Sarah Ferguson | Fergie;Duquesa de York | i
+Eduardo VIII | Duque de Windsor | Edward VIII | i
+Princesa Beatrice | Beatrice;Beatriz;Princesa Beatriz;Beatriz do Reino Unido | Princess Beatrice | r
+Princesa Eugenie | Eugenie;Eugênia;Princesa Eugênia;Eugénia do Reino Unido | Princess Eugenie | r
+Zara Tindall | Zara Phillips;Zara | r
+Peter Phillips | r
+Sophie, Duquesa de Edimburgo | Sophie;Sophie Rhys-Jones;Sofia;Sofia Rhys-Jones;Sofia, Duquesa de Edimburgo | r
+Lady Louise Windsor | Lady Louise;Luísa Windsor | r
+Wallis Simpson | Duquesa de Windsor | r
+Maria de Teck | Mary de Teck;Rainha Mary;Rainha Maria | Mary of Teck | e
+James, Conde de Wessex | Jaime, Conde de Wessex;James | e
+Mark Phillips | e
+Timothy Laurence | e
+Antony Armstrong-Jones | Lord Snowdon | e
+Mike Tindall | e
+Jack Brooksbank | e
+Edoardo Mapelli Mozzi | e
+Princesa Alexandra | Alexandra de Kent | e
+Príncipe Michael de Kent | Miguel de Kent;Príncipe Miguel de Kent | e
+Autumn Phillips | e
+David Armstrong-Jones | e
+Sarah Chatto | e
+Ricardo, Duque de Gloucester | Richard, Duque de Gloucester | l
+Eduardo, Duque de Kent | Edward, Duque de Kent | l
+Princesa Marina | Marina, Duquesa de Kent | l
+Príncipe John | Príncipe João;João do Reino Unido | l
+
+== his-culinaria-japonesa | Cite um prato ou comida da culinária japonesa | facil | culinária;japão;comida | https://pt.wikipedia.org/wiki/Culin%C3%A1ria_do_Jap%C3%A3o
+@nota Pratos, preparos e acompanhamentos de origem japonesa, inclusive os servidos em restaurantes japoneses no Brasil; criações brasileiras de temakeria ficam a critério dos pesquisadores com fonte.
+Sushi | c
+Sashimi | c
+Temaki | c
+Tempurá | c
+Yakisoba | Yakissoba | c
+Guioza | Gyoza | c
+Missoshiru | Sopa de missô;Miso shiru | Miso soup | c
+Lámen | Ramen | c
+Shoyu | Molho shoyu;Molho de soja | Soy sauce | c
+Uramaki | c
+Hot roll | Sushi empanado | c
+Teriyaki | c
+Wasabi | c
+Tofu | c
+Udon | i
+Missô | Miso | i
+Sobá | i
+Niguiri | Nigiri;Nigirizushi | i
+Hossomaki | Hosomaki | i
+Oniguiri | Onigiri;Omusubi;Bolinho de arroz japonês | i
+Mochi | Moti | i
+Sunomono | i
+Kani kama | Kanikama;Kani | i
+Gari | Gengibre em conserva | i
+Yakitori | i
+Takoyaki | i
+Tonkatsu | i
+Karaage | Karague | i
+Sukiyaki | i
+Shabu-shabu | i
+Okonomiyaki | i
+Dorayaki | i
+Nori | i
+Futomaki | i
+Gunkan | Gunkanmaki;Gunkanzushi | i
+Teppanyaki | i
+Edamame | i
+Bentô | Obento | i
+Chirashi | Chirashizushi;Barazushi | r
+Inari | Inarizushi | r
+Makizushi | Maki;Norimaki;Makimono | r
+Donburi | r
+Katsudon | r
+Gyudon | r
+Oyakodon | r
+Tamagoyaki | r
+Taiyaki | r
+Umeboshi | r
+Unagi | Kabayaki | r
+Tsukemono | r
+Dashi | r
+Furikake | r
+Katsuobushi | r
+Yakiniku | r
+Omurice | Omuraisu;Omu-raisu | r
+Oden | r
+Nikujaga | r
+Korokke | r
+Kushiage | Kushikatsu | r
+Somen | r
+Fugu | r
+Tataki | r
+Curry japonês | Kare raisu;Karê japonês | Japanese curry | r
+Dango | r
+Natto | r
+Oshizushi | r
+Kushiyaki | r
+Mirin | r
+Kombu | r
+Sekihan | e
+Kamaboko | e
+Ikizukuri | e
+Gomashio | e
+Motsunabe | e
+Basashi | e
+Hamachi kama | e
+Omu-soba | e
+Chawanmushi | l
+Monjayaki | l
+Kakigori | l
+Osechi | l
+Hijiki | l
+Senbei | l
+Imagawayaki | l
+Tsukemen | l
+Yudofu | l
+Unadon | l
+
+== his-idiomas | Cite um idioma (língua) falado no mundo, sem ser o português | facil | idiomas;línguas | https://pt.wikipedia.org/wiki/Lista_de_l%C3%ADnguas_por_n%C3%BAmero_total_de_falantes
+@nota Línguas naturais vivas ou mortas, inclusive indígenas; línguas inventadas e dialetos regionais ficam a critério dos pesquisadores com fonte.
+Inglês |  | English | c
+Espanhol | Castelhano | Spanish | Español | c
+Francês |  | French | c
+Italiano |  | Italian | c
+Alemão | Alemão padrão | German | Alemán | c
+Japonês |  | Japanese | c
+Chinês | Mandarim;Chinês mandarim | Chinese;Mandarin | Chino | c
+Russo |  | Russian | Ruso | c
+Árabe | Árabe padrão;Árabe egípcio | Arabic | c
+Coreano |  | Korean | c
+Latim | c
+Grego | c
+Tupi | Tupi antigo | c
+Hebraico |  |  | hebreo | i
+Turco |  | Turkish | i
+Hindi | i
+Holandês | Neerlandês | i
+Guarani | i
+Sueco | i
+Norueguês |  |  | noruego | i
+Dinamarquês |  |  | danés | i
+Finlandês | i
+Polonês | Polaco | i
+Ucraniano | i
+Persa | Farsi | i
+Romeno |  |  | rumano | i
+Húngaro | i
+Tcheco | Checo | i
+Catalão | i
+Galego | i
+Basco | Euskera | i
+Irlandês | Gaélico irlandês | i
+Tailandês | Thai | i
+Vietnamita | i
+Cantonês | Chinês yue;Yue | Cantonese | i
+Sânscrito | i
+Aramaico |  |  | arameo | i
+Quíchua | Quéchua | i
+Bengali | Bengalês;Bangla | r
+Urdu | r
+Indonésio | r
+Malaio | r
+Suaíli | Swahili;Suaíle;Suahili | r
+Galês | r
+Islandês | r
+Croata | r
+Sérvio | r
+Búlgaro | r
+Albanês | r
+Armênio | r
+Georgiano | r
+Curdo | r
+Mongol | r
+Iídiche | Ídiche | Yiddish | r
+Náuatle | Nahuatl | r
+Aimará | Aymara | r
+Nheengatu | Língua geral amazônica | r
+Africâner | Afrikaans | r
+Iorubá | Yoruba | r
+Zulu | r
+Tagalo | Filipino;Tagalog | r
+Tâmil | r
+Amárico | r
+Panjabi | Punjabi | r
+Hauçá | Hausa | r
+Javanês | r
+Egípcio antigo | Língua egípcia;Egípcio | e
+Lituano | e
+Letão |  |  | letón | e
+Estoniano |  |  | estonio | e
+Eslovaco | e
+Esloveno | e
+Bielorrusso | e
+Macedônio | e
+Maltês | e
+Luxemburguês | e
+Tibetano | e
+Nepali | Nepalês | e
+Khmer | Cambojano;Quemer | e
+Cazaque |  |  | kazajo | e
+Uzbeque |  |  | uzbeko | e
+Pachto | Pashto;Pastó | e
+Somali | e
+Maori | e
+Havaiano | e
+Crioulo haitiano | e
+Papiamento | e
+Tétum | Tétum-praça | e
+Copta | e
+Telugo | Telugu | e
+Marata | Marati | e
+Guzerate | Gujarati | e
+Canarês | Canará;Kannada;Canarim | e
+Boiapuri | Bhojpuri | e
+Wu | Chinês wu | e
+Sumério | l
+Acádio | l
+Gótico | l
+Igbo | l
+Xhosa | l
+Cingalês | l
+Birmanês |  |  | birmano | l
+Laosiano | Lao | l
+Malaiala | Malayalam | l
+Oromo | l
+Tigrínia | l
+Lingala | l
+Umbundo | l
+Quicongo | Kikongo | l
+Uólofe | Wolof | l
+Ticuna | l
+Caingangue | Kaingang | l
+
+== his-moedas | Cite o nome da moeda (dinheiro) de outro país, atual ou antiga | media | moedas;dinheiro;economia | https://pt.wikipedia.org/wiki/Lista_de_moedas_em_circula%C3%A7%C3%A3o
+@nota Moedas de mesmo nome em países diferentes contam como uma resposta só. Valem moedas extintas substituídas por outras. A moeda brasileira atual não vale.
+Dólar |  | Dollar | c
+Euro | c
+Libra | Libra esterlina | Pound | c
+Peso | Peso argentino;Peso mexicano;Peso chileno | c
+Iene | Yen;Ien | c
+Yuan | Renminbi;Iuane | c
+Rublo |  | Ruble | c
+Marco | Marco alemão;Deutsche Mark | Mark | c
+Lira | Lira italiana;Lira turca | c
+Franco | Franco suíço;Franco francês | Franc | c
+Rupia | Rupiah | Rupee | i
+Peseta | i
+Escudo | Escudo português;Escudo cabo-verdiano | i
+Coroa | Coroa sueca;Coroa dinamarquesa;Coroa norueguesa | Krone;Krona | i
+Won | i
+Bolívar | i
+Guarani | i
+Dracma | i
+Florim | Florim neerlandês;Gulden | i
+Dinar | i
+Shekel | Novo shekel;Siclo | i
+Rand | i
+Sol | Novo sol;Sol peruano | i
+Boliviano | i
+Kwanza | i
+Metical | Meticais | i
+Dirham | Dirrã | r
+Zloty | Złoty | r
+Baht | r
+Dong | Dongue | r
+Quetzal | r
+Colón | r
+Córdoba | r
+Balboa | r
+Lempira | r
+Xelim | Shilling | r
+Leu | r
+Lev | r
+Grívnia | Hryvnia | r
+Ringgit | Ringuite | r
+Naira | r
+Taka | r
+Afegane | Afghani | r
+Rial | Riyal | r
+Austral | r
+Sucre | r
+Kip | e
+Riel | e
+Som | Sum | e
+Forint | e
+Gourde | e
+Cedi | e
+Birr | e
+Tenge | e
+Denário | Denarius | e
+Sestércio | e
+Ducado | e
+Táler | Thaler | e
+Kyat | Quiate | e
+Tugrik | Tögrög | e
+Somoni | e
+Manat | Manate | e
+Dram | e
+Lari | e
+Lek | e
+Ngultrum | e
+Nakfa | e
+Uguia | Ouguiya | e
+Pula | e
+Loti | e
+Lilangeni | Lilanguéni | e
+Kwacha | e
+Ariary | e
+Leone | e
+Dalasi | e
+Dobra | e
+Vatu | e
+Kina | e
+Tala | e
+Paanga | e
+Inti | l
+Zaire | l
+Pengő | l
+
+== his-pontos-turisticos-mundo | Cite um monumento ou ponto turístico famoso fora do Brasil | facil | turismo;monumentos;viagem | https://pt.wikipedia.org/wiki/Novas_Sete_Maravilhas_do_Mundo
+@nota Construções, monumentos, praças, parques e atrações naturais fora do Brasil, com artigo próprio na Wikipédia. Cidades e países inteiros não valem; sítios arqueológicos famosos valem.
+Torre Eiffel | Tour Eiffel | Eiffel Tower | c
+Coliseu | Coliseu de Roma;Coliseum | Colosseum | Coliseo | c
+Estátua da Liberdade |  | Statue of Liberty | Estatua de la Libertad | c
+Grande Muralha da China | Muralha da China;Grande Muralha | Great Wall of China | Gran Muralla China | c
+Pirâmides de Gizé | Pirâmides do Egito;Necrópole de Gizé;Pirâmides de Giza | c
+Machu Picchu | Machu Pichu | c
+Big Ben | c
+Taj Mahal | c
+Torre de Pisa | Torre inclinada de Pisa | Leaning Tower of Pisa | c
+Times Square | c
+Central Park | c
+Walt Disney World | Disney World | c
+Museu do Louvre | Louvre | c
+Chichén Itzá | c
+Petra | c
+Ponte Golden Gate | Golden Gate | Golden Gate Bridge | c
+Sagrada Família | c
+Burj Khalifa | c
+Empire State Building | Empire State | c
+Grand Canyon | Grande Canyon;Grande Cânion;Grand Cânion | c
+Cataratas do Niágara | Niágara | Niagara Falls | c
+Ópera de Sydney | Opera House;Sydney Opera House | i
+Catedral de Notre-Dame | Notre-Dame | i
+Basílica de São Pedro | i
+Capela Sistina | i
+Stonehenge | i
+Partenon | Parthenon | i
+Acrópole de Atenas | Acrópole | i
+Fontana di Trevi | Fonte de Trevi | i
+Monte Fuji | Fuji;Fujiyama | i
+Palácio de Buckingham | Buckingham | i
+London Eye | i
+Kremlin | Kremlin de Moscou | i
+Praça Vermelha |  | Red Square | i
+Monte Everest | Everest;Evereste | i
+Esfinge de Gizé | Esfinge;Grande Esfinge | i
+Muro de Berlim | i
+Casa Branca |  | White House | i
+Monte Rushmore | i
+Letreiro de Hollywood | Placa de Hollywood;Hollywood Sign | i
+Moais | Moai;Estátuas da Ilha de Páscoa;Moais da Ilha de Páscoa | i
+Torre de Belém | i
+Disneyland | Disneylândia | i
+Champs-Élysées | Campos Elísios | i
+Tower Bridge | Ponte da Torre | i
+Palácio de Versalhes | Versalhes | i
+Muro das Lamentações | Muro Ocidental | i
+Ponte do Brooklyn | Brooklyn Bridge | i
+Calçada da Fama | Calçada da Fama de Hollywood;Hollywood Walk of Fame | i
+Caminito | i
+Casa Rosada | i
+Obelisco de Buenos Aires | i
+Glaciar Perito Moreno | Perito Moreno;Geleira Perito Moreno | i
+Salar de Uyuni | Uyuni | i
+Grande Barreira de Coral |  | Great Barrier Reef | i
+Arco do Triunfo | Arc de Triomphe | i
+Canal do Panamá |  | Panama Canal | i
+Angkor Wat | r
+Alhambra | r
+Portão de Brandemburgo | Portão de Brandenburgo | r
+Torre de Londres |  | Tower of London | r
+Cataratas Vitória | Cataratas de Vitória;Victoria Falls | r
+Castelo de Neuschwanstein | Neuschwanstein | r
+Teotihuacan | r
+Monte Saint-Michel | Mont Saint-Michel | r
+Torre CN | CN Tower | r
+Torres Petronas | Petronas | r
+Cidade Proibida | r
+Torre de Tóquio | r
+Uluru | Ayers Rock | r
+Panteão de Roma | Panteão;Pantheon de Roma | r
+Santa Sofia | Hagia Sophia;Basílica de Santa Sofia;Aya Sofia;Ayasofya | r
+Mesquita Azul | r
+Abu Simbel | r
+Mosteiro dos Jerónimos | Jerónimos | r
+Catedral de Milão | Duomo de Milão | r
+Ponte Vecchio | r
+Praça de São Marcos | r
+Burj Al Arab | r
+Space Needle | r
+Pompeia | Pompeii | r
+Vale dos Reis |  | Valley of the Kings | r
+Ponte de Rialto | Ponte Rialto;Rialto | r
+Pequena Sereia | Estátua da Pequena Sereia | The Little Mermaid | r
+Manneken Pis | r
+Trafalgar Square | Praça Trafalgar | r
+Abadia de Westminster | r
+Catedral de São Basílio | São Basílio | r
+Fórum Romano | r
+Domo da Rocha | Cúpula da Rocha | r
+Alcatraz | Ilha de Alcatraz | r
+Parque Nacional de Yellowstone | Yellowstone | r
+Exército de Terracota | Guerreiros de Terracota | r
+Monte Kilimanjaro | Kilimanjaro | r
+Ilhas Galápagos | Galápagos | r
+Eurotúnel | Túnel da Mancha;Eurotunnel | r
+Serengeti | r
+Lago Baikal | Baikal | r
+Atomium | e
+Linhas de Nazca | e
+Lago Titicaca | Titicaca | e
+Torres del Paine | e
+Mar Morto | e
+Ponte Carlos | e
+Templo de Karnak | Karnak | e
+Marina Bay Sands | e
+Borobudur | e
+Tikal | e
+Pamukkale | e
+Baía de Ha Long | Ha Long | e
+Deserto do Atacama | Atacama | e
+Catedral de Colônia | e
+Matterhorn | Monte Cervino | e
+Palácio de Schönbrunn | Schönbrunn | e
+Palácio de Potala | Potala | e
+Kiyomizu-dera | e
+Vulcão Paricutín | Paricutín | e
+Catacumbas de Kom el Shoqafa | e
+Barreira de Coral de Belize | e
+Palácio do Doge | Palácio Ducal | l
+Catedral de Florença | Duomo de Florença | l
+Castelo de Edimburgo | l
+Pont du Gard | l
+Palenque | l
+Kinkaku-ji | Pavilhão Dourado | l
+Fushimi Inari | Fushimi Inari-taisha | l
+Buda Gigante de Leshan | l
+Penhascos de Moher | Cliffs of Moher | l
+Calçada dos Gigantes | Giant's Causeway | l
+Antelope Canyon | l
+Monument Valley | l
+Castelo de Bran | Castelo do Drácula | l
+Meteora | l
+Lagos de Plitvice | Plitvice | l
+Mesquita-Catedral de Córdoba | Mesquita de Córdoba | l
+Praça de Maio | Plaza de Mayo | l

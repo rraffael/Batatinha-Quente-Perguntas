@@ -63,7 +63,7 @@ for (const tema of temasNaPasta(join(d, pasta))) {
   for (const b of lerPropostas(join(d, pasta, `${tema}.txt`), (m) => problemas.push(m))) {
     if (b.nova) novas.push({ ...b, tema });
     else if (etapa === "plano") problemas.push(`${b.onde}: no plano só entram perguntas "== NOVA"`);
-    for (const o of b.ops) ops.push({ ...o, tema, pergunta: b.id, nova: b.nova });
+    for (const o of b.ops) ops.push({ ...o, tema, pergunta: b.id, perguntaNova: b.nova });
   }
 }
 

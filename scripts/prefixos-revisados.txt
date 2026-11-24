@@ -18,3 +18,4 @@ mbr-generos-brasileiros | Lambada | Lambadão
 obj-moveis | Cadeira | Cadeirão
 obj-ferramentas | Enxada | Enxadão
 pro-profissoes | Soldado | Soldador
+his-cidades-portugal | Moura | Mourão

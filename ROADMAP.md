@@ -11,11 +11,11 @@ Acompanhamento da arquitetura de incremento do banco (perguntas e respostas) e d
 
 ---
 
-## Estado atual (22/11/2026)
+## Estado atual (24/11/2026)
 
 **Funcional:**
 - Processo de incremento pronto e validado: `docs/banco/PROCESSO.md`, scripts em `scripts/banco/`, backups em `backups/banco/`.
-- Banco com 20 temas, 125 perguntas e 12.375 respostas, compilado a partir de `scripts/fontes/<tema>.txt`.
+- Banco com 20 temas, 157 perguntas e 15.241 respostas, compilado a partir de `scripts/fontes/<tema>.txt`.
 - Validador (`scripts/validar-perguntas.mjs`): colisões, prefixos ambíguos (com lista revisada em
   `scripts/prefixos-revisados.txt`) e textos ou notas que revelam respostas.
 - Algarismos gerados automaticamente a partir de números romanos ("Ramsés II" → "Ramsés 2").
@@ -32,7 +32,7 @@ Acompanhamento da arquitetura de incremento do banco (perguntas e respostas) e d
 - Processo documentado e permanente no repositório (briefings dos agentes e scripts).
 - Etapa de deduplicação dedicada, que compara tudo o que foi criado com o banco atual.
 - Validação externa do processo (comparação com modelos existentes e testes de estresse).
-- Perguntas suficientes: todos os temas estão abaixo de 15 (faltam 175 perguntas no total).
+- Perguntas suficientes: 17 temas ainda abaixo de 15 (faltam 143 perguntas no total; lote 1 aplicado).
 
 ---
 
@@ -81,7 +81,7 @@ Segunda opinião antes de usar o processo em escala.
 - [x] Aplicar os ajustes aceitos e registrar os rejeitados com motivo em `docs/banco/PROCESSO.md`
 - [x] Ajustes extras surgidos na validação: 7 textos de perguntas reescritos (vazamento por erro de digitação/prefixo), validador com regra de nomes numerados
 
-## Fase 6 — Expansão: pelo menos 15 perguntas por tema ⬜
+## Fase 6 — Expansão: pelo menos 15 perguntas por tema 🟡
 Feita em lotes, sempre com backup → planejamento → pesquisa → auditoria → deduplicação → aplicação → validação.
 
 | Tema | Hoje | Meta | Faltam |
@@ -92,12 +92,12 @@ Feita em lotes, sempre com backup → planejamento → pesquisa → auditoria �
 | cinema-tv | 6 | 15 | 9 |
 | comida-bebida | 8 | 15 | 7 |
 | corpo-saude | 6 | 15 | 9 |
-| esportes | 4 | 15 | 11 |
-| exterior | 4 | 15 | 11 |
+| esportes | 15 | 15 | 0 |
+| exterior | 15 | 15 | 0 |
 | futebol-br | 6 | 15 | 9 |
 | games | 6 | 15 | 9 |
 | geografia | 8 | 15 | 7 |
-| historia | 5 | 15 | 10 |
+| historia | 15 | 15 | 0 |
 | lingua-portuguesa | 7 | 15 | 8 |
 | marcas-empresas | 6 | 15 | 9 |
 | mitologia-religiao | 7 | 15 | 8 |
@@ -106,9 +106,9 @@ Feita em lotes, sempre com backup → planejamento → pesquisa → auditoria �
 | novelas-tv-br | 6 | 15 | 9 |
 | objetos-casa | 7 | 15 | 8 |
 | profissoes | 6 | 15 | 9 |
-| **Total** | **125** | **300** | **175** |
+| **Total** | **157** | **300** | **143** |
 
-- [ ] Lote 1: esportes, exterior, historia (os mais distantes da meta)
+- [x] Lote 1: esportes, exterior, historia (aplicado em 24/11/2026: +32 perguntas, +2.866 respostas, com revisão das existentes)
 - [ ] Lote 2: ciencia, cinema-tv, corpo-saude, futebol-br
 - [ ] Lote 3: games, marcas-empresas, musica-internacional, novelas-tv-br, profissoes
 - [ ] Lote 4: animais, anime-desenho, lingua-portuguesa, mitologia-religiao

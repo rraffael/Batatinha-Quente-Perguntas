@@ -3,7 +3,7 @@ nome: História
 
 == his-presidentes-brasil | Cite um presidente do Brasil | media | brasil;política;presidentes | https://pt.wikipedia.org/wiki/Lista_de_presidentes_do_Brasil
 @atualizadoEm 2026-11
-@nota Inclui interinos que assumiram o cargo e o presidente eleito que morreu antes da posse (reconhecido por lei). Não vale Júlio Prestes, eleito mas não empossado.
+@nota Inclui interinos que assumiram o cargo e o presidente eleito que morreu antes da posse (reconhecido por lei). Não valem Júlio Prestes e Pedro Aleixo (impedidos de assumir) nem os integrantes das juntas militares de 1930 e 1969.
 Lula | Luiz Inácio Lula da Silva;Lula da Silva;Luiz Inácio |  |  | c
 Jair Bolsonaro | Bolsonaro;Jair Messias Bolsonaro |  |  | c
 Dilma Rousseff | Dilma | | | c
@@ -19,7 +19,7 @@ João Goulart | Jango | | | i
 Jânio Quadros | Jânio | | | i
 Tancredo Neves | Tancredo | | | i
 Floriano Peixoto | Floriano;Marechal Floriano |  |  | i
-Eurico Gaspar Dutra | Dutra;Eurico Dutra;Marechal Dutra |  |  | i
+Eurico Gaspar Dutra | Dutra;Eurico Dutra;Marechal Dutra;Gaspar Dutra | i
 Castelo Branco | Humberto de Alencar Castelo Branco;Humberto Castelo Branco;Marechal Castelo Branco |  |  | i
 Costa e Silva | Artur da Costa e Silva;Marechal Costa e Silva |  |  | i
 Emílio Médici | Médici;Emílio Garrastazu Médici | | | i
@@ -28,7 +28,7 @@ João Figueiredo | Figueiredo;João Baptista Figueiredo |  |  | i
 Prudente de Morais | Prudente |  |  | r
 Campos Sales | | | | r
 Rodrigues Alves | | | | r
-Washington Luís | | | | r
+Washington Luís | Washington Luiz | r
 Café Filho | João Café Filho |  |  | r
 Afonso Pena | | | | r
 Hermes da Fonseca | Marechal Hermes |  |  | r
@@ -43,13 +43,13 @@ Nereu Ramos | | | | l
 Ranieri Mazzilli | Mazzilli |  |  | l
 
 == his-imperadores-romanos | Cite um imperador romano | dificil | roma;antiguidade | https://pt.wikipedia.org/wiki/Lista_de_imperadores_romanos
-@nota Imperadores de mesmo nome contam como uma resposta só; vale digitar com ou sem o número.
+@nota Valem também os imperadores do Oriente até 1453. Imperadores de mesmo nome contam como uma resposta só; vale digitar com ou sem o número.
 Nero | | | Nerón | c
 Calígula | Caio Calígula | Caligula |  | c
 Augusto | Otaviano;César Augusto;Otávio | Augustus | | c
-Constantino | Constantino, o Grande;Constantino I;Constantino II | Constantine;Constantine II | c
+Constantino | Constantino, o Grande;Constantino I;Constantino II;Constantino XI;Constantino XI Paleólogo | Constantine;Constantine II | c
 Marco Aurélio | | Marcus Aurelius | | c
-Tibério | | Tiberius | Tiberio | i
+Tibério | Tibério II Constantino | Tiberius | Tiberio | i
 Cláudio | Cláudio I;Tibério Cláudio;Cláudio Gótico;Cláudio II | Claudius;Claudius Gothicus | i
 Trajano | | Trajan | | i
 Adriano | | Hadrian | | i
@@ -117,12 +117,44 @@ Olíbrio |  | Olybrius | l
 Glicério |  | Glycerius | l
 Júlio Nepos |  | Julius Nepos | Julio Nepote | l
 Marciano |  | Marcian | l
-Leão | Leão I;Leão II | Leo;Leo I;Leo II | León;León I;León II | l
+Leão | Leão I;Leão II;Leão, o Sábio;Leão, o Isauro | Leo;Leo I;Leo II | León;León I;León II | l
 Zenão | Zeno |  | Zenón | l
 Basilisco |  | Basiliscus | l
 Diadumeniano |  | Diadumenian | l
 Herênio Etrusco |  | Herennius Etruscus | l
-Saloniano |  | Saloninus | l
+Salonino | Saloniano | Saloninus | l
+Justiniano | Justiniano I;Justiniano, o Grande;Justiniano II | Justinian;Justinian I;Justinian the Great | i
+Heráclio |  | Heraclius | r
+Basílio | Basílio I;Basílio II;Basílio, o Macedônio;Basílio II Bulgaróctono;Bulgaróctono | Basil;Basil I;Basil II;Basil the Bulgar Slayer | e
+Aleixo | Aleixo I Comneno;Aleixo I;Aleixo Comneno | Alexios I Komnenos;Alexios | Alejo I Comneno | e
+Miguel | Miguel I;Miguel II;Miguel III;Miguel IV;Miguel V;Miguel VI;Miguel VII;Miguel VIII;Miguel IX;Miguel VIII Paleólogo;Miguel I Rangabe;Miguel VII Ducas | Michael;Michael VIII Palaiologos | l
+João | João I;João II;João III;João IV;João V;João VI;João VII;João VIII;João I Tzimisces;João II Comneno;João III Vatatzes;João VI Cantacuzeno;João VIII Paleólogo | John;John II Komnenos | Juan | l
+Manuel | Manuel I;Manuel II;Manuel I Comneno;Manuel II Paleólogo | Manuel I Komnenos | l
+Teodora | Teodora Porfirogênita | Theodora | l
+Zoé | Zoé Porfirogênita | l
+Isaque | Isaque I;Isaque II;Isaque I Comneno;Isaque II Ângelo | Isaac;Isaac II Angelos | l
+Alexandre |  | Alexander | Alejandro | l
+Heraclonas | Heracleonas | Heraklonas | l
+Leôncio |  | Leontios | l
+Filípico | Filípico Bardanes | Philippikos | l
+Artavasdo |  | Artabasdos | l
+Estaurácio |  | Staurakios | l
+Eudócia | Eudócia Macrembolitissa | Eudokia | l
+Teodoro | Teodoro I Láscaris;Teodoro II Láscaris;Teodoro Láscaris | Theodore Laskaris | l
+Marco |  | Marcus | l
+Teofilacto |  | Theophylact | l
+Tecla |  | Thekla | l
+Cristóvão | Cristóvão Lecapeno | Christopher Lekapenos | l
+Estêvão | Estêvão Lecapeno | Stephen Lekapenos | l
+Mateus | Mateus Cantacuzeno | Matthew Kantakouzenos | l
+Irene | Irene de Atenas | Irene of Athens | l
+Justino | Justino I;Justino II | Justin;Justin I;Justin II | l
+Maurício |  | Maurice | l
+Focas |  | Phocas | l
+Anastácio | Anastácio I;Anastácio II | Anastasius;Anastasius I | Anastasio | l
+Nicéforo | Nicéforo I;Nicéforo II Focas;Nicéforo II;Nicéforo III | Nikephoros | l
+Teófilo |  | Theophilos | l
+Andrônico | Andrônico I Comneno;Andrônico II Paleólogo;Andrônico III Paleólogo | Andronikos | l
 
 == his-guerras | Cite uma guerra, revolta ou conflito armado da história | media | guerras;conflitos | https://pt.wikipedia.org/wiki/Lista_de_guerras
 Segunda Guerra Mundial | 2ª Guerra Mundial;II Guerra Mundial;Segunda Guerra;2ª Guerra | World War II;WWII;Second World War | Segunda Guerra Mundial | c
@@ -249,6 +281,7 @@ Guerra Civil do Iêmen |  | Yemeni Civil War | Guerra civil yemení | e
 Guerra Civil Líbia | Guerra da Líbia | Libyan Civil War | e
 Guerra ao Terror | Guerra contra o terrorismo | War on terror | Guerra contra el terrorismo | e
 Guerra Ítalo-Etíope | Guerra da Etiópia | Second Italo-Ethiopian War | Segunda guerra ítalo-etíope | l
+Revolta de Espártaco | Terceira Guerra Servil;Guerra de Espártaco;Guerra dos Gladiadores | Third Servile War;Spartacus revolt | Tercera guerra servil | r
 
 == his-civilizacoes-antigas | Cite uma civilização ou povo da Antiguidade (ou das Américas pré-colombianas) | media | antiguidade;civilizações | https://pt.wikipedia.org/wiki/Civiliza%C3%A7%C3%A3o
 Egípcios | Egito Antigo;Antigo Egito;Egito | Ancient Egyptians | Egipcios | c
@@ -342,7 +375,7 @@ Paracas | e
 Muíscas | Chibchas | Muisca | e
 Taínos |  | Taíno | e
 Anasazi | Pueblos ancestrais | Ancestral Puebloans | e
-Tupis | Tupi;Tupis-guaranis |  | Tupíes | r
+Tupis | Tupi |  | Tupíes | r
 Guaranis |  |  | Guaraníes | r
 Tupinambás | e
 Cultura Tapajônica | Tapajós;Tapajônicos | Santarém culture | Cultura santarém | l
@@ -352,6 +385,7 @@ Purépechas | Tarascos | Purépecha | l
 Totonacas |  | Totonac | l
 Império Máuria | Máurias;Império Maurya | Maurya Empire | l
 Cultura Nok | Nok | Nok culture | l
+Sabeus | Reino de Sabá;Sabá | Sabaeans;Sheba | Sabeos | e
 
 == his-faraos | Cite um faraó do Egito Antigo | dificil | egito;antiguidade | https://pt.wikipedia.org/wiki/Lista_de_fara%C3%B3s
 @nota Faraós de mesmo nome contam como uma resposta só; vale digitar com ou sem o número. Valem também as dinastias estrangeiras.
@@ -367,7 +401,7 @@ Djoser | Zoser | | | r
 Tutmés | Tutmés III;Tutmósis III;Tutmés I;Tutmósis I;Tutemés I;Tutmés II;Tutmósis II;Tutemés II;Tutmés IV;Tutmósis IV;Tutemés IV | Thutmose;Thutmose III;Thutmose I;Thutmose II;Thutmose IV | Tutmosis | r
 Amenófis | Amenófis III;Amenhotep III;Amenófis I;Amenhotep I;Amenófis II;Amenhotep II | Amenhotep | e
 Seti | Seti I;Seti II | r
-Narmer | | | | r
+Narmer | Menés | r
 Snefru | Seneferu | Sneferu | | e
 Pepi | Pepi II;Pepi I | l
 Mentuhotep | Mentuhotep I;Mentuhotep II;Mentuhotep III;Mentuhotep IV | l
@@ -431,3 +465,729 @@ Hotepsekhemwy | l
 Peribsen | l
 Neferhotep | Neferhotep I | l
 Sobekhotep | Sobekhotep IV | l
+Xerxes | Xerxes I;Xerxes, o Grande |  | Jerjes | e
+Artaxerxes | Artaxerxes I;Artaxerxes II;Artaxerxes III |  | Artajerjes | l
+Filipe Arrideu | Filipe III da Macedônia;Filipe Arrideus | Philip III Arrhidaeus;Philip Arrhidaeus | Filipo III Arrideo | l
+Antefe | Intef;Intefe;Antefe I;Antefe II;Antefe III;Intef II | l
+Neferefré | Raneferef | l
+Taquelote | Takelot;Taquelote I;Taquelote II;Taquelote III | l
+Salitis | l
+Teos | Tachos;Djedhor | l
+Amirteu | Amenirdisu;Amirtaeus | Amyrtaeus | l
+Anedjib | Miebido;Adjib | l
+Semerkhet | Semempsés | l
+Qaa | Bienequés | l
+Ninetjer | Nynetjer;Binótris | l
+
+== his-filosofos | Cite um(a) filósofo(a) | facil | filosofia;pensadores | https://www.infoescola.com/filosofos/
+@nota Vale qualquer época e país, desde que a pessoa seja reconhecida principalmente como filósofo(a).
+Sócrates | c
+Platão |  | Plato | Platón | c
+Aristóteles |  | Aristotle | c
+Friedrich Nietzsche | Nietzsche | c
+Karl Marx | Marx | c
+René Descartes | Descartes | c
+Immanuel Kant | Kant | i
+Nicolau Maquiavel | Maquiavel | Niccolò Machiavelli;Machiavelli | Maquiavelo | i
+Confúcio |  | Confucius | i
+Jean-Paul Sartre | Sartre | i
+Jean-Jacques Rousseau | Rousseau | i
+Pitágoras | Pitágoras de Samos | Pythagoras | i
+Santo Agostinho | Agostinho;Agostinho de Hipona | Augustine;Saint Augustine | San Agustín | i
+Tomás de Aquino | São Tomás de Aquino;Santo Tomás de Aquino | Thomas Aquinas | i
+Voltaire | i
+Montesquieu | i
+Hegel | Georg Wilhelm Friedrich Hegel;Georg Hegel | i
+Tales de Mileto | Tales | Thales;Thales of Miletus | i
+John Locke | Locke | r
+Thomas Hobbes | Hobbes | r
+Arthur Schopenhauer | Schopenhauer | r
+Heráclito |  | Heraclitus | r
+Epicuro | Epicuro de Samos | Epicurus | r
+Diógenes | Diógenes de Sinope;Diógenes, o Cínico | r
+Simone de Beauvoir | Beauvoir | r
+Espinosa | Baruch Espinoza;Baruch Spinoza;Spinoza;Bento de Espinosa | r
+David Hume | Hume | r
+Sêneca | r
+Søren Kierkegaard | Kierkegaard;Soren Kierkegaard | r
+Michel Foucault | Foucault | r
+Hannah Arendt | Arendt | r
+Lao-Tsé | Lao Zi;Laozi;Lao Tzu | r
+Francis Bacon | r
+Mário Sérgio Cortella | Cortella | r
+Martin Heidegger | Heidegger | r
+Gottfried Leibniz | Leibniz;Gottfried Wilhelm Leibniz | r
+Albert Camus | Camus | r
+John Stuart Mill | Stuart Mill | r
+Auguste Comte | Comte | r
+Erasmo de Roterdã | Erasmo;Erasmo de Roterdão | Erasmus | r
+Giordano Bruno | r
+Michel de Montaigne | Montaigne | r
+Protágoras | r
+Avicena | Ibn Sina | Avicenna | r
+Bertrand Russell | e
+Ludwig Wittgenstein | Wittgenstein | e
+Parmênides | e
+Demócrito |  | Democritus | e
+Marilena Chaui | Chaui | e
+Karl Popper | Popper | e
+Jacques Derrida | Derrida | e
+Gilles Deleuze | Deleuze | e
+Jürgen Habermas | Habermas | e
+Theodor Adorno | Adorno;Theodor W. Adorno | e
+Walter Benjamin | e
+Herbert Marcuse | Marcuse | e
+Antonio Gramsci | Gramsci | e
+Edmund Husserl | Husserl | e
+Slavoj Žižek | Zizek | e
+Byung-Chul Han | e
+Judith Butler | e
+Djamila Ribeiro | e
+Luiz Felipe Pondé | Pondé | e
+Plotino |  | Plotinus | e
+Epicteto | Epiteto | Epictetus | e
+Hipátia | Hipácia;Hipátia de Alexandria | Hypatia | e
+Anaximandro | Anaximandro de Mileto | Anaximander | e
+Anaxímenes | Anaxímenes de Mileto | e
+Empédocles | e
+Zenão de Eleia | Zeno de Eleia | Zeno of Elea | Zenón de Elea | e
+Ludwig Feuerbach | Feuerbach | e
+Anaxágoras | Anaxágoras de Clazômenas | e
+Mikhail Bakhtin | Bakhtin | e
+Zenão de Cítio | Zenão de Citium;Zeno de Cítio | Zeno of Citium | Zenón de Citio | l
+Boécio |  | Boethius | l
+Guilherme de Ockham | Ockham;Guilherme de Occam;William of Ockham | l
+Averróis |  | Averroes | l
+Maimônides | l
+Anselmo de Cantuária | Santo Anselmo | Anselm of Canterbury | l
+Pedro Abelardo | Abelardo | Peter Abelard | l
+George Berkeley | Berkeley | l
+Johann Gottlieb Fichte | Fichte | l
+Henri Bergson | Bergson | l
+William James | l
+John Dewey | Dewey | l
+Maurice Merleau-Ponty | Merleau-Ponty | l
+Simone Weil | l
+Gottlob Frege | Frege | l
+John Rawls | Rawls | l
+Peter Singer | l
+Mêncio | Mengzi | Mencius | l
+Zhuangzi | Chuang Tzu | l
+José Ortega y Gasset | Ortega y Gasset | l
+Vilém Flusser | Flusser | l
+Farias Brito | Raimundo de Farias Brito | l
+Leucipo | Leucipo de Abdera | Leucippus | l
+Pierre Lévy | l
+Giorgio Agamben | Agamben | l
+Saul Kripke | Kripke | l
+Robert Nozick | Nozick | l
+Alvin Plantinga | Plantinga;Alvin Carl Plantinga | l
+Edmund Gettier | Gettier | l
+Benedito Nunes | l
+
+== his-invencoes | Cite uma invenção criada antes do ano 1900 | facil | invenções;tecnologia | https://pt.wikipedia.org/wiki/Cronologia_das_inven%C3%A7%C3%B5es
+@nota Vale objeto, máquina ou técnica inventada pelo ser humano até 1899. Não valem descobertas da natureza (elementos, leis, doenças) nem marcas.
+Roda |  | Wheel | Rueda | c
+Lâmpada incandescente | Lâmpada;Lâmpada elétrica | Light bulb | Bombilla | c
+Telefone |  | Telephone | Teléfono | c
+Prensa de tipos móveis | Prensa móvel;Prensa;Imprensa;Prensa de Gutenberg | Printing press | Imprenta | c
+Bússola |  | Compass | Brújula | c
+Pólvora |  | Gunpowder | c
+Papel |  | Paper | c
+Máquina a vapor | Motor a vapor | Steam engine | Máquina de vapor | c
+Automóvel | Carro | Car | c
+Óculos |  | Glasses | Gafas | c
+Telescópio |  | Telescope | c
+Bicicleta |  | Bicycle | c
+Fotografia | Câmera fotográfica;Máquina fotográfica | Photography | c
+Microscópio |  | Microscope | c
+Escrita |  | Writing | Escritura | c
+Relógio |  | Clock | Reloj | c
+Locomotiva a vapor | Locomotiva;Trem;Trem a vapor | Steam locomotive;Locomotive | Locomotora | c
+Telégrafo | Telegrafia;Telégrafo elétrico | Telegraph | c
+Pilha elétrica | Pilha;Bateria;Pilha de Volta;Pilha voltaica | Battery;Voltaic pile | Pila | i
+Para-raios | Para-raio | Lightning rod | Pararrayos | i
+Moeda |  | Coin | Moneda | i
+Alfabeto |  | Alphabet | i
+Fonógrafo | Gramofone | Phonograph;Gramophone | Gramófono | i
+Cinematógrafo | Cinema | Cinematograph | i
+Dinamite |  | Dynamite | Dinamita | i
+Balão de ar quente | Balão;Aeróstato | Hot air balloon | Globo aerostático | i
+Máquina de escrever |  | Typewriter | Máquina de escribir | i
+Vacina |  | Vaccine | Vacuna | i
+Palito de fósforo | Fósforo | Match | Cerilla | i
+Moinho de vento |  | Windmill | Molino de viento | i
+Catapulta |  | Catapult | i
+Canhão |  | Cannon | Cañón | i
+Arco e flecha |  | Bow and arrow | i
+Piano | i
+Termômetro |  | Thermometer | i
+Ábaco |  | Abacus | i
+Ampulheta | Relógio de areia | Hourglass | Reloj de arena | i
+Revólver | i
+Metralhadora |  | Machine gun | Ametralladora | i
+Astrolábio |  | Astrolabe | i
+Máquina de costura |  | Sewing machine | Máquina de coser | i
+Arado |  | Plough;Plow | i
+Relógio de sol | Relógio solar | Sundial | Reloj de sol | i
+Paraquedas |  | Parachute | Paracaídas | r
+Barômetro |  | Barometer | r
+Barco a vapor | Navio a vapor | Steamboat;Steamship | Barco de vapor | r
+Motor elétrico |  | Electric motor | Motor eléctrico | r
+Motor de combustão interna | Motor a combustão;Motor a explosão | Internal combustion engine | r
+Pasteurização |  | Pasteurization | r
+Zíper | Fecho ecler | Zipper | r
+Carrinho de mão | Carriola | Wheelbarrow | Carretilla | r
+Fogos de artifício |  | Fireworks | Fuegos artificiales | r
+Tesoura |  | Scissors | Tijeras | r
+Porcelana |  | Porcelain | r
+Daguerreótipo |  | Daguerreotype | r
+Estetoscópio |  | Stethoscope | r
+Motor a diesel | Motor diesel | Diesel engine | r
+Elevador |  | Elevator | Ascensor | r
+Sismógrafo | Sismoscópio | Seismograph | r
+Caneta-tinteiro |  | Fountain pen | Pluma estilográfica | r
+Alfinete de segurança | Alfinete de fralda | Safety pin | Imperdible | r
+Sextante |  | Sextant | e
+Estribo |  | Stirrup | e
+Pascalina | Máquina de Pascal | Pascaline | e
+Tear mecânico |  | Power loom | e
+Arame farpado |  | Barbed wire | Alambre de púas | e
+Pneu | Pneumático | Tire;Tyre | Neumático | e
+Submarino |  | Submarine | e
+Braille | Sistema braille | e
+Código Morse | Morse | Morse code | e
+Cronômetro marítimo |  | Marine chronometer | l
+Linotipo |  | Linotype | l
+Dínamo | Gerador elétrico | Dynamo | l
+Clepsidra | Relógio de água | Water clock | l
+Aqueduto |  | Aqueduct | Acueducto | l
+Cinetoscópio |  | Kinetoscope | l
+Descaroçador de algodão |  | Cotton gin | l
+
+== his-periodos | Cite um período ou era da história (do Brasil ou do mundo) | facil | períodos;cronologia | https://pt.wikipedia.org/wiki/Periodiza%C3%A7%C3%A3o_da_hist%C3%B3ria
+@nota Valem as divisões consagradas da história geral e da história do Brasil, inclusive as fases anteriores à escrita. Não valem guerras isoladas nem séculos genéricos.
+Idade Média | Medievo;Período medieval;Era Medieval | Middle Ages | Edad Media | c
+Pré-história |  | Prehistory | Prehistoria | c
+Idade Antiga | Antiguidade;Mundo Antigo | Antiquity;Ancient history | Edad Antigua | c
+Idade Moderna | Época Moderna |  | Edad Moderna | c
+Idade Contemporânea | Contemporaneidade |  | Edad Contemporánea | c
+Renascimento | Renascença;Renascentismo | Renaissance | Renacimiento | c
+Era Vargas | c
+Ditadura Militar | Regime Militar;Ditadura militar brasileira | c
+Idade da Pedra |  | Stone Age | Edad de Piedra | c
+Paleolítico | Idade da Pedra Lascada;Período Paleolítico | Paleolithic | c
+Neolítico | Idade da Pedra Polida;Período Neolítico | Neolithic | c
+Idade dos Metais |  | Metal Age | Edad de los Metales | c
+Brasil Colônia | Brasil Colonial;Período Colonial;Colônia | c
+Império do Brasil | Brasil Império;Brasil Imperial;Período Imperial | c
+República Velha | Primeira República;República Oligárquica;República do Café com Leite | c
+Estado Novo | i
+Nova República | Redemocratização | i
+Primeiro Reinado | i
+Segundo Reinado | i
+Período Regencial | Regência;Período das Regências | i
+Grandes Navegações | Era dos Descobrimentos;Descobrimentos;Expansão Marítima | Age of Discovery | i
+Revolução Industrial |  | Industrial Revolution | Revolución Industrial | i
+Iluminismo | Século das Luzes;Ilustração;Era das Luzes | Enlightenment;Age of Enlightenment | Ilustración | i
+Idade do Bronze |  | Bronze Age | Edad del Bronce | i
+Idade do Ferro |  | Iron Age | Edad del Hierro | i
+Belle Époque | Bela Época | i
+República Populista | Período Populista;República de 46 | r
+Antiguidade Clássica | Era Clássica | Classical antiquity | Antigüedad clásica | r
+Era Vitoriana |  | Victorian era | Época victoriana | r
+Idade do Cobre | Calcolítico | Copper Age;Chalcolithic | Edad del Cobre | r
+Mesolítico | Epipaleolítico | Mesolithic | r
+Período Entreguerras | Entreguerras | Interwar period | r
+República da Espada | r
+União Ibérica | Domínio Espanhol;Dinastia Filipina | Iberian Union | Unión Ibérica | r
+Período Pré-cabralino | Pré-cabralino;Brasil Pré-cabralino;História Pré-Cabralina | r
+Período Helenístico | Helenismo | Hellenistic period | r
+Antigo Regime |  | Ancien Régime | Antiguo Régimen | r
+Era Napoleônica | Período Napoleônico | Napoleonic era | r
+Era Viking |  | Viking Age | r
+Alta Idade Média |  | Early Middle Ages | Alta Edad Media | r
+Baixa Idade Média |  | Late Middle Ages | Baja Edad Media | r
+Período Joanino | Brasil Joanino | r
+Ciclo do Ouro | Ciclo da Mineração | r
+Ciclo da Cana-de-Açúcar | Ciclo do Açúcar;Ciclo da Cana | r
+Ciclo do Café | r
+Período Pré-Colonial | Pré-Colonial | r
+Era Pré-colombiana | Pré-colombiano;Período Pré-colombiano | Pre-Columbian era | e
+Antiguidade Tardia |  | Late Antiquity | Antigüedad tardía | e
+Proto-história |  | Protohistory | e
+Milagre Econômico | Milagre Brasileiro | e
+Era Elisabetana | Período Elisabetano;Era Isabelina | Elizabethan era | e
+Anos Loucos | Loucos Anos 20 | Roaring Twenties | Felices años veinte | e
+Ciclo da Borracha | e
+Era Meiji | Período Meiji | Meiji era | l
+Período Edo | Xogunato Tokugawa | Edo period | l
+Período Sengoku |  | Sengoku period | l
+Período dos Estados Combatentes | Período dos Reinos Combatentes;Reinos Combatentes;Estados Combatentes | Warring States period | l
+Período Arcaico | Grécia Arcaica | Archaic Greece | l
+Período Homérico |  | Homeric Greece | l
+Período Clássico | Grécia Clássica | Classical Greece | l
+
+== his-segunda-guerra | Cite um líder político ou militar da Segunda Guerra Mundial | facil | segunda guerra;líderes | https://en.wikipedia.org/wiki/Allied_leaders_of_World_War_II
+@nota Vale chefe de Estado ou de governo, ministro, dirigente do regime ou comandante militar de qualquer país envolvido, com atuação entre 1939 e 1945.
+Adolf Hitler | Hitler;Adolfo Hitler | c
+Winston Churchill | Churchill | c
+Josef Stalin | Stalin;Estaline;Joseph Stalin | c
+Benito Mussolini | Mussolini | c
+Franklin Roosevelt | Roosevelt;Franklin Delano Roosevelt;Franklin D. Roosevelt;FDR | c
+Hirohito | Imperador Hirohito | c
+Getúlio Vargas | Getúlio;Vargas | c
+Charles de Gaulle | De Gaulle;General de Gaulle | c
+Dwight Eisenhower | Eisenhower;Ike;Dwight D. Eisenhower | i
+Harry Truman | Truman;Harry S. Truman | i
+Douglas MacArthur | MacArthur;General MacArthur | i
+Erwin Rommel | Rommel;Raposa do Deserto | i
+George Patton | Patton;General Patton;George S. Patton | i
+Bernard Montgomery | Montgomery;Marechal Montgomery;Monty | i
+Hideki Tojo | Tojo | i
+Heinrich Himmler | Himmler | i
+Hermann Göring | Göring;Goering;Hermann Goering | i
+Joseph Goebbels | Goebbels | i
+Philippe Pétain | Pétain;Marechal Pétain | i
+Chiang Kai-shek | Chiang | i
+Mao Tsé-Tung | Mao;Mao Zedong | i
+Isoroku Yamamoto | Yamamoto;Almirante Yamamoto | i
+Gueorgui Júkov | Júkov;Zhukov;Georgy Zhukov;Georgi Jukov | r
+Eurico Gaspar Dutra | Dutra;Gaspar Dutra;General Dutra | r
+Rudolf Hess | Hess | r
+Karl Dönitz | Dönitz;Doenitz | r
+Neville Chamberlain | Chamberlain | r
+Chester Nimitz | Nimitz;Almirante Nimitz | r
+Josip Broz Tito | Tito;Marechal Tito | r
+Jorge VI | Rei Jorge VI;George VI | r
+Clement Attlee | Attlee | r
+Viatcheslav Molotov | Molotov;Vyacheslav Molotov | r
+Reinhard Heydrich | Heydrich | r
+Mascarenhas de Morais | Mascarenhas de Moraes;João Batista Mascarenhas de Morais;Marechal Mascarenhas;Marechal Mascarenhas de Moraes | r
+Joachim von Ribbentrop | Ribbentrop | e
+Omar Bradley | Bradley | e
+Mark Clark | Mark W. Clark | e
+Pietro Badoglio | Badoglio | e
+Wilhelm Keitel | Keitel | e
+Vidkun Quisling | Quisling | e
+Miklós Horthy | Horthy | e
+Carl Gustaf Mannerheim | Mannerheim;Carl Gustaf Emil Mannerheim | e
+Erich von Manstein | Manstein | e
+Heinz Guderian | Guderian | e
+Friedrich Paulus | Paulus;Von Paulus | e
+Albert Kesselring | Kesselring | e
+Louis Mountbatten | Mountbatten;Lorde Mountbatten | e
+Vítor Emanuel III | Vittorio Emanuele III;Vitor Emanuel | Victor Emmanuel III | l
+Galeazzo Ciano | Ciano;Conde Ciano | l
+Tomoyuki Yamashita | Yamashita;Tigre da Malásia | l
+Konstantin Rokossovski | Rokossovski;Rokossovsky | l
+Ivan Konev | Konev;Koniev | l
+Ion Antonescu | Antonescu | l
+Władysław Sikorski | Sikorski | l
+Haile Selassie | l
+William Mackenzie King | Mackenzie King | l
+John Curtin | Curtin | l
+Arthur Harris | Bomber Harris | l
+William Halsey | Halsey;Bull Halsey | l
+Fumimaro Konoe | Konoe | l
+
+== his-exploradores | Cite um navegador ou explorador da história (por terra ou por mar) | media | grandes navegações;exploradores | https://pt.wikipedia.org/wiki/Lista_de_exploradores
+@nota Vale quem liderou ou participou com destaque de viagens de exploração e descobrimento. Não valem astronautas.
+Pedro Álvares Cabral | Cabral;Pedro Cabral | c
+Cristóvão Colombo | Colombo | Christopher Columbus;Columbus | Cristóbal Colón;Colón | c
+Vasco da Gama | c
+Fernão de Magalhães | Magalhães | Ferdinand Magellan;Magellan | Fernando de Magallanes;Magallanes | c
+Américo Vespúcio | Vespúcio;Amerigo Vespucci | c
+Marco Polo | c
+Bartolomeu Dias | Bartolomeu Diaz | c
+James Cook | Capitão Cook | i
+Roald Amundsen | Amundsen | i
+Francis Drake | Drake | i
+Vicente Yáñez Pinzón | Vicente Pinzón;Pinzón | i
+Fernão Dias | Fernão Dias Pais;Fernão Dias Pais Leme;Caçador de Esmeraldas | i
+Raposo Tavares | Antônio Raposo Tavares | i
+Borba Gato | Manuel de Borba Gato | i
+Leif Ericson | Leif Eriksson;Leif Erikson | i
+Érico, o Vermelho | Erik, o Vermelho;Eric, o Vermelho | Erik the Red | i
+Amyr Klink | i
+Marechal Rondon | Cândido Rondon;Rondon;Cândido Mariano da Silva Rondon | i
+Robert Falcon Scott | Robert Scott;Capitão Scott | r
+Ernest Shackleton | Shackleton | r
+David Livingstone | Livingstone | r
+Henry Morton Stanley | Stanley | r
+Ibn Battuta | Ibne Batuta;Ibn Batuta | r
+Zheng He | r
+Juan Sebastián Elcano | Elcano;Sebastião Elcano;Juan Sebastián de Elcano | r
+Francisco de Orellana | Orellana | r
+Bartolomeu Bueno da Silva | Anhanguera | r
+Martim Afonso de Sousa | Martim Afonso | r
+Gil Eanes | Gil Eannes | r
+Diogo Cão | r
+Henry Hudson | Hudson | r
+Jacques Cartier | Cartier | r
+Gaspar de Lemos | r
+Hernán Cortés | Cortés;Fernão Cortês | r
+Francisco Pizarro | Pizarro | r
+Duarte Pacheco Pereira | Duarte Pacheco | e
+Abel Tasman | Tasman | e
+Vitus Bering | Bering | e
+Robert Peary | Peary | e
+Fridtjof Nansen | Nansen | e
+Willem Barentsz | Barentsz | e
+Alexander von Humboldt | Humboldt | e
+Samuel de Champlain | Champlain | e
+João Caboto | Giovanni Caboto;John Cabot | e
+Walter Raleigh | Raleigh | e
+Pedro Teixeira | e
+Fernão Mendes Pinto | Mendes Pinto | e
+Irmãos Villas-Bôas | Villas-Bôas;Orlando Villas-Bôas;Cláudio Villas-Bôas;Leonardo Villas-Bôas | e
+Pero da Covilhã | l
+Gaspar Corte-Real | Corte-Real | l
+Nicolau Coelho | l
+Meriwether Lewis | Lewis | l
+William Clark | l
+Richard Francis Burton | Richard Burton | l
+John Hanning Speke | Speke | l
+Mungo Park | l
+Hanão, o Navegador | Hanão;Hanno | Hanno the Navigator | l
+Píteas | Píteas de Massália | Pytheas | l
+Álvar Núñez Cabeza de Vaca | Cabeza de Vaca | l
+Hernando de Soto | l
+Pedro Fernandes de Queirós | Pedro Fernández de Quirós;Queirós | l
+Gonçalo Coelho | l
+
+== his-papas | Cite o nome adotado por um papa da Igreja Católica | media | igreja;papas;religião | https://pt.wikipedia.org/wiki/Lista_de_papas
+@nota Papas de mesmo nome contam como uma resposta só; vale digitar com ou sem o número. Antipapas não valem. Inclui o papa atual na data de atualização.
+@atualizadoEm 2026-11
+Francisco | Papa Francisco | Francis | c
+João Paulo | João Paulo II;João Paulo I;Papa João Paulo II | John Paul;John Paul II | Juan Pablo;Juan Pablo II | c
+Bento | Bento XVI;Benedito;Papa Bento XVI;Bento I;Bento II;Bento III;Bento IV;Bento V;Bento VI;Bento VII;Bento VIII;Bento IX;Bento XI;Bento XII;Bento XIII;Bento XIV;Bento XV | Benedict;Benedict XVI | Benedicto;Benedicto XVI | c
+Leão | Leão XIV;Leão XIII;Papa Leão XIV;Leão Magno;Leão I;Leão II;Leão III;Leão IV;Leão V;Leão VI;Leão VII;Leão VIII;Leão IX;Leão X;Leão XI;Leão XII | Leo;Leo XIV | León;León XIV | c
+Pedro | São Pedro | Peter;Saint Peter | San Pedro | c
+João | João XXIII;Papa João XXIII;João I;João II;João III;João IV;João V;João VI;João VII;João VIII;João IX;João X;João XI;João XII;João XIII;João XIV;João XV;João XVII;João XVIII;João XIX;João XXI;João XXII | John;John XXIII | Juan XXIII;Juan | c
+Paulo | Paulo VI;Papa Paulo VI;Paulo I;Paulo II;Paulo III;Paulo IV;Paulo V | Paul VI;Paul | Pablo VI;Pablo | c
+Pio | Pio XII;Pio IX;Papa Pio XII;Pio I;Pio II;Pio III;Pio IV;Pio V;Pio VI;Pio VII;Pio VIII;Pio X;Pio XI | Pius;Pius XII | c
+Gregório | Gregório Magno;Gregório XIII;Gregório I;Gregório II;Gregório III;Gregório IV;Gregório V;Gregório VI;Gregório VII;Gregório VIII;Gregório IX;Gregório X;Gregório XI;Gregório XII;Gregório XIV;Gregório XV;Gregório XVI | Gregory | i
+Clemente | Clemente I;Clemente II;Clemente III;Clemente IV;Clemente V;Clemente VI;Clemente VII;Clemente VIII;Clemente IX;Clemente X;Clemente XI;Clemente XII;Clemente XIII;Clemente XIV | Clement | i
+Inocêncio | Inocêncio I;Inocêncio II;Inocêncio III;Inocêncio IV;Inocêncio V;Inocêncio VI;Inocêncio VII;Inocêncio VIII;Inocêncio IX;Inocêncio X;Inocêncio XI;Inocêncio XII;Inocêncio XIII | Innocent | i
+Urbano | Urbano II;Urbano I;Urbano III;Urbano IV;Urbano V;Urbano VI;Urbano VII;Urbano VIII | Urban | i
+Alexandre | Alexandre VI;Alexandre I;Alexandre II;Alexandre III;Alexandre IV;Alexandre VII;Alexandre VIII | Alexander | Alejandro | i
+Bonifácio | Bonifácio I;Bonifácio II;Bonifácio III;Bonifácio IV;Bonifácio V;Bonifácio VI;Bonifácio VIII;Bonifácio IX | Boniface | i
+Júlio | Júlio II;Júlio I;Júlio III | Julius | i
+Sisto | Xisto;Sisto IV;Sisto I;Sisto II;Sisto III;Sisto V | Sixtus | Sixto | i
+Adriano | Adriano I;Adriano II;Adriano III;Adriano IV;Adriano V;Adriano VI | Adrian;Hadrian | i
+Nicolau | Nicolau I;Nicolau II;Nicolau III;Nicolau IV;Nicolau V | Nicholas | Nicolás | i
+Estêvão | Estêvão I;Estêvão II;Estêvão III;Estêvão IV;Estêvão V;Estêvão VI;Estêvão VII;Estêvão VIII;Estêvão IX | Stephen | Esteban | i
+Martinho | Martinho I;Martinho IV;Martinho V | Martin | i
+Celestino | Celestino I;Celestino II;Celestino III;Celestino IV;Celestino V | Celestine | i
+Silvestre | Silvestre I;Silvestre II;Silvestre III | Sylvester;Silvester | i
+Marcelo | Marcelo I;Marcelo II | Marcellus | r
+Honório | Honório I;Honório II;Honório III;Honório IV | Honorius | r
+Eugênio | Eugênio I;Eugênio II;Eugênio III;Eugênio IV | Eugene | r
+Calisto | Calisto I;Calisto II;Calisto III;Calixto I;Calixto II;Calixto III | Callixtus;Callistus | Calixto | r
+Lino |  | Linus | r
+Félix | Félix I;Félix III;Félix IV | r
+Sérgio | Sérgio I;Sérgio II;Sérgio III;Sérgio IV | Sergius | r
+Lúcio | Lúcio I;Lúcio II;Lúcio III | Lucius | r
+Anastácio | Anastácio I;Anastácio II;Anastácio III;Anastácio IV | Anastasius | Anastasio | r
+Dâmaso | Dâmaso I;Dâmaso II | Damasus | r
+Marcelino |  | Marcellinus | r
+Cornélio |  | Cornelius | r
+Fabiano |  | Fabian | r
+Zacarias |  | Zachary | r
+Marcos |  | Mark | r
+Vítor | Vítor I;Vítor II;Vítor III | Victor | e
+Teodoro | Teodoro I;Teodoro II | Theodore | e
+Constantino |  | Constantine | e
+Formoso |  | Formosus | e
+Romano |  | Romanus | e
+Pelágio | Pelágio I;Pelágio II | Pelagius | e
+Anacleto | Cleto | Anacletus;Cletus | e
+Valentino |  | Valentine | e
+Pascoal | Pascoal I;Pascoal II | Paschal | Pascual | e
+Dionísio |  | Dionysius | e
+Caio |  | Caius | Cayo | e
+Eusébio |  | Eusebius | e
+Agapito | Agapito I;Agapito II | Agapetus | e
+Gelásio | Gelásio I;Gelásio II | Gelasius | e
+Evaristo |  | Evaristus | l
+Aniceto |  | Anicetus | l
+Sotero | l
+Eleutério |  | Eleutherius | l
+Zeferino |  | Zephyrinus | l
+Telésforo |  | Telesphorus | l
+Higino |  | Hyginus | l
+Ponciano |  | Pontian | l
+Antero |  | Anterus | l
+Eutiquiano |  | Eutychian | l
+Melquíades | Milcíades | Miltiades | l
+Libério |  | Liberius | l
+Sirício |  | Siricius | l
+Zósimo |  | Zosimus | l
+Hilário |  | Hilarius | l
+Simplício |  | Simplicius | l
+Símaco |  | Symmachus | l
+Hormisda |  | Hormisdas | l
+Silvério |  | Silverius | l
+Vigílio |  | Vigilius | l
+Sabiniano |  | Sabinian | l
+Adeodato | Deodato;Deusdedito;Adeodato I;Adeodato II | Adeodatus;Deusdedit | l
+Severino |  | Severinus | l
+Vitaliano |  | Vitalian | l
+Dono |  | Donus | l
+Agatão |  | Agatho | Agatón | l
+Cónon | l
+Sisínio |  | Sisinnius | l
+Marinho | Marino;Marinho I;Marinho II | Marinus | l
+Lando |  | Landus | l
+
+== his-independencias | Cite um líder da independência de um país | dificil | independência;libertadores | https://en.wikipedia.org/wiki/List_of_national_founders
+@nota Vale quem liderou, política ou militarmente, o processo de independência de um país, de qualquer época. Não vale quem só governou depois.
+Dom Pedro I | Pedro I;Dom Pedro;D. Pedro I | c
+Simón Bolívar | Bolívar;Simão Bolívar | c
+George Washington | Washington | c
+Mahatma Gandhi | Gandhi;Mohandas Gandhi;Gandi | c
+José Bonifácio | José Bonifácio de Andrada e Silva;Patriarca da Independência | c
+José de San Martín | San Martín | i
+Ho Chi Minh | i
+Thomas Jefferson | Jefferson | i
+Benjamin Franklin | Franklin | i
+Bernardo O'Higgins | O'Higgins | i
+Jawaharlal Nehru | Nehru | i
+José Martí | Martí | i
+Miguel Hidalgo | Padre Hidalgo;Hidalgo;Miguel Hidalgo y Costilla | i
+Agostinho Neto | i
+Samora Machel | i
+Mustafa Kemal Atatürk | Atatürk;Mustafa Kemal | i
+John Adams | i
+Antonio José de Sucre | Sucre;Marechal Sucre | r
+Toussaint Louverture | Toussaint L'Ouverture;Louverture | r
+Jean-Jacques Dessalines | Dessalines | r
+Amílcar Cabral | r
+Eduardo Mondlane | Mondlane | r
+José Artigas | José Gervasio Artigas;Artigas | r
+Francisco de Miranda | r
+Kwame Nkrumah | Nkrumah | r
+Jomo Kenyatta | Kenyatta | r
+Patrice Lumumba | Lumumba | r
+Sukarno | Soekarno | r
+David Ben-Gurion | Ben-Gurion | r
+Muhammad Ali Jinnah | Jinnah;Ali Jinnah | r
+William Wallace | Wallace | r
+Afonso Henriques | D. Afonso Henriques;Dom Afonso Henriques;Afonso I de Portugal | r
+José María Morelos | Morelos | e
+Ahmed Ben Bella | Ben Bella | e
+Máximo Gómez | e
+Michael Collins | e
+Éamon de Valera | De Valera | e
+Lorde Cochrane | Thomas Cochrane;Cochrane | e
+Roberto I da Escócia | Robert the Bruce;Roberto de Bruce;Robert Bruce | e
+Francisco de Paula Santander | Santander | e
+Samuel Adams | e
+Xanana Gusmão | Xanana | e
+Robert Mugabe | Mugabe | e
+Juan Antonio Lavalleja | Lavalleja | l
+Carlos Manuel de Céspedes | Céspedes | l
+Antonio Maceo | Maceo | l
+Juana Azurduy | l
+Julius Nyerere | Nyerere | l
+Kenneth Kaunda | Kaunda | l
+Habib Bourguiba | Bourguiba | l
+Sam Nujoma | Nujoma | l
+Emilio Aguinaldo | Aguinaldo | l
+Tomáš Masaryk | Masaryk | l
+Józef Piłsudski | Pilsudski | l
+Gonçalves Ledo | Joaquim Gonçalves Ledo | l
+Vytautas Landsbergis | Landsbergis | l
+
+== his-cidades-ruinas | Cite uma cidade antiga hoje abandonada ou em ruínas | media | arqueologia;antiguidade | https://en.wikipedia.org/wiki/Lost_city
+@nota Vale cidade antiga abandonada cujas ruínas hoje são sítio arqueológico, mesmo que exista povoação moderna ao lado ou com o mesmo nome. Não valem cidades habitadas sem interrupção até hoje, nem templos ou monumentos isolados.
+Pompeia | Pompeios | Pompeii | Pompeya | c
+Machu Picchu | Machu Pichu | c
+Troia | Ílion | Troy | Troya | c
+Cartago |  | Carthage | c
+Babilônia | Babel | Babylon | c
+Petra | c
+Chichén Itzá | c
+Teotihuacan | i
+Herculano |  | Herculaneum | i
+Angkor | Angkor Thom | i
+Éfeso |  | Ephesus | i
+Persépolis | i
+Palmira |  | Palmyra | i
+Tikal | i
+Nínive |  | Nineveh | i
+Ur | i
+Micenas |  | Mycenae | i
+Mênfis |  | Memphis | r
+Cnossos |  | Knossos | r
+Mohenjo-daro | Moenjodaro | r
+Uruk | Uruque;Erech | r
+Caral | Caral-Supe | r
+Chan Chan | r
+Choquequirao | r
+Tiwanaku | Tiauanaco;Tiahuanaco | r
+Óstia Antiga | Óstia | Ostia Antica | r
+Léptis Magna | r
+Ctesifonte |  | Ctesiphon | r
+Tulum | r
+Hatusa | Hattusa;Hattusas | e
+Amarna | Tell el-Amarna;Aquetáton;Akhetaton | e
+Ninrude | Nimrud;Calá;Calah | e
+Çatalhüyük | Çatal Hüyük | e
+Ebla | e
+Mari | e
+Harappa | Harapa | e
+Palenque | e
+Copán | e
+Grande Zimbábue | Grande Zimbabwe | Great Zimbabwe | e
+Pasárgada |  | Pasargadae | e
+Conímbriga | e
+Xanadu | Shangdu | e
+Ciudad Perdida | Teyuna | e
+Uxmal | e
+Monte Albán | e
+Mileto |  | Miletus | e
+Volubilis | l
+Timgad | l
+Hatra | l
+Ugarit | l
+Assur | l
+Meroé | l
+Itálica | l
+Numância |  | Numantia | l
+Merv | l
+Cahokia | l
+Calakmul | l
+El Tajín | Tajín | l
+Caracol | l
+Lothal | l
+Afrodísias |  | Aphrodisias | l
+Ani | l
+Gedi | l
+
+== his-brasil-imperio | Cite um personagem da história do Brasil Império (1822 a 1889) | media | brasil;império;monarquia | https://pt.wikipedia.org/wiki/Imp%C3%A9rio_do_Brasil
+@nota Vale quem teve atuação política, militar ou social de destaque no Brasil nesse período, inclusive na Independência. Não valem escritores e artistas lembrados só pela obra. Governantes de mesmo nome contam como uma resposta só.
+Dom Pedro | Dom Pedro I;Dom Pedro II;Pedro I;Pedro II;D. Pedro I;D. Pedro II | c
+Princesa Isabel | Isabel;Isabel, a Redentora;Isabel do Brasil | c
+Maria Leopoldina | Leopoldina;Imperatriz Leopoldina;Leopoldina da Áustria | c
+José Bonifácio | José Bonifácio de Andrada e Silva | c
+Duque de Caxias | Caxias;Luís Alves de Lima e Silva | c
+Marquesa de Santos | Domitila de Castro;Domitila | c
+Barão de Mauá | Visconde de Mauá;Mauá;Irineu Evangelista de Sousa | c
+Joaquim Nabuco | Nabuco | c
+Deodoro da Fonseca | Marechal Deodoro;Deodoro | c
+Teresa Cristina | Imperatriz Teresa Cristina;Teresa Cristina de Bourbon | i
+Floriano Peixoto | Floriano;Marechal Floriano;Marechal de Ferro | i
+José do Patrocínio | i
+Luís Gama | Luiz Gama | i
+André Rebouças | Rebouças | i
+Rui Barbosa | Ruy Barbosa | i
+Bento Gonçalves | Bento Gonçalves da Silva | i
+Giuseppe Garibaldi | Garibaldi | i
+Anita Garibaldi | Anita;Ana Maria de Jesus Ribeiro | i
+Diogo Antônio Feijó | Diogo Feijó;Regente Feijó;Padre Feijó;Feijó | i
+Conde d'Eu | Gastão de Orléans;Gaston de Orléans | i
+Frei Caneca | Joaquim do Amor Divino Caneca | i
+Maria Quitéria | i
+Almirante Tamandaré | Marquês de Tamandaré;Tamandaré;Joaquim Marques Lisboa | i
+General Osório | Manuel Luís Osório;Marquês do Herval;Osório | r
+Almirante Barroso | Francisco Manuel Barroso da Silva;Barão do Amazonas | r
+Benjamin Constant | Benjamin Constant Botelho de Magalhães | r
+Quintino Bocaiúva | r
+Amélia de Leuchtenberg | Imperatriz Amélia;Amélia de Beauharnais;Dona Amélia | r
+Dragão do Mar | Francisco José do Nascimento;Chico da Matilde | r
+Marquês do Paraná | Honório Hermeto Carneiro Leão;Honório Hermeto | r
+Visconde de Ouro Preto | Afonso Celso de Assis Figueiredo | r
+Barão de Cotegipe | Cotegipe;João Maurício Wanderley | r
+Marquês de Olinda | Pedro de Araújo Lima;Araújo Lima | r
+Bernardo Pereira de Vasconcelos | Bernardo de Vasconcelos | e
+Francisco de Lima e Silva | Barão de Barra Grande | e
+Cipriano Barata | e
+Evaristo da Veiga | e
+Francisco Sabino | Sabino;Francisco Sabino Vieira | e
+Eduardo Angelim | e
+Zacarias de Góis e Vasconcelos | Zacarias de Góis | e
+Chalaça | Francisco Gomes da Silva | e
+Silva Jardim | Antônio da Silva Jardim | e
+Eusébio de Queirós | Eusébio de Queiroz | e
+Visconde do Rio Branco | José Maria da Silva Paranhos | e
+Teófilo Otoni | Teófilo Ottoni | e
+Joana Angélica | Sóror Joana Angélica | e
+Cosme Bento | Negro Cosme;Cosme Bento das Chagas | l
+Marquês de Barbacena | Felisberto Caldeira Brant Pontes | l
+Visconde de Cairu | José da Silva Lisboa;Cairu | l
+Gonçalves Ledo | Joaquim Gonçalves Ledo | l
+Visconde do Uruguai | Paulino José Soares de Sousa | l
+
+== his-conquistadores | Cite um general, conquistador ou líder militar da Antiguidade ou da Idade Média | media | guerra;antiguidade;idade média | https://www.historynet.com/100-greatest-generals.htm
+@nota Vale quem comandou exércitos até o ano 1500, inclusive reis e chefes que lideraram as próprias tropas. Não valem imperadores romanos (já têm pergunta própria).
+Alexandre, o Grande | Alexandre;Alexandre Magno;Alexandre III da Macedônia | Alexander the Great | Alejandro Magno | c
+Júlio César | César;Caio Júlio César | Julius Caesar | c
+Aníbal | Aníbal Barca | Hannibal | c
+Átila | Átila, o Huno | Attila | c
+Gengis Khan | Gêngis Cã | Genghis Khan | c
+Saladino |  | Saladin | c
+Carlos Magno |  | Charlemagne | Carlomagno | c
+Leônidas | Leônidas I;Rei Leônidas | c
+Joana d'Arc | Joana Darc | Joan of Arc | Juana de Arco | c
+Espártaco | Spartacus | i
+Ricardo Coração de Leão | Ricardo I;Ricardo I de Inglaterra | Richard the Lionheart | Ricardo Corazón de León | i
+William Wallace | Wallace | i
+Marco Antônio |  | Mark Antony | i
+Ciro, o Grande | Ciro;Ciro II | Cyrus the Great | Ciro el Grande | i
+Xerxes | Xerxes I |  | Jerjes | i
+Dario | Dario I;Dario, o Grande;Dario III | Darius;Darius the Great | i
+Sun Tzu | Sunzi;Sun Zi | i
+Ramsés | Ramsés II;Ramessés II;Ramessés | i
+Kublai Khan | Cublai Cã;Kublai Cã | i
+Vlad, o Empalador | Vlad III;Vlad Drácula;Vlad Tepes;Drácula | Vlad the Impaler | i
+Guilherme, o Conquistador | Guilherme I de Inglaterra;Guilherme I da Inglaterra | William the Conqueror | i
+El Cid | Cid;Rodrigo Díaz de Vivar;El Cid Campeador | i
+Pompeu | Pompeu Magno;Cneu Pompeu | Pompey | i
+Vercingetórix | i
+Tamerlão | Timur | Tamerlane | Tamerlán | r
+Nuno Álvares Pereira | Nuno Álvares;Santo Condestável;Nun'Álvares | r
+Afonso Henriques | Dom Afonso Henriques;Afonso I de Portugal | r
+Viriato |  | Viriathus | r
+Boudica | Boadiceia;Boudicca | Boadicea | r
+Pirro | Pirro de Épiro | Pyrrhus | r
+Carlos Martel |  | Charles Martel | r
+Alarico | Alarico I | Alaric | r
+Cipião Africano | Cipião;Públio Cornélio Cipião;Públio Cornélio Cipião Africano | Scipio Africanus | r
+Temístocles |  | Themistocles | r
+Péricles | r
+Filipe II da Macedônia | Filipe da Macedônia;Filipe II | Philip II of Macedon | r
+Nabucodonosor | Nabucodonosor II | Nebuchadnezzar | r
+Godofredo de Bulhão | Godofredo de Bouillon | Godfrey of Bouillon | r
+Belisário |  | Belisarius | e
+Armínio | Arminius;Hermann | e
+Genserico |  | Genseric | e
+Clóvis | Clóvis I | e
+Caio Mário | Mário | Gaius Marius | e
+Sula | Lúcio Cornélio Sula;Sila | Sulla | e
+Crasso | Marco Licínio Crasso | Crassus | e
+Agripa | Marco Vipsânio Agripa | Agrippa | e
+Amílcar Barca |  | Hamilcar Barca | e
+Tárique | Tárique ibn Ziade;Tariq ibn Ziyad;Tárique ibne Ziade | e
+Sargão da Acádia | Sargão, o Grande;Sargão;Sargão I | Sargon of Akkad | e
+Tutmés | Tutmés III;Tutemés;Tutemés III;Tutemósis III;Tutmósis III | e
+Zenóbia | e
+Maomé II | Mehmed II;Mehmed, o Conquistador | Mehmed the Conqueror | e
+Eduardo, o Príncipe Negro | Príncipe Negro | Edward the Black Prince | e
+Henrique V | Henrique V de Inglaterra | Henry V | e
+Roberto I da Escócia | Robert the Bruce;Roberto, o Bruce | e
+Alexandre Nevski |  | Alexander Nevsky | e
+Ashoka | Asoka;Açoca | e
+Epaminondas | l
+Teodorico, o Grande | Teodorico | Theodoric the Great | l
+Odoacro |  | Odoacer | l
+Baibars |  | Baybars | l
+Subutai | Subedei;Subotai | l
+Calide ibne Ualide | Khalid ibn al-Walid | l
+Skanderbeg | Escanderbeg;Jorge Castriota | l
+Jan Žižka | Žižka | l
+Cao Cao | l
+Pachacútec | Pachacuti | l
+Sundiata Keita | Sundiata | l
+Chandragupta Máuria | Chandragupta | l
