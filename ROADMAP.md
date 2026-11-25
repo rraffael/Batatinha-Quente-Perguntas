@@ -109,11 +109,30 @@ Feita em lotes, sempre com backup → planejamento → pesquisa → auditoria �
 | **Total** | **157** | **300** | **143** |
 
 - [x] Lote 1: esportes, exterior, historia (aplicado em 24/11/2026: +32 perguntas, +2.866 respostas, com revisão das existentes)
-- [ ] Lote 2: ciencia, cinema-tv, corpo-saude, futebol-br
-- [ ] Lote 3: games, marcas-empresas, musica-internacional, novelas-tv-br, profissoes
-- [ ] Lote 4: animais, anime-desenho, lingua-portuguesa, mitologia-religiao
-- [ ] Lote 5: musica-br, objetos-casa, comida-bebida, geografia
-- [ ] Revisão das respostas existentes dos temas de cada lote (erros, ambiguidades e faltas), no mesmo lote
+- [ ] Lote 2, em **modo rodada** (ver `docs/banco/PROCESSO.md`), com os 17 temas restantes; estado em `trabalho-banco/lote-2/ESTADO.md`
+  - [ ] Fase 1: planejar todos os temas
+  - [ ] Fase 2: checar o plano (uma vez para todos)
+  - [ ] Fase 3: pesquisar e consolidar, um tema por vez (inclui listas e revisor das existentes)
+    - [ ] ciencia (piloto: auditado logo, sem aplicar)
+    - [ ] cinema-tv
+    - [ ] corpo-saude
+    - [ ] futebol-br
+    - [ ] games
+    - [ ] marcas-empresas
+    - [ ] musica-internacional
+    - [ ] novelas-tv-br
+    - [ ] profissoes
+    - [ ] animais
+    - [ ] anime-desenho
+    - [ ] lingua-portuguesa
+    - [ ] mitologia-religiao
+    - [ ] musica-br
+    - [ ] objetos-casa
+    - [ ] comida-bebida
+    - [ ] geografia
+  - [ ] Fase 4: auditoria e deduplicação final, em blocos de 2 ou 3 temas
+  - [ ] Fase 5: conferência, simulação, amostra e aplicação
+  - [ ] Fase 6: refazer o que falhou (num lote seguinte), até nada falhar
 
 ## Fase 7 — Fechamento ⬜
 
@@ -129,4 +148,4 @@ Feita em lotes, sempre com backup → planejamento → pesquisa → auditoria �
 2. Fases 3 e 4 juntas: os briefings citam os scripts e vice-versa.
 3. Fase 5 só com as fases 3 e 4 prontas; os ajustes dela entram antes da Fase 6.
 4. Fase 6 lote a lote: cada lote termina com o banco validado e um backup, para retomar com segurança.
-   Os temas de um mesmo lote podem ser pesquisados em paralelo; a deduplicação e a aplicação são sempre sequenciais.
+   Os papéis de pesquisa de um lote podem rodar em paralelo; a deduplicação e a aplicação são sempre sequenciais.

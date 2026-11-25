@@ -123,9 +123,27 @@ Detalhes por etapa:
 
 ### Escala, paralelismo e cota
 
-- Um lote junta de 3 a 5 temas.
 - O auditor e o deduplicador cuidam de um lote inteiro, ou dividem por temas se o lote for grande.
 - O orquestrador para de disparar agentes quando a cota de 5 horas passar de 70%, e retoma pelo `ESTADO.md`.
+
+### Modo rodada (padrão a partir do lote 2, decidido em 24/11/2026)
+
+Um lote só com muitos temas, mas executado em fases, para gerir a cota e pegar sobreposição entre temas:
+
+1. **Planejar todos os temas** (barato): planejadores em grupos de temas → `plano/`.
+2. **Checar o plano uma vez para todos**: `dedup.mjs <lote> plano` + um deduplicador, comparando cada
+   pergunta com o banco inteiro **e com os planos dos outros temas** → `plano-aprovado/`.
+3. **Pesquisar e consolidar um tema por vez** (o caro). Entre um tema e outro dá para parar.
+   O `consolidar.mjs` roda sobre o lote inteiro; os `[POUCAS]`/"só 0 respostas" dos temas ainda não
+   pesquisados são esperados — só os do tema atual precisam zerar.
+   - **Piloto:** o primeiro tema pesquisado é auditado logo (sem aplicar), para achar erro de
+     método cedo. Os ajustes que surgirem valem para os temas seguintes.
+4. **Com todos consolidados**: auditoria e deduplicação final, em blocos de 2 ou 3 temas por agente.
+5. **Conferência, simulação, amostra e aplicação** do lote.
+6. **O que falhou volta ao passo 3**, só para o que falhou, num lote seguinte.
+   - **Falha** = pergunta nova com menos de 25 respostas aprovadas, alerta que bloqueia ou erro do
+     validador. A pergunta que falhar sai do lote com `--` e vai para o próximo.
+   - **Linha rejeitada pelo auditor não é falha**: fica fora e não volta para pesquisa.
 
 ---
 

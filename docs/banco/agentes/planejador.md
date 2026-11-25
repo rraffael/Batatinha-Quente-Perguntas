@@ -20,7 +20,8 @@ Rode `node scripts/banco/cobertura.mjs` para ver quantas faltam por tema.
 4. Escreva `# universo:` (fechado com N itens, ou aberto com uma estimativa) e `# não sobrepõe:`
    (quais perguntas existentes chegam perto e por que esta é diferente).
 5. A `@nota` só existe se houver zona cinzenta, e **nunca cita respostas**. Nem o texto nem a nota
-   podem conter uma resposta válida.
+   podem conter uma resposta válida. A nota aparece na tela do jogo: **nunca ponha URL nela**.
+   Fontes complementares vão numa linha `# fontes complementares: <url> <url>`.
 6. Equilibre dificuldades: cerca de 40% fácil, 40% média e 20% difícil. Prefira assuntos que
    brasileiros de várias idades jogariam com amigos.
 
